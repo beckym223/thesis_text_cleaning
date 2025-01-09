@@ -15,8 +15,8 @@ CURRENT_BRANCH=$(git branch --show-current)
 # Generate a unique branch name
 BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
 
-# Create and switch to the new branch
-git checkout -b "$BRANCH_NAME"
+# Create and switch to the new branch, setting its upstream to the current branch
+git checkout -b "$BRANCH_NAME" --track "$CURRENT_BRANCH"
 
 # Run the specified Python cleaning script
 python "$PYTHON_SCRIPT" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" true
