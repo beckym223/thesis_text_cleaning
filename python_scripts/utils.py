@@ -1,7 +1,37 @@
 import os
 import subprocess
 import logging
-from typing import Optional
+from typing import Optional, Any, Callable
+import shutil
+import functools
+
+
+def setup_logging(log_file):
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler(log_file),
+            logging.StreamHandler()
+        ]
+    )
+    logging.info("Logging initialized.")
+
+def initialize_directories(source_dir: str, dest_dir: str):
+    """
+    Copies the contents of the source directory to the destination directory.
+    Deletes the destination directory first if it already exists.
+    """
+    try:
+        if os.path.exists(dest_dir):
+            logging.info(f"Removing existing directory: {dest_dir}")
+            shutil.rmtree(dest_dir)
+        logging.info(f"Copying contents from {source_dir} to {dest_dir}")
+        shutil.copytree(source_dir, dest_dir)
+    except Exception as e:
+        logging.error(f"Failed to initialize directories: {e}")
+        raise
+
 
 def git_commit(path: str, message: Optional[str] = None) -> None:
     """
@@ -44,3 +74,34 @@ def git_commit(path: str, message: Optional[str] = None) -> None:
     except ValueError as e:
         logging.error(str(e))
         raise
+
+def commit(_func=None,
+           commit_default = False,
+           commit_msg=None,
+           commit_path_arg:Optional[int|str]="dir_path",
+           default_path:str = "./",
+           *args:list, **kwargs:dict[str,Any]):
+    def decorator_commit(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            cm = commit_msg if commit_msg is not None else "default message"
+            to_commit = kwargs.pop("commit_changes",commit_default)
+            result = func(*args, **kwargs)
+
+            if to_commit:
+                path_to_commit = (args[commit_path_arg] 
+                                  if isinstance(commit_path_arg,int) 
+                                  else kwargs.get(commit_path_arg,default_path)) #type:ignore
+                git_commit(path_to_commit,commit_msg)
+                return result
+            else:
+                print("Nothing to commit")
+        return wrapper
+            
+
+    if _func is None:
+        return decorator_commit
+    else:
+        return decorator_commit(_func)
+
+
