@@ -6,8 +6,6 @@ from text_cleaning import *
 from constants import E3_FOOT_LINES
 
 def handle_first_page(file:str, text:str)->str:
-# Until 1912: can look for first time with two lines with 3 or more lowercase
-#1912 on: take up to and including line with entire lowercase word
     disc,year,num,pagetxt = file.split("-")
     lines = text.split("\n")
     line_num = 0
