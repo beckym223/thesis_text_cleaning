@@ -38,6 +38,8 @@ if [ $? -eq 0 ]; then
         if git diff --quiet "$CURRENT_BRANCH" "$BRANCH_NAME"; then
             # Log the absence of differences
             echo "$(date +'%Y-%m-%d %H:%M:%S') - No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made." >> "$LOG_FILE"
+            echo "Pipeline Run completed successfully"
+            echo "No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made, deleting $BRANCH_NAME."
 
             # Clean up the temporary branch
             git checkout "$CURRENT_BRANCH"
