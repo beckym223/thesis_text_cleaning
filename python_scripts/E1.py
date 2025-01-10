@@ -57,6 +57,8 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     initialize_directories(source_dir,dest_dir,commit_changes)
 
+    remove_files(dest_dir,is_first_page,commit_changes)
+
     clean_text_files(dest_dir,commit_changes)
 
     handle_line_breaks_across_pages(dest_dir,commit_changes=True)
