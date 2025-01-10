@@ -77,7 +77,7 @@ def git_commit(path: str, message: Optional[str] = None) -> None:
 
 def commit(_func:Optional[Callable]=None,
            to_commit_default = False,
-           to_commit_arg:int|str="commit_changes",
+           to_commit_arg:int|str=-1,
            commit_msg=None,
            commit_path_arg:int|str="dir_path",
            default_path:str = "./",
