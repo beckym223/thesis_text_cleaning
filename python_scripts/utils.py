@@ -5,7 +5,37 @@ from typing import Optional, Any, Callable,Concatenate
 import shutil
 import functools
 
+def commit(_func:Optional[Callable]=None,
+           to_commit_default = False,
+           to_commit_arg:int|str=-1,
+           commit_msg:Optional[str]=None,
+           commit_path_arg:int|str="dir_path",
+           default_path:str = "./",
+           *args:list, **kwargs:dict[str,Any]):
+    def decorator_commit(func:Callable):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            cm = kwargs.get("commit_msg",commit_msg)
+            to_commit = (args[to_commit_arg] 
+                                  if isinstance(to_commit_arg,int) 
+                                  else kwargs.get(to_commit_arg,to_commit_default))
+            result = func(*args, **kwargs)
 
+            if to_commit:
+                path_to_commit = (args[commit_path_arg] 
+                                  if isinstance(commit_path_arg,int) 
+                                  else kwargs.get(commit_path_arg,default_path))
+                git_commit(path_to_commit,cm)
+                return result
+            else:
+                print("Nothing to commit")
+        return wrapper
+            
+
+    if _func is None:
+        return decorator_commit
+    else:
+        return decorator_commit(_func)
 def setup_logging(log_file):
     logging.basicConfig(
         level=logging.INFO,
@@ -17,7 +47,8 @@ def setup_logging(log_file):
     )
     logging.info("Logging initialized.")
 
-def initialize_directories(source_dir: str, dest_dir: str):
+@commit(commit_msg="Initializing directories")
+def initialize_directories(source_dir: str, dest_dir: str,commit_changes:bool):
     """
     Copies the contents of the source directory to the destination directory.
     Deletes the destination directory first if it already exists.
@@ -75,37 +106,7 @@ def git_commit(path: str, message: Optional[str] = None) -> None:
         logging.error(str(e))
         raise
 
-def commit(_func:Optional[Callable]=None,
-           to_commit_default = False,
-           to_commit_arg:int|str=-1,
-           commit_msg=None,
-           commit_path_arg:int|str="dir_path",
-           default_path:str = "./",
-           *args:list, **kwargs:dict[str,Any]):
-    def decorator_commit(func:Callable):
-        @functools.wraps(func)
-        def wrapper(*args, **kwargs):
-            cm = kwargs.get("commit_msg",commit_msg)
-            to_commit = (args[to_commit_arg] 
-                                  if isinstance(to_commit_arg,int) 
-                                  else kwargs.get(to_commit_arg,to_commit_default))
-            result = func(*args, **kwargs)
 
-            if to_commit:
-                path_to_commit = (args[commit_path_arg] 
-                                  if isinstance(commit_path_arg,int) 
-                                  else kwargs.get(commit_path_arg,default_path))
-                git_commit(path_to_commit,cm)
-                return result
-            else:
-                print("Nothing to commit")
-        return wrapper
-            
-
-    if _func is None:
-        return decorator_commit
-    else:
-        return decorator_commit(_func)
     
 def apply_func_to_txt_dir(source_dir:str,
                           dest_dir:str,
