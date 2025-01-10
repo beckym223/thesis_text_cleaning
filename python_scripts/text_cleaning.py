@@ -69,7 +69,7 @@ def fix_dash_errors(text:str)->str:
                       r"\1\2\3\n", #removes dash and moves line break
                       text)
     new_text_lines_stripped=[line.strip() for line in new_text.split('\n')] #remove any extra leading or trailing whitespace
-    return "\n".join(new_text_lines_stripped) #join lines back together
+    return "\n".join(new_text_lines_stripped).strip() #join lines back together
 
 @commit(commit_msg="Fixed dash errors between lines")
 def fix_dash_errors_in_dir(dir_path,commit_changes):
