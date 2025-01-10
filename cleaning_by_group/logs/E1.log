@@ -1,2 +1,18 @@
 2025-01-09 16:41:12,650 - INFO - Logging initialized.
 2025-01-09 16:41:12,650 - INFO - Copying contents from /Users/BeckyMarcusMacbook/Thesis/TextCleaning/data/groups/E1/texts to /Users/BeckyMarcusMacbook/Thesis/TextCleaning/clean_text/E1
+2025-01-09 16:41:12,727 - INFO - Committed changes from ./ with message: 'Initializing directories'
+2025-01-09 16:41:12,729 - INFO - Deleting trailing line: '2' in file: Economics-1888-0-11.txt
+2025-01-09 16:41:12,731 - INFO - Deleting trailing line: '3' in file: Economics-1889-0-17.txt
+2025-01-09 16:41:12,732 - INFO - Deleting trailing line: ''For the order of exercises at this opening session see pages 60-61.' in file: Economics-1889-0-24.txt
+2025-01-09 16:41:12,787 - INFO - Committed changes from /Users/BeckyMarcusMacbook/Thesis/TextCleaning/clean_text/E1 with message: 'Basic processing and line removal'
+2025-01-09 16:41:12,788 - INFO - Merged line break between Economics-1888-0-10.txt and Economics-1888-0-11.txt
+2025-01-09 16:41:12,789 - INFO - Merged line break between Economics-1888-0-15.txt and Economics-1888-0-16.txt
+2025-01-09 16:41:12,789 - INFO - Merged line break between Economics-1888-0-19.txt and Economics-1888-0-20.txt
+2025-01-09 16:41:12,789 - INFO - Merged line break between Economics-1889-0-02.txt and Economics-1889-0-03.txt
+2025-01-09 16:41:12,789 - INFO - Merged line break between Economics-1889-0-03.txt and Economics-1889-0-04.txt
+2025-01-09 16:41:12,790 - INFO - Merged line break between Economics-1889-0-04.txt and Economics-1889-0-05.txt
+2025-01-09 16:41:12,790 - INFO - Merged line break between Economics-1889-0-05.txt and Economics-1889-0-06.txt
+2025-01-09 16:41:12,790 - INFO - Merged line break between Economics-1889-0-08.txt and Economics-1889-0-09.txt
+2025-01-09 16:41:12,791 - INFO - Merged line break between Economics-1889-0-16.txt and Economics-1889-0-17.txt
+2025-01-09 16:41:12,791 - INFO - Merged line break between Economics-1889-0-17.txt and Economics-1889-0-18.txt
+2025-01-09 16:41:12,791 - INFO - Merged line break between Economics-1889-0-18.txt and Economics-1889-0-19.txt
