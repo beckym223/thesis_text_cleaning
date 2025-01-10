@@ -76,22 +76,25 @@ def git_commit(path: str, message: Optional[str] = None) -> None:
         raise
 
 def commit(_func:Optional[Callable]=None,
-           commit_default = False,
+           to_commit_default = False,
+           to_commit_arg:int|str="commit_changes",
            commit_msg=None,
-           commit_path_arg:Optional[int|str]="dir_path",
+           commit_path_arg:int|str="dir_path",
            default_path:str = "./",
            *args:list, **kwargs:dict[str,Any]):
     def decorator_commit(func:Callable):
         @functools.wraps(func)
         def wrapper(*args, **kwargs):
             cm = kwargs.get("commit_msg",commit_msg)
-            to_commit = kwargs.get("commit_changes",commit_default)
+            to_commit = (args[to_commit_arg] 
+                                  if isinstance(to_commit_arg,int) 
+                                  else kwargs.get(to_commit_arg,to_commit_default))
             result = func(*args, **kwargs)
 
             if to_commit:
                 path_to_commit = (args[commit_path_arg] 
                                   if isinstance(commit_path_arg,int) 
-                                  else kwargs.get(commit_path_arg,default_path)) #type:ignore
+                                  else kwargs.get(commit_path_arg,default_path))
                 git_commit(path_to_commit,cm)
                 return result
             else:
