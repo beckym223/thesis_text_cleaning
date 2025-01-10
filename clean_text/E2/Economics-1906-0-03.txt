@@ -2,20 +2,20 @@ In considering these questions I shall have in mind
 primarily the kind of person described in our books as the
 " captain of industry"; the manager of large affairs, the
 successful man. The qualities which this sort of person
-must possess, and the nature of the operations he con-
-ducts, have been abundantly discussed in recent eco-
-nomic literature. But more has been said of the things
+must possess, and the nature of the operations he conducts,
+have been abundantly discussed in recent economic
+literature. But more has been said of the things
 that he does than of the motives that lead him to
 do them. The desire for wealth which actuates him is, as
 Cliffe Leslie long ago remarked, not a simple motive, but
 a very complex one, made up of all sorts of differing
 passions and instincts. In trying to analyze him I confess
-to have something of the feeling which the natural-
-ist must have when called on to examine and classify an
+to have something of the feeling which the naturalist
+must have when called on to examine and classify an
 ichthyosaurus or a megatherium, a huge and elaborate
 monster, doubtless very terrible in the real world, and
-not to be dissected even in the scholar's laboratory with-
-out fear and trembling. Yet deliberate examination
+not to be dissected even in the scholar's laboratory without
+fear and trembling. Yet deliberate examination
 may be expected to show that, however strange on first
 inspection, and however striking as a species by himself,
 this remarkable sort of person partakes of the general
@@ -33,5 +33,5 @@ in our problem. We all wish abundant and varied food,
 ample clothing, sufficient house room, opportunity for
 recreation, and other resources of prosperous living. The
 wide diffusion of such physical comfort, and the extent
-to which the arts must advance before a satisfactory aver-
-age can be secured, constitute the problem of production
+to which the arts must advance before a satisfactory average
+can be secured, constitute the problem of production
