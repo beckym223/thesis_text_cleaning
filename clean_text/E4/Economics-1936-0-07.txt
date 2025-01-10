@@ -8,24 +8,24 @@ a new epoch in the relation of government to business.
 Along with this development went the growth of the rather elusive
 movement known as "Institutionalism," which means so many different
 things to so many different people that doubt has arisen whether it has
-any definable meaning at all. It covers certain fields of study, such as Veb-
-len's evolutionary theories and the investigations of legal institutions by
+any definable meaning at all. It covers certain fields of study, such as Veblen'
+s evolutionary theories and the investigations of legal institutions by
 Ely and Commons. But it may be more important as an underlying point
 of view orienting many different kinds of specific studies and lending
 changed significance to the day-to-day routine operations of the business
-system. It may be that we cannot fully understand these day-to-day opera-
-tions without understanding them as parts of an evolutionary movement
+system. It may be that we cannot fully understand these day-to-day operations
+without understanding them as parts of an evolutionary movement
 going back before the present forms of property rights and containing
 forces destined to make the present forms obsolete. This is something
 vastly different from the nineteenth century conception of progress within
 an institutional framework which was expected to remain fixed because
 it had found its final terminus in the system of individualism and free
 contract, modified only by piecemeal control of specific abuses.
-Another major development of late years is that of mathematical eco-
-nomics, using new and powerful techniques and bringing its results in touch
+Another major development of late years is that of mathematical economics,
+using new and powerful techniques and bringing its results in touch
 with quantitative verification. The recent founding of the Econometric
-Society is a landmark in this movement. It faces great and inherent diffi-
-culties in the framing of assumptions simple enough to lend themselves
+Society is a landmark in this movement. It faces great and inherent difficulties
+in the framing of assumptions simple enough to lend themselves
 to mathematical formulas yet flexible enough to grapple effectively with
 the problems of dynamic economics. Even the measurement of a demand
 schedule for a manufactured product is a surprisingly baffling problem.
@@ -35,8 +35,8 @@ Much has been done lately by mathematical and quantitative methods
 with the theory of general price levels and their changes. Here the most
 notable recent contributions have come from the other side of the water;
 but all appear to be in a decidedly controversial stage at present. Another
-subject recently attacked by mathematical methods, both here and in Eng-
-land, is imperfect competition. The results so far are of great interest;
+subject recently attacked by mathematical methods, both here and in England,
+is imperfect competition. The results so far are of great interest;
 but they illustrate the difficulty already mentioned, of framing usable
 assumptions adequate to interpreting the complexities of actual conditions.
 The time element in demand and supply schedules is particularly baffling,

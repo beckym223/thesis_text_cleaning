@@ -1,11 +1,11 @@
 In this way the theory of imperfect competition has forced economists to
-pay serious and searching attention to the definition of the conditions nec-
-essary to perfect competition-something which had previously been strange-
-ly neglected. The same principle applies to the theory of marginal pro-
-ductivity, in whose mathematical implications some renewed interest has
-lately been shown by mathematico-quantitative investigators. One may an-
-ticipate a considerable development and refinement of this theory in follow-
-ing out the different ways and degrees in which the underlying principle
+pay serious and searching attention to the definition of the conditions necessary
+to perfect competition-something which had previously been strangely
+neglected. The same principle applies to the theory of marginal productivity,
+in whose mathematical implications some renewed interest has
+lately been shown by mathematico-quantitative investigators. One may anticipate
+a considerable development and refinement of this theory in following
+out the different ways and degrees in which the underlying principle
 applies to different kinds of concrete situations.
 Negative criticism did not drive out "orthodoxy" from the field of
 theory, partly because nature abhors a vacuum-if such a pre-scientific
@@ -14,8 +14,8 @@ that other fields of study expanded enormously and drew more and more
 apart from the central core of theory. These special fields involved much
 factual study and had their own special histories, and were constantly
 dealing with problems of expanding governmental action. In this way
-American economics was approaching more closely to the character an-
-nounced in the early manifesto of the Economic Association. With the
+American economics was approaching more closely to the character announced
+in the early manifesto of the Economic Association. With the
 entry of this country into the World War, interest in negative theoretical
 criticism was overshadowed by more urgent positive needs.
 Positive Inquiry of Diverse Types
@@ -25,8 +25,8 @@ way. First, and perhaps most characteristic, was the quantitative analysis
 of economic behavior, with its chief interest centered on the problem of
 economic fluctuations.
 This branch of study had previously been regarded as hardly respectable
-for a scientific economist to take seriously, owing largely to three handi-
-caps. One was the lack of adequate statistical material. This left the study
+for a scientific economist to take seriously, owing largely to three handicaps.
+One was the lack of adequate statistical material. This left the study
 of booms and depressions in the realm of speculative theories, and the
 assumptions underlying them necessarily ran counter to the preconceptions
 of the dominant equilibrium theory, and hence were worse than suspect
