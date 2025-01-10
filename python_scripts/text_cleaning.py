@@ -89,3 +89,15 @@ def jstor_and_stripping(text:str)->str:
 
 def is_first_page(filename:str)->bool:
     return "00.txt" in filename
+
+@commit(commit_msg="Removed footnote lines")
+def remove_footnote_lines(dir_path:str,foot_dict:dict[str,int],commit_changes):
+    for file, first_foot_line in foot_dict.items():
+        try:
+            path = os.path.join(dir_path,file)
+            text = open(path,'r').read()
+            kept_lines = text.splitlines()[:first_foot_line]
+            with open(path,'w') as f:
+                f.write("\n".join(kept_lines).strip())
+        except Exception as e:
+            logging.error(f"Exception when removing footnote lines with file {file}: {e}")
