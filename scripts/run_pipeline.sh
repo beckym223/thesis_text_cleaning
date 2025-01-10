@@ -56,8 +56,8 @@ read -p "Do you want to merge and clean up now? (y/n): " user_input
 # Check if the user typed 'y'
 if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
     # Run the merge and cleanup script immediately
-    ./script/cleanup.sh "$BRANCH_NAME"
+    ./scripts/cleanup.sh "$BRANCH_NAME"
 else
     # Print instructions for manual merge and cleanup
-    echo "After reviewing changes, run 'scripts/merge_and_cleanup.sh $BRANCH_NAME' to merge changes and delete the temporary branch."
+    echo "After reviewing changes, run 'scripts/cleanup.sh $BRANCH_NAME' to merge changes and delete the temporary branch."
 fi
