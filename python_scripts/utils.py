@@ -48,7 +48,7 @@ def setup_logging(log_file):
     )
     logging.info("Logging initialized.")
 
-@commit(commit_msg="Initializing directories")
+@commit(commit_msg="Initializing directories",commit_path_arg=1)
 def initialize_directories(source_dir: str, dest_dir: str,commit_changes:bool):
     """
     Copies the contents of the source directory to the destination directory.
