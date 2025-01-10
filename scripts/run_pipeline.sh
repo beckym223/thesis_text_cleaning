@@ -30,7 +30,17 @@ if [ $? -eq 0 ]; then
 else
     # Preserve the branch for debugging
     echo "Pipeline run failed. Changes remain in branch: $BRANCH_NAME"
-    echo "Switch back to the original branch with 'git checkout $CURRENT_BRANCH' to continue work."
+    read -p "Do you want to delete this branch? (y/n): " user_input
+
+    
+    if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
+        # Run the merge and cleanup script immediately
+        git checkout $CURRENT_BRANCH
+        git branch -d $BRANCH_NAME
+
+    else   
+        echo "Switch back to the original branch with 'git checkout $CURRENT_BRANCH' to continue work."
+    fi
     exit 1
 fi
 
