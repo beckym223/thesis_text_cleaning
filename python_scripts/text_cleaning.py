@@ -8,7 +8,7 @@ from utils import commit, apply_func_to_txt_dir
 @commit(commit_msg="Removed files")
 def remove_files(dir_path: str,
                  decision_function:Callable[[str],bool],
-                 commit_changes=False
+                 commit_changes:bool,
                   ):
     """
     Removes files with page 0 from the directory.
@@ -29,7 +29,7 @@ def remove_files(dir_path: str,
         raise
 
 @commit(commit_msg='Handled line breaks between pages')
-def handle_line_breaks(dir_path: str):
+def handle_line_breaks_across_pages(dir_path: str,commit_changes:bool):
     """
     Fixes line breaks across pages by merging broken words from consecutive files.
     """
@@ -72,7 +72,7 @@ def fix_dash_errors(text:str)->str:
     return "\n".join(new_text_lines_stripped) #join lines back together
 
 @commit(commit_msg="Fixed dash errors between lines")
-def fix_dash_errors_in_dir(dir_path,**commit_kwargs):
+def fix_dash_errors_in_dir(dir_path,commit_changes):
     try:
         apply_func_to_txt_dir(dir_path,dir_path,fix_dash_errors)
     except Exception as e:
