@@ -8,4 +8,3 @@ PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/python_scripts/${NA
 
 # Call the common script
 /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT"
-/Users/BeckyMarcusMacbook/Thesis/TextCleaning/python_scripts/E1.py
