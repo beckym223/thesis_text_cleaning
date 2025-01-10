@@ -5,6 +5,7 @@ import itertools as it
 import logging
 from utils import *
 from text_cleaning import *
+from constants import E2_FOOT_LINES
 
 
 def clean_text_files(dir_path: str,commit_changes:bool):
@@ -61,9 +62,12 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     clean_text_files(dest_dir,commit_changes)
 
+    fix_dash_errors_in_dir(dest_dir,commit_changes)
+
+    remove_footnote_lines(dest_dir,E2_FOOT_LINES,commit_changes)
+    
     handle_line_breaks_across_pages(dest_dir,commit_changes=True)
 
-    fix_dash_errors_in_dir(dest_dir,commit_changes)
     # Run the cleaning steps
 
 
