@@ -74,7 +74,7 @@ else
     if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
         # Run the merge and cleanup script immediately
         git checkout $CURRENT_BRANCH
-        git branch -d $BRANCH_NAME
+        git branch -D $BRANCH_NAME
 
     else   
         echo "Switch back to the original branch with 'git checkout $CURRENT_BRANCH' to continue work."
