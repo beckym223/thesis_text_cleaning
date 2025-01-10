@@ -61,10 +61,6 @@ if [ $? -eq 0 ]; then
             git commit -m "Pipeline run completed on $BRANCH_NAME"
             echo "Pipeline run completed. Changes committed to branch: $BRANCH_NAME"
         fi
-    # Commit changes to the new branch
-    git add "$DEST_DIR/."
-    git commit -m "Pipeline run completed on $BRANCH_NAME"
-    echo "Pipeline run completed. Changes committed to branch: $BRANCH_NAME"
 else
     # Preserve the branch for debugging
     echo "Pipeline run failed. Changes remain in branch: $BRANCH_NAME"
