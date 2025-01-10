@@ -33,7 +33,7 @@ def clean_text_files(dir_path: str,commit_changes:bool):
 
                 if page != 1:
                     lines = lines[1:]
-                    if len(lines[-1]) == 1 or (year == '1889' and page == 24):
+                    if len(lines[-1]) <3 or (year == '1889' and page == 24):
                         logging.info(f"Deleting trailing line: '{lines[-1]}' in file: {file}")
                         lines = lines[:-1]
                 elif year == '1888':
