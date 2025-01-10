@@ -1,4 +1,4 @@
-tween the large and the small ;states. That the Vinton method
+the large and the small ;states. That the Vinton method
 has a tendency, slight but persistent, to over-represent the large
 states is demonstrable. The tendency may be illustrated by the
 difference between the results of the two methods applied to 357
