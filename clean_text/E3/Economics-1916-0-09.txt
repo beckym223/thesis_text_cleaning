@@ -4,21 +4,21 @@ minor fractions. In preparing the second set of tables the divisors
 were successive multiples of 500. But a change of 500 in the
 divisor did not regularly change the number of representatives by
 one. Often no change, often a chanige of two, occasionally one
-of three appeared, and in only one third of the cases did the re-
-sults of successive tables differ by one representative. Of the two
+of three appeared, and in only one third of the cases did the results
+of successive tables differ by one representative. Of the two
 numbers of representatives most considered by Congress, 357 and
-386, the former being the existing number and the latter the small-
-est number under which no state would lose a representative,
+386, the former being the existing number and the latter the smallest
+number under which no state would lose a representative,
 neither occurred in the second series of tables, following the
 method of major fractions. Nevertheless, in its decision Congress
 showed indirectly but convincingly its preference for that method,
 by selecting the Vinton table for 384 members and adding two
 representatives for major fractions which, in the table, received no
 such consideration. Evidently Congress needed a series of tables
-meeting two requirements, each table apportioning one more rep-
-resentative than its predecessor and every maj or fraction en-
-titling the state where it occurred to an additional representa-
-tive; had sought to meet these conditions by translating the results
+meeting two requirements, each table apportioning one more representative
+than its predecessor and every maj or fraction entitling
+the state where it occurred to an additional representative;
+had sought to meet these conditions by translating the results
 of the Vinton method into those of the method of major fractions;
 and to do so had broken with the principle on which the Vinton
 method rests.
@@ -28,9 +28,9 @@ York State's population of nine million 1.5 times. Under the
 method of major fractions a divisor of six million would assign
 New York two members and every other state one. Let the divisor
 be reduced unit by unit and each of the series of quotients will
-slowly increase; when the divisor falls to about five million, the quo-
-tient for Pennsylvania rises above 1.5 and that state becomes en-
-titled to a second representative. Let the divisor continue to fall;
+slowly increase; when the divisor falls to about five million, the quotient
+for Pennsylvania rises above 1.5 and that state becomes entitled
+to a second representative. Let the divisor continue to fall;
 at about three and three fourths million Illinois becomes entitled
 to a second representative, and at three and two thirds million
 New York becomes entitled to a third. By continuing this process
