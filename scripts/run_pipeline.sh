@@ -19,6 +19,13 @@ if [ ! -f "$LOG_FILE" ]; then
     touch "$LOG_FILE"
 fi
 
+# Check for unstaged changes in the current branch
+if [ -n "$(git status --porcelain)" ]; then
+    echo "$(date +'%Y-%m-%d %H:%M:%S') - Unstaged changes detected in the current branch. Aborting pipeline run." >> "$LOG_FILE"
+    echo "Error: Unstaged changes detected in the current branch. Please commit or stash your changes before running the pipeline."
+    exit 1
+fi
+
 # Get the current branch \n----PIPELINE RUN AT 
 CURRENT_BRANCH=$(git branch --show-current)
 
