@@ -10,7 +10,7 @@ def commit(_func:Optional[Callable]=None,
            to_commit_default = False,
            to_commit_arg:int|str=-1,
            commit_msg:Optional[str]=None,
-           commit_path_arg:int|str=1,
+           commit_path_arg:int|str=0,
            default_path:str = "./",
            *args:list, **kwargs:dict[str,Any]):
     def decorator_commit(func:Callable):
