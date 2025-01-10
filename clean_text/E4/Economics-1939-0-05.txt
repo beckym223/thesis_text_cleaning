@@ -1,18 +1,18 @@
 of capital formation in securing at each point in this ascending income scale
-fairly full employment of the productive resources and therefore the maxi-
-mum income possible under the then prevailing level of technological de-
-velopment. For it is an indisputable fact that the prevailing economic system
+fairly full employment of the productive resources and therefore the maximum
+income possible under the then prevailing level of technological development.
+For it is an indisputable fact that the prevailing economic system
 has never been able to reach reasonably full employment or the attainment
-of its currently realizable real income without making large investment ex-
-penditures. The basis for this imperious economic necessity has been thor-
-oughly explored in the last half century in the great literature beginning with
-Tougan-Baranowsky and Wicksell on saving and investment. I shall not at-
-tempt any summary statement of this analysis. Nor is this necessary; for I
+of its currently realizable real income without making large investment expenditures.
+The basis for this imperious economic necessity has been thoroughly
+explored in the last half century in the great literature beginning with
+Tougan-Baranowsky and Wicksell on saving and investment. I shall not attempt
+any summary statement of this analysis. Nor is this necessary; for I
 take it that it is accepted by all schools of current economic thought that full
 employment and the maximum currently attainable income level cannot be
-reached in the modern free enterprise economy without a volume of invest-
-ment expenditures adequate to fill the gap between consumption expendi-
-tures and that level of income which could be achieved were all the factors
+reached in the modern free enterprise economy without a volume of investment
+expenditures adequate to fill the gap between consumption expenditures
+and that level of income which could be achieved were all the factors
 employed. In this somewhat truistic statement I hope I have succeeded in
 escaping a hornets' nest of economic controversy.
 Thus we may postulate a consensus on the thesis that in the absence of a
@@ -21,12 +21,12 @@ the productive resources is essentially a function of the vigor of investment
 activity. Less agreement can be claimed for the role played by the rate of
 interest on the volume of investment. Yet few there are who believe that in
 a period of investment stagnation an abundance of loanable funds at low
-rates of interest is alone adequate to produce a vigorous flow of real invest-
-ment. I am increasingly impressed with the analysis made by Wicksell who
-stressed the prospective rate of profit on new investment as the active, domi-
-nant, and controlling factor, and who viewed the rate of interest as a
-passive factor, lagging behind the profit rate. This view is moreover in ac-
-cord with competent business judgment." It is true that it is necessary to
+rates of interest is alone adequate to produce a vigorous flow of real investment.
+I am increasingly impressed with the analysis made by Wicksell who
+stressed the prospective rate of profit on new investment as the active, dominant,
+and controlling factor, and who viewed the rate of interest as a
+passive factor, lagging behind the profit rate. This view is moreover in accord
+with competent business judgment." It is true that it is necessary to
 look beyond the mere cost of interest charges to the indirect effect of the
 interest rate structure upon business expectations. Yet all in all, I venture to
 assert that the role of the rate of interest as a determinant of investment has
@@ -34,6 +34,6 @@ occupied a place larger than it deserves in our thinking. If this be granted,
 we are forced to regard the factors which underlie economic progress as the
 dominant determinants of investment and employment.
 A growth in real investment may take the form either of a deepening of
-capital or of a widening of capital, as Hawtrey has aptly put it. The deepen-
-ing process means that more capital is used per unit of output, while the
+capital or of a widening of capital, as Hawtrey has aptly put it. The deepening
+process means that more capital is used per unit of output, while the
 widening process means that capital formation grows pari passu with the

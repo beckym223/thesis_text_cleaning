@@ -13,8 +13,8 @@ social historians, as well as the political scientists, are beginning to make
 of statistics, or at least in the demand for training which will enable
 them to check quantitatively their descriptive studies.
 L. P. Namier's recent book on the structure of English politics at the
-accession of George III is an example of this use of statistics. Despair-
-ing of gaining fresh insights from the accustomed sources, such as the
+accession of George III is an example of this use of statistics. Despairing
+of gaining fresh insights from the accustomed sources, such as the
 gouty bon mots of Ihorace Walpole's letters, or the acrid outcries against
 the nabobs, or the mutual diatribes of parties against the corruption
 practised by opponents, Mr. Namier undertook the compilationa of a
@@ -22,15 +22,15 @@ card-index containing the fullest details, especially from local records,
 family and local correspondence, concerning every member of the House
 of Commons from 1760 to 1783. After years of this minute inquiry,
 he has published this notable initial study. His text is shot through
-with numerical tests of such problems as the extent of aristocratic in-
-fluence upon the representative system, or how much voting power was
-exerted by the new wealthy class, or the weight of the Crown and Ad-
-ministration in elections, or the supposedly prevalent corruption of the
+with numerical tests of such problems as the extent of aristocratic influence
+upon the representative system, or how much voting power was
+exerted by the new wealthy class, or the weight of the Crown and Administration
+in elections, or the supposedly prevalent corruption of the
 electorate.
-As each generation thus rewrites its history of the past-a pro-
-ceeding necessary because of defective records and because of the shifts
-in selective interest and in the configuration of contemporary biases-
-some of the gaps in the record become partially filled. But no amount
+As each generation thus rewrites its history of the past-a proceeding
+necessary because of defective records and because of the shifts
+in selective interest and in the configuration of contemporary biasessome
+of the gaps in the record become partially filled. But no amount
 of research or tenable conjecture can eke out the most serious silences
 of our sources. This is particularly true in certain fields of economic
 bistory. Such institutional structures as the open field system, the
@@ -39,5 +39,5 @@ customary regulations or external legislation, have, like the skeletal
 forms of zo6logical species, deposited their fossils in the historical strata.
 But the more dynamic elements, like the vital organs and the nervous
 system, have tended to disappear. We can with considerable accuracy
-reconstruct these economic institutions in what we may term their skele-
-tal form; but how and why they came into being, what animating forces
+reconstruct these economic institutions in what we may term their skeletal
+form; but how and why they came into being, what animating forces

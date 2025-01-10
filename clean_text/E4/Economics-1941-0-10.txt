@@ -8,9 +8,9 @@ If criticism of objectivity in the social sciences were confined to Sombart,
 Wagner, and other advocates of the supreme state, it would perhaps carry
 little weight with us. But men who speak with authority for the social
 sciences and for scientific method, and whose interests and motives are not
-o,pen to question, have recently challenged social scientists on this funda-
-mental issue. Charles A. Beard cites "the state of uncertainty and per-
-plexity reigning in the very midst of the so-called objective school" as proof
+o,pen to question, have recently challenged social scientists on this fundamental
+issue. Charles A. Beard cites "the state of uncertainty and perplexity
+reigning in the very midst of the so-called objective school" as proof
 that "the old assumptions of absolute neutrality no longer satisfy the human
 spirit." He believes that the idea of a value-free, objective social science is
 an illusion. Julian Huxley notes "the entanglement of social science with
@@ -26,8 +26,8 @@ There is an issue here that we may not lightly dismiss. The two extreme
 positions may be briefly suggested. At one limit stands an "objectivity"
 that is oblivious to ends, purposes, relative values, that puts all observations
 on the same dead level of importance, or unimportance, that conceives the
-work of the scientist to be done when he has investigated something, any-
-thing, by tidily arranging all data that might bear on it. It is bloodless, cold,
+work of the scientist to be done when he has investigated something, anything,
+by tidily arranging all data that might bear on it. It is bloodless, cold,
 dispassionate, and utterly meaningless. At the other limit, every scholar uses
 his own yardstick of relative values. These values lie beyond all testing
 and questioning, but they furnish, for the individual to whom they have
