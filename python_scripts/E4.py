@@ -77,7 +77,30 @@ def is_page_to_remove(file:str)->bool:
     page=int(pagetxt[:-4])
     return page==0 or ('1933-1' in file and page>=9)
     
-
+def handle_last_page_authors(dest_dir:str,commit_changes:bool):
+    try:
+        last_pages:list[str] = []
+        files = sorted(os.listdir(dest_dir))
+        for i,file in enumerate(files):
+            if '01' in file and i!=0:
+                last_pages.append(files[i-1])
+        for page in last_pages:
+            try:
+                path = os.path.join(dest_dir,page)
+                text = open(path,'r').read()
+                lines = text.split("\n")
+                for line in lines[::-1]:
+                    found = re.search(r"[A-Z\.\s]{5,}",line)
+                    if found is not None:
+                        new_page = text.rsplit(found.string,1)[0].strip()
+                        with open(path,'w') as f:
+                            f.write(new_page)
+            except:
+                logging.error(f"Error finding author in file {last_pages}")
+        if commit_changes:
+            git_commit(dest_dir, "Removed author name on last page")
+    except Exception as e:
+        logging.error(f"Exception when removing last page authors: {e}")
 def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     setup_logging(log_file)
@@ -87,6 +110,8 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
     remove_files(dest_dir,is_page_to_remove,commit_changes)
 
     clean_headers_footers(dest_dir,commit_changes)
+
+    handle_last_page_authors(dest_dir,commit_changes)
 
     remove_footnote_lines(dest_dir,E4_FOOT_LINES,commit_changes)
 
