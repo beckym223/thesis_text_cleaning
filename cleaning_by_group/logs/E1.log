@@ -17,3 +17,4 @@
 2025-01-09 16:41:12,791 - INFO - Merged line break between Economics-1889-0-17.txt and Economics-1889-0-18.txt
 2025-01-09 16:41:12,791 - INFO - Merged line break between Economics-1889-0-18.txt and Economics-1889-0-19.txt
 2025-01-09 16:41:12,861 - INFO - Committed changes from ./ with message: 'Handled line breaks between pages'
+2025-01-09 16:41:12,927 - INFO - Committed changes from ./ with message: 'Fixed dash errors between lines'
