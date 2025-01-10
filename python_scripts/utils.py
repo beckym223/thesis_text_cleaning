@@ -4,6 +4,7 @@ import logging
 from typing import Optional, Any, Callable,Concatenate
 import shutil
 import functools
+from time import gmtime, strftime
 
 def commit(_func:Optional[Callable]=None,
            to_commit_default = False,
@@ -39,6 +40,8 @@ def commit(_func:Optional[Callable]=None,
 def setup_logging(log_file):
     if not os.path.exists(log_file):
         os.makedirs(os.path.dirname(log_file))
+    with open(log_file,'a') as f:
+        f.write(f"\n----PIPELINE RUN AT {strftime('%Y-%m-%d %H:%M:%S', gmtime())}----")
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
