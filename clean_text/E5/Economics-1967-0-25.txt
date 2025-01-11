@@ -1,40 +1,4 @@
-we consider reasonable on the basis of empirical research, with wide
-applicability and fruitfulness and with great simplicity. The compro-
-mise among these goals that we accept is, admittedly, a somewhat
-"subjective" standard of selection, but perfectly in line with the stan-
-dard accepted in all scientific fields. Concessions to any one of these
-desiderata must be at the expense of the others.
-Let us list some of the alternative maximanda that have been sug-
-gested and are available for our choice: Total quasi-rents over a short
-period of time (But how short? This is good only for a freshman
-course); total quasi-rents during the service-life of existing fixed assets
-(But is a replaceable part of a machine a fixed asset? This works only
-for a one-hoss shay); present value of all profits (after taxes) ex-
-pected in the future, discounted at a "normal" or "competitive" rate;
-internal rate of return to equity; equity of controlling stockholders;
-present values of retained earnings; growth rate of equity; gross rate
-of total assets; growth rate of gross revenue (sales); gross revenue
-(sales), if net revenues (profits) are satisfactory (over what period of
-time?); salaries, bonuses, and other accruals (including services in
-kind) to management, over their entire lives; all accruals to manage-
-ment plus expenditure for staff personnel, compatible with minimum
-profits; all accruals to management, consistent with satisfactory
-profits and gradually rising prices of corporate stock; and, of course,
-the present values of the various combinations of flows mentioned.
-Surely a much longer list could be prepared, but there is no use to
-this. The point should be clear: profit maximization proper may mean
-a variety of things-several entries apply to money profits-and in ad-
-dition there are a few other maximanda of possible relevance. Inciden-
-tally, if profits or accruals to stockholders are not explicitly included
-in some of the entries, let no one believe that they are really out of the
-picture. No management could try to maximize its own accruals in the
-long run if it completely disregarded the interests of the stockholders.
-Hence, all maximanda are subject to the constraint of some minimum
-benefits to the owners of the business in the form of dividends, capital
-gains, or both."3
-Subjective Information and the Charge of Tautology
-I have a few remaining tasks, and one of them is to lay a ghost, one
-that has long played tricks on economists and led them astray. He has
+
 12 The four "managerial" variables included in the list-sales, growth of sales, expenses for
 staff, and emoluments to the management-may well be the most important deviations from
 profit maximization, although I may easily be persuaded of the existence of other "extrava-

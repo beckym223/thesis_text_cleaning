@@ -1,39 +1,4 @@
-For purposes of illustration let us reproduce in a literary form the
-utility function of a management (perhaps of its "peak coordinator"
-[28, pp. 190-91]) in full control and confident that stockholders will
-not make any fuss as long as the firm makes a "normal" profit and
-pays out a fair share of it in dividends. Total utility, which the man-
-ager by his decisions will try to maximize, will be a function of a large
-number of variables, by virtue of the contributions they make to his
-pride, prestige, self-esteem, conscience, comfort, feeling of accomplish-
-ment, material consumption, and anticipations of future benefits and
-pleasures. Among the variables may be total profits of the firm, growth
-rate of profits, rate of profits to investment, total sales, growth rate of
-sales, increase in market share, dividends paid out, retained earnings,
-increase in market value of stock, price-earnings ratio of stock, invest-
-ment outlay, salary and bonus received, stock options received (capital
-gains), expense accounts (consumption at company expense), services
-received (automobile, chauffeur, lovely secretary, theatre tickets, con-
-ferences at resorts), size of staff, expenses for public relations and ad-
-vertising, expenses for research and development, technological and
-other innovations, leadership in wage increases and good industrial re-
-lations, expenses for public or private education and health, other con-
-tributions to public interest and patriotic causes, free time for leisure
-and recreation, and indications of influence over government, industry,
-and society. This list of variables is, of course, only representative, not
-exhaustive."2
-Now what can one do with a utility function of this sort? Will it be
-of much use in telling us what the firm will do with its freedom of ac-
-tion if it has to respond to a change in conditions?
-The answer will depend partly on a simple condition, namely,
-whether the acceptable trade-off ratios between all the factors con-
-tributing to total utility remain unchanged, or approximately the same,
-if any one of them, say, total profit, increases. If this were the case, we
-could shout hurrah or sigh a sigh of relief (depending on our tempera-
-ment). For, if the marginal rates of substitution among all the various
-"utilifactors" are constant, the distribution of funds among them will
-remain unchanged with changes in conditions that increase or decrease
-the total of funds available. Only if the cost of any of the factors
+
 wasteful, that is, contributing nothing, and economizing nothing but managerial effort or  capability.
 This list may be suggestive of the actions that may have to be taken when, after years  of ease and growth, the firm finds its profits declining or disappearing.
 'Perhaps there ought to be a place on the list for some gratifications that are more

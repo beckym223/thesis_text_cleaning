@@ -1,43 +1,4 @@
-tic industry are raised, with a resulting increase in the demand for the
-products of the firm. Why should the clashes and compromises of di-
-vergent opinions reverse the direction of the change that would be
-"dictated" by the simple rule of profit maximization? Perhaps one vice
-president wants to raise prices without increasing output, while an-
-other wants to increase output without (at least at the moment) rais-
-ing prices. No matter what their compromise will be, it is likely to con-
-form with what the simple rule suggests. But if not, so what? Remem-
-ber we are talking about industries with more than a few firms and
-with free entry.7
-Other Qualifications to Competitive Price Theory
-Substitution between income and leisure looks like the strongest
-reason for a qualification in cases in which the change in conditions is
-such that not only the locus of maximum profits is shifted but also the
-amount of profit obtainable is changed. Take again the example of a
-tariff increase shutting out foreign competition. The firms in the indus-
-try will find that given outputs will now fetch higher prices and that in-
-creased outputs can be sold at prices higher than those prevailing be-
-fore tariffs were raised. And profits will be higher in any case, so that
-managers-even owner-managers-will be inclined to relax their
-efforts. Yet would anybody seriously argue that the substitution of lei-
-sure (coffee breaks, cocktail parties, golf) for potential profits would
-be such that total output would be reduced instead of increased? It is
-not a likely story, and where the industry consists of several or many
-firms, the small probability vanishes quickly. What remains of the ar-
-gument is that total output would increase, in reaction to the tariff in-
-crease, somewhat less than it would if the managers were eager beav-
-ers and did not relax in their efforts when profits increased. Thus, the
-elasticity of supply of the products in question is a little smaller. But
-since we do not know how much it would be anyhow, the unknown
-substraction from an unknown number should not cause the economic
-theorist any serious anxieties. (And if the politicians who push for the
-tariff increase decide to push less hard if we tell them that their friends
-in the industry will enjoy some of the added protection in the form of
-more leisure' and recreation, we would not really mind.)
-Even if formal accuracy demanded that we accept the maximization
-of the decision-maker's total utility as the basic assumption, simplicity
-and fruitfulness speak for sticking with the postulate of maximiza-
-tion of money profits for situations in which competition is effective.
-The question is not whether the firms of the real world will really max-
+
 'A great champion of more realistic theories of the firm summed up his reflections on
 their implications for general economics with this statement: "We shall not be far wrong
 in concluding . . . that the impact of more realistic theories of the firm on static price

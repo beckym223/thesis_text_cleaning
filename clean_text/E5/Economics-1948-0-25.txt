@@ -1,41 +1,4 @@
-economy as a whole as well as speculate about the individual firm,
-particularly since a knowledge of the former throws a great deal of
-light upon the problems of the latter?
-In the meantime, however, we should all welcome such brilliant
-studies of the production function for individual firms as that which
-will shortly be published by my friend and colleague, Professor William
-H. Nicholls, for a meat-packing plant.22a Moreover, if we could get the
-figures for specific firms and plants within given industries for a specific
-year, we would then be able to develop production functions for each
-of the main industries with each firm serving as an observation. But
-the census has always been obligated to conceal the identity of the
-specific firms which report to it and can only publish totals by in-
-dustries and geographical subdivisions. This fact prevents us, at
-present, from developing such studies, although it is barely possible
-that either the Census Bureau itself or employers' associations could
-carry them on, were they once convinced of their value. This cannot,
-however, be done at present.
-To my mind, therefore, we are at present forced to work primarily
-with industry aggregates. But there is one important refinement which
-we can and should introduce. That is to divide the total number of
-workers, the aggregate amounts of capital, and the total net value of the
-product in each of the various industries by the number of plants in
-that industry. This will give us plant averages for given industries
-rather than industry aggregates as the individual observations23 and
-from these we can derive another variant of the production function.
-We have made such studies for each of the six years which were
-covered for American manufacturing and for two of the Australian
-studies and these results are embodied in Table IV.
-It will thus be seen that while we obtained closely similar results in
-Australia by the two methods, nevertheless, clear differences developed
-in the case of the United States. In every year the value of k in our
-American studies was substantially less under the method of plant
-averages than it was under the method of industry aggregates. The
-amount of this difference ranged between 5 and 6 points, as in 1904 and
-1909, to 15 points in 1889. On the other hand, the values of j were
-always higher under the methods of plant averages than under that of
-industry aggregates but the amounts of these differences were much less.
-As a result, the combined values of k + j are less by from 3 to 8 points
+
 22a William H. Nicholls, Labor Productivity Functions in Meat Packing, to be published
 by University of Chicago Press, 1948.  2 This is not quite the same as the so-called "representative" firm because many firms
 operate multiple plants.

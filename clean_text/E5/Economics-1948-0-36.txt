@@ -1,8 +1,3 @@
-differences appear between the results for the earliest year of 1889
-and the years from 1904 on. From 1904 on, and particularly in 1914
-and 1919, the big deviations were predominantly on the plus, and the
-minor deviations on the minus, side. Thus, in 1919, of the 18 industries
-where the deviations amounted to more than two standard errors of
 TABLE VII.-AN ANALYSIS OF THE COMPARATIVE DEGREES OF PLUS AND MINUS DEVIATIONS
 OF ACTUAL FROM THEORETICAL PRODUCTS IN AMERICAN MANUFACTURING
 INDUSTRIES 1889-1919
@@ -16,25 +11,3 @@ Plus Minus Plus Minus
 1909 122 131 3 2
 1914 152 174 10 4
 1919 230 308 16 2
-estimate, 16 had their actual products in excess of the theoretical
-values, while in only two cases did they fall below. On the other hand,
-of the 538 industries in 1919 where the deviations amounted to less
-than two standard errors, 308 or nearly three-fifths, were below what
-would have been expected under the formula. For the three census years
-of 1909, 1914, and 1919, there were 29 industry observations where
-the actual products were more than two standard errors of estimate
-greater than the theoretical values and only 10 industry observations
-which were more than two standard errors less. Conversely, in these
-three years there were only 504 industries which had actual products
-which exceeded the theoretical values up to two standard errors as
-contrasted with 613 industries where the actual products fell below
-the theoretical by these amounts.
-The general framework of these later results is approximately what
-we would expect on theoretical grounds. The monopolistic and expand-
-ing industries tend to absorb large quantities of purchasing power at
-the expense of the rest of the economy. They would, therefore, be
-expected to show wider profit margins than the general average and
-each combined dose of labor and capital would consequently tend to
-yield a greater dollar value than would normally be the case. The with-
-drawal of this purchasing power would, moreover, exert a slight de-
-pressing influence upon each of the remaining industries so that we

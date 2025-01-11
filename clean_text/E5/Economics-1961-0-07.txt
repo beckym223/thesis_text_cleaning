@@ -1,43 +1,4 @@
-tries where work is mainly the application of brute human force,
-calling for energy and stamina, and where the intake of food is far
-from enough to do a full day's work. On the "hungry" steppes and in
-the teeming valleys of Asia, millions of adult males have so meager a
-diet that they cannot do more than a few hours of hard work. To call
-them underemployed does not seem pertinent. Under such circum-
-stances it is certainly meaningful to treat food partly as consumption
-and partly as a current "producer good," as some Indian economists
-have done [3]. Let us not forget that Western economists during the
-early decades of industrialization and even in the time of Marshall and
-Pigou often connected additional food for workers with increases in
-labor productivity.
-Let me now pass on to three major perplexing questions closely con-
-nected with the riddle of economic growth. First, consider the long-
-period belhavior of the capital-income ratio. We were taught that a coun-
-try which amassed more reproducible capital relative to its land and
-labor would employ such capital in greater "depth" because of its grow-
-ing abundance and cheapness. But apparently this is not what happens.
-On the contrary, the estimates now available show that less of such
-capital tends to be employed relative to income as economic growth pro-
-ceeds. Are we to infer that the ratio of capital to income has no relevance
-in explaining either poverty or opulence? Or that a rise of this ratio is
-not a prerequisite to economic growth? These questions raise funda-
-mental issues bearing on motives and preferences for holding wealth
-as well as on the motives for particular investments and the stock of
-capital thereby accumulated. For my purpose all that needs to be said
-is that these estimates of capital-income ratios refer to only a part of
-all capital. They exclude in particular, and most unfortunately, any
-human capital. Yet human capital has surely been increasing at a rate
-substantially greater than reproducible (nonhuman) capital. We can-
-not, therefore, infer from these estimates that the stock of all capital
-has been decreasing relative to income. On the contrary, if we accept the
-not implausible assumption that the motives and preferences of people,
-the technical opportunities open to them, and the uncertainty associated
-with economic growth during particular periods were leading people to
-maintain roughly a constant ratio between all capital and income, the
-decline in the estimated capital-income ratio3 is simply a signal that
-human capital has been increasing relatively not only to conventional
-capital but also to income.
-The bumper crop of estimates that show national income increas-
+
 I leave aside here the difficulties inherent in identifying and measuring both the non-
 human capital and the income entering into estimates of this ratio. There are index number  and aggregation problems aplenty, and not all improvements in the quality of this capital
 have been accounted for, as I shall note later.

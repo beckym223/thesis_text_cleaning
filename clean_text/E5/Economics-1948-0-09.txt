@@ -1,40 +1,4 @@
-which were available for, rather than their relative degree of use, it
-did not make allowance for the idle capital in periods of depression nor
-for the more intensive use of capital during years of prosperity.
-Similarly, our index of labor did not make allowance for failures to
-work full time in the bad years, nor for overtime hours which were
-worked in the good years. It was, therefore, to be expected that the
-actual product (P) would exceed the theoretical product (P') in years
-of prosperity and would fall below it in years of depression. So in fact
-it did in every year except the war years of 1918 and 1919. Professor
-Cobb and I, therefore, regarded these deviations as additional evidence
-of the general validity of the formula for normal times.
-Still another striking bit of evidence was found in the fact that under
-perfect competition with a production formula of this type we would
-expect a factor to receive as its share of the product, the proportion
-indicated by its exponent. From the income studies of the National
-Bureau of Economic Research, we found that labor's share of the net
-value product of manufacturing during the decade 1909-1918, was
-estimated at 74.1 per cent, or almost precisely the value of the ex-
-ponent for labor.
-Professor Cobb and I embodied the results of our inquiries in a
-paper which we read before this Association exactly twenty years ago
-tonight.9 We then determined to analyze more of such time series.
-Cobb computed indexes of labor, capital, and product in Massachu-
-setts manufacturing for the period 1890-1926, and found the value of
-k to be .743. Interestingly enough, it was also found that the average
-of labor's share of the net value of the product in that state for that
-period was .74, or a virtual identity with the value of k.'0 A similar
-study, which was made in Chicago by Mr. Director for New South
-Wales manufacturing for the period 1901-1927, found k to have a value
-of .65.
-There the matter more or less rested when my book, The Theory of
-Wages, appeared in 1934. Three years later, with the aid of Mrs. Mar-
-jorie Handsaker, I resumed our analysis of time series, and after
-working up data for Victorian manufacturing for the period 1907-1929,
-we found the value of k under the k and 1-k formula to be .7 1." Labor's
-share of the net product or W/P was found to be .61 for this period.
-We then introduced two important new features into our investiga-
+
 'C. W. Cobb and Paul H. Douglas, "A Theory of Production," Am. Econ. Rev., Suppl.,
 Vol. XVIII (Mar., 1928), pp. 139-65.
 0See Douglas, The Theory of Wages, pp. 159-66.

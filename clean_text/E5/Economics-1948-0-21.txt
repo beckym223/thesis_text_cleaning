@@ -1,35 +1,4 @@
-found the value of k was .66, and that for j, .32. When he made white
-and black labor separate factors of production and broke manufactur-
-ing down into eighty-five industries, the sum of the two exponents for
-labor amounted to .65. While we cannot rely too much upon only one
-study, it is of interest that his results were substantially the same as
-those which we obtained on the average for the United States for the
-period 1889-1919 and not far from the Australian results. This would
-be equivalent to an elasticity of approximately 3.0 for the marginal
-productivity curve for labor and of 1.5 for the marginal productivity
-curve for capital.
-If we try to summarize our results, we do find a relatively close
-agreement between the values of k and j which we obtain from the
-cross-section studies for the United States, Australia, and South Africa.
-But we also find differences in the values of k and j (1) between
-Canada and New Zealand, on the one hand, and the United States,
-upon the other, with the former having lower k's and higher j's than
-the United States, and (2) between years within the same country.
-This is to be expected, as I pointed out long ago in a section of my
-Theory of Wages."1 But underneath all these differences, it is submitted
-that there has been for the periods studied, a substantial core of stabil-
-ity within countries and that differences in technique, differences in the
-relative importance of given industries, and differences in the ratios
-of capital to labor may account for such deviations in the values of the
-exponents as exist.22
-'Douglas, The Theory of wages, pp. 203-4.
-"' The economic and statistical meaning of b deserves to be considered.
-A. In the four time series for the United States, the values of b under formula (1) are
-closely approximate to unity. For the United States the values are the same for each of
-the four series.
-b b
-Series I 1.01 Series III 1.01
-Series II 1.01 Series IV 1.01
+
 (Footnote 22 continued on next page)
 ers, salaried workers, etc.; (2) Capital (C) = total capital used, i.e., (a) fixed capital in the form
 of land, buildings, plant, tools, and machinery plus (b) working capital including materials,

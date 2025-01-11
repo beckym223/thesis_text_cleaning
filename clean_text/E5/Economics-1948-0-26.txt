@@ -1,6 +1,3 @@
-on the plant average basis than they are when industry aggregates are
-used and, indeed, average only .92. This gives an unmistakable in-
-dication of true diminishing returns so far as the size of individual
 TABLE IV.-A COMPARISON OF THE VALUES OF k AND j OBTAINED BY THE METHOD OF
 PLANT AVERAGES WITH THOSE OBTAINED BY THE METHOD OF INDUSTRY AGGREGATES
 (P=bLkCi)a
@@ -32,11 +29,6 @@ Wickens, "The Commonwealth Statistical Allocation of Factory Output," Econ. Reco
 k, by an amount greater than ak. For further discussion, see Gunn and Douglas, "The Pro-
 duction Function for Australian Manufacturing," Quart. Jour. Econ., Vol. LVI (Nov.,
 1941), pp. 108-29.
-plants is concerned. While much more study is needed to develop and
-to clarify this point, it is suggested that quite possibly American plants
-during this period were in practice developed beyond the point of
-maximum efficiency. Whether or not the differences between the re-
-spective k + j's can be taken as a coefficient of managerial megalo-
-mania, I shall have to leave to the psychiatrists.24
+
 24 If this is a psychiatric problem, we can take consolation in the fact that the disease
 was apparently less acute in 1919 than in 1889.

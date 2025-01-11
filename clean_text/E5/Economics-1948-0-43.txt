@@ -1,33 +1,4 @@
-the two great wars are, however, likely to present difficulties,.
-4. The deviations of the actual or observed values from those which
-we would theoretically expect to prevail under the formula are not large
-and indeed are slightly less than we would expect under the random
-distribution of errors of sampling and of measurement. It is submitted
-that the total number of observations, namely over 3,500, is sufficiently
-large so that if the results had been purely accidental, this degree of
-agreement would not have occurred.
-5. The instances of large deviations of the actual from the theoretical
-values can in most cases be explained as being caused by imperfect
-competition and by expanding demand in the case of the plus deviations
-and by contracting demand, "sweating," and possibly "excessive" com-
-petition in the case of the minus industries. This would indicate that if
-these complications could be eliminated, the agreement between the
-actual and theoretical products would be greater.
-6. That, taken in the large, there is an almost precise degree of
-agreement between the actual share received by labor and that which,
-according to the theory of marginal productivity, we would expect labor
-to obtain.
-In conclusion, may I emphasize again that there is much work which
-remains to be done on this question and that a lifetime would be all too
-short to probe the many problems which present themselves. Is it too
-much to hope that the succeeding twenty years may see further progress
-along this line and that if the older generation finds it impossible to carry
-on such studies, the younger economists may find such lines of
-inquiry a challenge to their ingenuity and abilities?3' I have always
-been struck by the old Hindu saying, "This is no door but only a little
-window that opens out upon a great world." Since this is peculiarly
-applicable to the studies which I have attempted, upon that note I shall
-end.
+
 ' Some of the studies which badly need to be carried out are (1) to develop the produc-  tion function for each and every year over a long period, say 1910-1940, for Australia, New
 Zealand, and Canada; (2) to carry on studies of the production function for a large  number of specific firms and within specific industries and hence connect the theory of the  firm and of the industry with that of the economy; (3) to carry on further studies, along
 the lines of Mr. Olson, on inter-spatial variations in real income and the factors affecting

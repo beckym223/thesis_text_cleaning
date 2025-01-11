@@ -1,42 +1,4 @@
-a day. Raise now the number of workmen to twenty and let the capital remain
-the same and each man will create less than before. A day's product will be
-3 -X dollars. Each successive unit of labor employed in connection with a fixed
-amount of pure capital produces less than any of its predecessors. ... General
-wages tend to be equal to the actual product created by the last laborer that
-is added to the social working force.6
-The earnings of capital are subject to identically the same law as those of
-labor; they are fixed by the product of the last increment that is brought into
-the field. . . . Let the labor supply remain fixed and let capital increase and
-each increment of the latter, as it enters the productive field finds that it can
-create less than any of its predecessors. The general law of diminishing returns
-is two-sided.7
-During the next decade Clark completed his theory in a series of
-subtle articles, and in 1899 gave it final expression in his book The
-Distribution of Wealth.
-In the meantime, in 1894, the extraordinarily gifted Philip Wicksteed
-showed in his pathbreaking little essay, The Coordination of the Laws
-of Distribution, that if production were characterized by a homo-
-geneous linear function of the first degree (that is, if when each and
-all of the factors of production were doubled or tripled, product would
-increase in the same proportion), then with each factor receiving its
-marginal product, the total product would be absorbed in payments to
-the factors without either surplus or deficit. This essay of Wicksteed's
-fluttered the mathematical dovecotes. Edgeworth, who in his Mathe-
-matical Psychics, had attempted to prove, by quotations from Owen
-Meredith's Lucille, that men should receive larger incomes than women,
-now dismissed with elegant irony the theory that production followed
-a homogeneous linear function. Pareto's attempted refutation was
-almost pure sophistry in which, by limiting the market, he sought to
-prove that product would not increase in proportion to the factors.
-It remained for Wicksell to give the most sensible treatment of this
-subject when he pointed out that while the homogeneous production
-function could not be expected to apply over the whole range of output
-within a plant, nevertheless under perfect competition, each firm would
-tend to carry its scale of output to the point where neither increasing
-nor decreasing returns prevailed but where instead the rate of return
-was constant.8 Since industries were merely aggregates of firms and
-the economy as a whole was an aggregate of industries, it was pre-
-sumed that the linear function tended, therefore, to be true of society
+
 'Publications, American Economic Association (Mar., 1889), p. 49.
 TIbid., p. 53.
 8 Knut Wicksell, Lectures on Political Economy, Vol. I, pp. 101-33.

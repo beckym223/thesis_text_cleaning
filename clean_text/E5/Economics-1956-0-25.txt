@@ -1,16 +1,4 @@
-1939, a definite standard of 90 to 904 per cent of parity for the basic
-commodities had been established, and in 1942, provision was duly
-made for supporting these prices at this level for two years after the
-war was declared to be officially ended. As for agricultural legislation
-since the war, suffice to say at this point that even though the last Con-
-gress did not succumb to strong pressures to re-establish a rigid full
-parity standard, still the belief is strong among a good majority of
-farmers that agriculture does not receive its proportional share of the
-national income, and very many of those so believing stand ready to
-have the government take pretty arbitrary measures to help them get
-this proportional share.
-Income Shares-Secular Changes
-Table IV presents the most pertinent available data as to agricul-
+able IV presents the most pertinent available data as to agricul-
 ture's share in the national income matched against the changes in
 the shares in the economy presented in Tables I, II and III. This table
 can be summarized simply as follows:
@@ -23,21 +11,4 @@ Productive Assets 54 106 88
 Income 36 75 73
 Gross National Product (GNP) 37 87 80
 Net National Product (NNP) 28 79 77
-These comparisons over time say in effect that over the whole period
-since 1910, the decline of agriculture's share of income and of GNP
-have closely matched those of population and labor force, but that the
-decline in agriculture's share of NNP has been somewhat greater,
-probably because of the capital costs involved in the relatively larger
-share in productive assets. For the years since 1940, however, agricul-
-ture's share of income, GNP and NNP, have declined much less than
-of population and labor force, probably partly because of the increase
-in share of productive assets. For only the years since 1951, how-
-ever, the income and product shares have declined more than those of
-labor and the other input factors.
-Much the same story is told by Chart III, appearing in the new 1956
-Outlook Chartbook of the Department of Agriculture, in which Farm
-Income and National Income are plotted as index numbers with the
-high incomes of 1947-49 as the base equal to 100. All the way from
-1921 to 1949 the two income series run roughly together even though
-agriculture's share of the labor force was declining from 27 to around
-12 per cent. What this chart really shows is that somehow or other from
+T

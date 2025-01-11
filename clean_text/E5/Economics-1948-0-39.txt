@@ -1,32 +1,4 @@
-Let us, therefore, compare the actual share which wages and salaries
-formed of the net value product (i.e., W/P) in the various years with
-the values of k. It will also be instructive to compare W/P with the
-k
-ratio of since the latter is a rough measure of what we would
-k + j
-approximately expect to occur if the total product were to be divided
-between labor and capital so as to eliminate either net residual profits
-or losses.
-This is shown for the United States cross-section studies in Table
-VIII. From an examination of this table, it will be seen that in five
-of the six years there was a very close agreement between the values
-of k and of W/P. In one year (1909), there was precise agreement
-between the two; in two of the years (1904 and 1914), the differences
-were approximately only one standard error, while in two more (1889
-and 1899), they amounted to two to three standard errors. The biggest
-difference was in 1919 when W/P was less than k by over eight stand-
-ard errors."
-Taking the average for the six years as a whole, we find that k
-k
-averages .63, equals .65, and labor's actual share or bl/P was
-k+ j
-.605. There was, therefore, a close average agreement for the period
-between what we would have theoretically expected the distribution of
-the product to be under conditions of perfect competition and that
-which actually occurred. It should be remembered, moreover, that due
-to our inability to deduct allowances for depreciation in specific in-
-dustries, the true values of W/P are probably understated by ap-
-proximately 3 percentage points,28 and that, therefore, the average
+
 27 The year 1919 was one in which prices rose with great rapidity. It would be ex-
 pected, therefore, that wages would lag behind in such a period.
 2 On the basis of Dr. Fabricant's estimate of depreciation totals for manufacturing as

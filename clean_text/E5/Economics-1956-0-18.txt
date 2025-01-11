@@ -10,13 +10,6 @@
 CHIART II. SHARE OF THE LABOR FORCE OF THE UNITED STATES EMIPLOYED
 IN AGRICULTURE, 1820-1955, AND PROJECTED TO 1975 AND 2000.
 (1955-75 projection - - -: 1975-2000 projection xx x )
-increasing development and use of power equipment fitted to smaller
-farms. The Census data for 1954 indicate that 60 per cent of the farms
-had one or more tractors, and 45 per cent had one or more motor trucks
-at the time of the enumeration. The net effect will be a further reduction
-in the number of farms and probably a reduction in farm labor force
-per farm along with this. The following data are pertinent in this con-
-nection:
 Number of Farm Labor Labor Force
 _________ Farms Force per Farm
 1910 6,361,000 11,592,000 1.82
@@ -26,8 +19,3 @@ _________ Farms Force per Farm
 1950 5,382,000 7,507,000 1.40
 1955 4,782,000* 6,583,000 1.37
 * Preliminary.
-Thus, even while the number of farms was holding about even from
-1910 to 1930, the labor force per farm was declining a little because
-more members of the family were in school, or engaged in off-farm
-work, and a little less labor was being hired. An average labor force
-of 1.25 workers per farm in 1975 looks plausible indeed.

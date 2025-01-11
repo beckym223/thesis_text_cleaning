@@ -1,32 +1,4 @@
-for this article had been prepared, Keith Campbell and George
-Brinegar, in their Queensland study for 1937-38, found k to have a
-value of .58 and j one of .45.19
-Since the sum of the exponents tends to be sliglhtly less than unity,
-there is an added slight suggestion of true diminishing returns. But
-here again, since the difference is less than the standard errors of
-estimate, we should be chary about drawing definite conclusions.
-If we choose .60 as the most probable "normal" value of k and .37
-as the corresponding value of j, this would mean that the approximate
-elasticity of the marginal productivity curve in Australia for labor
-was somewhere around 2.7 and for capital of about 1.7.
-The third set of results which we should consider are those for New
-Zealand, Canada, and South Africa. These are shown in Table III.
-Using the formula of k and 1-k, Max Brown found for New Zealand a
-value of .51 for k for the period 1915-1935,2o and when we reworked
-the Brown series with the second formula, we found values of .42 for
-k and .49 for j. It is interesting that in the single cross-section study
-which has been made for New Zealand, namely, that made by Williams
-for 1938-39, k has a value of .46 and j of .51.2Oa In the four Canadian
-studies which we made for so-called "normal" years, the k's range
-between .43 and .50, with an average of .47, and the j's between .48
-and .58, with an average of slightly more than .52. There is a con-
-siderable degree of steadiness in these results, which seem to indicate
-an elasticity of the marginal productivity curve for labor in that country
-as slightly less than 2.0 for the years studied and of capital as slightly
-more than that figure.
-One of the most interesting studies which has been made is that by
-G. W. G. Browne for South Africa for 1937-38. Taking the seventeen
-main groups of industry and treating all labor as homogeneous, Browne
+
 and Douglas, "The Production Function for Australian Manufacturing," Quart. Jour. Econ.,
 Vol. LVI (Nov., 1941), pp. 108-129.
 d The definitions of terms in the studies for the separate Australian states were substantially  similar to those in the four Commonwealth studies, except that (1) working proprietors were  included in the definition of labor; (2) the estimated value of land was deducted fromn the capi-

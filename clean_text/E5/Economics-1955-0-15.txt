@@ -38,6 +38,3 @@ Distribution (E) for Sector A,
 19. Share of 5th quintile 51.6 56.0 54.6 51.2 47.4 44.1 40.9
 20. Range (19-18) 44.2 49.8 49.2 46.5 43.2 40.2 37.2
 For methods of calculating the shares of quintiles, see text (p. 12 and fn. 6). Some differences  will not check because of rounding.
-cerning three sets of factors-intersector differences in per capita in-
-come, intrasector distributions, and sector weights-varying within the
-limitations just indicated, the following conclusions are suggested:
