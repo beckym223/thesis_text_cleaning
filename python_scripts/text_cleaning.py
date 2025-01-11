@@ -112,7 +112,7 @@ def split_text(text:str,splits:list[tuple[int,int]])->str:
 def apply_splits_to_pages(dir_name:str,split_dict:dict[str,list[tuple[int,int]]],commit_changes:bool):
     for file,splits in split_dict.items():
         try:
-            path = os.path.join(file,dir_name)
+            path = os.path.join(dir_name,file)
             text = open(path).read().strip()
             text = split_text(text,splits)
             with open(path,'w') as f:
@@ -122,4 +122,5 @@ def apply_splits_to_pages(dir_name:str,split_dict:dict[str,list[tuple[int,int]]]
             continue
         except Exception as e:
             logging.error(f"Error with text splitting of {file}")
+            raise
 
