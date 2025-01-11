@@ -109,16 +109,16 @@ def split_text(text:str,splits:list[tuple[int,int]])->str:
 
 
 @commit(commit_msg = "Sliced texts on predetermined indices")
-def apply_splits_to_pages(dest_dir:str,split_dict:dict[str,list[tuple[int,int]]],commit_changes:bool):
+def apply_splits_to_pages(dir_name:str,split_dict:dict[str,list[tuple[int,int]]],commit_changes:bool):
     for file,splits in split_dict.items():
         try:
-            path = os.path.join(file,dest_dir)
+            path = os.path.join(file,dir_name)
             text = open(path).read().strip()
             text = split_text(text,splits)
             with open(path,'w') as f:
                 f.write(text)
         except FileNotFoundError:
-            logging.warning(f"File {file} not found in directory {dest_dir}. Continuing.")
+            logging.warning(f"File {file} not found in directory {dir_name}. Continuing.")
             continue
         except Exception as e:
             logging.error(f"Error with text splitting of {file}")
