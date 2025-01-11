@@ -12,33 +12,3 @@ the United States are:
 b b
 Series I .84 Series III 1.12
 Series II 1.38 Series IV 1.35
-For Victoria b is .71 and for New South Wales, .97.  C. In the cross-section or inter-industry studies, b still represents the intercept but it is
-also a conversion factor which translates the number of employees and dollars of invested  capital into dollars of net value product. As in the case of the time series based on index  numbers, b is generally higher under formula (2) when the values of j are independently  determined than under formula (1). It also tends to move in some direct ratio with changes  in the general price level, being generally higher in those vears when the price level is  higher and vice versa. There are, however, occasional exceptions to this rule. These tendencies
-are shown in the following tables for the United States:
-Values of b
-Year Formula (1) Formula (2)
-1889 28.58 58.34
-1899 69.66 106.43
-1904 79.62 120.23
-1909 98.63 90.99
-1914 66.22 81.66
-1919 258.82 244.21
-For the Commonwealth of Australia the corresponding values are
-Values of b
-Year Formula (1) Formula (2)
-1912 14.79 15.87
-1922-23 19.72 16.49
-1926-27 41.50 77.26
-1934-35 37.15 39.79
-1936-37 17.99 21.57
-It will, of course, be remembered that Australian prices and values are expressed in terms  of pounds.
-For Canada, the values are
-Values of b
-Year Formula (1) Formula (2)
-1923 38.55 48.53
-1927 28.51 33.04
-1935 24.38 22.23
-1937 16.48 15.42
-I hope to give a fuller treatment of the significance of the b term in the regression
-equations in a book on The Theory of Production which I hope shortly to publish with
-Miss Grace Gunn.

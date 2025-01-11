@@ -32,13 +32,3 @@ man's political preferences and recommendations as such are entirely
 beyond the range of my remarks or rather they enter this range only
 so far as the factual and theoretical analysis does that is presented in
 support of them. I am exclusively referring to this analytical work
-4 The contrary opinion that is sometimes met with is to be attributed to the simplified
-versions of the marginal-productivity theory that survive in textbooks and do not take
-into account all the restrictions to which production functions are subject in real life,
-especially if they are production functions of going concerns for which a number of
-technological data are, for the time being, unalterably fixed-just as in elementary
-mechanics no account is taken of the complications that arise so soon as we drop the
-simplifying assumption that the masses of bodies are concentrated in a single point. But
-a marginal-productivity theory that does take account of restrictions which, even in
-pure competition, prevent factors from being paid according to their marginal productivities
-is still marginal-productivity theory.

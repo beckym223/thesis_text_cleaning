@@ -30,11 +30,3 @@ interesting deductions, the prospects of a lasting marriage are good.
 It is not easy to judge the future sterility or fertility of this mar-
 riage between marginalism and managerialism, because most of us are
 inclined to underrate the kinds of problem on which we have never
-T While under profit maximization MR-MC = 0, sales maximization requires that  MR = 0; hence, for some of the output sold marginal revenue is less than marginal cost,  which cuts into profits. A minimum-profit constraint sets a limit to this.  In the case of maximization of the growth rate of sales the limit on nonremunerative
-selling is built into the objective itself because a growth of productive assets is required  to support the growth of sales, and the acquisition of these assets presupposes a sufficiency
-of profits, either for internal financing or as a basis for outside finance [3, pp. 1086-871.
-If at any time sales were pushed too hard at the expense of profits, there would arise a
-shortage of funds for acquiring the productive assets needed for producing more output.
-Thus no separate minimum-profit constraint has to be imposed, since it is inherent in
-the objective of maximization of the growth of sales. It should be understood, however,
-that the growth rate of assets under this objective is still less than it could be under  straight profit maximization. (This shows why we should never speak of the "growth of  the firm" without specifying by what criterion we measure it.)
