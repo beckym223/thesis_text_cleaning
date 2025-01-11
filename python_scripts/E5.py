@@ -43,7 +43,6 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 logging.error(f"Exception when cleaning file {file}")
                 raise
         if commit_changes:
-            git_commit(" ".join(pages_to_delete),'Deleted first cover/photo pages')
             git_commit(dest_dir,"Cleaned headers and footers")
     except Exception as e:
         logging.error(f"Error when cleaning headers and footers: {e}")
