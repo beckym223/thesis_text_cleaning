@@ -5,13 +5,13 @@ higher values for k and lower values for j in our first three time series
 studies than we do for the cross-section studies. For as we have pointed
 out, the two functions are, in fact, somewhat different and we should
 not necessarily expect identical results. Moreover, in the time studies,
-there tends to be a systematic downward bias to the index of produc-
-tion which keeps it closer to the index of labor than it should be in
+there tends to be a systematic downward bias to the index of production
+which keeps it closer to the index of labor than it should be in
 reality and hence gives an excessive value to k. This downward bias is
 caused by two factors: (1) Since the indexes are primarily based on
-the quantities of raw material produced, they do not include the in-
-creased fabrication and reworking of these materials which is a pro-
-nounced, although not a universal, tendency of industry. (2) It is in
+the quantities of raw material produced, they do not include the increased
+fabrication and reworking of these materials which is a pronounced,
+although not a universal, tendency of industry. (2) It is in
 practice not possible to include with sufficient rapidity the new
 products which are continually pushing themselves forward, nor to drop
 in adequate time the products which are becoming obsolete. The net

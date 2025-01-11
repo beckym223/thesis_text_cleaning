@@ -1,23 +1,23 @@
-Even for what they are assumed to represent, let alone as approxima-
-tions to shares in distributions by secular income levels, the data are
-such that differences of two or three percentage points cannot be as-
-signed significance. One must judge by the general weight and consen-
-sus of the evidence-which unfortunately is limited to a few countries.
-It justifies a tentative impression of constancy in the relative distribu-
-tion of income before taxes, followed by some narrowing of relative
+Even for what they are assumed to represent, let alone as approximations
+to shares in distributions by secular income levels, the data are
+such that differences of two or three percentage points cannot be assigned
+significance. One must judge by the general weight and consensus
+of the evidence-which unfortunately is limited to a few countries.
+It justifies a tentative impression of constancy in the relative distribution
+of income before taxes, followed by some narrowing of relative
 income inequality after the first world war-or earlier.
 Three aspects of this finding should be stressed. First, the data are
-for income before direct taxes and exclude contributions by govern-
-ment (e.g., relief and free assistance). It is fair to argue that both the
+for income before direct taxes and exclude contributions by government
+(e.g., relief and free assistance). It is fair to argue that both the
 proportion and progressivity of direct taxes and the proportion of total
 income of individuals accounted for by government assistance to the
 less privileged economic groups have grown during recent decades. This
 is certainly true of the United States and the United Kingdom, but in
 the case of Germany is subject to further examination. It follows that
-the distribution of income after direct taxes and including free contribu-
-tions by government would show an even greater narrowing of in-
-equality in developed countries with size distributions of pretax, ex-
-government-benefits income similar to those for the United States and
+the distribution of income after direct taxes and including free contributions
+by government would show an even greater narrowing of inequality
+in developed countries with size distributions of pretax, exgovernment-
+benefits income similar to those for the United States and
 the United Kingdom.
 Second, such stability or reduction in the inequality of the percentage
 shares was accompanied by significant rises in real income per capita.
@@ -27,8 +27,8 @@ active world conflict. Hence, if the shares of groups classified by their
 annual income position can be viewed as approximations to shares of
 groups classified by their secular income levels, a constant percentage
 share of a given group means that its per capita real income is rising
-at the same rate as the average for all units in the country; and a re-
-duction in inequality of the shares means that the per capita income
+at the same rate as the average for all units in the country; and a reduction
+in inequality of the shares means that the per capita income
 of the lower-income groups is rising at a more rapid rate than the per
 capita income of the upper-income groups.
 The third point can be put in the form of a question. Do the distribu-
@@ -40,5 +40,5 @@ first world war, based on S. Prokopovich, National Income of Western European Co
 (published in Moscow in the 1920's). Some summary results are given in Prokopovich,
 "The Distribution of National Income," Econ. Jour., March 1926, XXXVI, 69-82. See also,
 "Das Deutsche Volkseinkommen vor und nach dem Kriege," Einzelschrift zur Stat. des
-Deutschen Reicks, no. 24 (Berlin, 1932), and W. S. and E. S. Woytinsky, World Popula-
-tion and Production (New York, 1953) Table 192, p. 709.
+Deutschen Reicks, no. 24 (Berlin, 1932), and W. S. and E. S. Woytinsky, World Population
+and Production (New York, 1953) Table 192, p. 709.

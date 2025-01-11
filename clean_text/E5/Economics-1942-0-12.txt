@@ -7,13 +7,13 @@ unions keep investment opportunity limited by promptly converting
 any increase in demand for labor into higher wages?22
 Many economists believe that bargained changes in costs are bound
 to be completely translated into higher prices, so that changes in the
-general wage level produce solely price effects and not output or em-
-ployment effects. The relationship between bargained changes in costs
+general wage level produce solely price effects and not output or employment
+effects. The relationship between bargained changes in costs
 and prices is undoubtedly the most important issue in the theory of
 employment. The conclusion that rises in costs are translated into
-higher prices so that the return on investments is not affected presup-
-poses, among other things, a self-contained economy. But even in a self-
-contained economy, the assumed relationship between costs and prices
+higher prices so that the return on investments is not affected presupposes,
+among other things, a self-contained economy. But even in a selfcontained
+economy, the assumed relationship between costs and prices
 requires a theory of liquidity preference which is not convincing. It is
 assumed that higher wages reduce liquidity preference and that the
 shift in the schedule of liquidity preference so increases the volume of
@@ -43,6 +43,6 @@ prices would produce an even greater drop in output and employment.
 24 It is conceivable that wages might get so low and that such a large proportion of the
 national income might go to savings and such a small part to labor that further reductions
 in wages would cause more than a proportionate drop in total expenditures. As the
-increase in investment-seeking funds produced a drop in the marginal return on invest-
-ments, the proportion of money held idle would increase. Eventually it would increase so
+increase in investment-seeking funds produced a drop in the marginal return on investments,
+the proportion of money held idle would increase. Eventually it would increase so
 rapidly as more than to offset the effect of the drop in costs and prices upon the physical

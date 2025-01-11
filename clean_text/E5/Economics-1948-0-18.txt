@@ -5,8 +5,8 @@ k Ok j ai k+j b k 0-k
 A. Time series .71
 Victoriaa 1907-29 22 .84 ?.34 .23 ?.17 1.07 .71 .71 ?.07
 New South Walesb 1901-27 26 .78 ?.12 .20 ?.08 .98 1.14 .86 ?.05
-B. Cross-section or inter-
-industry studies
+B. Cross-section or interindustry
+studies
 Australiao 1912 85 .52 ?.05 .47 ?.05 .99 15.87 .52 ?.04
 Australiao 1922-23 87 .53 ?.05 .49 +.05 1.02 16.49 .52 +.05
 Australiao 1926-27 85 .59 ?.05 .34 ?.04 .93 77.26 .64 ?.05
@@ -34,14 +34,14 @@ constructed earlier by Mr. Director in that it does not provide for the replacem
 price levels for the estimated depreciation on capital. For the Director study, see Douglas,
 The Theory of Wages, pp. 167-172.
 a In the Commonwealth cross-section studies, the terms are defined as follows: (1) Labor
-(L) =average number employed of wage earners and salaried employees but generally exclud-
-ing working proprietors (except in 1934-35); (2) Capital (C) =value of plant and machinery,
+(L) =average number employed of wage earners and salaried employees but generally excluding
+working proprietors (except in 1934-35); (2) Capital (C) =value of plant and machinery,
 buildings, and land, but excluding working capital. The exclusion of working capital is the
 chief dissimilarity between this series and the definition of total capital used in the case of the
 United States and Canadian cross-section studies. We will try to revise the Australian capital
 figures to include working capital but this may be difficult. (3) Product (P) =value added by
 manufacturing. For all the years except 1934-35, this was defined as gross sales value minus
 (a) cost of materials used, (b) cost of fuel and light, and (c) cost of replacing tools and repairs
-to plants. In the 1934-35 study estimated deductions were made for fire insurance and work-
-men's compensation premiums, and also for estimated depreciation rates on the various types
+to plants. In the 1934-35 study estimated deductions were made for fire insurance and workmen'
+s compensation premiums, and also for estimated depreciation rates on the various types
 of capital goods used based on the rates estimated in the Production Bulletin, No. 29, Com-  monwealth Bureau of Censuts and Statistics. For a further discussion of these issues, see Gunn

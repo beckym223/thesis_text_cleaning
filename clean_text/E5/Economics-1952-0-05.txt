@@ -2,12 +2,12 @@ of economic thought. Eighteenth-century English economic thinking
 had been relatively sterile before Adam Smith, the founder of classical
 economics, produced his Wealth of Nations in 1776. That book, to
 which I find an increasing inclination to return in the discussion of
-some of our current problems, particularly those of international eco-
-nomic growth, came after a long period of decay of mercantilistic doc-
-trines. The question is not whether mercantilist theory was wrong in
+some of our current problems, particularly those of international economic
+growth, came after a long period of decay of mercantilistic doctrines.
+The question is not whether mercantilist theory was wrong in
 some absolute sense. Indeed, in our time there has been a considerable
-revival of some of its ideas. But it clearly lacked a "complex of suit-
-abilities" for the environment of the eighteenth century, and before
+revival of some of its ideas. But it clearly lacked a "complex of suitabilities"
+for the environment of the eighteenth century, and before
 Adam Smith there had been a long period of chipping it away. Smith
 had had a succession of forerunners in such men as Hume, Locke,
 North, Steuart, Petty, and Cantillon; he wove together the separate
@@ -15,8 +15,8 @@ strands of thought which he had found and in the process revealed for
 the first time their full significance for the modern age.
 The Wealth of Nations was, preeminently, the product not only
 of the man but of the times. It was the product of the great economic
-changes, which through their successive phases of geographical dis-
-covery, colonization, and commercial and industrial revolution, were
+changes, which through their successive phases of geographical discovery,
+colonization, and commercial and industrial revolution, were
 sweeping away old doctrines, laws, and institutions-themselves the
 products of their times-and creating the modern world. This close
 relation of ideas and events is of course understandable and desirable.
@@ -25,18 +25,18 @@ ideas are undermined, the time span depending upon the importance
 and the rapidity of economic change; and on occasion, when the time
 is ripe, new leaders come forward to produce their "revolutions." Such
 a process is not confined to economics but has characterized every
-field of human inquiry. This is not the source of my unrest. In eco-
-nomics, however, there have been some features of the process which
+field of human inquiry. This is not the source of my unrest. In economics,
+however, there have been some features of the process which
 have left with me, since graduate student days, the abiding sense of
 wonder, to which I referred earlier, about the progress of our thinking,
 and particularly whether we are making some progress toward doing
 the leading, or are merely being led on by events which, after the fact,
 we seek to rationalize into some plausible pattern.
 Adam Smith has been described as a great observer, and even as a
-great thinker, but not as a great theorist. Baumol's very interesting re-
-cent book on Economic Dynamics2 begins with a chapter on "classical
+great thinker, but not as a great theorist. Baumol's very interesting recent
+book on Economic Dynamics2 begins with a chapter on "classical
 dynamics." It makes not a single reference to Adam Smith, but gives
-an excellent analysis of Ricardian economics. Yet surely Smith de-
-serves a high place, and perhaps the highest, in any historical account
+an excellent analysis of Ricardian economics. Yet surely Smith deserves
+a high place, and perhaps the highest, in any historical account
 of dynamic economics. The point evidently is that, while Smith pro-
 2 William J. Baumol, Economic Dynamics (New York, Macmillan, 1951).

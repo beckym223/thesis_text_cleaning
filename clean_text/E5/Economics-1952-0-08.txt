@@ -2,12 +2,12 @@ leisure which in our kind of society should be the primary aims of
 economic inquiry. But this book too turned out to be static economics,
 with the difference-and this is what explains classical economics'
 being a "special case"-that static equilibrium has now given way to
-"comparative statics," and partial equilibrium analysis has now be-
-come total equilibrium analysis. This latter, as it turned out, was what
+"comparative statics," and partial equilibrium analysis has now become
+total equilibrium analysis. This latter, as it turned out, was what
 Keynes meant by the quantity of resources employed, as distinct from
 their distribution among uses and their relative rewards.
-But surely the basic method is precisely on all fours with the classi-
-cal analysis. It is again a purely logical contrivance which proceeds
+But surely the basic method is precisely on all fours with the classical
+analysis. It is again a purely logical contrivance which proceeds
 from certain assumed relationships to conclusions which inexorably
 follow so long as the assumptions are maintained inviolate and "other
 things" remain unchanged. In its essentials, the Keynesian system,
@@ -15,17 +15,17 @@ like almost any consistent theory, is simple. Several times in the course
 of the book, Keynes sums it up very well in a few sentences. To my
 mind, it is a recast version of the quantity theory of money, which he
 seeks to "push back toward becoming a theory of output as a whole."
-He does this by converting the quantity equation into an income equa-
-tion and applying concepts mainly derived from refinements on the
+He does this by converting the quantity equation into an income equation
+and applying concepts mainly derived from refinements on the
 Marshallian k (demand for money), including as the really unique
 feature of his theory, on which its whole validity depends, his "law"
 of the propensity to consume. The core of the theory is his conclusion
 that an advanced capitalistic society suffers from a combination of a
 declining marginal propensity to consume and declining opportunities
-for investment. This and other parts of the theory, such as the assump-
-tion that costs and prices will remain constant or neutral as effective
-demand rises to a full-employment level of income, represent the ef-
-fect on Keynes of the Great Depression of the 'thirties; and it is not
+for investment. This and other parts of the theory, such as the assumption
+that costs and prices will remain constant or neutral as effective
+demand rises to a full-employment level of income, represent the effect
+on Keynes of the Great Depression of the 'thirties; and it is not
 to be wondered at that his American disciples, in particular, elaborated
 his theory (though I think without adding anything not already there)
 into the stagnation thesis. Once again, as with Ricardo, we have the
@@ -35,8 +35,8 @@ is their attitude toward "laws." Ricardo had rejected an inquiry into
 the quantity of wealth because no "law" could be laid down. Keynes'
 analysis of the level of employment turns primarily on his assumed
 "law" of the propensity to consume. Herein lies a real dilemma for
-economic theorizing. We are constantly searching for "lawss" or "regu-
-larities" or "normal" or "stable" relationships. Without them we are
+economic theorizing. We are constantly searching for "lawss" or "regularities"
+or "normal" or "stable" relationships. Without them we are
 reduced to what Bagehot called the "All Case" method of the German
 historical school. But at the other extreme lies what he called the "One
 Case" method of the British classical school. We are all too apt, seizing

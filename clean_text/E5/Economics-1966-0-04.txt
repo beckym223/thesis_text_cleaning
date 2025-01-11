@@ -1,8 +1,8 @@
 and its annual increment roughly 22 instead of 4 millions. Meanwhile
 the world's population had risen from less than a billion to just over
 2 billion; that of Europe and the Soviet Union to over a half billion,
-nearly triple the 1800 figure. Of Europe's population nearly three per-
-sons in ten lived in 248 cities of 100,000 and over, compared with only
+nearly triple the 1800 figure. Of Europe's population nearly three persons
+in ten lived in 248 cities of 100,000 and over, compared with only
 about one in thirty in 18 such cities in 1800. Meanwhile the world's
 cities of 100,000 and over had risen in number eighteenfold to nearly
 700 and their relative population eightfold to 11 per cent of the world
@@ -11,27 +11,27 @@ could write in 1920 (Principles, preface):
 In the present age, the opening out of new countries aided by low
 transport charges on land and sea, has almost suspended the tendency
 to Diminishing Return . . . and yet, if the growth of population should
-continue for very long even at a quarter of its present rate, the aggre-
-gate rental value of land for all uses . . may again exceed the aggre-
-gate of incomes derived from all other forms of material property.
-Nor is it surprising that Malthus's Geometrical Ratio should be redis-
-covered in the 1920's [39], and that J. M. Keynes could warn that the
-Malthusian Devil had broken his chains in a world ridden by diminish-
-ing returns. Overpopulated Europe in particular was threatened, he be-
-lieved. The inequality essential to adequate capital formation was un-
-likely to be tolerated, and Europe's terms of trade were destined to turn
+continue for very long even at a quarter of its present rate, the aggregate
+rental value of land for all uses . . may again exceed the aggregate
+of incomes derived from all other forms of material property.
+Nor is it surprising that Malthus's Geometrical Ratio should be rediscovered
+in the 1920's [39], and that J. M. Keynes could warn that the
+Malthusian Devil had broken his chains in a world ridden by diminishing
+returns. Overpopulated Europe in particular was threatened, he believed.
+The inequality essential to adequate capital formation was unlikely
+to be tolerated, and Europe's terms of trade were destined to turn
 against her, dependent as she was upon produce imported from a New
 World now become subject to diminishing returns. It was questionable,
 therefore, if her precarious economy any longer enjoyed a margin of
 safety against dislocation, a probable sequel to the treaty of Versailles
 [23]. At least four aspects of economists' response to Malthus's Essay
 in this period merit attention.
-1. Malthus's Essay directed attention to the critical role of limita-
-tional factors and to the impact of adverse externalities associated
+1. Malthus's Essay directed attention to the critical role of limitational
+factors and to the impact of adverse externalities associated
 with population growth. His ultimate limitational factor was land or
 "room." He implied, however, that it could be some other source of
-man's living budget, should man practice moral restraint. While Eng-
-land's marginal per acre wheat yield was only 8 bushels in 1812, the
+man's living budget, should man practice moral restraint. While England'
+s marginal per acre wheat yield was only 8 bushels in 1812, the
 average having fallen from 24 in 1771 to 22 in 1812 [8, 2nd. ed., pp.
 225-26]. M1althus did not draw upon this sort of evidence. Instead he
 seems to have reasoned from the limitedness of arable land and its

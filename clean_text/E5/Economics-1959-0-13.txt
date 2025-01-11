@@ -2,18 +2,18 @@ enterprise in the inventive process. Just as the modern corporation
 has replaced the individual as coordinator of production and manager
 of business, so invention has become a group process. Research teams
 working in well-equipped laboratories under centralized guidance and
-according to well-defined plans have largely replaced the lone investiga-
-tor whose research was circumscribed only by his curiosity, his intel-
-lectual ability, and his imagination. Corporations have sought to dis-
-cover and foster not the individual inventor but the well-rounded
-scientist, loyal to the organization and willing to subordinate his per-
-sonal interests to group interests and to gear his endeavors to those of
+according to well-defined plans have largely replaced the lone investigator
+whose research was circumscribed only by his curiosity, his intellectual
+ability, and his imagination. Corporations have sought to discover
+and foster not the individual inventor but the well-rounded
+scientist, loyal to the organization and willing to subordinate his personal
+interests to group interests and to gear his endeavors to those of
 like-minded colleagues, interested in discovering new ways of applying
 existing knowledge to the commercialization of new products and
 processes rather than in carrying on basic research. The following
 statement by an executive of a large industrial corporation illustrates
-the trend towards group activity: "Except in certain research assign-
-ments, few specialists in a large company ever work alone. There is
+the trend towards group activity: "Except in certain research assignments,
+few specialists in a large company ever work alone. There is
 little room for virtuoso performances" [33, p. 2143.
 The federal government, which directly and indirectly through tax
 policy has become the chief sponsor and financier of research activities,
@@ -22,16 +22,16 @@ toward practical ends. In research contracts that government agencies
 awarded in 1953, 1954, and 1955, 93 per cent of the $5.6 billion total
 went to applied rather than fundamental research [33, p. 218]. It is
 a reasonable assumption that virtually all was spent on corporate
-or other group projects, rather than on research by individual in-
-vestigators. John H. Troll, physicist and vice president of Electronics
+or other group projects, rather than on research by individual investigators.
+John H. Troll, physicist and vice president of Electronics
 Corporation of America, commenting on the government's subsidizing
 private research in defense contracts, had this to say:
 This approach has debilitated all government research facilities, leaving
-research and development vital to our defense to be performed under con-
-tracts by private firms, under a system that leads to the selection of
+research and development vital to our defense to be performed under contracts
+by private firms, under a system that leads to the selection of
 contractors on the basis of size and financial status rather than scientific
-capability. This in turn has brought about an "organization man" ap-
-proach to research that destroys individual creativity in the scientist by
+capability. This in turn has brought about an "organization man" approach
+to research that destroys individual creativity in the scientist by
 leading to a sort of creeping collectivism more usually associated with
 the Soviet Union [29, p. 22].
 Philanthropic foundations confronted with the task of giving away

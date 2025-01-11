@@ -1,13 +1,13 @@
 analysis offers no material in support of indiscriminate "trust busting"
-and that such material must be looked for in the particular circum-
-stances of each individual case. Nevertheless, many economists support
+and that such material must be looked for in the particular circumstances
+of each individual case. Nevertheless, many economists support
 such indiscriminate "trust busting" and the interesting point is that
 enthusiastic sponsors of the private-enterprise system are particularly
 prominent among them. Theirs is the ideology of a capitalist economy
 that would fill its social functions admirably by virtue of the magic
 wand of pure competition were it not for the monster of monopoly or
-oligopoly that casts a shadow on an otherwise bright scene. No argu-
-ment avails about the performance of largest-scale business, about
+oligopoly that casts a shadow on an otherwise bright scene. No argument
+avails about the performance of largest-scale business, about
 the inevitability of its emergence, about the social costs involved in
 destroying existing structures, about the futility of the hallowed ideal
 of pure competition- or in fact ever elicits any response other than
@@ -19,17 +19,17 @@ economic history which displays the traces of ideological premises so
 clearly, precisely because they are rarely formulated in so many words,
 hence rarely challenged-the subject of the role that is to be attributed
 in economic development to the initiative of governments, policies,
-and politics affords an excellent instance: groupwise, economic his-
-torians have systematically over- or understated the importance of this
-initiative in a manner that points unequivocally to prescientific con-
-victions. Even statistical inference loses the objectivity that should in
+and politics affords an excellent instance: groupwise, economic historians
+have systematically over- or understated the importance of this
+initiative in a manner that points unequivocally to prescientific convictions.
+Even statistical inference loses the objectivity that should in
 good logic characterize it whenever ideologically relevant issues are
 at stake.7 And some of the sociological, psychological, anthropological,
 biological waters that wash our shores are so vitiated by ideological
 bias that, beholding the state of things in parts of those fields, the
 economist might sometimes derive solace from comparison. Had we
-time, we could everywhere observe the same phenomenon: that ideolo-
-gies crystallize, that they become creeds which for the time being are
+time, we could everywhere observe the same phenomenon: that ideologies
+crystallize, that they become creeds which for the time being are
 impervious to argument; that they find defenders whose very souls
 go into the fight for them.
 There is little comfort in postulating, as has been done sometimes,
@@ -37,8 +37,8 @@ the existence of detached minds that are immune to i-deological bias
 and ex hypothesi able to overcome it. Such minds may actually exist
 7 I am not aware of any instances in which the rules of inference themselves have been
 ideologically distorted. All the more frequent are instances in which the rigor of tests
-is relaxed or tightened according to the ideological appeal of the proposition under dis-
-cussion. Since acceptance or rejection of a given statistical result always involves some
+is relaxed or tightened according to the ideological appeal of the proposition under discussion.
+Since acceptance or rejection of a given statistical result always involves some
 risk of being wrong, mere variation in willingness to incur such a risk will suffice, even
 apart from other reasons, to produce that well-known situation in which two statistical
 economists draw opposite inferences from the same figures.

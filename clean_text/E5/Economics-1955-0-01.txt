@@ -1,27 +1,27 @@
-The central theme of this paper is the character and causes of long-
-term changes in the personal distribution of income. Does inequality
+The central theme of this paper is the character and causes of longterm
+changes in the personal distribution of income. Does inequality
 in the distribution of income increase or decrease in the course of a
 country's economic growth? What factors determine the secular level
 and trends of income inequalities?
 These are broad questions in a field of study that has been plagued
 by looseness in definitions, unusual scarcity of data, and pressures of
 strongly held opinions. While we cannot completely avoid the resulting
-difficulties, it may help to specify the characteristics of the size-of-
-income distributions that we want to examine and the movements of
+difficulties, it may help to specify the characteristics of the size-ofincome
+distributions that we want to examine and the movements of
 which we want to explain.
 Five specifications may be listed. First, the units for which incomes
 are recorded and grouped should be family-expenditure units, properly
-adjusted for the number of persons in each-rather than income re-
-cipients for whom the relations between receipt and use of income can
+adjusted for the number of persons in each-rather than income recipients
+for whom the relations between receipt and use of income can
 be widely diverse. Second, the distribution should be complete, i.e.,
 should cover all units in a country rather than a segment either at the
 upper or lower tail. Third, if possible we should segregate the units
 whose main income earners are either still in the learning or already in
 the retired stages of their life cycle-to avoid complicating the picture
-by including incomes not associated with full-time, full-fledged participa-
-tion in economic activity. Fourth, income should be defined as it is now
-for national income in this country, i.e., received by individuals, in-
-cluding income in kind, before and after direct taxes, excluding capital
+by including incomes not associated with full-time, full-fledged participation
+in economic activity. Fourth, income should be defined as it is now
+for national income in this country, i.e., received by individuals, including
+income in kind, before and after direct taxes, excluding capital
 gains. Fifth, the units should be grouped by secular levels of income,
 free of cyclical and other transient disturbances.
 For such a distribution of mature expenditure units by secular levels

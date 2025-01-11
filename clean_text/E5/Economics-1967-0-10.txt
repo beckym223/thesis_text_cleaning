@@ -3,39 +3,39 @@ The same sort of confusion about the scope of problems and models
 for their solution has been fostered in recent writings on the theory of
 the firm: models have been condemned or rejected because they could
 not be used for purposes for which they had not been designed, and
-significant differences in the questions to be answered have been ob-
-scured or underemphasized.
+significant differences in the questions to be answered have been obscured
+or underemphasized.
 Let us again pose four typical questions and see which of them we
 might expect to answer with the aid of "price theory." (1) What will
-be the prices of cotton textiles? (2) What prices will the X Corpora-
-tion charge? (3) How will the prices of cotton textiles be affected by
+be the prices of cotton textiles? (2) What prices will the X Corporation
+charge? (3) How will the prices of cotton textiles be affected by
 an increase in wage rates? (4) How will the X Corporation change its
 prices when wage rates are increased?
 Conventional price theory is not equipped to answer any but the
 third question; it may perhaps also suggest a rebuttable answer to the
 fourth question. But Questions 1 and 2 are out of reach. We could not
 obtain all the information that would be required for their answers and
-there is, therefore, no use burdening the models with variables remain-
-ing silent and inactive throughout the show.
+there is, therefore, no use burdening the models with variables remaining
+silent and inactive throughout the show.
 We ought to guard against an easy misunderstanding of our denial
 that conventional price theory can predict actual prices of specified
 goods. Prediction of future prices of a particular commodity may in
-fact be quite manageable if we know its present price. It should be ob-
-vious, however, that this is Question 3, not Question 1. Or, one may be
+fact be quite manageable if we know its present price. It should be obvious,
+however, that this is Question 3, not Question 1. Or, one may be
 able to predict prices on the basis of good information on production
 cost. But this presupposes that we know the demand for the commodity
-and assume it will remain unchanged; which again comes down essen-
-tially to evaluations of changes of some variables with others held
+and assume it will remain unchanged; which again comes down essentially
+to evaluations of changes of some variables with others held
 constant, that is, to Question 3.
 If the number of firms producing cotton textiles is large and the X
 Corporation does not supply a very large part of the aggregate output
-of the industry, price theory may suggest an answer to Question 4, al-
-though this is not the purpose of the theory and there may be a consid-
-erable chance for the suggested answer to be wrong. The point is that a
+of the industry, price theory may suggest an answer to Question 4, although
+this is not the purpose of the theory and there may be a considerable
+chance for the suggested answer to be wrong. The point is that a
 model of a theoretical firm in an industry consisting of a large number
 of firms can do with a much smaller number of assumptions, provided
-the model is used to predict, not the actual reactions of any one partic-
-ular firm, but only the effects of the hypothetical reactions of numer-
-ous anonymous "reactors" (symbolic firms). If it were to be applied to
+the model is used to predict, not the actual reactions of any one particular
+firm, but only the effects of the hypothetical reactions of numerous
+anonymous "reactors" (symbolic firms). If it were to be applied to
 predictions of reactions of a particular firm, the model would have to
 also wish to determine the speed of driving, the frequency and length of stops at road-  side stands, and all the rest.

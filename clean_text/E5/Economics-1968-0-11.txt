@@ -3,33 +3,33 @@ simply to keep real wages unchanged. An excess supply of labor will be
 reflected in a less rapid rise in nominal wages than in anticipated
 prices,4 not in an absolute decline in wages. When Brazil embarked on
 a policy to bring down the rate of price rise, and succeeded in bringing
-the price rise down to about 45 per cent a year, there was a sharp ini-
-tial rise in unemployment because under the influence of earlier antici-
-pations, wages kept rising at a pace that was higher than the new rate
+the price rise down to about 45 per cent a year, there was a sharp initial
+rise in unemployment because under the influence of earlier anticipations,
+wages kept rising at a pace that was higher than the new rate
 of price rise, though lower than earlier. This is the result experienced,
 and to be expected, of all attempts to reduce the rate of inflation below
 that widely anticipated.5
 To avoid misunderstanding, let me emphasize that by using the term
-"natural" rate of unemployment, I do not mean to suggest that it is im-
-mutable and unchangeable. On the contrary, many of the market char-
-acteristics that determine its level are man-made and policy-made. In
-the United States, for example, legal minimum wage rates, the Walsh-
-Healy and Davis-Bacon Acts, and the strength of labor unions all make
+"natural" rate of unemployment, I do not mean to suggest that it is immutable
+and unchangeable. On the contrary, many of the market characteristics
+that determine its level are man-made and policy-made. In
+the United States, for example, legal minimum wage rates, the WalshHealy
+and Davis-Bacon Acts, and the strength of labor unions all make
 the natural rate of unemployment higher than it would otherwise be.
 Improvements in employment exchanges, in availability of information
 about job vacancies and labor supply, and so on, would tend to lower
 the natural rate of unemployment. I use the term "natural" for the
-same reason Wicksell did-to try to separate the real forces from mon-
-etary forces.
+same reason Wicksell did-to try to separate the real forces from monetary
+forces.
 Let us assume that the monetary authority tries to peg the "market"
-rate of unemployment at a level below the "natural" rate. For definite-
-ness, suppose that it takes 3 per cent as the target rate and that the
+rate of unemployment at a level below the "natural" rate. For definiteness,
+suppose that it takes 3 per cent as the target rate and that the
 "natural" rate is higher than 3 per cent. Suppose also that we start out
 at a time when prices have been stable and when unemployment is
 higher than 3 per cent. Accordingly, the authority increases the rate of
 monetary growth. This will be expansionary. By making nominal cash
-4 Strictly speaking, the rise in nominal wages will be less rapid than the rise in antici-
-pated nominal wages to make allowance for any secular changes in real wages.
+4 Strictly speaking, the rise in nominal wages will be less rapid than the rise in anticipated
+nominal wages to make allowance for any secular changes in real wages.
 'Stated in terms of the rate of change of nominal wages, the Phillips Curve can be  expected to be reasonably stable and well defined for any period for which the average  rate of change of prices, and hence the anticipated rate, has been relatively stable. For  such periods, nominal wages and "real" wages move together. Curves computed for differ-  ent periods or different countries for each of which this condition has been satisfied will  differ in level, the level of the curve depending on what the average rate of price change  was. The higher the average rate of price change, the higher will tend to be the level of  the curve. For periods or countries for which the rate of change of prices varies consider-  ably, the Phillips Curve will not be well defined. My impression is that these statements  accord reasonably well with the experience of the economists who have explored empirical
 Phillips Curves.
 Restate Phillips' analysis in terms of the rate of change of real wages-and even more  precisely, anticipated real wages-and it all falls into place. That is why students of  empirical Phillips Curves have found that it helps to include the rate of change of the  price level as an independent variable.

@@ -4,11 +4,11 @@ injury to health, efficiency, or morale.
 Similar factors go far to explain the survival of the United Kingdom
 when her engulfment seemed to many inevitable, her leadership in the
 war before Pearl Harbor, and her effective continued partnership in
-subsequent years. Far more than Americans, the British have demon-
-strated remarkable ability to tolerate drastic shrinkage of their ac-
-customed content of living and yet maintain their health, efficiency,
-and balance. Germans, Russians, and Japanese have all displayed un-
-expected reserves above bare subsistence that could be devoted first
+subsequent years. Far more than Americans, the British have demonstrated
+remarkable ability to tolerate drastic shrinkage of their accustomed
+content of living and yet maintain their health, efficiency,
+and balance. Germans, Russians, and Japanese have all displayed unexpected
+reserves above bare subsistence that could be devoted first
 to armament in all its phases and then to prosecution of the war itself.
 The present vulnerability of Germany and Japan lies partly in the
 narrower margins they have for contracting their planes of living,
@@ -23,8 +23,8 @@ content of living. It is likewise made up of components urgently wanted
 and worked for, not of dreams or visions, but in various respects it is
 typically ampler than the current plane of living.
 The relationship between level and corresponding standard is of
-profound significance. This is one basic reason for sharpening the dis-
-tinctions on which I insist. The urgent, unsatisfied wants may be for
+profound significance. This is one basic reason for sharpening the distinctions
+on which I insist. The urgent, unsatisfied wants may be for
 additional consumer goods or a better quality of them, for shorter hours
 of work or more regular employment, for better protection against
 illness, death, war, and depressions, for enlarged freedom to learn,
@@ -32,8 +32,8 @@ speak, vote, travel, or shift occupation, for greater harmony in the
 home, factory, community, nation, and community of nations. It is this
 margin between standard and content of living that furnishes essential
 incentives to achieve an ampler content of living. Indeed, here is a major
-reason why some countries have achieved political and economic ad-
-vances, and why population growth has slowed down in the Western
+reason why some countries have achieved political and economic advances,
+and why population growth has slowed down in the Western
 World. Even where in our eyes the standards are grotesquely distorted,
 as most of us believe to be true of those developed under the Hitler
 regime in Germany, we recognize the power of the incentives provided

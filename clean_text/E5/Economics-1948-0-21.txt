@@ -1,6 +1,6 @@
 found the value of k was .66, and that for j, .32. When he made white
-and black labor separate factors of production and broke manufactur-
-ing down into eighty-five industries, the sum of the two exponents for
+and black labor separate factors of production and broke manufacturing
+down into eighty-five industries, the sum of the two exponents for
 labor amounted to .65. While we cannot rely too much upon only one
 study, it is of interest that his results were substantially the same as
 those which we obtained on the average for the United States for the
@@ -17,8 +17,8 @@ upon the other, with the former having lower k's and higher j's than
 the United States, and (2) between years within the same country.
 This is to be expected, as I pointed out long ago in a section of my
 Theory of Wages."1 But underneath all these differences, it is submitted
-that there has been for the periods studied, a substantial core of stabil-
-ity within countries and that differences in technique, differences in the
+that there has been for the periods studied, a substantial core of stability
+within countries and that differences in technique, differences in the
 relative importance of given industries, and differences in the ratios
 of capital to labor may account for such deviations in the values of the
 exponents as exist.22
@@ -39,6 +39,6 @@ the series used in Australia, New Zealand, and South Africa. (3) Product (P) =gr
 value minits cost of materials, fuel, electricity, etc., used. See Patricia Daly (Ogburn) and
 Paul H. Douglas, "The Production Function for Canadian Manufactures," Jour. Am. Stat.
 Assoc., Vol. XXXVIII (1943), pp. 178-86.
-f Professor Williams defined his terms as follows: (1) Labor (L) =number of persons en-
-gaged; (2) Capital (C) =value of land, buildings, plant, and machinery, i.e., fixed capital.
+f Professor Williams defined his terms as follows: (1) Labor (L) =number of persons engaged;
+(2) Capital (C) =value of land, buildings, plant, and machinery, i.e., fixed capital.
 (3) Product (P) =gross sales value of product minus cost of materials, fuel, and power. See  J. W. WNilliams, op. cit., p. 59.

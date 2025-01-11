@@ -3,11 +3,11 @@ and other benefits that accrue from having a sizable staff, would the
 marginal rates of substitution be adapted to the new cost relation. In
 such a case we might also perhaps be able to tell the kind of response
 of the decision-makers.
-Alas, the condition that the marginal rates of substitution are inde-
-pendent of the total funds available is not likely to be satisfied; in ad-
-dition, certain types of change in conditions have the bad habit of
-affecting at the same time funds available and relative costs of utilifac-
-tors. For example, an increase in the corporate income tax will change
+Alas, the condition that the marginal rates of substitution are independent
+of the total funds available is not likely to be satisfied; in addition,
+certain types of change in conditions have the bad habit of
+affecting at the same time funds available and relative costs of utilifactors.
+For example, an increase in the corporate income tax will change
 the trade-off ratio between expensable outlays and profits in favor of
 avoidable expenses.
 Marginalism Extended: Choice of Maximanda
@@ -20,21 +20,21 @@ formalism will not be enough. For predictive purposes we need more to
 go by with the help of fewer variables. Maximization of money profits
 is certainly the simplest "objective function," but it works only in the
 case of firms exposed to vigorous competition. The management of a
-firm that makes more than enough money need not go all out to maxi-
-mize profits; it can afford to do a few other things that it likes, such as
-serving what by its own lights it regards as the national interest or in-
-dulging in other luxuries.
+firm that makes more than enough money need not go all out to maximize
+profits; it can afford to do a few other things that it likes, such as
+serving what by its own lights it regards as the national interest or indulging
+in other luxuries.
 Would this imply "giving up" the principle of marginalism in the
 theory of the profitable firm? This is chiefly a semantic question. I
 have been inclined to use a more extended definition. In 1946, I called
 marginalism "the logical process of finding a maximum" [21, p. 519].
-I did not say that it had to be maximization of money profits-
-though I struggled hard to justify the use of profit maximization in all
-cases. In the meantime several writers have shown that profit maxi-
-mization may not be a completely unambiguous objective, even where
+I did not say that it had to be maximization of money profitsthough
+I struggled hard to justify the use of profit maximization in all
+cases. In the meantime several writers have shown that profit maximization
+may not be a completely unambiguous objective, even where
 it is used in splendid isolation from all competing goals, in that it may
-refuse to yield unambiguous conclusions regarding the effects of cer-
-tain changes, such as the effects of changes in profit taxes. In addition,
+refuse to yield unambiguous conclusions regarding the effects of certain
+changes, such as the effects of changes in profit taxes. In addition,
 it has been shown that several workable "objective functions" can be
 developed that give plausible results with a few relatively simple terms
 added. Any of these functions that can be maximized, with or without

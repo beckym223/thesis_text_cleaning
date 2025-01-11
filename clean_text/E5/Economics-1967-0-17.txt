@@ -1,7 +1,7 @@
 imize money profits, or whether they even strive to maximize their
-money profits, but rather whether the assumption that this is the ob-
-jective of the theoretical firms in the artificial world of our construc-
-tion will lead to conclusions-"inferred outcomes"-very different
+money profits, but rather whether the assumption that this is the objective
+of the theoretical firms in the artificial world of our construction
+will lead to conclusions-"inferred outcomes"-very different
 from those derived from admittedly more realistic assumptions.
 The second qualification in my list-regarding bosses, colleagues
 and subordinates-is quite irrelevant, except perhaps for questions of
@@ -26,15 +26,15 @@ I repeat: In the theory of competitive price the "real existence" of
 firms is irrelevant; imaginary (postulated) agents pursuing a simple
 (postulated) goal react to assumed changes in conditions and thereby
 produce (or allow us to infer) changes in prices, inputs, and outputs
-[24, pp. 13-14]. The correspondence between these inferences (de-
-duced changes) and actual observations (observed changes in prices,
+[24, pp. 13-14]. The correspondence between these inferences (deduced
+changes) and actual observations (observed changes in prices,
 inputs, and outputs, following observed changes in conditions) is close
 for two reasons: (1) The number of firms in the real world is so large
 that it suffices if some of them react as posited by the theory; and (2)
 the profits of firms are only about "normal," that is, excess profits are
-about zero, because of competitive pressures from newcomers (pliopo-
-listic pressures [23, pp. 211-23]), so that profits below the maxi-
-mum obtainable would in fact be net losses in an economic sense.
-These two reasons do not hold in the theories of oligopoly and mo-
-nopoly price.8 For these theories the real existence of firms (that is, an
+about zero, because of competitive pressures from newcomers (pliopolistic
+pressures [23, pp. 211-23]), so that profits below the maximum
+obtainable would in fact be net losses in an economic sense.
+These two reasons do not hold in the theories of oligopoly and monopoly
+price.8 For these theories the real existence of firms (that is, an
 9 The idea that profit maximization is the appropriate hypothesis for the theory of com-  petitive price but not necessarily for the theory of monopoly or oligopoly price has been  expressed repeatedly over the last century.  Pareto, for example, said that "pure economics" cannot tell us anything about the con-
