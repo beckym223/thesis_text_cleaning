@@ -1,4 +1,4 @@
-bility. Theory enables us to predict that traffic will be slower and accidents
+Theory enables us to predict that traffic will be slower and accidents
 more frequent, but it does not enable us to predict that any particular
 driver will drive more slowly or have an accident. The model of
 the reactions of the individual driver was not designed to explain the

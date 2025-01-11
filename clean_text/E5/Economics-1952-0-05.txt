@@ -38,4 +38,4 @@ book on Economic Dynamics2 begins with a chapter on "classical
 dynamics." It makes not a single reference to Adam Smith, but gives
 an excellent analysis of Ricardian economics. Yet surely Smith deserves
 a high place, and perhaps the highest, in any historical account
-of dynamic economics. The point evidently is that, while Smith pro-
+of dynamic economics. The point evidently is that, while Smith provided
