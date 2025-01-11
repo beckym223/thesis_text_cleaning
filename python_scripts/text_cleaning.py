@@ -91,7 +91,7 @@ def is_first_page(filename:str)->bool:
     return "00.txt" in filename
 
 @commit(commit_msg="Removed footnote lines")
-def remove_footnote_lines(dir_path:str,foot_dict:dict[str,int],commit_changes):
+def remove_footnote_lines(dir_path:str,foot_dict:dict[str,int],commit_changes:bool):
     for file, first_foot_line in foot_dict.items():
         try:
             path = os.path.join(dir_path,file)
@@ -101,3 +101,25 @@ def remove_footnote_lines(dir_path:str,foot_dict:dict[str,int],commit_changes):
                 f.write("\n".join(kept_lines).strip())
         except Exception as e:
             logging.error(f"Exception when removing footnote lines with file {file}: {e}")
+
+def split_text(text:str,splits:list[tuple[int,int]])->str:
+    for start,end in splits:
+        text = text[start:end]
+    return text
+
+
+@commit(commit_msg = "Sliced texts on predetermined indices")
+def apply_splits_to_pages(dest_dir:str,split_dict:dict[str,list[tuple[int,int]]],commit_changes:bool):
+    for file,splits in split_dict.items():
+        try:
+            path = os.path.join(file,dest_dir)
+            text = open(path).read().strip()
+            text = split_text(text,splits)
+            with open(path,'w') as f:
+                f.write(text)
+        except FileNotFoundError:
+            logging.warning(f"File {file} not found in directory {dest_dir}. Continuing.")
+            continue
+        except Exception as e:
+            logging.error(f"Error with text splitting of {file}")
+
