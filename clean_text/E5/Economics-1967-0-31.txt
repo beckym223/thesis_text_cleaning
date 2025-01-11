@@ -1,4 +1,3 @@
-
 T While under profit maximization MR-MC = 0, sales maximization requires that  MR = 0; hence, for some of the output sold marginal revenue is less than marginal cost,  which cuts into profits. A minimum-profit constraint sets a limit to this.  In the case of maximization of the growth rate of sales the limit on nonremunerative
 selling is built into the objective itself because a growth of productive assets is required  to support the growth of sales, and the acquisition of these assets presupposes a sufficiency
 of profits, either for internal financing or as a basis for outside finance [3, pp. 1086-871.

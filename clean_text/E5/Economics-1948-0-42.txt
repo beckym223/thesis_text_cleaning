@@ -1,4 +1,3 @@
-
 ' It would be interesting to work out the mathematical possibility that these results are
 purely accidental. I believe that it would only be one out of many millions. It is theoretically
 possible, as Bertrand Russell has pointed out, that all the books in the British Museum

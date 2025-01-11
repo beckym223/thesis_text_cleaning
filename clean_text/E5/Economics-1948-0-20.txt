@@ -8,8 +8,8 @@ New Zealanda 1915-16 18 .42 +.11 .49 ?.03 .91 2.03 .51 +.03
 (Brown) 1918-35
 New Zealandb
 (Williams) 1923-40 18? ? ? ? ? ? - .54 ? .02
-B. Cross-section or inter-
-industry studies
+B. Cross-section or interindustry
+studies
 South Africaa
 (Browne) 1937-38 17 .66 +.08 .32 +.08 .98 54.48 -
 South Africad
@@ -29,15 +29,15 @@ time suffered in the various years. The index of Capital (C) was the value of bu
 and machinery (i.e., fixed capital) with the annual increments of investment deflated by a  price index of the cost of capital goods. We have fitted the function P=bLkCi to the Brown
 data as well as the P=bLkCl-k formula which Brown originaily used.  b Professor Williams computed his indexes as follows: (1) Product (P) = (a) value added by
 manufacturing (i.e., gross value minus cost of materials, fuel, and power), divided by (b) the
-price index of locally produced goods; (2) Capital (C) =initial value (1919-20) of land, build-
-ings, machinery, and plant minus depreciation actually written off each year, and plus the
+price index of locally produced goods; (2) Capital (C) =initial value (1919-20) of land, buildings,
+machinery, and plant minus depreciation actually written off each year, and plus the
 money value of additions to capital in each year adjusted for changes in the index, number of
 prices for buildings and construction; (3) Labor (L) =number of persons employed. See J. W.
 Williams, "Professor Douglas' Production Function," Econ. Record, Vol. XXI (1945), pp.
 55-63.
 a Professor Browne defined his units as follows: (1) Product (P) =net value added by manu-  facturing or the gross value of output minus cost of materials, fuel, light, and power; (2) Labor
-(L) =average number of employees, including wage earners, salaried staff, managers, ac-
-countants, working proprietors, and persons regularly employed in their homes; (3) Capital
+(L) =average number of employees, including wage earners, salaried staff, managers, accountants,
+working proprietors, and persons regularly employed in their homes; (3) Capital
 (C) =the value of land, buildings, machinery, plant, and tools (i.e., fixed capital only, with
 working capital excluded). See G. W. G. Browne, "The Production Function for South African
 Manufacturing Industry," South African Jour. Econ., Vol. XI (1943), p. 259.  d This study differed from the former in that it was based on a more minute classification of

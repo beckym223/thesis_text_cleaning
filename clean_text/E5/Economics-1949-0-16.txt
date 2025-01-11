@@ -1,8 +1,7 @@
-
 7 I am not aware of any instances in which the rules of inference themselves have been
 ideologically distorted. All the more frequent are instances in which the rigor of tests
-is relaxed or tightened according to the ideological appeal of the proposition under dis-
-cussion. Since acceptance or rejection of a given statistical result always involves some
+is relaxed or tightened according to the ideological appeal of the proposition under discussion.
+Since acceptance or rejection of a given statistical result always involves some
 risk of being wrong, mere variation in willingness to incur such a risk will suffice, even
 apart from other reasons, to produce that well-known situation in which two statistical
 economists draw opposite inferences from the same figures.

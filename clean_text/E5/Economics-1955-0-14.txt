@@ -1,8 +1,7 @@
-
 'The underlying calculations are quite simple. For each case we distinguish 20 cells within
 the total distribution-sets of ten deciles for each sector. For each cell we compute the
-percentage shares of both number and income in the number and income of total popula-
-tion, and hence also the relative per capita income of each cell. The cells are then arrayed
+percentage shares of both number and income in the number and income of total population,
+and hence also the relative per capita income of each cell. The cells are then arrayed
 in increasing order of their relative per capita income and cumulated. In the resulting  cumulative distributions of number and countrywide income we establish, by arithmetic
 interpolation, if interpolation is needed, the percentage shares in total income of the
 successive quintiles of the country's population.

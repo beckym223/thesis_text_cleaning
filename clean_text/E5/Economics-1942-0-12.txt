@@ -1,4 +1,3 @@
-
 22In other words, will unions prevent any expansion of demand from producing more
 employment by causing it to produce higher wages?
 23 Suppose that the first reaction of managements to a rise in costs were to advance prices
@@ -18,6 +17,6 @@ prices would produce an even greater drop in output and employment.
 24 It is conceivable that wages might get so low and that such a large proportion of the
 national income might go to savings and such a small part to labor that further reductions
 in wages would cause more than a proportionate drop in total expenditures. As the
-increase in investment-seeking funds produced a drop in the marginal return on invest-
-ments, the proportion of money held idle would increase. Eventually it would increase so
+increase in investment-seeking funds produced a drop in the marginal return on investments,
+the proportion of money held idle would increase. Eventually it would increase so
 rapidly as more than to offset the effect of the drop in costs and prices upon the physical

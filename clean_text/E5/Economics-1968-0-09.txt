@@ -1,3 +1,2 @@
-
 2 This is partly an empirical not theoretical judgment. In principle, "tightness" or "ease"
 depends on the rate of change of the quantity of money supplied compared to the rate of  change of the quantity demanded excluding effects on demand from monetary policy itself.  However, empirically demand is highly stable, if we exclude the effect of monetary policy,  so it is generally sufficient to look at supply alone.

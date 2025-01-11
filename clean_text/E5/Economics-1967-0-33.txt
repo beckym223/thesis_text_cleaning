@@ -1,4 +1,3 @@
-
 ' As a matter of fact, it will also depend on the research techniques which the appoinite(1
 analyst has learned to master; we can eliminate this bias by assuming an ideal analyst
 equally adept in all techniques.

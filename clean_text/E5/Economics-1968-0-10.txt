@@ -1,2 +1,1 @@
-
 3It is perhaps worth noting that this "natural" rate need not correspond to equality  between the number unemployed and the number of job vacancies. For any given structure  of the labor mnarket, there will be some equilibrium relation between these two magnitudes,  but there is no reason why it should be one of equality.

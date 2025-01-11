@@ -1,4 +1,3 @@
-
 4The same statement can be made about the household. The "household" in price theory
 is not an object of study; it serves only as a theoretical link between changes in prices
 and changes in labor services supplied and in consumer goods demanded. The hypothetical
@@ -6,10 +5,10 @@ reactions of an imaginary decision-maker on the basis of assumed, internally con
 preference functions serve as the simplest and heuristically satisfactory explanation of
 empirical relationships between changes in prices and changes in quantities. In other words,
 the household in price theory is not an object of study.
-Behavioral studies of real households are something entirely different. A realistic, be-
-havioral theory of the household might conceivably distinguish the large, children-domi-
-nated household from a simpler, father-dominated one. The decisions in the children-
-dominated household, where mother frequently and father occasionally try to exercise
+Behavioral studies of real households are something entirely different. A realistic, behavioral
+theory of the household might conceivably distinguish the large, children-dominated
+household from a simpler, father-dominated one. The decisions in the childrendominated
+household, where mother frequently and father occasionally try to exercise
 some influence, are probably not consistent, since different preference systems are made
 explicit at various times, with varying decibels and gestures deployed to make them pre-  vail over the preferences of other members of the family.
 One can imagine studies on the behavior of particular households selected at random or

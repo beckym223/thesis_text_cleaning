@@ -1,4 +1,3 @@
-
 "Instead of cataloguing the various contributions to the "utility" of the management  and their relationships to the sources and uses of the firm's funds, one may wish to classify  the expenses of the firm with reference to "discretionary" decisions of the management  influenced by the decision-makers' preferences. Here is a tentative classification of this
 sort:
 1. Expenses required for the production of (a) current output of unchanged size,  (b) additional current output, with marginal cost not exceeding marginal revenue (hence,
@@ -7,5 +6,5 @@ contributing to higher profits), and (c) additional current output, with margina
 3. Expenses for managerial personnel in the form of (a) salaries and bonuses, and  (b) services rendered to them for their convenience and pleasure.
 4. Expenses not required for either current or future production, but (a) expected of
 a profitable firm as a social service, and only slightly promoting the public image of
-management, (b) widely recognized as contributing to the social or national benefit and  as indicative of the public spirit of the management, (c) contributing chiefly to the grati-
-fication of personal desires of supervisory and managerial personnel, and (d) largely
+management, (b) widely recognized as contributing to the social or national benefit and  as indicative of the public spirit of the management, (c) contributing chiefly to the gratification
+of personal desires of supervisory and managerial personnel, and (d) largely

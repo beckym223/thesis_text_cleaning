@@ -1,4 +1,3 @@
-
 2If the history of science is still generally in a crude form, that is primarily because  scholars have just recently begun to take it seriously. In the case of mathematics, there is
 a most ludicrous ignorance of the true sequence of contributions: if a formula, such as  Lagrange's interpolation formula, is attributed by name to a person, the betting is good
 that small research will show it appeared in earlier writinrgs. What I have in mind here

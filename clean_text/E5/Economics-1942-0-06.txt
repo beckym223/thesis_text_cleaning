@@ -12,8 +12,8 @@ Year Raw materials Finished Goods
 8 Satisfactory information on the saving function is virtually impossible to obtain because
 the relation of consumption to income payments has been affected in recent years by  changes in taxes and other conditions. These changes may or may not be permanent. Further
 changes appear to be ahead. At any rate, they indicate that attempts to deduce the saving
-function from time series are likely to have little significance for the future. Such in-
-formation as is available indicates that in the range between a national income of 60
+function from time series are likely to have little significance for the future. Such information
+as is available indicates that in the range between a national income of 60
 billion dollars and 80 billion dollars there is an increase of about 40 cents in saving for
 one dollar increase in income. Hence, a persistent deficit (or an increase in investment) of
 4 billion dollars is necessary to raise the national income by about 10 billion dollars. If

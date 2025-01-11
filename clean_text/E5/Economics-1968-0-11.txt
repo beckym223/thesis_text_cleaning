@@ -1,6 +1,5 @@
-
-4 Strictly speaking, the rise in nominal wages will be less rapid than the rise in antici-
-pated nominal wages to make allowance for any secular changes in real wages.
+4 Strictly speaking, the rise in nominal wages will be less rapid than the rise in anticipated
+nominal wages to make allowance for any secular changes in real wages.
 'Stated in terms of the rate of change of nominal wages, the Phillips Curve can be  expected to be reasonably stable and well defined for any period for which the average  rate of change of prices, and hence the anticipated rate, has been relatively stable. For  such periods, nominal wages and "real" wages move together. Curves computed for differ-  ent periods or different countries for each of which this condition has been satisfied will  differ in level, the level of the curve depending on what the average rate of price change  was. The higher the average rate of price change, the higher will tend to be the level of  the curve. For periods or countries for which the rate of change of prices varies consider-  ably, the Phillips Curve will not be well defined. My impression is that these statements  accord reasonably well with the experience of the economists who have explored empirical
 Phillips Curves.
 Restate Phillips' analysis in terms of the rate of change of real wages-and even more  precisely, anticipated real wages-and it all falls into place. That is why students of  empirical Phillips Curves have found that it helps to include the rate of change of the  price level as an independent variable.

@@ -1,2 +1,1 @@
-
 8 The values of k and j are each relatively large in relation to their standard errors.

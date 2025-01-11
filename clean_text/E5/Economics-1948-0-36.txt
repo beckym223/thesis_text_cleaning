@@ -1,9 +1,9 @@
 TABLE VII.-AN ANALYSIS OF THE COMPARATIVE DEGREES OF PLUS AND MINUS DEVIATIONS
 OF ACTUAL FROM THEORETICAL PRODUCTS IN AMERICAN MANUFACTURING
 INDUSTRIES 1889-1919
-Number of Industries with Devia- Number of Industries with Devia-
-tions of Less Than Two Standard tions of More Than Two Stand-
-Year Errors of Estimate ard Errors of Estimate
+Number of Industries with Devia- Number of Industries with Deviations
+of Less Than Two Standard tions of More Than Two StandYear
+Errors of Estimate ard Errors of Estimate
 Plus Minus Plus Minus
 1889 190 153 4 16
 1899 166 154 5 7

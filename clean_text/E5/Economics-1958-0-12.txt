@@ -1,4 +1,3 @@
-
 " Am. Econ. Rev., Suppl., March 1936, XXVI, 320.
 " K. Boulding, "Welfare Economics," in B. F. Haley, ed., A Survey of Contemporary
 Economics, Vol. II (New York, 1952), pp. 23-26.
