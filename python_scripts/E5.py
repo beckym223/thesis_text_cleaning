@@ -10,6 +10,8 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
     try:
         for file in sorted(os.listdir(dest_dir)):
             try:
+                if file[0] =='.':
+                    continue
                 disc,year,num,pagetxt = file.split("-")
                 page=int(pagetxt[:-4])
                 path = os.path.join(dest_dir, file)
