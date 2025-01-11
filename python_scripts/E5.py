@@ -4,6 +4,7 @@ import logging
 from utils import *
 from text_cleaning import *
 from constants import E5_SPLIT_RANGES
+import subprocess
 
 def clean_headers_footers(dest_dir:str,commit_changes:bool):
     pages_to_delete = []
@@ -27,7 +28,10 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                         else:
                             text = text.split(footnote.group(0))[0]
                     elif len(text)<500:
-                        pages_to_delete.append(path)
+                        os.remove(path)
+                        if commit_changes:
+                            logging.info(f"Staging {file} removal")
+                            subprocess.run(["git", "rm", path], check=True)
                         continue
                     else:
                         text = text.strip().split("\n",1)[1]
