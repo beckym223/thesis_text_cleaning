@@ -3,21 +3,21 @@ function, not of the independence of the management from the control
 of the owners, but chiefly of the independence of the management from
 urgent worries about the sufficiency of earnings. If one insists, one
 may still say that all managers are primiarly interested in their own
-incomes. But, since it is clear that their long-term incomes are jeopar-
-dized if profits go below the acceptable rate of return, maximization of
+incomes. But, since it is clear that their long-term incomes are jeopardized
+if profits go below the acceptable rate of return, maximization of
 managerial incomes and maximization of profits come to to the same
 thing if competition is effective.9
-There can be no doubt about the fact that competition is not effec-
-tive in many industries and that many, very many, firms are not exposed
+There can be no doubt about the fact that competition is not effective
+in many industries and that many, very many, firms are not exposed
 to vigorous competition. It follows that managerial discretion can have
 its way in a large enough number of firms to secure wide applicability
 of well-designed managerial-discretion models-or to invite the use of
 managerial total-utility models.
 I was fully aware, when I wrote my 1946 article, that there were
-many qualifications and exceptions to the principle of profit maximiza-
-tion.'0 But I considered it hopeless for predictive purposes to work
-with total-utility maximization and I did not see the possibility of com-
-bining a few selected managerial goals with the profit motive.
+many qualifications and exceptions to the principle of profit maximization.
+'0 But I considered it hopeless for predictive purposes to work
+with total-utility maximization and I did not see the possibility of combining
+a few selected managerial goals with the profit motive.
 Marginalism Extended: Total Utility
 In order to show how hopeless it is to construct a comprehensive
 total-utility model and obtain from it definite predictions of the effects

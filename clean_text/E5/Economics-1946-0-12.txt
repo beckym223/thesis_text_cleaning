@@ -11,19 +11,19 @@ and the community at large tends to be deprived of the balancing
 influence of those most immediately concerned and most intimately
 acquainted with the complexities involved. It is one of the striking facts
 of our economic history that, except in grave emergencies, commercial
-and industrial interests have stubbornly opposed practically all restric-
-tive or positive control measures of importance, usually on what they
+and industrial interests have stubbornly opposed practically all restrictive
+or positive control measures of importance, usually on what they
 professed to be fundamental legal and economic grounds, however
 readily they may subsequently have adjusted themselves to the new
 environment created by these measures. Among the more comprehensive
-considerations that have thus been invoked in obstructing and impair-
-ing the development of economic policy are those reflected in relatively
+considerations that have thus been invoked in obstructing and impairing
+the development of economic policy are those reflected in relatively
 unrelieved stress upon the maintenance of individual freedom, in
 condemnation of government as a virtually unmixed evil, in repudiation
 of politics as a necessarily maleficent activity.
 There is a substantial parallelism between undue emphasis upon
-national sovereignty in international relations and a similar over-
-emphasis of individual freedom in domestic relations. Both are
+national sovereignty in international relations and a similar overemphasis
+of individual freedom in domestic relations. Both are
 expressions of a basic isolationism in face of closely knit and
 interdependent conditions of social living. There can be no question
 that freedom from restraint, whether it be the external restraint of alien
@@ -33,8 +33,8 @@ for our fruitful accomplishments. But untrammeled freedom of action
 has never prevailed in either sphere. It has always been recognized
 that both national and individual liberty, if allowed uninhibited sway,
 are themselves likely to generate serious restraints, and that deliberate
-restrictions may be necessary to achieve the largest measure of attain-
-able freedom. National sovereignty has not precluded ready acceptance
+restrictions may be necessary to achieve the largest measure of attainable
+freedom. National sovereignty has not precluded ready acceptance
 of the numerous self-imposed limitations contained in compacts or
 treaties negotiated between states, nor has the individualism of our
 system of private enterprise precluded the collective establishment of

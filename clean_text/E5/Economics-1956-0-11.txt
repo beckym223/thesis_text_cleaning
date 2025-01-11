@@ -1,10 +1,10 @@
 before we can do this we need to analyze output potentials and the
 outlook for demand for farm products. The first potential to consider
-is land and land use, for after all the land is still the basis for agricul-
-ture. Poultry farms may themselves, it is true, use only a little of it;
+is land and land use, for after all the land is still the basis for agriculture.
+Poultry farms may themselves, it is true, use only a little of it;
 but the feed they buy still mostly has to be grown on land somewhere.
-Chemical fertilizers can make a given area of land go further in pro-
-ducing feed and forage, but only within limits.
+Chemical fertilizers can make a given area of land go further in producing
+feed and forage, but only within limits.
 In recent years one hears occasional statements that make it appear
 that the agricultural output of this country is greatly limited by the fact
 that it has very little new land to occtupy. I quote exactly from Ronald
@@ -15,8 +15,8 @@ On the supply side, until 1900, the main explanation for expansion was
 the continuing occupation and development of new land resources. By
 1920, nearly all these possibilities were exhausted except for limited
 areas to be developed through irrigation and drainage (p. 6).
-This is a valid statement only if the term "new" is given a special defi-
-nition.
+This is a valid statement only if the term "new" is given a special definition.
+
 The most extreme example of this is found in the writings of the
 American historian, Walter Prescott Webb, of the University of Texas.
 He almost tries to make it appear that once this limit of new farm land
@@ -28,13 +28,13 @@ balance between the extensive and intensive margins; that at least from
 was a larger part of U.S. growth than the extension of the frontier, and
 by 1900, much more important. The passing of the frontier in 1920 was
 therefore no jolt to the economy whatever. In agriculture, to be specific,
-it weighed much less than the effect in the other direction of tractoriza-
-tion of wheat farming in the Great Plains then underway.
+it weighed much less than the effect in the other direction of tractorization
+of wheat farming in the Great Plains then underway.
 In preparing the materials for the land-use part of its report, the
 President's.Materials Policy Commission (P.M.P.C.), commonly called
 the Paley Commission, in 1952 drew upon a classification of all the land
-in the United States that had just been conlpleted by the Soil Conser-
-vation Service (SCS).2 Of the 478 millions then in cropland, or pas-
-tures in rotation with crops, the SCS concluded that 40 million should
+in the United States that had just been conlpleted by the Soil Conservation
+Service (SCS).2 Of the 478 millions then in cropland, or pastures
+in rotation with crops, the SCS concluded that 40 million should
 be converted to permanent grassland to prevent further erosion. But it
 classified 285 million acres now in permanent Dasture or in woodland as

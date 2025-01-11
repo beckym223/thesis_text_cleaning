@@ -14,8 +14,8 @@ of k and of W/P. In one year (1909), there was precise agreement
 between the two; in two of the years (1904 and 1914), the differences
 were approximately only one standard error, while in two more (1889
 and 1899), they amounted to two to three standard errors. The biggest
-difference was in 1919 when W/P was less than k by over eight stand-
-ard errors."
+difference was in 1919 when W/P was less than k by over eight standard
+errors."
 Taking the average for the six years as a whole, we find that k
 k
 averages .63, equals .65, and labor's actual share or bl/P was
@@ -24,6 +24,6 @@ k+ j
 between what we would have theoretically expected the distribution of
 the product to be under conditions of perfect competition and that
 which actually occurred. It should be remembered, moreover, that due
-to our inability to deduct allowances for depreciation in specific in-
-dustries, the true values of W/P are probably understated by ap-
-proximately 3 percentage points,28 and that, therefore, the average
+to our inability to deduct allowances for depreciation in specific industries,
+the true values of W/P are probably understated by approximately
+3 percentage points,28 and that, therefore, the average

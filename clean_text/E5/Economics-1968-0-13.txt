@@ -14,27 +14,27 @@ reduce unemployment, a high rate will not.
 But how long, you will say, is "temporary"? For interest rates, we
 have some systematic evidence on how long each of the several effects
 takes to work itself out. For unemployment, we do not. I can at most
-venture a personal judgment, based on some examination of the histori-
-cal evidence, that the initial effects of a higher and unanticipated rate
+venture a personal judgment, based on some examination of the historical
+evidence, that the initial effects of a higher and unanticipated rate
 of inflation last for something like two to five years; that this initial
 effect then begins to be reversed; and that a full adjustment to the new
 rate of inflation takes about as long for employment as for interest
 rates, say, a couple of decades. For both interest rates and employment,
 let me add a qualification. These estimates are for changes in the rate
 of inflation of the order of magnitude that has been experienced in the
-United States. For much more sizable changes, such as those experi-
-enced in South American countries, the whole adjustment process is
+United States. For much more sizable changes, such as those experienced
+in South American countries, the whole adjustment process is
 greatly speeded up.
-To state the general conclusion still differently, the monetary author-
-ity controls nominal quantities-directly, the quantity of its own liabil-
-ities. In principle, it can use this control to peg a nominal quantity-an
+To state the general conclusion still differently, the monetary authority
+controls nominal quantities-directly, the quantity of its own liabilities.
+In principle, it can use this control to peg a nominal quantity-an
 exchange rate, the price level, the nominal level of national income, the
 quantity of motney by one or another definition-or to peg the rate of
 change in a nominal quantity-the rate of inflation or deflation, the
 rate of growth or decline in nominal national income, the rate of growth
-of the quantity of money. It cannot use its control over nominal quanti-
-ties to peg a real quantity-the real rate of interest, the rate of unem-
-ployment, the level of real national income, the real quantity of money,
+of the quantity of money. It cannot use its control over nominal quantities
+to peg a real quantity-the real rate of interest, the rate of unemployment,
+the level of real national income, the real quantity of money,
 the rate of growth of real national income, or the rate of growth of the
 real quantity of money.
 II. What Monetary Policy Can Do

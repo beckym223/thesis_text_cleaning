@@ -3,8 +3,8 @@ large ones are needed.
 Anyone who engages in research always faces the possibility of failure.
 Even if no solutions are found, much may be gained. Study of problems
 has its own reward in the inner satisfaction it affords and the broadening
-influence it has. The natural scientists have come to regard the experi-
-ment that fails, if accurately performed, as but little less valuable than
+influence it has. The natural scientists have come to regard the experiment
+that fails, if accurately performed, as but little less valuable than
 the one that succeeds. In Henry Van Dyke's delightful little essay
 "Alpenrosen and Goat's Milk,"'4 the story is told of the Swiss village
 festival in which the highpoint was the climbing of the greased pole.
@@ -15,16 +15,16 @@ grease off the pole.
 IV
 I believe that economics does have great possibilities and a promising
 future. To begin with, we will have far more students. More students
-will increase our problems, but also will be a great challenge and oppor-
-tunity. There are now a million fewer people of college age than prior to-
-the second world war, but above a million more students in colleges and
+will increase our problems, but also will be a great challenge and opportunity.
+There are now a million fewer people of college age than prior tothe
+second world war, but above a million more students in colleges and
 universities. Enrollment figures are once more increasing and, if the
 present percentages going to college are maintained, will increase more
 than 50 per cent within less than fifteen years. There is every reason,
 moreover, to expect that the very pronounced trend toward a large
 percentage of young men and women actually going to college will
-continue. There are forecasts that within a generation as large a per-
-centage of the people of college age will actually attend college as the
+continue. There are forecasts that within a generation as large a percentage
+of the people of college age will actually attend college as the
 present percentage of boys and girls of high school age enrolled in
 secondary schools. That percentage is now 88, compared with less
 than 15 per cent at the beginning of the century. College enrollments
@@ -32,9 +32,9 @@ were less than 5 per cent in 1900; today, close to 30 per cent.
 Many will view the expected increase in enrollments with alarm. It
 will prove more difficult to staff economics departments adequately
 with qualified teachers. There is even now a shortage of qualified faculty
-in some schools of business administration and in the economics depart-
-ments of some small colleges. The number of graduate students in eco-
-nomics, excluding students from abroad, moreover, has been decreasing
+in some schools of business administration and in the economics departments
+of some small colleges. The number of graduate students in economics,
+excluding students from abroad, moreover, has been decreasing
 rather than increasing. More graduate students, including some who
 earn Ph.D. degrees, go into business. There is also some attrition in
 economics faculties by reason of the higher salaries in other comparable
