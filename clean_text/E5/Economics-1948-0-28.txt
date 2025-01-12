@@ -2,17 +2,7 @@ the standard errors of estimate (S) for each stuidy. Under a normal
 distribution of cases with the only departures of the actual from
 theoretical values being those caused by random errors of measure-
 ment and of sampling, we would expect that in 68.3 per cent of the cases
-CHART II-DEvIATIoNs OF ACTUAL FROM THEORETICAL VALUES OF LOG P
-UNITED STATES MANUFACTURING 1899
-LOG P' B'
-9.0-
-8.0 -
-7.0 -
-S. 0~~~~~~~~~~~~
-5.00 i
-4.0
-B 4.0 5.0 6.0 7.0 8.0 9.0
-LOG P
+
 the actual values would deviate from the theoretical values by less
 than one standard error of estimate, and that in 95 per cent of the
 cases the actual values would deviate from the theoretical values by

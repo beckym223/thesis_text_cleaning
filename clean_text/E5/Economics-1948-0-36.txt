@@ -3,19 +3,7 @@ and the years from 1904 on. From 1904 on, and particularly in 1914
 and 1919, the big deviations were predominantly on the plus, and the
 minor deviations on the minus, side. Thus, in 1919, of the 18 industries
 where the deviations amounted to more than two standard errors of
-TABLE VII.-AN ANALYSIS OF THE COMPARATIVE DEGREES OF PLUS AND MINUS DEVIATIONS
-OF ACTUAL FROM THEORETICAL PRODUCTS IN AMERICAN MANUFACTURING
-INDUSTRIES 1889-1919
-Number of Industries with Devia- Number of Industries with Devia-
-tions of Less Than Two Standard tions of More Than Two Stand-
-Year Errors of Estimate ard Errors of Estimate
-Plus Minus Plus Minus
-1889 190 153 4 16
-1899 166 154 5 7
-1904 144 174 11 7
-1909 122 131 3 2
-1914 152 174 10 4
-1919 230 308 16 2
+
 estimate, 16 had their actual products in excess of the theoretical
 values, while in only two cases did they fall below. On the other hand,
 of the 538 industries in 1919 where the deviations amounted to less

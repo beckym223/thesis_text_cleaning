@@ -12,17 +12,3 @@ all purposes. They forget the maxim of Occam's Razor that unneces-
 sary terms in a theory be kept out (or shaved off). These students
 seem to miss in a simplified model the realistic trimmings of the ob-
 servable world; they distrust such a model because it is obviously
-'You may wonder whether I have changed my mind on these matters. Incidentally, I  hold that it is important for scholars and scientists to have an open mind, and the only  evidence showing that they do are instances in which they have actually changed their  minds. On this particular issue, however, I cannot oblige. Whether I am right or wrong,
-I have been consistent regarding these points. Let me quote from an article I wrote 28
-years ago: "The problem of oligopoly is by definition the problem of the effects of the  actions of few, giving a greater importance to the behavior of each member of the group.  . . . The theory of the oligopoly price involves an interpretation of the significant motives  behind the actions of a small number of people.... Even the most superficial theory will
-have to include many more ideal types of behavior in order to handle the problem of
-few sellers than it takes to handle the problem of a mass of competitive sellers"
-[20, p. 235].
-On the other hand, I must plead guilty to a charge of the same error of misplaced  concreteness against which I have just warned. It occurred in a sentence in which I spoke
-of various magnitudes (subjectively) "perceived or fancied by the men whose decisions or  actions are to be explained (the business men) . . ." [21, p. 521]. If this sentence referred  only to oligopolistic or monopolistic behavior, it would not be so bad, for, as I said above,  the theoretical constructs of decision-makers in this case have a closer correspondence to  real businessmen than the constructs in the theory of competitive prices. But the sentence
-was supposed to apply to the constructs of the firm in any position whatever. Hence it  was a misleading sentence in that (1) it gave the impression that the decision-makers in
-question were real men (real businessmen, whom you could interview) and (2) it said  that the actions of these men were to be explained, whereas the purpose of the theory  was not to explain observed actions but only observable results of imtgined (postulated)
-reactions to observable events.
-I apologize for this error. Not that I do not approve of a busy shuttle-traffic between  the domain of theoretical construction and the domain of empirical observation, but we
-must never fail to specify the side of the frontier on which we happen to be. The  theoretical terms may have empirical referents (counterparts), but to believe, or allow
-an impression of belief, that the two are identical is a methodological fallacy.  " g4When the conditions of competition are relaxed . . . the opportunity set of the firm  is expanded. In this case, the behavior of the firm as a distinct operating unit is of sepa-  rate interest. Both for purposes of interpreting particular behavior within the firm as  well as for predicting responses of the industry aggregate, it may be necessary to identify  the factors that influence the firm's choices within this expanded opportunity set and  embed these in a formal model" [48, pp. 2-3].

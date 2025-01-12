@@ -24,23 +24,3 @@ In some fields, investigators are protected from committing the fal-
 lacy, at least with regard to some of their problems, by the fact that a
 search for any empirical counterpart to the theoretical construct seems
 hopeless. Thus, some physicists working on particle theory were able
-4The same statement can be made about the household. The "household" in price theory
-is not an object of study; it serves only as a theoretical link between changes in prices
-and changes in labor services supplied and in consumer goods demanded. The hypothetical
-reactions of an imaginary decision-maker on the basis of assumed, internally consistent
-preference functions serve as the simplest and heuristically satisfactory explanation of
-empirical relationships between changes in prices and changes in quantities. In other words,
-the household in price theory is not an object of study.
-Behavioral studies of real households are something entirely different. A realistic, be-
-havioral theory of the household might conceivably distinguish the large, children-domi-
-nated household from a simpler, father-dominated one. The decisions in the children-
-dominated household, where mother frequently and father occasionally try to exercise
-some influence, are probably not consistent, since different preference systems are made
-explicit at various times, with varying decibels and gestures deployed to make them pre-  vail over the preferences of other members of the family.
-One can imagine studies on the behavior of particular households selected at random or
-in structured samples. If the researcher learns that a spoiled brat in a family wants to
-eat nothing but beef and throws a tantrum every time his mother tries to feed him other
-kinds of meat, a reduction in the price of chicken will probably not substantially increase
-the consumption of chicken in this family. Thus, the weight of the child's taste in the
-decision process of the family can explain a low elasticity of its demand for chicken. But
-none of this has much bearing on general price theory.

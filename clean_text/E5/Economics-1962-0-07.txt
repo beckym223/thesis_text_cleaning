@@ -27,13 +27,3 @@ lationship of quantum mechanics to free will and God; but one who
 has already received such a prize will get a better hearing for his
 random or systematic thoughts on the topic. Nor, these days, do you
 get appointed to chairs of economics by virtue of your social elo-
-2If the history of science is still generally in a crude form, that is primarily because  scholars have just recently begun to take it seriously. In the case of mathematics, there is
-a most ludicrous ignorance of the true sequence of contributions: if a formula, such as  Lagrange's interpolation formula, is attributed by name to a person, the betting is good
-that small research will show it appeared in earlier writinrgs. What I have in mind here
-is not the statement that there is nothing new under the sun and all knowledge is a
-repetition of previously known knowledge: on the contrary, such a statement is the
-reverse of the truth; mathematical knowledge has been cumulative and, with enough  research and luck. we might hope to clean up the false history of the subject. The situa-  tion in mathematics is especially simple if one takes the view that the objects of mathe-  matical research are theorems and that most importance attaches to the date of their first  rigorous proof. Thus, it is meaningful to say that the "strong ergodic theorem" goes back
-to G. D. Birkhoff in 1931, and that J. v. Neumann deserves the credit for two-person  zero-sum game theory. (But if one is also interested in conjecture, heuristics and partial
-insight, the matter is not so simple. Some modern mathematicians, one feels, will rename  Fermat's Last Theorem to Schwartz's Theorem if the first man to prove it happens to be
-named Schwartz.) In economics, datings are harder: thus I cannot tell you who first
-disproved "the labor theory of value," much less who originated it.

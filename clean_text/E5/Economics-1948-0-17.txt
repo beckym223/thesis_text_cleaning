@@ -39,4 +39,3 @@ k-i
 The flexibility of the marginal productivity curve for labor is defined as the reciprocal
 of the elasticity of this curve or
 = =-= k - 1.
-8 The values of k and j are each relatively large in relation to their standard errors.

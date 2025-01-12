@@ -35,9 +35,3 @@ working up data for Victorian manufacturing for the period 1907-1929,
 we found the value of k under the k and 1-k formula to be .7 1." Labor's
 share of the net product or W/P was found to be .61 for this period.
 We then introduced two important new features into our investiga-
-'C. W. Cobb and Paul H. Douglas, "A Theory of Production," Am. Econ. Rev., Suppl.,
-Vol. XVIII (Mar., 1928), pp. 139-65.
-0See Douglas, The Theory of Wages, pp. 159-66.
-Handsaker and Douglas, "The Theory of Marginal Productivity as Tested by Data for
-Manufacturing in Victoria," Quart. Jour. Econ., Vols. LII and LIII (Nov., 1937 and Feb.,
-1938), pp. 1-36 and 215-54.

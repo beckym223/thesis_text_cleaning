@@ -37,7 +37,3 @@ effects of mass behavior.
 We may illustrate this again by means of the same analogy, the the-
 ory of overtaking. Assume a change of driving conditions occurs, say,
 that the roads have become wet and slippery and fog has reduced visi-
-'The theoretical automobile driver had to estimate, among other things, the speeds of
-three vehicles and the distances between them, and to perform calculations involving po-
-tential acceleration and a few other things, before he could decide to overtake the truck
-ahead of him. An actual driver simnply "sizes up" the situation and goes ahead.

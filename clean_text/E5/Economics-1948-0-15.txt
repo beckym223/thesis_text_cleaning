@@ -30,11 +30,3 @@ IV), that the true value of k for the period of 1899-1922 is reduced to
 .63. This is identical with the average value of k for the six years for
 which inter-industry studies were made.
 It may also be of some significance that in three of the four time
-earners, salaried employees, supervisory officials, firm members, and working proprietors;
-(2) Capital (C) =total fixed and working capital; (3) Product (P) =gross sales value minus  (a) cost of raw materials, (b) cost of fuel, heat, power, and rent, (c) taxes and insurance pay-  ments, (d) amounts paid to contractors, (e) cost of repairs, (f) sundries. No deduction has been  made for the depreciation of fixed capital except that included under the heading of "repairs."
-For earlier studies on four of these years see Gunn and Douglas, "The Production Function
-for American Manufacturing for 1919," Am. Econ. Rev., Vol. XXXI (Mar., 1941) pp. 67-80;
-Gunn and Douglas, "The Production Function for American Manufacturing for 1914," Jour.
-Pol. Econ., Vol. L (Aug., 1942), pp. 595-602; Bronfenbrenner and Douglas, "Cross-Section
-Studies in the Cobb-Douglas Function," Jour. Pol. Econ., Vol. XLVII (Dec., 1939), pp.  761-85; Daly, Olson and Douglas, "The Production Function for Manufacturing in the United  States in 1904," Jour. Pot. Econ., Vol. LI (Feb., 1943), pp. 61-65. A more complete description
-of the methods and results for 1889 will shortly be published by Miss Estelle Mass.
