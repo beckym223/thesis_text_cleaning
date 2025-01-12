@@ -1,26 +1,26 @@
 be much more richly endowed with variables and functions for which
-information could be obtained only at considerable effort and with re-
-sults that may or may not be worth the cost of the required research.
-My charge that there is widespread confusion regarding the pur-
-poses of the "theory of the firm" as used in traditional price theory re-
-fers to this: The model of the firm in that theory is not, as so many
+information could be obtained only at considerable effort and with results
+that may or may not be worth the cost of the required research.
+My charge that there is widespread confusion regarding the purposes
+of the "theory of the firm" as used in traditional price theory refers
+to this: The model of the firm in that theory is not, as so many
 writers believe, designed to serve to explain and predict the behavior
 of real firms; instead, it is designed to explain and predict changes in
 observed prices (quoted, paid, received) as effects of particular
 changes in conditions (wage rates, interest rates, import duties, excise
 taxes, technology, etc.). In this causal connection the firm is only a
 theoretical link, a mental construct helping to explain how one gets
-from the cause to the effect.4 This is altogether different from ex-
-plaining the behavior of a firm. As the philosopher of science warns,
+from the cause to the effect.4 This is altogether different from explaining
+the behavior of a firm. As the philosopher of science warns,
 we ought not to confuse the explanans with the explanandum.
 Misplaced Concreteness
 To confuse the firm as a theoretical construct with the firm as an
-empirical concept, that is, to confuse a heuristic fiction with a real or-
-ganization like General Motors or Atlantic & Pacific, is to commit the
-"fallacy of misplaced concreteness." This fallacy consists in using the-
-oretic symbols as though they had a direct, observable, concrete mean-
-ing.
-In some fields, investigators are protected from committing the fal-
-lacy, at least with regard to some of their problems, by the fact that a
+empirical concept, that is, to confuse a heuristic fiction with a real organization
+like General Motors or Atlantic & Pacific, is to commit the
+"fallacy of misplaced concreteness." This fallacy consists in using theoretic
+symbols as though they had a direct, observable, concrete meaning.
+
+In some fields, investigators are protected from committing the fallacy,
+at least with regard to some of their problems, by the fact that a
 search for any empirical counterpart to the theoretical construct seems
 hopeless. Thus, some physicists working on particle theory were able

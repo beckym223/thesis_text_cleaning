@@ -1,5 +1,5 @@
-industries, such differences tend to be more or less symmetrically dis-
-tributed around the "normal" values which we have found in the given
+industries, such differences tend to be more or less symmetrically distributed
+around the "normal" values which we have found in the given
 years for manufacturing as a whole.
 A further analysis of the plus and minus deviations offers interesting
 suggestions. We would expect industries characterized by monopoly
@@ -9,13 +9,13 @@ the production formula itself, and from the quantities of labor and
 capital which are available. This would be caused by the control over
 supplies and prices exercised by the dominant firms and by their
 ability to control or to limit entrance into the monopolized industries.
-Conversely, in the industries which may be characterized by "exces-
-sive" competition into which large numbers of workers and also in
+Conversely, in the industries which may be characterized by "excessive"
+competition into which large numbers of workers and also in
 some cases, relatively large quantities of capital are forced and which
 consequently lower the marginal productivity of one or both factors
-appreciably below their general levels, we would expect the value prod-
-uct per unit of labor and possibly also of capital, to be below the gen-
-eral average for society as a whole.
+appreciably below their general levels, we would expect the value product
+per unit of labor and possibly also of capital, to be below the general
+average for society as a whole.
 Similarly, we would expect that the industries which are rapidly
 expanding because of an increase in demand or in the disposition of
 consumers income, or because of great technical progress, will have
@@ -27,16 +27,16 @@ formula would predict.
 There are, moreover, a considerable number of industries which
 probably can best be described as "sweated." These are industries
 which have had large supplies of cheap labor, sometimes caused, as in
-the past, by an influx of immigrants or by the presence of a large num-
-ber of women and juveniles who are forced to seek work because of
+the past, by an influx of immigrants or by the presence of a large number
+of women and juveniles who are forced to seek work because of
 the low earnings of the male heads of households. The average earnings
 in these industries tends to be appreciably below the national average,
-and if there is a normal degree of competition at work, these low earn-
-ings will commonly be translated into a lower sales price for the product
+and if there is a normal degree of competition at work, these low earnings
+will commonly be translated into a lower sales price for the product
 than would normally be the case. The value product in these industries
 will, therefore, tend to be less than what would be shown under the
 formula for manufacturing as a whole.
 We can test the relative truth of these hypotheses both by statistical
-analysis and also by identifying the specific industries where the devia-
-tions of the actual from the theoretical values are great. In analyzing
+analysis and also by identifying the specific industries where the deviations
+of the actual from the theoretical values are great. In analyzing
 the American deviations by years, as in Table VII, certain marked

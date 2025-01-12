@@ -1,24 +1,24 @@
 increments.3 Von Thilnen went on to state that the rates of wages and
 of interest were equal to the amounts of the product added by the last
-increments of each. He was thus the real discoverer of marginal pro-
-ductivity. Nor was this all. He reasoned that the product added by each
+increments of each. He was thus the real discoverer of marginal productivity.
+Nor was this all. He reasoned that the product added by each
 equal increment of a factor was a constant fraction of the preceding
-increment of product, namely two-thirds, in the case of labor and nine-
-tenths, in the case of capital. This meant that it would be necessary to
+increment of product, namely two-thirds, in the case of labor and ninetenths,
+in the case of capital. This meant that it would be necessary to
 increase a factor in a given geometric ratio in order to increase the
 product by equal arithmetic amounts. This is precisely the law of the
 soil which Mitscherlich and W. J. Spillman later discovered,4 and it
 is strikingly similar to the so-called Weber-Fechner law of physiological
-response. It would be most interesting to find out whether these con-
-clusions of Von Thunen were merely happy hypotheses or whether,
+response. It would be most interesting to find out whether these conclusions
+of Von Thunen were merely happy hypotheses or whether,
 like so much of his work, they were based upon experimentation.
 Von Thunen's work, unfortunately, never had the influence which it
 deserved. The British, with their customary insularity of thought,
 virtually ignored it. The Germans, dominated by the fact-grubbing
 historical school, while lavishing attention upon Von Thiunen's theory
-of location and his advocacy of </ap as a just wage, almost com-
-pletely neglected his discovery of the curve of the diminishing incre-
-ment as the guiding principle for both production and distribution.
+of location and his advocacy of </ap as a just wage, almost completely
+neglected his discovery of the curve of the diminishing increment
+as the guiding principle for both production and distribution.
 Indeed, schooled as they were to believe in the relativity of economic
 principles, they naturally averted their gaze from what gave every
 evidence of being an economic law, which was independent of time

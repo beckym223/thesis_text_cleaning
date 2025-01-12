@@ -6,14 +6,14 @@ choice; and where the individual cannot choose, economics does not
 exist. Economics is concerned with the application of scarce resources to
 unlimited wants. Costs, utility or indifference calculations, saving and
 consuming, investing and hoarding, altering productive proportions,
-introducing new combinations-in all the manifold aspects of the eco-
-nomic problem, the key phenomenon is choice.
-Choices in these matters can be made collectively. But there is cer-
-tainly a narrower and very significant sense in which choice is only in-
-dividual; and it is this kind of choice which economics, in contrast to
+introducing new combinations-in all the manifold aspects of the economic
+problem, the key phenomenon is choice.
+Choices in these matters can be made collectively. But there is certainly
+a narrower and very significant sense in which choice is only individual;
+and it is this kind of choice which economics, in contrast to
 ethics and politics, takes for its subject matter. A moral law, enforced
-by public censure or approval, limits the choice of individuals. A politi-
-cal decision or law, even in a democracy except in the rare case of
+by public censure or approval, limits the choice of individuals. A political
+decision or law, even in a democracy except in the rare case of
 unanimity, also limits individual choice. But an economic generalization
 describes individual choice and its results. This does not mean that there
 should be neither moral nor political law; it merely asserts the contrast

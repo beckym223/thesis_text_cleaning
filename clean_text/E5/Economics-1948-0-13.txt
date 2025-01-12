@@ -6,11 +6,11 @@ which include four time series studies for the period 1899-1922, and
 six cross-section or inter-industry investigations for the various census
 years from 1889 to 1919. It is unfortunate that the statistics of capital
 were omitted from the United State Census of Manufactures after
-1919 and that we have been unable to continue our analysis of Ameri-
-can data beyond the dates stated. Fortunately, the British Dominions
+1919 and that we have been unable to continue our analysis of American
+data beyond the dates stated. Fortunately, the British Dominions
 in their admirable annual Censuses of Production have continued to
-collect statistics on the amounts of capital invested and this has per-
-mitted us to carry on studies for these countries in more recent times.
+collect statistics on the amounts of capital invested and this has permitted
+us to carry on studies for these countries in more recent times.
 The four sets of time studies for the United States show somewhat
 differing results because of the differences which exist between the
 series of index numbers for labor and product. The precise nature of

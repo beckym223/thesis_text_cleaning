@@ -15,13 +15,13 @@ consumption and savings, only the upper-income groups save; the
 total savings of groups below the top decile are fairly close to zero. For
 example, the top 5 per cent of units in the United States appear to
 account for almost two-thirds of individuals' savings; and the top
-decile comes close to accounting for all of it. What is particularly im-
-portant is that the inequality in distribution of savings is greater than
+decile comes close to accounting for all of it. What is particularly important
+is that the inequality in distribution of savings is greater than
 that in the distribution of property incomes, and hence of assets.2
 Granted that this finding is based on distribution of annual income,
 and that a distribution by secular levels would show less inequality in
-income and correspondingly less concentration of savings, the in-
-equality in savings would still remain fairly sharp, perhaps more so
+income and correspondingly less concentration of savings, the inequality
+in savings would still remain fairly sharp, perhaps more so
 than in holdings of assets. Other conditions being equal, the cumulative
 effect of such inequality in savings would be the concentration of an
 increasing proportion of income-yielding assets in the hands of the
@@ -29,9 +29,9 @@ upper groups-a basis for larger income slhares of these groups and
 their descendants.
 The second source of the puzzle lies in the industrial structure of
 the income distribution. An invariable accompaniment of growth in
-developed countries is the shift away from agriculture, a process usu-
-ally referred to as industrialization and urbanization. The income dis-
-tribution of the total population, in the simplest model, may therefore
+developed countries is the shift away from agriculture, a process usually
+referred to as industrialization and urbanization. The income distribution
+of the total population, in the simplest model, may therefore
 be viewed as a combination of the income distributions of the rural
 and of the urban populations. What little we know of the structures
 of these two component income distributions reveals that: (a) the

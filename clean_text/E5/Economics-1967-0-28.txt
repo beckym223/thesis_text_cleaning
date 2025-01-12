@@ -7,10 +7,10 @@ and "sizing up" in nonnumerical terms, on the other [21, pp. 524-25,
 can be made on the basis of the assumption that firms try to maximize
 their profits than on the basis of the assumption that they want no
 more than satisfactory profits. Take one illustration: if an easy-money
-policy is introduced, we expect that some firms will increase their bor-
-rowings, some firms will increase their purchases, some firms will sell
-at higher prices, and some firms will increase their output. But if every-
-body was satisfied before the change, we cannot infer any of these
+policy is introduced, we expect that some firms will increase their borrowings,
+some firms will increase their purchases, some firms will sell
+at higher prices, and some firms will increase their output. But if everybody
+was satisfied before the change, we cannot infer any of these
 things. On the other hand, if we assume that firms prefer a larger
 profit to a smaller one, all the mentioned consequences follow from the
 simple model.
@@ -26,5 +26,5 @@ concepts, some theoretical, some more empirical.
 One of my favorite philosophers, who was a past-master of the art
 of making fine distinctions, enumerated 13 concepts of "pragmatism"
 [18], 66 concepts of "nature" [19, pp. 447-56], and "a great
-number" of concepts of "God."'6 I am sure there are at least 21 con-
-cepts of the firm employed in the literature of business and economics,
+number" of concepts of "God."'6 I am sure there are at least 21 concepts
+of the firm employed in the literature of business and economics,

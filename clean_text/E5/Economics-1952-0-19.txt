@@ -1,8 +1,8 @@
 despite vigorous efforts by some Congressmen in both parties to reduce
 less essential or wasteful expenditure; and now, since Korea, it is
 climbing back toward a level not much below that of the war period.
-There is no real indication in this postwar experience that we are mak-
-ing progress toward a truly contra-cyclical use of fiscal policy; though
+There is no real indication in this postwar experience that we are making
+progress toward a truly contra-cyclical use of fiscal policy; though
 perhaps, in view of the extraordinary circumstances of the cold war and
 now rearmament, such an achievement was hardly to be expected.
 One aspect of fiscal policy that I felt was underemphasized in the
@@ -19,13 +19,13 @@ to a close, there was much misgiving among government economists, as
 well as academic, that the reduction of expenditures from the wartime
 level would recreate large-scale unemployment. Predictions to this
 effect were freely made and postwar policies were based upon them,
-reinforcing the inflationary tendencies that have since proved so in-
-tractable. This whole experience in prediction-one of the most strik-
-ing failures in the history of economics -was clearly due to the
-Keynesian bias in favor of large public expenditure. It was accom-
-panied by such a show of "scientific" technique, with much making of
-mathematical models, projections, and regression lines (and much scoff-
-ing at business men as "armchair economists") that the plain man,
+reinforcing the inflationary tendencies that have since proved so intractable.
+This whole experience in prediction-one of the most striking
+failures in the history of economics -was clearly due to the
+Keynesian bias in favor of large public expenditure. It was accompanied
+by such a show of "scientific" technique, with much making of
+mathematical models, projections, and regression lines (and much scoffing
+at business men as "armchair economists") that the plain man,
 though he might distrust the conclusions, could scarcely be blamed for
 being bewildered and misled.
 As I have indicated, the bias toward high public expenditure tends to
@@ -34,5 +34,5 @@ budget. Instead of the diamond-shaped pattern of change which the
 budget should have, with the two sides moving in opposite directions,
 we tend to have a rising burden of taxation to counter the persistent
 upward tendency of expenditures. Such a process, if long continued,
-would be likely not only to undermine any true contra-cyclical budg-
-etary policy but to change the character of the economy. The sheer size
+would be likely not only to undermine any true contra-cyclical budgetary
+policy but to change the character of the economy. The sheer size

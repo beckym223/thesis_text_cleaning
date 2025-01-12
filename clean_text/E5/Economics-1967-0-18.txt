@@ -2,27 +2,27 @@ empirical counterpart to the theoretical construct) is required, because
 the explanation of changes in prices, inputs, and outputs is at the same
 time an explanation of decisions of some particular firms, in the sense
 of organizations of men acting in particular, sometimes unpredictable,
-ways. Various attempts have been made to develop patterns of oligopo-
-listic and monopolistic conduct and to correlate these patterns with
+ways. Various attempts have been made to develop patterns of oligopolistic
+and monopolistic conduct and to correlate these patterns with
 types of organization or with types of personalities exercising ultimate
 decision-making power. The success has thus far been small; even if
 the decision-making (say, pricing) in a particular firm was sometimes
-satisfactorily modeled (for example, in a simulated computer pro-
-gram), the model has usually not been transferable to other cases, to
-predict decisions in other firms. I do not recall, moreover, that the be-
-havior patterns in these cases were shown to be inconsistent with the
+satisfactorily modeled (for example, in a simulated computer program)
+, the model has usually not been transferable to other cases, to
+predict decisions in other firms. I do not recall, moreover, that the behavior
+patterns in these cases were shown to be inconsistent with the
 postulate of profit maximization.
 Under these circumstances, retreat to simpler, less realistic models
-of firms in oligopoly and monopoly positions is indicated. The first ap-
-proach is to apply the polypolistic model, in full awareness that the ac-
-tual facts are entirely different. In many instances the use of the po-
-lypolistic model for situations which in our judgment would merit to
+of firms in oligopoly and monopoly positions is indicated. The first approach
+is to apply the polypolistic model, in full awareness that the actual
+facts are entirely different. In many instances the use of the polypolistic
+model for situations which in our judgment would merit to
 be labeled as oligopolistic will still yield satisfactory explanations and
 predictions. Where this is not so, the analyst will resort to the use of
 models of oligopolistic or monopolistic firms, postulating the simplest
-possible pattern of action and reaction, dispensing with all peculiar at-
-titudes and "special" strategies. Only where these simple models of oli-
-gopolistic and monopolistic firms yield quite unsatisfactory predictions
+possible pattern of action and reaction, dispensing with all peculiar attitudes
+and "special" strategies. Only where these simple models of oligopolistic
+and monopolistic firms yield quite unsatisfactory predictions
 will the analyst need to go further, to more special types of behavior,
 provided he finds it worth while. It depends on the research interests
 and on the problems under examination how much effort one wishes to

@@ -7,8 +7,8 @@ been tight-in the sense that the quantity of money has grown slowly;
 high interest rates are a sign that monetary policy has been easy-in
 the sense that the quantity of money has grown rapidly. The broadest
 facts of experience run in precisely the opposite direction from that
-which the financial community and academic economists have all gener-
-ally taken for granted.
+which the financial community and academic economists have all generally
+taken for granted.
 Paradoxically, the monetary authority could assure low nominal rates
 of interest-but to do so it would have to start out in what seems like
 the opposite direction, by engaging in a deflationary monetary policy.
@@ -16,23 +16,23 @@ Similarly, it could assure high nominal interest rates by engaging in an
 inflationary policy and accepting a temporary movement in interest
 rates in the opposite direction.
 These considerations not only explain why monetary policy cannot
-peg interest rates; they also explain why interest rates are such a mis-
-leading indicator of whether monetary policy is "tight" or "easy." For
+peg interest rates; they also explain why interest rates are such a misleading
+indicator of whether monetary policy is "tight" or "easy." For
 that, it is far better to look at the rate of change of the quantity of
 money.'
 Employment as a Criterion of Policy
 The second limitation I wish to discuss goes more against the grain
 of current thinking. Monetary growth, it is widely held, will tend to
 stimulate employment; monetary contraction, to retard employment.
-Why, then, cannot the monetary authority adopt a target for employ-
-ment or unemployment-say, 3 per cent unemployment; be tight when
+Why, then, cannot the monetary authority adopt a target for employment
+or unemployment-say, 3 per cent unemployment; be tight when
 unemployment is less than the target; be easy when unemployment is
 higher than the target; and in this way peg unemployment at, say, 3
 per cent? The reason it cannot is precisely the same as for interest
-rates-the difference between the immediate and the delayed conse-
-quences of such a policy.
+rates-the difference between the immediate and the delayed consequences
+of such a policy.
 Tlhanks to Wicksell, we are all acquainted with the concept of a
 "natural" rate of interest and the possibility of a discrepancy between
 the "natural" and the "market" rate. The preceding analysis of interest
-rates can be translated fairly directly into Wickse]lian terms. The mon-
-etary authority can make the market rate less than the natural rate
+rates can be translated fairly directly into Wickse]lian terms. The monetary
+authority can make the market rate less than the natural rate

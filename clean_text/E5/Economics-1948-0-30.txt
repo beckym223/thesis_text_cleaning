@@ -2,8 +2,8 @@ side of the line BB' two other pairs of lines at the respective distances
 of one and two standard errors of estimate. An inspection of these
 charts for American manufacturing for the years 1889, 1899, 1904,
 1909, 1914, and 1919, (Charts I, II, III, IV, V, and VI) show that in
-practice the actual values tend to be close to the line BB', and a sta-
-tistical analysis of these variations is given in Table V. Here it will be
+practice the actual values tend to be close to the line BB', and a statistical
+analysis of these variations is given in Table V. Here it will be
 seen that in every year more than 70 per cent of the actual values were
 within one standard error of estimate of the values which we would
 
@@ -15,8 +15,8 @@ were within one standard error of estimate of the theoretical products,
 whereas under a normal distribution we would only expect a little over
 68 per cent of the cases to lie within this range. Moreover, in only one
 year did the number of observations whose actual products varied
-from the theoretical values by more than two standard errors of esti-
-mate come to as much as 6 per cent of the total while the average for
+from the theoretical values by more than two standard errors of estimate
+come to as much as 6 per cent of the total while the average for
 all 2185 observations was 4 per cent as compared with the 5 per cent
 which we would normally expect.25
 In our American studies, the distribution of the actual values about
