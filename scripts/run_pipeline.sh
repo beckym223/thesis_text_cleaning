@@ -1,3 +1,17 @@
+RUN_EXTRA_COMMAND=false
+while getopts "o" opt; do
+    case "$opt" in
+    c)
+        RUN_EXTRA_COMMAND=true
+        ;;
+    *)
+        echo "Usage: $0 [-o] <source_dir> <dest_dir> <log_file> <python_script>"
+        exit 1
+        ;;
+    esac
+done
+shift $((OPTIND - 1))
+
 if [ "$#" -ne 4 ]; then
     echo "Usage: $0 <source_dir> <dest_dir> <log_file> <python_script>"
     exit 1
@@ -83,6 +97,12 @@ echo "Changes have been committed to branch: $BRANCH_NAME"
 
 # Output the branch for manual merge
 echo "Changes have been committed to branch: $BRANCH_NAME"
+
+if $RUN_EXTRA_COMMAND; then
+    # Replace the following line with the command you want to run
+    echo "Running optional command: Opening destination directory $DEST_DIR"
+    xdg-open "$DEST_DIR" 2>/dev/null || open "$DEST_DIR" 2>/dev/null || echo "Could not open directory: $DEST_DIR"
+fi
 
 # Ask the user if they want to run the merge and cleanup immediately
 read -p "Do you want to merge and clean up now? (y/n): " user_input
