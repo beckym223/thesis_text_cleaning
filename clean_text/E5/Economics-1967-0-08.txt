@@ -36,4 +36,4 @@ behavior, although the theory serves only to explain and predict
 effects of mass behavior.
 We may illustrate this again by means of the same analogy, the theory
 of overtaking. Assume a change of driving conditions occurs, say,
-that the roads have become wet and slippery and fog has reduced visi-
+that the roads have become wet and slippery and fog has reduced visibility.
