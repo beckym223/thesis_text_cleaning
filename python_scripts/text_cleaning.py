@@ -103,10 +103,7 @@ def remove_footnote_lines(dir_path:str,foot_dict:dict[str,int],commit_changes:bo
             logging.error(f"Exception when removing footnote lines with file {file}: {e}")
 
 def split_text(text:str,splits:list[tuple[int,int]])->str:
-    old_text=text
-    for start,end in splits:
-        text = text.replace(old_text[start:end],"")
-    return text
+    return "\n".join(text[start:end] for start,end in splits)
 
 
 @commit(commit_msg = "Sliced texts on predetermined indices")
