@@ -1,0 +1,57 @@
+970
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+to be smaller in FRB/US than in other models (Chung 2015, Kiley and Roberts 
+2017). Nevertheless, to be conservative, I imposed the restriction that agents do not 
+expect forward guidance to be effective for more than 28 quarters. After that, they 
+expect policy to revert to the baseline Taylor rule. Assuming that guidance is cred-
+ible for as long as 28 quarters seems reasonable, because the guidance is at worst 
+mildly  time-inconsistent—the implied overshoots of the inflation target are small 
+and might well be welcome if the FOMC were concerned about reinforcing the 
+credibility of its symmetric inflation target after a period of inflation undershoot. In 
+any case, as will be seen, I do not find forward guidance to be particularly powerful 
+in my simulations, and my overall results do not rely on unrealistic foresight on the 
+part of the public.
+Quantitative Easing.—Following Kiley (2018), I consider four alternative QE 
+policies, ranging from least aggressive (A) to most aggressive (D). In all cases, QE 
+is assumed to be deployed when the output gap has become sufficiently large. For 
+example, under QE(A), the least aggressive policy, QE is assumed to be initiated 
+when the output gap is 5 percent, with purchases continuing at a rate of $25 billion 
+per quarter for every percentage point that the output gap exceeds 5 percent. The 
+QE(D) policy, the most activist, is initiated when the output gap is 2.5 percent, at a 
+pace of $50 billion per quarter for each percentage point that the output gap exceeds 
+2.5 percent. For each of the QE programs, when the output gap shrinks sufficiently, 
+asset purchases are assumed to end, and the central bank’s balance sheet begins a 
+gradual  wind-down. (See Kiley 2018 or the online Appendix for precise specifica-
+tions.) The simulations keep track of the size of the central bank’s balance sheet, Table 3—Performance of Alternative Policies in Stochastic Simulations
+  r   ∗   = 1
+Mean  
+lossMean 
+ unemployment 
+gapMean 
+inflationELB 
+frequencyMean ELB 
+durationMean stock 
+of assets 
+($B)Mean peak 
+stock of 
+assets ($B)
+Panel A. Baseline rules
+Taylor,   π   ∗  = 2 9.8 0.7 0.9 31.2 16.3 0 0
+Taylor,   π   ∗  = 4 4.3 0.1 3.8 4.6 9.1 0 0
+Taylor,   π   ∗  = 5 3.7 0 5.0 1.6 7.0 0 0
+Taylor unconstrained,
+    π   ∗  = 2 3.3 0 2.0  — — 0 0
+Panel B.  Threshold-based forward guidance,   π   ∗  = 2 
+Inflation > 1.75 7.6 0.4 1.4 31.6 16.7 0 0
+Inflation > 2 7.0 0.3 1.6 30.1 16.3 0 0
+Inflation > 2.25 6.5 0.2 1.7 28.3 16.0 0 0
+Panel C. Quantitative easing,   π   ∗  = 2 
+QE(A) 6.1 0.4 1.4 22.7 12.1 269 1,000
+QE(B) 5.2 0.3 1.6 18.4 10.9 375 1,507
+QE(C) 4.5 0.2 1.7 15.6 9.4 502 1,761
+QE(D) 3.7 0 1.9 11.3 7.5 698 2,627
+Panel D. Forward guidance + quantitative easing,   π   ∗  = 2 
+Inflation > 2 + QE(B) 3.8 0 2.0 20.7 11.8 257 1,103
+Inflation > 2 + QE(C) 3.6 −0.1 2.1 18.5 11.5 364 1,348
+Inflation > 2 + QE(D) 3.2 −0.2 2.2 15.7 10.5 524 2,059
+Source: Author’s calculations

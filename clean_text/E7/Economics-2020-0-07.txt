@@ -1,0 +1,48 @@
+950
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+adding event days also adds noise from  nonmonetary news affecting asset prices. A 
+more direct solution to this identification problem is to try to control for the policy 
+expectations of market participants, then to observe the effects on asset prices of the 
+unexpected component of QE announcements.
+For traditional monetary policy, based on management of the  short-term interest 
+rate, fed funds and Eurodollar futures markets provide useful estimates of policy 
+expectations (Kuttner 2001), but no analogous markets exist for asset purchases 
+and other nontraditional policies. As an alternative, several researchers have used 
+surveys and media reports to try to quantify those expectations. For example, in 
+the European context, De Santis (2019) attempted to estimate the financial mar -
+ket effects of the ECB’s Asset Purchase Program, its first foray into  large-scale 
+QE, announced in January 2015. ECB policymakers and media commentary had 
+strongly foreshadowed the program, so its actual announcement—like the announce-
+ment of later rounds of QE in the United States—had only modest market effects, 
+with the average ( GDP-weighted)  10-year sovereign debt yield in the euro area 
+declining by about 10 basis points. To try to control for market expectations of 
+ECB actions, De Santis counted the number of news stories on Bloomberg that 
+contained various keywords. From these, he created an index of media and market 
+attention to QE in Europe. Controlling both for this measure and for macroeconomic 
+and  country-specific factors, De Santis found that the ECB’s initial QE program 
+reduced average  10-year sovereign debt yields by 63 basis points over the period 
+from September 2014 to October 2015. This reduction is economically significant 
+and, when adjusted for the size of the program, comparable to estimates from event 
+studies of early QE programs in the United States and the United Kingdom, even 
+though in early 2015 European financial markets were functioning normally.
+A related empirical strategy for measuring the effects of QE relies on the fact that, 
+even when the size of a QE program was well anticipated, market participants may 
+have been unsure about the specific assets to be purchased. If the portfolio balance 
+effect is operating, then news that an unexpectedly large share of the central bank’s 
+planned purchases will be devoted to a particular asset should raise the price of that 
+asset relative to others. An impressive literature has been built on this insight.8 For 
+example, in a careful study, Cahill et al. (2013) used data on  within-day prices on 
+all outstanding US Treasury securities (excluding  inflation-indexed bonds) for the 
+period 2008 to 2012. Their goal was to study, over time frames as short as 30 min-
+utes, not just how QE announcements affected overall yields but how they affected 
+the relative yields of individual securities. That led them to focus on announcements 
+about which securities would be targeted for purchase. To measure unexpected shifts 
+in purchase plans, the authors used the Primary Dealer Survey and other sources.
+To illustrate their approach: On November 3, 2010, at 2:15 pm, the FOMC 
+announced QE2, a plan to purchase $600 billion of Treasury securities. As already 
+discussed, the program was largely anticipated, and the announcement accordingly 
+had little effect on Treasury yields overall. However, at the same time as the FOMC 
+announcement, the New York Fed released information about how it planned to 
+allocate purchases across Treasury securities of different maturities. This document 
+8 D’Amico and King (2013) pioneered this approach, but that paper considered only QE1. For more US results, 
+see also Meaning and Zhu (2011) and D’Amico et al. (2012). 

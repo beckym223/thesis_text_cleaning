@@ -1,0 +1,47 @@
+1085
+CARD: WHO SET YOUR WAGE? VOL. 112 NO. 4
+for where I see the most exciting possibilities for progress: more and better models; 
+and a sustained effort to move the entire topic of wage setting into the hands of 
+(labor) economists.
+A. Models
+There are two main approaches to modeling the factors that generate 
+ upward-sloping supply curves: search frictions (which Manning 2021 calls the 
+“new monopsony”) and idiosyncratic preferences for jobs (which Manning calls the 
+“new classical monopsony”). Both approaches have some strengths and some weak-
+nesses. The search approach directly addresses turnover, which is a key feature of 
+labor markets and appears to be the main mechanism for  between-firm competition. 
+Models with on-the-job search also create a job ladder, which is a very useful con-
+struct for understanding the costs of job displacement and the effects of recessions 
+(e.g., Altonji, Smith, and Vidangos 2013; Moscarini and  Postel-Vinay 2018).
+But the lack of information presumed in a typical posted wage search model is 
+troubling. There is plenty of evidence that most workers know about at least some 
+ higher-paying jobs. (Everyone at Berkeley knows that salaries are higher at Stanford, 
+for instance). Firms’ positions on the wage ladder are relatively stable, so it seems 
+possible to learn about opportunities through referrals (Caldwell and Harmon 2019) 
+or other channels. And if the number of potential employers for a typical worker is 
+a low as recent research suggests, it’s hard to imagine that workers aren’t aware of 
+many of the relevant opportunities.
+Models based on idiosyncratic preferences, on the other hand, ignore imperfect 
+information but assume that most people simply don’t want another job, even if it 
+pays more. On the positive side, these models build directly on established frame-
+works from IO and trade: the accumulated experience in those fields will be very 
+helpful, particularly in addressing strategic interactions between wage setters (as 
+in Berger, Herkenhoff, and Mongey 2021). On the negative side, there is no job 
+ladder or any particular cost of losing the current job: everyone is employed at their 
+best option, given the wage and  nonwage amenities offered by different employ-
+ers. Employers are starving for workers, but are nonetheless setting wages below 
+marginal revenue products to capture some of the surplus from inframarginal work-
+ers. Such a framework seems unlikely to yield helpful insights about recessions or 
+depressed local labor markets.
+Manning (2021) suggests that one way to combine some of the strengths from 
+both approaches is to assume that workers have idiosyncratic preferences over cur-
+rent job openings, and that—as in directed search models—one of the attributes of 
+an opening is the size of the application pool. This seems like a promising direc-
+tion. Another idea is to assume more complicated  task-based production functions 
+for firms that lead to minimum skill standards—so many jobs are “off limits” for 
+most workers, even within a given observed skill group (e.g., Haanwinckel 2020; 
+Huckfeldt 2022). This might be a way to incorporate the cyclical upgrading process 
+discussed by Reder (1955) and Okun (1973).
+A related modeling issue is how to incorporate strategic interactions in wage set-
+ting. We know that firms spend a lot of resources monitoring wages of other employ-
+ers through specialized  sector-specific surveys. We also know that even at the low 

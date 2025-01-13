@@ -1,0 +1,40 @@
+American Economic Review 2020, 110(4): 943–983  
+https://doi.org/10.1257/aer.110.4.943
+943* Brookings Institution (email: bbernanke@brookings.edu). AEA Presidential Lecture, given in January 2020.  
+I thank Sage Belz, Michael Ng, and Finn Schüle for outstanding research assistance and many colleagues for useful 
+comments. This lecture is dedicated to the memory of Paul V olcker.
+† Go to https://doi.org/10.1257/aer.110.4.943 to visit the article page for additional materials and author  
+disclosure statement.The New Tools of Monetary Policy†
+By Ben S. Bernanke*
+To overcome the limits on traditional monetary policy imposed by the 
+effective lower bound on  short-term interest rates, in recent years the 
+Federal Reserve and other  advanced-economy central banks have 
+deployed new policy tools. This lecture reviews what we know about 
+the new monetary tools, focusing on quantitative easing (QE) and 
+forward guidance, the principal new tools used by the Fed. I argue 
+that the new tools have proven effective at easing financial condi-
+tions when policy rates are constrained by the lower bound, even 
+when financial markets are functioning normally, and that they can 
+be made even more effective in the future. Accordingly, the new tools 
+should become part of the standard central bank toolkit. Simulations 
+of the Fed’s FRB/US model suggest that, if the nominal neutral inter -
+est rate is in the range of  2–3 percent, consistent with most estimates 
+for the United States, then a combination of QE and forward guid-
+ance can provide the equivalent of roughly 3 percentage points of 
+policy space, largely offsetting the effects of the lower bound. If the 
+neutral rate is much lower, however, then overcoming the effects of 
+the lower bound may require additional measures, such as a moder -
+ate increase in the inflation target or greater reliance on fiscal policy 
+for economic stabilization. (JEL D78, E31, E43, E52, E58, E62)
+In the last decades of the twentieth century, US monetary policy wrestled 
+with the problem of high and erratic inflation. That fight, led by Federal Reserve 
+chairs Paul V olcker and Alan Greenspan, succeeded. The result—low inflation and 
+ well-anchored inflation expectations—provided critical support for economic sta-
+bility and growth in the 1980s and 1990s, in part by giving monetary policymakers 
+more scope to respond to  short-term fluctuations in employment and output without 
+having to worry about stoking high inflation.
+However, with the advent of the new century, it became clear that low inflation 
+was not an unalloyed good. In combination with historically low real interest rates—
+the result of demographic, technological, and other forces that raised desired global 
+saving relative to desired investment—low inflation (actual and expected) has trans-
+lated into persistently low nominal interest rates, at both the long and short ends of 

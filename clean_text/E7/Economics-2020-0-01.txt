@@ -1,0 +1,49 @@
+944
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+the yield curve. Chronically low interest rates pose a challenge for the traditional 
+approach to monetary policymaking, based on the management of a  short-term pol-
+icy interest rate. In the presence of an effective lower bound on nominal interest 
+rates—due to, among other reasons, the existence of cash, which provides investors 
+the option of earning a zero nominal return—persistently low nominal rates con-
+strain the amount of “space” available for traditional monetary policies. Moreover, 
+as the experience of Japan in recent decades has demonstrated, low inflation can 
+become a  self-perpetuating trap, in which low inflation and low nominal interest 
+rates make monetary policy less effective, which in turn allows low inflation or 
+deflation to persist.
+In the United States and other advanced economies, the critical turning point was 
+the global financial crisis of  2007–2009. The shock of the panic, and the subsequent 
+sovereign debt crisis in Europe, drove the US and global economies into deep reces-
+sion, well beyond what could be managed by traditional monetary policies. After 
+cutting  short-term rates to zero (or nearly so), the Federal Reserve and other central 
+banks turned to alternative policy tools to provide stimulus, including  large-scale 
+purchases of financial assets (quantitative easing), increasingly explicit communi-
+cation about the central bank’s outlook and policy plans (forward guidance), and, 
+outside the United States, some other tools as well.
+We are now more than a decade from the crisis, and the US and global economies 
+are in much better shape. But, looking forward, the Fed and other central banks are 
+grappling with how best to manage monetary policy in a  twenty-first century context 
+of low inflation and low nominal interest rates. On one point we can be certain: the 
+old methods won’t do. For example, simulations of the Fed’s main macroecono-
+metric model suggest that the use of policy rules developed before the crisis would 
+result in  short-term rates being constrained by zero as much as  one-third of the time, 
+with severe consequences for economic performance (Kiley and Roberts 2017). If 
+monetary policy is to remain relevant, policymakers will have to adopt new tools, 
+tactics, and frameworks.
+The subject of this lecture is the new tools of monetary policy, particularly 
+those used in recent years by the Federal Reserve and other  advanced-economy 
+central banks.1 I focus on quantitative easing and forward guidance, the principal 
+new tools used by the Fed, although I briefly discuss some other tools, such as 
+ funding-for-lending programs, yield curve control, and negative interest rates. Based 
+on a review of a large and growing literature, I argue that the new tools have proven 
+quite effective, providing substantial additional scope for monetary policy despite 
+the lower bound on  short-term interest rates.2 In particular, although there are dis-
+senting views, most research finds that central bank asset purchases meaningfully 
+ease financial conditions, even when financial markets are not unusually stressed. 
+Forward guidance has become increasingly valuable over time in helping the pub-
+lic understand how policy will respond to economic conditions and in facilitating 
+1 These tools are often referred to as “unconventional” or “nonstandard” policies. Since I will argue that these 
+tools should become part of the standard toolkit, I will refer to them here as “new” or “alternative” monetary tools.
+2 My review is necessarily selective. Useful surveys of  so-called unconventional policies and their effects 
+include Gagnon (2016); Kuttner (2018); Dell’Ariccia, Rabanal, and Sandri (2018); Bhattarai and Neely (2018); 
+and Committee on the Global Financial System (2019). For detailed chronologies of actions by major central banks, 
+see Fawley and Neely (2013) and Karson and Neely (forthcoming).

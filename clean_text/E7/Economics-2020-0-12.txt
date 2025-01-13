@@ -1,0 +1,49 @@
+955
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+Both Delphic and Odyssean guidance have potentially important roles when 
+policymakers confront the lower bound on rates. Delphic guidance that helps the 
+public better understand the central bank’s reaction function may be valuable at the 
+lower bound since—given the “history dependence” of optimal monetary policy 
+(Woodford 2013)—the responses of monetary policymakers to a given configuration 
+of inflation and employment after a period at the lower bound may be quite different 
+than during  more normal times. Odyssean guidance is useful at the lower bound 
+because optimal monetary policy in those circumstances may be at least somewhat 
+ time-inconsistent, in the sense of Kydland and Prescott (1977)—that is, at the lower 
+bound, monetary policymakers may want to commit to  interest-rate paths or to other 
+actions from which they will have incentives to deviate in the future.
+For example, when  short-term rates cannot be reduced further, policymak-
+ers may want to put downward pressure on  longer-term rates by persuading mar -
+ket participants that they intend to keep the policy rate at the lower bound for an 
+extended period—a  so-called  lower-for-longer policy—even if that involves a 
+possible ( time-inconsistent) overshoot of their inflation target. As I will discuss, 
+ lower-for-longer policies are in turn closely related to  so-called makeup strategies, 
+in which policymakers promise to compensate for protracted undershoots of their 
+inflation or employment goals by a period of overshoot (Yellen 2018). Odyssean 
+guidance can make such commitments clear and create a reputational stake for the 
+central bank to follow through.
+In the immediate aftermath of the financial crisis, most examples of forward guid-
+ance were qualitative, using language similar to Greenspan’s “considerable period” 
+rather than precisely specifying the future path of rates or the conditions under which 
+rates would be raised. Some research has criticized the Fed’s guidance during this 
+time. Woodford (2012) argued that the guidance in the FOMC’s policy statements 
+lacked sufficient commitment to be effective—that is, the language was Delphic 
+when it should have been Odyssean. Engen, Laubach, and Reifschneider (2015) 
+noted that, in  2009–2010, private (Blue Chip) forecasters continued to believe that 
+the Fed intended to begin raising rates relatively soon, notwithstanding (qualitative) 
+guidance to the contrary; according to these authors, the forecasters’ beliefs evi-
+dently reflected both a misunderstanding of the Fed’s reaction function and excessive 
+optimism about the likely speed of the recovery. Campbell et al. (2017) concluded 
+that Fed forward guidance only became Odyssean (that is, effectively committing to 
+lower for longer) in 2011, at which point it began to lead to better macroeconomic 
+outcomes. Gust et al. (2017) similarly found, in the context of an estimated dynamic 
+stochastic general equilibrium (DSGE) model, that market participants only gradu-
+ally understood the FOMC’s  lower-for-longer message. Supporting the critics’ view 
+is that, despite the Fed’s efforts to talk down rates, the  two-year Treasury yield—
+an indicator of  near-term monetary policy expectations—remained near 1 percent 
+through the spring of 2010, declining only gradually after that.
+Over time, the FOMC pushed back against the excessively hawkish expecta-
+tions of market participants with more precise and aggressive forward guidance. In 
+August 2011, the FOMC for the first time explicitly tied its guidance to a date, indi-
+cating that it would keep the fed funds rate near zero “at least through  mid-2013.” 
+In January 2012 it extended that commitment “at least through late 2014,” and 
+in September 2012 it extended the commitment yet again to “at least through 

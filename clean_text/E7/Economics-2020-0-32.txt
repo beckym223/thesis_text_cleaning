@@ -1,0 +1,47 @@
+975
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+the new monetary tools appears able (based on the simulations) largely to overcome 
+the effects of the lower bound on  short-term rates, adding about 3 percentage points 
+of policy space. If the assumed nominal neutral rate is much lower than 2 percent 
+or so, simulations of FRB/US (see online Appendix) continue to show substantial 
+benefits from using the new monetary tools, relative to baseline policies that make 
+no use of these tools. However, in this case the losses for all policies are greater than 
+those of the (hypothetical) unconstrained policy, implying that even active use of 
+the new tools cannot compensate for the constraint of the lower bound. Moreover, 
+for very low nominal neutral rates, simulations of all policies—both traditional and 
+those employing the new monetary tools—show the economy spending a large frac-
+tion of the time at the lower bound, and with  longer-term interest rates frequently 
+in negative territory, reflecting negative term premiums. For any given policy, these 
+adverse outcomes are much less likely in the simulations when the neutral rate is in 
+the  2–3 percent range.23
+A finding that  long-term rates are frequently negative in the simulations is a con-
+cern, for several reasons. First, as noted earlier, if bond market participants believe 
+that the lower bound on  short-term rates is zero, then they may be unwilling to 
+hold  longer-term bonds yielding less than zero (Grisse, Krogstrup, and Schumacher 
+2017). Thus, at least for the United States and other jurisdictions that have indi-
+cated that they are unlikely to use negative  short-term rates, simulations that assume 
+that  longer-term rates can be negative may overstate the amount of stimulus that is 
+attainable in practice. Second, interest rates that are zero or negative much of the 
+time raise concerns about financial instability and other risks, as discussed earlier. 
+Thus, although it remains true that the new monetary tools add policy space when 
+the nominal neutral rate is below 2 percent or so, in that range none of the policy 
+approaches considered here can be thought fully satisfactory.
+What is the best estimate of the nominal neutral rate? Sufficient conditions for the 
+nominal neutral rate to be in the  2–3 percent range assumed here are that inflation 
+expectations be close to the 2 percent target and that the real neutral rate be at least 
+zero. Both conditions are consistent with most estimates for the United States. For 
+example, as of this writing, all 17 FOMC participants reporting in the Fed’s Summary 
+of Economic Projections have provided estimates of the  long-run nominal policy 
+rate between 2.0 and 3.3 percent (with a median of 2.5 percent), implying a real 
+neutral rate between 0 and 1.3 percent (median 0.5 percent). Surveys of professional 
+forecasters and primary dealers provide similar values (Joergensen and Meldrum 
+2019). The Federal Reserve Bank of New York, using the methods of Laubach and 
+Williams (2003), reports a current estimate of the real neutral rate above 0.9 percent, 
+implying a nominal neutral rate close to 3.0 percent. Alternatively, using estimates 
+from the term structure model of Adrian, Crump, and Moench (2013), the New 
+York Fed reports a  10-year average expected short rate, a proxy for the nominal 
+neutral rate, of 2.8 percent. Combining macroeconomic and term structure data, 
+Davis, Fuenzalida, and Taylor (2019) obtains estimates close to those of Laubach 
+23 For example, for  r   ∗  = 1, the simulated  10-year yield is negative 21.0 percent of the time for the baseline rule 
+but only 0.2 percent of the time for the baseline rule with a 5 percent inflation target and 2.2 percent of the time for 
+the inflation > 2 + QE(D) policy. For  r   ∗  = 0, the corresponding figures are 50.9, 1.2, and 12.4 percent.

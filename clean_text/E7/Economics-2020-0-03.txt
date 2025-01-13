@@ -1,0 +1,47 @@
+946
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+I focus throughout this lecture on monetary tools aimed at achieving employment 
+and inflation objectives, excluding policies aimed primarily at stabilizing dysfunc-
+tional financial markets, such as the Federal Reserve’s emergency credit facilities 
+and currency swaps and the European Central Bank’s (ECB) Securities Markets 
+Program, under which the ECB made targeted purchases to help restore confidence 
+in sovereign debt markets.5 The stabilization of financial markets improves eco-
+nomic outcomes, of course, but  lender-of-last-resort programs are not useful outside 
+of a crisis and thus should not be viewed as part of normal monetary policy.
+A. Central Bank Asset Purchases (QE)
+The Fed announced its first program of  large-scale asset purchases in November 
+2008, when it made public its plans to buy  mortgage-backed securities (MBS) and 
+debt issued by the  government-sponsored enterprises (GSEs), Fannie Mae and 
+Freddie Mac. In March 2009, in an action that would become known as QE1, the 
+Federal Open Market Committee (FOMC) authorized both increased purchases of 
+MBS and, for the first time,  large-scale purchases of US Treasury securities. Asset 
+purchases under QE1 totaled about $1.725 trillion (Bhattarai and Neely 2016). 
+Three other major programs would follow: (i) QE2, announced in November 2010, 
+in which the Fed committed to $600 billion in additional Treasuries purchases; (ii) 
+the Maturity Extension Program, announced in September 2011 and extended in 
+June 2012, under which the Fed lengthened the average maturity of its portfolio 
+by selling off  short-term Treasuries and buying  longer-term government debt; and 
+(iii) QE3, announced in September 2012, an  open-ended program that committed 
+the Fed to buying both Treasury securities and MBS until the outlook for the labor 
+market had improved “substantially.” In 2013, hints that asset purchases might begin 
+to slow led to a “taper tantrum” in bond markets, with the  10-year yield rising by 
+nearly one percentage point over several months. The Fed’s purchases did not end 
+however until October 2014. Total net asset purchases by that point were about $3.8 
+trillion, approximately 22 percent of 2014 GDP. Most purchases were of  longer-term 
+securities; between 2007 and late 2014 the average duration of the Fed’s portfolio 
+increased from 1.6 years to 6.9 years (Engen, Laubach, and Reifschneider 2015).
+The Fed was by no means the only central bank to employ asset purchases as 
+a monetary policy tool. The first to confront the lower bound, the Bank of Japan, 
+adopted an asset purchase program in March 2001, but its focus was increasing 
+the monetary base rather than reducing  longer-term rates by buying  longer-term 
+assets. The BOJ began aggressive purchases of  longer-term securities in 2013 with 
+the advent of “Abenomics,” the set of policies advocated by Prime Minister Shinzo 
+Abe. The Bank of England adopted QE more or less in parallel with the Federal 
+Reserve, announcing its first major program in March 2009, a few days ahead of 
+the Fed’s QE1 announcement. The BOE then periodically increased targets for 
+one set of  short-term liquid securities for another. However, Christensen and Krogstrup (2014) argues that changes 
+in reserves, by affecting banks’ investment decisions, can induce portfolio balance effects and thus affect yields.
+5 The ECB in particular maintained a strong distinction between financial stabilization programs and monetary 
+policy, for example, by sterilizing the effects of bond purchases under its Securities Markets Program to avoid net 
+changes in the money supply (Hartmann and Smets 2018). The Fed created a wide variety of emergency lending 
+programs but largely phased them out by early 2010. 
