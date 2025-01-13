@@ -1,48 +1,46 @@
-949
-BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
-found the total decline in the  10-year Treasury yield associated with QE2 was a 
-relatively moderate 18 basis points, well less than the QE1 effect even with some 
-adjustment for the different sizes of the two programs. Analogous results have been 
-found in event studies of other  later-round QE programs, in both the United States 
-and in other countries. A possible interpretation is that the initial rounds of QE were 
-particularly effective because they were introduced, and provided critical liquidity, 
-in a period of exceptional dysfunction in financial markets. However, if QE only 
+found the total decline in the  10-year Treasury yield associated with QE2 was a
+relatively moderate 18 basis points, well less than the QE1 effect even with some
+adjustment for the different sizes of the two programs. Analogous results have been
+found in event studies of other  later-round QE programs, in both the United States
+and in other countries. A possible interpretation is that the initial rounds of QE were
+particularly effective because they were introduced, and provided critical liquidity,
+in a period of exceptional dysfunction in financial markets. However, if QE only
 works in such extraordinary circumstances, it is of limited use for monetary policy-
 makers during calmer times.
-The second point raised by critics is that event studies, by their nature, capture 
-asset market reactions over only a short period. It may be that these studies reveal 
-only  short-term liquidity effects, analogous (although much larger) to the  within-day 
-price effects of an unexpectedly large purchase or sale of a stock. Such effects would 
+The second point raised by critics is that event studies, by their nature, capture
+asset market reactions over only a short period. It may be that these studies reveal
+only  short-term liquidity effects, analogous (although much larger) to the  within-day
+price effects of an unexpectedly large purchase or sale of a stock. Such effects would
 be expected to dissipate quickly and would not provide much monetary accom-
-modation, since private spending decisions presumably respond only to persistent 
-changes in financial conditions. A variant of this objection, which takes a slightly 
- longer-term perspective, begins by pointing out that  longer-term Treasury yields did 
-not consistently decline during periods in which asset purchases were being carried 
-out. For example, the  10-year yield at the termination of QE1 purchases was actually 
-higher than it was before QE1 was announced. Perhaps investors came to appreciate 
-over time that  asset-purchase programs would not be effective? Using time series 
-methods, Wright (2011) argues that the effects of  post-crisis policy announcements 
+modation, since private spending decisions presumably respond only to persistent
+changes in financial conditions. A variant of this objection, which takes a slightly
+longer-term perspective, begins by pointing out that  longer-term Treasury yields did
+not consistently decline during periods in which asset purchases were being carried
+out. For example, the  10-year yield at the termination of QE1 purchases was actually
+higher than it was before QE1 was announced. Perhaps investors came to appreciate
+over time that  asset-purchase programs would not be effective? Using time series
+methods, Wright (2011) argues that the effects of  post-crisis policy announcements
 died off fairly quickly.
-Additional Evidence on the Effects of QE.—These two critiques of the  event-study 
+Additional Evidence on the Effects of QE.—These two critiques of the  event-study
 evidence raise important issues. However, other evidence on the effects of QE pro-
 vides counterpoints. I take each of the critiques in turn.
-First, although the weaker effects on asset prices found in event studies of later 
-rounds of QE could be the result of the calmer market conditions, those findings 
-could also reflect that later rounds of QE were better anticipated by investors, who 
-by then had been educated about the tool and the willingness of central banks to use 
-it. If later QE rounds were largely anticipated, then their effects would have been 
-incorporated into asset prices in advance of formal announcements, accounting for 
+First, although the weaker effects on asset prices found in event studies of later
+rounds of QE could be the result of the calmer market conditions, those findings
+could also reflect that later rounds of QE were better anticipated by investors, who
+by then had been educated about the tool and the willingness of central banks to use
+it. If later QE rounds were largely anticipated, then their effects would have been
+incorporated into asset prices in advance of formal announcements, accounting for
 the  event-study results (Gagnon 2018).
-Surveys of market participants and media reports suggest that later rounds of QE 
-in the United States and elsewhere were in fact widely anticipated. For example, 
+Surveys of market participants and media reports suggest that later rounds of QE
+in the United States and elsewhere were in fact widely anticipated. For example,
 according to the New York Fed’s survey of primary dealers, prior to the announce-
-ment of QE2 in November 2010, dealers placed an 88 percent probability that the 
-Fed would undertake another round of asset purchases. The primary dealers also 
-expected the program to be significantly larger and more extended than what was 
-subsequently announced (Cahill et al. 2013, Appendix A). It’s not surprising then 
-that the market reaction on the date of the QE2 announcement was small; in fact, 
- 10-year Treasury yields rose slightly on the day, presumably reflecting investor dis-
+ment of QE2 in November 2010, dealers placed an 88 percent probability that the
+Fed would undertake another round of asset purchases. The primary dealers also
+expected the program to be significantly larger and more extended than what was
+subsequently announced (Cahill et al. 2013, Appendix A). It’s not surprising then
+that the market reaction on the date of the QE2 announcement was small; in fact,
+10-year Treasury yields rose slightly on the day, presumably reflecting investor dis-
 appointment about the program’s scale.
-For  event-study researchers, a possible way to address this problem is to include 
-more event days, to capture more announcements, data releases, and other events 
-bearing on the probability of new asset purchases (Greenlaw et al. 2018). However, 
+For  event-study researchers, a possible way to address this problem is to include
+more event days, to capture more announcements, data releases, and other events
+bearing on the probability of new asset purchases (Greenlaw et al. 2018). However,

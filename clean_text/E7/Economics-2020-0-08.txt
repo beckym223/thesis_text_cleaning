@@ -1,49 +1,47 @@
-951
-BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
-revealed that, in a change unexpected by the primary dealers, bonds between 10 and 
+revealed that, in a change unexpected by the primary dealers, bonds between 10 and
 30 years maturity would make up only about 6 percent of planned purchases, com-
-pared to 15 percent in earlier rounds. If the portfolio balance channel is operating, 
-that news should have led to a decline in the prices and a rise in the yields of the 
- longer-maturity bonds, relative to those with shorter maturity. That was indeed what 
+pared to 15 percent in earlier rounds. If the portfolio balance channel is operating,
+that news should have led to a decline in the prices and a rise in the yields of the
+longer-maturity bonds, relative to those with shorter maturity. That was indeed what
 the authors found.
-Cahill et al. (2013) performed similar analyses of QE1, the Fed’s decision in 
-August 2010 to keep its asset holdings constant by reinvesting the proceeds of 
-maturing securities, the Maturity Extension Program, and the extension of the MEP 
-that preceded QE3. (Their study was completed before the announcement of QE3.) 
-They found in each case that unanticipated changes in implementation plans had 
-significant  cross-sectional effects on bond prices and yields. Their estimated effects 
-are both economically large and, importantly, show no tendency to decline over time 
-or as the size of the central bank’s balance sheet increases. These results, which 
-have been replicated in a number of studies, including for the United Kingdom, 
-once again do not support the view that QE is only effective when markets are 
+Cahill et al. (2013) performed similar analyses of QE1, the Fed’s decision in
+August 2010 to keep its asset holdings constant by reinvesting the proceeds of
+maturing securities, the Maturity Extension Program, and the extension of the MEP
+that preceded QE3. (Their study was completed before the announcement of QE3.)
+They found in each case that unanticipated changes in implementation plans had
+significant  cross-sectional effects on bond prices and yields. Their estimated effects
+are both economically large and, importantly, show no tendency to decline over time
+or as the size of the central bank’s balance sheet increases. These results, which
+have been replicated in a number of studies, including for the United Kingdom,
+once again do not support the view that QE is only effective when markets are
 dysfunctional.9
 Cahill et al. (2013), like most studies in this literature, looks at the differen-
-tial impact of asset purchase programs on Treasury debt of varying maturity. But 
-the Fed’s purchase programs also differed in how they treated Treasuries versus 
- mortgage-backed securities, with QE1 including substantial MBS purchases for 
-example, but QE2 involving only purchases of Treasuries. If portfolio balance 
-effects are at work, then unanticipated changes in the  Treasury-MBS mix should 
-affect the relative yields of those asset classes. That too seems to have been the 
-case, as illustrated for example by Krishnamurthy and  Vissing-Jorgenson (2011) in 
-their comparison of the effects of QE1 and QE2. Relatedly, Di Maggio, Kermani, 
-and Palmer (2015) considered the effects of the Fed’s QE programs on the relative 
-returns to MBS issued by the GSEs, which were eligible for purchase by the Fed, 
-and MBS backed by larger (jumbo) mortgages, which by law cannot be guaranteed 
-by the GSEs and thus were not eligible for Fed purchase. These authors found that 
-QE1, which included large quantities of MBS purchases, depressed mortgage rates 
-in general by more than 100 basis points but reduced the rates on jumbo mortgages 
-by only about half as much, consistent with the portfolio balance effect. In contrast, 
-they found that QE2 and the Maturity Extension Program, neither of which included 
-MBS purchases, did not differentially affect rates on  GSE-eligible mortgages and 
+tial impact of asset purchase programs on Treasury debt of varying maturity. But
+the Fed’s purchase programs also differed in how they treated Treasuries versus
+mortgage-backed securities, with QE1 including substantial MBS purchases for
+example, but QE2 involving only purchases of Treasuries. If portfolio balance
+effects are at work, then unanticipated changes in the  Treasury-MBS mix should
+affect the relative yields of those asset classes. That too seems to have been the
+case, as illustrated for example by Krishnamurthy and  Vissing-Jorgenson (2011) in
+their comparison of the effects of QE1 and QE2. Relatedly, Di Maggio, Kermani,
+and Palmer (2015) considered the effects of the Fed’s QE programs on the relative
+returns to MBS issued by the GSEs, which were eligible for purchase by the Fed,
+and MBS backed by larger (jumbo) mortgages, which by law cannot be guaranteed
+by the GSEs and thus were not eligible for Fed purchase. These authors found that
+QE1, which included large quantities of MBS purchases, depressed mortgage rates
+in general by more than 100 basis points but reduced the rates on jumbo mortgages
+by only about half as much, consistent with the portfolio balance effect. In contrast,
+they found that QE2 and the Maturity Extension Program, neither of which included
+MBS purchases, did not differentially affect rates on  GSE-eligible mortgages and
 jumbo mortgages.
-Note that studies of the  cross-sectional  asset-price impacts of QE announcements 
+Note that studies of the  cross-sectional  asset-price impacts of QE announcements
 should reflect only portfolio balance effects. Studies have also found evidence of sig-
-naling effects, that is, QE announcements tend to be associated with changes in the 
-expected path of  short-term interest rates (Bauer and Rudebusch 2014). In the “taper 
-tantrum” episode of 2013, market participants were surprised by my comments in a 
-congressional testimony and a press conference that asset purchases might soon be 
-9 An interesting example of a British study is McLaren, Banerjee, and Latto (2014). These authors consider 
-three “natural experiments,” dates on which the Bank of England announced changes to the maturity distribution 
-of its asset purchases, for reasons unrelated to monetary policy plans or objectives. They find strong local supply 
-effects (higher prices for assets favored by the changes in plans) which do not fade over time. Studies finding similar 
-results for the UK include Joyce and Tong (2012) and Meaning and Zhu (2011). 
+naling effects, that is, QE announcements tend to be associated with changes in the
+expected path of  short-term interest rates (Bauer and Rudebusch 2014). In the “taper
+tantrum” episode of 2013, market participants were surprised by my comments in a
+congressional testimony and a press conference that asset purchases might soon be
+9 An interesting example of a British study is McLaren, Banerjee, and Latto (2014). These authors consider
+three “natural experiments,” dates on which the Bank of England announced changes to the maturity distribution
+of its asset purchases, for reasons unrelated to monetary policy plans or objectives. They find strong local supply
+effects (higher prices for assets favored by the changes in plans) which do not fade over time. Studies finding similar
+results for the UK include Joyce and Tong (2012) and Meaning and Zhu (2011).
