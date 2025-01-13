@@ -42,4 +42,4 @@ The key result is that bottom-up coalitions perform only slightly better than th
 noncooperative equilibrium.
 C. Modeling Results for Bottom-up Coalitions
 The coalition theories described above generally use highly stylized structures
-and assumptions, so it is useful to examine empirical models of climate-
+and assumptions, so it is useful to examine empirical models of climatecoalitions

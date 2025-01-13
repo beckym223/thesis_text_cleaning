@@ -44,4 +44,4 @@ term structure. Yield curve control may be thought of as a form of QE that targe
 the price of bonds and leaves the quantity of bonds purchased by the central bank
 to be determined endogenously, rather than the reverse as in standard QE programs.
 Because the program is credible and because many private holders of JGBs appear
-not to be very  price-sensitive, it seems that the BOJ can maintain low  long-
+not to be very  price-sensitive, it seems that the BOJ can maintain low  longrates
