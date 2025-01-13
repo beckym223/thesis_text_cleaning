@@ -1,7 +1,11 @@
+#!/bin/bash
+
 RUN_EXTRA_COMMAND=false
+
+# Parse optional flags
 while getopts "o" opt; do
     case "$opt" in
-    c)
+    o)
         RUN_EXTRA_COMMAND=true
         ;;
     *)
@@ -10,10 +14,12 @@ while getopts "o" opt; do
         ;;
     esac
 done
+# Shift past the optional arguments
 shift $((OPTIND - 1))
 
+# Validate positional arguments
 if [ "$#" -ne 4 ]; then
-    echo "Usage: $0 <source_dir> <dest_dir> <log_file> <python_script>"
+    echo "Usage: $0 [-o] <source_dir> <dest_dir> <log_file> <python_script>"
     exit 1
 fi
 

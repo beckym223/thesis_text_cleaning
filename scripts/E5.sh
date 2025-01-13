@@ -7,4 +7,4 @@ LOG_FILE="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/logs/$NAME.log"
 PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/python_scripts/${NAME}.py"
 
 # Call the common script
-/Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" "$@"
+/Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$@" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" 
