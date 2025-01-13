@@ -643,21 +643,21 @@ E5_SPLIT_RANGES: dict[str, list[tuple[int, int]]] = {
     "Economics-1968-0-19.txt": [(0, 818)],
 }
 
-E7_TITLE_PAGE_BOUNDS: dict[str, tuple[int | None, int | None]] = {
-    "Economics-2018-0-02.txt": (4, 11),
-    "Economics-2019-0-03.txt": (0, 0),
-    "Economics-2013-0-02.txt": (14, 31),
-    "Economics-2012-0-02.txt": (17, 28),
-    "Economics-2008-0-03.txt": (10, 35),
-    "Economics-2009-0-03.txt": (4, 32),
-    "Economics-2020-0-00.txt": (28, None),
-    "Economics-2014-0-02.txt": (19, 27),
-    "Economics-2015-0-02.txt": (15, 31),
-    "Economics-2011-0-02.txt": (21, 33),
-    "Economics-2010-0-01.txt": (15, 36),
-    "Economics-2016-0-02.txt": (4, 35),
-    "Economics-2022-0-00.txt": (11, 33),
-    "Economics-2017-0-03.txt": (17, 32),
+E7_TITLE_PAGE_BOUNDS: dict[str, tuple[int, int | None, int | None]] = {
+    "Economics-2018-0": (2, 4, 11),
+    "Economics-2019-0": (3, 0, 0),
+    "Economics-2013-0": (2, 14, 31),
+    "Economics-2012-0": (2, 17, 28),
+    "Economics-2008-0": (3, 10, 35),
+    "Economics-2009-0": (3, 4, 32),
+    "Economics-2020-0": (0, 28, None),
+    "Economics-2014-0": (2, 19, 27),
+    "Economics-2015-0": (2, 15, 31),
+    "Economics-2011-0": (2, 21, 33),
+    "Economics-2010-0": (1, 15, 36),
+    "Economics-2016-0": (2, 4, 35),
+    "Economics-2022-0": (0, 11, 33),
+    "Economics-2017-0": (3, 17, 32),
 }
 
 E7_SPLIT_RANGES: dict[str, list[tuple[int, int]]] = {
