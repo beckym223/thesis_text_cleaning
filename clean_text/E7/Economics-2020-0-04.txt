@@ -15,18 +15,18 @@ be in easing financial conditions, if they would help at all. Indeed, some bench
 models predict that asset purchases will have no or at best transient effects on asset
 prices (Eggertsson and Woodford 2003). The positive case for QE rested on two
 arguments. First, if investors have “preferred habitats” because of specialized exper -
-tise, transaction costs, regulations, liquidity preference, or other factors, then chang-
-ing the net supplies of different securities or classes of securities should affect their
+tise, transaction costs, regulations, liquidity preference, or other factors, then changing
+the net supplies of different securities or classes of securities should affect their
 relative prices. This portfolio balance effect was modeled formally by Vayanos and
 Vila (2009), who showed that, generally, the effect will not be undone by the efforts
-of arbitrageurs. US policymakers saw QE as working in part by removing dura-
-tion risk from the Treasury market, pushing investors to bid up the values of both
+of arbitrageurs. US policymakers saw QE as working in part by removing duration
+risk from the Treasury market, pushing investors to bid up the values of both
 remaining  longer-term Treasuries and close substitutes, such as  mortgage-backed
 securities and corporate bonds. In addition, MBS purchases were expected to reduce
 the spread between Treasury yields and mortgage rates.
 Second, QE may have a signaling effect if it serves as a commitment mechanism,
-or perhaps as a signal of seriousness, leading investors to believe that policymak-
-ers intend to keep  short-term policy rates low for an extended period. Although
+or perhaps as a signal of seriousness, leading investors to believe that policymakers
+intend to keep  short-term policy rates low for an extended period. Although
 several channels have been proposed for how this might work, in practice much of
 the signaling effect appears tied to investors’ beliefs about the likely sequencing of
 policies. With encouragement from policymakers, market participants are typically
@@ -39,9 +39,9 @@ pushes out the expected date of the first  short-term rate increase. Observing t
 signal that short rates will be kept low, investors bid down  longer-term rates as well.
 Longer-term yields can be conceptually divided into (i) the average expected
 short rate over the life of the security, and (ii) the difference between the total yield
-and the average expected short rate, known as the term premium. To a first approx-
-imation, portfolio balance effects work by affecting the term premium, while the
+and the average expected short rate, known as the term premium. To a first approximation,
+portfolio balance effects work by affecting the term premium, while the
 signaling effect works by influencing expectations of future short rates. Using that
 approximation to distinguish the portfolio balance and signaling channels is not
 straightforward, however, because term premiums and expected future short rates are
-not directly observable. There are also indirect effects to account for: for  
+not directly observable. There are also indirect effects to account for: for

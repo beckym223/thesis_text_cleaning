@@ -1,29 +1,29 @@
-Does the smaller gender gap result mainly from the characteristics of the technol-
-ogy occupations or from the features of the industries of the technology employees?
+Does the smaller gender gap result mainly from the characteristics of the technology
+occupations or from the features of the industries of the technology employees?
 The answer is that it results far more from the occupation than from the industry. To
-examine whether industry is the locus of greater gender equality rather than occupa-
-tion I create a variable measuring the fraction of the industry's workforce in one of
+examine whether industry is the locus of greater gender equality rather than occupation
+I create a variable measuring the fraction of the industry's workforce in one of
 the identified technology occupations.
 To see whether the industry of the technology workers matters, a log earnings
 regression is estimated similar to the previous ones but is limited to individuals in
 one of the technology occupations. I add a variable measuring the fraction of the
 industry workforce in technology (see online Appendix Table A2). Some industries,
-such as "computer systems design," have a large fraction of their workers in technol-
-ogy occupations (around 60 percent) whereas others, such as "motor vehicle manu-
-facturing," are moderate (around 12 percent) and still others are very low. Engineers
-and information technology workers are hired in almost all industries. The technol-
-ogy industry variable is also interacted with female.
+such as "computer systems design," have a large fraction of their workers in technology
+occupations (around 60 percent) whereas others, such as "motor vehicle manufacturing,
+" are moderate (around 12 percent) and still others are very low. Engineers
+and information technology workers are hired in almost all industries. The technology
+industry variable is also interacted with female.
 The results are that technology workers in industries with more technology
-workers earn considerably more than workers in other industries, even with occu-
-pation fixed effects. But women do not earn disproportionately more than men
+workers earn considerably more than workers in other industries, even with occupation
+fixed effects. But women do not earn disproportionately more than men
 within the technology industries. The bottom line is that technology occupations
 and not technology industries more generally are associated with greater gender
 equality in earnings.23
 III. A Personnel Economics Theory of Occupational Pay Differences
 A. Micro-foundations of Compensating Differentials
 Residual differences by occupation in earnings by gender, I will demonstrate, are
-largely due to the value placed on the hours and job continuity of workers, includ-
-ing the self-employed.24 Individuals in some occupations work 70 hours a week and
+largely due to the value placed on the hours and job continuity of workers, including
+the self-employed.24 Individuals in some occupations work 70 hours a week and
 receive far more than twice the earnings of those who work 35 hours a week. But
 in other occupations they do not. Some occupations exhibit linearity with respect to
 time worked whereas others exhibit nonlinearity (convexity).25 When earnings are
@@ -31,4 +31,4 @@ linear with respect to time worked the gender gap is low; when there is nonlinea
 the gender gap is higher.
 Total hours worked are generally a good metric for time on the job. But often what
 counts are the particular hours worked. The employee who is around when others are
-as well may be rewarded more than the employee who leaves at 1 1 am 
+as well may be rewarded more than the employee who leaves at 1 1 am

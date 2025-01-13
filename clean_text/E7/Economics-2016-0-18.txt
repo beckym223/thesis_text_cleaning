@@ -7,9 +7,9 @@ into an otherwise standard analysis has obvious appeal.
 Along with intertemporal choice, the important aspect of preferences that has
 received a lot of attention from behavioral economic theorists is "other-regarding
 preferences." These models were all stimulated by empirical findings showing that
-humans are not completely selfish, even to strangers. For example, in one-shot pris-
-oners' dilemma games about 40-50 percent of subjects cooperate, both in labora-
-tory experiments and even in a game show environment where the stakes are over
+humans are not completely selfish, even to strangers. For example, in one-shot prisoners'
+dilemma games about 40-50 percent of subjects cooperate, both in laboratory
+experiments and even in a game show environment where the stakes are over
 £10,000 (van den Assem, van Dolder, and Thaler 2012). Similarly, people cooperate
 in public goods environments when the rational selfish strategy is to give nothing.
 The most prominent models in this space are by Rabin ( 1993) and Fehr and Schmidt
@@ -30,16 +30,16 @@ econometrics techniques as well). Whether this assumption is empirically valid i
 another question.
 Explicit tests of rational expectations per se are uncommon because we rarely
 observe or elicit actual expectations data. When we do, we often find that actual
-expectations diverge from what would reasonably be called rational. For exam-
-ple, Case, Shiller, and Thompson (2012) find that homeowners during the period
+expectations diverge from what would reasonably be called rational. For example,
+Case, Shiller, and Thompson (2012) find that homeowners during the period
 of rapidly rising prices from 2000-2005 expected home prices to continue to rise
 at double-digit rates for the next decade. While one can't prove such expectations
 were irrational, they certainly seem excessively optimistic, both ex ante and ex post.
 Furthermore, in this domain and in many others, expectations seem to rely too much
 on extrapolation of recent trends. To a first approximation, people expect that what
 goes up will continue to go up.
-We also see violations of rational expectations in the predictions of stock mar-
-ket returns by chief financial officers studied by Ben-David, Graham, and Harvey
+We also see violations of rational expectations in the predictions of stock market
+returns by chief financial officers studied by Ben-David, Graham, and Harvey
 (2013). The CFOs were asked to predict one-year rates of return on the S&P 500
 and also give 80 percent confidence limits. Perhaps unsurprisingly, the CFOs had
 essentially no ability to predict returns in the stock market. What is more di

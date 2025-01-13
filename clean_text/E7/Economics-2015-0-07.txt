@@ -1,8 +1,8 @@
 without external penalties, that is, ones that have self-contained payoffs and cannot
 be enforced by third parties or be linked to other arrangements.
-Begin with some definitions. The formal difference between "external" and "inter-
-nal" penalties is the following. If countries are playing a repeated game, then inter-
-nal penalties maintain the payoff structure of the game, but countries can penalize or
+Begin with some definitions. The formal difference between "external" and "internal"
+penalties is the following. If countries are playing a repeated game, then internal
+penalties maintain the payoff structure of the game, but countries can penalize or
 reward others by selecting different combinations of strategies. Tit-for-tat is a game
 with internal penalties because it has a reward structure given by the payoffs of the
 stage games. In the end, however, the rewards must be some combination of the payoffs
@@ -15,31 +15,31 @@ public-goods nature of the decline of the whale population and are therefore ext
 Before turning to the analysis of coalitions, it will be useful to distinguish between
 "bottom-up" and "top-down" coalitions. The standard approach in environmental
 economics, reviewed in the next section, focuses on a bottom-up approach in which
-coalitions optimize their own self-interest and evolve into larger or smaller coali-
-tions. Regional trade agreements are examples of this approach.
+coalitions optimize their own self-interest and evolve into larger or smaller coalitions.
+Regional trade agreements are examples of this approach.
 The Climate Club approach is instead a top-down approach. Here, the regime is
-optimized to attract large numbers of participants and attain high levels of abate-
-ment, and then countries decide whether or not to join. The Bretton Woods institu-
-tions such as the International Monetary Fund or the World Trade Organization are
+optimized to attract large numbers of participants and attain high levels of abatement,
+and then countries decide whether or not to join. The Bretton Woods institutions
+such as the International Monetary Fund or the World Trade Organization are
 examples of the top-down model.
 B. Bottom-up Coalitions and the Small Coalition Paradox
 In the context of climate change, coalitions of countries can form treaties that
-potentially improve the welfare of their members by taking concerted action. If sev-
-eral countries maximize their joint welfare, the optimized level of abatement will rise
+potentially improve the welfare of their members by taking concerted action. If several
+countries maximize their joint welfare, the optimized level of abatement will rise
 relative to the noncooperative equilibrium because more countries will benefit. In
 the algebraic example described above, the coalition's optimal control rate shown in
-equation (2) will equal the global optimum times the coalition's share of world out-
-put. As the coalition increases to include all countries, the global level of abatement
+equation (2) will equal the global optimum times the coalition's share of world output.
+As the coalition increases to include all countries, the global level of abatement
 will tend toward the efficient rate. This result might form the basis for hopes that
 arrangements like the Kyoto Protocol will lead to deep emissions reductions.
 In fact, theoretical and empirical studies indicate that bottom-up coalitions for cartels
-and global public goods tend to be small, fragile, and unstable. Work on coalition sta-
-bility by Hart and Kurz (1983) found that coalitions are generally not stable, and their
+and global public goods tend to be small, fragile, and unstable. Work on coalition stability
+by Hart and Kurz (1983) found that coalitions are generally not stable, and their
 structure will depend upon the structure of the payoffs and the stability concept. Studies
 of the structure of cartels in oligopoly theory (see, e.g., D'Aspremont et al. 1983 and
 Donsimoni, Economides, and Polemarchakis 1986) found that cartels are likely to be
 small, unstable, or of vanishingly small importance as the number of firms grows.
-Studies in environmental economics and climate change find virtually univer-
-sally that coalitions tend to be either small or shallow, a result I will call the "small
+Studies in environmental economics and climate change find virtually universally
+that coalitions tend to be either small or shallow, a result I will call the "small
 coalition paradox." The paradigm for understanding the small coalition paradox is
 well discussed in Barrett's (2003) book on international environ

@@ -1,8 +1,8 @@
 economic and strategic aspects and leave other aspects to specialists in those areas
 (see Bordoff 2009 and Brainard and Sorkin 2009).
 Two approaches to trade sanctions might be considered. A first approach, called
-carbon duties, would put tariffs on imports of nonparticipants in relation to the car-
-bon content of imports. A second approach, called uniform penalty tariffs, would
+carbon duties, would put tariffs on imports of nonparticipants in relation to the carbon
+content of imports. A second approach, called uniform penalty tariffs, would
 apply uniform percentage tariffs to all imports from nonparticipating countries. I
 discuss each of these in turn.
 The central question addressed in this analysis is whether a club design which
@@ -14,8 +14,8 @@ have advocated penalties - would put tariffs on goods imported from nonparticipa
 in relation to the goods' carbon content. (These are also known as countervailing
 duties, but I will use the more descriptive term here.) Under this approach, imports
 from nonparticipants into a country would be taxed at the border by an amount that
-would be equal to the domestic price of carbon (or perhaps by an agreed-upon inter-
-national target carbon price) times the carbon content of the import. Alternatively,
+would be equal to the domestic price of carbon (or perhaps by an agreed-upon international
+target carbon price) times the carbon content of the import. Alternatively,
 under a cap-and-trade regime, the requirement might be that importers purchase
 emissions allowances to cover the carbon content of imports.
 The technique of carbon duties is commonly used when countries violate their trade
@@ -24,8 +24,8 @@ agreements, and is also included in several international environmental agreemen
 leakage, to level the competitive playing field, and to reduce emissions. Increased
 participation - which is emphasized here - is usually not included as a goal of the
 sanctions. See Frankel (2009) for a review of proposals and their relation to trade law.
-Studies of carbon duties indicate they are complicated to design, have limited cov-
-erage, and do little to induce participation. As an example, consider C02 emissions
+Studies of carbon duties indicate they are complicated to design, have limited coverage,
+and do little to induce participation. As an example, consider C02 emissions
 from US coal-fired electricity generation, which is a major source of emissions. Since
 the United States exports less than 1 percent of its electricity generation, the effect
 of carbon duties here would be negligible. Modeling studies confirm the intuition
@@ -36,8 +36,8 @@ would have little effect on emissions. Estimates of this approach using the C-DI
 model described below also indicate that carbon duties have limited effectiveness in
 promoting deep abatement (see the online Appendix for more details).
 E. Uniform Tariff Mechanisms
-Given the complexity of carbon duties, I propose and analyze an alternative and sim-
-pler approach: a uniform percentage tariff. Under this approach, participating countries
-would levy a uniform percentage tariff (perhaps 2 percent) on all imports from nonpar-
-ticipants. This mechanism has the advantage of simplicity and transparency, although it
+Given the complexity of carbon duties, I propose and analyze an alternative and simpler
+approach: a uniform percentage tariff. Under this approach, participating countries
+would levy a uniform percentage tariff (perhaps 2 percent) on all imports from nonparticipants.
+This mechanism has the advantage of simplicity and transparency, although it
 does not relate the tariff specifically to the carbon content o

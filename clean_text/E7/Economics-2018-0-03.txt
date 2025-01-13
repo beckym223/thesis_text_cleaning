@@ -6,8 +6,8 @@ windows through which to view markets.3 Market design has also opened up new
 ways for economists to earn their livings.4
 I want to emphasize the view that marketplaces—which consist of infrastructure,
 rules, and customs through which information is exchanged and transactions are made—can be relatively small parts of large markets. Participants may have large strategy sets, i.e., many options available to them, beyond those available in any particular marketplace.
-Because marketplaces serve many different kinds of markets, different market-
-places have different tasks to accomplish. Practical market design that aims to design marketplaces that will be adopted, implemented, and maintained can be thought of as a kind of economic engineering, so details matter.
+Because marketplaces serve many different kinds of markets, different marketplaces
+have different tasks to accomplish. Practical market design that aims to design marketplaces that will be adopted, implemented, and maintained can be thought of as a kind of economic engineering, so details matter.
 5 But, as with other kinds of
 engineering, although each application may demand custom design, there are com-mon issues that many marketplaces have to deal with to be successful, and so there are also general lessons to be learned. And (also as with other kinds of engineering) sometimes these lessons are learned most clearly from marketplace failures, i.e., from marketplaces whose (poor) design impedes market efficiency. (So it isn’t nec-essarily the most important markets that yield the most useful lessons.)
 Marketplace design (or even design economics) might sometimes be a more

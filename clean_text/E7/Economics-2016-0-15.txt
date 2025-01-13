@@ -1,8 +1,8 @@
-There is a broader point to make. For lots of reasons we might expect that finan-
-cial markets are the most efficient of all markets. They are the only markets where
+There is a broader point to make. For lots of reasons we might expect that financial
+markets are the most efficient of all markets. They are the only markets where
 it is generally possible to cheaply sell short, an essential feature if we expect prices
-to be "right." Yet if financial markets can be off by a factor of two, how much con-
-fidence should we have that prices in other markets are good measures of value,
+to be "right." Yet if financial markets can be off by a factor of two, how much confidence
+should we have that prices in other markets are good measures of value,
 where there are no realistic arbitrage opportunities?
 To give just one example, consider labor markets. There has been considerable
 attention paid in recent years to the growing inequality in incomes and wealth
@@ -17,8 +17,8 @@ a long literature begun by Slichter (1950) documenting odd inter-industry wage
 differentials. Simply put, some industries pay more than others, and this applies to
 clerical workers and janitors as well as higher paid executives. Important papers by
 Krueger and Summers (1988) and Dickens and Katz (1986) reignited this literature
-summarized in Thaler (1989). Card, Heining, and Kline (2013) have recently docu-
-mented similar findings in Germany using panel data that allow for individual fixed
+summarized in Thaler (1989). Card, Heining, and Kline (2013) have recently documented
+similar findings in Germany using panel data that allow for individual fixed
 effects. They find that when workers move from a bottom quartile paying industry
 to a top quartile industry their wages jump, and the opposite thing happens when
 workers move from a high paying industry to a low one. It seems implausible that
@@ -41,5 +41,5 @@ IV. One Theory, Two Tasks
 The conclusion I reach from research in behavioral finance is that even these most
 efficient of markets often lead to empirical results that are inconsistent with theories
 based on rational investors making choices in markets with tiny transaction costs. In
-other words, the results we obtain are not consistent with the hypothesis that inves-
-tors behave "as if' they were rational. And there should be even greater s
+other words, the results we obtain are not consistent with the hypothesis that investors
+behave "as if' they were rational. And there should be even greater s

@@ -1,13 +1,13 @@
 with new QE programs assumed to add to assets already on the balance sheet from
-any prior programs. Thus, it is possible to observe the  long-run distribution of bal-
-ance sheet sizes associated with any particular strategy.
+any prior programs. Thus, it is possible to observe the  long-run distribution of balance
+sheet sizes associated with any particular strategy.
 Following Engen, Laubach, and Reifschneider (2015); Reifschneider (2016); and
 Kiley (2018), and consistent with the empirical evidence (e.g., Ihrig et al. 2018), I
 assume that $500 billion in asset purchases by the Fed lowers the  10-year Treasury
 yield by 20 basis points, and the  5-year and  30-year yields by 17 and 7 basis points,
 respectively.21 Assuming smaller effects of QE on rates would increase the scale of
-asset purchases required to achieve any particular economic outcome in my sim-
-ulations but otherwise not affect the results. I assume that the effects of QE on
+asset purchases required to achieve any particular economic outcome in my simulations
+but otherwise not affect the results. I assume that the effects of QE on
 longer-term rates are linear, exhibiting neither increasing nor decreasing returns.
 Since the ability of QE to depress term premiums may be limited in practice, I also
 ran simulations (not reported) in which term premiums are constrained from falling
@@ -27,8 +27,8 @@ including the form of the policy rule. Since the comparisons here are between st
 states,  model-consistent expectations seems the right assumption. An alternative
 assumption is that only participants in financial markets know the model and the
 policy rule; see Bernanke, Kiley, and Roberts (2019) for a discussion. Simulations
-using this alternative expectational assumption do not change the broad conclu-
-sions of the study; under the alternative assumption, forward guidance becomes
+using this alternative expectational assumption do not change the broad conclusions
+of the study; under the alternative assumption, forward guidance becomes
 somewhat less effective (not surprisingly), but QE becomes slightly more effective.
 The solution method imposes a lower bound of zero on the current  short-term inter -
 est rate and on expected future  short-term rates.  Longer-term interest rates are not

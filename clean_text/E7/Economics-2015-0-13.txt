@@ -8,11 +8,11 @@ For all regions, the sum of the transnational externalities is $124 billion. The
 sum of the costs of out (clubs of 14) of all 15 regions is $102 billion, while the sum
 of benefits of in (clubs of 1) is $98 billion. Online Appendix Table B-7 shows the
 results for all regions.
-The calculations provide a surprising result. They indicate that a penalty tariff pro-
-vides incentives that are reasonably well targeted to the transnational externalities.
+The calculations provide a surprising result. They indicate that a penalty tariff provides
+incentives that are reasonably well targeted to the transnational externalities.
 The penalty always has the correct sign, and the size of the penalty is the right order
-of magnitude with a 2 percent tariff. However, because of different trade and emis-
-sions patterns, the externality and the trade penalty are imperfectly aligned. Note
+of magnitude with a 2 percent tariff. However, because of different trade and emissions
+patterns, the externality and the trade penalty are imperfectly aligned. Note
 that the tariff effect changes with club size, so the internalization effect is variable.
 But on the whole, an appropriate tariff appears to be remarkably well-calibrated to
 the C02 externality.

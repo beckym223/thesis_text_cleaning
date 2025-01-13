@@ -19,8 +19,8 @@ negative territory the short rate can fall. Negative rates also raise financial 
 concerns. One risk is that bank capital and lending capacity will be impaired by
 negative rates, because in practice banks cannot easily pass negative rates on to
 retail depositors. Indeed, a “reversal rate” of interest may exist, below which the
-adverse effects of the negative rate on bank capital and lending make it economi-
-cally contractionary on net (Brunnermeier and Koby 2017). However, central banks
+adverse effects of the negative rate on bank capital and lending make it economically
+contractionary on net (Brunnermeier and Koby 2017). However, central banks
 can address the reversal rate problem through various devices, such as paying a
 higher rate to banks on a portion of their reserves (tiering), as has been done by the
 BOJ and the ECB. In addition, when rates decline, banks benefit from the upward
@@ -38,8 +38,8 @@ in some quarters. Money illusion can be powerful.
 Finally, the Bank of Japan in September 2016 initiated a program of “yield curve
 control,” a framework which includes a peg for the  short-term interest rate (as in
 traditional policymaking) but also a target range for the yield on  10-year Japanese
-government bonds (JGBs), enforced by purchases of those bonds. Yield curve con-
-trol allows the BOJ to provide stimulus by lowering interest rates throughout the
+government bonds (JGBs), enforced by purchases of those bonds. Yield curve control
+allows the BOJ to provide stimulus by lowering interest rates throughout the
 term structure. Yield curve control may be thought of as a form of QE that targets
 the price of bonds and leaves the quantity of bonds purchased by the central bank
 to be determined endogenously, rather than the reverse as in standard QE programs.

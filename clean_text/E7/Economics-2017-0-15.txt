@@ -5,20 +5,20 @@ a Google Ngrams plot that did not peak until the 1880s, and has since been decli
 slowly for over a century. Karl Marx (1818-1883) has a Google Ngrams plot that
 did not peak until the 1970s.
 Taking the Kermack-McKendrick model as an illustration or metaphor, it would
-appear that this learning theory might imply that the total impact of an idea is mea-
-sured by its Rqc long after the idea has ceased to be infectious. The long-run impact
+appear that this learning theory might imply that the total impact of an idea is measured
+by its Rqc long after the idea has ceased to be infectious. The long-run impact
 of an idea then is not testimony to its correctness, but rather to the c/r in the initial
 epidemic that popularized it.
-In applying the SIR model to social epidemics, we need also consider that nar-
-ratives affect the contagion rates of other narratives that are seen to be on the same
+In applying the SIR model to social epidemics, we need also consider that narratives
+affect the contagion rates of other narratives that are seen to be on the same
 topic or that further inform. One new narrative may remind one of another that has
 been lying fairly dormant. A wave of similar narrative epidemics can appear.
 One must also consider that stories tend to be strategic, fine-tuned by politicians,
 advertisers, or other interested parties (Akerlof and Shiller 2015). People with an
 aptitude for storytelling see great fortune in monkeying with stories in an effort
 to have them go viral. Falk and Tiróle (2016) call them "narrative entrepreneurs."
-Glaeser (2005) refers to the "supply of stories," exemplified by hate-creating sto-
-ries crafted, produced, fashioned for political advantage. Gino, Norton, and Weber
+Glaeser (2005) refers to the "supply of stories," exemplified by hate-creating stories
+crafted, produced, fashioned for political advantage. Gino, Norton, and Weber
 (2016) describe concoctors of excuses as "motivated Bayesians," meaning that these
 people start to believe the fake news that they generated for self-advantage.
 Much of the purposeful generation of new stories is for individual profit, but
@@ -31,14 +31,14 @@ VI. Narrative Epidemics of Economic Theories
 Let us consider as an example the narrative epidemic associated with the Laffer
 Curve, a diagram created by economist Arthur Laffer in the theory of public finance.
 Let's curve the curve: look at Kermack-McKendrick curves for the narrative of the
-Laffer Curve. Looking at the Laffer Curve is an arbitrary choice among a vast num-
-ber of narratives, but one that can be searched on databases easily since the name
+Laffer Curve. Looking at the Laffer Curve is an arbitrary choice among a vast number
+of narratives, but one that can be searched on databases easily since the name
 Laffer Curve appears to connect well to a single narrative with clear economic
 impact. This narrative exploded into public attention in 1978 focusing on a 1974
 event involving the US economist Art Laffer. In Figure 3, a plot of the frequency
 of references to the Laffer Curve by year, from ProQuest News and Newspapers
-and by Google Ngrams, somewhat resembles the infectives plot of the Kermack-
-McKendrick model in Figure 2.
+and by Google Ngrams, somewhat resembles the infectives plot of the KermackMcKendrick
+model in Figure 2.
 For both, the curves are choppy relative to the model, due to some publication
 noise, but show some of the hump shape. For news and newspapers, the frequency
 of use of the term Laffer Curve initially rises strongly, from 1977 to 1978, and then

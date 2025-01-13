@@ -1,6 +1,6 @@
 II. Mark etplace Failures Related to Timing
-Thick marketplaces that operate at a time at which transactions can be made effi-
-ciently provide a public good to the participants, by allowing them to compare many
+Thick marketplaces that operate at a time at which transactions can be made efficiently
+provide a public good to the participants, by allowing them to compare many
 possible transactions. But as with any public good, there is a temptation to free ride, and thus marketplaces often need to be defended in order not to lose their thickness, or their efficient timing. For example, markets can unravel in time, a process by which offers in a labor market gradually become earlier, shorter in duration, and diffuse in time (with the consequence that participants must make decisions before important information is available, and without knowing what other opportunities might be available in the market).
 34 Roth and Xing (1994) describe many unraveled
 markets, and for many markets identified organizations that try—often with only mixed success—to regulate the time at which marketplaces operate, and often the timing and duration of offers, to prevent free riding and promote efficiency.

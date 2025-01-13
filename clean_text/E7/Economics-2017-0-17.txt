@@ -5,15 +5,15 @@ drew his curve on a napkin at the restaurant table. When news about the "curve
 drawn on a napkin" came out, with Wanniski's help, this story surprisingly went
 viral, so much so that it is now commemorated. A napkin with the Laffer Curve can
 be seen at the National Museum of American History, and a reenactment video of
-the restaurant-napkin event depicting Laffer drawing his curve on a napkin is avail-
-able on Bloomberg.
+the restaurant-napkin event depicting Laffer drawing his curve on a napkin is available
+on Bloomberg.
 Why did this story go viral? It is always hard to explain these things. Laffer
 himself said after the Wanniski story exploded that he could not even remember
 the event, which had taken place four years earlier.10 But Wanniski was a journalist
 who sensed that he had the right elements of a good story. The key idea as Wanniski
 presented it, is indeed punchy: at a zero-percent tax rate, the government collects
-no revenue. At a 100 percent tax rate the government would also collect no reve-
-nue, because people will not work if all of the income is taken. Between the two
+no revenue. At a 100 percent tax rate the government would also collect no revenue,
+because people will not work if all of the income is taken. Between the two
 extremes, the curve, relating tax revenue to tax rate, must have an inverted U shape.
 Now, as Wanniski pointed out with fanfare in the opening line of his 1978 article,
 this means that for any feasible tax revenue except one at the very top of the Laffer
@@ -24,8 +24,8 @@ Here is a notion of economic efficiency easy enough for anyone to understand.
 Wanniski suggested, without any data, that we are on the inefficient side of the
 Laffer Curve. Laffer's genius was in narratives, not data collection. The drawing of
 the Laffer Curve seems to suggest that cutting taxes would produce a huge windfall
-in national income. To most quantitatively inclined people unfamiliar with econom-
-ics, this explanation of economic inefficiency was a striking concept, contagious
+in national income. To most quantitatively inclined people unfamiliar with economics,
+this explanation of economic inefficiency was a striking concept, contagious
 enough to go viral, even though economists protested that we are not actually on
 the inefficient declining side of the Laffer Curve (Mirowski 1982). It is apparently
 impossible to capture why it is doubtful that we are on the inefficient side of the

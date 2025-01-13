@@ -1,6 +1,6 @@
 His analysis emphasizes credible or "self-enforcing" treaties (Barrett 1994). These
-are ones that combine individual rationality (for each player individually) and col-
-lective rationality (for all players together). This concept is weaker than the concept
+are ones that combine individual rationality (for each player individually) and collective
+rationality (for all players together). This concept is weaker than the concept
 of coalition stability discussed later, which adds rationality for each subset of the
 players. Barrett emphasizes the difficulties of reaching agreements on global public
 goods with large numbers of participants because of free-riding. Similar to the results
@@ -12,8 +12,8 @@ succeed in inducing countries to increase their investments significantly above 
 noncooperative levels. Moreover, the ones that do succeed include external penalties.
 How can we understand the small coalition paradox? Here is the intuition for
 climate change: clearly, two countries can improve their welfare by combining and
-raising their carbon price to the level that equals the sum of their SCCs. Either coun-
-try is worse off by dropping out. The 2014 agreement between China and the United
+raising their carbon price to the level that equals the sum of their SCCs. Either country
+is worse off by dropping out. The 2014 agreement between China and the United
 States to join forces in climate policy might be interpreted as an example of a small
 bottom-up coalition.
 Does it follow that, by increasing the number of countries in the treaty, this process
@@ -26,8 +26,8 @@ would reoptimize its levels of abatement. The revised levels of abatement would 
 be well above the NC levels for the remainder coalition, while the defector free-rides
 on the abatement of the remainder coalition. The exact size of the coalitions would
 depend upon the cost and damage structure as well as the number of countries.
-The online Appendix provides a simple analysis of the bottom-up coalition equi-
-librium for identical countries with the cost and damage structure shown in equations
+The online Appendix provides a simple analysis of the bottom-up coalition equilibrium
+for identical countries with the cost and damage structure shown in equations
 (l)-(5). The only stable coalitions have two or three countries. (For simplicity,
 assume the lower number holds in the case of ties.) The size of the stable coalition is
 independent of the number of countries, the social cost of carbon, output, emissions,

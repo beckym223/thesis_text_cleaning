@@ -1,21 +1,21 @@
 In sum, while there is room for disagreement about the effects of QE on
-longer-term yields, most evidence supports the view that they were both economi-
-cally significant and persistent. In particular, the research rejects the notion that QE
-is only effective during periods of financial disruption. Instead, once market partic-
-ipants’ expectations are accounted for, the impact of new purchase programs seems
+longer-term yields, most evidence supports the view that they were both economically
+significant and persistent. In particular, the research rejects the notion that QE
+is only effective during periods of financial disruption. Instead, once market participants’
+expectations are accounted for, the impact of new purchase programs seems
 to have been more or less constant over time, independent of market functioning, the
 level of rates, or the size of the central bank balance sheet.
 B. Forward Guidance
 The second new tool used by almost all major central banks in recent years,
 other than asset purchases, is forward guidance. Forward guidance, or “open mouth
-operations” (Guthrie and Wright 2000), is communication about how monetary pol-
-icymakers expect the economy and policy to evolve. Forward guidance takes many
+operations” (Guthrie and Wright 2000), is communication about how monetary policymakers
+expect the economy and policy to evolve. Forward guidance takes many
 forms (such as the specification of policy targets, economic and policy projections)
 and occurs in many venues (speeches and testimonies, monetary policy reports).
 The Fed took several steps to enhance its communications during the  post-crisis
-period, including introducing press conferences by the chair, setting a formal infla-
-tion target, and releasing more detailed economic projections by FOMC partici-
-pants, including policy rate projections. I focus here though on formal guidance by
+period, including introducing press conferences by the chair, setting a formal inflation
+target, and releasing more detailed economic projections by FOMC participants,
+including policy rate projections. I focus here though on formal guidance by
 the policy committee about the future paths of key policy instruments, especially
 policy rates and asset purchases.
 Forward guidance, at least in a broad sense, was not new to the  post-crisis period.
@@ -23,8 +23,8 @@ The Fed used variants of forward guidance in the Greenspan era, for example, in 
 promises of the FOMC in  2003–2004 to keep rates low “for a considerable period” or
 to remove accommodation “at a pace that is likely to be measured.” Ample evidence
 suggests that these and other  pre-crisis communications by the FOMC affected mar -
-ket expectations of policy rates and thus asset prices and yields generally. For exam-
-ple, Gürkaynak, Sack, and Swanson (2005), using a  high-frequency event study,
+ket expectations of policy rates and thus asset prices and yields generally. For example,
+Gürkaynak, Sack, and Swanson (2005), using a  high-frequency event study,
 showed that the effects of monetary policy announcements on asset prices can be
 decomposed into two factors: one associated with unexpected changes in the current
 setting of the federal funds rate and the other with news about the expected future
@@ -38,8 +38,8 @@ been met.
 Campbell et al. (2012) introduced the useful distinction between Delphic and
 Odyssean forward guidance. Delphic guidance (after the oracles at the Temple of
 Apollo at Delphi) is intended only to be informative, to help the public and market
-participants understand policymakers’ economic outlook and policy plans. In con-
-trast, Odyssean guidance goes beyond simple economic or policy forecasts by incor -
+participants understand policymakers’ economic outlook and policy plans. In contrast,
+Odyssean guidance goes beyond simple economic or policy forecasts by incor -
 porating a promise or commitment by policymakers to conduct policy in a specified,
 possibly  state-contingent way in the future (as when Odysseus bound himself to the
 mast to avoid the temptations o

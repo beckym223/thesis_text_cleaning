@@ -1,14 +1,14 @@
 for many years, as in the model Figure 2, though it shows something of an upturn
-again after 2000. For books, the curve rises more slowly, for five of six consecu-
-tive years, from 1978 to 1983, before entering a long period of slow decline, as in
+again after 2000. For books, the curve rises more slowly, for five of six consecutive
+years, from 1978 to 1983, before entering a long period of slow decline, as in
 Figure 2.
-The Laffer Curve owes much of its contagion to the fact that it was seen as justi-
-fying major tax cuts. The Laffer Curve's contagion related to fundamental political
+The Laffer Curve owes much of its contagion to the fact that it was seen as justifying
+major tax cuts. The Laffer Curve's contagion related to fundamental political
 changes associated with Ronald Reagan's election as US president in 1980 with
 his commitment to cutting taxes (and with Margaret Thatcher, but not the socialist
 François Mitterrand elected around that time).
-The Laffer Curve is an inverted U curve relating tax revenue to tax rates, a the-
-ory that was used to justify cutting taxes on high-income people since high taxes
+The Laffer Curve is an inverted U curve relating tax revenue to tax rates, a theory
+that was used to justify cutting taxes on high-income people since high taxes
 incentivize them to produce less. The notion that taxes might reduce the incentive
 to earn income and create jobs was hardly new: the idea was expressed as long
 ago as Adam Smith in the eighteenth century.7 Andrew Mellon, US Treasury
@@ -19,4 +19,4 @@ Mellon name began to fade (outside of Carnegie-Mellon University), and the theor
 lost persuasive narrative.
 The story of the Laffer Curve did not go viral in 1974, the reputed date when
 Laffer first introduced it. Its contagion is explained by a literary innovation that was
-first published in a 1978 article in National Affairs by Jude Wanniski, editorial 
+first published in a 1978 article in National Affairs by Jude Wanniski, editorial

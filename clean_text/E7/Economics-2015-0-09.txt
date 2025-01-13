@@ -11,8 +11,8 @@ IV. Sanctions on Nonparticipants to Promote an Effective Climate Club
 As noted above, the syndrome of free-riding along with the international norm
 of voluntary participation appears to doom international climate agreements like the
 Kyoto Protocol. The suggestion in this paper is that a club structure - where external
-sanctions are imposed on nonmembers - will be necessary to induce effective agree-
-ments. I analyze in depth a specific model of sanctions (tariffs on nonparticipants),
+sanctions are imposed on nonmembers - will be necessary to induce effective agreements.
+I analyze in depth a specific model of sanctions (tariffs on nonparticipants),
 but the model illustrates the more general point that external sanctions are necessary
 to promote participation in effective agreements to provide global public goods.
 A. Stable Coalitions
@@ -28,8 +28,8 @@ applies to single countries. The concept is widely used in different fields and 
 originally called strong equilibrium in Aumann (1959); also see Bernheim, Peleg,
 and Whinston (1987). The term coalition Nash is more intuitive and is used here.
 The small coalition paradox motivates the current approach. The goal here is
-to find a structure that is stable and effective for a wide variety of country prefer-
-ences, technologies, and strategies. The most appealing structure is one that does
+to find a structure that is stable and effective for a wide variety of country preferences,
+technologies, and strategies. The most appealing structure is one that does
 not depend on sophisticated and fragile repeated-game strategies and instead has
 an efficient equilibrium for every period (in the stage games) in a repeated game.
 I therefore focus on one-shot games that have efficient and unique equilibria. If

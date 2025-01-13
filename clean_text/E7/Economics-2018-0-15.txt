@@ -2,8 +2,8 @@ a given time can lose their thickness through unraveling. For example, the Ameri
 Philosophical Society (APS) is attempting to preserve the marketplace for inter -
 views provided by their Association’s Eastern Division meeting, which takes place around the time of the ASSA meetings, and serves the same function as a market-place for academic interviews. The recent growth of earlier Skype interviews has not only made that marketplace less thick, it has also moved flyouts and offers (and the time at which they must be accepted) earlier, leading to efforts by the philosophy association to stop further unraveling.
 47
-The design of attractive marketplaces can sometimes reverse unraveling. In med-
-icine and in some other markets, centralized clearinghouses have arisen partly in response to unraveling.
+The design of attractive marketplaces can sometimes reverse unraveling. In medicine
+and in some other markets, centralized clearinghouses have arisen partly in response to unraveling.
 III. Computerized Clearinghouses f or Stable Matching: Medical Labor Markets
 and School Choice
 A. Medical Labor Markets

@@ -8,14 +8,14 @@ I. The Historical Roots of Behavioral Economics
 As Simon (1987, p. 612) noted, the term "behavioral economics" is a bit odd. "The
 phrase 'behavioral economics' appears to be a pleonasm. What 'non-behavioral'
 economics can we contrast with it? The answer to this question is found in the
-specific assumptions about human behavior that are made in neoclassical eco-
-nomic theory." These assumptions are familiar to all students of economic theory.
+specific assumptions about human behavior that are made in neoclassical economic
+theory." These assumptions are familiar to all students of economic theory.
 (i) Agents have well-defined preferences and unbiased beliefs and expectations.
 (ii) They make optimal choices based on these beliefs and preferences. This in turn
 implies that agents have infinite cognitive abilities (or, put another way, are as smart
 as the smartest economist) and infinite willpower since they choose what is best,
-not what is momentarily tempting, (iii) Although they may act altruistically, espe-
-cially toward close friends and family, their primary motivation is self-interest. It is
+not what is momentarily tempting, (iii) Although they may act altruistically, especially
+toward close friends and family, their primary motivation is self-interest. It is
 these assumptions that define Homo economicus, or as I like to call them, Econs.
 Behavioral economics simply replaces Econs with Homo sapiens, otherwise known
 as Humans.
@@ -24,8 +24,8 @@ effectively define their discipline; that is, they study Econs in an abstract ec
 rather than Humans in the real one. But such was not always the case. Indeed, Ashraf,
 Camerer, and Loewenstein (2005) convincingly document that Adam Smith, often
 considered the founder of economics as a discipline, was a bona fide behavioral
-economist. Consider just three of the most important concepts of behavioral eco-
-nomics: overconfidence, loss aversion, and self-control. On overconfidence Smith
+economist. Consider just three of the most important concepts of behavioral economics:
+overconfidence, loss aversion, and self-control. On overconfidence Smith
 (1776, p. 1) commented on "the over-weening conceit which the greater part of men
 have of their own abilities" that leads them to overestimate their chance of success.
 On the concept of loss aversion Smith (1759, p. 176-177) noted that "Pain ... is,
@@ -36,9 +36,9 @@ us so little in comparison with that which we may enjoy today." George Stigler w
 fond of saying that there was nothing new in economics, it had all been said by
 Adam Smith. It turns out that was true for behavioral economics as well.
 But Adam Smith was far from the only early economist who had good intuitions
-about human behavior. Many who followed Smith, shared his views about time dis-
-counting. For example, Pigou (1920, p. 21) famously wrote that "Our telescopic fac-
-ulty is defective and ... we therefore see future pleasures, as it were, on a diminished
+about human behavior. Many who followed Smith, shared his views about time discounting.
+For example, Pigou (1920, p. 21) famously wrote that "Our telescopic faculty
+is defective and ... we therefore see future pleasures, as it were, on a diminished
 scale." Similarly Fisher (1930, p. 82), who offered the first truly modern economic
 theory of intertemporal choice, did not think it was a good description of behavior.
 He offered many colorful stories to support this skepticism: "This is illustrated by the

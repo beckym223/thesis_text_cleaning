@@ -1,6 +1,6 @@
-Open science presents a different, more open-ended kind of engineering prob-
-lem. Do the incentives for scientific investigation and publication need to be mod-
-ified to keep up with the changing ways science is produced and disseminated? Gall, Ioannidis, and Maniadis (2017) point out that fostering a reliable scientific literature is a market design problem. Scientific journals in particular are market-places for ideas that can experiment with ways of increasing the long-term reliabil-ity of reported results, for example by allowing study designs to be pre-registered, requiring data to be made widely available, encouraging replications, and generally making it easier to identify (and reward) robustly replicable findings.
+Open science presents a different, more open-ended kind of engineering problem.
+Do the incentives for scientific investigation and publication need to be modified
+to keep up with the changing ways science is produced and disseminated? Gall, Ioannidis, and Maniadis (2017) point out that fostering a reliable scientific literature is a market design problem. Scientific journals in particular are market-places for ideas that can experiment with ways of increasing the long-term reliabil-ity of reported results, for example by allowing study designs to be pre-registered, requiring data to be made widely available, encouraging replications, and generally making it easier to identify (and reward) robustly replicable findings.
 125
 Any list of open questions is necessarily arbitrary and incomplete, but this is par -
 ticularly true of engineering challenges. Some kinds of questions can ( eventually)

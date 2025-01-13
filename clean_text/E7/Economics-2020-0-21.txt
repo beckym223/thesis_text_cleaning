@@ -1,7 +1,7 @@
 line of defense against financial instability risks should be targeted regulatory and
 macroprudential policies, and that monetary policy should be brought to bear only if
-(i) those targeted policies are insufficient and (ii) the benefits of using monetary pol-
-icy to reduce crisis risks exceed the costs of undershooting  near-term inflation and
+(i) those targeted policies are insufficient and (ii) the benefits of using monetary policy
+to reduce crisis risks exceed the costs of undershooting  near-term inflation and
 employment objectives. The main source of disagreement is the great uncertainty
 associated with trying to measure those costs and benefits. In this context it is worth
 noting that the United States seriously lags many other countries in the development
@@ -10,33 +10,33 @@ Asian countries are well ahead in their ability to address dangerous credit boom
 particularly real estate credit booms.
 A narrower but still important question is whether the new monetary tools pose
 greater stability risks than traditional policies or, for that matter, than the generally
-low rate environment expected to persist even when monetary policies are at a neu-
-tral setting. There is not much evidence that they do. For example, QE is arguably
+low rate environment expected to persist even when monetary policies are at a neutral
+setting. There is not much evidence that they do. For example, QE is arguably
 less risky than other expansionary policies, because it flattens the yield curve and
 thus reduces the incentive for maturity transformation (Woodford 2016; Greenwood,
 Hanson, and Stein 2016). As often noted, the portfolio balance effect of QE involves
 pushing some investors out of  longer-term Treasuries into other, possibly riskier
 assets; but in general equilibrium, by removing duration risk from the system, QE
 reduces the riskiness of  private-sector portfolios in aggregate, increases the supply of
-safe and liquid assets, and helps compensate for reduced private  risk-bearing capac-
-ity during periods of high uncertainty (Caballero and Kamber 2019). The spillover
-effects of the new monetary tools on foreign economies do not appear markedly dif-
-ferent from spillovers from traditional policies (Curcuru et al. 2018). And as already
+safe and liquid assets, and helps compensate for reduced private  risk-bearing capacity
+during periods of high uncertainty (Caballero and Kamber 2019). The spillover
+effects of the new monetary tools on foreign economies do not appear markedly different
+from spillovers from traditional policies (Curcuru et al. 2018). And as already
 mentioned, the new tools are most likely to be used when the economy is depressed
 and increased  risk-taking is desirable. For example,  Chodorow-Reich (2014) found
 that, in the  post-crisis period, monetary easing had beneficial effects on banks and
 life insurance companies without inducing excessive  risk-taking.
 II. Macroeconomic Effects of the New Monetary Tools
 So far, I have argued that the new monetary tools, including QE and forward
-guidance, can materially affect financial conditions, in much the same way tradi-
-tional monetary policies do when rates are away from the lower bound. The more
+guidance, can materially affect financial conditions, in much the same way traditional
+monetary policies do when rates are away from the lower bound. The more
 important question, of course, is whether using these new tools near the lower bound
-can lead to significantly better economic outcomes, similar to what traditional pol-
-icies can deliver away from the lower bound. That question occupies the remainder
+can lead to significantly better economic outcomes, similar to what traditional policies
+can deliver away from the lower bound. That question occupies the remainder
 of this lecture.
 A. The New Monetary Tools and the Great Recession
-Our only historical experience involving extensive application of the new mon-
-etary tools is the recovery from the Great Recession. As I’ve discussed, the Federal
+Our only historical experience involving extensive application of the new monetary
+tools is the recovery from the Great Recession. As I’ve discussed, the Federal
 Reserve and other major central banks, including the Bank of England, the ECB,
 and the Bank of Japan, all made use of the new tools at various times. In each of
 these jurisdictions, the recessions were nevertheless severe and the recoveries slow,

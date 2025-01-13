@@ -22,12 +22,12 @@ the country. This is captured in the last term of equation (1), which in practic
 that for all countries the preponderance of damages originate outside, while the
 preponderance of damages caused by a country's emissions falls on other countries.
 Maximizing each country's welfare in a one-shot game, assuming no cooperation
-or strategic interactions, yields (as shown in the online Appendix) the noncoopera-
-tive emissions-control rate and domestic carbon price (rf0):
+or strategic interactions, yields (as shown in the online Appendix) the noncooperative
+emissions-control rate and domestic carbon price (rf0):
 (2) = 6>,[7cr/2a]
 (3) rfc = en.
-The most intuitive result shown in (3) is that a country's noncooperative car-
-bon price is equal to the country share of output times the global social cost of
+The most intuitive result shown in (3) is that a country's noncooperative carbon
+price is equal to the country share of output times the global social cost of
 carbon. A less intuitive result in (2) is that a country's noncooperative control rate
 ( //fc) is proportional to the country share of world output, to the global SCC, to
 the emissions-output ratio, and inverse to the abatement-cost parameter. Equation

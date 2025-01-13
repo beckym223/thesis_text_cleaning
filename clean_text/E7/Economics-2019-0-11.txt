@@ -61,8 +61,8 @@ t+n   =  (  ∏
 i=1  n
 1 +  r adj,t+i   _ 1 +  g t+i    )   d t   .
 Figures
-5 and 6 show what the evolution of the debt ratio would have been, start-
-ing at different dates in the past. For convenience, the ratio is normalized to 100 at
+5 and 6 show what the evolution of the debt ratio would have been, starting
+at different dates in the past. For convenience, the ratio is normalized to 100 at
 each starting date. Figure 5 uses the non-tax adjusted rate, and Figure 6 uses the tax-adjusted interest rate.
 Figure 5 shows that, for each starting date, the debt ratio would eventually have
 decreased, even in the absence of a primary surplus. The decrease, if starting in t
