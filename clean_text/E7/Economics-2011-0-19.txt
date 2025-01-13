@@ -1,4 +1,3 @@
-Figure 14. Fisher Diagram of Two-Period Equilibrium
 resulting from employment n2. The household orders consumption pairs according
 to the utility function
 (6) U(c{) + ?U{c2).

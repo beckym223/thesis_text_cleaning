@@ -30,4 +30,3 @@ But within an SCE, v doesn't vary enough for the government to estimate a 0X clo
 zero for that to happen. Furthermore, the outcome that 6t -> 0o means that the variation of vt
 that occurs along transient paths converging to an SCE is insufficient to allow the government's
 model to approximate the data in a way that tells it to implement the optimal policy under the  true model.
-28 The same suboptimal outcome occurs, but for a different reason than the inferior timing protocol isolated by  Kydland and Prescott (1977) Here the source of suboptimahty is the government's ignorance The timing protocol is  such that if the government knew the correct model, it would attain what Stokey (1989) calls a Ramsey outcome of v = 0  29 Before adopting such a randomized policy for inflation, a monetary authority should consider the forces isolated  by Larry E Jones and Rodolfo E Manuelli (2001)

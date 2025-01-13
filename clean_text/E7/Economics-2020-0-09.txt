@@ -40,7 +40,4 @@ together with other factors such as the Obama administration’s fiscal program 
 the successful stress tests of major banks, were increasing public confidence in the
 economic outlook. Indeed, judging from the returns to  inflation-protected securities,
 much of the increases in  10-year yields during the implementation phases of QE1
-and QE2 reflected higher inflation expectations, a desired outcome of the programs.
-10 Professional forecasters also seem to believe that QE announcements have persistent effects. For example,
-using survey data, Altavilla and Giannone (2015) found that, following such announcements, forecasters saw sig-
-nificant declines in Treasury and corporate bond yields lasting at least one year.
+and QE2 reflected higher inflation expectations, a desired outcome of the pr

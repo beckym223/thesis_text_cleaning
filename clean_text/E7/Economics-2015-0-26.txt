@@ -42,4 +42,4 @@ the NC equilibrium), then damages for each region are unlimited. There will be
 multiple combinations of abatement by different regions that can stay under the cat-
 astrophic threshold. It might be stable to a single country leaving, but would not be
 stable to multiple countries entering and leaving. This example suggests that highly
-nonlinear damages open up a different set of issues for regime design.
+nonlinear damages open up a different set of issues for 

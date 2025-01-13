@@ -39,9 +39,4 @@ should reflect only portfolio balance effects. Studies have also found evidence 
 naling effects, that is, QE announcements tend to be associated with changes in the
 expected path of  short-term interest rates (Bauer and Rudebusch 2014). In the “taper
 tantrum” episode of 2013, market participants were surprised by my comments in a
-congressional testimony and a press conference that asset purchases might soon be
-9 An interesting example of a British study is McLaren, Banerjee, and Latto (2014). These authors consider
-three “natural experiments,” dates on which the Bank of England announced changes to the maturity distribution
-of its asset purchases, for reasons unrelated to monetary policy plans or objectives. They find strong local supply
-effects (higher prices for assets favored by the changes in plans) which do not fade over time. Studies finding similar
-results for the UK include Joyce and Tong (2012) and Meaning and Zhu (2011).
+congressional testimony and a press conference that asset purchases might s

@@ -23,4 +23,4 @@ labor and capital, and subject to technological shocks; being able to vary the e
 I show how the welfare effects of a transfer can be positive or negative, and how
 they depend in particular on the elasticity of substitution between capital and labor. In the case of a linear technology (equivalently, an infinite elasticity of substitution between labor and capital), the rates of return, while random, are independent of capital accumulation, so that only the first effect is at work, and the safe rate is the only relevant rate in determining the effect of the transfer on welfare. I then show how a lower elasticity of substitution implies a negative second effect, leading to an ambiguous welfare outcome.
 I then turn to debt and show that a debt rollover differs in two ways from a transfer
-scheme. First, with respect to feasibility: so long as the safe rate remains less than the
+scheme. First, with respect to feasibility: so long as the safe rate remains less than

@@ -13,12 +13,3 @@ firms making offers) makes it safe (in fact a dominant strategy) for applicants 
 53
 In the course of the Deferred Acceptance algorithm, many offers may have to be
 made. But because computers are fast, and because the algorithm doesn’t end until each hospital has had a chance to consider every application that it can get, this process isn’t congested. In particular, every participant can submit a long preference list, and be confident that they will not be forced to make a match before exploring all available alternatives.
-54
-53 See Dubins and Freedman (1981) and Roth (1982a) on incentives in the one-to-one marriage problem, and
-Roth (1985) when there is many-to-one matching as in the medical match. Roth and Peranson (1999) observed the
-small size of the set of stable matchings, and Ashlagi, Kanoria, and Leshno (2017) have given a compelling theoret-
-ical account of why we should expect the set of stable matchings to be small in these kinds of matching models. In simple models (e.g., of one-to-one matching) this in turn implies that profitably manipulating preferences will not
-be a viable option for virtually all participants, because manipulation of preferences cannot move outcomes outside of the set of stable matchings (see Demange, Gale, and Sotomayor 1987; Roth 2015c). The case of many-to-one matching may sometimes introduce opportunities for firms to misrepresent their capacity (see Sönmez 1997) even when there is a unique stable matching and wages are fixed (Azevedo 2014).
-
-54 In this connection, an illuminating example is the labor market for clinical psychologists, which tried for
-some years to organize a marketplace by telephone, with rules that aimed to implement a decentralized deferred acceptance algorithm. This encountered significant congestion problems, studied in Roth and Xing (1997). Today

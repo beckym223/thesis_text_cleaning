@@ -36,4 +36,3 @@ takes no open market operations to change the amount of reserves, raising the ra
 on reserves would have a powerful contractionary effect. Banks would have little
 incentive to expand their lending if perfectly safe reserve deposits paid interest at a
 rate comparable to loan rates.
-2Some of the important papers in this area are Leeper (1991), Woodford (1995), Cochrane (1999), and Davig  and Leeper (2007).  3This is sometimes called the "Taylor principle," that monetary policy should respond to inflation changes  strongly enough to raise real rates when inflation increases, and lower them when inflation decreases.  4Loyo (1999) discusses a period in Brazil where this analysis applies.

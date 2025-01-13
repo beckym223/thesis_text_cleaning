@@ -13,15 +13,7 @@ party: Peppe's fee has to be high enough to keep him honest, but low enough to k
 honest (Dixit 2004, chap. 4; further details in Dixit 2003a).
 A simple special case of the analysis will illustrate the point. Consider a one-shot game with
 the payoff matrix
-Player 2
-Honest
-Cheat
-Player 1
-Honest
-H,H
-Cheat
-W,L L,W
-C,C
+
 where W>H>C>0>L, and 0 is the outside option. This game is a prisoner's dilemma; it
 is worth playing even without governance, but can yield a higher payoff if governance ensures
 honesty. Suppose both parties engage a Peppe, who charges each of them a fee F each period for

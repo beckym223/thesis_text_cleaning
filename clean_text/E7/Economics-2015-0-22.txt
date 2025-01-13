@@ -38,4 +38,4 @@ answer depends upon the regime that is chosen. Figure 7 shows the net gains and
 losses for four different sets of parameters for seven major regions. All major
 regions gain from the club relative to the noncooperative outcome. In the entire set
 of 40 regimes and 15 regions, there are 69 (12 percent) cases where countries lose
-relative to the noncooperative regime.
+relative to the noncooperative

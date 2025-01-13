@@ -34,5 +34,3 @@ ment, then it is natural to focus on changes over time in the monetary authority
 of inflation-unemployment dynamics. I describe three stories associated with empirical models
 that feature either temporary or permanent discrepancies between a government's model and a
 true data-generating mechanism.25
-23 Frank Whitson Fetter (1978, 16) and Friedman (1992, 150-51) discuss how concerns about small denomination  coins shaped the gold standard  24 Appendix C discusses a monetary policy rules literature that focuses on the gap between the monetary authorities'  instruments and inflation outcomes
-25 For testimony that policy authorities in the United States are concerned about related issues, see Bernanke (2007)  and Frederic S Mishkin (2007) See Evans and Honkapohja (2003), Athanasios Orphanides and John C Williams  (2005, 2007), and James Bullard and Kaushik Mitra (2007) for applications of models of this type to evaluate the

@@ -34,8 +34,4 @@ the emissions-output ratio, and inverse to the abatement-cost parameter. Equatio
 (3) survives alternative specifications of the abatement-cost function, while (2) is
 sensitive to parameters such as the exponent in the cost function.
 Under the simplified assumptions, calculate the global average NC control rate
-and carbon price as functions of the cooperative levels ( ~ßc and 7e) ;
-(4) JiNC = Y. O iß, = £0?[7cr/2a] = (^a/2a)H(9) = JlcH(d)
-i i
-(5) řNC = = E 70? = 7 H(6) = tcH(6).
-i i
+and carbon price as functions of the cooperative levels ( ~ßc and 7

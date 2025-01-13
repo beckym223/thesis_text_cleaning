@@ -18,11 +18,4 @@ f  , which is typically less than 1. At the margin, they are indifferent
 to holding debt or capital. There is still an inframarginal effect, a consumer surplus
 (taking the form of a less risky portfolio, and thus less risky second period con-sumption), but the positive effect on welfare is smaller than in the straight transfer scheme. The second effect, due to the change in wages and rate of return on capital, is still present, so the net effect on welfare, while less persistent as debt decreases over time, is more likely to be negative.
 These effects are shown in Figures 13 and 14, which show the average welfare
-effects of successful and unsuccessful debt rollovers, for the linear and Cobb-Douglas cases.Figure 12. Cobb-Douglas Production Function: Debt Evolutions under a Debt Rollover
-D 0    = 15% of Sa ving
-051015202530
-25 50
-Time (year)Debt share of savings
-(percent)
-75 100Debt share of savings, linear OLG with uncertainty
-ER = 2% ERf = 1% initdebt = 15%
+effects of successful and unsuccessful debt rollovers, for the linear and Cobb-Douglas case

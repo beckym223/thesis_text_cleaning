@@ -40,4 +40,3 @@ achieving its policy objectives. Even a central bank with positive net worth may
 inhibited in taking some policy actions by fear of the consequences of negative net
 worth. Lender of last resort operations, for example, even when they have positive
 expected return, generally pose some risk of losses. A central bank with uncertain
-5 Sims (2005) showed that this insight generalizes to Taylor rules, where negative net worth puts an upper bound  on the coefficient on inflation in the monetary policy rule.

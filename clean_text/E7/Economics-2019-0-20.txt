@@ -50,15 +50,3 @@ is as follows. As the size of the transfer increases, second period income becom
 E
 R
 f   for given average  ER  . In
-25 Extending the model to allow uncertainty to differ for capital and labor is difficult to do (except for the case
-where production is linear and one can easily capture capital or labor augmenting technology shocks). Figure 7. Welfare Effects of a Transfer of 5 Percent of Saving ( Linear Production Function)
-0%0% 1%1%1 .5%2%0.5% 0.5%−0.5%−1 .5% −1%−2%2.5%3%3.5%4%
-−0.5%0%0.5%1%1 .5%2%2.5%3%
-−1%
-−1 .5%ER ER0.8
-0.6
-0.4
-0.2
-0
-−0.2Mean utility, linear production with aggregate risk
-/NULL = 1.0786, σ = 0.2, D = 5% of EK

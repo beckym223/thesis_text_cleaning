@@ -34,5 +34,3 @@ This literature has sought plausible and robust algorithms that converge to a Na
 Sergiu Hart and Andreu Mas-Colell say that this is a tall order:
 It is notoriously difficult to formulate sensible adaptive dynamics that guarantee conver?
 gence to Nash equilibrium. In fact, short of variants of exhaustive search (deterministic  or stochastic), there are no general results.
-? Hart and Mas-Colell (2003)
-42 There is an infinite number of ways to be wrong, but only one way to be correct  43 This is the starting point of calibration in macroeconomics, i e , the refusal to use maximum likelihood because  the model builder views it as an approximation  44 For a critical survey of this literature, see H Peyton Young (2004)

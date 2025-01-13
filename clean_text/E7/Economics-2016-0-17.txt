@@ -36,5 +36,4 @@ model similar to agency models of organizations. Schelling (1984) and Fudenberg
 and Levine (2006) also proposed two-self models to characterize this behavior.
 Although these two-self models provide more psychological texture, they have
 not been as popular among economic theorists as the simpler and more tractable
-"beta-delta" model originally proposed by Strotz ( 1955) and then refined by Laibson
-9 It is true that von Neumann and Morgenstern do not specify what the arguments are in their utility function,  and some have argued that one could simply revise expected utility to be a function of income rather than wealth  to incorporate this feature. What this misses is that defining "income" depends on a theory of mental accounting  in order to know over what time horizon income is being measured. If "income" is lifetime income then it is the  same as wealth. But if it is daily income then one gets very different predictions. See, for example, the controversial  literature on taxi cab driver labor supply (Camerer et al. 1997; Crawford and Meng 201 1; Farber 2015).
+"beta-delta" model originally proposed by Strotz ( 1955) and then refined by Laibs

@@ -38,6 +38,3 @@ f   starts far below 1.26
 This is shown in Figure 11, which plots 1,000 stochastic paths of debt evolutions,
 under the assumption that the production function is linear, and Figure 12, under the
 assumption that the production function is Cobb-Douglas. In both cases, the initial
-26 In my paper with Philippe Weil (Blanchard and Weil 2001), we characterized debt dynamics, based on an
-epsilon increase in debt, under different assumptions about technology and preferences. We showed in particular
-that, under the assumptions in the text, debt would follow a random walk with negative drift. We did not however look at welfare implications.

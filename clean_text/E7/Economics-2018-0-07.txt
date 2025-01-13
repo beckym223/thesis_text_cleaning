@@ -10,22 +10,4 @@ out the courtship between candidates and employers that ultimately leads to matc
 20 Job
 market papers, for example, convey information about talents, accomplishments, and skills that signal why candidates should be interesting to employers (Spence 1973).
 21 But congestion—e.g., the fact that many employers’ interview slots are in
-short supply and must be carefully allocated—also makes it useful for candidates to signal that they are interested in particular jobs (Coles et al. 2010; Coles, Kushnir, and Niederle 2013). Because technology has made it easy to send many applica-tions, simply sending an application is no longer a strong signal of interest.
-22
-17 I was the chair of the AEA’s ad hoc committee on the job market which proposed the signaling system (and
-the scramble), and the whole committee published a report on the market in Coles et al. (2010).
-
-18 Lee and Niederle (2015) conducted an experiment with signaling, on a dating site that as part of its internal
-operation rated participants on their desirability (this rating was not visible to the participants). Participants in
-their experiment could send a message to any other participant, but most of them had (only) two signals—“virtual roses”—that they could attach to messages. Participants who accepted a message could then correspond with the sender. Lee and Niederle observed that messages with roses attached were more likely to be accepted. The effect of a rose was largest when the sender was ranked as more desirable than the receiver.
-
-19 3,711 signals were transmitted by the AEA in December 2017, compared to 2,144 in 2010, and 971 in 2006,
-the first year of operation. In December 2017, 1,916 job candidates sent a total of 3,712 signals of special interest to 706 employers who had listed job openings in JOE (120 sent just one signal). Not just new economics PhD grad-uates of American universities submit signals. For example, the NSF’s Survey of Earned Doctorates reports that in 2016, 1,238 individuals received PhDs in economics from US universities (see https://www.nsf.gov/statistics/2018/nsf18304/datatables/tab63.htm). If every one of them had submitted the two signals allowed to them by the AEA signaling mechanism, the resulting signals would have fallen far short of the 3,464 signals that were actually sub-mitted in December 2015 (for interviews at the January 2016 meetings). This suggests that the signaling service, and the market for interviews, reflects a broader market than just new US PhDs, i.e., it also includes new graduates of foreign universities, and people who received PhDs in prior years. (Finegan 2014 reports that approximately 1,000 new economics PhDs per year graduated in the decade 1997–2006, somewhat more if relevant PhDs from business schools are included.)
-20 Letters of reference play an important role in signaling (advisors’ assessments of) applicants’ quality. Some
-letter writers hope to send finely modulated signals with (nevertheless ambiguous) phrases such as recommending applicants to “all schools, including the top,” “all schools, including the very top,” “all schools interested in field XYZ,” “all schools outside the top 5,” etc.
-
-21 Zahavi (1975) initiated the exploration in the biology literature of costly signals of fitness, like a peacock’s
-tail, where the impact of such signaling is sometimes referred to as the handicap principle.
-
-22 Interviews at the meetings also involve prosaic operational sources of congestion. Scheduling all the inter -
-views can be difficult, and is done in a decentralized way between departments and candidates. Last minute com-munication is needed to notify candidates about where each interview will be held, as recruiting committees check into their hotels and learn which rooms they will occupy. For safety reasons, hotels decline to reveal where guests are staying, and departments don’t like to broadcast their room numbers, and so, in 2000, the AEA introduced a system of codes, in which departments reveal a code to interviewees who can then match that with a room number,
+short supply and must be carefully allocated—also makes it useful for candidates to signal that they are interested in particular jobs (Coles et al. 2010; Coles, Kushnir, and Niederle 2013). Because technology has made it easy to send many applica-tions, simply sending an application is no longer a strong signal of interest

@@ -11,7 +11,7 @@ requires going to simulations.23 Within the structure of the model above, I make
 following specific assumptions (derivations and details of simulations are given in online Appendix C).
 I think of each of the two periods of life as equal to 25 years. Given the role of
 risk aversion in determining the gap between the average safe and risky rates, I want to separate the elasticity of substitution across the two periods of life and the degree of risk aversion. Thus, I assume that utility has an Epstein-Zin-Weil representation of the form (Epstein and Zin 2013, Weil 1990):
-(1 − β) ln  C 1,t   + β   1 _ 1 − γ   ln E ( C  2,t+1  1−γ  )  .
+
 The log-log specification implies that the intertemporal elasticity of substitution
 is equal to 1. The coefficient of relative risk aversion is given by
 γ
@@ -32,8 +32,3 @@ t    is white noise and is distributed log normally, with  ln   A  t   ∼   
 =
 (η − 1) /η , where  η   is the elasticity of substitution. When  η  =  ∞, ρ  =  1   and
 the production function is linear.
-economy, a necessary and sufficient condition for dynamic inefficiency is that  E   ln  R  >  0  . What the argument in the
-text has shown is that an intergenerational transfer can be welfare improving even if the Zilcha condition holds. As
-we saw, expected utility can increase even if the average risky rate is large, so long as the safe rate is low enough. The reallocation is such that consumption indeed decreases in some states, yet expected utility is increased.
-23 One can make some progress analytically, and, in Blanchard and Weil (2001), we did characterize the behav-
-ior of debt at the margin (that is, taking the no-debt prices as given), for a number of different utility and production functions and different incomplete market structures. We only focused on debt dynamics however, and not on the normative implications.

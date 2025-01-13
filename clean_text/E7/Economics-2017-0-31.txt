@@ -1,5 +1,3 @@
-Figure 7. Frequency of Appearance of Phrase "Great Depression" by Year
-Notes: For news and newspapers (1900-2016, from ProQuest) it is the number of articles with  this phrase as a percent of all articles that year. For books (1900-2008, from Google Ngrams) it  is the number of occurrences of the phrase (capitalized) divided by the total number of words in  the database for that year, in percent.
 Consider a narrative-based chronology of the 2007-2009 financial crisis.
 Financial crises are driven by a cadence of stories. For example, stories about bank
 runs were in the nineteenth century virtually synonymous with financial crises. But
@@ -24,4 +22,4 @@ later that year.
 Leading up to the Great Recession 2007-2009, and setting the stage for it, were
 widespread fears of long-term job insecurity because of advancing technology.
 Facebook and Gmail appeared in 2004, YouTube in 2005, Twitter in 2006, and the
-iPhone in 2007. These were the prominent business stories of the time, and they may
+iPhone in 2007. These were the prominent business stories of the time, and they m

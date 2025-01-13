@@ -19,7 +19,4 @@ ernment debt levels are much too high and must urgently be decreased, I consider
 The lecture is organized as follows.Section I looks at the past behavior of US interest rates and growth rates. It con-
 cludes that the current situation is actually not unusual. While interest rates on pub-lic debt vary a lot, they have on average, and in most decades, been lower than growth rates. If the future is like the past, the probability that the US government can do a debt rollover, that it can issue debt and achieve a decreasing debt to GDP ratio without ever having to raise taxes later, is high.
 That debt rollovers may be feasible does not imply however that they are desir -
-able. Even if higher debt does not give rise later to a higher tax burden, it still has effects on capital accumulation, and thus on welfare. Whether and when higher debt increases or decreases welfare is taken up in Sections II and III.
-1 Different Euro countries have different government bond rates. The 10-year Euro nominal rate is a composite
-rate (with changing composition) constructed by the European Central Bank (ECB): http://sdw.ecb.europa.eu/
-quickview.do?SERIES_KEY=143.FM.M.U2.EUR.4F.BB.U2_10Y.YLD.
+able. Even if higher debt does not give rise later to a higher tax burden, it still has effects on capital accumulation, and thus on welfare. Whether and when higher debt increases or decreases welfare is taken up in Sections II and 

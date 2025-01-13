@@ -38,4 +38,4 @@ sub-game-perfect coalition Nash equilibrium, and the repeated game will have an
 efficient coalition-Nash equilibrium.
 B. Transfers Undermine Coalition Stability
 The present study assumes that there is no sharing of the gains from cooperation
-among members of the coalition. In some cases, particularly those with asymmetric
+among members of the coalition. In some cases, particularly those with asymme

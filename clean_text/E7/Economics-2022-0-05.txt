@@ -35,9 +35,4 @@ ciated until the seminal paper by BM (which circulated for many years prior to i
 publication). Card and Krueger (1995) noted that in any steady state, the elasticity
 of labor supply is just the sum of the absolute values of the elasticities of recruit-
 ing and quitting. Manning (2003) showed that in a simple job ladder model the
-two are equal: thus, an analyst can estimate one or the other and double it to yield
-9 If  match-specific productivity requires upfront investment, the solution is to have workers pay for the invest-
-ment and then follow the Jovanovich rule. This is solution proposed by Crawford (1988). Discussions of such
-“bonding” contracts were widespread when I joined the Chicago faculty in 1982.
-10 Subsequent studies by Miller (1984) and McCall (1990) used the  multi-arm bandit setup of Gittins and Jones
-(1974) to incorporate learning over an  occupation-specific match component as well as a  job-specific component.
+two are equal: thus, an analyst can estimate one or the other and doubl

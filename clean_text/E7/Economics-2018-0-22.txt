@@ -11,17 +11,3 @@ instead of using preference orderings of students compiled by school principals,
 68 These priorities, and even the
 menu of schools to which students living in different parts of the city may apply, are subject to changes from time to time. This reflects the fact that which children attend which schools is an intense focus of city politics, and so the priorities that different groups of children have for different schools is part of the school choice process that is perhaps inevitably subject to change over time. I think effective school choice design should seek to put in place a mechanism that allows city politics to do its work of adjusting how school places are distributed among different constituencies, but allows the information provided each year by parents to be effectively elicited and used to place children in schools that will be good for them, with as efficient allocation of school places as possible.
 69
-65 This reflects an important issue in practical market design, which distinguishes it from the theoretical litera-
-ture on mechanism design that is often satisfied with an equilibrium analysis of mechanisms, without considering
-what might be required to reach equilibrium, or how to advise participants to choose their strategies. Strategy-proof mechanisms somewhat ease both these concerns (and make it easy to know what to advise participants, although not always how to deliver this advice effectively).
-66 The work on these latter cities has been organized through the nonprofit Institute for Innovation in Public
-School Choice (IIPSC, http://iipsc.org/), founded by Neil Dorosin, who was the New York City Department of Education’s Director of High School Operations when we helped organize high school choice there. Atila Abdulkadiro˘ glu, Parag Pathak, and I are IIPSC’s Scientific Advisory Board.
-
-67 For example, charter school applications are decentralized in Boston, but centralized and integrated with the
-district schools in Denver. There is some suggestive evidence that a unified enrollment system makes it easier for a broader segment of the population to apply to charter schools: charter applicants in Boston have higher average baseline tests score in comparison to the general population (Abdulkadiro˘ glu et al. 2011, Table II and pp. 717–18) while there is no such difference in Denver (Abdulkadiro˘ glu et al. 2017, p. 1381).
-
-68 In some places (and for some schools) students’ priority is determined by their score on an exam. The college
-admissions system in China is such a system, in which the allocation algorithms have undergone changes in recent years: see Chen and Kesten (2017).
-
-69 For example, while Boston Public Schools continue to use the deferred acceptance algorithm as originally
-designed, concerns arose both about the cost of transportation, and about the scattering of students from some neighborhoods among undesirably many schools. In response, they have restricted the sets of schools to which particular students can apply, and altered the priorities that each student has for each school (Shi 2015). See also Ashlagi and Shi (2016) and Pathak and Shi (2017).

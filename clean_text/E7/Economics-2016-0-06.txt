@@ -44,4 +44,4 @@ to be a descriptive alternative to von Neumann and Morgenstern's (1947) expected
 utility theory, which is rightly considered by most economists to characterize how
 a rational agent should make risky choices. Kahneman and Tversky's research doc-
 umented numerous choices that violate any sensible definition of rational. This pair
-of problems posed to different groups of subjects offers a good illustration.
+of problems posed to different groups of subjects offers a good illustra

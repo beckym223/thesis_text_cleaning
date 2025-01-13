@@ -42,4 +42,4 @@ Huckfeldt 2022). This might be a way to incorporate the cyclical upgrading proce
 discussed by Reder (1955) and Okun (1973).
 A related modeling issue is how to incorporate strategic interactions in wage set-
 ting. We know that firms spend a lot of resources monitoring wages of other employ-
-ers through specialized  sector-specific surveys. We also know that even at the low
+ers through specialized  sector-specific surveys. We also know th

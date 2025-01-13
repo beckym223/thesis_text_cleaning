@@ -39,6 +39,4 @@ at firms with 10 percent higher productivity. In the parameterization of prefere
 adopted by Card et al., this degree of  pass-through is consistent with  firm-specific
 supply elasticities of about four.
 Lamadon, Mogstad, and Setlzer (2022) present a more extensive analysis
-of the  pass-through of  firm-specific and  market-wide value added per worker to
-11 They also find that higher wages leads to an increase in the quality of successfully recruited applicants, as
-measured by scores on IQ and personality tests.
+of the  pass-through of  firm-specific and  market-wide value added p

@@ -1,4 +1,3 @@
-1344 THE AMERICAN ECONOMIC REVIEW APRIL 20 i 5
 without external penalties, that is, ones that have self-contained payoffs and cannot
 be enforced by third parties or be linked to other arrangements.
 Begin with some definitions. The formal difference between "external" and "inter-
@@ -43,4 +42,4 @@ small, unstable, or of vanishingly small importance as the number of firms grows
 Studies in environmental economics and climate change find virtually univer-
 sally that coalitions tend to be either small or shallow, a result I will call the "small
 coalition paradox." The paradigm for understanding the small coalition paradox is
-well discussed in Barrett's (2003) book on international environmental agreements.
+well discussed in Barrett's (2003) book on international environ

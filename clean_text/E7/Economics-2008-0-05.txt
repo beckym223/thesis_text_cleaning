@@ -30,6 +30,3 @@ vate agents' actions at all dates between 0 and t. A government must ignore thos
 expectations effects if it is forced to choose sequentially.
 d) Reputation can substitute for commitment. Under rational expectations, a government
 strategy plays two roles, first, as a decision rule, and, second, as a system of private sector
-2 See for example Mikhail Golosov, Narayana Kocherlakota, and Aleh Tsyvinski (2003), Kocherlakota (2005), and  Golosov, Tsyvinski, and Ivan Werning (2007)
-3 While technical treatments of the time inconsistency problem rely heavily on the rational expectations equilib?  rium concept, all that is needed to spot the problem is that private agents care about future government actions In a  discussion on August 16, 1787, at the US Constitutional Convention about whether the federal government should be
-prohibited from issuing fiduciary currency, Gouverneur Morris, Oliver Ellsworth, and James Madison recognized a  time inconsistency problem, while Edmund Randolph and George Mason raised doubts about tying the hands of the  government by arguing that no one can foresee all contingencies See Madison (1987, 470-71)

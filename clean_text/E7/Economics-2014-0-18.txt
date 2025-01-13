@@ -1,19 +1,3 @@
-Table 2 - 0*Net Characteristics: Means (Normalized) by Occupational Group
-Technology
-0*Net characteristics and science Business Health Law
-1. Time pressure -0.488 0.255 0.107 1.51
-2. Contact with others -0.844 0.171 0.671 0.483
-3. Establishing and maintaining -0.611 0.548 0.276 0.781  interpersonal relationships
-4. Structured vs. unstructured work -0.517 0.313 0.394 1.22
-5. Freedom to make decisions -0.463 -0.00533 0.974 0.764
-Number of occupations 31 28 16 1
-Notes: The occupations are those in Figure 2, part A. When there is more than one 0*Net occu-  pation for an ACS occupation, the characteristic is weighted by the number of workers in each  of the 0*Net occupations. Each of the 0*Net characteristics has been normalized to have a  mean of 0 and a standard deviation of 1. The work setting characteristics and questions most
-relevant to the issues raised here are:
-1. Time pressure: How often does this job require the worker to meet strict deadlines?  Lower pressure means worker does not have to be around at particular times.  2. Contact with others: How much does this job require the worker to be in contact with  others ( face-to-face , by telephone , or otherwise) in order to perform it?  Less contact means greater flexibility.  3. Establishing and maintaining interpersonal relationships: Developing constructive and  cooperative working relationships with others , and maintaining them over time.  The more working relationships, the more workers and clients the employee must be  around.
-4. Structured versus unstructured work: To what extent is this job structured for the worker,  rather than allowing the worker to determine tasks, priorities, and goals? If the job is  highly structured to the worker, there would be a lower chance that the worker would
-have close substitutes.
-5. Freedom to make decisions: How much decision making freedom, without supervision,  does the job offer.  Generally means that the worker determines what each client should receive, rather than  being given a specific project, and thus workers are poorer substitutes for each other the  greater are these freedoms.
-Source: 0*Net Online, http://www.onetonline.org/
 relevant to features of the model and are listed in the notes to Table 2.32 These
 characteristics reflect time pressure, the need for workers to be around at particular
 times, the flexibility of the occupation with regard to scheduling, the groups and
@@ -26,5 +10,4 @@ tions in business, health, and law, the largest and also the highest paying of t
 "other" occupations.
 Because there are about twice as many 0*Net occupations than Census occupa-
 tions, the first task was to match occupations across the two sources. In most cases
-the difference was simply that 0*Net occupations are cross-referenced by industry.
-32 A multitude of characteristics regarding abilities, knowledge, skills, and work values exist, although none  seemed to relate to the concepts of the model. A few potentially relevant job features had ambiguities. For example,  "work with work group or team" could refer to teams of substitutes (independent workers) or teams of comple-  ments (interdependent workers). Similarly, "face-to-face discussions" had a team component that was ambiguous.
+the difference was simply that 0*Net occupations are cross-referenced by indus

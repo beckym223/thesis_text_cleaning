@@ -32,5 +32,3 @@ preferences, technologies, and information sets, while the parameters 0 of the a
 /(xr|0) are data fitting devices. The idea of Gallant and Tauchen (1996) is, first, to estimate the
 auxiliary model by maximum likelihood, then to use the score functions for the auxiliary model
 and the first-order conditions (9) to construct a GMM estimator that can be used in conjunction
-13 For early applications of this empirical approach, see Sargent (1977), Sargent (1979), Hansen and Sargent (1980),  John B Taylor (1980), and Ates C Dagh and Taylor (1984)
-14 As the econometrician searches over probability measures indexed by 0, he imputes to the agents the system of  expectations implied by the 6 under consideration

@@ -37,6 +37,3 @@ conundrum of Hart and Mas-Colell partly by weakening the notion of convergence.
 B. From Commodity to Fiat Money
 A long process led to the ideas in the opening quote from David Ricardo, which in time led
 Keynes and others to propose a fiat currency.
-45 Experimental economics has supplied datasets designed to check ideas from the literature on adaptive learning in  games Laboratory experiments using macroeconomics are rarer than those using microeconomics See Duffy (2006)  for an account of the existing experiments I suspect that the main reason for fewer experiments in macro than in micro
-is that the choices confronting artificial agents within even one of the simpler recursive competitive equilibria used in  macroeconomics are very complicated relative to the settings with which experimentalists usually confront subjects
-46 For a distinct but related approach, see Philippe Jehiel (1995, 1998) The Foster and Young (2003) model seems to  me to capture some of the flavor of the anticipated utility framework advocated by Kreps (1998) The classifier models  in Ramon Manmon, Ellen McGrattan, and Sargent (1990) have a similar flavor

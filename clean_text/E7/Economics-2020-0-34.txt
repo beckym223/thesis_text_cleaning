@@ -42,4 +42,4 @@ policy tools seems clearly preferable to raising the inflation target, a measure
 increase policy space by a comparable amount but that carries with it the additional
 costs of the transition to the higher target and of the higher  long-run inflation rate.
 However, if the nominal neutral interest rate is much lower than 2 percent, then
-the model simulations imply that the new monetary tools—while still providing
+the model simulations imply that the new monetary tools—while s

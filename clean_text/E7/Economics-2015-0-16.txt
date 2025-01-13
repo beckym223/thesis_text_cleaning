@@ -42,4 +42,4 @@ tries. Treaties are assumed to be stable in the sense of being coalition Nash eq
 ria, which means that they are stable as compared to all alternative sub-coalitions.
 B. Gains and Losses from Participation
 The noncooperative (NC) equilibrium is the starting point in international rela-
-tions. Consider the decision of a single country whether to participate in a Climate
+tions. Consider the decision of a single country whether to participat

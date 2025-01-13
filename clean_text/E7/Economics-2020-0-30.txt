@@ -39,8 +39,4 @@ deteriorates somewhat but remains close to that of the baseline rule with a 5 pe
 inflation target.
 Fourth, importantly, for both   r   ∗   = 1 (Table 3) and   r   ∗   = 0 (Table 4), correspond-
 ing to nominal neutral rates of 3 percent and 2 percent respectively, combinations of
-QE and forward guidance can almost fully compensate for the effects of the lower
-22 An important transition cost would be the uncertainty and volatility associated with having to  unanchor infla-
-tion expectations and  reanchor them at a higher level, which could take a long time and damage the Fed’s credibility.
-Running the economy hot to reach the higher inflation target could have both benefits (including the benefits of a
-“hot” labor market) and costs (such as financial stability risks).
+QE and forward guidance can almost fully compensate for the effects of

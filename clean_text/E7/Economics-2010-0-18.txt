@@ -1,4 +1,3 @@
-Figure 4. Prices of Consumption Relative to GDP per capita, 18 Ring Countries
 poor African countries where, if they can be found at all, are only available in a few specialty
 stores in the main city. The specifications in the list make this seem plausible. For example,
 among the items successfully priced in Cameroon were (a) frozen shrimp (Fish basic head
@@ -18,9 +17,3 @@ ine the bilateral price indexes that go into the multilateral indexes. In this c
 index, which can be decomposed into the contributions from each good, is more useful than the
 Fisher index, which it closely approximates. If we denote by s^ the budget share of good n in
 country c, the log of the bilateral T?rnqvist index for country c with country 1 as base is
-(6) InPf = 0.5 XX1 + O In 4
-n=l Pn
-so that we have
-(7) 0 = 0.5 E (*?' + <,) fin 4 - toPf) = E 7,;'
-7,[ is a measure of how much good n moves the overall index above or below the mean. Table 5
-shows the largest positive and negative values for the four outlying African countries in Figure 4.
