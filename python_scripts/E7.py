@@ -67,6 +67,18 @@ def handle_quest_line_breaks(dest_dir:str, commit_changes:bool):
     if commit_changes:
         git_commit(dest_dir,"joined words split by ? across lines")
 
+def fix_dash_errors_with_spaces_in_dir(dest_dir:str,commit_changes:bool):
+    def fix_dash_errors(text:str)->str:
+        new_text = re.sub(r"([a-zA-Z]+)\s*-\s*\n([a-zA-Z]+)([^\w\n\s])?", # Captures 3 groups: first half of word, second half of word, optional punctuation
+                        r"\1\2\3\n", #removes dash and moves line break
+                        text)
+        new_text_lines_stripped=[line.strip() for line in new_text.split('\n')] #remove any extra leading or trailing whitespace
+        return "\n".join(new_text_lines_stripped).strip() #join lines back together
+    apply_func_to_txt_dir(dest_dir,dest_dir,fix_dash_errors)
+    if commit_changes:
+        git_commit(dest_dir,"Did special dash error fixing")
+
+
 
 def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
@@ -78,7 +90,7 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     apply_splits_to_pages(dest_dir,E7_SPLIT_RANGES,commit_changes)
 
-    fix_dash_errors_in_dir(dest_dir,commit_changes)
+    fix_dash_errors_with_spaces_in_dir(dest_dir,commit_changes)
 
     handle_quest_line_breaks(dest_dir,commit_changes)
 
