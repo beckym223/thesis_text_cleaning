@@ -1,45 +1,47 @@
-of the nominal neutral rate from 2 percent or so primarily reflect shortfalls of inflation
-expectations. In other words, the current constraints on monetary policy in several
-regions, notably the euro area and Japan, arguably arise in substantial part from
-the fact that, for various reasons, inflation expectations in those regions have fallen
-too low. The challenge for those central banks, perhaps in collaboration with the
-fiscal authorities, is to move inflation expectations closer to target. If that can be
-achieved, then monetary policy, augmented by the new policy tools, could regain
+977
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+of the nominal neutral rate from 2 percent or so primarily reflect shortfalls of infla-
+tion expectations. In other words, the current constraints on monetary policy in sev-
+eral regions, notably the euro area and Japan, arguably arise in substantial part from 
+the fact that, for various reasons, inflation expectations in those regions have fallen 
+too low. The challenge for those central banks, perhaps in collaboration with the 
+fiscal authorities, is to move inflation expectations closer to target. If that can be 
+achieved, then monetary policy, augmented by the new policy tools, could regain 
 much of its potency.
 III. Conclusions
-This lecture has reviewed the experience with, and the future potential of, the
-new monetary tools, especially quantitative easing and forward guidance. Although
-there are dissenting views, most research finds that QE has significant and persistent
-effects on financial conditions, even when financial markets are not dysfunctional.
-Forward guidance can help inform financial markets about policymakers’ likely
-responses to economic developments and allow them to commit to future policy
+This lecture has reviewed the experience with, and the future potential of, the 
+new monetary tools, especially quantitative easing and forward guidance. Although 
+there are dissenting views, most research finds that QE has significant and persistent 
+effects on financial conditions, even when financial markets are not dysfunctional. 
+Forward guidance can help inform financial markets about policymakers’ likely 
+responses to economic developments and allow them to commit to future policy 
 actions, including  lower-for-longer rate policies, that create greater stimulus today.
-Major central banks actively used both QE and forward guidance following the
-financial crisis. Although these tools helped cushion the economic effects of the crisis,
-their application was hindered at times, with the benefit of hindsight, by excessive
-concern about the costs and risks of the new tools and by policymakers’ need
-to learn how better to structure and to implement these policies, and how to communicate
-about them. Better execution of the new policy tools, together with increased
-public understanding and acceptance, should make these tools more effective in
-the future. For example, policy frameworks that lay out in advance the nature of
-the forward guidance policymakers expect to use at the lower bound will make that
-guidance clearer, more credible, and more effective when it is needed. New tools
-other than QE and forward guidance, such as  funding-for-lending programs, negative
-policy rates, and yield curve control, could in some circumstances be useful
-as well. In particular, the Federal Reserve should maintain constructive ambiguity
-about negative policy rates and consider yield curve control at shorter horizons as
-a means of reinforcing forward guidance. However, although the new tools can be
-used with the knowledge that their costs and risks have generally proved moderate,
+Major central banks actively used both QE and forward guidance following the 
+financial crisis. Although these tools helped cushion the economic effects of the cri-
+sis, their application was hindered at times, with the benefit of hindsight, by exces-
+sive concern about the costs and risks of the new tools and by policymakers’ need 
+to learn how better to structure and to implement these policies, and how to commu-
+nicate about them. Better execution of the new policy tools, together with increased 
+public understanding and acceptance, should make these tools more effective in 
+the future. For example, policy frameworks that lay out in advance the nature of 
+the forward guidance policymakers expect to use at the lower bound will make that 
+guidance clearer, more credible, and more effective when it is needed. New tools 
+other than QE and forward guidance, such as  funding-for-lending programs, neg-
+ative policy rates, and yield curve control, could in some circumstances be useful 
+as well. In particular, the Federal Reserve should maintain constructive ambiguity 
+about negative policy rates and consider yield curve control at shorter horizons as 
+a means of reinforcing forward guidance. However, although the new tools can be 
+used with the knowledge that their costs and risks have generally proved moderate, 
 vigilance against risks to financial stability remains essential.
-How much policy space can the new monetary tools provide? The answer depends
-on the level of the nominal neutral interest rate, the interest rate consistent with full
-employment and inflation at target in the long run. If that rate is in the range of 2 to
-3 percent or higher, consistent with most estimates for the United States, then simulations
-of the Fed’s FRB/ US model suggest that a combination of QE and forward
-guidance can largely compensate for the effects of the lower bound, providing about
-3 percentage points of additional policy space. In these circumstances, the use of new
-policy tools seems clearly preferable to raising the inflation target, a measure that may
-increase policy space by a comparable amount but that carries with it the additional
+How much policy space can the new monetary tools provide? The answer depends 
+on the level of the nominal neutral interest rate, the interest rate consistent with full 
+employment and inflation at target in the long run. If that rate is in the range of 2 to 
+3 percent or higher, consistent with most estimates for the United States, then simu-
+lations of the Fed’s FRB/ US model suggest that a combination of QE and forward 
+guidance can largely compensate for the effects of the lower bound, providing about 
+3 percentage points of additional policy space. In these circumstances, the use of new 
+policy tools seems clearly preferable to raising the inflation target, a measure that may 
+increase policy space by a comparable amount but that carries with it the additional 
 costs of the transition to the higher target and of the higher  long-run inflation rate.
-However, if the nominal neutral interest rate is much lower than 2 percent, then
-the model simulations imply that the new monetary tools—while s
+However, if the nominal neutral interest rate is much lower than 2 percent, then 
+the model simulations imply that the new monetary tools—while still providing 

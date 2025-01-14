@@ -1,35 +1,48 @@
-mid-2015.” In December 2012, the FOMC switched from guidance specifying a
-date for policy action (calendar guidance) to a description of the conditions that
-would have to be met for rates to be raised ( state-contingent guidance). Specifically,
-policymakers promised not even to consider raising the policy rate until unemployment
-had fallen at least to 6.5 percent, as long as inflation and inflation expectations
-remained moderate. A year later, this statement was strengthened further, with the
-FOMC indicating that no rate increase would occur until “well past the time” that
-unemployment declined below 6.5 percent. In principle,  state-contingent guidance,
-which ties future policy rates to economic conditions, is preferable to calendar guidance
-because it permits the market’s rate expectations to adjust endogenously to
-incoming information bearing on the outlook (Feroli et al. 2017). However, calendar
-guidance has the  not-inconsiderable advantages of simplicity and directness, and it
+956
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+ mid-2015.” In December 2012, the FOMC switched from guidance specifying a 
+date for policy action (calendar guidance) to a description of the conditions that 
+would have to be met for rates to be raised ( state-contingent guidance). Specifically, 
+policymakers promised not even to consider raising the policy rate until unemploy-
+ment had fallen at least to 6.5 percent, as long as inflation and inflation expectations 
+remained moderate. A year later, this statement was strengthened further, with the 
+FOMC indicating that no rate increase would occur until “well past the time” that 
+unemployment declined below 6.5 percent. In principle,  state-contingent guidance, 
+which ties future policy rates to economic conditions, is preferable to calendar guid-
+ance because it permits the market’s rate expectations to adjust endogenously to 
+incoming information bearing on the outlook (Feroli et al. 2017). However, calendar 
+guidance has the  not-inconsiderable advantages of simplicity and directness, and it 
 can be adjusted if needed (Williams 2016).
-The increasingly explicit guidance by the FOMC ultimately had the desired effect
-of shifting market rate expectations in a dovish direction:  two-year Treasury yields
-declined to about 0.25 percent in the second half of 2011, where they remained for
-several years. Table 2, using the event study methodology described earlier, shows
-the sum of  one-day responses of several key asset prices to the first two calendar
-guidance announcements, in August 2011 and January 2012. The table shows that
-the Fed’s announcements appear to have moved interest rates down significantly,
-increasing stimulus. The two announcements were also associated with a decline in
+The increasingly explicit guidance by the FOMC ultimately had the desired effect 
+of shifting market rate expectations in a dovish direction:  two-year Treasury yields 
+declined to about 0.25 percent in the second half of 2011, where they remained for 
+several years. Table 2, using the event study methodology described earlier, shows 
+the sum of  one-day responses of several key asset prices to the first two calendar 
+guidance announcements, in August 2011 and January 2012. The table shows that 
+the Fed’s announcements appear to have moved interest rates down significantly, 
+increasing stimulus. The two announcements were also associated with a decline in 
 the dollar (not shown) and a rise in equity prices.
-Other evidence suggests that these announcements worked as intended: Femia,
-Friedman, and Sack (2015) showed that, during this period, professional forecasters
-reacted to FOMC guidance by repeatedly marking down the unemployment rate
-they expected to prevail when the Committee lifted the funds rate from zero, implying
-a perceived change in the Fed’s reaction function in the  lower-for-longer direction.
-Using information drawn from interest rate options, Raskin (2013) came to a
-similar conclusion. Carvalho, Hsu, and Nechio (2016), counting particular words in
-magazine and newspaper articles to measure policy expectations, found that unanticipated
-communications by the Fed influenced  longer-term interest rates, while
-Del Negro, Giannoni, and Patterson (2012) concluded that forward guidance positively
-affected inflation and growth expectations.
-I have been discussing QE and forward guidance separately, but in practice the
-two tools are closely intertwined. As noted earlier, QE works in part by
+Other evidence suggests that these announcements worked as intended: Femia, 
+Friedman, and Sack (2015) showed that, during this period, professional forecasters 
+reacted to FOMC guidance by repeatedly marking down the unemployment rate 
+they expected to prevail when the Committee lifted the funds rate from zero, imply-
+ing a perceived change in the Fed’s reaction function in the  lower-for-longer direc-
+tion. Using information drawn from interest rate options, Raskin (2013) came to a 
+similar conclusion. Carvalho, Hsu, and Nechio (2016), counting particular words in 
+magazine and newspaper articles to measure policy expectations, found that unan-
+ticipated communications by the Fed influenced  longer-term interest rates, while 
+Del Negro, Giannoni, and Patterson (2012) concluded that forward guidance posi-
+tively affected inflation and growth expectations.
+I have been discussing QE and forward guidance separately, but in practice the 
+two tools are closely intertwined. As noted earlier, QE works in part by  implicitly Table 2—Responses of Asset Prices and Yields to Two Fed 
+Forward Guidance Announcements
+ 2-year Treasuries −10
+ 10-year Treasuries −27
+ 30-year Treasuries −14
+ Mortgage-backed securities −17
+AAA corporate bonds −17
+SP500 index5.61
+Notes: Sums of  one-day responses to announcements of August 9, 2011, 
+and January 25, 2012. Yield changes are in basis points, stock price changes 
+are in percentage points.
+Source: Author’s calculations

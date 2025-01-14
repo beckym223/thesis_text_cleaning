@@ -1,47 +1,49 @@
-Operations. Unlike  crisis-era programs aimed at stemming the financial panic, these
-lending programs were aimed at broader economic stabilization, by overcoming
-lending bottlenecks in  bank-dominated economies and, more generally, by offering
-bank-dependent borrowers the same access to credit as borrowers with access to
-securities markets. Most of the available evidence on these programs suggests that
-they lowered bank funding costs, promoted lending, and improved monetary policy
-pass-through to the real economy (Andrade et al. 2019; Churm et al. 2018; Cahn,
-Matheron, and Sahuc 2017). However, the efficacy of these programs seems likely
-to depend in a complicated way on the health of the banking system: if banks are
-well-capitalized, then their need for cheap liquidity from the central bank may be
-limited. Conversely, if banks are short of capital, their lending may be constrained
-or their incentives to make good loans distorted, notwithstanding the availability of
-low-cost funding.
-Third, the Bank of Japan, the ECB, and the central banks of several smaller
-European countries adopted negative  short-term interest rates, enforced by a charge
-on bank reserves. The ability of the public to substitute into cash, which pays a
-zero nominal rate, or to  prepay nominal liabilities such as taxes, limits how far into
-negative territory the short rate can fall. Negative rates also raise financial stability
-concerns. One risk is that bank capital and lending capacity will be impaired by
-negative rates, because in practice banks cannot easily pass negative rates on to
-retail depositors. Indeed, a “reversal rate” of interest may exist, below which the
-adverse effects of the negative rate on bank capital and lending make it economically
-contractionary on net (Brunnermeier and Koby 2017). However, central banks
-can address the reversal rate problem through various devices, such as paying a
-higher rate to banks on a portion of their reserves (tiering), as has been done by the
-BOJ and the ECB. In addition, when rates decline, banks benefit from the upward
-revaluation of their assets and from improvements in overall economic conditions,
+959
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+Operations. Unlike  crisis-era programs aimed at stemming the financial panic, these 
+lending programs were aimed at broader economic stabilization, by overcoming 
+lending bottlenecks in  bank-dominated economies and, more generally, by offering 
+ bank-dependent borrowers the same access to credit as borrowers with access to 
+securities markets. Most of the available evidence on these programs suggests that 
+they lowered bank funding costs, promoted lending, and improved monetary policy 
+pass-through to the real economy (Andrade et al. 2019; Churm et al. 2018; Cahn, 
+Matheron, and Sahuc 2017). However, the efficacy of these programs seems likely 
+to depend in a complicated way on the health of the banking system: if banks are 
+ well-capitalized, then their need for cheap liquidity from the central bank may be 
+limited. Conversely, if banks are short of capital, their lending may be constrained 
+or their incentives to make good loans distorted, notwithstanding the availability of 
+ low-cost funding.
+Third, the Bank of Japan, the ECB, and the central banks of several smaller 
+European countries adopted negative  short-term interest rates, enforced by a charge 
+on bank reserves. The ability of the public to substitute into cash, which pays a 
+zero nominal rate, or to  prepay nominal liabilities such as taxes, limits how far into 
+negative territory the short rate can fall. Negative rates also raise financial stability 
+concerns. One risk is that bank capital and lending capacity will be impaired by 
+negative rates, because in practice banks cannot easily pass negative rates on to 
+retail depositors. Indeed, a “reversal rate” of interest may exist, below which the 
+adverse effects of the negative rate on bank capital and lending make it economi-
+cally contractionary on net (Brunnermeier and Koby 2017). However, central banks 
+can address the reversal rate problem through various devices, such as paying a 
+higher rate to banks on a portion of their reserves (tiering), as has been done by the 
+BOJ and the ECB. In addition, when rates decline, banks benefit from the upward 
+revaluation of their assets and from improvements in overall economic conditions, 
 which reduce credit losses.
-Within the limited range so far experienced, negative policy rates appear to have
-been passed through to bank lending rates, money market rates, and  longer-term
-interest rates (Arteta et al. 2018, Hartmann and Smets 2018). An International
-Monetary Fund (2017) review summed up by saying, “Experience is limited, but so
-far [negative interest rate policies] appear to have had positive, albeit likely small,
-effects on domestic monetary conditions, with no major internal side effects on bank
-profits, payment systems, or market functioning.” The evidently moderate costs and
-benefits of negative rates seem disproportionate to the rhetorical heat they stimulate
+Within the limited range so far experienced, negative policy rates appear to have 
+been passed through to bank lending rates, money market rates, and  longer-term 
+interest rates (Arteta et al. 2018, Hartmann and Smets 2018). An International 
+Monetary Fund (2017) review summed up by saying, “Experience is limited, but so 
+far [negative interest rate policies] appear to have had positive, albeit likely small, 
+effects on domestic monetary conditions, with no major internal side effects on bank 
+profits, payment systems, or market functioning.” The evidently moderate costs and 
+benefits of negative rates seem disproportionate to the rhetorical heat they stimulate 
 in some quarters. Money illusion can be powerful.
-Finally, the Bank of Japan in September 2016 initiated a program of “yield curve
-control,” a framework which includes a peg for the  short-term interest rate (as in
-traditional policymaking) but also a target range for the yield on  10-year Japanese
-government bonds (JGBs), enforced by purchases of those bonds. Yield curve control
-allows the BOJ to provide stimulus by lowering interest rates throughout the
-term structure. Yield curve control may be thought of as a form of QE that targets
-the price of bonds and leaves the quantity of bonds purchased by the central bank
-to be determined endogenously, rather than the reverse as in standard QE programs.
-Because the program is credible and because many private holders of JGBs appear
-not to be very  price-sensitive, it seems that the BOJ can maintain low  long-
+Finally, the Bank of Japan in September 2016 initiated a program of “yield curve 
+control,” a framework which includes a peg for the  short-term interest rate (as in 
+traditional policymaking) but also a target range for the yield on  10-year Japanese 
+government bonds (JGBs), enforced by purchases of those bonds. Yield curve con-
+trol allows the BOJ to provide stimulus by lowering interest rates throughout the 
+term structure. Yield curve control may be thought of as a form of QE that targets 
+the price of bonds and leaves the quantity of bonds purchased by the central bank 
+to be determined endogenously, rather than the reverse as in standard QE programs. 
+Because the program is credible and because many private holders of JGBs appear 
+not to be very  price-sensitive, it seems that the BOJ can maintain low  long-term 
