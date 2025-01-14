@@ -1,42 +1,46 @@
-was explicitly tied to economic conditions until the introduction of  state-contingent
-guidance for QE3 in late 2012. And, in retrospect, the economic thresholds set by
-the FOMC for those policies were insufficiently aggressive. It also took time for
-financial market participants and others to understand the new tools and the evolving
-reaction functions of central banks. While these observations imply that the early
-stage of the recovery from the Great Recession were less strong than it conceivably
-could have been, they also suggest that, with improved understanding and the benefit
-of experience, these policies could be significantly more effective the next time
+967
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+was explicitly tied to economic conditions until the introduction of  state-contingent 
+guidance for QE3 in late 2012. And, in retrospect, the economic thresholds set by 
+the FOMC for those policies were insufficiently aggressive. It also took time for 
+financial market participants and others to understand the new tools and the evolving 
+reaction functions of central banks. While these observations imply that the early 
+stage of the recovery from the Great Recession were less strong than it conceivably 
+could have been, they also suggest that, with improved understanding and the ben-
+efit of experience, these policies could be significantly more effective the next time 
 they are needed.19
 B. How Much Policy Space Can the New Monetary Tools Provide?
-Looking forward, in a world in which  short-term interest rates could hit the lower
-bound much more frequently, and traditional monetary policies accordingly could
-be less effective, how much additional policy space can the new monetary tools provide?
-As noted by Kiley and Roberts (2017) and others, and as I will demonstrate,
-the answer depends importantly on the prevailing level of the neutral interest rate,
-defined here as the interest rate associated with full employment and inflation at
-target in the  long-run steady state—and, therefore, with monetary policies that, on
-average, are neither expansionary nor contractionary. I focus here on the potential
-only of QE and forward guidance, leaving aside other tools, like  funding-for-lending
+Looking forward, in a world in which  short-term interest rates could hit the lower 
+bound much more frequently, and traditional monetary policies accordingly could 
+be less effective, how much additional policy space can the new monetary tools pro-
+vide? As noted by Kiley and Roberts (2017) and others, and as I will demonstrate, 
+the answer depends importantly on the prevailing level of the neutral interest rate, 
+defined here as the interest rate associated with full employment and inflation at 
+target in the  long-run steady state—and, therefore, with monetary policies that, on 
+average, are neither expansionary nor contractionary. I focus here on the potential 
+only of QE and forward guidance, leaving aside other tools, like  funding-for-lending 
 and negative interest rates, that might provide some additional space if necessary.
-A small literature has used DSGE models to study this issue. For example, Gertler
-and Karadi (2013) modeled QE as a means by which the central bank can substitute
-for the private sector in intermediating credit during periods of financial stress.
-Incorporating this interpretation into an otherwise standard new Keynesian model,
-they found in simulations that QE can have powerful effects on output but—not
-unexpectedly, given their modeling approach—that these effects are largely confined
-to periods of disruption in private credit flows. Sims and Wu (2019) expanded the
-Gertler-Karadi framework to include forward guidance (and negative interest rates
-as well). They found that QE is particularly effective in achieving monetary policy
-objectives, largely offsetting the lower bound in both a simulation meant to mirror
-the Great Recession and in simulations aimed at capturing the  long-run behavior
-of the US economy. These studies, and others in the DSGE tradition, improve our
-understanding of specific mechanisms by which QE and other new tools affect the
-economy. The trade-off is that, in their focus on particular mechanisms, these models
-may omit other key channels. For example, the  Gertler-Karadi framework does
+A small literature has used DSGE models to study this issue. For example, Gertler 
+and Karadi (2013) modeled QE as a means by which the central bank can substi-
+tute for the private sector in intermediating credit during periods of financial stress. 
+Incorporating this interpretation into an otherwise standard new Keynesian model, 
+they found in simulations that QE can have powerful effects on output but—not 
+unexpectedly, given their modeling approach—that these effects are largely confined 
+to periods of disruption in private credit flows. Sims and Wu (2019) expanded the 
+ Gertler-Karadi framework to include forward guidance (and negative interest rates 
+as well). They found that QE is particularly effective in achieving monetary policy 
+objectives, largely offsetting the lower bound in both a simulation meant to mirror 
+the Great Recession and in simulations aimed at capturing the  long-run behavior 
+of the US economy. These studies, and others in the DSGE tradition, improve our 
+understanding of specific mechanisms by which QE and other new tools affect the 
+economy. The trade-off is that, in their focus on particular mechanisms, these mod-
+els may omit other key channels. For example, the  Gertler-Karadi framework does 
 not include a portfolio balance channel for QE, despite the evidence in its favor.
-With the microfoundations of the new tools still under construction, many studies
-of the potential role for such policies have used FRB/ US or other macroeconometric
-models favored by central banks. These models, though motivated by economic
-theory, typically contain ad hoc elements. Their advantages are that they are  flexible,
-include substantial sectoral detail, and—having been workhorses of policy analysis
-for many years—tend to produce quantitatively plausible results in diverse
+With the microfoundations of the new tools still under construction, many studies 
+of the potential role for such policies have used FRB/ US or other macroeconomet-
+ric models favored by central banks. These models, though motivated by economic 
+theory, typically contain ad hoc elements. Their advantages are that they are  flexible, 
+include substantial sectoral detail, and—having been workhorses of policy analysis 
+for many years—tend to produce quantitatively plausible results in diverse scenarios. 
+19 The Federal Reserve’s QE was also partially offset by a contemporaneous Treasury policy of lengthening the 
+maturity of its debt issuance, a situation that should be avoided in the future (Greenwood et al. 2014).

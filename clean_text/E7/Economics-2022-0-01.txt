@@ -1,39 +1,46 @@
-In the final chapter of her book, Robinson (1933) laid out a model of a firm with a
-combination of  price-setting and wage-setting power, and showed that the result was
-a “double wedge” between marginal productivity and wages, reflecting the markup
-of prices over marginal costs and the markdown of wages relative to value marginal
+1076
+THE AMERICAN ECONOMIC REVIEW APRIL 2022
+I. A Brief History: 1932–1970
+In the final chapter of her book, Robinson (1933) laid out a model of a firm with a 
+combination of  price-setting and wage-setting power, and showed that the result was 
+a “double wedge” between marginal productivity and wages, reflecting the markup 
+of prices over marginal costs and the markdown of wages relative to value marginal 
 products.2 Why didn’t this idea catch on?
-I think there are several explanations. The first is that her framework describes
-“perfect” monopoly and “perfect” monopsony. She offers very little guidance on
-intermediate levels of market imperfection in either market, and says nothing about
-the interactions between competing firms in such intermediate cases—a criticism
-raised in the early review by Kaldor (1934) and freely acknowledged by Robinson
+I think there are several explanations. The first is that her framework describes 
+“perfect” monopoly and “perfect” monopsony. She offers very little guidance on 
+intermediate levels of market imperfection in either market, and says nothing about 
+the interactions between competing firms in such intermediate cases—a criticism 
+raised in the early review by Kaldor (1934) and freely acknowledged by Robinson 
 herself (Robinson 1953).3
-A second and related reason is that the simple geometric apparatus developed by
-Robinson (and also used by Chamberlain in his book published in the same year)
-was not very useful for further analytical exercises. Stigler (1949) made this point
-forcefully with respect to Chamberlain’s theory of monopolistic competition, arguing
-“… it has not been useful in the concrete analysis of economic problems, in the
-sense that it does not contain more accurate or more comprehensive implications
-than neoclassical theory.” The importance of a tractable framework is underscored
-by the current status of Chamberlain’s idea. Once Spence (1976) and Dixit and
-Stiglitz (1977) wrote down constant-elasticity-of-substitution (CES) style models
-models of consumer demand, and showed how to embed those preferences in a general
-equilibrium setting, monopolistic competition took off, and is now a workhorse
-model for problems in macroeconomics, international trade, and economic geography
-(see Brakman and Heijdra 2004).
-A third explanation is that in simple monopsony models, firms are ready and
-willing to hire any qualified worker who is willing to accept their offered wage.
-Indeed, a monopsonistic firm is always starved for labor. Proposing such a model in
-the depths of the Great Depression was not ideal timing for Robinson. In contrast, in
+A second and related reason is that the simple geometric apparatus developed by 
+Robinson (and also used by Chamberlain in his book published in the same year) 
+was not very useful for further analytical exercises. Stigler (1949) made this point 
+forcefully with respect to Chamberlain’s theory of monopolistic competition, argu-
+ing “… it has not been useful in the concrete analysis of economic problems, in the 
+sense that it does not contain more accurate or more comprehensive implications 
+than neoclassical theory.” The importance of a tractable framework is underscored 
+by the current status of Chamberlain’s idea. Once Spence (1976) and Dixit and 
+Stiglitz (1977) wrote down constant-elasticity-of-substitution (CES) style models 
+models of consumer demand, and showed how to embed those preferences in a gen-
+eral equilibrium setting, monopolistic competition took off, and is now a workhorse 
+model for problems in macroeconomics, international trade, and economic geogra-
+phy (see Brakman and Heijdra 2004).
+A third explanation is that in simple monopsony models, firms are ready and 
+willing to hire any qualified worker who is willing to accept their offered wage. 
+Indeed, a monopsonistic firm is always starved for labor. Proposing such a model in 
+the depths of the Great Depression was not ideal timing for Robinson. In contrast, in 
 today’s economy the idea of  labor-starved firms is more attractive.
-Fourth, the question of how wages and prices are set got caught up in the grand
-ideological debate over alternative economic systems that occupied many minds
+Fourth, the question of how wages and prices are set got caught up in the grand 
+ideological debate over alternative economic systems that occupied many minds 
 during the twentieth century. Robinson rather dogmatically insisted that any diver -
-gence between marginal products and wages represented a failure of market capitalism.
-Chamberlain, for his part, spent many years defending the welfare properties
-of monopolistic competition (e.g., Chamberlain, 1950). Throughout the 1930s and
-into the Cold War era, economists were more interested in arguing about (often
-ill-posed) normative questions than in understanding the positive implications of
-alternative models of wage and price setting. In this context, Arthur Pigou’s labeling
-of the gap between marginal productivity and wages as an index of “explo
+gence between marginal products and wages represented a failure of market capital-
+ism. Chamberlain, for his part, spent many years defending the welfare properties 
+of monopolistic competition (e.g., Chamberlain, 1950). Throughout the 1930s and 
+into the Cold War era, economists were more interested in arguing about (often 
+ ill-posed) normative questions than in understanding the positive implications of 
+alternative models of wage and price setting. In this context, Arthur Pigou’s labeling 
+of the gap between marginal productivity and wages as an index of “exploitation” 
+2 Specifically, on page 315 she noted that the gap between wages and marginal products will be equal 
+to    ϵ − 1 _ ϵ   ×   E _ 1 + E    where ϵ is the elasticity of demand for the firm’s output and E is the elasticity of supply to the firm. 
+3 Of course satisfactory models of the strategic interactions between agents were not fully developed anywhere  
+in economics until the late 1970s. 

@@ -1,39 +1,47 @@
-commitments by monetary policymakers to  so-called  lower-for-longer rate policies,
-which can add stimulus even when short rates are at the lower bound. And, for the
-most part, in retrospect it has become evident that the costs and risks attributed to the
-new tools, when first deployed, were overstated. The case for adding the new tools
+945
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+commitments by monetary policymakers to  so-called  lower-for-longer rate policies, 
+which can add stimulus even when short rates are at the lower bound. And, for the 
+most part, in retrospect it has become evident that the costs and risks attributed to the 
+new tools, when first deployed, were overstated. The case for adding the new tools 
 to the standard central bank toolkit thus seems clear.
-But how much can the new tools help? To estimate the policy space provided
-by the new tools, I turn to simulations of the Fed’s FRB/US model (Brayton et al.
-2014). Assuming, importantly, that the (nominal) neutral rate of interest, defined
-more fully below, is in the range of 2 to 3 percent—consistent with most current
-estimates for the US economy—then the simulations suggest that a combination of
-asset purchases and forward guidance can add roughly 3 percentage points of policy
-space. That is, when the new tools are used, monetary policy can achieve outcomes
-similar to what traditional policies alone could attain if the neutral interest rate were
-3 percentage points higher, in the range of  5–6 percent—which, it turns out, is close
-to what is needed to negate the adverse effects of the effective lower bound in most
-circumstances. In particular, as I will argue, in this scenario the use of the new tools
-to increase policy space seems preferable to the alternative strategy of raising the
+But how much can the new tools help? To estimate the policy space provided 
+by the new tools, I turn to simulations of the Fed’s FRB/US model (Brayton et al. 
+2014). Assuming, importantly, that the (nominal) neutral rate of interest, defined 
+more fully below, is in the range of 2 to 3 percent—consistent with most current 
+estimates for the US economy—then the simulations suggest that a combination of 
+asset purchases and forward guidance can add roughly 3 percentage points of policy 
+space. That is, when the new tools are used, monetary policy can achieve outcomes 
+similar to what traditional policies alone could attain if the neutral interest rate were 
+3 percentage points higher, in the range of  5–6 percent—which, it turns out, is close 
+to what is needed to negate the adverse effects of the effective lower bound in most 
+circumstances. In particular, as I will argue, in this scenario the use of the new tools 
+to increase policy space seems preferable to the alternative strategy of raising the 
 central bank’s inflation target.
-An important caveat to these conclusions, as already indicated, is that they apply
-fully only when the neutral interest rate is in the range of  2–3 percent or above. If the
-neutral rate is below 2 percent or so, the new tools still add valuable policy space but
-are unlikely to compensate entirely for the constraint imposed by the lower bound.
-The costs associated with a very low neutral rate, measured in terms of deeper and
-longer recessions and inflation persistently below target, underscore the importance
-for central banks of keeping inflation and inflation expectations close to target. A
+An important caveat to these conclusions, as already indicated, is that they apply 
+fully only when the neutral interest rate is in the range of  2–3 percent or above. If the 
+neutral rate is below 2 percent or so, the new tools still add valuable policy space but 
+are unlikely to compensate entirely for the constraint imposed by the lower bound. 
+The costs associated with a very low neutral rate, measured in terms of deeper and 
+longer recessions and inflation persistently below target, underscore the importance 
+for central banks of keeping inflation and inflation expectations close to target. A 
 neutral rate below 2 percent or so also increases the relative attractiveness of alter -
-native strategies for increasing policy space, such as raising the inflation target or
-relying more heavily on fiscal policy to fight recessions and to keep inflation and
+native strategies for increasing policy space, such as raising the inflation target or 
+relying more heavily on fiscal policy to fight recessions and to keep inflation and 
 interest rates from falling too low.
 I. Assessing the New Tools of Monetary Policy
-When the  short-term policy interest rate reaches the effective lower bound, monetary
-policymakers can no longer provide stimulus through traditional means.3
-However, it is still possible in those circumstances to add stimulus by operating
-on  longer-term interest rates and other asset prices and yields. Two tools for doing
-that, both actively used in recent years, are (i) central bank purchases of  longer-term
-financial assets (popularly known as quantitative easing, or QE), and (ii) communication
-from monetary policymakers about their economic outlooks and policy plans
-(forward guidance).4 I’ll discuss QE first, returning later to forward guidance, as
-well as to some other new tools used primarily outside the United Sta
+When the  short-term policy interest rate reaches the effective lower bound, mon-
+etary policymakers can no longer provide stimulus through traditional means.3 
+However, it is still possible in those circumstances to add stimulus by operating 
+on  longer-term interest rates and other asset prices and yields. Two tools for doing 
+that, both actively used in recent years, are (i) central bank purchases of  longer-term 
+financial assets (popularly known as quantitative easing, or QE), and (ii) communi-
+cation from monetary policymakers about their economic outlooks and policy plans 
+(forward guidance).4 I’ll discuss QE first, returning later to forward guidance, as 
+well as to some other new tools used primarily outside the United States.
+3 The term effective lower bound embraces the possibility of negative  short-term rates. In the United States, thus 
+far the effective lower bound has been zero. I will use the term “lower bound” for short.
+4 The popular use of the term QE blurs a useful distinction: QE as practiced by the Fed was importantly differ -
+ent from the QE undertaken by the Bank of Japan before the crisis. The former emphasized the effects of buying 
+ longer-term assets on  longer-term interest rates, the latter the effects of purchase on bank reserves and the monetary 
+base. In general, increases in reserves per se should have limited benefit in a liquidity trap, being only a swap of 
