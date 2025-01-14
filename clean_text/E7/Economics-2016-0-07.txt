@@ -10,24 +10,24 @@ D. A 75% chance to lose $1,000 and a
 25% chance to lose nothing [87%]
 The numbers in brackets indicate the percentage of subjects that chose that option.
 We observe a pattern that was frequently displayed: subjects were risk averse in the
-domain of gains but risk seeking in the domain of losses. It is not immediately obvi-
-ous that there is anything particularly disturbing about these choices; that is, until
+domain of gains but risk seeking in the domain of losses. It is not immediately obvious
+that there is anything particularly disturbing about these choices; that is, until
 one studies the following problem.
 Problem 2. - Choose between:
 E. 25% chance to win $240
 and 75% chance to lose $760 [0%]
 F. 25% chance to win $250
 and 75% chance to lose $750 [100%]
-Inspection reveals that although Problem 2 is worded differently, its choices are for-
-mally identical to those in Problem 1. The difference is that some simple arithmetic
+Inspection reveals that although Problem 2 is worded differently, its choices are formally
+identical to those in Problem 1. The difference is that some simple arithmetic
 has been performed for the subjects. Once these calculations are made it becomes
 clear to every subject that option F dominates option E, and everyone chooses
 accordingly. The difficulty, of course, is that option E, which no one selects, is made
 up of the combination of options A and D, both of which were chosen by a large
 majority of subjects, while option F, which everyone selects, is a combination of B
 and C, options that were highly unpopular in Problem 1. Thus this pair of problems
-illustrates two findings that are embarrassing to rational choice adherents. First, sub-
-jects' answers depend on the way a problem is worded or "framed," behavior that is
+illustrates two findings that are embarrassing to rational choice adherents. First, subjects'
+answers depend on the way a problem is worded or "framed," behavior that is
 inconsistent with almost any formal model. Second, by utilizing clever framing, a
 majority of subjects can be induced to select a pair of options that are dominated by
 another pair. Once again, this behavior does not seem consistent with the idea that

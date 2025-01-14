@@ -1,15 +1,15 @@
 global and independent of where emissions take place. An additional complication
 is that the abatement costs are paid today while most of the benefits of abatement
 come in the distant future. The present study shows, in a stylized model of costs and
-damages, that the global noncooperative carbon price and abatement rate are pro-
-portional to the Herfindahl index of country size. This implies, given realistic data,
+damages, that the global noncooperative carbon price and abatement rate are proportional
+to the Herfindahl index of country size. This implies, given realistic data,
 that the global noncooperative carbon price and control rate will be in the order of
 one-tenth of the efficient cooperative levels.
 Next consider possible mechanisms to combat free-riding and focus on a Climate
 Club. It is generally assumed that the most effective approach will be to impose trade
 sanctions on nonparticipants, and this is the route followed here. Most trade sanctions
-rely on duties on carbon-intensive goods. For strategic, economic, and technical rea-
-sons, this paper instead considers penalties that take the form of uniform ad valorem
+rely on duties on carbon-intensive goods. For strategic, economic, and technical reasons,
+this paper instead considers penalties that take the form of uniform ad valorem
 tariffs levied by club participants on nonparticipants. In the analysis, the tariff rates
 vary from 0 percent to 10 percent. It is further assumed that a climate treaty will
 amend trade rules so that a penalty tariff conforms with international trade law and
@@ -33,13 +33,13 @@ impacts of tariffs. Using an evolutionary algorithm, the model can be used to fi
 stable coalition Nash equilibria.
 B. Qualifications
 I begin with qualifications on the results that relate to the data and structural
-parameters. The data on output, C02 emissions, and trade are relatively well mea-
-sured. The global SCC is uncertain but can be varied as shown in the different
+parameters. The data on output, C02 emissions, and trade are relatively well measured.
+The global SCC is uncertain but can be varied as shown in the different
 experiments. The national SCCs are also uncertain, but since they are all small
 relative to the global SCC, their exact magnitudes are not critical for the findings.
 Other structural uncertainties relate to the abatement cost function and the optimal
 tariff rate.
-A related question is whether a trade-penalty-plus-carbon-price regime can oper-
-ate in the future with the rising carbon prices that are generally associated with an
+A related question is whether a trade-penalty-plus-carbon-price regime can operate
+in the future with the rising carbon prices that are generally associated with an
 efficient climate-change program. Answering this question requires a multiperiod
 coalition model and is on the agenda for future r

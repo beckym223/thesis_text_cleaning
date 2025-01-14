@@ -1,11 +1,11 @@
-For each policy rule, the mean loss across simulations is shown in the first col-
-umn of the table. The loss for each simulation is defined as the sum of the squared
+For each policy rule, the mean loss across simulations is shown in the first column
+of the table. The loss for each simulation is defined as the sum of the squared
 deviations of inflation from target and of the unemployment rate from the natural
 unemployment rate (the “unemployment gap”), except that no penalty is assigned
 when unemployment is below the natural rate. Higher losses imply worse average
-performance. The results are not much affected if positive and negative unemploy-
-ment gaps are treated symmetrically, as is more conventional, or if the loss is calcu-
-lated in terms of the output gap instead of the unemployment gap. Mean losses are
+performance. The results are not much affected if positive and negative unemployment
+gaps are treated symmetrically, as is more conventional, or if the loss is calculated
+in terms of the output gap instead of the unemployment gap. Mean losses are
 a useful summary measure that provides a natural way to rank alternative policies,
 evaluate the marginal benefits of new policy tools, or—by comparing losses of alter -
 native policies to that of the unconstrained baseline Taylor rule—assess how close

@@ -3,8 +3,8 @@ endowment,
 X
 . Gi
 ven that the wage follows a log normal distribution and thus can
-be arbitrarily small, such an endowment is needed to make sure that the determin-
-istic transfer from the young to the old is always feasible, no matter what the real-ization of
+be arbitrarily small, such an endowment is needed to make sure that the deterministic
+transfer from the young to the old is always feasible, no matter what the real-ization of
 W
 
 .24 I assume that the endowment is equal to 100 percent of the average
@@ -27,8 +27,8 @@ the annual value of
 σ
 a    to be a high 4 percent a year, which implies a value of  σ   of
 √ _ 25   × 4%  =  0.20  .
-Because the strength of the second effect above depends on the elasticity of sub-
-stitution, I consider two different values of
+Because the strength of the second effect above depends on the elasticity of substitution,
+I consider two different values of
 η
 
 ,
@@ -39,8 +39,8 @@ stitution, I consider two different values of
 ∞
 which corresponds to the
 linear production function case, and in which the price ef
-fects of lower capital accu-
-mulation are equal to 0, and
+fects of lower capital accumulation
+are equal to 0, and
 η
 
 =
@@ -115,6 +115,6 @@ equivalently a value of
 o
 ver the 25-year period of 10 percent, and thus a value of
 σ
-2   of 1 percent. Thus, if we think of the annual risk premium as equal to, say, 5  per-
-cent, which implies a v
-alue of the right-hand side of 1.22, this implies a value 
+2   of 1 percent. Thus, if we think of the annual risk premium as equal to, say, 5  percent,
+which implies a v
+alue of the right-hand side of 1.22, this implies a value

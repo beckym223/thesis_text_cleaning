@@ -1,19 +1,19 @@
 These markets have low transaction costs, high stakes, lots of competition (except
 perhaps in some banking sectors) and crucially, the ability to sell short. It is short
-selling that allows for the possibility that even if most investors are fools, the activ-
-ities of "smart money" arbitrageurs can assure that markets behave "as if' everyone
+selling that allows for the possibility that even if most investors are fools, the activities
+of "smart money" arbitrageurs can assure that markets behave "as if' everyone
 were smart. This is the intellectual underpinning of the efficient market hypothesis
 (EMH).
 The efficient market hypothesis really has two distinct components. The first,
 what I call the "no free lunch" provision, is that it is not possible to "beat the market"
-on a properly risk-adjusted basis. There is an enormous literature devoted to test-
-ing this hypothesis, with many arguments on each side. The difficulty in evaluating
+on a properly risk-adjusted basis. There is an enormous literature devoted to testing
+this hypothesis, with many arguments on each side. The difficulty in evaluating
 competing claims is in agreeing on the way to account for risk. For example, there is
 widespread agreement in the literature that a strategy of buying "value stocks," for
 example those with low ratios of price to earnings or book value, earns higher returns
 than buying "growth stocks," which have high price-earnings ratios. However, there
-is a debate about the explanation for these excess returns. Behavioralists (for exam-
-ple De Bondt and Thaler 1985, 1987; Lakonishok, Shleifer, and Vishny 1994) argue
+is a debate about the explanation for these excess returns. Behavioralists (for example
+De Bondt and Thaler 1985, 1987; Lakonishok, Shleifer, and Vishny 1994) argue
 that the excess returns reflect mispricing of some sort. On the other side, efficient
 market advocates such as Fama and French (1993) argue that the high returns to
 value stocks occur because those stocks are risky. Although it would not be right to
@@ -24,15 +24,15 @@ measure of risk in the Capital Asset Pricing Model.) Still, while academics deba
 about the correct interpretation of these empirical results, one important fact first
 documented in Jensen's (1968) PhD thesis remains true: the active mutual fund
 industry on average does not beat the market.
-So from the point of view of an investor, this aspect of the efficient market hypoth-
-esis can safely be considered to be at least approximately true. Nevertheless, it is
+So from the point of view of an investor, this aspect of the efficient market hypothesis
+can safely be considered to be at least approximately true. Nevertheless, it is
 important not to misinterpret this finding. The lack of predictability in stock market
 returns does not imply that stock market prices are "correct." This is the second
 aspect of the EMH, what I call the "price is right" component. The inference that
 unpredictability implies rational prices is what Shiller (1984, p. 459) once called
 "one of the most remarkable errors in the history of economic thought." It is an error
-because just as the path of a toddler running around on a playground might be com-
-pletely unpredictable, the path is also not likely to be the result of maximizing some
+because just as the path of a toddler running around on a playground might be completely
+unpredictable, the path is also not likely to be the result of maximizing some
 well-formed objective function (other than having fun).
 The price is right component of the EMH is, in my opinion, by far the more
 important of the two ingredients of the theory. It is important because if prices are

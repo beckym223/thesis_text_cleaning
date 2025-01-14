@@ -8,8 +8,8 @@ E R
 f   absent debt, bad
 shocks, which lead to higher debt and lower capital accumulation, lead to increases in
 the risky rate, and by implication, larger increases in the safe rate. The result is that, for the same sequence of shocks, now 5 percent of paths, fail over the first 4 periods: 100 years, if we take a period to be 25 years. The failing paths are represented in red.
-Second, consider welfare effects. Relative to a pay-as-you-go scheme, debt roll-
-overs are much less attractive. Remember the two effects of an intergenerational transfer. The first comes from the fact that people receive a rate of return of 1 on the transfer, a rate which is typically higher than
+Second, consider welfare effects. Relative to a pay-as-you-go scheme, debt rollovers
+are much less attractive. Remember the two effects of an intergenerational transfer. The first comes from the fact that people receive a rate of return of 1 on the transfer, a rate which is typically higher than
 R
 f  . In a debt rollover, they receive a rate
 of return of only

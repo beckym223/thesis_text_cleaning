@@ -24,8 +24,8 @@ interest in the country with which it shares a name. Historically, the CUBA fund
 traded at a 10-15 percent discount to Net Asset Value.
 Figure 1 plots both the share price and net asset value for the CUBA fund for a
 time period beginning in September 2014. For the first few months we can see that
-the share price is trading in the normal 10-15 percent discount range. Then some-
-thing abruptly happens on December 18, 2014. Although the net asset value of the
+the share price is trading in the normal 10-15 percent discount range. Then something
+abruptly happens on December 18, 2014. Although the net asset value of the
 fund barely moves, the price of the shares jumped to a 70 percent premium. Whereas
 it had previously been possible to buy $100 worth of Caribbean assets for just $90,
 the next day those assets cost $170! As readers have probably guessed, this price

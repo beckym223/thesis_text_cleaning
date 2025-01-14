@@ -1,34 +1,34 @@
 While the uniform tariff appears to be less targeted than carbon duties, it has a
 different purpose. It is primarily designed to increase participation, not to reduce
-leakage or improve competitiveness. The rationale is that nonparticipants are dam-
-aging other countries because of their total emissions of greenhouse gases, not only
+leakage or improve competitiveness. The rationale is that nonparticipants are damaging
+other countries because of their total emissions of greenhouse gases, not only
 from those embodied in traded goods.
 One objection to this approach is that a tariff on all imports is a major departure
 from the approaches authorized under national and international law. It would appear
 to collide with current treaties by imposing tariffs on processes and production methods
 (PPMs), or on how goods are domestically produced, but that is of course the purpose
 of the penalty tariffs. It also departs from the principle of proportionality in having a
-binary "in or out" nature of the sanctions. However, the binary feature is central to hav-
-ing countries focus on two possible policies, and including proportionate tariffs would
+binary "in or out" nature of the sanctions. However, the binary feature is central to having
+countries focus on two possible policies, and including proportionate tariffs would
 lead to a different set of equilibria. While there may be ambiguities as to whether some
-esoteric exceptions can be used to justify the system of uniform, nonproportionate tar-
-iffs, trying to shoe-horn the proposed uniform-tariff mechanism into current law seems
+esoteric exceptions can be used to justify the system of uniform, nonproportionate tariffs,
+trying to shoe-horn the proposed uniform-tariff mechanism into current law seems
 ill advised because it would raise questions of legitimacy and durability.
 For these reasons, an important aspect of the proposal will be a set of "climate
 amendments" to international-trade law, both internationally and domestically.
 The climate amendments would explicitly allow uniform tariffs on nonparticipants
 within the confines of a climate treaty; it would also prohibit retaliation against
-countries who invoke the mechanism. Requiring such amendments would empha-
-size that climate change is an especially grave threat, and that this approach should
+countries who invoke the mechanism. Requiring such amendments would emphasize
+that climate change is an especially grave threat, and that this approach should
 not be used for every worthy initiative.
 F. Tariffs as Internalization Devices
-We can interpret penalty tariffs as devices to internalize transnational exter-
-nalities. Nations incur but a small fraction of the damages from climate change
-domestically - less than 10 percent of global costs on average. Just as taxes or reg-
-ulations are needed to correct externalities within nations, some analogous mecha-
-nism is needed for global public goods.
-Tariffs on the trade of nonparticipants are a reasonable and realistic tool for inter-
-nalizing the transnational externality. How well-targeted are penalty tariffs? Using
+We can interpret penalty tariffs as devices to internalize transnational externalities.
+Nations incur but a small fraction of the damages from climate change
+domestically - less than 10 percent of global costs on average. Just as taxes or regulations
+are needed to correct externalities within nations, some analogous mechanism
+is needed for global public goods.
+Tariffs on the trade of nonparticipants are a reasonable and realistic tool for internalizing
+the transnational externality. How well-targeted are penalty tariffs? Using
 the C-DICE model (which is described in the next section), I have examined the
 external effects of emissions of each region along with the impacts of the penalty
 tariff, and the results are shown in Figure 1.
@@ -39,7 +39,7 @@ For example, when the global SCC is $25 per ton, the estimated US external SCC
 is $21 per ton. Multiplying the region's external SCC by the difference between the
 cooperative and noncooperative emissions provides the externality, shown as the left
 bar in Figure 1. In this example, when the United States decides not to participate, it
-increases its annual emissions by about 800 million tons, and this produces $16 bil-
-lion of additional external damages.
-I then calculate the cost from the penalty tariff that a country incurs by not par-
-ticipating in the Climate Club. The calculation labeled "Cost of
+increases its annual emissions by about 800 million tons, and this produces $16 billion
+of additional external damages.
+I then calculate the cost from the penalty tariff that a country incurs by not participating
+in the Climate Club. The calculation labeled "Cost of

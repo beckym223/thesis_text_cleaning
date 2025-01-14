@@ -5,11 +5,11 @@ fall in response to persistently  below-target inflation, as no doubt they ultim
 would, then the nominal neutral interest rate would decline, reducing policy space
 yet further.
 Second, higher inflation targets, which for these simulations I assume to result
-one-for-one in higher nominal neutral rates, improve the performance of the base-
-line rules, by increasing policy space and making encounters with the lower bound
+one-for-one in higher nominal neutral rates, improve the performance of the baseline
+rules, by increasing policy space and making encounters with the lower bound
 less frequent. For example, with   r   ∗   = 1 (Table 3), an inflation target of 5 percent
-would result (by assumption) in a neutral nominal rate   i   ∗   = 6. In this case, accord-
-ing to these simulations, the lower bound would bind less than 2 percent of the
+would result (by assumption) in a neutral nominal rate   i   ∗   = 6. In this case, according
+to these simulations, the lower bound would bind less than 2 percent of the
 time, and the mean loss associated with the baseline rule would be close to the fully
 unconstrained case, illustrating the increased policy space. Importantly, though, the
 losses calculated here ignore the costs of having a permanently higher inflation rate,
@@ -26,17 +26,17 @@ reduced impact of forward guidance in these simulations appears to be the result
 of my limitation of credible guidance to 28 quarters in the future, which implies
 that this policy is relatively ineffective during long episodes at the lower bound. In
 contrast, QE taken alone appears powerful in these simulations: with   r   ∗   = 1 and
-i   ∗   = 3 (Table 3), the most aggressive QE program, QE(D), achieves economic out-
-comes that are about the same as the baseline rule with a 5 percent inflation target
+i   ∗   = 3 (Table 3), the most aggressive QE program, QE(D), achieves economic outcomes
+that are about the same as the baseline rule with a 5 percent inflation target
 (for which   i   ∗   = 6), and that are also relatively close to the unconstrained baseline
 rule, consistent with Kiley (2018). With   r   ∗   = 1, the mean peak stock of central bank
 assets for this policy (over a typical  25-year period) is about $2.6 trillion, a high
 value but not out of the range of recent experience. However, the QE(D) policy
 results in the economy spending about 11 percent of the time at the lower bound,
-compared to 2 percent of the time for the balanced Taylor rule with a 5 percent infla-
-tion target. With   r   ∗   = 0 and   i   ∗   = 2 (Table 4), the performance of the QE(D) program
+compared to 2 percent of the time for the balanced Taylor rule with a 5 percent inflation
+target. With   r   ∗   = 0 and   i   ∗   = 2 (Table 4), the performance of the QE(D) program
 deteriorates somewhat but remains close to that of the baseline rule with a 5 percent
 inflation target.
-Fourth, importantly, for both   r   ∗   = 1 (Table 3) and   r   ∗   = 0 (Table 4), correspond-
-ing to nominal neutral rates of 3 percent and 2 percent respectively, combinations of
+Fourth, importantly, for both   r   ∗   = 1 (Table 3) and   r   ∗   = 0 (Table 4), corresponding
+to nominal neutral rates of 3 percent and 2 percent respectively, combinations of
 QE and forward guidance can almost fully compensate for the effects of

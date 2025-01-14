@@ -32,16 +32,16 @@ can recall instances of that event. Using this heuristic is perfectly sensible s
 frequency and ease of recall are generally positively correlated. However, use of
 the heuristic will lead to predictable errors in those situations where frequency and
 ease of recall diverge. For example, when asked to estimate the ratio of gun deaths
-by homicide to gun deaths by suicide in the United States, most people think homi-
-cide gun deaths are more common, whereas there are in fact nearly twice as many
+by homicide to gun deaths by suicide in the United States, most people think homicide
+gun deaths are more common, whereas there are in fact nearly twice as many
 gun-inflicted suicides as homicides. These are expectations that are not close to
 being "as if' rational - they are predictably biased.
 Kahneman and Tversky's second influential line of research was on decision
 making. In particular, in 1979 they published their paper on prospect theory, which
-was proposed as a "descriptive" (or what Milton Friedman would have called "pos-
-itive") model of decision making under uncertainty. Prospect theory was intended
+was proposed as a "descriptive" (or what Milton Friedman would have called "positive"
+) model of decision making under uncertainty. Prospect theory was intended
 to be a descriptive alternative to von Neumann and Morgenstern's (1947) expected
 utility theory, which is rightly considered by most economists to characterize how
-a rational agent should make risky choices. Kahneman and Tversky's research doc-
-umented numerous choices that violate any sensible definition of rational. This pair
+a rational agent should make risky choices. Kahneman and Tversky's research documented
+numerous choices that violate any sensible definition of rational. This pair
 of problems posed to different groups of subjects offers a good illustra

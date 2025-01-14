@@ -6,15 +6,15 @@ users to verbally ask a question like "What is the longest river in South Africa
 and receive a direct verbal answer. Semantic search is now getting well established
 around the world.
 Semantic search may, however, take a long time to reach the abilities of the human
-mind to understand narratives. In the meantime, researchers can still be quantita-
-tive in the study of narratives if they use multiple research assistants with explicit
+mind to understand narratives. In the meantime, researchers can still be quantitative
+in the study of narratives if they use multiple research assistants with explicit
 instructions to read narratives and to classify and quantify them for their essential
-emotional driving force. Advances in psychology, neuroscience, and artificial intel-
-ligence may be relied upon to improve our sense of structure in narrative economics.
+emotional driving force. Advances in psychology, neuroscience, and artificial intelligence
+may be relied upon to improve our sense of structure in narrative economics.
 As research methods advance, and as more social media data accumulate, textual
 analysis will be a stronger field in economics in coming years. It may allow us to
-move beyond 1930s-style models of feedback, the "multiple rounds of expendi-
-ture," and get closer to all the kinds of feedback that really drive economic events.
+move beyond 1930s-style models of feedback, the "multiple rounds of expenditure,
+" and get closer to all the kinds of feedback that really drive economic events.
 And it will help us to better understand the kinds of deliberate manipulations and
 deceptions we have been suffering under, and to formulate some positive economic
 policies that take into account the background of narrat

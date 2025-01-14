@@ -19,12 +19,12 @@ If the nominal neutral rate in the United States does ultimately prove to be as
 low as 1 percent, as Kiley finds, then moving that rate higher—to provide more
 monetary policy space, and perhaps for other reasons including reducing financial
 stability risks—will be an important goal of public policy. In that situation, the case
-for a moderate rise in the inflation target would certainly be stronger, notwithstand-
-ing the associated costs. That step seems premature as of this writing. However, a
+for a moderate rise in the inflation target would certainly be stronger, notwithstanding
+the associated costs. That step seems premature as of this writing. However, a
 cautious approach could include making plans to increase the countercyclicality of
 fiscal policy, for example, by increasing the use of automatic stabilizers. And cer -
-tainly, whatever the levels of the neutral rate, it is essential that the Fed keep infla-
-tion expectations near target, defending against inflation shortfalls as vigorously as
+tainly, whatever the levels of the neutral rate, it is essential that the Fed keep inflation
+expectations near target, defending against inflation shortfalls as vigorously as
 it defended against  too-high inflation in the past.
 My simulation results apply only to the United States and cannot be directly
 extended to other countries. Two conclusions of this lecture can safely be extended,
@@ -36,8 +36,8 @@ rent estimates place the real neutral rate in major foreign economies above zero
 For example, the New York Fed reports estimates (based on Holston, Laubach, and
 Williams 2017) of the real neutral rates of Canada, the euro area, and the United
 Kingdom of 1.6, 0.2, and 1.4 percent, respectively. Using the methods of Laubach
-and Williams (2003) as well as a DSGE model, Okazaki and Sudo (2018) esti-
-mate the real neutral rate in Japan to be close to 1.0 percent. Estimates by Davis,
+and Williams (2003) as well as a DSGE model, Okazaki and Sudo (2018) estimate
+the real neutral rate in Japan to be close to 1.0 percent. Estimates by Davis,
 Fuenzalida, and Taylor (2019) of the real neutral rate in six advanced economies
 range between roughly zero and modestly positive. If the real neutral rate is zero or
 above, and with most countries targeting inflation around 2 percent, then  shor

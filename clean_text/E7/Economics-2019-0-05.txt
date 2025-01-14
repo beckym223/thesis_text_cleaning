@@ -1,10 +1,10 @@
-Section II looks at the effects of an intergenerational transfer ( a conceptually sim-
-pler policy than a debt rollover, but a policy that shows most clearly the  rele
+Section II looks at the effects of an intergenerational transfer ( a conceptually simpler
+policy than a debt rollover, but a policy that shows most clearly the  rele
 vant effects
 at work)  in an overlapping generation model with uncertainty. In the certainty context
 analyzed by Diamond (1965) , whether such an intergenerational transfer from young
-to old is welfare improving depends on “the” interest rate, which in that model is sim-
-ply the net marginal product of capital. If the interest rate is less than the growth rate, then the transfer is welfare improving. Put simply, in that case, a larger intergenera-tional transfer, or equivalently an increase in public debt, and thus less capital, is good.
+to old is welfare improving depends on “the” interest rate, which in that model is simply
+the net marginal product of capital. If the interest rate is less than the growth rate, then the transfer is welfare improving. Put simply, in that case, a larger intergenera-tional transfer, or equivalently an increase in public debt, and thus less capital, is good.
 When uncertainty is introduced however, the question becomes what interest rate
 we should look at to assess the welfare effects of such a transfer. Should it be the average safe rate, i.e., the rate on sovereign bonds ( assuming no default risk) , or
 should it be the average marginal product of capital? The answer turns out to be: both.

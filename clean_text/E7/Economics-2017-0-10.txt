@@ -1,7 +1,7 @@
 and disordered, narrative (Saavedra, Cubero, and Crawford 2009). Hearing voices
 as a symptom of schizophrenia is correlated with volume deficits in specific brain
-areas (Gaser et al. 2004). The narrative disruption found in autism spectrum disor-
-der also is related to brain anomalies (Losh and Gordon 2014; Pierce et al. 2001).
+areas (Gaser et al. 2004). The narrative disruption found in autism spectrum disorder
+also is related to brain anomalies (Losh and Gordon 2014; Pierce et al. 2001).
 Narrative psychology is also related to the psychologists' concept of framing
 (Kahneman and Tversky 2000; Thaler 2015, 2016). If we can create an amusing
 story that will get retold, it can establish a point of view, a reference point, which
@@ -9,23 +9,23 @@ will have influence on decisions. It is also related to the Kahneman and Tversky
 (1973) representativeness heuristic, whereby people form their expectations based
 on similarity of circumstance to some idealized story or model, and tend to neglect
 base-rate probabilities.
-Psychologists have noted an affect heuristic, whereby people who are experi-
-encing strong emotions, such as fear, tend to extend their feelings to unrelated hap-
-penings (Slovic et al. 2007). Sometimes people note strong emotions or fears about
-possibilities that they know logically are not real, suggesting that the brain has mul-
-tiple systems for assessing risk, and the "risk as feelings" hypothesis that some
+Psychologists have noted an affect heuristic, whereby people who are experiencing
+strong emotions, such as fear, tend to extend their feelings to unrelated happenings
+(Slovic et al. 2007). Sometimes people note strong emotions or fears about
+possibilities that they know logically are not real, suggesting that the brain has multiple
+systems for assessing risk, and the "risk as feelings" hypothesis that some
 primitive brain system more connected to palpable emotions has its own heuristic
 for assessing risk (Loewenstein et al. 2001.)
-In joint work with Goetzmann and Kim (2016), using data from a question-
-naire survey I have been conducting with institutional investors and high-income
+In joint work with Goetzmann and Kim (2016), using data from a questionnaire
+survey I have been conducting with institutional investors and high-income
 Americans since 1989, we found that these people generally have exaggerated
-assessments of the risk of a stock market crash, and that these assessments are influ-
-enced by the news stories, especially front page stories, that they read. One intriguing
+assessments of the risk of a stock market crash, and that these assessments are influenced
+by the news stories, especially front page stories, that they read. One intriguing
 finding was that an event such as an earthquake could influence estimations of the
 likelihood of a stock market crash. The respondents in our survey gave statistically
-significantly higher probabilities to a stock market crash if there had been an earth-
-quake within 30 miles of their zip code within 30 days, triggering the affect heuris-
-tic. It seems reasonable to hypothesize that local earthquakes start local narratives
+significantly higher probabilities to a stock market crash if there had been an earthquake
+within 30 miles of their zip code within 30 days, triggering the affect heuristic.
+It seems reasonable to hypothesize that local earthquakes start local narratives
 with negative emotional valence. Analogous evidence has been found of seemingly
 irrelevant events with narrative potential having effects on economic or political
 outcomes: the effect of World Cup outcomes on economic confidence (Dohmen et
@@ -33,8 +33,8 @@ al. 2006) and of background music in advertisements on viewers (Boltz, Schulkind
 and Kantra 1991).
 The news media, for which the survival of any one organization is never assured
 in a competitive news marketplace, must become adept at managing the news to
-make narratives work in their favor. Moreover, news media embellish the empha-
-sized news with human interest stories. Given the large and often dramatic degree
+make narratives work in their favor. Moreover, news media embellish the emphasized
+news with human interest stories. Given the large and often dramatic degree
 of news media coverage of disasters - natural and man-made - and of crimes and
 human interest stories, it seems clear that news media believe that covering such
 events will result in increased sales and attention for their news products. However,

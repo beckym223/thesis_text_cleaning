@@ -1,7 +1,7 @@
 in 1935, Cole and Ohanian argue that the Roosevelt administration was able to keep
 the substance of the codes going anyway.
-Eichengreen (1996) and Eichengreen and Temin (2000) have argued that the per-
-sistence of the Great Depression has something to do with an unthinking national
+Eichengreen (1996) and Eichengreen and Temin (2000) have argued that the persistence
+of the Great Depression has something to do with an unthinking national
 commitment to the gold standard, as if it were some kind of God-given virtue, despite
 changes in labor markets that made wages more downwardly rigid. They show that
 countries which abandoned the gold standard earlier showed better recoveries.
@@ -18,8 +18,8 @@ have done better if they had offset these declines. Temin also observed that Fri
 and Schwartz indicated no substantial correspondence between the bank runs and
 measures of economic activity.
 Once again, I argue that most likely a multiplicity of factors, whose confluence
-produced such severity, caused people to cut back substantially on their expendi-
-tures, and these factors in turn often have the form of epidemics of narratives.
+produced such severity, caused people to cut back substantially on their expenditures,
+and these factors in turn often have the form of epidemics of narratives.
 The first new narrative of the Great Depression was that of the stock market drop
 on October 28, 1929. This narrative was especially powerful, in its suddenness and
 severity, focusing public attention on a crash as never before in America. These were
@@ -32,11 +32,11 @@ to have begun weakly in 1926, before the actual crash of 1929. In newspapers, th
 have been two fast epidemics, each peaking within a year, implying very strong
 short-run contagion. The first assumed massive proportions in 1929 with the record
 12.8 percent one-day drop in the Dow Jones Industrial Average on October 28,
-1929. The second started on October 19, 1987, when the Dow had a 22.6 per-
-cent drop, almost doubling the October 28, 1929 drop, though falling short of the
+1929. The second started on October 19, 1987, when the Dow had a 22.6 percent
+drop, almost doubling the October 28, 1929 drop, though falling short of the
 two-day drop in 1929. It may seem odd that no other stock price movement merited
-being called a crash since 1929. Newspapers are very focused on records, presum-
-ably because they know their readers are, and 1987 was the only record one-day
+being called a crash since 1929. Newspapers are very focused on records, presumably
+because they know their readers are, and 1987 was the only record one-day
 drop after 1929. Folklore suggests that the stock market epidemic had extremely
 high contagion in 1929.
 We know there was high contagion in 1987. In my own mail questionnaire survey

@@ -10,24 +10,24 @@ with detailed regional estimates from an engineering model by McKinsey Company
 (2009). Abatement costs are largely determined by the carbon-intensity of a region,
 which are relatively reliable data. Aside from carbon-intensity, the differences among
 regions are largely technological and sectoral as analyzed by McKinsey's study.
-One major new feature is to include the effects of international trade and tar-
-iffs on the economic welfare of each region. For both computational and empirical
+One major new feature is to include the effects of international trade and tariffs
+on the economic welfare of each region. For both computational and empirical
 reasons, the model employs a reduced-form tariff-impact function. This function
 represents the impact of changes in the average tariff rate of each country on each
 other country. As an example, the model estimates that if the United States imposes
 a uniform additional tariff of 1 percent on Chinese imports, US net national income
 rises by 0.100 percent and China's net national income falls by 0.018 percent.
-Estimates from the optimal-tariff literature indicate that countries have net ben-
-efits if they impose small uniform tariffs on other countries. Similarly, all countries
-suffer economic losses if they are the targets of uniform tariffs levied by other coun-
-tries. I assume that the tariff function is quadratic with a maximum at the optimal
+Estimates from the optimal-tariff literature indicate that countries have net benefits
+if they impose small uniform tariffs on other countries. Similarly, all countries
+suffer economic losses if they are the targets of uniform tariffs levied by other countries.
+I assume that the tariff function is quadratic with a maximum at the optimal
 tariff rates. The numerical parameters of the reduced-form tariff-impact function are
 derived from a model developed and provided by Ralph Ossa (2014). Details are
 provided in the online Appendix.
 Macroeconomic and emissions data are taken from standard sources. GDP and
 population are from the World Bank. CO2 emissions are from the Carbon Dioxide
-Information Action Center (CDIAC 2014). Note that I include all industrial C02 emis-
-sions but exclude land-use emissions as well as non-C02 greenhouse gas emissions or
+Information Action Center (CDIAC 2014). Note that I include all industrial C02 emissions
+but exclude land-use emissions as well as non-C02 greenhouse gas emissions or
 other sources of climate change. The interregional trade data are based on data from
 the United Nations Conference on Trade and Development (UNCTAD 2014).
 The model considers only one period, centered on 2011. It can be interpreted
@@ -37,9 +37,9 @@ game that will also be an equilibrium of the repeated game.
 Countries are assumed to maximize their perceived national self-interests, and the
 welfare of the rest of the world is not counted in their interests. Their estimates may
 turn out to be right or wrong, but they are the basis of treaty negotiations. To avoid
-stab-in-the-back instability, I assume that there are no side payments among coun-
-tries. Treaties are assumed to be stable in the sense of being coalition Nash equilib-
-ria, which means that they are stable as compared to all alternative sub-coalitions.
+stab-in-the-back instability, I assume that there are no side payments among countries.
+Treaties are assumed to be stable in the sense of being coalition Nash equilibria,
+which means that they are stable as compared to all alternative sub-coalitions.
 B. Gains and Losses from Participation
-The noncooperative (NC) equilibrium is the starting point in international rela-
-tions. Consider the decision of a single country whether to participat
+The noncooperative (NC) equilibrium is the starting point in international relations.
+Consider the decision of a single country whether to participat

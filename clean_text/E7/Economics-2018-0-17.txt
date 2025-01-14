@@ -1,5 +1,5 @@
-• At each subsequent step of the algorithm, an y applicant rejected at the previ-
-ous step applies to his or her most preferred acceptable hospital that hasn’t yet
+• At each subsequent step of the algorithm, an y applicant rejected at the previous
+step applies to his or her most preferred acceptable hospital that hasn’t yet
 rejected him/her. (If no acceptable choices remain, he/she makes no further
 applications.) Each hospital holds its q most preferred acceptable applications to date, and rejects the rest.
 •

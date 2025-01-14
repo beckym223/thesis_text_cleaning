@@ -1,6 +1,6 @@
 Note that market designers are not mostly academics: the design of marketplaces
-offers rich rewards to entrepreneurs, who must also experiment to develop, main-
-tain, and defend marketplaces that attract wide and steady participation. So market design as an emerging academic discipline not only helps in the design of new mar -
+offers rich rewards to entrepreneurs, who must also experiment to develop, maintain,
+and defend marketplaces that attract wide and steady participation. So market design as an emerging academic discipline not only helps in the design of new mar -
 kets and marketplaces, it helps us better understand a large part of the general econ-omy. And markets may be becoming even more important as computerized markets together with mobile computing and communication make marketplaces ever more omnipresent. This is changing the boundaries of firms as more things that firms have traditionally done internally (like record keeping, computing, and logistics) become available through markets.
 In conclusion, in honor of its centennial in 1990, the Economic Journal solicited
 a set of papers looking into the next 100 years of various parts of economics. I was tasked with looking into the future of game theory. Noting that game theory itself was not yet 50 years old (counting from von Neumann and Morgenstern 1944), I confined myself to looking ahead only 50 years. It seemed to me then that, looking ahead, the prospects were mixed—game theory had delivered important conceptual insights, but if we wanted it to remain a foundation of economics we would have to do more. Here is part of the final paragraph (Roth 1991b):

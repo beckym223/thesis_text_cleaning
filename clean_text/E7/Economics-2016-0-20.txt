@@ -1,20 +1,20 @@
 of 6 percent - the largest value they could justify was 0.35 percent. As a result of
 this calibration exercise a long and interesting literature ensued.
-Although such examples of predictions about magnitude are uncommon, eco-
-nomic theory does make some rather precise predictions about effect sizes, namely
+Although such examples of predictions about magnitude are uncommon, economic
+theory does make some rather precise predictions about effect sizes, namely
 for variables that should have no effect at all on behavior. For example the following
 things should not matter: the framing of a problem, the order in which options are
 displayed, the salience of one option over another, the presence of a prior sunk cost
 (or gain), whether the customer at a restaurant can see the dessert options when
-choosing whether to stick to the planned diet, and so forth. I call these, and a mul-
-titude of other possible variables that can and do influence choices, "supposedly
-irrelevant factors" or SIFs. One of the most important ways in which behavioral eco-
-nomics can enrich economic analyses is by pointing out the SIFs that matter most.
+choosing whether to stick to the planned diet, and so forth. I call these, and a multitude
+of other possible variables that can and do influence choices, "supposedly
+irrelevant factors" or SIFs. One of the most important ways in which behavioral economics
+can enrich economic analyses is by pointing out the SIFs that matter most.
 One domain in which the potential importance of SIFs has been best documented
 is retirement saving. In a standard life-cycle model Econs compute their optimal
 consumption path and then implement a plan of saving, investing, and eventually
-dis-saving that maximizes lifetime utility, fully incorporating proper actuarial prob-
-abilities of mortality, rates for husband and wife as well as risks of divorce, illness,
+dis-saving that maximizes lifetime utility, fully incorporating proper actuarial probabilities
+of mortality, rates for husband and wife as well as risks of divorce, illness,
 and so forth. This is a problem that makes playing world-class chess seem easy.
 Chess has neither uncertainty nor self-control problems to muck up the works. So
 it should not be surprising that many Humans have trouble dealing with retirement
@@ -38,9 +38,9 @@ enrollment rates for new employees in 1998 under the old "opt in" regime to thos
 enrollment, only 49 percent of employees joined the plan within their first year of
 employment; after the switch to automatic enrollment, 86 percent of the employees
 were enrolled in their first year. Supposedly irrelevant indeed! By now automatic
-enrollment is widespread. More than half of large US employers are using the con-
-cept and the United Kingdom is in the process of rolling out a national defined con-
-tribution savings plan with this feature. Most plans, including the national UK plan,
+enrollment is widespread. More than half of large US employers are using the concept
+and the United Kingdom is in the process of rolling out a national defined contribution
+savings plan with this feature. Most plans, including the national UK plan,
 find that opt out rates are around 10 percent.
 One problem with automatic enrollment is that many plans initially enroll
 employees at a low savings rate; in the United States it is often just 3 percent of pay.

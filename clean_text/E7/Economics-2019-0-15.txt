@@ -31,8 +31,8 @@ for example  η
 
 ∞
 
-so the production function is linear and capital accumula-
-tion has no effect on either wages or rates of return to capital, this second effect is equal to 0.
+so the production function is linear and capital accumulation
+has no effect on either wages or rates of return to capital, this second effect is equal to 0.
 So far, I just replicated the analysis in Diamond.
 19 Now I introduce uncertainty in
 production, so the marginal product of capital is uncertain. If people are risk averse, the average safe rate will be less than the average marginal product of capital. The basic question becomes: what is the relevant rate we should look at for welfare pur -
@@ -84,4 +84,4 @@ R
 t+1  f   , which must satisfy
 
 R
-t+1  f   E [U′ ( C 2,t+1  ) ]  = E  [ R t+1  U′ ( C 2,t+1  ) ] 
+t+1  f   E [U′ ( C 2,t+1  ) ]  = E  [ R t+1  U′ ( C 2,t+1  ) ]

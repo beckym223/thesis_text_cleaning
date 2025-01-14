@@ -1,8 +1,8 @@
 to be smaller in FRB/US than in other models (Chung 2015, Kiley and Roberts
 2017). Nevertheless, to be conservative, I imposed the restriction that agents do not
 expect forward guidance to be effective for more than 28 quarters. After that, they
-expect policy to revert to the baseline Taylor rule. Assuming that guidance is cred-
-ible for as long as 28 quarters seems reasonable, because the guidance is at worst
+expect policy to revert to the baseline Taylor rule. Assuming that guidance is credible
+for as long as 28 quarters seems reasonable, because the guidance is at worst
 mildly  time-inconsistent—the implied overshoots of the inflation target are small
 and might well be welcome if the FOMC were concerned about reinforcing the
 credibility of its symmetric inflation target after a period of inflation undershoot. In
@@ -19,5 +19,5 @@ QE(D) policy, the most activist, is initiated when the output gap is 2.5 percent
 pace of $50 billion per quarter for each percentage point that the output gap exceeds
 2.5 percent. For each of the QE programs, when the output gap shrinks sufficiently,
 asset purchases are assumed to end, and the central bank’s balance sheet begins a
-gradual  wind-down. (See Kiley 2018 or the online Appendix for precise specifica-
-tions.) The simulations keep track of the size of the central bank’s balance she
+gradual  wind-down. (See Kiley 2018 or the online Appendix for precise specifications.
+) The simulations keep track of the size of the central bank’s balance she

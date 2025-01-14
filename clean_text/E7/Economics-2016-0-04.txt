@@ -1,12 +1,12 @@
 stop the leak, and when it did not rain, there was no leak to be stopped!" Keynes (1936,
 p. 154) anticipated much of what is now called behavioral finance in the General
-Theory. For example, he observed that "Day-to-day fluctuations in the profits of exist-
-ing investments, which are obviously of an ephemeral and non-significant character,
+Theory. For example, he observed that "Day-to-day fluctuations in the profits of existing
+investments, which are obviously of an ephemeral and non-significant character,
 tend to have an altogether excessive, and even absurd, influence on the market."
 Many economists even thought that psychology (then still in its infancy) should
-play an important role in economics. Pareto (1906, p. 21) wrote that "The founda-
-tion of political economy, and, in general of every social science, is evidently psy-
-chology. A day may come when we shall be able to decide the laws of social science
+play an important role in economics. Pareto (1906, p. 21) wrote that "The foundation
+of political economy, and, in general of every social science, is evidently psychology.
+A day may come when we shall be able to decide the laws of social science
 from the principles of psychology." John Maurice Clark (1918, p. 4), the son of John
 Bates Clark, went further. "The economist may attempt to ignore psychology, but it
 is sheer impossibility for him to ignore human nature ... If the economist borrows
@@ -21,16 +21,16 @@ sense suggestion fail to gain much traction for so long?
 II. Explainawaytions
 In the process of making economics more mathematically rigorous after World
 War II, the economics profession appears to have lost its good intuition about human
-behavior. Defective telescopic facilities were replaced with time-consistent expo-
-nential discounting. Over-weening conceits were replaced by rational expectations.
-And ephemeral shifts in animal spirits were replaced by the efficient market hypoth-
-esis. Economics textbooks no longer had any Humans. How did this happen?
+behavior. Defective telescopic facilities were replaced with time-consistent exponential
+discounting. Over-weening conceits were replaced by rational expectations.
+And ephemeral shifts in animal spirits were replaced by the efficient market hypothesis.
+Economics textbooks no longer had any Humans. How did this happen?
 I believe that the most plausible explanation is that models of rational behavior
 became standard because they were the easiest to solve. This conjecture is not meant
 as a put-down. One begins learning physics by studying the behavior of objects in
 a vacuum; atmosphere can be added later. But physicists never denied the existence
-or importance of air; instead they worked harder and built more complicated mod-
-els. For many years, economists reacted to questions about the realism of the basic
+or importance of air; instead they worked harder and built more complicated models.
+For many years, economists reacted to questions about the realism of the basic
 model by doing the equivalent of either denying the existence of air, or by claiming
 that it just didn't matter all that much. Matthew Rabin has dubbed these defensive
 reactions as "explainawaytions."1

@@ -6,8 +6,8 @@ set of practical enhancements that lead to better predictions about behavior. So
 most of these behavioral enhancements focus on two broad topics: preferences and
 beliefs.
 A. Behavioral Preferences
-Prospect theory is a good illustration of a model based on assumptions about pref-
-erences that differ from the ones used to derive expected utility theory. Specifically,
+Prospect theory is a good illustration of a model based on assumptions about preferences
+that differ from the ones used to derive expected utility theory. Specifically,
 most of prospect theory's predictive power comes from three crucial assumptions
 about preferences. First, utility is derived from changes in wealth relative to some
 reference point, rather than levels of wealth, as is usually assumed in theories

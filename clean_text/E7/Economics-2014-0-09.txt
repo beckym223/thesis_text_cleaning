@@ -7,13 +7,13 @@ The main takeaway is that what is going on within occupations - even when there
 are 469 of them as in the case of the Census and ACS - is far more important to the
 gender gap in earnings than is the distribution of men and women by occupations.
 That is an extremely useful clue to what must be in the last chapter. If earnings gaps
-within occupations are more important than the distribution of individuals by occu-
-pations then looking at specific occupations should provide further evidence on how
+within occupations are more important than the distribution of individuals by occupations
+then looking at specific occupations should provide further evidence on how
 to equalize earnings by gender. Furthermore, it means that changing the gender mix
 of occupations will not do the trick.
-Gender Differences in Pay for High-Earning Occupations. - To further under-
-stand differences by occupations, I estimate log earnings equations using the 2009
+Gender Differences in Pay for High-Earning Occupations. - To further understand
+differences by occupations, I estimate log earnings equations using the 2009
 to 2011 ACS including various observables, such as a quartic in age, education
-dummies, race, years, log hours, and log weeks. The regression also includes occu-
-pation dummies, a female dummy, and an interaction of occupation and female.
+dummies, race, years, log hours, and log weeks. The regression also includes occupation
+dummies, a female dummy, and an interaction of occupation and female.
 Three versions of the residual gender difference by occupation have been g

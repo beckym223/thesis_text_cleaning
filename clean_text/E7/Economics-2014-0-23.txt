@@ -1,7 +1,7 @@
 B. Law ( JD ): Nonlinear Occupations
 The gender gap in earnings between male and female JDs, graduating from the
-University of Michigan Law School from 1982 to 1991, is nil at the start of employ-
-ment. The gap is small and insignificant at year 5, after controlling for hours, weeks
+University of Michigan Law School from 1982 to 1991, is nil at the start of employment.
+The gap is small and insignificant at year 5, after controlling for hours, weeks
 and time off, as can be seen in Table 3, columns 1 to 3.40 But as in the case of the
 MBAs the gap balloons to around 55 log points by year 15 in a longitudinal sample
 40The University of Michigan Alumni Survey Research Dataset is used, which includes alumni surveys from  1967 through 2006 for persons graduating from 1952 to 2001 together with administrative data on each alumnus.  The surveys were sent to classes 5, 15, 25, 35, and 45 years after receiving their JD. Because response rates for the  cross-section data are high (in the 60 percent range), surveys were later linked, where possible, to create a longitu-  dinal dataset. The information used here is from the longitudinal data linking individuals from graduation to years  5 and 15. See Wood, Corcoran, and Courant (1993) for similar work using a much earlier form of the cross-section  data and Noonan, Corcoran, and Courant (2005) for work that uses the more recent longitudinal sample

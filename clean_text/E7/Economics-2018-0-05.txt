@@ -1,13 +1,13 @@
 and may even preclude the existence of impersonal equilibrium prices for individual
 licenses. These complex auctions need to match bidders with the right units (and packages) of the licenses being auctioned.
-9 Wilson (2002) discusses different com-
-plexities in the markets for electricity, in which the time and place of delivery face (and impose) constraints on the electricity network.
+9 Wilson (2002) discusses different complexities
+in the markets for electricity, in which the time and place of delivery face (and impose) constraints on the electricity network.
 And in many markets, you care with whom you are dealing. In matching mar -
 kets, you can’t just choose what you want, even if you can afford it: you also must be chosen.
 10 So prices don’t do all the work of deciding who is matched to whom:
 marketplaces that serve matching markets must be able to do more than price dis-covery. Regulators take note: because matching marketplaces must do more than marketplaces for commodity markets, they may need to facilitate additional kinds of coordination, and so preserving competition in matching markets may involve different kinds of regulation.
-Matchmaking is an old form of market making, but new technologies are mak-
-ing new kinds of matching markets possible. For example, Airbnb, which matches travelers and hosts, is in many ways an outgrowth of internet technology, while ride-sharing marketplaces like Uber, which match passengers with nearby drivers, depend on smartphones that know the location of the passenger and of available cars.
+Matchmaking is an old form of market making, but new technologies are making
+new kinds of matching markets possible. For example, Airbnb, which matches travelers and hosts, is in many ways an outgrowth of internet technology, while ride-sharing marketplaces like Uber, which match passengers with nearby drivers, depend on smartphones that know the location of the passenger and of available cars.
 11 The ride-sharing/taxi markets will be transformed again (likely along with
 automobile ownership) when self-driving cars become common (cf. Ostrovsky and Schwarz 2018).
 College admissions and labor markets are good examples of matching markets.

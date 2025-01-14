@@ -1,6 +1,6 @@
 revealed that, in a change unexpected by the primary dealers, bonds between 10 and
-30 years maturity would make up only about 6 percent of planned purchases, com-
-pared to 15 percent in earlier rounds. If the portfolio balance channel is operating,
+30 years maturity would make up only about 6 percent of planned purchases, compared
+to 15 percent in earlier rounds. If the portfolio balance channel is operating,
 that news should have led to a decline in the prices and a rise in the yields of the
 longer-maturity bonds, relative to those with shorter maturity. That was indeed what
 the authors found.
@@ -15,8 +15,8 @@ or as the size of the central bank’s balance sheet increases. These results, w
 have been replicated in a number of studies, including for the United Kingdom,
 once again do not support the view that QE is only effective when markets are
 dysfunctional.9
-Cahill et al. (2013), like most studies in this literature, looks at the differen-
-tial impact of asset purchase programs on Treasury debt of varying maturity. But
+Cahill et al. (2013), like most studies in this literature, looks at the differential
+impact of asset purchase programs on Treasury debt of varying maturity. But
 the Fed’s purchase programs also differed in how they treated Treasuries versus
 mortgage-backed securities, with QE1 including substantial MBS purchases for
 example, but QE2 involving only purchases of Treasuries. If portfolio balance
@@ -35,8 +35,8 @@ they found that QE2 and the Maturity Extension Program, neither of which include
 MBS purchases, did not differentially affect rates on  GSE-eligible mortgages and
 jumbo mortgages.
 Note that studies of the  cross-sectional  asset-price impacts of QE announcements
-should reflect only portfolio balance effects. Studies have also found evidence of sig-
-naling effects, that is, QE announcements tend to be associated with changes in the
+should reflect only portfolio balance effects. Studies have also found evidence of signaling
+effects, that is, QE announcements tend to be associated with changes in the
 expected path of  short-term interest rates (Bauer and Rudebusch 2014). In the “taper
 tantrum” episode of 2013, market participants were surprised by my comments in a
 congressional testimony and a press conference that asset purchases might s

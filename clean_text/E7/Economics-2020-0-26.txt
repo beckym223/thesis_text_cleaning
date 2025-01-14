@@ -1,7 +1,7 @@
 Some New Simulation Results:  In the rest of this lecture, I present new simulation
 results aimed at assessing how much policy space the new monetary tools could
-provide prospectively. Like the papers described immediately above, I employ sto-
-chastic simulations of FRB/US to compare expected economic performance under
+provide prospectively. Like the papers described immediately above, I employ stochastic
+simulations of FRB/US to compare expected economic performance under
 alternative monetary policy frameworks, given historically realistic patterns of
 shocks. So as to consider cases in which the lower bound is an important constraint,
 I assume that the real and nominal neutral interest rates remain historically low.
@@ -11,19 +11,19 @@ will also assume that the central bank’s inflation target is 2 percent and tha
 inflation expectations are anchored at that level. If   i   ∗   is the nominal neutral interest
 rate, then the two cases considered correspond to   i   ∗   = 3 and   i   ∗   = 2. We know from
 Kiley and Roberts (2017) that   i   ∗   = 3 is sufficiently low as to lead, under traditional
-monetary policies, to frequent encounters with the lower bound. However, it is pos-
-sible of course that the nominal neutral rate is, or will become, lower even than my
+monetary policies, to frequent encounters with the lower bound. However, it is possible
+of course that the nominal neutral rate is, or will become, lower even than my
 assumed case of   i   ∗   = 2. I return to this possibility below.
 The alternative policies to be evaluated are listed in the leftmost panels of Tables
 3 and 4. Briefly, the policies considered are as follows.
 Baseline Rules.—The traditional policy approach, taken here as the baseline, is
 represented by variants of the standard Taylor (1993) rule. I assume the “balanced
-approach” version of the rule, which gives greater relative weight to unemploy-
-ment than Taylor’s original formulation (Yellen 2017). I assume also that the rule
+approach” version of the rule, which gives greater relative weight to unemployment
+than Taylor’s original formulation (Yellen 2017). I assume also that the rule
 is inertial, that is, the policy rate depends in part on the lagged policy rate, with a
 coefficient of 0.85 in quarterly data. I report results for the central case in which the
-central bank’s inflation target equals 2 percent (  π   ∗   = 2) but also for alternative infla-
-tion targets (  π   ∗   = 4 and   π   ∗   = 5). Higher inflation targets are assumed here to result
+central bank’s inflation target equals 2 percent (  π   ∗   = 2) but also for alternative inflation
+targets (  π   ∗   = 4 and   π   ∗   = 5). Higher inflation targets are assumed here to result
 in  one-for-one increases in the nominal neutral rate, thereby affording more policy
 space. Also reported are results for the case, labeled “unconstrained” in the tables, in
 which   π   ∗   = 2 but the constraint imposed by the zero lower bound on the  short-term

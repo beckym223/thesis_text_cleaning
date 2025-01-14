@@ -5,16 +5,16 @@ The evidence described so far suggests that, once we control for the fact that m
 ket participants substantially anticipated later rounds of QE, the impact of asset pur -
 chases did not significantly diminish over time, as financial conditions calmed, or as
 the stock of assets held by the central bank grew. That still leaves the second broad
-objection to the  event-study evidence, that those studies prove only that announce-
-ments of asset purchases have  short-run effects on asset prices and yields. If the
+objection to the  event-study evidence, that those studies prove only that announcements
+of asset purchases have  short-run effects on asset prices and yields. If the
 effects of announcements are quickly reversed, then QE programs would likely be
 ineffective in stimulating the economy.
 The claim that the effects of QE announcements were mostly transitory, due for
 example to pure liquidity effects, is not particularly persuasive on its face. The nor -
 mal presumption is that the effects on asset prices identified by event studies should
 be largely persistent, even if the event window is relatively short. If that were not
-the case—if the effects of asset purchase announcements were predictably tempo-
-rary—then smart investors could profit by betting on reversals. Indeed, in a response
+the case—if the effects of asset purchase announcements were predictably temporary—
+then smart investors could profit by betting on reversals. Indeed, in a response
 to Wright (2011), Neely (2016) showed that time series models that imply reversals
 of the effects of QE announcements do not predict asset prices as well out of sample
 as the simple assumption that asset prices tomorrow will be the same as today. In
@@ -22,15 +22,15 @@ other words, predicting reversals of the effects of asset purchase programs is n
 a  money-making strategy, as we should expect. Moreover, Neely (2010), Gagnon
 et al. (2011), and many others found that the prices of assets not subject to Fed
 purchases—including corporate bonds, equities, the dollar, and a variety of for -
-eign assets—moved substantially following announcements of asset purchase pro-
-grams, and in much the same way as following conventional policy announcements.
+eign assets—moved substantially following announcements of asset purchase programs,
+and in much the same way as following conventional policy announcements.
 QE also appeared to stimulate the global issuance of corporate bonds (Lo Duca,
 Nicoletti, and Martinez 2016) and to reduce the cost of insuring against corporate
 credit risk via credit default swaps (Gilchrist and Zakrajšek 2013). The  cross-asset
 impacts seem inconsistent with the view that the  event-study findings reflect only
 asset-specific liquidity effects.10
-As noted earlier, proponents of the view that QE had only transient effects some-
-times point out that  longer-term yields did not reliably decline during periods in
+As noted earlier, proponents of the view that QE had only transient effects sometimes
+point out that  longer-term yields did not reliably decline during periods in
 which the Fed was executing its announced asset purchases. In part, this pattern can
 be explained by the confounding influences on yields of other factors, including fiscal
 policy, global conditions, and changes in sentiment. For example, the rise in yields
