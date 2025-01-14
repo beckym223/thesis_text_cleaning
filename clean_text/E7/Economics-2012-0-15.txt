@@ -1,8 +1,3 @@
-PPP McWage ratio
-Figure 6. The McWaoe Adjusted for Purchasing Power Parity Prices Compared to
-Big Macs per Hour of Work (BMPH), 62 Countries, 2007
-Notes: The McWage is adjusted for purchasing power parity (PPP) prices in 2005, the latest  year available. The PPP-adjusted McWage and Big Macs Per Hour are each expressed relative  to the US level, and displayed with a 45 degree line.
-Source: Author's calculations: Penn World Table (http://pwt.econ.upenn.edu/php_site/pwt70/  pwt70_form.php).
 Figure 6 provides a comparison of the McWage deflated by two different price
 indexes. The data in Figures 4 and 5 refer to wages measured in a common currency,
 and they may therefore be considered as measured in the price of tradable com

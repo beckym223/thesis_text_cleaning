@@ -1,20 +1,3 @@
-Table 4—Comparing Hypothetical Measures of Total Factor Productivity, 2007
-Economic region Hypothetical TFP based on output/capita Hypothetical TFP based on McWage
-US 1.00 1.00
-Canada 0.91 0.93
-Russia 0.37 0.32
-South Africa 0.26 0.23
-China 0.21 0.11
-India 0.15 0.06
-Japan 0.90 1.01
-The rest of Asia* 0.29 0.14
-Eastern Europe* 0.33 0.27
-Western Europe* 1.00 1.29
-Middle East* 0.29 0.13
-Latin America* 0.36 0.16
-Oceania* 0.95 1.50
-Notes: "Hypothetical TFP based on adjusted output/capita" is based on the method in Hall and Jones (1999)  updated by the author to 2007 using PWT7.0, but assuming that capital/output ratios are the same in all regions.  "TFP measured by relative McWages" is the McWage Ratio for each region. Both TFP measures are expressed  relative to the US level. Economic regions are aggregated using population weights from 2010. The Rest of Asia  includes Hong Kong, Indonesia, South Korea, Sri Lanka, Malaysia, Philippines, Singapore, and Thailand; the  Eastern Europe includes Czech Republic, Estonia, Lithuania, Latvia, Poland, and Ukraine; the Western Europe  includes Austria, Belgium, Switzerland, Germany, Denmark, Spain, Finland, France, UK, Ireland, Italy, Netherland,  Norway, and Sweden; the Middle East includes Egypt, Israel, Morocco, Pakistan, Saudi Arabia, and Turkey; the  Latin America includes Argentina, Chile, Colombia, Dominican Republic, Ecuador, Guatemala, Honduras, Mexico,  Peru, El Salvador, Uruguay, and Venezuela; Oceania includes Australia and New Zealand.
-Source: Author s calculation.
 is impressive, especially in view of the simplicity with which it is possible to esti
 mate TFP from wage-rate differences. Since the adjustment for capital/output ratios
 plays such a small role in these calculations (see Hall and Jones 1999, Table 1), it is
@@ -29,4 +12,3 @@ ket would also undermine the usefulness of wage rates for this purpose.13
 VI. Comparing Changes in Real Wages
 Table 5 and Figures 10,11, and 12 provide details on wage and pnce changes over
 the period 2000-2007. Data were collected for a much more limited set of countries
-12This does not necessarily mean that the marginal product of a worker in the sector covered by a minimum  wage statute differs from the wage rate actually paid, but it does mean that the wage structure has been altered. The  resulting distortion of relative wages means that the McWage does not serve as a way to measure differences in  the overall level of wage rates in a country's labor market.  13 Without competitive labor and product markets the firm's first-order condition for profit maximization requires  that marginal revenue product equal marginal factor cost. The former will generally be lower than the firm's output  price, and the latter will generally be greater than the wage rate, which means that in either case the real wage rate  (measured in terms of the firm's product price) is not equal to the marginal product of labor.

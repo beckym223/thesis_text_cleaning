@@ -39,4 +39,4 @@ icies. The analysis assumes that countries maximize their national economic wel-
 fare and ignores partisan, ideological, myopic, and other nonoptimizing behaviors.
 While history is full of wooden-headed actions of countries and their leaders, as
 well as policies that are farsighted and attend to global welfare, attempting to incor-
-porate these features is beyond the scope of this study of climate regimes.
+porate these features is beyond the scope of this study of 

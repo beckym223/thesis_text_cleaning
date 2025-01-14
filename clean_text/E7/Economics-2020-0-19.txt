@@ -31,19 +31,4 @@ cushion to the Fed’s ability to make payments to the Treasury. Additional cush
 is provided by securities owned by the Fed prior to the introduction of QE, which
 enjoyed capital gains when yields fell. Second, since the Fed earns the  long-term
 interest rate on its holdings of bonds but pays the  short-term interest rate on bank
-reserves, it earns a net positive return when the yield curve has its normal upward
-14 On the distributional effects of monetary policy, see, for example, Bivens (2015) for the United States,
-Ampudia et al. (2018) for the euro area, and Bunn, Pugh, and Yeates (2018) for the United Kingdom. Aaronson et
-al. (2019) documents the benefits to  lower-wage workers of a “hot” labor market. The argument that easy money
-increases wealth inequality is slightly more plausible than that it increases income inequality, because of its effects
-on asset prices. Note though that the benefits to asset holders of higher asset prices are partially offset by the lower
-returns they can earn on their wealth.
-15 Assuming that securities are held to maturity, the effect on remittances would be indirect, arising only at the
-point that the  short-term rate paid by the Fed on reserves rises sufficiently relative to the returns on its portfolio. See
-Bonis, Fiesthumel, and Noonan (2018). Cavallo et al. (2018) discusses the fiscal implications of the Fed’s balance
-sheet under various scenarios.
-16 In the United Kingdom, the central bank was backstopped by the Treasury, but there were no such arrange-
-ments in the United States or, to my knowledge, in other major economies. Such arrangements avoid direct capital
-losses on the central bank’s balance sheet but have the downside of possibly compromising the independence of
-monetary policy. Also, a Treasury backstop does not necessarily avoid adverse political consequences since the
-taxpayer still bears the ultimate costs if losses occur.
+reserves, it earns a net positive return when the yield curve has its norm

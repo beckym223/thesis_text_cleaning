@@ -41,5 +41,4 @@ income of the spouse. About 16.5 percent of JD women, and 21 percent of those
 with children of any age, are not in the labor force by year 15.
 Spousal income is an important determinant of who stays and who leaves employ-
 ment at year 15. JD women with children who are married to men in the upper 30
-percent of the earnings distribution (more than $200K per year, in US$2007) have
-41 The gender gap is less than 10 log points if making partner by year 15 or remaining in a law firm from year 5  to year 15 is included.
+percent of the earnings distribution (more than $200K per year, in US$20

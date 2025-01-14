@@ -16,4 +16,3 @@ world, and surprises in returns on government debt from these two mechanisms
 are substantial. Figure 1 shows a time series of surprise gains and losses on US
 government debt as a fraction of GDP.6 The surprise gains and losses relative to
 GDP have been of the same order of magnitude as year to year fluctuations in the
-6The order of magnitude of the surprise gains and losses in the chart is robust to various ways of computing  them, but the time path itself is not. Different ways of computing expected inflation and one-year returns on long  debt change the results. The results in the chart treat the Federal Reserve system as outside the government, so  its gains and losses are included. Since 2009, with the Fed's expanded balance sheet and interest being paid on  reserves, treatment of it as inside or outside the government matters a great deal, and proper treatment of its interest  bearing reserve liabilities is a challenge. See the data Appendix.

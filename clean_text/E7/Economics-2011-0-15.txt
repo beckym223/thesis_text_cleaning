@@ -1,8 +1,3 @@
-6.0 n
->
-MA
-I 4.0
-Figure 11. A Long Period with the Nominal Short Rate Pinned at Zero
 of any significant difference between risk premiums in prolonged slumps and in
 normal times. In particular, slumps are not times of high volatility in asset markets
 or elsewhere in the economy.

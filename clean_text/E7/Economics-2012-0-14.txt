@@ -1,9 +1,0 @@
-McWage ratio
-Figure 4. The McWage Compared to BLS Wage Estimates, 30 Countries, 2007
-Notes: The Me Wage and the BLS wage estimates for manufacturing are each expressed relative  to the US level, and displayed with a 45 degree line. This implies that the United States is at the
-point 1,1.
-Sources: Author s calculations; BLS <ftp://ftp.bls.gov/pub/special.requests/ForeignLabor/>.
-McWage ratio
-Figure 5. The McWage Compared to ILO Wage Estimates, 19 Countries. 2007
-Notes: The McWage and the ILO wages for laborers are each expressed relative to the US  level, and displayed with a 45 degree line. Denmark has a McWage ratio of 2.57 and an ILO  wage ratio of 3.13, off the dimensions of the chart.
-Source: Author's calculations; the ILO October Inquiry (http://laborsta.ilo.org/).

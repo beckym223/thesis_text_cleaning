@@ -8,15 +8,3 @@ has averaged 5.6 percent, while nominal GDP growth has averaged 6.3 percent.6
 • Both the 1-year rate and the 10-year rate were consistently below the growth
 rate until the disinflation of the early 1980s. Since then, both nominal inter -
 est rates and nominal growth rates have declined, with rates declining faster than growth, even before the financial crisis. Overall, while nominal rates vary
-from 55 countries since 1800. Their results, summarized in their Table 2, show that the safe interest rate has been
-on average lower than the growth rate, both for the group of advanced countries, and for the group of non-advanced economies. (For those who want to go back even further in time, data on the safe rate going back to the 14th century
-have been put together by Schmelzing 2019 and show a steady decrease in the rate over 6 centuries.)
-5 Equivalently, if one uses the same deflator, real interest rates have been lower than real growth rates. Real
-interest rates are however often computed using CPI inflation rather than the GDP deflator.
-6 Using Shiller’s numbers for interest rates and historical BEA series for GDP, over the longer period 1871 to
-2018, the 1-year rate has averaged 4.6 percent, the 10-year rate 4.6 percent, and nominal GDP growth 5.3 percent.Figure 2. Nominal GDP Growth Rate and 10-Year Bond Rate, 1950–2018Figure 1. Nominal GDP Growth Rate and 1-Year T-Bill Rate, 1950–2018−4−202468101214161/uni2010year/uni00A0T-bill/uni00A0rate
-Nominal/uni00A0growth/uni00A0rate
-19501952195419561958196019621964196619681970197219741976197819801982198419861988199019921994199619982000200220042006200820102012201420162018
-Nominal/uni00A0growth/uni00A0rate
-−4−20246810121416Nominal/uni00A010/uni2010year/uni00A0rate
-19501952195419561958196019621964196619681970197219741976197819801982198419861988199019921994199619982000200220042006200820102012201420162018

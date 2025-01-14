@@ -1,31 +1,3 @@
-Table 4?Alternative Global Poverty Counts and Poverty Lines  MARCH 2010
-Number of
-country lines
-15
-14 50 Averaging
-method
-Simple
-Simple
-Poverty  PPP weighting
-type
-P3 P4
-P4
-Formula
-ICP
-GEKS
-GEKS  Line in $ or
-rupees
-$1.25 R18.97
-R 16.04
-Line in
-"star" $
-1.064 0.922 Number of
-poor, millions
-1,3)9
-1,164 874
-Notes: The first line shows the official procedure. The global poverty line is a simple average of national poverty  lines of 15 countries, using a plutocratic PPP for consumption and incorporating the various aggregation procedures  employed in the ICP. The resulting line is $1.25 per person per day in 2005 international dollars, and the resulting pov  erty count is 1,319 million. (This number differs from the estimate in Table 1, taken from World Bank, 2008, because  of later revisions.) The second row uses 14 of the 15 countries for which there are household surveys, and calculates  poverty weighted PPPs, again with a simple average of the 14 national lines. The P4s are calculated using (Gini) EKS  Fisher aggregation and give a global line of 18.97 international rupees per day. The final line uses 50 national lines,  which are poverty-count weighted. The conversion of the P4 lines to dollars is carried out using a "star" PPP calcula  tion that uses an average of dollar to international rupee conversions over 62 poor countries; see text and Deaton and
-Dupriez (2009) for details.
-Source: Extracted from Deaton and Dupriez (2009, Tables 11, 14, and 15).
 companies), prostitution, and actual and implicit rental for housing. This drop is largely driven by
 housing rental, and by replacing the neutral volume assumption by the neutral price assumption,
 as discussed above. Once we switch to surveys as the source for the aggregate weights, but still

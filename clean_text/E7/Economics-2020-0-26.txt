@@ -39,5 +39,4 @@ thresholds based on the unemployment rate (not reported), with results that were
 qualitatively similar to the policies using inflation thresholds.
 In some standard models, the implied effects of forward guidance on the economy
 are implausibly large, the  so-called forward guidance puzzle (Del Negro, Giannoni,
-and Patterson 2012; McKay, Nakamura, and Steinsson 2016). The  puzzle appears
-20 Specifically, inflation is defined as the  four-quarter percent change in the core PCE price index.
+and Patterson 2012; McKay, Nakamura, and Steinsson 2016). The  puzzle

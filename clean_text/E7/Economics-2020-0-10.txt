@@ -39,9 +39,4 @@ of the 217 basis point decline in  10-year Treasury yields between the Lehman fa
 and the taper tantrum. Altavilla, Carboni, and Motto (2015) and Eser et al. (2019)
 estimated related models for the euro area, likewise finding that ECB purchases had
 sizable and persistent impacts on asset prices—notwithstanding, once again, that the
-ECB’s program was announced at a time of low financial distress.
-11 For a summary of this approach and its findings, see Bonis, Ihrig, and Wei (2017). This work builds on Li and
-Wei (2013) and Hamilton and Wu (2012), the latter of whom find somewhat weaker effects of asset purchases. A
-number of papers use regression methods to assess the effects of bond supply on term premiums, e.g., Gagnon et
-al. (2011); the line of research typified by Ihrig et al. (2018) can be seen as an attempt to impose greater structure
-(including the  no-arbitrage condition) on this approach. See also Greenwood and Vayanos (2014).
+ECB’s program was announced at a time of low financial dis

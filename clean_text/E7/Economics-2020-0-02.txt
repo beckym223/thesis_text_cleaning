@@ -36,10 +36,4 @@ that, both actively used in recent years, are (i) central bank purchases of  lon
 financial assets (popularly known as quantitative easing, or QE), and (ii) communi-
 cation from monetary policymakers about their economic outlooks and policy plans
 (forward guidance).4 I’ll discuss QE first, returning later to forward guidance, as
-well as to some other new tools used primarily outside the United States.
-3 The term effective lower bound embraces the possibility of negative  short-term rates. In the United States, thus
-far the effective lower bound has been zero. I will use the term “lower bound” for short.
-4 The popular use of the term QE blurs a useful distinction: QE as practiced by the Fed was importantly differ -
-ent from the QE undertaken by the Bank of Japan before the crisis. The former emphasized the effects of buying
-longer-term assets on  longer-term interest rates, the latter the effects of purchase on bank reserves and the monetary
-base. In general, increases in reserves per se should have limited benefit in a liquidity trap, being only a swap of
+well as to some other new tools used primarily outside the United Sta

@@ -1,21 +1,3 @@
-Table 8?Global and Regional Tracking of Living Standards, 2006 to 2009
-(Average scores for ladder, percentages of the population for other measures)
-_2006 (base)_2007_2008_2009
-World
-Ladder 5.33 5.42 5.36 5.43
-No money for food 32.5 26.3 24.9 29.0
-Living standards poor 37.9 36.4 38.2 38.6
-In difficulty ? 39.3 40.5 43.1
-Sub-Saharan Africa
-Ladder 4.25 4.60 4.56 4.57
-No money for food 55.0 50.8 56.3 56.8
-Living standards poor 61.4 58.8 62.3 62.6
-In difficulty ? 58.3 60.3 67.6
-South Asia
-Ladder 5.18 5.02 5.01 5.29
-No money for food 33.3 26.0 23.6 28.4  Living standards poor 36.0 35.1 38.6 43.0
-In difficulty ? 54.7 55.4 58.7
-Notes: Except for "In difficulty" for which the base year is 2007, the population weighted  global average for 2006 is given in the first column. For "in difficulty" the second column  shows the global average for 2007. All columns are the predicted values of a population  weighted factor regression in which the relevant measure is regressed on a set of year and  country dummies. The World regressions are run for all countries pooled, while the regional  regressions pool data over all countries in the region. The ladder on a scale from 0 to 10. The  other measures are changes in percentages.
 income, something that holds out the hope of measuring the living standards near the bottom of  the distribution around the world.
 On the supposition that the Gallup measures provide a useful indication of how people see
 their own lives, I conclude by using them to document changes in perceptions from 2006 to

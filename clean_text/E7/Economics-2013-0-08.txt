@@ -1,17 +1,3 @@
-Table 1—Debt to GDP Ratios and Government Bond Interest Rates
-for Five Countries
-Debt/GDP  Interest rate
-Spain  48
-5.64
-Italy  117  4.95
-US
-77  1.75
-Japan
-175
-0.77
-UK
-83  1.76
-Notes: Debt/GDP is for 2010 for all countries. Bond interest rate is for October, 2012 for all  countries except Japan; for Japan it is September 2012.
 fiscal deficit. Were they displayed as fractions of the value of outstanding debt, so
 they became surprises in rates of return, they would be much larger. It is clearly not
 a good approximation to model the US economy as if debt were real, even though a

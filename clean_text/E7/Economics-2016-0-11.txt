@@ -38,5 +38,4 @@ the quality of their predictions, and, if necessary, modify some of our theories
 III. Financial Markets3
 A good place to start in an evaluation of the potential importance of
 less-than-fully-rational agents is financial markets. I say this because financial mar-
-kets have the features that should make it hardest to find evidence of misbehavior.
-4 Of course some borrowers might have been planning all along to default and live rent free for as long as pos-  sible before walking away. They were then acting like Econs.  5 This section draws on Barberis and Thaler (2003).
+kets have the features that should make it hardest to find evidence of misb

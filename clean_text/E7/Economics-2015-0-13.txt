@@ -1,5 +1,3 @@
-Figure 1. Comparison of the Transnational Externality and the Impacts of Penalty Tariffs by Region
-Notes : The left-hand externality bar shows the transnational spillover for each-region for a $25 per ton global social cost  of carbon. The middle benefit bar shows the benefit of participating in a Climate Club with a penalty tariff of 2 percent  for clubs of 1 (that is, the region is the only participant). The right-hand cost bar shows the cost of not participating in a  Climate Club with a penalty tariff of 2 percent for clubs of 14 (that is, the region is the only nonparticipant).
 of leaving the club when all other countries are in. For example, the United States
 has a welfare loss of $10 billion when it does not participate and the penalty tariff is
 2 percent. (All figures are per year at 2011 incomes and prices.) This cost is below
@@ -20,4 +18,4 @@ But on the whole, an appropriate tariff appears to be remarkably well-calibrated
 the C02 externality.
 G. Tariffs as Sanctions for Global Public Goods
 Two simple but critical points concern the role of tariffs as sanctions. To begin
-with, they play the role of external penalties. This can be most easily seen in repeated
+with, they play the role of external penalties. This can be most easily seen in repe

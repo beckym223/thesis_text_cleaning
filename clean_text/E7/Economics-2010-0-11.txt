@@ -1,27 +1,3 @@
-Table 2?Ratio of Parity for Actual and Imputed Rlntal to Parity i or
-Household Individual Consumption, Selected Countries, 2005
-Country  Ratio of parities
-Country  Ratio of parities
-Chad
-Ethiopia  Gambia  Ghana  Guinea-Bissau  Malawi  Mali
-Mozambique
-Nepal 0.176 0.520
-0.110 0.048 0.259 0.150 0.525
-0.215 0.904
-Niger
-Rwanda
-Sierra Leone  Tanzania
-Tajikistan
-Uganda
-China
-India 0.832 0.602
-0.318 0.846 0.184 0.607
-0.119
-0.581
-Notes: The numbers shown are the ratios of the parity for actual and imputed rents to the par  ity for household individual consumption. China and India are shown for comparison.
-when we move to poverty measurement. The PPPs from the ICP for several of the 15 poverty
-reference countries are too high, and a failure to make a correction inflates the global poverty
-count by more than 100 million.
 Since 1990, the global poverty line has been set by taking the national poverty lines of a group
 of the poorest countries in the world, converting them to international dollars using PPPs from
 the ICP, and taking a simple average. Bringing in more countries is arguably an improvement

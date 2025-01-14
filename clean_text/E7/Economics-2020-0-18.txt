@@ -35,10 +35,4 @@ and outside the Fed, Board staff and FOMC participants worked to develop methods
 for raising the policy rate at the appropriate time—including the payment of interest
 on bank reserves, which would ultimately become the key tool. These efforts largely
 succeeded, as the Fed’s balance sheet has neared its new  steady-state level and rates
-were raised from zero with only occasional and relatively minor disruptions thus far.
-12 Beyond the costs and risks discussed here, policymakers feared Knightian uncertainty—the possibility that
-using relatively untested tools would have unanticipated side effects. In the December 2013 survey, five participants
-assessed “unanticipated/unknown” costs of QE as being of moderate concern, and one designated them as being
-of high concern.
-13 The velocity of base money can be decomposed into the money multiplier (money in circulation, such as M1,
-divided by base money) and the velocity of money in circulation. Both fell significantly as reserves rose.
+were raised from zero with only occasional and relatively minor disruptions thus 

@@ -33,10 +33,4 @@ showed that at the market level they are isomorphic (subject to functional form
 choices about the terms in the CES function and the indirect utility function in the
 MNL).6 This isomorphism is extremely convenient and in principal allows analysts
 to proceed with either approach, and build on advances that have been made in the
-two literatures.
-5 For example, one can draw an  s-s curve showing the supply curve to a firm if its competitor’s wages are held
-constant, and an  S-S curve showing the supply curve when all their wages shift together (as might happen with a
-rise in the minimum wage, for example). The latter will be less elastic than the former (and could even be vertical).
-6 For example, Verboven (1996, Proposition 2) shows that the demand functions from a nested CES representa-
-tive consumer model are the same as those derived from a nested MNL logit  individual-level model where indirect
-utility depends on the log of the price of the specific option chosen.
+two li

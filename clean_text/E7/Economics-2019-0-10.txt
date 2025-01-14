@@ -17,9 +17,4 @@ the nominal growth rate. They yield two conclusions:
 •
 First, o
 ver the period, the average adjusted rate has been lower than either the
-1-year or the 10-year rates, averaging 3.8 percent since 1950. This however Figure 3. 1-Year Rate, 10-Year Rate, and Adjusted Rate, 1950–20180246810121416
-1950195219541956195819601962196419661968197019721974197619781980198219841986198819901992199419961998200020022004200620082010201220142016201810/uni2010year/uni00A0rate
-1/uni2010year/uni00A0rateAdjusted/uni00A0rate
-Figure 4. Nominal GDP Growth Rate and Adjusted Rate, 1950–2018−4−20246810121416
-1952195419561958196019621964196619681970197219741976197819801982198419861988199019921994199619982000200220042006200820102012201420162018Adjusted/uni00A0rate
-Nominal/uni00A0GDP/uni00A0growth
+1-year or the 10-year rates, averaging 3.8 percent since 1950. This however

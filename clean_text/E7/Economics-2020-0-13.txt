@@ -32,15 +32,4 @@ ticipated communications by the Fed influenced  longer-term interest rates, whil
 Del Negro, Giannoni, and Patterson (2012) concluded that forward guidance posi-
 tively affected inflation and growth expectations.
 I have been discussing QE and forward guidance separately, but in practice the
-two tools are closely intertwined. As noted earlier, QE works in part by  implicitly Table 2—Responses of Asset Prices and Yields to Two Fed
-Forward Guidance Announcements
-2-year Treasuries −10
-10-year Treasuries −27
-30-year Treasuries −14
-Mortgage-backed securities −17
-AAA corporate bonds −17
-SP500 index5.61
-Notes: Sums of  one-day responses to announcements of August 9, 2011,
-and January 25, 2012. Yield changes are in basis points, stock price changes
-are in percentage points.
-Source: Author’s calculations
+two tools are closely intertwined. As noted earlier, QE works in part by

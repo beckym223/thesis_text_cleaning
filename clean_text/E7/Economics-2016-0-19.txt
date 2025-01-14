@@ -42,4 +42,4 @@ from the theory, things can get interesting. The equity premium puzzle is a case
 point. The first-order prediction that stocks are riskier than bonds and so should
 earn a higher rate of return is resoundingly supported by the historical data. But
 Mehra and Prescott (1985) showed that the standard model cannot simultaneously
-explain the low historical risk-free rate and an equity premium in the neighborhood
+explain the low historical risk-free rate and an equity premium in the neighbor

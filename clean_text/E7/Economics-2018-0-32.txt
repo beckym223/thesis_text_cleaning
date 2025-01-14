@@ -17,13 +17,4 @@ chain of transplants by donating to a patient in a pair waiting for a kidney exc
 ational issues was how to manage the sometimes long non-simultaneous chains that became possible. These chains were initially controversial, but early experience together with computational simulations from clinical data, paying careful attention to how such chains could be organized, eventually allowed them to become standard practice (Ashlagi et al. 2011a, b).
 105
 As chains became national in scope, hospitals with different costs started ship-
-ping kidneys to each other, and there were some financial frictions (e.g., one hos-pital might charge much more than another for a nephrectomy, which could make
-103 In 2017 in the United States, 715 kidney exchange transplants were officially recorded, and these are 12
-percent of the 5,811 living donor transplants, not counting the non-directed donors who begin chains of transplants.
-There were also 256 anonymous non-directed donations (not all of whom will have started chains of exchanges). See https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/. Kidney exchange is becoming well established in Australia, Britain, and the Netherlands, and is growing elsewhere in Europe (see Biró et al. 2017), and in India (see Kute et al. 2017). See also http://marketdesigner.blogspot.com/search/label/kidney%20exchange.
-
-104 See http://web.archive.org/web/20080206202158/http://nepke.org/. Even by the time it ceased opera-
-tion in 2011 to become part of part of the national kidney exchange pilot program operated by the federal Organ Procurement and Transplantation Network, NEPKE had only facilitated 83 transplants (http://web.archive.org/web/20110905220442/http://nepke.org/).
-
-105 Managing chains as well as exchanges in closed cycles (entirely among patient-donor pairs) also strained
-the integer programming solvers, and so there has been progress on that front as well, from the original formulation in Roth, Sönmez, and Ünver (2007), with advances in optimization by Abraham, Blum, and Sandholm (2007) and (as chains have become long) by Anderson et al. (2015). See also Manlove and O’Malley (2012) and Dickerson et al. (2016).
+ping kidneys to each other, and there were some financial frictions (e.g., one hos-pital might charge much more than another for a nephrectomy, which coul

@@ -1,31 +1,3 @@
-o
-o
-oo
-CL
-CL
-CL
-~o
-O
-O
-?
-c
-"o
-i 1 1.5
-0.5
-#Congo, DR  Sao Tome & Principe
-Burundi  Guinea ?
-Lesotho
-Cape Verde
-Togo
-Guinea-Bissau  Ghana
-Cambodia
-/ China
-India
-S *
-T
-6 7 8 9 10 11
-Logarithm of per capita GDP in 2005 in 2005 international dollars
-Figure 3. Ratios of Old to New PPPs for GDP as a Function of per capita GDP
 revise our estimates of the prevalence of global poverty. The belief that the new ICP makes the
 world poorer comes from missing the fact that the updating procedure had increased the global
 line, and then attributing the increase in poverty to the ICP revision on the mistaken belief that

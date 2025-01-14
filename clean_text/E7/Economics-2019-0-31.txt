@@ -17,5 +17,4 @@ percent
 of GDP
 increases the safe rate by 2–3 basis points, this would lead to an increase in the safe rate of 1.2 percent to 1.8 percent, enough to reverse the inequality between the safe rate and the growth rate.
 The evidence on indexed bonds suggests however two reasons to be relatively
-optimistic about the sign of the inequality. The first is that, to the extent that the US government can finance itself through inflation-indexed bonds, it can actually lock in a real rate of 1.1 percent over the next 30 years, a rate below even pessimistic
-40 This trade-off is also present in Angeletos, Collard, and Dellas (2016).
+optimistic about the sign of the inequality. The first is that, to the extent that the US government can finance itself through inflation-indexed bonds, it can actually lock in a real rate of 1.1 percent over the next 30 years, a rate below even pessi

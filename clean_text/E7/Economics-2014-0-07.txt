@@ -1,4 +1,0 @@
-Figure 1. Relative Earnings of (Full-Time, Full- Year) College Graduate Men
-and Women for Synthetic Cohorts: Born 1923 to 1978
-Notes: Sample consists of full-time (35+ hours), full-year (40+ weeks), college-graduate  (16+ years of schooling), men and women (white, native-born, non-military, 25 to 69 years  old), using trimmed annual earnings data (exceeding 1,400 hours x 0.5 x 2009 minimum  wage) corrected for income truncation (top-coded values x 1.5). Part B contains controls for  education beyond 16 years, log hours, and log weeks. Age is entered in five-year intervals with  an interaction with female. In each graph the lines connect the coefficients on the five-year  intervals for each birth cohort.
-Sources: US Census Micro-data 1970, 1980, 1990, 2000, and American Community Survey  2004 to 2006 (for 2005), 2009 to 201 1 (for 2010).

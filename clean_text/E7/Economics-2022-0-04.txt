@@ -37,8 +37,4 @@ analysis of  firm-specific human capital, which addressed what we now call the
 problem of “ relationship-specific investments.”7 Many labor economists interpreted
 Becker as saying that firms choose wages to reduce quits (e.g., Parsons 1972 and
 Hashimoto 1981) assuming that quits are a smooth function of wages. This is equiv-
-alent to monopsonistic wage setting.8
-7 Crawford (1988) presents an elegant reformulation of Becker that clarifies the issues using modern terminol-
-ogy. See also MacLeod and Malcomson (1993).
-8 See Manning (2003) for more discussion. Donaldson and Eaton (1976) also noted some of the problems with
-a simple interpretation of Becker’s model of wage setting with relationship investments.
+alent to monopsonistic wage s

@@ -12,15 +12,3 @@ Markets and marketplaces are like languages; both are ancient human artifacts.
 Whole languages are hard to redesign, but smaller parts, e.g., technical vocabularies, are easier. And so it is with marketplaces: a marketplace is a piece of the market, not the whole. Marketplace designers don’t have control over the whole strategy space: market participants have lots of options.
 127 And marketplace behavior evolves as
 participants gain experience in developing and deploying their strategies. Practical market design must often proceed in advance of reliable theory, and so market designers also need big strategy sets, that include theory, field studies, computation, and experimentation.
-128
-125 A more parochial issue in the design of the economic literature will be how to accommodate hybrid fields
-like market design. We value theory for being simple, elegant, and potentially general, and we value engineering for
-taking into account complex potential causes of failure, and these two sets of values sometimes clash. Market design is starting to include a mix of simple tractable models and more detailed models, simulations, and experiments focused on sometimes messy operational procedures.
-
-126 Wilson (1997) as quoted in Holmström, Milgrom, and Roth (2002).
-127 This is one of the ways in which practical market design is different from the theoretical literature on
-mechanism design, which often assumes that the designer has complete freedom to introduce new mechanisms, and that participants in the economy must interact through these mechanisms. In a wide-ranging Ely Lecture, Hurwicz (1973, p. 27) remarks: “The new mechanisms are somewhat like synthetic chemicals: even if not usable
-for practical purposes, they can be studied in a pure form and so contribute to our understanding of the difficulties and potentialities of design.”
-
-128 Nevertheless, in the history of ideas, market design is rooted squarely in the tradition of game theory. Before
-game theory, economists focused on systems of prices in commodity-like markets. Game theory gave us tools with which to pay attention to rules. Market design also deals with behavioral economics. Game theory, experimental and behavioral economics, and market design all allow us to look at rules, and how people interact with them, understand them, circumvent them, and change them.

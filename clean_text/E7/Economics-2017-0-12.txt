@@ -42,4 +42,4 @@ patterns of infectives that on rescaling look something like that in Figure 2.
 The Kermack-McKendrick SIR model has formed a starting point for mathemati-
 cal models of epidemics that have, over 90 years since, produced a huge literature. The
 basic compartmental model, the SIR model, has been modified to allow for gradual
-loss of immunity, so that recovereds are gradually transformed into susceptibles again
+loss of immunity, so that recovereds are gradually transformed into suscep

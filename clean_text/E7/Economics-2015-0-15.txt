@@ -41,4 +41,4 @@ count rates. I therefore use a range of $12.5-$100 per ton C02 for the global SC
 Estimates of national SCCs have proven difficult to determine because of sparse
 evidence outside high-income regions. Online Appendix Table B-l shows the sub-
 stantial differences in national SCCs in three integrated assessment models, the RICE,
-FUND, and PAGE models. Note that the conceptual basis of the national SCCs used
+FUND, and PAGE models. Note that the conceptual basis of the nati

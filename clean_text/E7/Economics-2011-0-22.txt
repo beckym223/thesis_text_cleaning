@@ -1,6 +1,3 @@
-Standard aouttbrium without
-high return on currency
-Figure 16. Low-Employment Equilibrium with Pinned Interest Rate
 Woodford (2003), and Lawrence Christiano, Eichenbaum, and Rebelo (2009) has
 made various assumptions that amount to letting unemployment account for the
 excess supply of labor, as in Figure 3.

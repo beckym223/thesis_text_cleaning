@@ -30,6 +30,3 @@ ity coin. In the twentieth century, monetary authorities implemented Ricardo's r
 to banish precious metals from the monetary system and sought an alternative monetary anchor
 based on a theory of fiat money and the public's faith in the wisdom and good intentions of the
 monetary authorities.
-22 Sargent (1999, ch 6) works with a weaker notion of an SCE that William A Branch and Evans (2005, 2006)  call a misspecification equilibrium Branch and Evans construct misspecification equilibria in which agents i and
-j have different models parameterized, say, by 0, and 0,, and in which f(x^6) ^/(x'|0,) ^f(xf\p), where again  p parameterizes the data-generating mechanism A misspecification equilibrium imposes moment conditions on  agents' approximating models that imply parameters 0, that give equal minimum mean square error forecast errors
-E0j[(xt+i ? E6j(xt+l \xt))(xt+1 ? E6j(xt+i \x{))'] for all surviving models Branch and Evans model equilibria in which  beliefs and forecasts are heterogeneous across agents, though they have equal mean squared errors They provide con?  ditions under which recursive least squares learning algorithms converge to a subset of the possible misspecification  equilibria The models of William A Brock and Cars H Hommes (1997) and Brock and de Patrick de Fontnouvelle  (2000) are early versions of misspecification equilibria

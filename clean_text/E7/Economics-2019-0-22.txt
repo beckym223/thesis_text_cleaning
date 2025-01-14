@@ -19,31 +19,4 @@ t  f   when young, and receives, when old,
 a net transfer of  D R
 t+1  f   , as opposed to the one-for-one transfer studied earlier. Under
 certainty, in steady state,   R
-f   is constant and the two are equal. Under uncertainty, the Figure 9. Welfare Effects of a Transfer of 5 Percent of Saving ( Cobb-Douglas)
-Figure 10. Welfare Effects of a Transfer of 20 Percent of Saving ( Cobb
--
-Douglas)
-0%0%
-1% 1 .5%2%
-0.5%0.5%−0.5%−1 .5%−1%
-1%−2%
-2.5%3%3.5%4%
-−0.5%0%0.5%1%1 .5%2%2.5%3%
-−1%
-−1 .5%ER0.6
-0.40.2
-0
-−0.2
-−0.4−0.6Mean utility, linear production with aggregate risk
-/NULL = 3, σ = 0.2, D = 5% of EK
-ERf
-0%0%
-1%1 .5% 2%0.5%0.5%−0.5%−1 .5%−1%
-1%2.5% 3%3.5% 4%
-ER−2.5−2−1. 5−0.500.511. 5
-−1Mean utility, linear production with aggregate risk
-/NULL = 3, σ = 0.2, D = 20% of EK
-ERf−2%
-−1 .5%−1%−0.5%0%0.5%1%1 .5%
-−2%
-−2.5%
+f   is constant and the two are equal. Under uncertainty, the

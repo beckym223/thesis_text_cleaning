@@ -37,4 +37,3 @@ vt is a vector of decisions taken by a government and yt is a vector of all othe
 (1) v, = ft,(x?, r=>0,
 to maximize a Pareto criterion that can be expressed as expected utility under density/(jt??|p):
 (2) \u{f,v-\pW^\p)d{y-,v-).
-1 These adaptive models make room for a "law of unintended consequences" cited by Milton Friedman (1992) that  is excluded from rational expectations equilibria

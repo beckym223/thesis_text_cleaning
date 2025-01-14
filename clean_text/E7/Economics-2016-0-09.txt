@@ -41,5 +41,4 @@ context of an investigation of the "preference reversal phenomenon," discovered 
 psychologists Sarah Lichtenstein and Paul Slovic (1971). Lichtenstein and Slovic
 presented subjects with two gambles, one a near sure thing they called the p-bet (for
 high probability) such as a 35/36 chance to win $10, the other more risky called the
-$-bet, such as an 1 1 /36 chance to win $30, a higher potential payoff. Subjects were
-3 Likewise, when Heads and Tails aren't equally likely, people tend to engage in "probability matching" behav-  ior instead of just picking the more likely outcome every time. See Vulkan (2000) for a survey aimed at economists.
+$-bet, such as an 1 1 /36 chance to win $30, a higher potential payoff. Subjects 

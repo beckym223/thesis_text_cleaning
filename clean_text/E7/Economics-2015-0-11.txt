@@ -40,4 +40,4 @@ Given the complexity of carbon duties, I propose and analyze an alternative and 
 pler approach: a uniform percentage tariff. Under this approach, participating countries
 would levy a uniform percentage tariff (perhaps 2 percent) on all imports from nonpar-
 ticipants. This mechanism has the advantage of simplicity and transparency, although it
-does not relate the tariff specifically to the carbon content of imports.
+does not relate the tariff specifically to the carbon content o

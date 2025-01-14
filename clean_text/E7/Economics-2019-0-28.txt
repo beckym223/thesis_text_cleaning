@@ -17,9 +17,3 @@ percent
 today. Suppose it had in fact increased to 25 percent. This would
 only lead only to a 10 percent increase in measured capital, far from enough to explain the divergent evolutions of the two series.
 32
-31 There is actually a third way, which is that stock prices do not reflect fundamentals. While this is surely rele-
-vant at times, it is unlikely to be true over a 40-year period.
-32 Further discussion can be found in Barkai (2018).Figure 15. Earnings over Replacement Cost, Earnings over Market Value Since 1950024681012141618
-Profit over capital at replacement cost
-Profit over market value
-19501953195619591962196519681971197419771980198319861989199219951998200120042007201020132016

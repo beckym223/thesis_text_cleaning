@@ -34,6 +34,4 @@ such as partner in a firm, tenured professor at a university, or top manager. Th
 also positions for which considerable work hours leads to a higher chance of obtain-
 ing the reward, and it is often the case that hours alone get rewarded. Persistence in
 these positions and continuous time on the job probably matters far more to one's
-success than a desire and ability to compete.
-9 On the role of bargaining, see Babcock and Laschever (2003). On competition see Gneezy, Niederle, and  Rustichini (2003) and Niederle and Vesterlund (2007). Manning and Saidi (2010), however, find little empirical  evidence for competition in explaining the gender gap in earnings.  10Lazear and Rosen (1990) assume narrowly defined occupations in which there should be no gender gap  but they generate one based on different preferences for employment discontinuity between women and men.  Employers have higher ability standards for promoting women than men.  1 1 As used here, the term "nonlinear" means convex.
-12 A large literature on the "child earnings penalty" exists. See, for example, Waldfogel (1998).  1 For a modern version of the field of personnel economics see Lazear (1995).  ,4For a description of many field and laboratory experiments see Gneezy and List (2013).
+success than a desire and ability t

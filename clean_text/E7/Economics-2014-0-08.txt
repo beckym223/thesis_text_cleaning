@@ -42,4 +42,4 @@ the aggregate gender gap if one equalized earnings by gender within each occupa-
 tion or, instead, evened their proportions for each occupation. The answer is that
 equalizing earnings within each occupation matters far more than equalizing the
 proportions by each occupation. The precise results of the exercise will depend on
-the choice of weights.
+the 

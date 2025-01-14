@@ -38,5 +38,4 @@ using the 0*Net data that characteristics of work settings are associated with t
 tions or have more time pressure, for example, are those with larger gender earning
 gaps.
 Another hint at what must be in the last chapter can be gleaned by adding a
-(log hours X occupation) interaction to the regression containing the occupation
-33 The flexibility in some of the health fields is not captured well in the aggregate 0*Net characteristics. An  important outlier here is pharmacy, which I will discuss in detail. But the regression in Figure 5 is almost no differ-  ent if the health occupations are excluded.
+(log hours X occupation) interaction to the regression containing the 

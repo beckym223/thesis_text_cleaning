@@ -42,4 +42,4 @@ The conclusion I reach from research in behavioral finance is that even these mo
 efficient of markets often lead to empirical results that are inconsistent with theories
 based on rational investors making choices in markets with tiny transaction costs. In
 other words, the results we obtain are not consistent with the hypothesis that inves-
-tors behave "as if' they were rational. And there should be even greater suspicion
+tors behave "as if' they were rational. And there should be even greater s

@@ -41,5 +41,4 @@ the time, with stocks selling for very high multiples of earnings (or sales for 
 without profits), and it was followed by a decline in prices of more than two thirds
 in the NASDAQ index. We experienced a similar pattern in the housing boom in the
 mid 2000s, especially in some cities such as Las Vegas and Phoenix. Prices sharply
-diverged from their long-term trend of selling for roughly 20 times rental prices,
-7 See Lamont and Thaler (2003a, 2003b).
+diverged from their long-term trend of selling for roughly 20 times rental price

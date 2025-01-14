@@ -42,4 +42,4 @@ tariff rate.
 A related question is whether a trade-penalty-plus-carbon-price regime can oper-
 ate in the future with the rising carbon prices that are generally associated with an
 efficient climate-change program. Answering this question requires a multiperiod
-coalition model and is on the agenda for future research.
+coalition model and is on the agenda for future r

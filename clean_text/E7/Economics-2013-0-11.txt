@@ -34,6 +34,3 @@ we get an indeterminate equilibrium when the government issues debt without
 any backing from taxation. But if we replace B by M and set R = 1, this becomes
 Samuelson's model of "money" and is sometimes taken as a useful metaphor to aid
 understanding of how fiat money can have value.
-(H) C„ + W, = 1 = Cu +
-ËL
-P,

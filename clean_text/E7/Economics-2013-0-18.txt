@@ -36,9 +36,3 @@ which pays a stream of one "dollar" per period forever, never returning principa
 The number of consols held by the public is A, and the price, in dollars, of a consol
 is Q,. (So 1/(2, is the long term interest rate). Then the Fisher equation requires that
 the expected one-period yield on a consol be equal to p, i.e.,
-(40)
-E,
-Q,
-i+i "f+i  + 1
-Q,
-= p,

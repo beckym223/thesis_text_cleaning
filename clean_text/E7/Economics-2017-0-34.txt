@@ -40,5 +40,4 @@ have to try to distill what it is that defines these stories, what makes them co
 gious. There are so very many contagious stories at any time in history, and it is hard
 to sort through them. The theorists run the risk of focusing on details of the stories
 that are common just because the events are actually familiar in everyday life. They
-also face the difficulty of accounting for changes through time in the list of stories.
-34For example, Chen, Parthasarathy, and Verma (2016) compute a propagation score of narrative contagion  based on citations and citations within citations. Such measures relate to the contagion importance of narratives  beyond the mere count of numbers of mention.
+also face the difficulty of accounting for changes through time in the li

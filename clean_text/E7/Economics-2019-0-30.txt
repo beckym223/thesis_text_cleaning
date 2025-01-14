@@ -16,11 +16,3 @@ The third front has been that public investment has been too low, often being th
 main victim of fiscal consolidation, and that the marginal product of public capital is high. The relevant point here is that what should be compared is the risk-adjusted social rate of return on public investment to the risk-adjusted rate of return on pri-vate capital, i.e., the safe rate.
 The fourth front has explored the role of deficits and debt if we have indeed
 entered a long-lasting period of secular stagnation, in which large negative safe interest rates would be needed for demand to equal potential output but monetary policy is constrained by the effective lower bound. In that case, budget deficits may be needed on a sustained basis to achieve sufficient demand and output growth. Some argue that this is already the case for Japan, and may become the case for other advanced economies. Here, the results of this paper directly reinforce this argument. In this case, not only are budget deficits needed to eliminate output gaps,
-37 A positive initial effect, and a negative steady-state effect, imply that there is a social welfare discount factor
-such that the effect on social welfare, defined as the present value of current and future expected utility becomes
-positive. While I have computed it for the intergenerational transfers, constant debt, and debt rollover cases pre-sented earlier, I do not present the results here. The model above is too crude to allow for credible quantitative estimates.
-38 For a review of the empirical evidence up to 2010, see Ramey (2011). For more recent contributions, see, for
-example, Mertens (2018) on tax multipliers, Miyamoto, Nguyen, and Sergeyev (2018) on the multipliers under the
-zero lower bound in Japan, and the debate between Auerbach and Gorodnichenko (2012) and Ramey and Zubairy (2018).
-39 I examined the evidence for or against hysteresis in Blanchard (2018). I concluded that the evidence was not
-strong enough to move priors, for or against, very much.

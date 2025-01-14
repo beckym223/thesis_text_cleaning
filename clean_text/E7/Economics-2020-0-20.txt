@@ -39,7 +39,4 @@ must be humble about our understanding and remain vigilant for building risks.
 There is a lively debate, which I will not try to resolve here, about the extent
 to which monetary policymakers should take financial stability considerations into
 account when setting interest rates (Svensson 2016; Gourio, Kashyap, and Sim
-2017; Adrian and Liang 2018). Most participants in that debate agree that the first
-17 The fiscal gains from asset purchases has occasionally led to the opposite critique, that by buying government
-debt and remitting profits, central banks are “enabling” irresponsible fiscal policymakers. The Fed’s view—which I
-believe is appropriate—is that it is not the central bank’s job to dictate fiscal choices to elected legislators.
+2017; Adrian and Liang 2018). Most participants in that debate agree 

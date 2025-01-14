@@ -32,8 +32,4 @@ rowed. In consequence, the residual portion of the gap rose relative to the expl
 portion.8
 But what can explain the residual portion of the gap that now remains? There are
 many contenders. Some would claim that earnings differences for the same posi-
-tion are due to actual discrimination. To others it is due to women's lower ability
-5Dataon "heterogeneity" and "homogeneity" of labor force participation are in Goldin (1989). Wage inequality,  however, has risen within the group of employed women since the 1980s as it has for men.  Altonji and Blank (1999) present a standard treatment and find (table 4) that the gender gap in CPS data for  1979 was larger than for 1995 and that a larger fraction was explained by human capital variables.
-7 Estimates of the explained and residual portions can be found in Blau and Kahn (2006b) and O'Neill and  Polachek (1993), who put considerable emphasis on the increase in job market experience for the narrowing of  the gender wage gap in the 1980s. Mulligan and Rubinstein (2008), however, claim that changes in selection were
-responsible.
-8 According to Blau and Kahn (2006b, table 3) who use the PSID, the raw gender gap in earnings for full-time  employed workers was 0.459 in 1979 and 0.227 in 1998. Human capital factors explain 24.6 percent of the raw  gender pay gap in 1979 but just 7.93 percent of the gap in 1998.
+tion are due to actual discrimination. To others it is due to women's low
