@@ -42,4 +42,4 @@ bar in Figure 1. In this example, when the United States decides not to particip
 increases its annual emissions by about 800 million tons, and this produces $16 bil-
 lion of additional external damages.
 I then calculate the cost from the penalty tariff that a country incurs by not par-
-ticipating in the Climate Club. The calculation labeled "Cost of out" shows the cost
+ticipating in the Climate Club. The calculation labeled "Cost of

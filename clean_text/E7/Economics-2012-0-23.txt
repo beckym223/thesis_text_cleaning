@@ -1,33 +1,3 @@
-Table 6—Growth in McWages, Big Mac Prices, and Big Macs per Hour of Work
-(BMPH), 2007-2011
-McWage ratio  Big Mac Price ratio
-BMPH ratio
-us  1.06 1.16 0.91
-Canada  1.47 1.56
-0.94
-Russia  1.78 1.24 1.43
-South Africa
-0.89 1.29
-0.69
-China
-2.00 1.62 1.24
-India  1.36 1.58 0.86
-Japan 1.46
-2.04
-0.72
-The rest of Asia*  1.34 1.42
-0.94
-Eastern Europe*
-1.31 1.22 1.08
-Western Europe*  1.12 1.19 0.95
-Middle East*  1.26 1.26 1.00
-Latin America*  1.51
-1.45 1.04
-Oceania*  1.22 1.39
-0.88
-Notes: The McWage Ratio is the McWage in 2011 divided by the McWage in 2007, and like  wise for the Big Mac Price and the BMPH. The McWage Ratio Relative to the US is the  McWage Ratio divided by the US McWage Ratio. Economic regions are aggregated using  population weights from 2010. The Rest of Asia includes Hong Kong, Indonesia, South  Korea, Malaysia, Philippines, Singapore, Sri Lanka, Taiwan, and Thailand; Eastern Europe  includes Azerbaijan, Belarus, Czech Republic, Estonia, Georgia, Latvia, Lithuania, Poland,  and Ukraine; Western Europe includes Austria, Belgium, Denmark, Finland, France, Germany,  Ireland, Italy, Netherlands, Norway, Spain, Sweden, Switzerland, and UK; Middle East includes  Egypt, Israel, Lebanon, Morocco, Pakistan, Saudi Arabia, and Turkey; Latin America includes  Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic Ecuador, El Salvador,  Guatemala, Honduras, Mexico, Paraguay, Peru, Puerto Rico, Uruguay, and Venezuela; Oceania
-includes Australia and New Zealand.
-Source: Author s calculation.
 Likewise, growth in real wage rates in India was at nearly eight percent per year
 in this period. There has been much debate about poverty in India over this period.
 While the data in Table 5 do not speak directly to that issue, workers in McDonald's

@@ -32,7 +32,3 @@ cross-country copying and partly a widespread belief that monetary authorities d
 enough models to do more When we asked for more, we usually got less
 forgiving in still putting positive probability on those other models after the early 1970s data had come in, and that the  inflation problem of the 1970s would have been solved by driving a stake through those other models But no one has  the authority to drive stakes through models, and models with operating characteristics much like those two survive  today The dispute between the fallacious (according to Friedman and Anna J Schwartz (1963, 191)) real bills doctrine
 and the quantity theory of money is mottled with repeated episodes having one of these doctrines being disposed of in  favor of the other, then the other making a comeback The real bills doctrine rides high in times like these when the  Fed pegs a short term interest rate
-40 Or Primiceri's loss function (jrt - tt*)2 + X(ut ? k?tN)2
-41 Here, the reason for assigning an inflation target to the monetary authority is to prevent it from doing what it might  want to do because it has a misspecified model, in contrast to the reasoning of Kenneth Rogoff (1985), in which the
-justification for strategic delegation is to prevent a monetary authority from doing what it is tempted to do when it has
-a correct model, but a timing protocol that presents temptations to deviate from superior policies that could be attained  under a timing protocol that enables it to precommit

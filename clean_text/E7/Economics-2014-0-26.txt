@@ -35,6 +35,4 @@ Several changes in the pharmacy profession have been responsible for the increas
 of female to male earnings. The first is the decrease in self-ownership and the rise
 of large corporation and hospital employment. As corporate ownership and hospi-
 tal employment increased, the portion of earnings that came from self-employment
-decreased. The ratio of the (time-adjusted) earnings of female to male pharmacists,
-42 As in the case of the MBAs, JD women with high-income spouses who are not in the labor force at 15 years  are not negatively selected on the basis of observables and, if anything, are positively selected. The calculation uses  the cross-section sample to increase sample size.  43Künn-Nelen, De Grip, and Fouarge (2013) demonstrate greater firm productivity in pharmacy with an increase  in part-time work using data from the Netherlands.
-^Goldin and Katz (2013), table 1 for the time trends and table 3, column 2 and 3 for the adjusted ratios.
+decreased. The ratio of the (time-adjusted) earnings of female to male 

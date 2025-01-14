@@ -36,5 +36,4 @@ B. Experiments, Incentives, and Learning
 A second class of explainawaytions emerged in the 1980s, in part as a reaction to
 the findings of Kahneman and Tversky and an early paper of mine (Thaler 1980).
 These retorts, usually delivered orally in workshops and conference presentations
-rather than in print,2 were intended to be justifications for continuing business as
-2 However, see the papers in Hogarth and Reder (1986, 1987) for some written versions.
+rather than in print,2 were intended to be justifications for continuing busin

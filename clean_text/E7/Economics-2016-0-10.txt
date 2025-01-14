@@ -42,4 +42,4 @@ provide an instructive example in their article "Paying Not to Go to the Gym." T
 authors study the usage of customers of three gyms that offer members the choice of
 paying $70 a month for unlimited usage, or a package of 10 entry tickets for $100.
 They find that the members paying the monthly fee go to the gym an average of 4.3
-times per month, implying an average cost of over $17 per visit.
+times per month, implying an average cost of over $17 

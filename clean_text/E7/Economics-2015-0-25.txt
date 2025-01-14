@@ -41,4 +41,4 @@ replicas, all would prefer a $25 per ton target carbon price. In reality, countr
 differ, so their preferred target prices will differ. Countries with high damages will
 prefer a high target carbon price because they will benefit from higher global abate-
 ment; countries with high abatement costs will prefer a low target price because that
-will reduce their abatement costs. The analog for health clubs is that people who
+will reduce their abatement costs. The analog for health clubs is that 

@@ -34,6 +34,4 @@ Men and women begin their employment with earnings that are fairly similar,
 both for full-time year-round workers and for all workers with controls for hours and
 weeks. In the case of the latter group, relative earnings are in the 90 percent range
 for the most recent cohorts even without any other controls. But these ratios soon
-decline and in some cases plummet to below the 70 percent level.
-l5Full-time, full-year means 35 hours or more per week and 40 weeks or more per year, throughout this piece.  The sample excludes earnings outliers (see notes to Figure 1) and members of the armed forces. The 2010 ratios  are an average for 2009 to 201 1 from the American Community Survey micro-data. Those for 1980 and 2000 are  computed from the U.S. Census micro-data.
-,6The synthetic cohort ratios are derived from a set of cross-section regressions on white, native-born, non-  military full-time, full-year workers. See the notes to Figure 1 . Manning and Swaffield (2008) find similar results  using British longitudinal and cross-section data.
+decline and in some cases plummet to below the 70 percen

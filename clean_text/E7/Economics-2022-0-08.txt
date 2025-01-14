@@ -36,10 +36,4 @@ power for employers.
 The  best-known lawsuit concerned “no poaching” and “no solicitation” agree-
 ments affecting software and animation engineers in Silicon Valley (see Ashenfelter
 et al. forthcoming for more details).16 The agreement originated in the  mid-1980s
-when Lucasfilm sold its computer animation division to Steve Jobs, who then
-14 A third study by Benmelech, Bergman, and Kim (2020) uses mergers and acquisitions as instrumental vari-
-ables for the HHI and reaches the same conclusion.
-15 Alan Krueger provided a new introduction for an edition of The Wealth of Nations (Smith 2003) and high-
-lighted this quote. It is also used by Ashenfelter and Krueger (2021).
-16 Judge Lucy Koh’s order granting class certification of the case (Northern District of California, Case
-5: 11-cv-02509-LHK) provides much detail on this case.
+when Lucasfilm sold its computer animation division to Steve 

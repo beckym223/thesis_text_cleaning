@@ -42,4 +42,3 @@ measures. This is not surprising given the high correlation between the McWage
 data and output per man hour indicated in Figure 8 and the key role that output
 per man hour plays in the calculation of conventional TFP measures. Given the
 potential for error in these calculations, however, the similarity of these estimates
-11 That is, a regression of the McWage for all countries on dummy variables representing these regions explains  about 85 percent of the variance in wage rates.

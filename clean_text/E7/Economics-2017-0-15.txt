@@ -42,4 +42,4 @@ McKendrick model in Figure 2.
 For both, the curves are choppy relative to the model, due to some publication
 noise, but show some of the hump shape. For news and newspapers, the frequency
 of use of the term Laffer Curve initially rises strongly, from 1977 to 1978, and then
-rises rapidly for three more years, peaking in 1981 . Then it falls and continues to fall
+rises rapidly for three more years, peaking in 1981 . Then it falls and continu

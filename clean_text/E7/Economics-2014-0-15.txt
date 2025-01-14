@@ -34,5 +34,4 @@ employee is given by
 m o = i X'kj if Xi > Aj*
 I 'kj • (1 - Sj) if a,. < a; '
 where k} is output per unit time when time exceeds some amount, Sj is the reduction
-in output because the employee works less than some amount in occupation j. The
-26 Briscoe (2006, 2007) makes similar points about the ability of employees to "hand off' clients, the role of  substitutes and temporal flexibility. Blair-Loy (2009) shows how information systems increased substitutability  among discount stockbrokers whereas, ironically, traditional stockbrokers with ostensibly more flexibility in their  schedules had greater client demands on their time.
+in output because the employee works less than some amount in occup

@@ -38,4 +38,3 @@ information. For reasons that will become clear, I have called the parameter vec
 p as in Section I. Rational expectations econometrics tells an econometrician who is outside
 the model how to learn 6. The econometrician knows only a parametric form for the model and
 therefore initially knows less about the equilibrium joint probability distribution than nature and
-12 Hansen (2007) brings only one new free parameter that governs how much a representative agent's beliefs are  exponentially twisted vis-?-vis the data-generating mechanism

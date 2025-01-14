@@ -1,7 +1,3 @@
-Figure 5. 0*Net Characteristics and the Residual College Gender Earnings Gap
-by Occupation
-Notes: The gender pay gap for college graduate is from Figure 2, part B; the 0*Net charac-  teristics are described in Table 2. Only occupations with more than 25 male and more than 25  female observations for the college, full-time sample are included in the figure. Standard errors  are in parentheses under coefficients.
-Source: See Figure 2.
 and log hours main effects. The interaction of log hours and occupation allows the
 relationship between hours and earnings to differ for each occupation. The com-
 puted elasticity of annual income with respect to weekly hours for each occupation
@@ -17,6 +13,4 @@ often found in the federal and state government settings. Only one of the scienc
 and technology occupations has an elasticity of earnings with respect to hours that
 exceeds one and it is that of actuary.
 As I will later demonstrate using data on occupations in business and law, the
-impact of hours on the gender gap is large and goes far to explain much of the gender
-34 The computed elasticities will be biased downward in part because of measurement error with regard to
-weekly hours.
+impact of hours on the gender gap is large and goes far to explain much of the 

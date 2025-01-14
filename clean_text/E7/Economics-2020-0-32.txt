@@ -39,7 +39,4 @@ implying a nominal neutral rate close to 3.0 percent. Alternatively, using estim
 from the term structure model of Adrian, Crump, and Moench (2013), the New
 York Fed reports a  10-year average expected short rate, a proxy for the nominal
 neutral rate, of 2.8 percent. Combining macroeconomic and term structure data,
-Davis, Fuenzalida, and Taylor (2019) obtains estimates close to those of Laubach
-23 For example, for  r   ∗  = 1, the simulated  10-year yield is negative 21.0 percent of the time for the baseline rule
-but only 0.2 percent of the time for the baseline rule with a 5 percent inflation target and 2.2 percent of the time for
-the inflation > 2 + QE(D) policy. For  r   ∗  = 0, the corresponding figures are 50.9, 1.2, and 12.4 percent.
+Davis, Fuenzalida, and Taylor (2019) obtains estimates close to those of L

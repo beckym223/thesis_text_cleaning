@@ -16,18 +16,8 @@ today) the two terms now work in opposite directions. The first term implies tha
 increase in debt increases welfare. The second term implies that an increase in debt instead decreases welfare. Both rates are thus relevant.
 To get a sense of relative magnitudes of the two effects, and therefore which one
 is likely to dominate, the following approximation is useful. Evaluate the two terms at the average values of the safe and the risky rates, to get
-dU
-/dD
 
-=
-[ (1 −  ER    f  )  −  (1/η) α  ER   f  (ER − 1)  (− dK/dD) ] βE [U′ ( C 2  ) ]
-so that
-(
-6)
 
-sign dU
-
-≡
 
 sign
 [ (1 − E R    f  )  −  (1/η) αE R   f  (− dK/dD)  (ER − 1) ]
@@ -74,9 +64,4 @@ ER
 
 is less than
 1.66, or equivalently, if the average annual marginal product is less than 2 percent
-above the growth rate.22
-21 This is an approximation in two ways. It ignores uncertainty and assumes that the direct effect of the transfer
-on saving is one for one, which is an approximation.
-22 Note that the economy we are looking at may be dynamically efficient in the sense of Zilcha (1991). Zilcha
-defined dynamic efficiency as the condition that there is no reallocation such that consumption of either the young
-or the old can be increased in at least one state of nature and one period, and not decreased in any other; the motiva-tion for the definition is that it makes the condition independent of preferences. He then showed that in a stationary
+above the growth rat

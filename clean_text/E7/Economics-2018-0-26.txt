@@ -13,18 +13,3 @@ political and social obstacles to a good design, that historically caused a mark
 Modest marketplace design changes in how we deal with the opioid crisis may
 be more quickly attainable (but by no means politically easy). Steps to reduce the harms of the drug markets are being explored in various venues. The most widely supported of these in the United States are needle exchanges to reduce the spread of infectious diseases among intravenous drug users (US Department of Health and Human Services 2016). More controversial are “drug checking” to allow purchasers of illegal drugs to have them tested for purity and potency (Hungerbuehler, Bhecheli, and Schaub 2011), and supervised injection facilities to promote safer drug injection practices and monitor potential overdoses (Potier et al. 2014). All of these are “harm reduction” measures intended to acknowledge the presence of active black markets, and to respond with modifications of these illegal marketplaces to give their partici-pants access to some ancillary infrastructure and services from legal sources.
 81
-77 See https://www.bop.gov/about/statistics/statistics_inmate_offenses.jsp. The US Drug Enforcement
-Administration also pursues criminal cases against physicians accused of selling or prescribing scheduled drugs
-outside accepted medical treatment, often resulting in prison sentences: see https://www.deadiversion.usdoj.gov/crim_admin_actions/doctors_criminal_cases.pdf.
-
-78 See, e.g., Dowell, Noonan and Houry (2017) and https://www.cdc.gov/drugoverdose/data/analysis.html. See
-also Schnell (2017) and Evans, Lieber, and Power (2018) on interactions between black markets and prescription practices and drug (re)formulation in legal markets, and Schnell and Currie (2018). The negative effects of the drug crises in the US are not limited to the US: the supply chain is worldwide, and drug cartels have in some times and places assumed state-like political and even military powers.
-
-79 There are also calls, including by US President Trump, not for redesign but for increasing the penalties in the
-current design (Lemire and Superville 2018).
-
-80 Note that the discussion is complicated by periodic shortages of pain medicines, such as injectable opioids
-available to hospitals and hospices. For example, as of this writing see Morphine and some other opioids on the Food and Drug Administration’s list of drug shortages: https://www.accessdata.fda.gov/scripts/drugshortages/.
-
-81 None of these harm reduction ideas are uncontroversial or politically easy to implement. Many of the studies
-reviewed in Potier et al. (2014) come from Canada and Australia, while some reports from the United States come

@@ -13,14 +13,3 @@ and positive (so that the probability that debt does not explode becomes very
 small, depending on the unlikely realization of successive large positive shocks
 which would take the safe rate back below the growth rate). Rather arbitrarily, I choose the threshold to be 1 percent at an annual rate. If the debt rollover fails, I assume, again arbitrarily and too strongly, that all debt is paid back through a tax on the young. This exaggerates the effect of failure on the young in that period, but is simplest to capture.
 28
-27 These may seem small relative to actual debt-to-income ratios. But note two things. The first is that, in the
-United States, the riskless rate is lower than the growth rate despite an existing debt-to-GDP ratio around 80 percent,
-and large net social security liabilities. If there were no public debt nor social security system at all, presumably all interest rates, including the riskless rate would be substantially lower (a point made by Lukasz Rachel and Lawrence Summers 2018). Thus, the simulation is in effect looking at additional increases in debt, starting from current levels. The second point is that, under a debt rollover, current debt is not offset by future taxes, and thus is fully net wealth. This in turn implies that it has a strong effect on capital accumulation, and in turn on both the risky and the safe rate.
-28 An alternative assumption would be that taxes are raised so as to stabilize debt at this level. Yet another alter -
-native would be default on the debt. This assumption however would make public debt risky throughout, and lead to a much harder analytical problem to solve. Figure 11. Linear Production Function: Debt Evolutions under a Debt Rollover
-D 0    = 15% of Sa ving
-04681012141618
-25 50Time (year)Debt share of savings
-(percent)
-75 100Debt share of savings, linear OLG with uncertainty
-ER = 2% ERf = 1% initdebt = 15%

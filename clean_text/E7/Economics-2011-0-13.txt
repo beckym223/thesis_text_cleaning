@@ -1,7 +1,3 @@
-Figure 9. Indexes of Lending Standards Inferred from the FRB Senior Loan Officer Survey
-question about mortgage lending standards in 2007, around the time of the low point
-in the other two indexes. The index of mortgage standards rose dramatically and has
-declined only slightly below its peak value.
 Figure 10 provides further confirmation of a substantial and persistent increase
 in household rationing from the financial crisis. It shows an index from Google
 Insights of queries for the term "withdrawal penalty." The logic is that households

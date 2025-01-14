@@ -44,4 +44,4 @@ hits zero is tied to the estimated output gap. For a nominal neutral interest ra
 effects of the lower bound. Chung et al. ( 2019) , mentioned above, also conducted
 stochastic simulations that included asset purchases, incorporating anticipatory
 effects of future purchases. As noted, their work finds somewhat more modest
-effects of QE on the economy.
+effects of QE

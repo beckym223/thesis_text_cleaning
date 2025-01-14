@@ -37,9 +37,4 @@ raise concerns about the effect of mergers and acquisitions on labor outcomes (s
 Naidu and Posner 2021).
 A growing number of papers study the relationship between average wages
 for a specific subgroup of workers in a given local market and the HHI of poten-
-tial employers in that market. These studies differ in how they define the set of
-12 Models based on search (which typically have a continuum of employers) illustrate the fallacy of this conclu-
-sion, as do models of monopolistic or monopsonistic competition.
-13 Of course some workers move across geographic regions (see, e.g., Card, Rothstein, and Yi 2021) but for
-many jobs a local perspective may be reasonable. The issue of  within- versus  between-market competition is han-
-dled nicely in a nested logit framework like that used by Azar, Berry, and Marinescu (2019).
+tial employers in that market. These studies differ in how they def

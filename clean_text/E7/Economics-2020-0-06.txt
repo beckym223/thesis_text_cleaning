@@ -43,4 +43,4 @@ that the market reaction on the date of the QE2 announcement was small; in fact,
 appointment about the program’s scale.
 For  event-study researchers, a possible way to address this problem is to include
 more event days, to capture more announcements, data releases, and other events
-bearing on the probability of new asset purchases (Greenlaw et al. 2018). However,
+bearing on the probability of new asset purchases (Greenlaw et al. 2018)

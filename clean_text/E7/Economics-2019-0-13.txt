@@ -49,10 +49,4 @@ It is convenient to normalize labor to 1, so  Y
 
 F
 (K, 1)  . Both factors are paid
-their marginal product.
-16 In this framework, the main general equilibrium effect of intergenerational transfers or debt is to decrease
-capital accumulation. A number of recent papers have explored the effects of public debt when public debt also
-provides liquidity services. Aiyagari and McGrattan (1998) for example explore the effects of public debt in an economy in which agents cannot borrow and thus engage in precautionary saving; in that framework, debt relaxes the borrowing constraint and decreases capital accumulation. Angeletos, Collard, and Dellas (2016) develop a model where public debt provides liquidity. In that model, debt can either crowd out capital, for the same reasons as in Aiyagari and McGrattan, or crowd in capital by increasing the available collateral required for investment. These models are obviously very different from the model presented here, but they share a focus on the low safe rate as a signal about the desirability of public debt. Finally, to the extent that it focuses on economies where the safe rate may be less than the growth rate, it is related to the literature on rational bubbles in dynamically efficient economies with financial frictions, for example Martin and Ventura (2016), or Farhi and Tirole (2012).
-17 For a nice introduction to the logic and implications of the overlapping generation model, see Weil (2008).
-18 After the lecture was delivered, I was made aware of unpublished notes by Waldman (2016), which explore a
-closely related model under different forms of uncertainty and also show that the welfare effects of debt depend in general on both the safe and the risky rate.
+their marginal 

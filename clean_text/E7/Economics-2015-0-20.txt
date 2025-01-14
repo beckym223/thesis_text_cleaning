@@ -40,4 +40,4 @@ see a Laffer-curve result as the actual global carbon price is lower with the $1
 target than with the $50 target. The reason is that abatement is so costly in the $100
 regime that most countries choose to accept the trade penalties. This then leads to
 a low participation rate and a low actual penalty on nonparticipants because so few
-countries are in the Club.
+countries are in t

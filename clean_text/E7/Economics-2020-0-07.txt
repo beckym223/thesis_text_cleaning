@@ -41,6 +41,4 @@ announced QE2, a plan to purchase $600 billion of Treasury securities. As alread
 discussed, the program was largely anticipated, and the announcement accordingly
 had little effect on Treasury yields overall. However, at the same time as the FOMC
 announcement, the New York Fed released information about how it planned to
-allocate purchases across Treasury securities of different maturities. This document
-8 D’Amico and King (2013) pioneered this approach, but that paper considered only QE1. For more US results,
-see also Meaning and Zhu (2011) and D’Amico et al. (2012).
+allocate purchases across Treasury securities of different maturities. This docu

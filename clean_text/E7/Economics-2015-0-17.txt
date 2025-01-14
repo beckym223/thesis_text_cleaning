@@ -42,4 +42,4 @@ While this is computationally feasible, it is unnecessarily burdensome, particul
 for model construction and comparison of regimes.
 I therefore settled on an evolutionary algorithm to find stable coalitions. This is
 similar to a genetic algorithm except that it considers mutations of all elements rather
-than just local searches. This proceeds in the following steps: (i) Start with an initial
+than just local searches. This proceeds in the following steps: (i) Start w

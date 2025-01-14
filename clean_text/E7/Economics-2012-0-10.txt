@@ -35,4 +35,3 @@ in capital/output ratios will provide a measure of relative total factor product
 oly or monopsony in product or factor markets, the assumption that h0i is the same
 in each country will fail. Thus, assumptions about competitive markets are critical
 for using wage rates to measure TFP.
-5See Douglas (1948). This is the same Douglas, of course, whose real wage series is contained in Figure 3.

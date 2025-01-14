@@ -42,4 +42,4 @@ of trade penalties associated with nonparticipation are independent of the globa
 SCC. So the national cost-benefit trade-off tilts toward nonparticipation as the
 international target carbon price rises.
 Next examine the patterns of gains and losses. Here, measure the impact rela-
-tive to the noncooperative equilibrium. Note as well that these results assume no
+tive to the noncooperative equilibrium. Note as well that these resul

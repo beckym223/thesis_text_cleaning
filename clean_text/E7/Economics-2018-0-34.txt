@@ -12,20 +12,4 @@ reform: improved care, reduced cost, and increased access. There is still work t
 appear as if the story were a simple one, of victory after victory for market design and kidney exchange.
 But these victories come in a war that we are losing: there are more people wait-
 ing for kidney transplants today than there were when I first began to think about transplants.
-113 So it will not be enough to keep improving the current operations of
-109 Patients can have trouble finding a donor if they are “highly sensitized” and have lots of antibodies that
-would cause most donor kidneys to be rejected. Donors can have trouble finding a compatible recipient mostly if
-they are blood type AB (while donors with blood type O are easy to match). The easiest to match pairs are those with unsensitized patients, and blood type O donors, while the hardest to match are those with very highly sensitized patients and not-so-easy to match donors.
-
-110 A related operational issue is that because new easy to match pairs are most efficiently used to match hard to
-match pairs, it turns out to make sense for kidney exchanges that operate beyond a certain scale to look for matches frequently, whenever new pairs are enrolled (Ashlagi et al. 2018). That is, in the clinical environment faced by the largest kidney exchange organizations (the National Kidney Registry, the APD, and the pilot program organized through UNOS), matching infrequently does not increase the effective thickness of the market. Increasing the rate of new arrivals would do this much more effectively. These conclusions depend on the some of the particular details of kidney exchange marketplaces. Akbarpour, Li, and Gharan (2017) present an abstract model that allows some
-of the trade-offs between frequent and infrequent matching to be analyzed. Similar issues of matching frequency arise for marketplaces for other matching markets: see, e.g., the trade-off for ride-sharing markets between frequent and infrequent matching (with a trade-off between number and quality of matches) for ride-sharing for the Chinese service Didi Chuxing (Liu, Wan, and Yang 2018).
-
-111 Regarding the absence of repugnance, note that the Norwood Act ultimately passed without any dissenting
-votes in either the House or the Senate (https://www.govtrack.us/congress/bills/110/hr710). During the process of finalizing the Norwood Act, the Department of Justice finally did issue a memorandum with the legal opinion that kidney exchange had already been legal under the NOTA, see http://web.stanford.edu/~alroth/JusticeDeptMemo.KidneyExchange.March2007.pdf.
-
-112 Often the need to change kidney exchange marketplaces arises from adaptations that transplant centers make
-when deciding how to interact with kidney exchange, which are decisions they get to revisit for every patient-donor pair, and for which they have large strategy sets.
-
-113 See https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2012/roth-bio.html for some
-recollections of those early days. Note that the rise in the number of people waiting for kidney transplants since the 1980s is a combination of bad news, such as an increase in diabetes, with good news, such as increased success in keeping kidney patients alive, and a drop in the number of auto accident fatalities that were once a larger source of deceased donors. (The largest single cause of death for deceased donors used to be “head trauma” and today it is “anoxia”: see https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/.)
+113 So it will not be enough to keep improving the current operation

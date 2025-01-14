@@ -42,4 +42,4 @@ We also see violations of rational expectations in the predictions of stock mar-
 ket returns by chief financial officers studied by Ben-David, Graham, and Harvey
 (2013). The CFOs were asked to predict one-year rates of return on the S&P 500
 and also give 80 percent confidence limits. Perhaps unsurprisingly, the CFOs had
-essentially no ability to predict returns in the stock market. What is more disturbing
+essentially no ability to predict returns in the stock market. What is more di

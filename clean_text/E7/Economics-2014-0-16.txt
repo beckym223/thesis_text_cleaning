@@ -20,4 +20,4 @@ highest penalty with regard to reduced hours. Rather than stay in that position,
 employee who wants lower hours will shift to one that has a lower penalty but
 also a lower slope. If the level of hours that the worker wants is yet lower, then the
 worker will take the reservation job, which involves complete linearity with respect
-to hours.
+to 

@@ -15,24 +15,4 @@ descriptive name for the emerging field of market design.
 6 However, although I
 didn’t choose the name, I’ve been glad of the opportunity it has given me to defend the notion that “markets” come in many varieties, and are not only or even primarily commodity markets whose only job is price discovery.
 Commodity markets are themselves a great invention, which allow trade to be
-conducted safely with relatively anonymous counterparties, with prices doing all
-untrimmed stones to make ax heads are much heavier than the finished tools, we can conjecture that the primary
-marketplaces for these far-reaching markets were located near the quarries, and were marketplaces for the finished tools.
-
-2 The study of marketplaces and market design has close predecessors in parts of IO and finance, e.g., in the
-study of market microstructure. See, e.g., the papers presented at the recent NBER Conference on Competition and the Industrial Organization of Securities Markets (http://papers.nber.org/sched/CIOf17), and papers focusing on marketplaces as platforms, e.g., Rochet and Tirole (2003) or Eisenmann, Parker, and Van Alstyne (2006).
-
-3 This essay isn’t meant to substitute for a survey of the fast growing field of market design. Recent overviews of
-market design include Biró (2017); Kominers, Teytelboym, and Crawford (2017); Ashlagi (2018); and Eisenmann
-and Kominers (2018). The Handbook of Market Design edited by Vulkan, Neeman, and Roth (2013) is aimed at
-an academic audience. Roth (2015b) is targeted at a general audience. Two new textbooks are Bichler (2018) and Haeringer (2018). Roth (2016) reviews some uses of laboratory and field experiments in market design. I regularly
-update my market design blog at http://marketdesigner.blogspot.com/.
-
-4 We can see this in the widening role that “chief economists” play. In the twentieth century, firms that had
-chief economists were mostly banks and investment firms, and those economists forecast inflation and market conditions. Today a growing number of chief economists are market designers in tech companies. For example, chief economists among those whose work is cited in this essay include Peter Coles at Airbnb, Hal Varian at Google and Michael Schwarz at Microsoft, where his predecessors with that title were Preston McAfee and Susan Athey. Preston had earlier been the chief economist at Yahoo!Research, while Michael was previously the chief economist at Google Cloud.
-
-5 Duflo (2017) proposes plumbing as an analogy for the detailed operational issues involved in implementation
-and maintenance.
-
-6 The subtitle of my paper “The Economist as Engineer” was “Game Theory, Experimentation, and Computation
-as Tools for Design Economics” (Roth 2002).
+conducted safely with relatively anonymous counterparties, with prices doing a

@@ -38,6 +38,3 @@ The Best of All Possible Worlds??In the preceding story, government policy actio
 rently take values that are optimal under the correct model, but only temporarily because the
 mean dynamics push the government's beliefs back to the SCE. Thus, this story, at best, only
 temporarily supports the optimism expressed by Sims (1988) that the government's misspecified
-30 That unlikely events occur in the most likely way is a key aspect of large deviation theory See Cho, Williams, and  Sargent (2002) for an elaboration of "most likely unlikely" sequences of shocks
-31 But relative to available alternatives, the imputed beliefs do a poor job of forecasting unemployment, a deficiency  of the model that hints that the reverse-engineering exercise may be imputing unrealistic views about joint inflation
-unemployment dynamics to the Phelps problem in order to rationalize observed inflation outcomes By conditioning  estimates on greenbook forecasts, Giacomo Carboni and Martin Ellison (2007) repair this deficiency and also reduce  the estimated V while leaving the basic story intact

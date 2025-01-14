@@ -31,16 +31,4 @@ rates), then goes down close to 0 until the financial crisis, and has increased 
 12 Taking into account the maturity structure of the debt,
 I then construct an average tax rate in the same way as I constructed the interest rate above, by constructing
 τ
-t   =  α t   ×  τ 1,t   +  (1 −  α t  )  ×  τ 10,t   .
-7 A more detailed construction of the maturity of the debt held by both private domestic and foreign investors is
-given in Hilscher, Raviv, and Reis (2018).
-8 Fed holdings used to be small, and limited to short maturity T-bills. As a result of quantitative easing, they have
-become larger and skewed toward long maturity bonds, implying a lower maturity of debt held by private investors
-than of total debt.
-9 For a parallel study, see Feenberg, Tepper, and Welch (2018).
-10 This is clearly only a partial equilibrium computation. To the extent that debt leads to lower capital accumu-
-lation and thus lower output, other tax revenues may decrease. To the extent however that consumption decreases less or even increases (as discussed in the next section), the effects depend on how much of taxation is output based or consumption based.
-11 This is an approximation. On the one hand, the average tax rate is likely to exceed this marginal rate. On the
-other hand, to the extent that municipal bonds are also partially exempt from state taxes, the marginal tax rate may reflect in part the state tax rate in addition to the Federal tax rate.
-12 The computed tax rates are actually negative during some of the years of the Great Recession, presumably
-reflecting the effects of Quantitative Easing. I put them equal to zero for those years.
+t   =  α t   ×  τ 1,t   +  (1 −  α t  )  ×  τ 10,t  

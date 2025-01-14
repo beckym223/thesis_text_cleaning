@@ -36,5 +36,3 @@ Sargent (1999), and Sargent, Williams, and Zha (2006b) fit to US data. The true 
 where U is the unemployment rate, rr is the rate of inflation, v is the systematic part of the infla?
 tion rate chosen by the monetary authority, w is a 2 X 1 Gaussian random vector with mean zero
 stability and performance of alternative monetary policy rules See Timothy Cogley (2005) and Monika Piazzesi and  Martin Schneider (2007) for applications to the yield curve
-26 Sargent (1999, ch 7) described how those specification decisions can affect self-confirming equilibrium  outcomes
-27 Some economists today use the slang "reduced form" to refer to incompletely articulated models I prefer to  reserve the term "reduced form" for its original meaning in Cowies commission econometrics, namely, a particular  statistical representation associated with a well-articulated structural model

@@ -42,4 +42,4 @@ little attention has been given to the impact of such news stories on other stor
 the same publication.
 IV. Epidemic Models
 The Kermack-McKendrick (1927) mathematical theory of disease epidemics
-marked a revolution in medical thinking because it gave a realistic framework for
+marked a revolution in medical thinking because it gave a reali

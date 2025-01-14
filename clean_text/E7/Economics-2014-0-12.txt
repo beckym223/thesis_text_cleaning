@@ -1,7 +1,3 @@
-Figure 3. Relationship between the Elasticity of Earnings with Respect to Hours
-and the Gender Earnings Gap
-Notes: The controls are as follows: Age as a quartic, race, ln(hours), ln(weeks), education, ACS years, occupation  and occupation x female; 35+ hours, 40+ weeks; 25 to 64 year old college graduates. Only occupations with more  than 25 males and more than 25 females are graphed. The vertical axis is the coefficient on occupation x female  from Figure 2, part B. The computation of the elasticity of annual income with respect to weekly hours by occupa-  tion adds to the regression in Figure 2, part B the interaction of ln(hours) with occupation. The regressions include  all three-digit occupations but just the categorized group of about 95 occupations is shown.
-Source: American Community Survey 2009 to 201 1 and Figure 2, part B.
 The findings gleaned from each of the graphs are similar although the levels are
 a bit different. In almost all cases the coefficient on female for each of the occu-
 pations is negative. That should not come as a surprise since it is a reflection of
@@ -19,5 +15,4 @@ Health, Science, Technology, and a miscellaneous group called "Other." Although
 the categorization is generally clear (e.g., engineers in Technology; physicians in
 Health), occupation descriptions and groupings of the occupations in 0*Net were
 used for less obvious cases.19 The list of occupations by category is given in online
-Appendix Table Al .
-19The Department of Labor's Occupational Information Network (0*Net) is the successor to the Dictionary of  Occupational Titles (DOT), which was first published by the Department of Labor in 1938 and last updated in 1991.
+Appendix Table 

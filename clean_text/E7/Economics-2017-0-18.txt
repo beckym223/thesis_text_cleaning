@@ -42,4 +42,4 @@ A different special kind of epidemic model describes speculative bubbles.
 Speculative asset prices themselves would not generally be well modeled directly in
 terms of this model since the model yields smooth-through-time paths. Most specu-
 lative asset prices are nearly random walks on a day-to-day basis. The reason is
-obvious: if it were possible for smart money to predict the day-to-day price changes
+obvious: if it were possible for smart money to predict the day-to-day p

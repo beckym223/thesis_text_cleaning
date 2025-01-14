@@ -5,35 +5,3 @@ obsolete and provide little insight into the policy issues facing fiscal and mon
 tary authorities in the last few years. There are relatively simple models available,
 though, that could be taught in undergraduate and graduate courses and that would
 allow discussion of current policy issues using clearer analytic foundations.
-Appendix
-A. Surprise Gains and Losses on the Debt
-The calculations for Figure 1 were done as follows. The unanticipated gains or
-losses were formed as
-^r(l — ñt) + S, — (1 + r,_¡ )Bt_i.
-B, is the market value of the marketable US debt, as calculated by the Federal
-Reserve Bank of Dallas. This series has recently been updated by them, and they
-sent me the updated version. The time unit for this equation is one year. S, is the
-primary surplus, calculated from the US national income and product accounts,
-Table 3.2, as net lending or borrowing, line 39, plus interest payments, line 22. r, is
-the one-year interest rate on treasury securities at the beginning of the year, ñ, is the
-error in a forecast of inflation for year t made at the beginning of year t. The logic
-is that holders of debt at the beginning of the year expected their holdings to grow
-to ( 1 + r¡_ i )B,_! at the end of the year. Some of the debt is retired, though, and that
-is accounted for by the S, term. And the real value of the debt undergoes surprising
-change because of errors in predicting inflation. This formula is at best approximate
-for several reasons. One-year government debt carries some liquidity premium, and
-indeed Figure 1 shows that "surprises" in yield are on average positive, probably
-because of the liquidity premium. Some debt is of maturity less than one year, so as
-information about inflation accumulates during the year, interest rates on these com
-ponents of the debt can compensate. Thus some gains and losses that were actually
-anticipated within the year are treated as unanticipated in this formula. The calcula
-tion of the market value of the debt involves some interpolation and approximation,
-though the quantity used here, total marketable debt, is the least affected by these
-considerations of the three concepts reported by the Dallas Fed.
-Total marketable debt excludes "debt" of the government to itself in Treasury
-accounts, but it does include treasury securities held by the Federal Reserve system.
-Since the Fed is not a profit or utility maximizing agent, it would be better to include
-it as part of the government, and the Dallas Fed does report a concept that excludes
-Fed holdings. But if the Fed is part of the government, then its interest-bearing
-liabilities are part of the public debt and changes in its holdings of debt that do
-not correspond to changes in non-interest-bearing liabilities are part of the primary
