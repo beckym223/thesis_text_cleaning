@@ -15,9 +15,9 @@ for traded instruments, those spreads are not infected by the wedge suggested by
 the agency theory. The spread between BAA corporate bonds and Treasurys of the
 same maturity widened stunningly in late 2008 but the difference did not reflect profit
 accruing to any intermediary. Spreads of that type came back to normal way too fast to
-account for any of the persistence of the slump. These spreads may arise from transi?
-tory segmentation of asset markets?sudden loss of equity among one class of inves?
-tors results in price declines for the assets they sell. Quickly, other classes of investors
+account for any of the persistence of the slump. These spreads may arise from transitory
+ segmentation of asset markets?sudden loss of equity among one class of investors
+ results in price declines for the assets they sell. Quickly, other classes of investors
 develop the expertise to recognize the undervaluation of the assets and bid their prices
 back to the normal level relative to safe Treasurys.
 Intermediation spreads are potentially instructive about frictions. One important
@@ -38,8 +38,8 @@ that the spread remains persistently high at the same time that spreads for trad
 securities have returned to normal.
 Figure 6 shows one measure of friction with respect to business investment, the
 spread between the rates that businesses pay and the rate that banks pay to fund
-loans, the fed funds rate. It widened dramatically after the crisis and was still widen?
-ing even in 2010.
+loans, the fed funds rate. It widened dramatically after the crisis and was still widening
+ even in 2010.
 Figure 7 shows the spreads between the rate reported by the Federal Reserve Board
 for credit-card borrowing and the federal funds rate. There is just a hint of a decline at
 the end, but the spread definitely remained high for most of the slump to date.

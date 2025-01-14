@@ -3,24 +3,24 @@ A financial friction drives a wedge between the returns that savers receive and 
 rates that borrowers pay. Agency problems in financial intermediaries are one source
 of those frictions. Adverse selection of borrowers is another. The financial crisis
 resulted in large declines in the equity values of financial intermediaries, which
-substantially worsened the agency problems. Loss of equity among household bor?
-rowers worsened adverse selection.
+substantially worsened the agency problems. Loss of equity among household borrowers
+ worsened adverse selection.
 Robert E. Hall (2010) describes a framework for studying financial frictions and
 Hall (forthcoming) gives many details and citations to recent work on this topic. The
 framework in those papers shares many elements with the discussion here.
 A widely studied setup?see Ben S. Bernanke, Mark Gertler, and Simon Gilchrist
 (1999)?generates frictions from the agency relationship between investors and
 financial intermediaries. See Gertler and Peter Karadi (2009) for an application to
-the Great Slump. Investors lack the expertise to invest directly in productive enter?
-prises. They place their funds with intermediaries who will abscond with some frac?
-tion of the funds unless their continuation values exceed the value of absconding. In
+the Great Slump. Investors lack the expertise to invest directly in productive enterprises.
+ They place their funds with intermediaries who will abscond with some fraction
+ of the funds unless their continuation values exceed the value of absconding. In
 equilibrium, the intermediary charges entrepreneurs more for credit than the amount
 paid to investors. The present value of the difference is the needed continuation
 value. The present value arises from the spread between the intermediary's lending
-and borrowing rates and from the intermediary's equity. The setup has been influen?
-tial in the theory of bank regulation, which holds that the value of a bank's franchise
+and borrowing rates and from the intermediary's equity. The setup has been influential
+ in the theory of bank regulation, which holds that the value of a bank's franchise
 protects depositors and deposit insurers against excessive risk-taking by banks.
 When assets held by intermediaries lose value?as from a decline in real-estate
-prices?the continuation value threatens to drop below the value from abscond?
-ing. To prevent absconding, the investors accept a widening of the spread. Thus the
+prices?the continuation value threatens to drop below the value from absconding.
+ To prevent absconding, the investors accept a widening of the spread. Thus the
 behavior of credit spreads is central to this theory of variations in financial frictions.

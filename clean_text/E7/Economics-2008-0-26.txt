@@ -5,19 +5,19 @@ coins of all denominations were meant to exchange at values proportional to thei
 content. In the ideal system, a government instructed a mint to offer to sell coins of different
 denominations for precious metal at prices proportional to their weights in precious metal. The
 mint did not buy coins for metal, but citizens were free to meit precious metal coins to recover
-precious metal. If minting and melting were costless, this self-regulating system would automati?
-cally adjust the denomination structure of coins to suit coin holders' preferences by letting them
+precious metal. If minting and melting were costless, this self-regulating system would automatically
+ adjust the denomination structure of coins to suit coin holders' preferences by letting them
 meit coins of a denomination they wanted less of, then take the metal to the mint to buy coins
 of the denomination they wanted.47 In the ideal system, a metal meit point equaled a metal mint
 point, denomination by denomination.
 In practice, two imperfections hampered this system: (1) it was costly to produce coins; and (2)
 coins depreciated through wear and tear and sweating and clipping. The first imperfection gave
-rise to nonempty intervals between meit and mint points for gold or silver coins of each denomi?
-nation?an upper point that indicated a melting point for that coin and a lower one that prompted
+rise to nonempty intervals between meit and mint points for gold or silver coins of each denomination?
+an upper point that indicated a melting point for that coin and a lower one that prompted
 minting. The proportionate spreads between minting and melting points differed because as a
 fraction of the value of the coin, it was cheaper to produce a large denomination coin than a small
-denomination coin. Unless the government were to subsidize the mint for producing low denomi?
-nation coins, the spread between minting and melting points would be proportionately wider for
+denomination coin. Unless the government were to subsidize the mint for producing low denomination
+ coins, the spread between minting and melting points would be proportionately wider for
 low denomination coins. The second imperfection allowed underweight coins to circulate along
 side full weight coins.
 A nonempty interval between melting and minting points allowed coins to circulate by tale
@@ -35,8 +35,8 @@ Cipolla (1956) described a temporary practical remedy for these shortages. The a
 debased small denomination coins, thereby shifting their mint-melt intervals in a direction that
 motivated citizens to purchase new coins from the mint. Monetary authorities throughout Europe
 used this method for hundreds of years. There were repeated debasements in small denomination
-silver coins and secular declines in rates of exchange of small denomination for large denomina?
-tion coins.
-Many experiments, some inadvertent, others purposeful, were performed, and numerous theo?
-retical tracts were written and disputed before what Cipolla (1956) called the "standard formula"
+silver coins and secular declines in rates of exchange of small denomination for large denomination
+ coins.
+Many experiments, some inadvertent, others purposeful, were performed, and numerous theoretical
+ tracts were written and disputed before what Cipolla (1956) called the "standard formula"
 for issuing token small denomination coins was put into practice in the mid-nineteenth century.49

@@ -1,5 +1,5 @@
-Recent experience requires a fundamental reconsideration of the view that pro?
-ducers find it desirable to expand output by cutting prices. Their behavior across
+Recent experience requires a fundamental reconsideration of the view that producers
+ find it desirable to expand output by cutting prices. Their behavior across
 all industries suggests, to the contrary, that price-cutting is not the answer to any
 problem they perceive in a time of extreme slack.
 Monthly inflation rates contain a good deal of noise from components of the
@@ -8,8 +8,8 @@ have come up with a variety of ways of extracting a less noisy inflation signal 
 the monthly data. One approach is time aggregation?using annual or other multi
 month changes. Another, currently the most widely used, is to study core inflation,
 price changes excluding the volatile food and energy components. The third?the
-one I favor?is to use inflation forecasts. The volatile components lose their unpre?
-dictable noise components but are not completely neglected in this approach. For
+one I favor?is to use inflation forecasts. The volatile components lose their unpredictable
+ noise components but are not completely neglected in this approach. For
 the present purpose, forecasts seem the desirable approach, because it is expected
 inflation that matters for the real rate.
 Figure 12 shows the one-year-ahead forecast of the GDP deflator from the Survey
@@ -17,11 +17,11 @@ of Professional Forecasters, maintained by the Philadelphia Federal Reserve Bank
 along with the unemployment rate. The period covered starts in 1987, the year that
 Alan Greenspan took command of the Federal Reserve. It contains three contractions
 marked by rapid increases in unemployment. Inflation fell in all three, but separating
-the response to slack from other determinants is a challenge. The decline in the infla?
-tion rate was greatest in the slump of 1991 through 1994, but the decline continued
+the response to slack from other determinants is a challenge. The decline in the inflation
+ rate was greatest in the slump of 1991 through 1994, but the decline continued
 at about the same rate after the slump turned into a remarkable boom. Inflation did
 not flatten until unemployment reached 4.3 percent in 1999. Inflation was close to flat
 in the slump from 2001 through 2004, with just a hint of decline during the period
-when unemployment was rising. Finally, in the current slump, inflation took a dis?
-continuous drop of about one percentage point early in the contraction, when unem?
-ployment was still fairly low, then stabilized at just over 1 percent per year when
+when unemployment was rising. Finally, in the current slump, inflation took a discontinuous
+ drop of about one percentage point early in the contraction, when unemployment
+ was still fairly low, then stabilized at just over 1 percent per year when

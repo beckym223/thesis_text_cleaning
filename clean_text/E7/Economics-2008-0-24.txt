@@ -1,26 +1,26 @@
-It is easy to agree with a warning by Sims (1980) that leaving the rational expectations equi?
-librium concept sends us into a "wilderness" because there is such a bewildering variety of ways
-to imagine discrepancies between objective and subjective distributions.42 For this reason, rela?
-tive to some models of learning in games (see Appendix A), the adaptive models described in
+It is easy to agree with a warning by Sims (1980) that leaving the rational expectations equilibrium
+ concept sends us into a "wilderness" because there is such a bewildering variety of ways
+to imagine discrepancies between objective and subjective distributions.42 For this reason, relative
+ to some models of learning in games (see Appendix A), the adaptive models described in
 this paper are cautious modifications of rational expectations theories and rational expectations
 econometrics by virtue of the ways that we allow our adaptive agents to use economic theory,
 statistics, and dynamic programming. The timidity of my departure from rational expectations
 reflects a desire to retain the discipline of rational expectations econometrics. I have focused on
 some of the things that can happen when a government solves an intelligent design problem with
-a misspecified model. I view the very simple statistical models in Section VI as parables that cap?
-ture the situation that we are always in, namely, that our probability models are misspecified.43
+a misspecified model. I view the very simple statistical models in Section VI as parables that capture
+ the situation that we are always in, namely, that our probability models are misspecified.43
 By stressing the possibility that learning has propelled us to a self-confirming equilibrium in
 which the government chooses an optimal policy based on a wrong model, the learning literature
 changes how we should think about generating the novel dataseis and policies that will allow
-misguided governments to break out of the lack-of-experimentation traps to which self-confirm?
-ing equilibria confine them.
-It is also easy to admire the spirit of the quote from Ricardo. It conveys respect for the strug?
-gles of our predecessors and the monetary institutions that they created, and confidence that,
+misguided governments to break out of the lack-of-experimentation traps to which self-confirming
+ equilibria confine them.
+It is also easy to admire the spirit of the quote from Ricardo. It conveys respect for the struggles
+ of our predecessors and the monetary institutions that they created, and confidence that,
 armed with new models and technologies, we can do better.
 Appendixes
 A. Learning in Games
-In a game, a Nash equilibrium is the natural counterpart of a rational expectations equilib?
-rium or a recursive competitive equilibrium. An extensive literature studies whether a system
+In a game, a Nash equilibrium is the natural counterpart of a rational expectations equilibrium
+ or a recursive competitive equilibrium. An extensive literature studies whether a system
 of adaptive players converges to a Nash equilibrium. A range of plausible adaptive algorithms
 has been proposed that are differentiated by how much foresight and theorizing they attribute to
 the players.44 At one extreme are adaptive models that have na?ve players who ignore strategic
@@ -32,5 +32,5 @@ make forward-looking decisions, occasionally subject their theories to hypothesi
 rejected ones, and choose new specifications.
 This literature has sought plausible and robust algorithms that converge to a Nash equilibrium.
 Sergiu Hart and Andreu Mas-Colell say that this is a tall order:
-It is notoriously difficult to formulate sensible adaptive dynamics that guarantee conver?
-gence to Nash equilibrium. In fact, short of variants of exhaustive search (deterministic  or stochastic), there are no general results.
+It is notoriously difficult to formulate sensible adaptive dynamics that guarantee convergence
+ to Nash equilibrium. In fact, short of variants of exhaustive search (deterministic  or stochastic), there are no general results.

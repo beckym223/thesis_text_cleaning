@@ -5,8 +5,8 @@ crisis and the housing bust and a transition from fiscal expansion to austerity.
 And the recovery, though not rapid, was unusually sustained, in 2019 becoming the
 longest documented expansion in US history. Did the limits imposed by the lower
 bound make the Great Recession significantly worse, or the recovery slower? How
-much did the new tools help?
-The literature does not provide a consensus on these questions. Some work suggests
+much did the new tools helpThe
+ literature does not provide a consensus on these questions. Some work suggests
 that the new tools substantially overcame the limitations imposed by the lower bound.
 For example, Fernald et al. ( 2017) , using growth accounting methods, attributed the
 slow pace of the US recovery from the Great Recession primarily to subdued productivity

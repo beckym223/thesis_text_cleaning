@@ -5,11 +5,11 @@ to do so also violates the Code. But surveys find that over 60 percent of respon
 turn in a friend who cheated (Jeremy Caplan 1996).
 Therefore, people try to build bilateral relationships upon successful encounters. Joel Watson
 (2002) constructs theoretical models of how bilateral relationships can be developed in a gradual
-way. But in many situations a given pair of people may not have enough ongoing pairwise trans?
-action opportunities, and multilateral institutions may be unavoidable. An extreme example can
+way. But in many situations a given pair of people may not have enough ongoing pairwise transaction
+ opportunities, and multilateral institutions may be unavoidable. An extreme example can
 be found in Yogi Berra's dictum: "Always go to other people's funerals. Otherwise they won't
-come to yours." Here is a social norm that must be enforced on a multilateral basis because bilat?
-eral enforcement is infeasible in the very nature of the interaction. Without going to this extreme,
+come to yours." Here is a social norm that must be enforced on a multilateral basis because bilateral
+ enforcement is infeasible in the very nature of the interaction. Without going to this extreme,
 when each player may be involved in several bilateral relationships at the same time, and the
 partnerships may dissolve and reform, the group still benefits from multilateral governance. The
 Maghribi traders in Greif (2006) and Goldberg (2005) are an example of this.7
@@ -28,11 +28,11 @@ them; therefore the marginal costs of expansion are high and rising. The low fix
 marginal cost system will have lower overall costs for small-scale transactions, and the high
 fixed cost, low marginal cost system will be better for larger scales.
 Dixit constructs a more detailed spatial model of information transmission and its fading at
-large distances to explain the idea of rising marginal costs. This leads to some surprising impli?
-cations for what happens when the relation-based system reaches the limit of its size.
+large distances to explain the idea of rising marginal costs. This leads to some surprising implications
+ for what happens when the relation-based system reaches the limit of its size.
 The figure shows a continuum of economic agents located along a circle, which should be
-interpreted as a socioeconomic rather than strictly geographic space. Each period they are ran?
-domly matched in pairs to play a contracting game that is a prisoner's dilemma. The probability
+interpreted as a socioeconomic rather than strictly geographic space. Each period they are randomly
+ matched in pairs to play a contracting game that is a prisoner's dilemma. The probability
 of meeting a near-neighbor is higher than that of meeting one farther away. The probability of
 meeting the same partner again is negligible, so there is no direct repeated game mechanism
 to sustain honesty. But information about cheating is spread by the victim, and someone who

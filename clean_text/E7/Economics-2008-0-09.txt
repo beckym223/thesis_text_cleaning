@@ -1,5 +1,5 @@
-the agents inside the model. The econometrician's tools for learning 0 are (i) a likelihood func?
-tion, (ii) a time series or panel of observations drawn from the equilibrium distribution, and (iii)
+the agents inside the model. The econometrician's tools for learning 0 are (i) a likelihood function,
+ (ii) a time series or panel of observations drawn from the equilibrium distribution, and (iii)
 a Law of Large Numbers, a Central Limit Theorem, and some large deviations theorems that
 characterize limits, rates of convergence, and tail behaviors of estimators. With enough data and
 a correct likelihood function, an econometrician can learn 0O.

@@ -2,8 +2,8 @@ end of the labor market, firms respond to  wage-setting choices by their competi
 (Derenoncourt et al. 2021). It therefore seems necessary to move beyond the “no
 strategic interactions” case considered in several recent studies. Berger, Herkenhoff,
 and Mongey (2021) have made some initial progress in this direction.
-B. Who Should Study Wage Setting?
-Once we accept that firms set wages, the analysis of wage setting becomes a part
+B. Who Should Study Wage SettingOnce
+ we accept that firms set wages, the analysis of wage setting becomes a part
 of labor economics, just like the analysis of price setting is a part of IO. Right now,
 much of the practical discussion of wage setting is done by  noneconomists. Human
 resources departments at large corporations are often staffed by people with primary

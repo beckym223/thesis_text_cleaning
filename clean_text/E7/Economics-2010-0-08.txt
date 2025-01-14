@@ -3,8 +3,8 @@ j = 1, ...Nr items in the basic heading (varieties of fish in the fish basic hea
 run a set of country-product dummy (CPD) regressions, one for each basic heading separately
 by region, of the form
 (1) \nPiy = ar + +
-in which each price is regressed on a set of commodity (basic heading) and country dummies?
-with country 1 omitted?so that the parity in region r for basic heading / (with country 1 as
+in which each price is regressed on a set of commodity (basic heading) and country dummieswith
+ country 1 omitted?so that the parity in region r for basic heading / (with country 1 as
 numeraire) is given by
 (2) pf = exp?r)
 where the suffix lr identifies the numeraire country in region r. If every country in the region

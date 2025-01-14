@@ -22,8 +22,8 @@ importance of empirical work in economics. There is nothing unique about incorpo
 psychological factors such as framing, self-control, and fairness into economics
 analyses. If such factors help us understand the world better and improve
 predictions about behavior, then why wouldn't we use them just like we would use
-any other new source of data such as web searches or genetic markers?
-In this sense I think it is time to stop thinking about behavioral economics as
+any other new source of data such as web searches or genetic markersIn
+ this sense I think it is time to stop thinking about behavioral economics as
 some kind of revolution. Rather, behavioral economics should be considered simply
 a return to the kind of open-minded, intuitively motivated discipline that was
 invented by Adam Smith and augmented by increasingly powerful statistical tools

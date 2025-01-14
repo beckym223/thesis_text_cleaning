@@ -1,27 +1,27 @@
 The two-period economy with currency yielding an excessive real return can have
 a low-employment equilibrium. Figure 16 shows one calculated with reasonable
-parameter values. First-period consumption is below its level in the standard equi?
-librium. That's not surprising, because the higher interest rate induces substitution
+parameter values. First-period consumption is below its level in the standard equilibrium.
+ That's not surprising, because the higher interest rate induces substitution
 to later consumption. But second-period consumption is lower as well. Because
 labor input is below full employment, the isoquant is closer to the origin.
 Table 1 shows values of the variables in the two economies portrayed in Figure 16.
 Unemployment in the first period in the economy with high-yielding currency
 results in lower output. The amount of capital in use from period 1 to period 2, ku is
 lower?thus raising its rate of return?and first-period consumption is lower?thus
-raising the growth rate of consumption so as to satisfy the household's Euler equa?
-tion at the higher real return. Notice that the economy has full employment in the
+raising the growth rate of consumption so as to satisfy the household's Euler equation
+ at the higher real return. Notice that the economy has full employment in the
 second period. The labor/capital ratio that matters, n2/kx, is not depressed by lower
 employment; it is raised by lower capital.
 The existence of a low-employment equilibrium is not a given. The obstacle is
 the need to generate a labor/capital ratio sufficiently higher than in the no-currency
-equilibrium to make the rate of return on capital equal the higher level that cur?
-rency earns, despite having less labor. In other words, the first-period capital stock
+equilibrium to make the rate of return on capital equal the higher level that currency
+ earns, despite having less labor. In other words, the first-period capital stock
 kx needs to be proportionately lower by more than is the second-period employment
 level, n2. In the two-period case, this condition is easy to satisfy?in the equilibrium
 shown in Figure 16, second-period employment is at its full-employment level. With
 lower first-period employment, the capital stock kx is lower because output is lower
-and because the difference in first-period consumption is smaller than is the differ?
-ence in the capital stock.
+and because the difference in first-period consumption is smaller than is the difference
+ in the capital stock.
 C. Many Periods
 Economies lasting over many (or an infinity of) periods are less likely to have a
 low-employment intertemporal equilibrium. Two factors stand in the way of that

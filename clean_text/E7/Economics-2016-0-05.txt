@@ -6,8 +6,8 @@ tic-tac-toe. But that is essentially what we assume in economics.
 When we assume that agents maximize utility (or profits) we do not condition
 that assumption on task difficulty. We assume that people are equally good at deciding
 how many eggs to buy for breakfast and solving for the right amount to save for
-retirement. That assumption is, on the face of it, preposterous. So why has it stuck?
-There has been a litany of explainawaytions.
+retirement. That assumption is, on the face of it, preposterous. So why has it stuckThere
+ has been a litany of explainawaytions.
 A. Aí If
 Grumblings within the profession about the so-called "marginalist revolution"
 were present in the 1940s, and this journal published several articles debating the

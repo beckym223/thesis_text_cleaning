@@ -28,8 +28,8 @@ Hansen and Sargent (2007) is to let agents inside a model have views that can di
 truth in ways about which the data speak quietly and slowly.
 III. Rational Expectations Econometrics
 Ideas from rational expectations econometrics motivate stories and models that feature gaps
-between an objective distribution and the temporary subjective distributions used by a govern?
-ment that solves a sequence of intelligent design problems. I review econometric methods that
+between an objective distribution and the temporary subjective distributions used by a government
+ that solves a sequence of intelligent design problems. I review econometric methods that
 allow an outsider to learn about a rational expectations equilibrium and introduce some objects
 and possibilities that are in play in models containing agents who are learning an equilibrium.
 A rational expectations equilibrium is a joint probability density/(jcr|0o) over histories x*

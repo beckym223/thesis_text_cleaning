@@ -2,27 +2,27 @@ land, livestock, and produce. Gradually the protectors got together to form the 
 became the Mafia. The knowledge that a property was under the protection of the Mafia acted
 as a deterrent. If that didn't work, the protectors resorted to varying degrees of violence against
 transgressors.
-However, private protection of property has some important harmful effects. The Mafia's pro?
-tection offered to its customers, unlike the state's protection that is in principle available to
+However, private protection of property has some important harmful effects. The Mafia's protection
+ offered to its customers, unlike the state's protection that is in principle available to
 everyone, creates a negative externality. Thieves selectively target the unprotected properties,
 so extending protection to one property raises the probability that other properties will be hit.
 That, in turn, increases their demand for the protection service. Thus, the Mafia is able to extract
 a high price for its service, and can make this externality-dependent high value evident by not
 covering everyone.
-Can private institutions guard private property rights against the government's pr?dation?
-This is a complicated collective action problem. An individual is helpless against a govern?
-ment; even in an ongoing relationship, one person cannot offer the government the prospect
+Can private institutions guard private property rights against the government's pr?dationThis
+ is a complicated collective action problem. An individual is helpless against a government;
+ even in an ongoing relationship, one person cannot offer the government the prospect
 of a large enough future payoff to keep it honest in its dealings with him today. A group can
 threaten to boycott collectively a ruler who violates the rights of even one of its members. But
 the boycott is costly for each trader to enforce; he is forgoing profitable opportunities to sell
 in that ruler's markets. Therefore, the ruler can try to peel off individuals from this boycott by
-offering them special deals, and individuals will be tempted. Thus a second layer of punish?
-ments is needed: the group must threaten to boycott any of its own members who don't partici?
-pate in the original boycott against the ruler. And a third layer... ; in fact a whole penal code.
+offering them special deals, and individuals will be tempted. Thus a second layer of punishments
+ is needed: the group must threaten to boycott any of its own members who don't participate
+ in the original boycott against the ruler. And a third layer... ; in fact a whole penal code.
 Greif, Paul Milgrom, and Barry Weingast (1994) show how guilds in medieval Europe solved
 collective action problems in just such a way; see also Greif (2006, chap. 4).
-Can modern business associations play similar roles, and enforce an anticorruption norm?
-They collectively stand to benefit if the government does not extract bribes, but each has the
+Can modern business associations play similar roles, and enforce an anticorruption normThey
+ collectively stand to benefit if the government does not extract bribes, but each has the
 individual temptation to get better treatment through bribery. In reasonably small and well
 connected groups, the knowledge that someone gained a contract or license through bribery
 will spread quickly. Then the norm should stipulate that no one will deal with him. The cheater

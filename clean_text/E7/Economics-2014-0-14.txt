@@ -1,6 +1,6 @@
 Does the smaller gender gap result mainly from the characteristics of the technology
-occupations or from the features of the industries of the technology employees?
-The answer is that it results far more from the occupation than from the industry. To
+occupations or from the features of the industries of the technology employeesThe
+ answer is that it results far more from the occupation than from the industry. To
 examine whether industry is the locus of greater gender equality rather than occupation
 I create a variable measuring the fraction of the industry's workforce in one of
 the identified technology occupations.

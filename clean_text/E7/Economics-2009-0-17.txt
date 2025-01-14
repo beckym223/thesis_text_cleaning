@@ -15,13 +15,13 @@ But institutions constitute an equilibrium, and institutional change means shift
 equilibrium. In any moderately complex social context, this requires (1) either compensating
 those who would lose from the change or overcoming their resistance in the existing political
 process; (2) changing information and aligning incentives; and (3) creating common knowledge
-of actions to sustain the new equilibrium. All these steps present difficulties; therefore the pro?
-cess of institution reform is often slow, and old institutions may persist as a lock-in phenomenon.
+of actions to sustain the new equilibrium. All these steps present difficulties; therefore the process
+ of institution reform is often slow, and old institutions may persist as a lock-in phenomenon.
 Thrainn Eggertson (2005) gives a striking example of how an Icelandic institution of sharing of
 hay persisted for more than a century and prevented an efficient reallocation of resources away
 from farming and toward fishing. Some of Libecap's other cases (1989, chap. 4-6) also present a  mixed record of success and failure.
-One important desideratum for shifting an institutional equilibrium is that the new institu?
-tions interact well, not dysfunctionally, with existing ones, and case studies support this. Here
+One important desideratum for shifting an institutional equilibrium is that the new institutions
+ interact well, not dysfunctionally, with existing ones, and case studies support this. Here
 are some examples. (1) Everyone emphasizes the importance of secure property rights, and in
 the case of land, formal titling seems the best way to define these. But Frank Shipton (1988) and
 Jean Ensminger (1997) show how titling in Kenya failed in its aims because existing informal
@@ -34,12 +34,12 @@ the basic principles of the transplanted law. (3) Rachel Kranton and Anand Swamy
 how arm's length market arrangements for bank lending in India destroyed existing relational
 arrangements that served other useful aims, such as insurance. (4) Dixit (2004, chap. 2) shows
 theoretically how a partial improvement in a weak system of formal governance can worsen
-the performance of the existing system of informal relational governance, by making the con?
-sequences of cheating less harmful. These examples also show that when making institutional
+the performance of the existing system of informal relational governance, by making the consequences
+ of cheating less harmful. These examples also show that when making institutional
 reforms that are expected to lead to eventual improvements, it may be necessary to accept some
 transitional worsening of performance.
 These studies have also given us a few broad generalizations about successful institutional
 change. (1) The government has an important role as partner and facilitator of reforms. But top
 down reforms may be difficult to achieve because of lack of adequate local knowledge and lack
-of appropriate incentives for the existing administrative structures to reform themselves; there?
-fore the results may be disappointing (Easterly 2008; Rodrik 2008). (2) A major entrepreneur
+of appropriate incentives for the existing administrative structures to reform themselves; therefore
+ the results may be disappointing (Easterly 2008; Rodrik 2008). (2) A major entrepreneur

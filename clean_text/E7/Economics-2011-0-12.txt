@@ -1,5 +1,5 @@
-index. The Federal Reserve Board carries out a quarterly survey of senior loan offi?
-cers of banks with respect to lending standards for a variety of types of loans. An
+index. The Federal Reserve Board carries out a quarterly survey of senior loan officers
+ of banks with respect to lending standards for a variety of types of loans. An
 example of a question in the survey is: "Over the past three months, how have your
 bank's credit standards for approving applications for credit cards from individuals
 or households changed?" The permissible answers are:
@@ -8,8 +8,8 @@ or households changed?" The permissible answers are:
 3. Remained basically unchanged,
 4. Eased somewhat, and
 5. Eased considerably.
-Although the answers are qualitative, it appears possible to create an index of stan?
-dards from the answers.
+Although the answers are qualitative, it appears possible to create an index of standards
+ from the answers.
 To this end, let xt be an index of lending standards, interpreted as the mean across
 banks, where the change in the bank's own index is normal with mean Axt + ii and
 unit standard deviation. If a bank's own index change is in the interval [? v,v\,
@@ -21,12 +21,12 @@ where <J> is the standard cumulative normal distribution (see the online Appendi
 details). To estimate the parameter v, I observe that when Axt + ii = 0, that is, when
 standards are not changing, the probability of the middle answer is the probability
 for [? v, u], which is 2$(v) ? 1. For October 2010, a time of small net change, the
-Federal Reserve reports these probabilities, which are around 0.85. The correspond?
-ing value of v is around 1.4.1 calculate the time series for Axt + \i by solving equa?
-tion (3) and estimate \i as the mean of the series, in the cases of business loans and
+Federal Reserve reports these probabilities, which are around 0.85. The corresponding
+ value of v is around 1.4.1 calculate the time series for Axt + \i by solving equation
+ (3) and estimate \i as the mean of the series, in the cases of business loans and
 credit cards. The identifying assumption is that Axt has mean zero. For mortgages,
-where data are available only for the crisis period, I use a mean of 0.15. My assump?
-tion that the cross-sectional standard deviation across banks is 1.0 amounts to a
+where data are available only for the crisis period, I use a mean of 0.15. My assumption
+ that the cross-sectional standard deviation across banks is 1.0 amounts to a
 normalization of the units of the index.
 Figure 9 shows the resulting indexes, the cumulations of the estimated changes.
 Because the indexes are constructed to start and end at zero, nothing should be read

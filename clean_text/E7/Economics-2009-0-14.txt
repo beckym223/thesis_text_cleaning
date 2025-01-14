@@ -9,15 +9,15 @@ But this does not mean that all Peppes will become enforcers rather than informa
 Competition for entry into the Peppe business leads to an equilibrium determined by an ex ante
 zero expected profit condition, which determines Peppe's effective discount rate r' by endogeniz
 ing the probability of his survival. The higher profit from enforcement entails stiffer competition
-for entry, and therefore a higher effective discount rate in that activity than in information provi?
-sion. Therefore there can be an equilibrium where both types of services are provided, and the
+for entry, and therefore a higher effective discount rate in that activity than in information provision.
+ Therefore there can be an equilibrium where both types of services are provided, and the
 marginal Peppe is indifferent between entry into the two.
 E. The Downside of Private Order
 Thus far, I have discussed the positive aspects of informal or private institutions. However, in
 keeping with my theme that nothing is perfect, I should discuss negative aspects of private order,
 some of which were already mentioned.
-The most serious limitation of private order stems from its reliance on a good private com?
-munication network and on threats of expulsion from the group. Therefore, it becomes harder to
+The most serious limitation of private order stems from its reliance on a good private communication
+ network and on threats of expulsion from the group. Therefore, it becomes harder to
 maintain as the size of the group expands. It can sustain credible contract performance only in
 the small group. This fragments capital and even labor markets; highly productive opportunities
 for dealing with people outside the group go unfulfilled.

@@ -1,5 +1,5 @@
-Hart and Mas-Colell and Foster and Rakesh Vohra (1999) show that the source of the diffi?
-culty is that most adaptive schemes specify that adjustments in a player's strategy do not depend
+Hart and Mas-Colell and Foster and Rakesh Vohra (1999) show that the source of the difficulty
+ is that most adaptive schemes specify that adjustments in a player's strategy do not depend
 on other players' payoff functions, an uncoupling of the dynamics that in general prevents the
 system from converging to a Nash equilibrium. Many examples of the adaptive schemes in the
 literature are uncoupled. Because many game theorists find uncoupled schemes desirable, parts
@@ -15,24 +15,24 @@ regret, then adjust future play in directions that would have minimized regret. 
 impute little or no theorizing and foresight to the players.
 For my present purposes, one of the most interesting contributions comes from part of the
 literature that attributes more sophistication to players, in particular, the work of Foster and
-Young (2003), which is also summarized in Young (2004, ch. 8).46 Their model has the follow?
-ing components: (1) each player has a large set of potential models that describe his opponents'
+Young (2003), which is also summarized in Young (2004, ch. 8).46 Their model has the following
+ components: (1) each player has a large set of potential models that describe his opponents'
 strategies; (2) players use a random device to select a particular model; (3) after that model is
 selected, there is an "act-and-collect-data" period during which a player (incorrectly) assumes
 that he will believe his current model forever; during this period, each player chooses his actions
 via a smoothed best response to what his model tells him about opponents' actions (e.g., a quantal
 response function); (4) after a data-collection period, a player compares the empirical pattern of
-his opponents' play with that predicted by his model. He performs a hypothesis test that com?
-pares the theoretical and empirical distributions. If he rejects his current model, he randomly
+his opponents' play with that predicted by his model. He performs a hypothesis test that compares
+ the theoretical and empirical distributions. If he rejects his current model, he randomly
 draws a new model from his set of models, then returns to step 2. If he accepts the model, he
 returns to step 3, waits a random number of periods, and then begins another data-collection
 period.
-With suitable assumptions about the lengths of testing periods and the tolerances of the hypoth?
-esis tests, Foster and Young (2003) show that behaviors eventually emerge that are often close to
+With suitable assumptions about the lengths of testing periods and the tolerances of the hypothesis
+ tests, Foster and Young (2003) show that behaviors eventually emerge that are often close to
 Nash equilibria. Their notion of hypothesis tests is sufficiently broad to include many plausible
 procedures. Their convergence result seems to be an uncoupled multi-agent learning scheme that
-actually approaches Nash equilibria, not something weaker like the coarse correlated equilib?
-rium that the entirely backward-looking schemes mentioned above can approach. They avoid the
+actually approaches Nash equilibria, not something weaker like the coarse correlated equilibrium
+ that the entirely backward-looking schemes mentioned above can approach. They avoid the
 conundrum of Hart and Mas-Colell partly by weakening the notion of convergence.
 B. From Commodity to Fiat Money
 A long process led to the ideas in the opening quote from David Ricardo, which in time led

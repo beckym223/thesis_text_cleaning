@@ -2,21 +2,21 @@ Finally, the incentives?carrots and sticks?for members to adhere to norms, and t
 in imposing sanctions on others who violate the norms, must be designed correctly. Here the
 finding of case studies contrasts with one result of many theoretical models of repeated prisoner's
 dilemmas. These models broadly argue that the harshest feasible punishments support the most
-cooperative outcomes. Case studies, however, find that successful systems use graduated punish?
-ments. In the first instance, members who violate the group's norm of conduct are given mild
-reminders of the transgression and opportunities to make restitutions. If these don't work, pun?
-ishments are gradually ratcheted up. Breaking off the relationship?the "grim trigger" strategy
+cooperative outcomes. Case studies, however, find that successful systems use graduated punishments.
+ In the first instance, members who violate the group's norm of conduct are given mild
+reminders of the transgression and opportunities to make restitutions. If these don't work, punishments
+ are gradually ratcheted up. Breaking off the relationship?the "grim trigger" strategy
 that is the immediate response in many theoretical models?is the last resort in reality.
-The theory of repeated games with imperfect monitoring shows that less than extreme punish?
-ment is optimal when it is likely to be triggered by error along the equilibrium path of play. But
+The theory of repeated games with imperfect monitoring shows that less than extreme punishment
+ is optimal when it is likely to be triggered by error along the equilibrium path of play. But
 for graduated punishments, something more is needed: a signal that the other player has cheated
 should cause the first player to update some information about the other. In other words, we
 need a repeated game with adverse selection as well as moral hazard. Dilip Abreu, B. Douglas
-Bernheim, and Dixit (2005) construct some examples that illustrate the possibilities in such situ?
-ations, but we await more general theoretical understanding of graduated punishments.
+Bernheim, and Dixit (2005) construct some examples that illustrate the possibilities in such situations,
+ but we await more general theoretical understanding of graduated punishments.
 A. Internalizing Norms of Prosocial Behavior
-When discussing contract enforcement, I emphasized the social value and practical impor?
-tance of internalized prosocial preferences (first-party governance), and of deliberate efforts
+When discussing contract enforcement, I emphasized the social value and practical importance
+ of internalized prosocial preferences (first-party governance), and of deliberate efforts
 to generate such preferences by socialization and education of children. Collective action also
 benefits from similar preferences. Dixit (2008) constructs a simple example that can serve as a
 starter model for this.

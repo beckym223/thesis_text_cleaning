@@ -1,10 +1,10 @@
 Without loss of generality, the wage paid to the worker can be decomposed into
-two parts, corresponding to a two-part pricing contract (the decomposition is concep?
-tual, not a suggestion that actual compensation practices take this form). The worker
+two parts, corresponding to a two-part pricing contract (the decomposition is conceptual,
+ not a suggestion that actual compensation practices take this form). The worker
 pays a present value Jt to the employer for the privilege of holding the job and then
 receives a flow of compensation equal to the worker's marginal revenue product.
-The cost of recruiting (holding a vacancy open) is 7 per period, taken to be con?
-stant in output terms. The zero-profit condition for recruiting equates the expected
+The cost of recruiting (holding a vacancy open) is 7 per period, taken to be constant
+ in output terms. The zero-profit condition for recruiting equates the expected
 benefit of recruiting to its cost:
 (32) q(nt)Jt = py^.
 Thus unemployment rises if J falls. I take

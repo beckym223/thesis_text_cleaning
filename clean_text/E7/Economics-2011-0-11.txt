@@ -10,16 +10,16 @@ to recover value through a workout or bankruptcy. When borrowers suffer losses i
 asset values, the probability of default rises and total spreads rise. The friction is less
 than the spread, because one consequence of a default is a simple transfer of value
 from the lender to the borrower. The friction is the amount of the loss accruing to
-the borrower and lender jointly?it comprises bankruptcy costs, business interrup?
-tion costs, and the like. But the friction is likely to move in proportion to observed
+the borrower and lender jointly?it comprises bankruptcy costs, business interruption
+ costs, and the like. But the friction is likely to move in proportion to observed
 spreads, so a widening of the total spread will usually indicate an increase in the
 financial friction.
 A. Credit Rationing and Lending Standards
 Lenders always ration credit. They need to overcome substantial adverse selection
 problems. They set standards for borrower eligibility and spend resources verifying
 that borrowers meet the standards. One of the consequences of a slump, especially
-one with an initial financial crisis, is a tightening of lending standards for both busi?
-nesses and households. Adverse selection becomes a more serious danger when
+one with an initial financial crisis, is a tightening of lending standards for both businesses
+ and households. Adverse selection becomes a more serious danger when
 more borrowers are close to the margin of failure.
 Lending standards are increasingly based on credit scores and other metrics, but I
 am not aware of any systematic compilation of quantitative standards into an overall

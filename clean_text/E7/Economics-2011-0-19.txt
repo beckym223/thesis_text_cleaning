@@ -5,13 +5,13 @@ The utility function U is concave and differentiable. The household incurs no di
 menity from work, so it will normally choose to offer all of its time to the labor
 market: nx ? n2 ? n.
 Figure 15 shows the standard equilibrium. At the equilibrium, the interest rate r* is
-the common value of the marginal product of capital and the marginal rate of substi?
-tution between consumption in the first and second periods. The isoquant describes
+the common value of the marginal product of capital and the marginal rate of substitution
+ between consumption in the first and second periods. The isoquant describes
 the full-employment trade-off between cx and c2:
 (7) c2 = f(n,f(n9ko - cx)).
 Equilibrium definitions play a big role in this discussion. I start with
-DEFINITION: A standard equilibrium in the two-period economy is a pair of con?
-sumption levels (clt c2) and an interest rate r satisfying the equality of marginal rate
+DEFINITION: A standard equilibrium in the two-period economy is a pair of consumption
+ levels (clt c2) and an interest rate r satisfying the equality of marginal rate
 of substitution and marginal product of capital,
 (g\ U'{Cl) - # - 1 + r
 and material balance at full employment:

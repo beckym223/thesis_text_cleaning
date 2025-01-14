@@ -1,29 +1,29 @@
 with simulations of the economic model to estimate the parameters p. Thus, let the auxiliary
-model have a log likelihood function given by equation (8) and, for the data sample in hand, com?
-pute the maximum likelihood estimate 0. For different p's, simulate paths xT(p) for r = 0,...,i
+model have a log likelihood function given by equation (8) and, for the data sample in hand, compute
+ the maximum likelihood estimate 0. For different p's, simulate paths xT(p) for r = 0,...,i
 from the economic model. Think of using these artificial data to evaluate the score function for
-the auxiliary model sT(xT(p),0) for each r. Gallant and Tauchen estimate p by setting the aver?
-age score for the auxiliary model15
+the auxiliary model sT(xT(p),0) for each r. Gallant and Tauchen estimate p by setting the average
+ score for the auxiliary model15
 (io) -h-?X(*T(p),?)
 as close to zero as possible when measured by a quadratic form of the type used in GMM. If the
 auxiliary model fits well, this method gives good estimates of the parameters p of the economic
 model. In particular, the indirect estimator is as efficient as maximum likelihood in the ideal
 case where the economic and auxiliary models are observationally equivalent.
 B. A Troublesome Possibility
-This ideal case raises the following question: what happens when macroeconomic policymak?
-ers incorrectly use what, from nature's point of view, is actually an auxiliary model? Data give
+This ideal case raises the following question: what happens when macroeconomic policymakers
+ incorrectly use what, from nature's point of view, is actually an auxiliary model? Data give
 the government no indication that it should abandon its model. Nevertheless, the government
 can make major policy design mistakes because its misunderstands the consequences of policies
 that it has not chosen.16 The possibility that the government uses what, unbeknownst to it, is an
 auxiliary model, not a structural one, sets the stage for the self-confirming equilibria that play
 an important role in the adaptive learning models of the following section and in the stories to  be told in Sections V and VI.
 IV. Adaptive Learning Models and Their Limiting Outcomes
-Section II described how a survival argument for equating objective and subjective distribu?
-tions falls short in many economies. This section takes up where that discussion left off by
+Section II described how a survival argument for equating objective and subjective distributions
+ falls short in many economies. This section takes up where that discussion left off by
 describing transient and limiting outcomes in models in which agents make decisions by using
-statistical models that at least temporarily are misspecified. I summarize findings from a litera?
-ture that studies systems of agents who use forward-looking decision algorithms based on tem?
-porary models that they update using recursive least squares algorithms (see Albert Marcet and
+statistical models that at least temporarily are misspecified. I summarize findings from a literature
+ that studies systems of agents who use forward-looking decision algorithms based on temporary
+ models that they update using recursive least squares algorithms (see Albert Marcet and
 Sargent 1989a; George W. Evans and Seppo Honkapohja 1999, 2001; Woodford 1990; and Drew
 Fudenberg and David K. Levine 1998).17 These adaptive systems can have limiting outcomes
 in which objective and subjective distributions are identical over frequently observed events,

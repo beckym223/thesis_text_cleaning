@@ -1,37 +1,37 @@
 resources, all involve problems of collective action to avoid free-riding; they are multiperson
 prisoner's dilemmas.2
-Good economic governance thus underpins the whole Smithian process whereby individu?
-als specialize in different tasks and then transact with one another to achieve the full economic
+Good economic governance thus underpins the whole Smithian process whereby individuals
+ specialize in different tasks and then transact with one another to achieve the full economic
 potential of the society.
 Governance is an organizing concept for many fields in all social sciences; it is not a field
-per se, and certainly not a field within economics. Case studies in law, political science, sociol?
-ogy, and anthropology, and game-theoretic modeling in economics, have all contributed to the
-advancement of our knowledge concerning governance institutions. This offers a unique oppor?
-tunity for the social sciences to have a meeting point, if not for reunification, after their separa?
-tion over a century ago.
-Consistent with the multidisciplinary, multifaceted nature of the topic, this essay will syn?
-thesize and build on the work of numerous researchers, not just reprise my own. The literature
+per se, and certainly not a field within economics. Case studies in law, political science, sociology,
+ and anthropology, and game-theoretic modeling in economics, have all contributed to the
+advancement of our knowledge concerning governance institutions. This offers a unique opportunity
+ for the social sciences to have a meeting point, if not for reunification, after their separation
+ over a century ago.
+Consistent with the multidisciplinary, multifaceted nature of the topic, this essay will synthesize
+ and build on the work of numerous researchers, not just reprise my own. The literature
 is vast, my knowledge of it is imperfect, and space is limited even for a presidential address. I
 apologize in advance for all omissions and misinterpretations.
 I. Governance and Government
-Most people's first instinctive reaction to the recognition of the importance of economic gov?
-ernance is that good governance should be provided by the government. But I want to emphasize
+Most people's first instinctive reaction to the recognition of the importance of economic governance
+ is that good governance should be provided by the government. But I want to emphasize
 that governance and government should not be regarded as almost synonymous; indeed, this may
 be the most important point of much of my recent research, and will be my main focus here.
-Don't get me wrong. Of course governments are important, especially in matters of protec?
-tion of property rights. As we will see below, private order for protection of property rights has
+Don't get me wrong. Of course governments are important, especially in matters of protection
+ of property rights. As we will see below, private order for protection of property rights has
 some basic flaws. And the government's failure to protect these rights, and at times the violation
 of private property rights by the government or its agents (e.g., corruption), are major causes of
-poor economic performance in many countries, especially less-developed countries and transi?
-tion economies. But other social institutions of economic governance also exist in almost all
+poor economic performance in many countries, especially less-developed countries and transition
+ economies. But other social institutions of economic governance also exist in almost all
 countries. They function especially in niches that the government serves poorly, or not at all.
-Sometimes they work better than the formal law, because they have better expertise or informa?
-tion. And they are essential for guarding against the government's own misbehavior.
+Sometimes they work better than the formal law, because they have better expertise or information.
+ And they are essential for guarding against the government's own misbehavior.
 It is important to maintain a distinction between the state's laws and actual order that must
 support economic activity, and between the laws that are on the books and how they actually
-function (or fail) in reality. The state's role seems simplest in situations that require pure coordi?
-nation to achieve the better of two equilibria in an assurance game: daylight saving time and traf?
-fic lights are commonly cited as examples. However, notoriously dangerous intersections persist
+function (or fail) in reality. The state's role seems simplest in situations that require pure coordination
+ to achieve the better of two equilibria in an assurance game: daylight saving time and traffic
+ lights are commonly cited as examples. However, notoriously dangerous intersections persist
 despite traffic lights, and well-understood social norms of behavior can allow smooth flows of
 heavy traffic despite the absence of traffic lights. Tom Vanderbilt (2008, 186-204) argues that
 norms can work better than traffic lights. At a more entertaining level, YouTube videos illustrate

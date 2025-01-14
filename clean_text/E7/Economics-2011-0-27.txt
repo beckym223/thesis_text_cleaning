@@ -14,8 +14,8 @@ and
 (22) pdtt = (1 + ^-i)(l + fdMk,t-i ~ (1 - Sd)qdtt.
 Here, rnt_{ is the nominal rate of interest for borrowing at the end of period t ? 1
 and repaying at the end of period t.
-The market-clearing condition for capital equates the value of the marginal prod?
-uct of capital to the rental price:
+The market-clearing condition for capital equates the value of the marginal product
+ of capital to the rental price:
 (23) (1 - a)^- = pKt.
 B. Household Product Demand
 Households fall into two categories, unconstrained ones who follow the standard
@@ -24,8 +24,8 @@ intertemporal choice resulting from an inability to engage in unsecured borrowin
 beyond a modest limit. Both types of households have active choices about the
 division of spending between consumption of nondurable goods and services, on
 the one hand, and the services of durable goods including housing, on the other
-hand. A tilde (~) denotes unconstrained households and a bar (~) denotes con?
-strained ones.
+hand. A tilde (~) denotes unconstrained households and a bar (~) denotes constrained
+ ones.
 Consumption is a Cobb-Douglas composite of consumption of standard output,
 Cyft, and the services of durables, dt_x:
 (24) c, = c*td]:t,

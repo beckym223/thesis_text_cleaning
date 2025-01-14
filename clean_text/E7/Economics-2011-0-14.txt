@@ -20,5 +20,5 @@ where p is the dollar price of output.
 Other real returns follow the same rule, all applying the same rate of inflation. I
 neglect any changes in risk, so when I assume that the safe short-term real return
 is roughly constant, I am assuming that returns for all assets of whatever risk are
-similarly constant. Although there is good evidence against the hypothesis of con?
-stant risk premiums, especially during crises, I do not believe that there is evidence
+similarly constant. Although there is good evidence against the hypothesis of constant
+ risk premiums, especially during crises, I do not believe that there is evidence

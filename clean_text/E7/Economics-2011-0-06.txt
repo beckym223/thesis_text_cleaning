@@ -6,8 +6,8 @@ and durables in the 1990s, but a conspicuous bulge in household capital occurred
 in the 2000s. The economy reached the crisis with about 14 percent more housing
 and durables in relation to GDP than normal. Almost all economic models?and the
 historical performance of the US economy?agree on the principle that what goes
-above normal will tend to return to normal. Thus the overhang of housing and con?
-sumer durables pointed toward lower future spending in these categories, no matter
+above normal will tend to return to normal. Thus the overhang of housing and consumer
+ durables pointed toward lower future spending in these categories, no matter
 what happened to the economy.
 I'll not say anything more about the fascinating topic of the causes of the splurge on
 houses and cars and the rise and fall in housing prices. I just take the abnormal level
@@ -20,6 +20,6 @@ and Alberto Martin and Jaume Ventura (2010). No view about the origins of bubble
 crashes is yet firmly established.
 III. Illiquid Households and Debt-Service Commitments
 A significant fraction of American consumers appear to be at corners in their
-intertemporal equilibria?they borrow as much as they can and hold almost no liq?
-uid assets. I take a family as liquidity-constrained if its holdings of net liquid assets
+intertemporal equilibria?they borrow as much as they can and hold almost no liquid
+ assets. I take a family as liquidity-constrained if its holdings of net liquid assets
 are less than two months of income. Net liquid assets are the difference between

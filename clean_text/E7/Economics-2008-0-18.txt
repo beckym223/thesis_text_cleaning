@@ -16,21 +16,21 @@ Primiceri's definition of an SCE is special in that, while it sets the governmen
 equal to the true model/(x'| p), it assumes that private agents make forecasts of inflation that do
 not equal those implied by/(V| p). There is implicitly a third density f{xl) inside the model that
 equals neither the government's/(V|(9) nor nature's f(xl\p). In particular, Primiceri assumes
-thaXf{xt\0) =f(xt\p) is a version of a Solow-Tobin model that itself imputes irrational expecta?
-tions about inflation to the private sector.32
-Primiceri has a time invariant true data-generating model featuring (i) an expectations aug?
-mented Phillips curve; (ii) a Phillip Cagan (1956)-Friedman (1957) adaptive expectations scheme
-that describes how the public forms expectations of inflation that appear in (i)33; (iii) an aggre?
-gate demand equation that describes how the time t value of an uninterpreted government policy
+thaXf{xt\0) =f(xt\p) is a version of a Solow-Tobin model that itself imputes irrational expectations
+ about inflation to the private sector.32
+Primiceri has a time invariant true data-generating model featuring (i) an expectations augmented
+ Phillips curve; (ii) a Phillip Cagan (1956)-Friedman (1957) adaptive expectations scheme
+that describes how the public forms expectations of inflation that appear in (i)33; (iii) an aggregate
+ demand equation that describes how the time t value of an uninterpreted government policy
 instrument vt affects current and future gaps between the unemployment rate ut and a natural
 rate of unemployment u?;34 and (iv) a one-period government loss function {rrt - 7r*)2 + \{ut ?
-k?tN)2 where 7r* is a target rate of inflation and u^ is the government's estimate of natural unem?
-ployment rate. The model allows the government's misperception of the natural rate to influence
+k?tN)2 where 7r* is a target rate of inflation and u^ is the government's estimate of natural unemployment
+ rate. The model allows the government's misperception of the natural rate to influence
 policy, as advocated by Orphanides (2002, 2003). It also allows two other aspects of government
 perceptions to influence policy in important ways, namely, perceptions about the persistence of
 inflation and about the contemporaneous trade-off between inflation and unemployment.
-Primiceri's maximum likelihood estimates succeed in accounting for the acceleration of infla?
-tion in the 1960s and 1970s, then the fall in the 1980s in terms of the government's initial under?
-estimates of the natural unemployment rate, and a temporal pattern of underestimates of the
+Primiceri's maximum likelihood estimates succeed in accounting for the acceleration of inflation
+ in the 1960s and 1970s, then the fall in the 1980s in terms of the government's initial underestimates
+ of the natural unemployment rate, and a temporal pattern of underestimates of the
 persistence of inflation and overestimates of the costs of disinflation coming from its estimated
 inflation-unemployment trade-off.35 Figure 1 reproduces Primiceri's figure II, which shows his

@@ -1,9 +1,9 @@
-That is not the end of the story, however, because the adaptive model's endogenous stochas?
-tic dynamics occasionally make v vary enough for the government to discover a version of the
+That is not the end of the story, however, because the adaptive model's endogenous stochastic
+ dynamics occasionally make v vary enough for the government to discover a version of the
 natural rate hypothesis that is too strong because it mistakenly asserts that there is almost no
 trade-off whatsoever between 77 and U The adaptive system is destined to experience recurrent
-episodes in which "a most likely unlikely" sequence of h>'s lowers the unconditional correla?
-tion between U and 77, which alters 0, in ways that induce the government to push vt below its
+episodes in which "a most likely unlikely" sequence of h>'s lowers the unconditional correlation
+ between U and 77, which alters 0, in ways that induce the government to push vt below its
 self-confirming value.30 That generates data that further weaken the unconditional correlation
 between inflation and unemployment and moves 6t in a direction that drives v even lower. The
 ultimate destination of this "escape" from a self-confirming equilibrium is that the government
@@ -15,26 +15,26 @@ push inflation back toward the suboptimal SCE value of h(0o). If this is a good 
 Volcker-Greenspan stabilization, we should be worried.
 Details.?Simulations of Sims (1988) generated sample paths that seemed promising for
 explaining a Volcker-like stabilization prompted by the government's ability to learn a good
-enough version of the natural rate hypothesis. However, formal econometric attempts to imple?
-ment the model by Chung (1990) and Sargent (1999) failed to fit the US data well, mainly because
+enough version of the natural rate hypothesis. However, formal econometric attempts to implement
+ the model by Chung (1990) and Sargent (1999) failed to fit the US data well, mainly because
 the government's adaptive algorithm caught on to the adverse shifts in the Phillips curve quickly
 in the early 1970s. Sargent, Williams, and Zha (2006b) replaced the constant gain algorithm
-used in the earlier models with a Bayesian updating procedure implied by a drifting coeffi?
-cients model with covariance matrix V for the innovations in the drifts to the coefficients. By
+used in the earlier models with a Bayesian updating procedure implied by a drifting coefficients
+ model with covariance matrix V for the innovations in the drifts to the coefficients. By
 estimating V along with the parameters of nature's model by maximum likelihood, they reverse
 engineered a drifting set of government beliefs that, when put into the Phelps problem each
 period, produce a sequence of first-period Phelps policy recommendations that do a good job of
 matching the actual inflation data. The estimated V implies that the intercept in the Fed's model
 is quite volatile and thus makes contact with Arthur Burns's Fed, which according to Robert
 Hetzel (1998), attributed much of the inflation of the 1970s to special factors akin to dummy
-variables that capture intercept drift in regressions. More generally, the large estimated V con?
-veys the image of a government that expects coefficients to drift so much that it discounts past
+variables that capture intercept drift in regressions. More generally, the large estimated V conveys
+ the image of a government that expects coefficients to drift so much that it discounts past
 data heavily. The statistical model's conjuring up a Fed that overfits its models to recent data is
 food for thought for Fed watchers. The synthesized government beliefs succeed in rationalizing
 inflation ex post as a response to these government beliefs, and the beliefs themselves do a good
 job of forecasting inflation, thus capturing what seems to have been a remarkably good record of
 inflation forecasting by the Fed (see Bernanke 2007).31
-The Best of All Possible Worlds??In the preceding story, government policy actions recur?
-rently take values that are optimal under the correct model, but only temporarily because the
+The Best of All Possible Worlds??In the preceding story, government policy actions recurrently
+ take values that are optimal under the correct model, but only temporarily because the
 mean dynamics push the government's beliefs back to the SCE. Thus, this story, at best, only
 temporarily supports the optimism expressed by Sims (1988) that the government's misspecified

@@ -5,31 +5,31 @@ because the intrinsic incentives they generate can interact with the standard mo
 extrinsic incentives (see Roland B?nabou and Jean Tir?le 2003). Reforms to improve incentives
 that are typically advocated can prove counterproductive if they destroy the existing benefits of
 prosocial preferences.
-The usual theory of prosocial preferences relies on an evolutionary mechanism of group selec?
-tion. A society whose members have such preferences can take collective action that benefits the
+The usual theory of prosocial preferences relies on an evolutionary mechanism of group selection.
+ A society whose members have such preferences can take collective action that benefits the
 whole group in its competition with other groups. But this runs into a fundamental problem: can
 such social equilibrium be stable, or will it be destroyed because the selfish mutants that arise
-within a social group will seize more of the gain, and therefore be more fit in the sense of evolu?
-tionary dynamics, than cooperators? To sustain the good equilibrium, societies also need some
+within a social group will seize more of the gain, and therefore be more fit in the sense of evolutionary
+ dynamics, than cooperators? To sustain the good equilibrium, societies also need some
 mechanism whereby the selfish are prevented from getting a higher payoff. This can be achieved
 if the social norms of behavior include a mechanism for punishing noncooperators, at a personal
 cost if need be. And indeed several experiments have found such behavior is widespread and
 may even have a neurological basis (Colin Camerer 2003, 46-47). Robert Boyd, Herbert Gintis,
-Samuel Bowles, and Peter Richardson (2003) show that a cooperative equilibrium can be sus?
-tained by cultural group-selection for such "strong reciprocator" strategies. When the prevailing
+Samuel Bowles, and Peter Richardson (2003) show that a cooperative equilibrium can be sustained
+ by cultural group-selection for such "strong reciprocator" strategies. When the prevailing
 strategy in the population is one that reciprocates nice behavior but punishes selfish deviations,
 selfish mutants cannot flourish.
 Prosocial preferences are not merely exogenous and genetically transmitted. Societies go
 to great lengths to instill such preferences in children during their process of socialization in
 families, school, and religious establishments, and continue the process in adults. Growth of
 such preferences is seen in experiments on ultimatum and dictator games (Colin Camerer 2003,
-65-67). When these experiments are conducted on children of different ages, very young chil?
-dren behave selfishly. By age 8 they develop a significant sense of equality. True prosocial prefer?
-ences develop gradually thereafter, with some relapses, finally to an adult fair-mindedness. Thus
+65-67). When these experiments are conducted on children of different ages, very young children
+ behave selfishly. By age 8 they develop a significant sense of equality. True prosocial preferences
+ develop gradually thereafter, with some relapses, finally to an adult fair-mindedness. Thus
 a long process of education and experience instills internalized norms into people's preferences.
-Economists have at last begun to recognize the practical importance of deliberate social for?
-mation of prosocial preferences, and incorporate it in their theories. Guido Tabellini (2008) mod?
-els this in the context of contract enforcement; other recent contributions include Assar Lindbeck
+Economists have at last begun to recognize the practical importance of deliberate social formation
+ of prosocial preferences, and incorporate it in their theories. Guido Tabellini (2008) models
+ this in the context of contract enforcement; other recent contributions include Assar Lindbeck
 and Sten Nyberg (2006) on work norms. In these models, each parent makes an independent
 decision on the upbringing of his/her own child, and a Nash equilibrium is studied. B?nabou and
 Tir?le (2006) consider transmission of beliefs rather than preferences, and the choice variable

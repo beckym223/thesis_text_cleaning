@@ -16,8 +16,8 @@ Unemployment is a leading symptom of the poor performance of the economy. It
 lingered near 10 percent three years into the slump.
 My discussion invokes a sequence of models to explain the central point about the
 failure of the interest rate to preserve full employment. Figure 2 is the starting point of
-the most stripped-down model. In this version, the real interest rate is completely flex?
-ible and can clear the labor market. The supply of employment is inelastic, a vertical
+the most stripped-down model. In this version, the real interest rate is completely flexible
+ and can clear the labor market. The supply of employment is inelastic, a vertical
 line, and the demand for employment slopes downward. A high interest rate results in
 deferral of investment and consumption, and employment is correspondingly low. The
 crisis, operating through the factors I just listed, shifts the demand curve to the left.

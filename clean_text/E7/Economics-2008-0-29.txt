@@ -1,22 +1,22 @@
 But Clarida, Gall, and Gertler (2000) estimated a forward-looking monetary policy reaction
 function for the postwar United States economy before and after Volcker's appointment as Fed
-Chairman in 1979, and they found substantial differences across periods. They found that inter?
-est rate policy in the Volcker-Greenspan period has been much more sensitive to changes in
-expected inflation than in the pre-Volcker period. They then extracted implications of the esti?
-mated rules for the equilibrium properties of inflation and output in a new Keynesian DSGE
+Chairman in 1979, and they found substantial differences across periods. They found that interest
+ rate policy in the Volcker-Greenspan period has been much more sensitive to changes in
+expected inflation than in the pre-Volcker period. They then extracted implications of the estimated
+ rules for the equilibrium properties of inflation and output in a new Keynesian DSGE
 model and showed that the Volcker-Greenspan rule is stabilizing, but that the earlier rule was
 not. Thomas A. Lubik and Frank Schorfheide (2004) estimated a new Keynesian model like
-Clarida et al.'s in which the equilibrium is undetermined if monetary policy is passive. They con?
-structed posterior weights for the determinacy and indeterminacy region of the parameter space,
+Clarida et al.'s in which the equilibrium is undetermined if monetary policy is passive. They constructed
+ posterior weights for the determinacy and indeterminacy region of the parameter space,
 as well as estimates for the propagation of fundamental and sunspot shocks. They found that US
 monetary policy after 1982 was consistent with determinacy, but that the pre-Volcker policy was
 not, and also that before 1979 indeterminacy substantially altered the propagation of shocks.
 In contrast, working in terms of less completely interpreted models, Sims and Zha (2006)
 estimated a multivariate regime-switching model for monetary policy and found that the best fit
 allows time variation in disturbance variances only. When they permitted the systematic VAR
-coefficients to change, the best fit was with change only in the monetary policy rule. They esti?
-mated three regimes that correspond to periods across which the folk-wisdom states that mone?
-tary policy differed. But they found that those differences among regimes were not large enough
+coefficients to change, the best fit was with change only in the monetary policy rule. They estimated
+ three regimes that correspond to periods across which the folk-wisdom states that monetary
+ policy differed. But they found that those differences among regimes were not large enough
 to account for the rise and decline of inflation of the 1970s and 1980s. Likewise, by estimating
 a time-varying VAR with stochastic volatility, Primiceri (2005) found that both the systematic
 and nonsystematic components of monetary policy had changed. In particular, he found that

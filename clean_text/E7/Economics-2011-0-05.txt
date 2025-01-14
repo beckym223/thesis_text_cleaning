@@ -1,27 +1,27 @@
 The new intersection of supply and demand occurs at the same level, full employment,
 but a much lower interest rate. Here, the interest rate has done its job to preserve full
-employment. For example, the collapse of house construction is offset by higher busi?
-ness investment and higher consumption of nondurables. Note that the story leaves the
+employment. For example, the collapse of house construction is offset by higher business
+ investment and higher consumption of nondurables. Note that the story leaves the
 rest of the world out of the picture for simplicity.
-The real interest rate did not fall to ?2.5 percent in the Great Slump or in ear?
-lier slumps. Despite huge efforts in the Great Slump, the Federal Reserve could do
+The real interest rate did not fall to ?2.5 percent in the Great Slump or in earlier
+ slumps. Despite huge efforts in the Great Slump, the Federal Reserve could do
 no more than drive short-term rates to zero and try to get longer-term rates down
 through non-standard policies. I'll deal only with the short rate, again for simplicity.
-The lowest possible nominal interest rate is zero, so the lowest possible real inter?
-est rate is minus the rate of inflation. In the worst case?the Great Depression?the
+The lowest possible nominal interest rate is zero, so the lowest possible real interest
+ rate is minus the rate of inflation. In the worst case?the Great Depression?the
 price level fell for several consecutive years and the real rate was pinned at a high
 positive level. Figure 3 shows the simple implication of a real interest rate pinned at
 zero instead of falling to ?2.5 percent. At the rate of zero, there is excess supply of
 labor. That excess supply translates into unemployment. Much of the analysis here
 involves building models that describe that translation.
 I will proceed by documenting the conditions in the US economy after the crisis,
-at the beginning of the Great Slump. Then I will discuss the effects in general equi?
-librium of an excessive real interest rate, first in a two-period setting and then in an
+at the beginning of the Great Slump. Then I will discuss the effects in general equilibrium
+ of an excessive real interest rate, first in a two-period setting and then in an
 infinite-horizon generalization. Finally, I will launch the infinite-horizon model from
 the initial conditions immediately post-crisis to demonstrate the large and persistent
 shortfall of economic activity that occurs in a model with a real interest rate pinned
 above its full-employment value when it starts with those initial conditions. I compare
 that outcome to the equilibrium in a counterfactual economy with a fully flexible real
 interest rate, where the effects are a low initial value of the real interest rate and mild
-changes in the composition of output but no decline of output below its full-employ?
-ment value. I conclude with some observations on policies to fight the long slump.
+changes in the composition of output but no decline of output below its full-employment
+ value. I conclude with some observations on policies to fight the long slump.

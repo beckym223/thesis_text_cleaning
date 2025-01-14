@@ -1,8 +1,8 @@
 affect the data generating mechanism. It is different when people learning about an equilibrium
 are inside the model. Their learning affects decisions and alters the distribution of endogenous
 variables over time, making them aim at moving targets.
-Suppose that an adaptive learner begins with an initial estimate 0O at time 0 and uses a recur?
-sive least squares learning algorithm
+Suppose that an adaptive learner begins with an initial estimate 0O at time 0 and uses a recursive
+ least squares learning algorithm
 (16) 0t+x-0t = ee(0ny\v\t).
 As in the models of learning in games of Dean P. Foster and H. Peyton Young (2003) and Young
 (2004, ch. 8), we assume that decision makers mistakenly regard their time t model indexed by

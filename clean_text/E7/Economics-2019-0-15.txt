@@ -42,8 +42,8 @@ ER
 verage
 safe rate
 ER
-f  , or is it some other rate altogether?
-The model is the same as before, except for the introduction of uncertainty.
+f  , or is it some other rate altogetherThe
+ model is the same as before, except for the introduction of uncertainty.
 People born at time
 t
 ha

@@ -2,17 +2,17 @@ productivity growth raise the full-employment marginal product of capital back t
 the level of the fixed real wage.
 Data on business capital show no decline around 2008. Thus Shimer's model in its
 stated form does not explain the current slump unless there has been a decline in the
-effective capital stock not captured in the standard data. My assumption of declin?
-ing utilization of the capital stock would have that effect. At the end of the paper he
+effective capital stock not captured in the standard data. My assumption of declining
+ utilization of the capital stock would have that effect. At the end of the paper he
 suggests another approach that might have this implication.
 Shimer's model differs from the one developed here mainly in its lack of concern
-with the decline of the safe short-term nominal interest rate to zero during the cur?
-rent US slump and in other slumps, such as the one that began 20 years ago in Japan.
+with the decline of the safe short-term nominal interest rate to zero during the current
+ US slump and in other slumps, such as the one that began 20 years ago in Japan.
 An extension of his model to this topic would require adding features that deal with
 the nominal interest rate. The assumption of a competitive output market, together
 with almost any standard specification of the determination of the price level, would
-probably imply that the zero lower bound on the nominal interest rate does not mat?
-ter. The reason is that, in flexible-price monetary models, the immediate effect of an
+probably imply that the zero lower bound on the nominal interest rate does not matter.
+ The reason is that, in flexible-price monetary models, the immediate effect of an
 adverse shock is a discontinuous drop in the price level followed by a gradual rise.
 The expected rate of inflation rises the moment the shock hits. Thus the nominal
 interest rate rises and the lower bound of zero is irrelevant.
@@ -23,22 +23,22 @@ supply. The simplest answer?embodied in Krugman (1998) and Christiano et al.
 with the assumption of a fixed real wage, this results in a model that accounts nicely
 for slumps. It is a fairly close cousin of the model developed here, which differs
 mainly in its addition of a DMP-style model of the labor market.
-XI. How Keynesian Is the Model?
-Modern macroeconomics views John Maynard Keynes as one of the major con?
-tributors to current thinking, along with others, including Robert Solow, Milton
+XI. How Keynesian Is the ModelModern
+ macroeconomics views John Maynard Keynes as one of the major contributors
+ to current thinking, along with others, including Robert Solow, Milton
 Friedman, Franco Modigliani, James Tobin, and Robert Lucas. I still have and
 read the copy of the General Theory that I bought in 1962. By far Keynes's most
-important contribution to macroeconomic modeling was his insistence that unem?
-ployment be a central element of our thinking about the business cycle. Keynes
+important contribution to macroeconomic modeling was his insistence that unemployment
+ be a central element of our thinking about the business cycle. Keynes
 successfully disputed the notion that market clearing describes the labor market.
 The reigning theory of the labor market in macroeconomics today, created by Peter
 Diamond, Dale Mortensen, and Christopher Pissarides (Mortensen and Pissarides
-1994), replaces the cleared labor market with sequences of idiosyncratic transac?
-tions between workers and employers. Unemployment arises because job-seekers
+1994), replaces the cleared labor market with sequences of idiosyncratic transactions
+ between workers and employers. Unemployment arises because job-seekers
 have to wait until they are able to make a transaction.
 Keynes embodied his approach to modeling unemployment in a concept called
-aggregate demand. Although schools of thought are unimportant in macroeco?
-nomics today, macroeconomists do fall into two camps. One disregards aggregate
+aggregate demand. Although schools of thought are unimportant in macroeconomics
+ today, macroeconomists do fall into two camps. One disregards aggregate
 demand and builds models that may or may not include unemployment. The other
 thinks that aggregate demand is really important, but does not try to formalize it. A
 group in the middle?including me?thinks that Keynes was onto something, but

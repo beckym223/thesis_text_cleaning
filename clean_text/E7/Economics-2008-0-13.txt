@@ -1,7 +1,7 @@
-remainder of this paper, I focus on yet another application, namely, to situations in which a gov?
-ernment solves an intelligent design problem using a misspecified model.
-D. REE or SCE?
-Some builders of adaptive models have specified an approximating model to equal a true one,
+remainder of this paper, I focus on yet another application, namely, to situations in which a government
+ solves an intelligent design problem using a misspecified model.
+D. REE or SCESome
+ builders of adaptive models have specified an approximating model to equal a true one,
 meaning that there exists a value 0O for which/(jx, vx | p) = /(j00, v?? 10O) for all plans v00, not just
 equilibrium ones. This specification prevails in adaptive models in which least squares learning
 schemes converge to rational expectations equilibria (see Woodford 1990; Marcet and Sargent
@@ -25,8 +25,8 @@ V. Learning Monetary Policy before and after Ricardo
 Central bankers are preoccupied with nominal anchors. For centuries, commodity monies
 built in redundant nominal anchors. When Ricardo wrote, new technologies of coin production
 and expert opinion had established the confidence to dispense with redundant nominal anchors
-and to rely on a unique anchor taking the form of melt-mint points for a single standard commod?
-ity coin. In the twentieth century, monetary authorities implemented Ricardo's recommendation
+and to rely on a unique anchor taking the form of melt-mint points for a single standard commodity
+ coin. In the twentieth century, monetary authorities implemented Ricardo's recommendation
 to banish precious metals from the monetary system and sought an alternative monetary anchor
 based on a theory of fiat money and the public's faith in the wisdom and good intentions of the
 monetary authorities.

@@ -11,8 +11,8 @@ From the earlier assumption in equation (31),
 F. Material Balance
 At the beginning of a period, the stock of installed capital is kt_x and the stock of
 housing is dt_x. At the end of the period, output yt becomes available and is allocated
-to consumption of goods cy t, and investment in capital and housing, including adjust?
-ment cost, resulting in the new capital stock kt and new housing stock dt. Firms expend
+to consumption of goods cy t, and investment in capital and housing, including adjustment
+ cost, resulting in the new capital stock kt and new housing stock dt. Firms expend
 jnt/q(nt) in recruiting cost. The equation for the economy's material balance is
 (42) kt + % {k> ~ k'-^ + d,+ % {d' ~ d'~l)2
 2 2 dt_x

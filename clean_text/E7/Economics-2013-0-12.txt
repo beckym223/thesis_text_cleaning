@@ -1,5 +1,5 @@
-But back to thinking of it as debt. What if we do provide tax backing for the debt?
-Suppose everything is as before, but now the government imposes a lump sum tax r
+But back to thinking of it as debt. What if we do provide tax backing for the debtSuppose
+ everything is as before, but now the government imposes a lump sum tax r
 on the young each period. The government budget constraint is now
 / x jB, RBt_ i
 <12> i=-ir-T'

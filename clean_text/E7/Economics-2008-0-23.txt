@@ -10,10 +10,10 @@ depends critically on the direction of fit, as documented by Cogley and Sargent 
 The sacrifice ratios differ so much across submodels because of how the submodels interpret
 the diminished, near-zero contemporaneous covanance between inflation and unemployment
 that had emerged by the mid-1970s In a Keynesian Phillips curve, this diminished covanance
-flattens the short-term trade-off, making the authorities believe that a long spell of high unem?
-ployment would be needed to bring inflation down, prompting Keynesian modelers to be less
-inclined to disinflate But for a classical Phillips curve, the shift toward a zero covanance steep?
-ens the short-term tradeoff, making the authorities believe that inflation could be reduced at less
+flattens the short-term trade-off, making the authorities believe that a long spell of high unemployment
+ would be needed to bring inflation down, prompting Keynesian modelers to be less
+inclined to disinflate But for a classical Phillips curve, the shift toward a zero covanance steepens
+ the short-term tradeoff, making the authorities believe that inflation could be reduced at less
 cost in terms of unemployment Thus, a classically oriented policymaker was more inclined to  disinflate
 D Lessons about Inflation Targeting
 Each of our stones about post-WWII US inflation features a government loss function that
@@ -23,8 +23,8 @@ Full Employment Act of 1946 and the Full Employment and Balanced Growth Act of 1
 loss function is 772 instead of (U2 + 772),40 then none of our stones could get off the ground
 Despite the different imperfections in the approximating models they attribute to the monetary
 authority, all of the models would have the monetary authority always set target inflation to
-zero and be indifferent to the accompanying unemployment outcome Each of our three sto?
-nes thus contains a justification for inflation targeting as a device that compensates for model
+zero and be indifferent to the accompanying unemployment outcome Each of our three stones
+ thus contains a justification for inflation targeting as a device that compensates for model
 misspecification 4I
 Inflation-unemployment outcomes after WWII have caused many countries to adjust what
 they expect from monetary policy by mandating inflation targeting That partly reflects extensive

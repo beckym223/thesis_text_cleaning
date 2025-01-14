@@ -1,5 +1,5 @@
-recommendation. Ricardo proposed that a country's domestic money supply should ideally con?
-sist of paper notes that the government promises to exchange at a pegged price for gold bullion
+recommendation. Ricardo proposed that a country's domestic money supply should ideally consist
+ of paper notes that the government promises to exchange at a pegged price for gold bullion
 bars, but that no gold coins should actually be minted. A variant of Ricardo's scheme in which a
 government promises to redeem domestic notes for gold, but only for foreign residents, came to
 be practiced around 1900. This arrangement, by which "a cheap local currency [is] artificially
@@ -14,25 +14,25 @@ convert tokens into that standard coin in order to produce the correct denominat
 It was one more step from the standard formula or Ricardo's proposal to the recommendation of
 Fisher (1920), Keynes, and others that well-intentioned government officials, not the mint and
 meit points for a standard coin, should regulate the supply of money. Discovering the quantity
-theory of money was an essential step in learning the conditions under which a flat money sys?
-tem could be managed to provide greater price level stability than could be achieved with a gold
+theory of money was an essential step in learning the conditions under which a flat money system
+ could be managed to provide greater price level stability than could be achieved with a gold
 standard.
 As Keynes wanted, in the twentieth century, governments throughout the world carried out
 the historically unprecedented experiment of managing currencies completely cut off from gold
-backing (see Friedman 1992, 245). Figure 5 documents that, at least until very recently, the mon?
-etary authorities in four hard-currency countries failed to deliver the kind of price stability that a
+backing (see Friedman 1992, 245). Figure 5 documents that, at least until very recently, the monetary
+ authorities in four hard-currency countries failed to deliver the kind of price stability that a
 commodity standard had achieved. There was much more inflation in many other countries.
 C. A Monetary Policy Rules Literature
 The adaptive models described in Section VI explain the rise and fall of post-World War II
 US inflation in terms of monetary policy rules that drifted in response to drifts in the monetary
-authorities' models of the economy. All three models embed very crude descriptions of the mon?
-etary policy rules and sidestep many interesting questions about monetary policy transmission
+authorities' models of the economy. All three models embed very crude descriptions of the monetary
+ policy rules and sidestep many interesting questions about monetary policy transmission
 mechanisms. It is appropriate to say a few words about a related literature that uses time series
 data to infer the structure of postwar US monetary policy rules and how they have changed over
 time. The bottom line is that this literature has mixed evidence about whether monetary policy
 rules shifted enough to validate stories along the lines of our three adaptive models.55
-Bernanke and Ilian Mihov (1998) developed an SVAR methodology for measuring innova?
-tions in monetary policy and their macroeconomic effects. They compared alternative ways of
+Bernanke and Ilian Mihov (1998) developed an SVAR methodology for measuring innovations
+ in monetary policy and their macroeconomic effects. They compared alternative ways of
 measuring monetary policy shocks and derived a new measure of policy innovations based on
 possibly time-varying estimates of the Fed's operating procedures. They presented a measure of
 the overall stance of policy (see Bernanke and Mihov 1998, fig. III, 899) that is striking in how
