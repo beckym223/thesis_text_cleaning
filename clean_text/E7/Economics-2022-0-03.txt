@@ -1,44 +1,42 @@
-1078
-THE AMERICAN ECONOMIC REVIEW APRIL 2022
 wages (see Di Addario et al. forthcoming for a simple exposition focusing on start-
 ing wages for each job).
 B. Differentiated Demand Models
-Chamberlain (1933) considered a model in which firms produce a differentiated 
-set of products and set prices ignoring strategic interactions with other producers. 
+Chamberlain (1933) considered a model in which firms produce a differentiated
+set of products and set prices ignoring strategic interactions with other producers.
 This model translates directly to the supply side,5 though to the best of my knowl-
 edge Bhaskar and To (1999) were the first to try to formalize the idea of mon-
-opsonistic competition. Chamberlain’s simple graphical analysis was reproduced 
-in many undergraduate textbooks, but (as noted above) had a limited impact on 
-subsequent research until Spence (1976) and Dixit and Stiglitz (1977) wrote down 
- CES-style models of representative agent preferences that rationalized his frame-
-work. Models based on these preferences (and generalizations with a nested CES 
-structure) have proven amenable to a multitude of applications in different fields. 
-Recently, Berger, Herkenhoff, and Mongey (2021) have adapted the approach to the 
+opsonistic competition. Chamberlain’s simple graphical analysis was reproduced
+in many undergraduate textbooks, but (as noted above) had a limited impact on
+subsequent research until Spence (1976) and Dixit and Stiglitz (1977) wrote down
+CES-style models of representative agent preferences that rationalized his frame-
+work. Models based on these preferences (and generalizations with a nested CES
+structure) have proven amenable to a multitude of applications in different fields.
+Recently, Berger, Herkenhoff, and Mongey (2021) have adapted the approach to the
 study of wage setting.
-An alternative approach to modeling demand for differentiated products is the 
-multinomial logit (MNL) model proposed by McFadden (1974, 1978). The MNL 
-and its generalizations specify  individual-level preferences that lead to convenient 
-expressions for the share of consumers that purchase each product (Berry 1994), 
-and are widely used in industrial organization (IO) and labor economics. Card 
-et al. (2018) proposed the use of MNL style preferences to model the dispersion in 
-tastes for different workplaces. If employers ignore strategic interactions in wage 
+An alternative approach to modeling demand for differentiated products is the
+multinomial logit (MNL) model proposed by McFadden (1974, 1978). The MNL
+and its generalizations specify  individual-level preferences that lead to convenient
+expressions for the share of consumers that purchase each product (Berry 1994),
+and are widely used in industrial organization (IO) and labor economics. Card
+et al. (2018) proposed the use of MNL style preferences to model the dispersion in
+tastes for different workplaces. If employers ignore strategic interactions in wage
 setting, their setup leads to very simple expressions for the supply of labor to indi-
-vidual firms which can be used to rationalize the firm effects in a model like that of 
-Abowd, Kramarz, and Margolis (1999). Azar, Berry, and Marinescu (2019) adapt 
-this approach (with nested MNL preferences) to model the supply of applicants 
-to different job openings. Likewise, Lamadon, Mogstad, and Setlzer (2022) use a 
+vidual firms which can be used to rationalize the firm effects in a model like that of
+Abowd, Kramarz, and Margolis (1999). Azar, Berry, and Marinescu (2019) adapt
+this approach (with nested MNL preferences) to model the supply of applicants
+to different job openings. Likewise, Lamadon, Mogstad, and Setlzer (2022) use a
 nested MNL specification to model the supply of workers to individual firms.
-While the “representative agent CES” approach and the “individual level MNL” 
-approach might appear to be very different ways of modeling consumer demand 
-(or labor supply), Anderson, de Palma, and Thisse (1978) and Verboven (1996) 
-showed that at the market level they are isomorphic (subject to functional form 
-choices about the terms in the CES function and the indirect utility function in the 
-MNL).6 This isomorphism is extremely convenient and in principal allows analysts 
-to proceed with either approach, and build on advances that have been made in the 
+While the “representative agent CES” approach and the “individual level MNL”
+approach might appear to be very different ways of modeling consumer demand
+(or labor supply), Anderson, de Palma, and Thisse (1978) and Verboven (1996)
+showed that at the market level they are isomorphic (subject to functional form
+choices about the terms in the CES function and the indirect utility function in the
+MNL).6 This isomorphism is extremely convenient and in principal allows analysts
+to proceed with either approach, and build on advances that have been made in the
 two literatures.
-5 For example, one can draw an  s-s curve showing the supply curve to a firm if its competitor’s wages are held 
-constant, and an  S-S curve showing the supply curve when all their wages shift together (as might happen with a 
+5 For example, one can draw an  s-s curve showing the supply curve to a firm if its competitor’s wages are held
+constant, and an  S-S curve showing the supply curve when all their wages shift together (as might happen with a
 rise in the minimum wage, for example). The latter will be less elastic than the former (and could even be vertical).
 6 For example, Verboven (1996, Proposition 2) shows that the demand functions from a nested CES representa-
-tive consumer model are the same as those derived from a nested MNL logit  individual-level model where indirect 
-utility depends on the log of the price of the specific option chosen. 
+tive consumer model are the same as those derived from a nested MNL logit  individual-level model where indirect
+utility depends on the log of the price of the specific option chosen.

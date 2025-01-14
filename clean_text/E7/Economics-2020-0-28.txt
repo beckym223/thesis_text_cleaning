@@ -1,46 +1,44 @@
-971
-BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
-with new QE programs assumed to add to assets already on the balance sheet from 
+with new QE programs assumed to add to assets already on the balance sheet from
 any prior programs. Thus, it is possible to observe the  long-run distribution of bal-
 ance sheet sizes associated with any particular strategy.
-Following Engen, Laubach, and Reifschneider (2015); Reifschneider (2016); and 
-Kiley (2018), and consistent with the empirical evidence (e.g., Ihrig et al. 2018), I 
-assume that $500 billion in asset purchases by the Fed lowers the  10-year Treasury 
-yield by 20 basis points, and the  5-year and  30-year yields by 17 and 7 basis points, 
-respectively.21 Assuming smaller effects of QE on rates would increase the scale of 
+Following Engen, Laubach, and Reifschneider (2015); Reifschneider (2016); and
+Kiley (2018), and consistent with the empirical evidence (e.g., Ihrig et al. 2018), I
+assume that $500 billion in asset purchases by the Fed lowers the  10-year Treasury
+yield by 20 basis points, and the  5-year and  30-year yields by 17 and 7 basis points,
+respectively.21 Assuming smaller effects of QE on rates would increase the scale of
 asset purchases required to achieve any particular economic outcome in my sim-
-ulations but otherwise not affect the results. I assume that the effects of QE on 
- longer-term rates are linear, exhibiting neither increasing nor decreasing returns. 
-Since the ability of QE to depress term premiums may be limited in practice, I also 
-ran simulations (not reported) in which term premiums are constrained from falling 
-more than 120 basis points below their  steady-state,  no-QE level, consistent with the 
-maximum effect found by Ihrig et al. (2018) for the Great Recession period. This 
+ulations but otherwise not affect the results. I assume that the effects of QE on
+longer-term rates are linear, exhibiting neither increasing nor decreasing returns.
+Since the ability of QE to depress term premiums may be limited in practice, I also
+ran simulations (not reported) in which term premiums are constrained from falling
+more than 120 basis points below their  steady-state,  no-QE level, consistent with the
+maximum effect found by Ihrig et al. (2018) for the Great Recession period. This
 additional assumption led to no material change in the results.
-Combination Policies.—Finally, I consider policies that combine forward 
-guidance, with an inflation threshold of 2 percent, with QE programs of varying 
+Combination Policies.—Finally, I consider policies that combine forward
+guidance, with an inflation threshold of 2 percent, with QE programs of varying
 aggressiveness.
-For each policy rule to be evaluated, I ran 500 simulations of FRB/US, drawing 
+For each policy rule to be evaluated, I ran 500 simulations of FRB/US, drawing
 model residuals from the  1970–2015 period. Each simulation is 200 periods (quar -
-ters). Results are reported for the second 100 quarters of each simulation, with the 
-first 100 quarters used to set initial conditions. Except for the  28-quarter limit on 
-the credibility of forward guidance, I assume  model-consistent expectations, that is, 
-the agents in the model are assumed to understand the dynamics of the economy, 
-including the form of the policy rule. Since the comparisons here are between steady 
-states,  model-consistent expectations seems the right assumption. An alternative 
-assumption is that only participants in financial markets know the model and the 
-policy rule; see Bernanke, Kiley, and Roberts (2019) for a discussion. Simulations 
+ters). Results are reported for the second 100 quarters of each simulation, with the
+first 100 quarters used to set initial conditions. Except for the  28-quarter limit on
+the credibility of forward guidance, I assume  model-consistent expectations, that is,
+the agents in the model are assumed to understand the dynamics of the economy,
+including the form of the policy rule. Since the comparisons here are between steady
+states,  model-consistent expectations seems the right assumption. An alternative
+assumption is that only participants in financial markets know the model and the
+policy rule; see Bernanke, Kiley, and Roberts (2019) for a discussion. Simulations
 using this alternative expectational assumption do not change the broad conclu-
-sions of the study; under the alternative assumption, forward guidance becomes 
-somewhat less effective (not surprisingly), but QE becomes slightly more effective. 
+sions of the study; under the alternative assumption, forward guidance becomes
+somewhat less effective (not surprisingly), but QE becomes slightly more effective.
 The solution method imposes a lower bound of zero on the current  short-term inter -
-est rate and on expected future  short-term rates.  Longer-term interest rates are not 
-prevented from going negative, reflecting negative term premiums; see below for 
+est rate and on expected future  short-term rates.  Longer-term interest rates are not
+prevented from going negative, reflecting negative term premiums; see below for
 further discussion.
 Results are shown for the case   r   ∗   = 1 in Table 3, and   r   ∗   = 0 in Table 4. The cor -
-responding nominal neutral interest rates,   i   ∗  , are in each case assumed to be the sum 
-of the assumed real neutral rate,   r   ∗  , and the inflation target,   π   ∗  . In particular, the 
-nominal neutral rate is 3 percent in Table 3 and 2 percent in Table 4, except for the 
+responding nominal neutral interest rates,   i   ∗  , are in each case assumed to be the sum
+of the assumed real neutral rate,   r   ∗  , and the inflation target,   π   ∗  . In particular, the
+nominal neutral rate is 3 percent in Table 3 and 2 percent in Table 4, except for the
 two policy rules in each table that assume an inflation target higher than 2 percent.
-21 The $500 billion is roughly in 2014 dollars—roughly, because it draws from several empirical sources. 
-Alternatively, the QE effects could have been calibrated to asset purchases relative to GDP or to the outstanding 
+21 The $500 billion is roughly in 2014 dollars—roughly, because it draws from several empirical sources.
+Alternatively, the QE effects could have been calibrated to asset purchases relative to GDP or to the outstanding
 stock of Treasury securities.
