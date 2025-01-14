@@ -12,16 +12,16 @@ herself (Robinson 1953).3
 A second and related reason is that the simple geometric apparatus developed by
 Robinson (and also used by Chamberlain in his book published in the same year)
 was not very useful for further analytical exercises. Stigler (1949) made this point
-forcefully with respect to Chamberlain’s theory of monopolistic competition, argu-
-ing “… it has not been useful in the concrete analysis of economic problems, in the
+forcefully with respect to Chamberlain’s theory of monopolistic competition, arguing
+“… it has not been useful in the concrete analysis of economic problems, in the
 sense that it does not contain more accurate or more comprehensive implications
 than neoclassical theory.” The importance of a tractable framework is underscored
 by the current status of Chamberlain’s idea. Once Spence (1976) and Dixit and
 Stiglitz (1977) wrote down constant-elasticity-of-substitution (CES) style models
-models of consumer demand, and showed how to embed those preferences in a gen-
-eral equilibrium setting, monopolistic competition took off, and is now a workhorse
-model for problems in macroeconomics, international trade, and economic geogra-
-phy (see Brakman and Heijdra 2004).
+models of consumer demand, and showed how to embed those preferences in a general
+equilibrium setting, monopolistic competition took off, and is now a workhorse
+model for problems in macroeconomics, international trade, and economic geography
+(see Brakman and Heijdra 2004).
 A third explanation is that in simple monopsony models, firms are ready and
 willing to hire any qualified worker who is willing to accept their offered wage.
 Indeed, a monopsonistic firm is always starved for labor. Proposing such a model in
@@ -29,9 +29,9 @@ the depths of the Great Depression was not ideal timing for Robinson. In contras
 today’s economy the idea of  labor-starved firms is more attractive.
 Fourth, the question of how wages and prices are set got caught up in the grand
 ideological debate over alternative economic systems that occupied many minds
-during the twentieth century. Robinson rather dogmatically insisted that any diver -
-gence between marginal products and wages represented a failure of market capital-
-ism. Chamberlain, for his part, spent many years defending the welfare properties
+during the twentieth century. Robinson rather dogmatically insisted that any divergence
+between marginal products and wages represented a failure of market capitalism.
+Chamberlain, for his part, spent many years defending the welfare properties
 of monopolistic competition (e.g., Chamberlain, 1950). Throughout the 1930s and
 into the Cold War era, economists were more interested in arguing about (often
 ill-posed) normative questions than in understanding the positive implications of

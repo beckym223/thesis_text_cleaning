@@ -1,16 +1,16 @@
 and log hours main effects. The interaction of log hours and occupation allows the
-relationship between hours and earnings to differ for each occupation. The com-
-puted elasticity of annual income with respect to weekly hours for each occupation
+relationship between hours and earnings to differ for each occupation. The computed
+elasticity of annual income with respect to weekly hours for each occupation
 is graphed in Figure 3 against the residual gender pay gap for college graduates from
 Figure 2, part B.34 There is a clear negative association between the residual gender
 earnings gap and the elasticity of annual earnings with respect to weekly hours.
 Occupations with higher elasticities have more negative log earnings gender gaps.
-The largest elasticities are for business occupations and the smallest are for tech-
-nology, science and health occupations. In fact, almost half of the business occu-
-pations have a computed elasticity that exceeds one, as does law. The business
+The largest elasticities are for business occupations and the smallest are for technology,
+science and health occupations. In fact, almost half of the business occupations
+have a computed elasticity that exceeds one, as does law. The business
 occupation with the lowest elasticity is that of financial examiner, an occupation
 often found in the federal and state government settings. Only one of the science
 and technology occupations has an elasticity of earnings with respect to hours that
 exceeds one and it is that of actuary.
 As I will later demonstrate using data on occupations in business and law, the
-impact of hours on the gender gap is large and goes far to explain much of the 
+impact of hours on the gender gap is large and goes far to explain much of the

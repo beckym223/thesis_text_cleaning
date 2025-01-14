@@ -6,8 +6,8 @@ actually choose. Of course in a world consisting only of Econs there would be no
 need for two different kinds of models. Economic agents would have the courtesy to
 make the optimal choices that the model determines are best (at least on average).
 But we are far from that world: We Humans struggle both to determine what the best
-choice would be and then to have enough willpower to implement that choice, espe-
-cially if it requires delay of gratification. So we need descriptive economic theories.
+choice would be and then to have enough willpower to implement that choice, especially
+if it requires delay of gratification. So we need descriptive economic theories.
 The first and most successful such theory is Kahneman and Tverksy's (1979)
 prospect theory, which has had an enormous impact on both economics and social
 science more generally.8 Beyond the insights of the model itself, prospect theory
@@ -22,8 +22,8 @@ view that is perhaps not always articulated but seems implicit in many writings.
 seems to be asserted that a theory of the economy must be based on rationality, as a
 matter of principle. Otherwise there can be no theory." Arrow noted that there could
 be many rigorous, formal theories based on behavior that economists would not be
-willing to call rational. He also pointed out the inconsistency of an economic theo-
-rist who toils for months to derive the optimal solution to some complex economic
+willing to call rational. He also pointed out the inconsistency of an economic theorist
+who toils for months to derive the optimal solution to some complex economic
 problem and then blithely assumes that the agents in his model behave as if they
 are naturally capable of solving the same problem. "We have the curious situation
 that scientific analysis imputes scientific behavior to its subjects. This need not be a
@@ -35,8 +35,8 @@ any descriptive theories) must abandon the inductive reasoning that is the core 
 neoclassical theories and instead adopt a deductive approach in which hypotheses
 and assumptions are based on observations about human behavior. In other words,
 behavioral economic theory must be evidence-based theory. The evidence upon
-which these theories can be based can come from psychology or other social sci-
-ences or it can be homemade. Some might worry about basing theories on empirical
+which these theories can be based can come from psychology or other social sciences
+or it can be homemade. Some might worry about basing theories on empirical
 observation, but this methodology has a rich tradition in science. The Copernican
 revolution, which placed the sun at the center of our solar system rather than the
 earth, was based on data regarding the movement of the planets, not on some first

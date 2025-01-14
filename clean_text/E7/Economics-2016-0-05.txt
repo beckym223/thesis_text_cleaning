@@ -4,8 +4,8 @@ no chance of beating a free program on our smartphones, much less a grandmaster.
 So, it makes no sense to assume that the representative agent plays chess as well as
 tic-tac-toe. But that is essentially what we assume in economics.
 When we assume that agents maximize utility (or profits) we do not condition
-that assumption on task difficulty. We assume that people are equally good at decid-
-ing how many eggs to buy for breakfast and solving for the right amount to save for
+that assumption on task difficulty. We assume that people are equally good at deciding
+how many eggs to buy for breakfast and solving for the right amount to save for
 retirement. That assumption is, on the face of it, preposterous. So why has it stuck?
 There has been a litany of explainawaytions.
 A. Aí If
@@ -16,8 +16,8 @@ which marginal cost equals marginal revenue. One of the participants in this deb
 was Richard Lester of Princeton who had the temerity to ask the owners of business
 firms how they actually made such decisions. Whatever firms were doing did not
 seem to be captured by the term "equating at the margin," and Lester (1946, p. 81)
-ended his paper this way: "This paper raises grave doubts as to the validity of con-
-ventional marginal theory and the assumptions on which it rests." Machlup (1946)
+ended his paper this way: "This paper raises grave doubts as to the validity of conventional
+marginal theory and the assumptions on which it rests." Machlup (1946)
 took up the defense of the traditional theory and argued that even if firm owners did
 not know how to calculate marginal costs and revenues, they would make decisions
 that would closely approximate such choices using their intuitions.
@@ -38,8 +38,8 @@ fact be expert billiard players."
 Friedman had a well-deserved reputation as a brilliant communicator and
 debater, and those skills are on full display in this passage. Using the mere
 two-word phrase "as if," Friedman essentially ended the debate about the realism
-of assumptions in economics. But given proper scrutiny, we can see that this pas-
-sage is simply a verbal sleight of hand. First of all, it is no accident that Friedman
+of assumptions in economics. But given proper scrutiny, we can see that this passage
+is simply a verbal sleight of hand. First of all, it is no accident that Friedman
 chooses to discuss an expert billiard player. The behavior of an expert in many
 activities may indeed be well captured by a model that assumes optimal behavior.
 But what about non-experts? Isn't economic theory supposed to be a theory

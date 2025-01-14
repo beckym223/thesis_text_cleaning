@@ -6,8 +6,8 @@ involved, this rise and fall in prices helped create the global Great Recession.
 The difference between the CUBA example and these much larger bubbles is that
 it is impossible to prove that prices in the latter were ever wrong. There is no clear
 smoking gun. But it certainly feels like asset prices can diverge significantly from
-fundamental value. Perhaps we should adopt the definition of market efficiency pro-
-posed by Fischer Black (1986) in his presidential address to the American Finance
+fundamental value. Perhaps we should adopt the definition of market efficiency proposed
+by Fischer Black (1986) in his presidential address to the American Finance
 Association, which had the intriguing one word title "Noise." Black (1986, p. 553)
 says "we might define an efficient market as one in which price is within a factor of
 two of value, i.e., the price is more than half of value and less than twice value. The
@@ -21,9 +21,9 @@ revised his number up to three. I would like to make two points about this. The 
 is that the efficient market hypothesis has been a highly useful, indeed essential
 concept in the history of research on financial markets. In fact, without the EMH
 there would have been no benchmark with which to compare anomalous findings.
-The only danger created by the concept of the EMH is if people, especially poli-
-cymakers, consider it to be true. If policymakers think that bubbles are impossible,
+The only danger created by the concept of the EMH is if people, especially policymakers,
+consider it to be true. If policymakers think that bubbles are impossible,
 then they may fail to take appropriate steps to dampen them. For example, I think it
 would have been appropriate to raise mortgage-lending requirements in cities where
 price to rental ratios seemed most frothy. Instead, this was a period in which lending
-requirements were unusually 
+requirements were unusually

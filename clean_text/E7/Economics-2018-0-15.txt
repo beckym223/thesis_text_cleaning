@@ -1,16 +1,16 @@
 a given time can lose their thickness through unraveling. For example, the American
-Philosophical Society (APS) is attempting to preserve the marketplace for inter -
-views provided by their Association’s Eastern Division meeting, which takes place around the time of the ASSA meetings, and serves the same function as a market-place for academic interviews. The recent growth of earlier Skype interviews has not only made that marketplace less thick, it has also moved flyouts and offers (and the time at which they must be accepted) earlier, leading to efforts by the philosophy association to stop further unraveling.
+Philosophical Society (APS) is attempting to preserve the marketplace for interviews
+provided by their Association’s Eastern Division meeting, which takes place around the time of the ASSA meetings, and serves the same function as a market-place for academic interviews. The recent growth of earlier Skype interviews has not only made that marketplace less thick, it has also moved flyouts and offers (and the time at which they must be accepted) earlier, leading to efforts by the philosophy association to stop further unraveling.
 47
-The design of attractive marketplaces can sometimes reverse unraveling. In med-
-icine and in some other markets, centralized clearinghouses have arisen partly in response to unraveling.
+The design of attractive marketplaces can sometimes reverse unraveling. In medicine
+and in some other markets, centralized clearinghouses have arisen partly in response to unraveling.
 III. Computerized Clearinghouses f or Stable Matching: Medical Labor Markets
 and School Choice
 A. Medical Labor Markets
 The labor markets that American medical doctors navigate in their early careers
 have pioneered one approach to reversing unraveling and avoiding congestion. These marketplaces are centralized at a different point than the market for new economists. While economists have a centrally located marketplace for interviews, new doctors have decentralized interviews. But they have a centralized clearinghouse through which all offers, acceptances, and rejections are made quickly by a computerized algorithm that takes as input the preference orderings over jobs submitted by appli-cants, and over applicants submitted by employers. (Thus, as I will describe, these markets are presently experiencing congestion in the interview process, but not in the process of making offers and acceptances.)
 48
-Almost all new American doctors go through a centralized labor market clear -
-inghouse when seeking their first positions as medical “residents” in teaching hos-pitals, and many doctors go through it again as they seek more senior positions. This became a widespread form of marketplace in medicine because the market for newly graduated physicians has essentially served as a model for other parts of the medical labor market, as many of these markets for more specialized, more senior physicians recapitulated the marketplace failures that had been encountered and overcome in the market for new doctors.
+Almost all new American doctors go through a centralized labor market clearinghouse
+when seeking their first positions as medical “residents” in teaching hos-pitals, and many doctors go through it again as they seek more senior positions. This became a widespread form of marketplace in medicine because the market for newly graduated physicians has essentially served as a model for other parts of the medical labor market, as many of these markets for more specialized, more senior physicians recapitulated the marketplace failures that had been encountered and overcome in the market for new doctors.
 Briefly, the market for new doctors unraveled, first incrementally and then by
 leaps and bounds, in the first half of the twentieth century, until by 1945 new doctors were customarily hired two years before they graduated from medical school. From 1945 through 1950 there were successful attempts to specify a time before which offers should not be made, but (as in the markets for lawyers some years later) this led to congestion, and exploding offers that gave applicants and employers little opportunity to consider multiple opportunitie

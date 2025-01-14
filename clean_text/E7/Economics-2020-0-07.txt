@@ -7,11 +7,11 @@ rate, fed funds and Eurodollar futures markets provide useful estimates of polic
 expectations (Kuttner 2001), but no analogous markets exist for asset purchases
 and other nontraditional policies. As an alternative, several researchers have used
 surveys and media reports to try to quantify those expectations. For example, in
-the European context, De Santis (2019) attempted to estimate the financial mar -
-ket effects of the ECB’s Asset Purchase Program, its first foray into  large-scale
+the European context, De Santis (2019) attempted to estimate the financial market
+effects of the ECB’s Asset Purchase Program, its first foray into  large-scale
 QE, announced in January 2015. ECB policymakers and media commentary had
-strongly foreshadowed the program, so its actual announcement—like the announce-
-ment of later rounds of QE in the United States—had only modest market effects,
+strongly foreshadowed the program, so its actual announcement—like the announcement
+of later rounds of QE in the United States—had only modest market effects,
 with the average ( GDP-weighted)  10-year sovereign debt yield in the euro area
 declining by about 10 basis points. To try to control for market expectations of
 ECB actions, De Santis counted the number of news stories on Bloomberg that
@@ -31,8 +31,8 @@ planned purchases will be devoted to a particular asset should raise the price o
 asset relative to others. An impressive literature has been built on this insight.8 For
 example, in a careful study, Cahill et al. (2013) used data on  within-day prices on
 all outstanding US Treasury securities (excluding  inflation-indexed bonds) for the
-period 2008 to 2012. Their goal was to study, over time frames as short as 30 min-
-utes, not just how QE announcements affected overall yields but how they affected
+period 2008 to 2012. Their goal was to study, over time frames as short as 30 minutes,
+not just how QE announcements affected overall yields but how they affected
 the relative yields of individual securities. That led them to focus on announcements
 about which securities would be targeted for purchase. To measure unexpected shifts
 in purchase plans, the authors used the Primary Dealer Survey and other sources.

@@ -3,8 +3,8 @@ is added to the right-hand side of the first equation and -sR to the right-hand 
 the third equation, where s > 0 is a resusceptibility rate. In this model the infectives'
 path may, depending on parameters, look similar to that in Figure 2 but approaching
 a nonzero horizontal asymptote as time increases: the infectives never effectively
-disappear. The SIR model can also be modified so that an encounter between a sus-
-ceptible and an infected leads to an increase in exposed E, a fourth compartment,
+disappear. The SIR model can also be modified so that an encounter between a susceptible
+and an infected leads to an increase in exposed E, a fourth compartment,
 who become infective later (the SEIR model). The model has also been modified to
 incorporate partial immunity after cure, birth of new susceptibles, the presence of
 superspreaders with very high contagiousness, geographical patterns of spread, etc.
@@ -21,8 +21,8 @@ epidemic further.
 Bartholomew (1982) argued that when variations of the Kermack-McKendrick
 model are applied to the spread of ideas, we should not assume that ceasing to infect
 others and forgetting are the same thing. Human behavior might be influenced by an
-old idea not talked about much but still remembered. This has been called "behav-
-ioral residue" (Berger 2013).
+old idea not talked about much but still remembered. This has been called "behavioral
+residue" (Berger 2013).
 There is now a substantial economics literature on network models: see the recent
 Handbook of the Economics of Networks (Bramoullé, Galeotti, and Rogers 2016),
-though there appears to be little in the way of such behavioral models (the 
+though there appears to be little in the way of such behavioral models (the

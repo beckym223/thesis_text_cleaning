@@ -5,8 +5,8 @@ II. Gender Gaps in Earnings over the Life-Cycle and by Occupation
 Even though there are many ways to measure the degree of gender equality in
 the economy, the one that stands out is earnings, particularly earnings per unit time
 or the wage. Because relative earnings often signify how individuals are valued
-socially and economically, earnings ratios between men and women have been ban-
-ners for social movements. The mantra of the women's movement in the 1970s was
+socially and economically, earnings ratios between men and women have been banners
+for social movements. The mantra of the women's movement in the 1970s was
 "59 cents on the dollar" and a more recent crusade for pay equality has adopted
 "77 cents on the dollar."
 The wage is also a summary statistic for an individual's education, training, -prior
@@ -14,12 +14,12 @@ labor force experience, and expected future participation. The gender gap in wag
 is a summary statistic for gender differences in work. For a long time the gender gap
 in wages has been viewed as summarizing human capital differences between men's
 and women's productivity as well as differential treatment of men and women in the
-labor market. As the grand gender convergence has proceeded, underlying differ-
-ences between the human capital capabilities of women and men have been vastly
+labor market. As the grand gender convergence has proceeded, underlying differences
+between the human capital capabilities of women and men have been vastly
 reduced and in many cases eliminated.6
 What do we know about how much of the difference between male and female
-wages is due to differential treatment in the labor market and how much to differ-
-ences in productive characteristics? That question has been addressed by many and
+wages is due to differential treatment in the labor market and how much to differences
+in productive characteristics? That question has been addressed by many and
 I will briefly summarize the findings and provide further comment.
 Most of the gender wage gap studies have produced estimates of an "explained"
 and a "residual" portion.7 The "residual" is often termed "wage discrimination"
@@ -27,9 +27,9 @@ since it is the difference in earnings between observationally identical males a
 females.
 The explained portion of the gender wage gap decreased over time as human
 capital investments between men and women converged. Differences in years of
-education, in the content of college and in accumulated labor market experience nar-
-rowed. In consequence, the residual portion of the gap rose relative to the explained
+education, in the content of college and in accumulated labor market experience narrowed.
+In consequence, the residual portion of the gap rose relative to the explained
 portion.8
 But what can explain the residual portion of the gap that now remains? There are
-many contenders. Some would claim that earnings differences for the same posi-
-tion are due to actual discrimination. To others it is due to women's low
+many contenders. Some would claim that earnings differences for the same position
+are due to actual discrimination. To others it is due to women's low

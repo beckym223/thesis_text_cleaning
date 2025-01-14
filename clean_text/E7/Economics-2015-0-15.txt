@@ -9,18 +9,18 @@ destination of a Climate Club is clear, but there are many roads that will get t
 V. Modeling Coalition Formation: The Coalition-DICE (C-DICE) Model
 A. Description of the Model and Sources
 Economic analysis can describe the basic structure of a Climate Club. However
-detailed empirical modeling is necessary to determine the effectiveness of differ-
-ent regimes in the context of actual emissions, damages, climate change, and trade
-structures. For this purpose, I next describe a climate-economic model that exam-
-ines coalition formation: the C-DICE model (Coalition DICE, or Coalition Dynamic
-Integrated model of Climate and the Economy). It is a static version of the multire-
-gional DICE-RICE model (Nordhaus 2010). While the framework is similar to stan-
-dard economic integrated assessment models (IAMs), the purpose is different. The
+detailed empirical modeling is necessary to determine the effectiveness of different
+regimes in the context of actual emissions, damages, climate change, and trade
+structures. For this purpose, I next describe a climate-economic model that examines
+coalition formation: the C-DICE model (Coalition DICE, or Coalition Dynamic
+Integrated model of Climate and the Economy). It is a static version of the multiregional
+DICE-RICE model (Nordhaus 2010). While the framework is similar to standard
+economic integrated assessment models (IAMs), the purpose is different. The
 C-DICE model is designed to determine whether or not countries join a coalition
 of high-abatement countries, and to find stable coalitions, rather than to look for an
 optimal choice of climate policies or map out emissions trajectories.
-The current version has 15 regions, including the largest countries and aggre-
-gates of the balance of the countries. The regions are the US, EU, China, India,
+The current version has 15 regions, including the largest countries and aggregates
+of the balance of the countries. The regions are the US, EU, China, India,
 Russian Federation, Japan, Canada, South Africa, Brazil, Mideast and North Africa,
 Eurasia, Latin America, tropical Africa, middle-income Asia, and the ROW (rest
 of the world). The model includes exogenous output, baseline C02 emissions, and
@@ -36,9 +36,9 @@ baseline policies.
 The damage estimates are drawn from a recent comparison of the social cost of
 carbon (Nordhaus 2014). That study found a central estimate for the global SCC of
 $24 per ton C02 in 201 1 US$ for 2020 emissions. However, estimates from other
-studies range from $10 to as high as $100 per ton C02 for alternative goals and dis-
-count rates. I therefore use a range of $12.5-$100 per ton C02 for the global SCC.
+studies range from $10 to as high as $100 per ton C02 for alternative goals and discount
+rates. I therefore use a range of $12.5-$100 per ton C02 for the global SCC.
 Estimates of national SCCs have proven difficult to determine because of sparse
-evidence outside high-income regions. Online Appendix Table B-l shows the sub-
-stantial differences in national SCCs in three integrated assessment models, the RICE,
+evidence outside high-income regions. Online Appendix Table B-l shows the substantial
+differences in national SCCs in three integrated assessment models, the RICE,
 FUND, and PAGE models. Note that the conceptual basis of the nati

@@ -1,9 +1,9 @@
 In the textbook model of labor markets—synthesized by Hicks (1932)—product
-and factor markets are perfectly competitive and wages are equated to marginal prod-
-ucts.1 Just one year after Hicks, Robinson (1933) developed an alternative framework
+and factor markets are perfectly competitive and wages are equated to marginal products.
+1 Just one year after Hicks, Robinson (1933) developed an alternative framework
 for understanding  firm-specific wage setting and coined the term “monopsony.” The
-book attracted a lot of attention, and at least some labor economists were enthusi-
-astic. Reynolds (1946, p. 390) wrote that the concept of an  upward-sloping supply
+book attracted a lot of attention, and at least some labor economists were enthusiastic.
+Reynolds (1946, p. 390) wrote that the concept of an  upward-sloping supply
 curve of labor to the firm “… has made its way rapidly into the textbooks and seems
 well on its way to being generally accepted as a substitute for the horizontal supply
 curve of earlier days.” But Reynolds’s prediction was premature. By the 1960s the

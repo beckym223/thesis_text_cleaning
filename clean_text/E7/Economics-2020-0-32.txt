@@ -7,17 +7,17 @@ no use of these tools. However, in this case the losses for all policies are gre
 those of the (hypothetical) unconstrained policy, implying that even active use of
 the new tools cannot compensate for the constraint of the lower bound. Moreover,
 for very low nominal neutral rates, simulations of all policies—both traditional and
-those employing the new monetary tools—show the economy spending a large frac-
-tion of the time at the lower bound, and with  longer-term interest rates frequently
+those employing the new monetary tools—show the economy spending a large fraction
+of the time at the lower bound, and with  longer-term interest rates frequently
 in negative territory, reflecting negative term premiums. For any given policy, these
 adverse outcomes are much less likely in the simulations when the neutral rate is in
 the  2–3 percent range.23
-A finding that  long-term rates are frequently negative in the simulations is a con-
-cern, for several reasons. First, as noted earlier, if bond market participants believe
+A finding that  long-term rates are frequently negative in the simulations is a concern,
+for several reasons. First, as noted earlier, if bond market participants believe
 that the lower bound on  short-term rates is zero, then they may be unwilling to
 hold  longer-term bonds yielding less than zero (Grisse, Krogstrup, and Schumacher
-2017). Thus, at least for the United States and other jurisdictions that have indi-
-cated that they are unlikely to use negative  short-term rates, simulations that assume
+2017). Thus, at least for the United States and other jurisdictions that have indicated
+that they are unlikely to use negative  short-term rates, simulations that assume
 that  longer-term rates can be negative may overstate the amount of stimulus that is
 attainable in practice. Second, interest rates that are zero or negative much of the
 time raise concerns about financial instability and other risks, as discussed earlier.

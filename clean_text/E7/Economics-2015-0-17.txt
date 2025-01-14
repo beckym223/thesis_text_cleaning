@@ -1,9 +1,9 @@
 Club. Participation requires countries to have a domestic carbon price at least as
-high as the minimum international target carbon price. The choice of climate poli-
-cies is simple. A nonparticipant will choose the low NC carbon price because that
+high as the minimum international target carbon price. The choice of climate policies
+is simple. A nonparticipant will choose the low NC carbon price because that
 maximizes national welfare for nonparticipants. Similarly, a participant will choose
-the higher international target carbon price to meet its obligations because that max-
-imizes its economic welfare conditional on participation.
+the higher international target carbon price to meet its obligations because that maximizes
+its economic welfare conditional on participation.
 In considering whether or not to participate in the high-abatement cooperative
 regime, countries face two sets of costs. The first cost is the additional abatement
 cost (net of reduced damages) of participation. The additional abatement costs are
@@ -11,28 +11,28 @@ greater than the reduced damages. This fact shows immediately why countries will
 not voluntarily depart from the NC equilibrium without some further inducements
 to participate.
 The second impact of the decision on participation is due to trade impacts. The
-present study analyzes a uniform tariff on all goods and services imposed by partici-
-pants on the imports from nonparticipants into the Climate Club. Figure 2 shows the
+present study analyzes a uniform tariff on all goods and services imposed by participants
+on the imports from nonparticipants into the Climate Club. Figure 2 shows the
 basic structure of the tariff arrangements. As shown in the two cells on the left, the
 Club treaty authorizes penalty tariffs on nonparticipants into the Club region, with no
 penalty tariffs on intra-Club trade. The two cells on the right indicate that there are
 no tariffs, which assumes no reaction or retaliation of non-Club members to the Club.
 VI. Algorithmic Issues
-Finding the equilibrium coalition, as well as determining stability and unique-
-ness, is computationally demanding. Consider a global Climate Club with n regions.
-The payoffs are functions of the parameters of the game, including output, emis-
-sions, damages, the trade technology, and the tariff penalty function. In addition, the
+Finding the equilibrium coalition, as well as determining stability and uniqueness,
+is computationally demanding. Consider a global Climate Club with n regions.
+The payoffs are functions of the parameters of the game, including output, emissions,
+damages, the trade technology, and the tariff penalty function. In addition, the
 payoffs depend up the participation of each of the other players.
-In the most general version, discussed above in the section on bottom-up coa-
-litions, there may be multiple coalitions (i.e., regional groupings). This outcome
+In the most general version, discussed above in the section on bottom-up coalitions,
+there may be multiple coalitions (i.e., regional groupings). This outcome
 is seen in trade associations and military alliances formed on the basis of costs,
 location, and ideologies. In the case of multiple coalitions, there will be on the order
 of n! possible coalitions. For our study, with 15 regions and multiple regimes, that
 would consist of about 1012 coalitions and would be computationally infeasible.
 However, in the case of global climate change, it is more natural to consider
 a situation where countries decide whether to join a single global climate treaty.
-Assuming a single coalition has the computational advantage that it limits the num-
-ber of potential coalitions to 2" (or 32,768) coalitions, which can easily be calculated.
+Assuming a single coalition has the computational advantage that it limits the number
+of potential coalitions to 2" (or 32,768) coalitions, which can easily be calculated.
 The problem is combinatorial in nature, and its solution is thought to be in the
 class of NP-hard problems (Wooldridge and Dunne 2004) .There appears to be no
 efficient algorithm for calculating stable coalitions (Rahwan 2007). In principle, we

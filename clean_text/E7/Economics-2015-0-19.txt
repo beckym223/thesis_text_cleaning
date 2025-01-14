@@ -3,12 +3,12 @@ The figures are often provided with two or three significant digits, but this is
 presentational purposes and should be interpreted in the context of the uncertainties
 inherent in modeling as well as the results of the sensitivity analyses discussed below.
 First consider a Kyoto-type regime, with no sanctions when countries do not
-participate, which is the first line in Table 1 . If the United States does not partici-
-pate, it expends $0.3 billion per year for abatement and has reduced damages (from
+participate, which is the first line in Table 1 . If the United States does not participate,
+it expends $0.3 billion per year for abatement and has reduced damages (from
 all countries' abatement relative to zero abatement) of $7.3 billion per year. Net
 climate-related benefits are $7.0 billion per year. In the no-sanctions regime, if the
-US participates and sets a domestic carbon price of $25 per ton, it expends $1 1 .9 bil-
-lion annually in abatement and has reduced damages of $10.7 billion per year, for
+US participates and sets a domestic carbon price of $25 per ton, it expends $1 1 .9 billion
+annually in abatement and has reduced damages of $10.7 billion per year, for
 net climate-related benefits of -$1.2 billion annually. So without sanctions, the best
 national strategy is not to participate, with an annual net advantage of $8.2 billion.
 However, with a 4 percent penalty tariff on nonparticipants, the numbers change

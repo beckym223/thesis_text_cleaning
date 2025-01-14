@@ -1,6 +1,6 @@
 illustrative calculations. The bottom line - that clubs with penalties or sanctions on
-nonparticipants can support a strong international climate agreement - is summa-
-rized at the end of the paper.
+nonparticipants can support a strong international climate agreement - is summarized
+at the end of the paper.
 C. A Sketch of the Climate Club
 The idea of a Climate Club should be viewed as an idealized solution of the
 free-riding problem that prevents the efficient provision of global public goods. Like
@@ -9,13 +9,13 @@ blueprint that can be used to understand the basic forces at work and sketch a s
 that can overcome free-riding.
 Here is a brief description of the proposed Climate Club: the club is an agreement by
 participating countries to undertake harmonized emissions reductions. The agreement
-envisioned here centers on an "international target carbon price" that is the focal provi-
-sion of an international agreement. For example, countries might agree that each coun-
-try will implement policies that produce a minimum domestic carbon price of $25 per
-ton of carbon dioxide (C02). Countries could meet the international target price require-
-ment using whatever mechanism they choose - carbon tax, cap-and-trade, or a hybrid.
-A key part of the club mechanism (and the major difference from all current pro-
-posals) is that nonparticipants are penalized. The penalty analyzed here is uniform
+envisioned here centers on an "international target carbon price" that is the focal provision
+of an international agreement. For example, countries might agree that each country
+will implement policies that produce a minimum domestic carbon price of $25 per
+ton of carbon dioxide (C02). Countries could meet the international target price requirement
+using whatever mechanism they choose - carbon tax, cap-and-trade, or a hybrid.
+A key part of the club mechanism (and the major difference from all current proposals)
+is that nonparticipants are penalized. The penalty analyzed here is uniform
 percentage tariffs on the imports of nonparticipants into the club region. Calculations
 suggest that a relatively low tariff rate will induce high participation as long as the
 international target carbon price is up to $50 per ton.
@@ -34,9 +34,9 @@ which there is too little abatement. This point is illustrated with a simple mod
 will form the backbone of the empirical model below.
 I begin by analyzing the costs and benefits of national climate policies in a
 noncooperative (NC) framework (Nash 1950). In the NC framework, countries act
-individually and are neither rewarded nor penalized by other countries for their pol-
-icies. The analysis assumes that countries maximize their national economic wel-
-fare and ignores partisan, ideological, myopic, and other nonoptimizing behaviors.
+individually and are neither rewarded nor penalized by other countries for their policies.
+The analysis assumes that countries maximize their national economic welfare
+and ignores partisan, ideological, myopic, and other nonoptimizing behaviors.
 While history is full of wooden-headed actions of countries and their leaders, as
-well as policies that are farsighted and attend to global welfare, attempting to incor-
-porate these features is beyond the scope of this study of 
+well as policies that are farsighted and attend to global welfare, attempting to incorporate
+these features is beyond the scope of this study of

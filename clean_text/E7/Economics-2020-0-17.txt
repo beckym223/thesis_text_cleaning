@@ -1,7 +1,7 @@
 rates with a slower rate of asset purchases than in the prior ( quantity-based QE)
 regime, reducing concerns about whether there are enough JGBs available for the
-BOJ to buy. Yield curve control, besides providing the ability to target financial con-
-dition more precisely, thereby also appears—in the Japanese context, at least—to be
+BOJ to buy. Yield curve control, besides providing the ability to target financial condition
+more precisely, thereby also appears—in the Japanese context, at least—to be
 more sustainable.
 Clearly, novel monetary policy options extend beyond QE and forward guidance.
 Will the Federal Reserve ever adopt any of these supplementary tools? Other than
@@ -11,10 +11,10 @@ philosophical objections by some FOMC participants—seems unlikely to request
 the authority. A program targeting bank lending, such as the Bank of England’s
 Funding-for-Lending Scheme or the ECB’s targeted refinancing operations, is
 conceivable and was indeed discussed at the Fed during the  post-crisis period. At
-the time, though, FOMC participants did not believe that bank liquidity was con-
-straining lending, and there were some reservations about the  quasi-fiscal and credit
-allocation aspects of subsidizing bank loans. Freeing up bank lending is also mac-
-roeconomically more consequential in jurisdictions like the euro area and Japan
+the time, though, FOMC participants did not believe that bank liquidity was constraining
+lending, and there were some reservations about the  quasi-fiscal and credit
+allocation aspects of subsidizing bank loans. Freeing up bank lending is also macroeconomically
+more consequential in jurisdictions like the euro area and Japan
 where the bulk of credit flows through banks, as opposed to securities markets. Still,
 one can imagine circumstances—for example, if constraints on bank lending are
 interfering with the transmission of monetary policy—in which this option might
@@ -24,11 +24,11 @@ short-term rates (by charging a fee on bank reserves)  but have shown little app
 negative rates thus far because of the practical limits on how negative rates can go and
 because of possible financial side effects. That said, categorically ruling out negative
 rates is probably unwise, as future situations in which the extra policy space provided
-by negative rates could be useful are certainly possible. Moreover, theory and empiri-
-cal evidence suggest that ruling out negative  short-term rates reduces the ability of the
+by negative rates could be useful are certainly possible. Moreover, theory and empirical
+evidence suggest that ruling out negative  short-term rates reduces the ability of the
 central bank to influence  longer-term rates near the lower bound, through QE or other
-means (Grisse, Krogstrup, and Schumacher 2017) . Maintaining at least some con-
-structive ambiguity about the possibility of negative policy rates thus seems desirable.
+means (Grisse, Krogstrup, and Schumacher 2017) . Maintaining at least some constructive
+ambiguity about the possibility of negative policy rates thus seems desirable.
 Yield curve control in the Japanese style—that is, pegging or capping very
 long-term yields—is probably not feasible, or at least not advisable, in the United
 States, given the depth and liquidity of US government securities markets. If
@@ -37,8 +37,8 @@ path of policy rates was likely higher than the targeted yield, the Fed might ne
 buy a large share of the outstanding bonds to try to enforce the peg. Those purchases
 in turn would flood the banking system with reserves and expose the central bank
 to large capital losses. However, pegging Treasury yields at a shorter horizon, say
-two years, would likely be feasible and might prove a powerful method for reinforc-
-ing forward rate guidance. Board staff analyzed this possibility in 2010 (Bowman,
+two years, would likely be feasible and might prove a powerful method for reinforcing
+forward rate guidance. Board staff analyzed this possibility in 2010 (Bowman,
 Erceg, and Leahy 2010) and it has been recently raised by Brainard (2019).
 D. Costs and Risks of the New Policy Tools
 The appropriate use of new policy tools depends not only on their benefits but

@@ -4,20 +4,20 @@ would begin to place a serious burden on both the trade and the enforcement syst
 For each of the calculations, I started with a base set of participants and then used
 the evolutionary algorithm to find a stable coalition (if one exists), with multiple
 restarts and two different platforms to test stability. The results were sensible in all
-cases and will be discussed below. This paper presents the results primarily in graph-
-ical form. The numbers underlying the figures are contained in the online Appendix.
+cases and will be discussed below. This paper presents the results primarily in graphical
+form. The numbers underlying the figures are contained in the online Appendix.
 C. Results for Stability and Participation
-The first remarkable result is that virtually every regime produces a stable coa-
-lition. (There are 6 unstable regimes out of 44. Results for these are averages of
+The first remarkable result is that virtually every regime produces a stable coalition.
+(There are 6 unstable regimes out of 44. Results for these are averages of
 quasi-stable coalitions as explained below.) From a theoretical point of view, there is
 no obvious reason why the nonlinearities of participation would not lead to multiple
 quasi-stable coalitions. The intuition is that the trade sanctions are powerful enough
 to push countries into nonparticipation or participation.
-The second question is whether the penalty structure is sufficient to induce par-
-ticipation. In other words, how many of the 15 regions participate in the Climate
+The second question is whether the penalty structure is sufficient to induce participation.
+In other words, how many of the 15 regions participate in the Climate
 Club? Figure 3 shows the number of participating regions for different tariff rates
-and different target carbon prices. The bars are arrayed from left to right by increas-
-ing tariff rates.
+and different target carbon prices. The bars are arrayed from left to right by increasing
+tariff rates.
 The results are straightforward. No country joins the Climate Club without trade
 sanctions (i.e., at a zero tariff rate). This key result confirms theory and observation.
 For low target carbon prices, all or most countries join even for very low tariff rates.

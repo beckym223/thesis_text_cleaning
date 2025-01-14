@@ -1,17 +1,17 @@
-The 0*Net characteristic levels were then weighted by the relative number of indi-
-viduals in the 0*Net occupations to get the characteristic values for the Census
+The 0*Net characteristic levels were then weighted by the relative number of individuals
+in the 0*Net occupations to get the characteristic values for the Census
 occupations, for which the residual gender gaps had been computed.
 As can be seen in Table 2, technology and science occupations score far below
 the others on each of the five measures and in some cases the differences are almost
-one standard deviation lower. That is to say, in comparison with business occupa-
-tions those in technology and science have far greater time flexibility, fewer client
+one standard deviation lower. That is to say, in comparison with business occupations
+those in technology and science have far greater time flexibility, fewer client
 and worker contacts, fewer working relationships with others, more independence
 in determining tasks, and more specific projects with less discretion over them. Each
 of these characteristics should produce a more linear relationship between hours
 and earnings and the greater linearity should produce a lower residual difference in
 earnings by sex.
-The characteristics help differentiate the business from the technology and sci-
-ence occupations rather well. They do not always capture differences between the
+The characteristics help differentiate the business from the technology and science
+occupations rather well. They do not always capture differences between the
 health professions and others. For one, they do not capture the time demands among
 the self-employed and many in the higher paid health occupations (e.g., dentist,
 podiatrist, physician, and veterinarian) have substantial rates of ownership. But they
@@ -27,15 +27,15 @@ in Figure 5. The relationship is clearly negative with a correlation coefficient
 (adjusted) female to male earnings (a larger negative value for the log of the gender
 gap). In addition, the characteristics also pick up some of the within group variance.
 The relationship is strongest for time pressure, contact with others, and freedom to
-make decisions, but is also reasonable for establishing and maintaining interper-
-sonal relationships and structured versus unstructured work.
+make decisions, but is also reasonable for establishing and maintaining interpersonal
+relationships and structured versus unstructured work.
 V. Evidence on Nonlinear Pay and the Gender Gap in Earnings
 I have thus far established that the gender gap in pay is small at the start of
 employment but greatly increases with age (even correcting for hours and weeks in
 a national sample) and that it significantly differs by occupation. I have also shown
 using the 0*Net data that characteristics of work settings are associated with the
-(adjusted) gender gap in pay such that work environments that require more interac-
-tions or have more time pressure, for example, are those with larger gender earning
+(adjusted) gender gap in pay such that work environments that require more interactions
+or have more time pressure, for example, are those with larger gender earning
 gaps.
 Another hint at what must be in the last chapter can be gleaned by adding a
-(log hours X occupation) interaction to the regression containing the 
+(log hours X occupation) interaction to the regression containing the

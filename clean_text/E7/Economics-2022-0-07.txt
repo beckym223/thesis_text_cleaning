@@ -1,14 +1,14 @@
-firm-specific wages and interpret the effect in a model of monopsonistic compe-
-tition with nested MNL preferences over firms and markets. Their estimate of the
-parameter determining the elasticity of supply to each firm is five, broadly consis-
-tent with the calibration by Card et al. and with the evidence from quit and recruiting
+firm-specific wages and interpret the effect in a model of monopsonistic competition
+with nested MNL preferences over firms and markets. Their estimate of the
+parameter determining the elasticity of supply to each firm is five, broadly consistent
+with the calibration by Card et al. and with the evidence from quit and recruiting
 elasticities.
 A related method of estimating the degree of  wage-setting power is to look at
 establishment-level responses of employment and wages to an exogenous shock
 (similar to the pioneering study by Sullivan 1989). Berger, Herkenhoff, and Mongey
 (2021) uses evidence on  firm-specific reactions to state tax changes to infer the
-degree of oligopsony power in a setting with strategic interactions among wage set-
-ters (based on Atkeson and Burstein 2008). They estimate that the average markdown
+degree of oligopsony power in a setting with strategic interactions among wage setters
+(based on Atkeson and Burstein 2008). They estimate that the average markdown
 of wages relative to marginal revenue products is around 25 percent (equivalent to
 the markdown in a simple monopsonistically competitive model with  firm-specific
 elasticities of around 3.5). Kroft et al. (2020) extend the setup in Lamadon, Mogstad,
@@ -18,23 +18,23 @@ construction firms. They estimate labor supply elasticities in the range of four
 five.
 C. The Number of Competitors for Labor Services
 In thinking about  price-setting or  wage-setting power many economists turn
-instinctively to the question of how many potential sellers or buyers are pres-
-ent in a market, or to the degree of market concentration measured by the
+instinctively to the question of how many potential sellers or buyers are present
+in a market, or to the degree of market concentration measured by the
 Herfindahl-Hirschman index (HHI). As noted by Berry, Gaynor, and Scott Morton
 (2019); Syverson (2019); and Eeckhout (2021), simple measures of the number of
 competitors or their concentration do not necessarily provide a clear index of market
 power. Nevertheless, a common perception (among judges for example) is that the
 number of potential employers for any given worker is large, and that the market
 power of employers is therefore negligible.12
-One of the most surprising findings in the recent literature is that for many work-
-ers in many local markets the number of potential employers is relatively small,
+One of the most surprising findings in the recent literature is that for many workers
+in many local markets the number of potential employers is relatively small,
 particularly when the “market” is defined by actively searching firms.13 Azar et al.
-(2020), for example, use data on the  near universe of US vacancy listings to cal-
-culate HHIs for labor markets at the  narrowly defined  occupation-by-commuting
+(2020), for example, use data on the  near universe of US vacancy listings to calculate
+HHIs for labor markets at the  narrowly defined  occupation-by-commuting
 zone (CZ) level. They estimate that an average labor market has an HHI of around
 4300—equivalent to 2.3 equal sized recruiting firms. This is low enough to possibly
 raise concerns about the effect of mergers and acquisitions on labor outcomes (see
 Naidu and Posner 2021).
 A growing number of papers study the relationship between average wages
-for a specific subgroup of workers in a given local market and the HHI of poten-
-tial employers in that market. These studies differ in how they def
+for a specific subgroup of workers in a given local market and the HHI of potential
+employers in that market. These studies differ in how they def

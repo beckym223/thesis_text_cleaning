@@ -2,13 +2,13 @@ VIII. Narratives During the Sharpest (Though Not the Worst) US Contraction Ever,
 1920 to 1921
 In looking for the narrative basis of economic recessions, which might be hard
 to see since narratives are not easy to measure, it would appear that we would have
-the most luck looking at really big ones: 1920-1921 was the sharpest US reces-
-sion since modern statistics are available. The US Consumer Price Index switched
+the most luck looking at really big ones: 1920-1921 was the sharpest US recession
+since modern statistics are available. The US Consumer Price Index switched
 suddenly from inflation to deflation: between June 1920 and June 1921, during the
 Depression, it fell 16 percent, the sharpest one-year deflation ever experienced in the
 United States. The Index of Wholesale Prices fell much more: 45 percent over the
-same time interval, its sharpest decline ever.13 The cyclically adjusted price earn-
-ings ratio (real S&P Composite Index divided by ten-year average of real earnings,
+same time interval, its sharpest decline ever.13 The cyclically adjusted price earnings
+ratio (real S&P Composite Index divided by ten-year average of real earnings,
 Campbell and Shiller 1988) fell to 4.78 by December 1920, by far the lowest ratio in
 the entire history of the US stock market since 1871. In contrast, note that the ratio
 is currently around 28. The conventional price-earnings ratio with 12-month trailing
@@ -25,14 +25,14 @@ Reserve to raise the discount rate to trim out-of-bounds inflation in 1919 cause
 by their carelessly over-expansionary policy right after World War I, leading to a
 necessity to take strong measures against inflation in 1920. Benjamin Strong, the
 president of the New York Fed, was on a long cruise starting December 1919, and
-was unable to prevent Federal Reserve Banks (which did not coordinate their poli-
-cies with each other so much back then) from raising the discount rate as much as a
+was unable to prevent Federal Reserve Banks (which did not coordinate their policies
+with each other so much back then) from raising the discount rate as much as a
 full percentage point in one shot in January 1920.
-The Fed was new then, having opened its doors only in 1914, and so it is not sur-
-prising that they could have made mistakes and implemented overly strong swings
-in policy. But let us not jump to conclusions about the Fed having caused the depres-
-sion. Other remarkable things were going on too. If we are going to single out signif-
-icant events for study, we should keep in mind that important events are usually the
+The Fed was new then, having opened its doors only in 1914, and so it is not surprising
+that they could have made mistakes and implemented overly strong swings
+in policy. But let us not jump to conclusions about the Fed having caused the depression.
+Other remarkable things were going on too. If we are going to single out significant
+events for study, we should keep in mind that important events are usually the
 result of the confluence of many factors, and often changing narratives are at work
 in those factors.
 There was a background then of horrible recent events: World War I, which ended

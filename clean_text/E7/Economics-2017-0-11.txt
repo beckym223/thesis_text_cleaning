@@ -1,13 +1,13 @@
 understanding the all-important dynamics of infectious diseases. Their simplest
 model divided the population into three compartments: susceptibles, infectives, and
-recovereds, hence it is called an SIR model or compartmental model; S is the num-
-ber of susceptibles, people who have not had the disease and are vulnerable; I is the
+recovereds, hence it is called an SIR model or compartmental model; S is the number
+of susceptibles, people who have not had the disease and are vulnerable; I is the
 number of infectives, people who have the disease and are actively spreading it; R
 is the number of recovereds, who have had the disease and gotten over it and are no
 longer capable of catching the disease again or spreading it. The total population
 N = S + I + Ris assumed constant.
-The key idea of the Kermack-McKendrick mathematical theory of disease epi-
-demics was that in a thoroughly mixing population the rate of increase of infectives
+The key idea of the Kermack-McKendrick mathematical theory of disease epidemics
+was that in a thoroughly mixing population the rate of increase of infectives
 in a disease epidemic is equal to a constant contagion rate c > 0 times the product
 of the number of susceptibles S and the number of infectives I minus a constant
 recovery rate r > 0 times the number of infectives. Each time a susceptible meets
@@ -21,9 +21,9 @@ dt
 % = cSI-ri,
 TT dt = rL
 TT dt
-The same SIR model can of course be used to describe the word-of-mouth trans-
-mission of an idea. Here, the contagion rate is the fraction of the time in an encoun-
-ter that an infective, a person interested in and accepting of a story, effectively
+The same SIR model can of course be used to describe the word-of-mouth transmission
+of an idea. Here, the contagion rate is the fraction of the time in an encounter
+that an infective, a person interested in and accepting of a story, effectively
 convinces the susceptible enough of the story to spread it further. Many encounters
 may be needed before a particular person is infected. The removal rate might be
 described as the rate of forgetting, of simple decay of memories, but there is also
@@ -31,13 +31,13 @@ cue-dependent forgetting. This removal also occurs as the repertory of other cur
 stories evolves away from this story, so that there are declining cues for the memory;
 this story seems less connected, less apt, or even superficially contrary to current
 theories and prejudices. It might be plausible to suppose, as the model does, that
-contagion rates and removal rates are both constant through time, if they are intrin-
-sic to the narrative. Inaccurate retellings of the narrative that leave out its essential
+contagion rates and removal rates are both constant through time, if they are intrinsic
+to the narrative. Inaccurate retellings of the narrative that leave out its essential
 interest value, because of transmission error, just don't survive; the parameter c
 refers to successful spread of the core interest value of a story.
 Even though direct face-to-face communications of ideas is less important in
 modern times because of the communications media, it still remains a workable
 model. The core model may apply no matter how people may connect with each
-other. A survey of individual investors shows that on average they talked to 20 peo-
-ple about a typical investment, and only 23 percent did any analysis themselves
-(Shiller and 
+other. A survey of individual investors shows that on average they talked to 20 people
+about a typical investment, and only 23 percent did any analysis themselves
+(Shiller and

@@ -1,6 +1,6 @@
 A deeper response to this argument turns on the distinction between two views
-of how QE works, the  so-called stock and flow views. The standard portfolio bal-
-ance channel of QE, recall, holds that policymakers can affect  longer-term yields by
+of how QE works, the  so-called stock and flow views. The standard portfolio balance
+channel of QE, recall, holds that policymakers can affect  longer-term yields by
 changing the relative supplies—that is, the stocks outstanding—of various financial
 assets. In this stock view of QE, the effect of asset purchases on yields at each point
 in time depends on the accumulated stock of central bank purchases and (because
@@ -11,10 +11,10 @@ argument that the effectiveness of QE can be evaluated by looking at the behavio
 longer-term yields during periods of active  central-bank purchases. The flow view
 would be correct if QE affected asset prices and yields primarily through  short-run
 liquidity effects.
-However, the stock view conforms better to the underlying theory and has bet-
-ter empirical support (D’Amico and King 2013). Substantial research has tried to
-quantify the dynamic relationship between yields and the relative supplies of secu-
-rities under the stock view. In an important article, Ihrig et al. (2018) estimated
+However, the stock view conforms better to the underlying theory and has better
+empirical support (D’Amico and King 2013). Substantial research has tried to
+quantify the dynamic relationship between yields and the relative supplies of securities
+under the stock view. In an important article, Ihrig et al. (2018) estimated
 an  arbitrage-free model of the term structure of Treasury yields, in which current
 and expected holdings of securities by the Fed are allowed to influence yields.11
 They carefully modeled the evolution of the Fed’s balance sheet, given its purchases

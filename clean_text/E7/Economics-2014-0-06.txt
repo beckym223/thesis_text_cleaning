@@ -6,19 +6,19 @@ The ratio of (mean) annual earnings between male and female workers (full-time,
 full-year, 25 to 69 years) was 0.72 in 2010 and that of the medians was 0.77. The
 ratio of the medians for the same group was 0.74 in 2000 but 0.56 in 1980. 15 These
 aggregate ratios have been somewhat sticky for the last ten years or so after greatly
-increasing in the preceding decades, especially in the 1980s. The same is true look-
-ing only at college graduates, for whom the ratios are lower - 0.65 in 2010 for the
+increasing in the preceding decades, especially in the 1980s. The same is true looking
+only at college graduates, for whom the ratios are lower - 0.65 in 2010 for the
 means and 0.72 for the medians, about the same as it was in 2000. Interestingly,
 across the past decade the gender pay gap has narrowed within almost all age groups
 even though the aggregate has not budged as much. How can that be?
 The answer concerns what happens to the gender gap over the life-cycle. The
 ratio of female to male earnings greatly decreases for some time as cohorts age. It
 is lower for individuals in their forties compared with the same individuals in their
-twenties. And because the baby boom is still working its way through the popula-
-tion, the aggregate ratio can be fairly stable even though the underlying components
+twenties. And because the baby boom is still working its way through the population,
+the aggregate ratio can be fairly stable even though the underlying components
 are actually increasing.
-One way to see change in the earnings gender gap by age is to construct syn-
-thetic birth cohorts, as shown in Figure 1, part A for college graduate men and
+One way to see change in the earnings gender gap by age is to construct synthetic
+birth cohorts, as shown in Figure 1, part A for college graduate men and
 women working full-time, full-year and in Figure 1, part B for college graduates
 with controls for hours, weeks, and further education.16 The data used are from the
 US Census and the American Community Survey (ACS) for the years from 1970
@@ -27,8 +27,8 @@ The most obvious and important findings from these depictions are that each
 cohort has a higher ratio of female to male earnings than the preceding one and that
 the ratio is closer to parity for younger individuals than it is for older individuals, at
 least up to some age. One part of the story of the preceding metaphorical chapters is
-that there have been large gains in the earnings of women relative to men. An impor-
-tant clue to what it will take to create gender equality in earnings is that something
+that there have been large gains in the earnings of women relative to men. An important
+clue to what it will take to create gender equality in earnings is that something
 happens that decreases women's earnings relative to those of men as they age.
 Men and women begin their employment with earnings that are fairly similar,
 both for full-time year-round workers and for all workers with controls for hours and

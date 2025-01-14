@@ -5,9 +5,9 @@ workers the employee must regularly keep in touch with, and the degree to which
 the worker has close substitutes.
 Each of the 0*Net characteristics has been normalized to have a mean of zero
 and a standard deviation of one. I group the technology and science occupations
-together and compare the values of the five characteristics with those for occupa-
-tions in business, health, and law, the largest and also the highest paying of the
+together and compare the values of the five characteristics with those for occupations
+in business, health, and law, the largest and also the highest paying of the
 "other" occupations.
-Because there are about twice as many 0*Net occupations than Census occupa-
-tions, the first task was to match occupations across the two sources. In most cases
+Because there are about twice as many 0*Net occupations than Census occupations,
+the first task was to match occupations across the two sources. In most cases
 the difference was simply that 0*Net occupations are cross-referenced by indus

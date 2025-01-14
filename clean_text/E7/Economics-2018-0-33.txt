@@ -5,11 +5,11 @@ years by the APD. Many of these were related to the fact that an optimized kidne
 Some sources of congestion and declined transplants were relatively simple to
 fix, e.g., by promptly updating the database so that no time is wasted proposing transplants for patients who may have already received a deceased donor transplant, or died.
 106 Other sources of delay through rejected offers were more complex.
-Surgeons’ preferences over kidneys are not so easy to elicit, because a kidney and its donor have many properties that can interact. It is difficult to entice surgeons to review in advance potential kidneys that they may never be offered: consequently many kidneys that are medically compatible may nevertheless be rejected. We have made partial progress on this by introducing a threshold language that allows sur -
-geons to constrain the set of compatible kidneys that they can be offered, so that offers are more likely to be accepted.
+Surgeons’ preferences over kidneys are not so easy to elicit, because a kidney and its donor have many properties that can interact. It is difficult to entice surgeons to review in advance potential kidneys that they may never be offered: consequently many kidneys that are medically compatible may nevertheless be rejected. We have made partial progress on this by introducing a threshold language that allows surgeons
+to constrain the set of compatible kidneys that they can be offered, so that offers are more likely to be accepted.
 107
-A different set of operational problems arose as transplant centers became accus-
-tomed to kidney exchange. Directors of transplant centers have bigger strategy sets than individual surgeons, since they see multiple patient-donor pairs and can choose which ones to enroll in an interhospital exchange. Ashlagi and Roth (2014) note that transplant centers may have incentives to withhold their easy to match patient-donor pairs from the interhospital exchanges, and transplant them internally, and Agarwal et al. (2017, 2018) observe that this is in fact happening to a surprisingly large degree (they report that more than one-half of kidney exchanges are done inter -
-nally).
-108 This reduces the thickness of the inter-hospital kidney exchange market-
-places, not only because it reduces the number of pairs that they enroll, but because it means that those that do enroll may have difficulty finding donors and recipi
+A different set of operational problems arose as transplant centers became accustomed
+to kidney exchange. Directors of transplant centers have bigger strategy sets than individual surgeons, since they see multiple patient-donor pairs and can choose which ones to enroll in an interhospital exchange. Ashlagi and Roth (2014) note that transplant centers may have incentives to withhold their easy to match patient-donor pairs from the interhospital exchanges, and transplant them internally, and Agarwal et al. (2017, 2018) observe that this is in fact happening to a surprisingly large degree (they report that more than one-half of kidney exchanges are done internally)
+.
+108 This reduces the thickness of the inter-hospital kidney exchange marketplaces,
+not only because it reduces the number of pairs that they enroll, but because it means that those that do enroll may have difficulty finding donors and recipi

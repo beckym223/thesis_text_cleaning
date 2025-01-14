@@ -1,5 +1,5 @@
-to bargain and their lesser desire to compete.9 Still others blame it on differen-
-tial employer promotion standards due to gender differences in the probability of
+to bargain and their lesser desire to compete.9 Still others blame it on differential
+employer promotion standards due to gender differences in the probability of
 leaving.10
 The existing explanations for the residual gender pay gap regarding how women
 compete and bargain relative to men have some merit. But they do not explain why
@@ -10,11 +10,11 @@ a highly nonlinear (convex) pay structure with regard to hours worked and some a
 almost perfectly linear. 1 1
 The alternative reasons for the residual gender pay gap do not help illuminate why
 earnings differences by sex expand so greatly with age. They also do not explain
-why women without children generally have higher earnings than women with chil-
-dren and why the former's earnings are almost equal to those of comparable men.12
+why women without children generally have higher earnings than women with children
+and why the former's earnings are almost equal to those of comparable men.12
 A better answer, I will demonstrate, can be found in an application of personnel
-economics.13 The explanation will rely on labor market equilibrium with compen-
-sating differentials and endogenous job design.
+economics.13 The explanation will rely on labor market equilibrium with compensating
+differentials and endogenous job design.
 As women have increased their productivity enhancing characteristics and as
 they "look" more like men, the human capital part of the wage difference has been
 squeezed out. What remains is largely how firms reward individuals who differ in
@@ -23,15 +23,15 @@ flexibility. Workplace flexibility is a complicated, multidimensional concept. T
 term incorporates the number of hours to be worked and also the particular hours
 worked, being "on call," providing "face time," being around for clients, group
 meetings, and the like. Because these idiosyncratic temporal demands are generally
-more important for the highly-educated workers, I will emphasize the college edu-
-cated and occupations at the higher end of the earnings distribution.
+more important for the highly-educated workers, I will emphasize the college educated
+and occupations at the higher end of the earnings distribution.
 Jobs for which bargaining and competing matter the most, I will demonstrate, are
 also positions that have the greatest nonlinearities (meaning convexity) of pay with
 respect to time worked. Field and laboratory experiments often show that women
 shy away from competition.14 But these experiments do not consider the types of
 jobs that reward competition the most. Often those are winner-take-all positions,
 such as partner in a firm, tenured professor at a university, or top manager. These are
-also positions for which considerable work hours leads to a higher chance of obtain-
-ing the reward, and it is often the case that hours alone get rewarded. Persistence in
+also positions for which considerable work hours leads to a higher chance of obtaining
+the reward, and it is often the case that hours alone get rewarded. Persistence in
 these positions and continuous time on the job probably matters far more to one's
 success than a desire and ability t

@@ -3,12 +3,12 @@ they owned it, and also to choose which of the bets they would rather have. The 
 "preference reversal" emerged from the fact that of those who preferred the p-bet,
 a majority reported a higher selling price for the $-bet, implying that they valued it
 more than the p-bet.
-Grether and Plott (1979) were perplexed by this finding and set out to deter-
-mine which mistake the psychologists must have made to obtain such an obviously
+Grether and Plott (1979) were perplexed by this finding and set out to determine
+which mistake the psychologists must have made to obtain such an obviously
 wrong result. Since the original study was based on hypothetical questions, one of
 the hypotheses Grether and Plott investigated was whether the preference reversals
-would disappear if the bets were played for real money. (They favored this hypoth-
-esis in spite of the fact that Lichtenstein and Slovic (1973) had already replicated
+would disappear if the bets were played for real money. (They favored this hypothesis
+in spite of the fact that Lichtenstein and Slovic (1973) had already replicated
 their findings for real money on the floor of a Las Vegas casino.) What Grether
 and Plott found surprised them. Raising the stakes did have the intended effect of
 inducing the subjects to pay more attention to their choices (so noise was reduced)
@@ -19,8 +19,8 @@ questions but then vanished as soon as significant stakes were introduced.
 C. The Invisible Handwave
 There is a variation on the "if there is enough money at stake people will behave
 like Econs" story that is a bit more complicated. In this version markets replace the
-enlightening role of money. The idea is that when agents interact in a market envi-
-ronment, any tendencies to misbehave will be vanquished. I call this argument the
+enlightening role of money. The idea is that when agents interact in a market environment,
+any tendencies to misbehave will be vanquished. I call this argument the
 "invisible handwave" because there is a vague allusion to Adam Smith embedded
 in there somewhere, and I claim that it is impossible to complete the argument with
 both hands remaining still.
@@ -28,18 +28,18 @@ Suppose, for example, that Homer falls prey to the "sunk cost fallacy" and alway
 finishes whatever is put on his plate for dinner, since he doesn't like to waste money.
 An invisible handwaver might say, fine, he can do that at home, but when Homer
 engages in markets, such misbehaving will be eliminated. Which raises the question:
-how exactly does this occur? If Homer goes to a restaurant and finishes a rich des-
-sert "because he paid for it" all that happens to him is that he gets a bit chubbier.
+how exactly does this occur? If Homer goes to a restaurant and finishes a rich dessert
+"because he paid for it" all that happens to him is that he gets a bit chubbier.
 Competition does not solve the problem because there is no market for restaurants that
 whisk the food away from customers as soon as they have eaten more than X calories.
 Indeed, thinking that markets will eradicate aberrant behavior shows a failure to
 understand how markets work. Let's consider two possible strategies firms might
 adopt in the face of consumers making errors. Firms could try to teach them about
 the costs of their errors or could devise a strategy to exploit the error to make higher
-profits. The latter strategy will almost always be more profitable. As a rule it is eas-
-ier to cater to biases than to eradicate them. DellaVigna and Malmendier (2006)
+profits. The latter strategy will almost always be more profitable. As a rule it is easier
+to cater to biases than to eradicate them. DellaVigna and Malmendier (2006)
 provide an instructive example in their article "Paying Not to Go to the Gym." The
 authors study the usage of customers of three gyms that offer members the choice of
 paying $70 a month for unlimited usage, or a package of 10 entry tickets for $100.
 They find that the members paying the monthly fee go to the gym an average of 4.3
-times per month, implying an average cost of over $17 
+times per month, implying an average cost of over $17

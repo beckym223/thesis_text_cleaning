@@ -20,8 +20,8 @@ useful insights into economic behavior. The curse is that the length of the list
 to offer theorists a dangerously large number of degrees of freedom. Although I do
 not dismiss this latter risk out of hand, I think good scientific practices can mitigate
 this degrees-of-freedom risk.
-The most important thing to remember is that all these biases have empirical sup-
-port, and many of the laboratory findings have subsequently been replicated in the
+The most important thing to remember is that all these biases have empirical support,
+and many of the laboratory findings have subsequently been replicated in the
 field. Thus some discipline has already been imposed: behavioral economists can
 draw on a long list of potential explanatory factors, but for each there is at least some
 evidence that the factor is real. Compare this with the degrees of freedom available
@@ -35,8 +35,8 @@ product. The field is new and growing rapidly. One goal should be to devise theo
 that are not just portable extensions of existing models but also testable extensions.
 I will leave it to Rabin to decide where to insert the letter T into his PEEM acronym.
 V. Supposedly Irrelevant Factors
-It is rare that economic theory makes predictions about magnitudes. Mostly theo-
-ries make predictions about the sign of an effect. Demand curves slope down; supply
+It is rare that economic theory makes predictions about magnitudes. Mostly theories
+make predictions about the sign of an effect. Demand curves slope down; supply
 curves slope up. When a clever theorist is able to extract a more precise prediction
 from the theory, things can get interesting. The equity premium puzzle is a case in
 point. The first-order prediction that stocks are riskier than bonds and so should
