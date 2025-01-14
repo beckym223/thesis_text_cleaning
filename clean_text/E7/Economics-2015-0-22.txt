@@ -28,8 +28,8 @@ are $0.4 billion. At the other extreme, consider a $50 target price with a tarif
 6 percent. For this regime, there are only two nonparticipants. The gains from the
 club are $228 billion, while the trade inefficiencies are $0.7 billion. In all cases, the
 gains from cooperation far outweigh the trade losses.
-G. To Join or Not to Join?
-An interesting question is to determine which countries join and which stay out
+G. To Join or Not to JoinAn
+interesting question is to determine which countries join and which stay out
 of the Climate Club. On first principles, the joiners are those with low abatement
 costs, low carbon-intensity, high damages, and high trade shares. Table 2 shows the
 percentage of the cases where a specific region participates.

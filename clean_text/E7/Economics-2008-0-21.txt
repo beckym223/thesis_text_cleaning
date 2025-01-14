@@ -1,20 +1,20 @@
 Figures 2 and 3 taken from Cogley and Sargent (2005) frame the following puzzles. By the
 early 1970s, the data had moved the government's prior to put probability approaching one on the
-Lucas model that recommends zero inflation (see Figure 2). Why, nevertheless, was actual infla?
-tion so high and variable in the 1970s? And why was the systematic part of inflation that emerges
-from the Phelps problem (see Figure 3) even higher and more variable? Why did the Phelps plan?
-ner discount the recommendations of the Lucas model despite its high posterior probability?
-The answer is to be found in what the Samuelson-Solow and Solow-Tobin models say would
+Lucas model that recommends zero inflation (see Figure 2). Why, nevertheless, was actual inflation
+so high and variable in the 1970s? And why was the systematic part of inflation that emerges
+from the Phelps problem (see Figure 3) even higher and more variable? Why did the Phelps planner
+discount the recommendations of the Lucas model despite its high posterior probabilityThe
+answer is to be found in what the Samuelson-Solow and Solow-Tobin models say would
 happen if the Lucas zero-target-inflation policy were to be adopted (see Figure 4). The Phelps
 problem weighs the submodel posterior probabilities against losses associated with various off
-taken-path recommendations. In the early 1970s, their Keynesian direction of fit moved the coef?
-ficients in those submodels in ways that pointed to very high sacrifice ratios. Despite their low
+taken-path recommendations. In the early 1970s, their Keynesian direction of fit moved the coefficients
+in those submodels in ways that pointed to very high sacrifice ratios. Despite their low
 posterior probabilities, those models implied very high expected discounted losses if the Lucas
 policy recommendation were to be implemented immediately. In contrast, the high-probability
 Lucas model implied less adverse consequences if the recommendations of the Samuelson-Solow
 or Solow-Tobin models were allowed to prevail. So the Cogley and Sargent story is that the Lucas
-model's policy recommendation did not prevail in the 1970s because there remained a low prob?
-ability that it would be disastrous. In order for a low-inflation recommendation to emerge from
+model's policy recommendation did not prevail in the 1970s because there remained a low probability
+that it would be disastrous. In order for a low-inflation recommendation to emerge from
 the Phelps problem, the estimated coefficients in the Samuelson-Solow and Solow-Tobin models
-had to adjust in ways that would moderate the consequences of a low-inflation policy. That hap?
-pened by the mid-1980s.39
+had to adjust in ways that would moderate the consequences of a low-inflation policy. That happened
+by the mid-1980s.39

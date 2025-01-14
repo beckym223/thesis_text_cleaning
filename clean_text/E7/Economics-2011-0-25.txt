@@ -1,11 +1,11 @@
-The factor x appears because of the implicit assumption that incremental capital suf?
-fers the same utilization rate as existing capital. The presence of that factor implies
-that a decline in capital utilization will lower the return to capital unless accom?
-panied by an increase in employment. A model incorporating the assumption that
+The factor x appears because of the implicit assumption that incremental capital suffers
+the same utilization rate as existing capital. The presence of that factor implies
+that a decline in capital utilization will lower the return to capital unless accompanied
+by an increase in employment. A model incorporating the assumption that
 incremental capital is only partly utilized is completely unpromising in delivering
 an equilibrium when high-yielding currency is available.
-Under the alternative assumption that investment occurs only when full utiliza?
-tion is expected, the marginal product of fully utilized capital as an increment to a
+Under the alternative assumption that investment occurs only when full utilization
+is expected, the marginal product of fully utilized capital as an increment to a
 partially utilized stock is
 In this case, if the decline in capital utilization is proportionally greater than the
 decline in labor utilization, so n/(xk) rises, the return to capital can increase even
@@ -22,16 +22,16 @@ complicated case of positive adjustment costs.
 The effect of adjustment costs is to cut the immediate response of the capital stock
 to shocks and to spread the effect over time. With adjustment costs, the decline in
 installed capital that would raise the return to capital happens slowly. But another
-factor replaces the quantity adjustment. Tobin's q falls discontinuously when a nega?
-tive shock occurs. From that time on, q rises back to normal, resulting in capital
+factor replaces the quantity adjustment. Tobin's q falls discontinuously when a negative
+shock occurs. From that time on, q rises back to normal, resulting in capital
 gains on installed capital.
 Now I'll move to a more complete model that builds around this picture of
 intertemporal equilibrium. It looks into the indefinite future. It's basically a
 Solow growth model in terms of technology, but has life-cycle consumption for
 some households. Like the Solow model, it has inelastic labor supply. It permits
-unemployment along the lines I just discussed and capital utilization is propor?
-tional to employment, so capital can be unemployed too. The model incorpo?
-rates the stock of houses and consumer durables as well as business capital, with
+unemployment along the lines I just discussed and capital utilization is proportional
+to employment, so capital can be unemployed too. The model incorporates
+the stock of houses and consumer durables as well as business capital, with
 adjustment cost for both kinds of capital. The Diamond-Mortensen-Pissarides
 model governs the labor market. Some households are liquidity-constrained and
 have debt service commitments. Financial friction drives a wedge between the

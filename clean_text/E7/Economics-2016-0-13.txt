@@ -35,8 +35,8 @@ the fund remained stable, the substantial premium lasted for several months, fin
 disappearing about a year later.
 This example and others like it show that prices can diverge significantly from
 intrinsic value, even when intrinsic value is easily measured and reported daily. What
-then should we think about broader market indices? Can they also get out of whack?
-Certainly, the run-up of technology stocks in the late 1990s looked like a bubble at
+then should we think about broader market indices? Can they also get out of whackCertainly,
+the run-up of technology stocks in the late 1990s looked like a bubble at
 the time, with stocks selling for very high multiples of earnings (or sales for those
 without profits), and it was followed by a decline in prices of more than two thirds
 in the NASDAQ index. We experienced a similar pattern in the housing boom in the

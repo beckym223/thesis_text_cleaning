@@ -17,8 +17,8 @@ Because the labor/capital ratio is higher, the return to capital is higher and c
 can compete with high-return currency.
 To find an equilibrium of the economy with high-yielding currency, one needs an
 alternative concept of equilibrium. A long tradition of macroeconomics considers:
-DEFINITION: A low-employment equilibrium in the two-period economy at inter?
-est rate r is a consumption pair (cif c2) and an employment pair (nlf n2), with nx<n
+DEFINITION: A low-employment equilibrium in the two-period economy at interest
+rate r is a consumption pair (cif c2) and an employment pair (nlf n2), with nx<n
 and n2 < n, satisfying the equality of marginal rate of substitution and marginal
 product of capital at the interest rate r,
 (13)

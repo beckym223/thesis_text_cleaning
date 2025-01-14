@@ -9,8 +9,8 @@ and time worked.
 One way to think about the coefficient is that it is the penalty to being a woman
 relative to a man of equal education and age, given hours and weeks of work for
 each of the occupations. But why should the penalty differ so greatly by occupation,
-even for occupations that are high paying?
-Each of the occupations has been categorized into one of five sectors: Business,
+even for occupations that are high payingEach
+of the occupations has been categorized into one of five sectors: Business,
 Health, Science, Technology, and a miscellaneous group called "Other." Although
 the categorization is generally clear (e.g., engineers in Technology; physicians in
 Health), occupation descriptions and groupings of the occupations in 0*Net were

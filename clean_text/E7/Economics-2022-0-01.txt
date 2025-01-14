@@ -2,8 +2,8 @@ In the final chapter of her book, Robinson (1933) laid out a model of a firm wit
 combination of  price-setting and wage-setting power, and showed that the result was
 a “double wedge” between marginal productivity and wages, reflecting the markup
 of prices over marginal costs and the markdown of wages relative to value marginal
-products.2 Why didn’t this idea catch on?
-I think there are several explanations. The first is that her framework describes
+products.2 Why didn’t this idea catch onI
+think there are several explanations. The first is that her framework describes
 “perfect” monopoly and “perfect” monopsony. She offers very little guidance on
 intermediate levels of market imperfection in either market, and says nothing about
 the interactions between competing firms in such intermediate cases—a criticism

@@ -21,8 +21,8 @@ tariffs apply bilaterally, they can support an efficient equilibrium for global 
 goods for a large number of countries as long as the optimal-tariff effect operates.
 Figure 1 shows numerically how the tariff-sanction imposes costs and conveys benefits
 in a manner that aligns sanctions with external effects.
-H. Prices or Quantities?
-The Climate Club discussed here focuses on carbon prices rather than emissions
+H. Prices or QuantitiesThe
+Climate Club discussed here focuses on carbon prices rather than emissions
 reductions as the central organizing principle for an international agreement. While
 at an abstract level either approach can be used, a review of both theory and history
 suggests that use of prices is a more promising approach.
@@ -38,6 +38,6 @@ allowances, and they are less prone to corruption. This discussion is clearly
 just a sketch, but it provides some of the reasons for preferring price over quantity
 targets as part of an international climate regime. (For an extended discussion of the
 relative merits of prices and quantities, see Nordhaus 2013.)
-I. How to Get Started?
-An important question is, how would a top-down Climate Club get started?
-Who would define the regime? Would it begin with a grand Bretton-
+I. How to Get StartedAn
+important question is, how would a top-down Climate Club get startedWho
+would define the regime? Would it begin with a grand Bretton-

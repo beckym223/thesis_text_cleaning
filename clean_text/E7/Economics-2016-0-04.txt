@@ -17,15 +17,15 @@ be bad psychology."
 It has been nearly 100 years since Clark wrote those words but they still ring
 true, and behavioral economists have been taking Clark's advice, which is to borrow
 some good psychology rather than invent bad psychology. Why did this common
-sense suggestion fail to gain much traction for so long?
-II. Explainawaytions
+sense suggestion fail to gain much traction for so longII.
+Explainawaytions
 In the process of making economics more mathematically rigorous after World
 War II, the economics profession appears to have lost its good intuition about human
 behavior. Defective telescopic facilities were replaced with time-consistent exponential
 discounting. Over-weening conceits were replaced by rational expectations.
 And ephemeral shifts in animal spirits were replaced by the efficient market hypothesis.
-Economics textbooks no longer had any Humans. How did this happen?
-I believe that the most plausible explanation is that models of rational behavior
+Economics textbooks no longer had any Humans. How did this happenI
+believe that the most plausible explanation is that models of rational behavior
 became standard because they were the easiest to solve. This conjecture is not meant
 as a put-down. One begins learning physics by studying the behavior of objects in
 a vacuum; atmosphere can be added later. But physicists never denied the existence

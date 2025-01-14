@@ -2,18 +2,18 @@ Various forms of these departures have been found necessary in a number of moder
 dynamic general-equilibrium macro models. In this section, I investigate whether
 any simpler specifications, closer to standard economic principles, might deliver
 reasonable accounts of the facts about persistent slumps.
-One possibility is to drop property (3), sticky real wages, in favor of normal equi?
-librium in a competitive labor market without search frictions. In the model, this
+One possibility is to drop property (3), sticky real wages, in favor of normal equilibrium
+in a competitive labor market without search frictions. In the model, this
 alternative corresponds to setting the parameter rp9 the elasticity of employment with
 respect to the marginal product of labor, to zero. In effect, the model with these two
 modifications is a real business cycle model, which determines the real interest rate.
 Forcing the interest rate upward by imposing the zero lower bound places the model
-out of equilibrium. A standard solution to this problem is to drop labor-market equi?
-librium and require intertemporal equilibrium in the output market, which amounts
+out of equilibrium. A standard solution to this problem is to drop labor-market equilibrium
+and require intertemporal equilibrium in the output market, which amounts
 to assuming a sticky real wage?it generates an implicit flat labor supply relation.
 Another possibility is to drop properties (1) and (2), and instead to take the output
-market to be perfectly competitive and always in equilibrium. The simplest ver?
-sion of the model assumes that labor supply is perfectly elastic at a fixed real wage.
+market to be perfectly competitive and always in equilibrium. The simplest version
+of the model assumes that labor supply is perfectly elastic at a fixed real wage.
 Robert Shimer (2010) takes this approach. The resulting model generates persistent
 slumps if some force causes a reduction in the full-employment marginal product of
 labor. A fall in productivity would have that effect. Because productivity rose at only

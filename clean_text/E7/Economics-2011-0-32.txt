@@ -1,10 +1,10 @@
-Figure 18 shows the response of the consumption levels of the two types of house?
-holds. Consumers who are able to level consumption by adjusting saving have flat
+Figure 18 shows the response of the consumption levels of the two types of households.
+Consumers who are able to level consumption by adjusting saving have flat
 profiles, with no discontinuity at the point when the interest rate is no longer pinned
 at too high a level. On the other hand, liquidity-constrained households consume
 more when their incomes rise as unemployment drops to normal.
-Figure 19 shows the response of investment. Business investment takes a mod?
-est hit at the outset, then recovers gradually. Investment in houses and consumer
+Figure 19 shows the response of investment. Business investment takes a modest
+hit at the outset, then recovers gradually. Investment in houses and consumer
 durables falls to zero immediately and does not recover much until the interest rate
 is unpinned, when it jumps up to normal levels.
 Figure 20 shows the response of the interest rate. For four years, it is pinned at

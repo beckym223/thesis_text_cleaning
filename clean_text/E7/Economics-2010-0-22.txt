@@ -33,8 +33,8 @@ whole continents, as are the theoretical and empirical uncertainties about quali
 weighting that emerge from both Tables 5 and 6. What is disconcerting is not the inability to find
 a cause or group of causes for the increase in measured inequality, but rather the sense that all
 of the intercontinental comparisons are fragile and can easily be disturbed by factors that we do  not know how to handle.
-V. Why Don't We Just Ask People?
-I now return to the main theme, the question of poverty measurement. My investigation of the
+V. Why Don't We Just Ask PeopleI
+now return to the main theme, the question of poverty measurement. My investigation of the
 ICP has shown that there are a number of ICP related questions about the poverty counts. But
 uncertainty about PPPs is not the only source of sensitivity in poverty measures. The national
 poverty lines are treated as precise cut-offs, but the discussions that lead to them could some

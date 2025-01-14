@@ -2,8 +2,8 @@ than to try to create a variable labeled aggregate demand. I've already consider
 this issue without mentioning it. The demand function in Figure 2 might be seen as
 an aggregate demand function. If so, it's not the function that Keynes had in mind,
 because in Chapter 13 of the General Theory, Keynes explicitly rejected the view
-embodied in that figure, that the interest rate is the price that balances current pur?
-chases against future purchases.
+embodied in that figure, that the interest rate is the price that balances current purchases
+against future purchases.
 Keynes was the leader in recognizing the dependence of consumption on current
 income, though his view is now considerably altered and improved by the life-cycle
 permanent-income model of Friedman and Modigliani.
@@ -11,8 +11,8 @@ Keynes's position on wage and price flexibility is hard to figure out from the
 General Theory, but the idea that prices and nominal wages are sticky has come to
 be a central feature of many models of aggregate fluctuations. In the New Keynesian
 model (Christiano, Eichenbaum, and Charles L. Evans 2005), the slow adjustment
-of wages and prices leads to persistent departures from full employment and sensi?
-tivity of output to purely monetary shocks. In the model I have presented here, the
+of wages and prices leads to persistent departures from full employment and sensitivity
+of output to purely monetary shocks. In the model I have presented here, the
 only role?but a central one?for price stickiness is to turn the zero lower bound on
 the nominal interest rate into a limitation on the real interest rate. It's not stickiness
 of prices that matters, but stickiness of expected price changes.
@@ -20,16 +20,16 @@ Outside the macroeconomics profession, Keynes is seen mainly as an advocate
 of government purchases to cure slumps. There's essentially no dispute within that
 profession that GDP rises and unemployment falls if the government buys more
 stuff. But the failure of the government to buy more stuff in 2009, when the need
-seemed most intense and the party favoring that policy had firm control of the gov?
-ernment, seems to make government purchases irrelevant to stabilization policy. It's
+seemed most intense and the party favoring that policy had firm control of the government,
+seems to make government purchases irrelevant to stabilization policy. It's
 not that purchases are ineffective but that the government is incapable of executing
 a rapid and large increase in purchases.
 Keynes's thinking informed and advanced macroeconomics. The analysis of slumps
-builds on and advances his ideas and those of his successors. Paul Samuelson's "neo?
-classical synthesis" is alive and well in macroeconomics.
+builds on and advances his ideas and those of his successors. Paul Samuelson's "neoclassical
+synthesis" is alive and well in macroeconomics.
 XII. Macro Policy
-Are there any policy moves available now that would speed up the slow recov?
-ery? Monetary policy has gone to its limit in pushing interest rates down. The
+Are there any policy moves available now that would speed up the slow recovery?
+Monetary policy has gone to its limit in pushing interest rates down. The
 government seems to lack the logistical tools to expand government expenditures
 significantly and the political wind is blowing in the wrong direction to push that
 lever very hard.

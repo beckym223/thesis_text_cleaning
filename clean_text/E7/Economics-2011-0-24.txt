@@ -1,6 +1,6 @@
 second period, kx. The flow of output is a significant fraction of the stock of capital.
-As Table 1 shows, output is two or three times higher than capital. In a standard cali?
-bration of a long-horizon model?and in data for the US economy?output is only a
+As Table 1 shows, output is two or three times higher than capital. In a standard calibration
+of a long-horizon model?and in data for the US economy?output is only a
 fraction of the capital stock. Even a total collapse of output lowers the capital stock
 by a small percentage and may not be able to match the increase in the real return to
 capital needed to generate a low-employment equilibrium.
@@ -9,8 +9,8 @@ of employment high enough to elevate the labor/capital ratio to the point needed
 match the high return to currency. On the one hand, a low-employment equilibrium
 needs to produce a low level of output so as to cut the capital stock and raise the rate
 of return to capital. On the other hand, the equilibrium needs to keep employment high
-to generate a high enough labor/capital ratio. In the two-period low-employment equi?
-librium, there is no conflict?the cut in employment occurs in the first period, while
+to generate a high enough labor/capital ratio. In the two-period low-employment equilibrium,
+there is no conflict?the cut in employment occurs in the first period, while
 employment is at its maximal level in the second period, so the labor capital ratio can be
 high. But in cases where the availability of excessive returns on currency last multiple
 periods, no similar pattern can generate a high enough labor/capital ratio.
@@ -20,15 +20,15 @@ market-clearing equilibrium conditions, especially in the labor market. I find t
 term confusing, but there's no substantive disagreement here, only a matter of taste.
 Non-existence of equilibrium is a defect of a model, not a statement about the
 behavior of the economy. Something always happens in the economy and it is the job
-of the model to replicate what happens. Non-existence of a low-employment equilib?
-rium calls for consideration of other mechanisms. The challenge is the following: At
+of the model to replicate what happens. Non-existence of a low-employment equilibrium
+calls for consideration of other mechanisms. The challenge is the following: At
 times when the real return to currency is high enough to cause problems?such as the
 US and many other countries since late 2008 or in the Great Depression?the return
 to capital must match the return to currency, including the appropriate risk premium.
 But the collapse of the economy, especially the decline in employment, seems to
 point in the direction of a low return to capital.
-One element that may help in building a model of a slump that has an equilib?
-rium is a decline in capital utilization. This idea is an important element of the New
+One element that may help in building a model of a slump that has an equilibrium
+is a decline in capital utilization. This idea is an important element of the New
 Keynesian model. If x is the fraction of capital in productive use, the economy's
 technology is
 The return to capital is the marginal product of capital. One notion of the marginal

@@ -5,8 +5,8 @@ Honesty of these third parties is not automatic. Formal courts may also be biase
 and the police and jailers may likewise be corrupt in enforcing the judgment of the courts.
 Private for-profit enforcement brings the problem out into the open. If Peppe conspires with
 the other trader to double-cross one of his customers, the customer has little recourse. Peppe's
-honesty must be a part of the condition of equilibrium of the system. Governance works by con?
-verting a one-shot prisoner's dilemma game of the two traders into two repeated games of each
+honesty must be a part of the condition of equilibrium of the system. Governance works by converting
+a one-shot prisoner's dilemma game of the two traders into two repeated games of each
 with the third party. To sustain honest behavior in each game, each trader and Peppe both need a
 sufficiently large share in the total pie. This places upper and lower bounds on the fee of the third
 party: Peppe's fee has to be high enough to keep him honest, but low enough to keep the trader
@@ -19,8 +19,8 @@ is worth playing even without governance, but can yield a higher payoff if gover
 honesty. Suppose both parties engage a Peppe, who charges each of them a fee F each period for
 his services. Consider separately the cases of information and enforcement services.
 Under the information service, each customer can cheat to get a one-time payoff W-F instead
-of H - F for an extra benefit (W - H), but then the game will collapse into the cheating equilib?
-rium, so the player will get C instead of H - F forever. If r is the discount rate, the condition for
+of H - F for an extra benefit (W - H), but then the game will collapse into the cheating equilibrium,
+so the player will get C instead of H - F forever. If r is the discount rate, the condition for
 this deviation to be undesirable is
 {H-F)-C> r(W-H), or F < (H - C) - r (W - H).
 Peppe can double-cross one of the customers to let the other gain W instead of H, and can extract

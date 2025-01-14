@@ -49,8 +49,8 @@ and
 R
 .
 An increase in debt decreases capital and thus decreases the wage and increases
-the rate of return on capital. What is the effect on welfare?
-Using the factor price frontier relation
+the rate of return on capital. What is the effect on welfareUsing
+the factor price frontier relation
 dW
 /dR
 

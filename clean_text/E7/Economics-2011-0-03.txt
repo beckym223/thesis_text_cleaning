@@ -7,11 +7,11 @@ The more serious slumps in US economic history have followed financial crises.
 In the case of the slump that began at the end of 2007 but became severe after the
 crisis of September 2008?the Great Slump?the origin in the financial events of
 the earlier years of the decade seems obvious. Years of stable and rising house prices
-made levered positions in real-estate-related assets seem quite safe. Regulators per?
-mitted increases in leverage, especially for investment banks and other financial
+made levered positions in real-estate-related assets seem quite safe. Regulators permitted
+increases in leverage, especially for investment banks and other financial
 entities thought to be free from government guarantees and the accompanying need
-for government supervision. The Securities and Exchange Commission altered capi?
-tal requirements for investment banks in 2004 and their leverage rose. Risk analysis
+for government supervision. The Securities and Exchange Commission altered capital
+requirements for investment banks in 2004 and their leverage rose. Risk analysis
 and loan underwriting used probability distributions that assigned zero probability
 to significant declines in housing prices. Credit became available to households who
 were denied access under earlier standards. The result was a bulge in homebuilding
@@ -19,9 +19,9 @@ and sales of cars and other consumer durables, together with a corresponding bul
 in consumer debt.
 The wholly unexpected decline in housing prices brought the financial crisis.
 Commercial banks required help from the government that they had reason to expect.
-Events showed that the precarious conditions of other large financial entities?invest?
-ment banks, insurance companies, and money-market funds?threatened the stabil?
-ity of the entire financial system, so they, too, received government assistance. The
+Events showed that the precarious conditions of other large financial entities?investment
+banks, insurance companies, and money-market funds?threatened the stability
+of the entire financial system, so they, too, received government assistance. The
 government's hands-off treatment of Lehman Brothers appeared to demonstrate the
 vulnerability of the financial system to the failure of an entity previously thought to be
 outside the class requiring protection and supervision. The crisis disabled the financial

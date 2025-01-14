@@ -1,26 +1,26 @@
 expectations about government actions.4,5 A system of expectations is a history-dependent
 strategy like equation (1). A credible government policy gives a government incentives to
 confirm prior expectations about its future actions, actions it cannot commit to because it
-chooses sequentially.6 There are multiple equilibrium systems of expectations that a govern?
-ment would want to confirm, with incentive constraints linking good and bad ones.
+chooses sequentially.6 There are multiple equilibrium systems of expectations that a government
+would want to confirm, with incentive constraints linking good and bad ones.
 These theoretical rational expectations results have determined the way monetary policy
 is now discussed within central banks. Because central banks want to implement solutions of
 Ramsey problems like (b) in contexts like (a) in which the distinction between foreseen and
 unforeseen policy actions is important, a time inconsistency problem like (c) arises, prompting
 them to focus on ways like (d) to sustain good expectations.7
 II. Justifications for Equating Objective and Subjective Distributions
-These and many other theoretical results hinge on the part of the rational expectations equi?
-librium concept that equates subjective distributions for endogenous variables to an equilibrium
-distribution. To gain empirical content, rational expectations models also take the logically dis?
-tinct step of equating an equilibrium distribution to the data generating distribution. I shall use
+These and many other theoretical results hinge on the part of the rational expectations equilibrium
+concept that equates subjective distributions for endogenous variables to an equilibrium
+distribution. To gain empirical content, rational expectations models also take the logically distinct
+step of equating an equilibrium distribution to the data generating distribution. I shall use
 asset pricing theory to illustrate two justifications for that step, one based on a survival argument
 that says that agents with beliefs closest to the truth will eventually determine market prices,
 another on empirical convenience.
 Many researchers have used consumer /'s Euler equation,
 (3)
 <(cu+1(*m))
-u'M^x1))  ?flj.mfo+il/.fo+il*') dxx  ?+i?
-to generate restrictions on the covariation of consumption and a one-period return RJJ+l(xt+])
+u'M^x1))  ?flj.mfo+il/.fo+il*') dxx  ?+ito
+generate restrictions on the covariation of consumption and a one-period return RJJ+l(xt+])
 on asset/ Here^^x^+ilJcQ ^/(jc^ljr/,^) is consumer i's subjective one-step-ahead transition
 density for a state vector xt+l that determines both returns and time t + 1 consumption, clt+l,
 ? is a discount factor common across /, and i//(cl>?+1(jt?+1)) is consumer /'s marginal utility of

@@ -1,6 +1,6 @@
 Underestimates of the natural unemployment rate and overestimates of the sacrifice ratio
-are connected. When the Fed underestimates the natural rate and overestimates the unemploy?
-ment gap, it overpredicts the amount of disinflation. That causes it to revise its estimate of the
+are connected. When the Fed underestimates the natural rate and overestimates the unemployment
+gap, it overpredicts the amount of disinflation. That causes it to revise its estimate of the
 slope of the Phillips curve toward zero. Thus, Orphanides's story about the consequences of
 misestimating the natural rate of unemployment complements Primiceri's story about sacrifice
 ratio pessimism.
@@ -11,11 +11,11 @@ specifying a true data-generating mechanism, the empirical distribution being en
 government's views about the consequences of choosing alternative feasible policies continue to
 play the leading role. The government's model f(ycc,vcc\0) mixes three submodels according to
 Bayesian posterior probabilities that are included in the vector 0t.
-A government entertains three models that Cogley and Sargent use to capture prominent spec?
-ifications from the literature about US unemployment-inflation dynamics described by King and
+A government entertains three models that Cogley and Sargent use to capture prominent specifications
+from the literature about US unemployment-inflation dynamics described by King and
 Watson (1994). The models are (1) a Samuelson-Solow Phillips curve with King and Watson's
-Keynesian direction of fit, a model that implies a long-run exploitable trade-off between infla?
-tion and unemployment; (2) a Solow-Tobin model with a Keynesian direction of fit that features
+Keynesian direction of fit, a model that implies a long-run exploitable trade-off between inflation
+and unemployment; (2) a Solow-Tobin model with a Keynesian direction of fit that features
 a short-run but no long-run trade-off between inflation and unemployment (albeit according to
 what Lucas (1972a) and Sargent (1971) claimed was an unsound notion of long-run); and (3) a
 Lucas specification with a classical direction of fit that implies no exploitable trade-off between
@@ -28,11 +28,11 @@ among the recommendations of the three models. But what kind of compromise? It d
 submodel probabilities multiplied by value functions.
 The government starts with a prior that has non-zero weights on all three models in 1960, then
 each period uses Bayes's law to update parameters of each of the three submodels and also its
-prior over the submodels.37 In each period, the government solves a Phelps problem that penal?
-izes inflation and unemployment and that uses its time t submodel probabilities to average over
+prior over the submodels.37 In each period, the government solves a Phelps problem that penalizes
+inflation and unemployment and that uses its time t submodel probabilities to average over
 its time t estimates of its three submodels. Cogley and Sargent put prior probabilities in 1960
 of 0.98 on the Samuelson-Solow model and 0.01 each on the Solow-Tobin and the Lucas model.
 We set those low prior probabilities on the Lucas and Solow-Tobin models because only the
-Samuelson-Solow model existed in I960.38 Applying this machine to US inflation-unemploy?
-ment data, Cogley and Sargent computed time series of both the posterior model weights ait and
+Samuelson-Solow model existed in I960.38 Applying this machine to US inflation-unemployment
+data, Cogley and Sargent computed time series of both the posterior model weights ait and
 the systematic part of the inflation rate set by the government in the Phelps problem.

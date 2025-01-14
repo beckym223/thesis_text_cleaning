@@ -1,13 +1,13 @@
 it is undertaken, and this reduces the bribes for all the other officials. Each demands bribes that
-are excessive from the point of view of their collective revenues. It would be better for the offi?
-cialdom to have one agency, which could then "internalize" this "negative externality" among
+are excessive from the point of view of their collective revenues. It would be better for the officialdom
+to have one agency, which could then "internalize" this "negative externality" among
 bribe-seekers. They could set lower bribes and yet increase their take. And the lower bribes
 would increase the volume of the activity and therefore be better for general economic efficiency.
 The multiple licenses form a package of perfect complements because all of them are required
 for the activity to proceed and, as is well known, it is better for providers and users alike to have a
 package of perfect complements supplied by a monopolist rather than by competing oligopolists.
-The preferred method for achieving this outcome is a "one-stop" licensing agency that is empow?
-ered to issue all the licenses the entrepreneur requires. Such agencies have been formed by some
+The preferred method for achieving this outcome is a "one-stop" licensing agency that is empowered
+to issue all the licenses the entrepreneur requires. Such agencies have been formed by some
 US states to lower the overall transaction cost of setting up businesses in their states, but this
 can also serve to reduce the level of corruption in many countries (including the United States).
 Carrying the idea further, if there were two or more one-stop agencies, both empowered to issue
@@ -15,8 +15,8 @@ all licenses, so someone starting a business could choose one or the other for a
 needs, then competition between the agencies could drive the bribes down further, perhaps all
 the way to zero. I wonder if this is a practicable suggestion.
 IV. Enforcement of Contracts
-In the absence of some form of governance, contracts run into problems of prisoner's dilem?
-mas. Some contracts require one party to act first, in anticipation of reciprocal action by the
+In the absence of some form of governance, contracts run into problems of prisoner's dilemmas.
+Some contracts require one party to act first, in anticipation of reciprocal action by the
 other. But when the time comes, the other party may be tempted to renege on its promise. The
 fear of this may deter the first from acting at all; therefore mutual benefits may go unrealized.
 The classic description of this is in Thomas Hobbes's Leviathan (1651 [2005], chap. 14): "If a
@@ -36,8 +36,8 @@ exemplified by what a cattle rancher told Gambetta (1993, 15) in the course of h
 Sicilian Mafia: "When the butcher comes to me to buy an animal, he knows that I want to cheat
 him [by supplying a low-quality animal]. But I know that he wants to cheat me [by reneging on
 payment]. Thus we need Peppe [the third-party mafioso] to make us agree. And we both pay
-Peppe a commission." Here we have the case for governance, and also one form of private gov?
-ernance, in a nutshell.
+Peppe a commission." Here we have the case for governance, and also one form of private governance,
+in a nutshell.
 A. Governance Using Social Preferences
 I classify methods of private governance of contracts into first-party, second-party, and third
 party systems. First-party systems operate on the potential cheater's own internal value system:

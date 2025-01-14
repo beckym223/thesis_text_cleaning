@@ -1,42 +1,42 @@
 holdings in savings accounts and the like and borrowing from credit cards and other
 unsecured forms. In the 2007 Survey of Consumer Finances (SCF), households
-illiquid by this standard earned 58 percent of all income. The fraction of house?
-holds that were constrained?74 percent?is even higher because lower-income
+illiquid by this standard earned 58 percent of all income. The fraction of households
+that were constrained?74 percent?is even higher because lower-income
 households are more likely to be constrained. Nonetheless, many quite prosperous
-families hold essentially no liquid financial assets. Their recourses in times of unex?
-pected income losses include borrowing against unencumbered houses and cars,
+families hold essentially no liquid financial assets. Their recourses in times of unexpected
+income losses include borrowing against unencumbered houses and cars,
 selling these assets, liquidating retirement accounts, and seeking help from friends
 and family. Richard Blundell, Luigi Pistaferri, and Ian Preston (2008) find a rather
 smaller response of consumption to transitory income than is implied by the SCF
 data, suggesting that the other recourses may be important.
 I incorporate these facts into the model by dividing consumption into two parts.
 Consumption of unconstrained households obeys the standard life-cycle model, while
-consumption of constrained households is their earnings less their payments on out?
-standing credit. The payments are forced saving. To determine the amount of the
-required payments, I use the following logic: Let Dt be the outstanding debt of con?
-strained households in quarter t. Constrained households always borrow the maxi?
-mum allowed, so their debt is controlled by the borrowing limits imposed by lenders.
+consumption of constrained households is their earnings less their payments on outstanding
+credit. The payments are forced saving. To determine the amount of the
+required payments, I use the following logic: Let Dt be the outstanding debt of constrained
+households in quarter t. Constrained households always borrow the maximum
+allowed, so their debt is controlled by the borrowing limits imposed by lenders.
 The borrowing interest rate is rD. The sources of funds for constrained households are
 income yt and increased borrowing, Dt ? Dt_x. Uses of funds are consumption ct and
 payment of interest on earlier debt, rDt_xDt_x. Thus consumption is
 (1) ct = yt + Dt - (1 + rDj_x)Dt_x.
 I let
-(2) st = rDj_xDt_x - AD?
-the net burden on consumption relative to income associated with debt service. The
+(2) st = rDj_xDt_x - ADthe
+net burden on consumption relative to income associated with debt service. The
 level of debt is high enough that interest payments usually exceed new borrowing,
 so Dt is usually positive. In a stationary setting, Dt = D, a constant, debt repayments
 are zero, and household purchases of consumption goods are less than income by
 the amount of interest they pay, rDD.
 Figure 5 shows the burden st, as a fraction of GDP, calculated from Flow of Funds
 data on consumer debt and National Income and Product Accounts (NIPA) data on
-household interest payments. Prior to 2007, the burden was close to zero?new bor?
-rowing came close to covering interest payments. Tightening of credit began even
+household interest payments. Prior to 2007, the burden was close to zero?new borrowing
+came close to covering interest payments. Tightening of credit began even
 before the onset of recession at the end of 2007 and continued to the end of 2010.
-In a full-employment economy containing unconstrained and constrained house?
-holds, the tightening of credit as shown in Figure 5 would not have contributed to a
+In a full-employment economy containing unconstrained and constrained households,
+the tightening of credit as shown in Figure 5 would not have contributed to a
 slump. Rather, the interest rate would clear the output market, thanks to the absence
-of any lower bound on the interest rate. When constrained households cut back con?
-sumption spending, including purchases of new houses and consumer durables, low
+of any lower bound on the interest rate. When constrained households cut back consumption
+spending, including purchases of new houses and consumer durables, low
 rates would induce unconstrained households to consume more by borrowing, thus
 offsetting the saving of constrained households.
 Atif Mian and Amir Sufi (2010b) demonstrate large differences among states in

@@ -5,8 +5,8 @@ I focus on a particular scenario to illustrate the principles. The scenario is o
 loosely connected to actual events in the current slump. I consider an economy with
 a fixed inflation rate at just below zero (ir ? ? 0.12 percent per year decline). The
 stock of housing and consumer durables is 14 percent above normal at the outset,
-which I take to be roughly late 2008. The stock of business capital k starts at its nor?
-mal, stationary level. Fifty-eight percent of consumption is in liquidity-constrained
+which I take to be roughly late 2008. The stock of business capital k starts at its normal,
+stationary level. Fifty-eight percent of consumption is in liquidity-constrained
 households with debt-service commitments of 6.7 percent of GDP that are gradually
 declining by 2 percent per quarter (st = (0.067)(0.98')). There is a financial friction
 /equivalent to a property tax on both types of capital at 2 percent per year, gradually
@@ -20,7 +20,7 @@ the financial friction, but rather built up over about half a decade. Online App
 discusses the relation between my approach and impulse response functions.
 B. Results
 Figure 17 shows the response of the unemployment rate to the combined effects
-of the three adverse forces. Unemployment starts at a very high rate above 30 per?
-cent and gradually declines during the four years that the interest rate is blocked
+of the three adverse forces. Unemployment starts at a very high rate above 30 percent
+and gradually declines during the four years that the interest rate is blocked
 from declining below 0.12 percent. Once the economy is free of the limit on the
 interest rate, the unemployment rate drops immediately to its normal 5.5 percent.
