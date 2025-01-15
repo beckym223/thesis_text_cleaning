@@ -15,35 +15,37 @@ def clean_text_files(dir_path: str,commit_changes:bool):
     """
     file = "none yet"
     try:
-        files = sorted(os.listdir(dir_path))
-        for file in files:
+        for file in sorted(os.listdir(dir_path)):
             try:
-                if file.startswith('.'):
+                if file[0]=='.':
                     continue
-
-                disc, year, num, page_txt = file.split("-")
-                page = int(page_txt[:-4])
-                path = os.path.join(dir_path, file)
-
-                with open(path, 'r') as f:
-                    text = f.read()
-
-                text = text.split("This content downloaded from")[0].strip()
-                lines = [line.strip() for line in text.split("\n")]
-
-                if page != 1:
-                    lines = lines[1:]
-                    if len(lines[-1]) <3 or (year == '1889' and page == 24):
-                        logging.info(f"Deleting trailing line: '{lines[-1]}' in file: {file}")
-                        lines = lines[:-1]
-                elif year == '1888':
-                    lines = lines[5:]
+                disc,year,num,pagetxt = file.split("-")
+                page=int(pagetxt[:-4])
+                path = os.path.join(dest_dir,file)
+    
+                text = open(path,'r').read()
+                text = jstor_and_stripping(text)
+                filtered_lines = [l for l in text.splitlines() if len(l)>3]
+                if page!=1:
+                    save_lines = filtered_lines[1:]
+                    if (year=='1893' and page==15 or year=='1894' and page==21):
+                        for i,line in enumerate(save_lines[::-1]):
+                            line_num = (i+1) *-1
+                            if re.search("[a-z]",line) is None:
+                                save_lines = save_lines[:line_num]
+                                break
                 else:
-                    lines = lines[2:-3]
+                    line_num=0
+                    any_upper =False
+                    while True:
+                        if len(re.findall(r'[a-z]',filtered_lines[line_num]))>2 and any_upper:
+                            break
+                        line_num+=1
+                        any_upper=True
+                    save_lines = filtered_lines[line_num:]
 
-                text = "\n".join(lines).strip()
-
-                with open(path, 'w') as f:
+                text = "\n".join(save_lines)
+                with open(path,'w') as f:
                     f.write(text)
             except Exception as e:
                 logging.error(f"Error when processing file {file}")
@@ -52,6 +54,7 @@ def clean_text_files(dir_path: str,commit_changes:bool):
     except Exception as e:
         logging.error(f"Error cleaning text files after file {file}: {e}")
         raise
+    
 def main(source_dir, dest_dir, log_file, commit_changes):
 
     setup_logging(log_file)
