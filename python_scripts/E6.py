@@ -5,7 +5,7 @@ from utils import *
 from text_cleaning import *
 import subprocess
 def handle_first_page(file:str,text:str)->str:
-    footnote_pattern= r"^((?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*\n)(.+?)([\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
+    footnote_pattern= r"^(?:(?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*\n)(.+?)(?:[\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
     new_text = re.search(footnote_pattern,text,re.DOTALL)
     if new_text is not None:
         text= new_text.group(1)
