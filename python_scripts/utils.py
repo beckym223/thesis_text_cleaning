@@ -111,7 +111,7 @@ def git_commit(path: str, message: Optional[str] = None) -> None:
     
 def apply_func_to_txt_dir(source_dir:str,
                           dest_dir:str,
-                          func:Callable[Concatenate[str,...],str],
+                          func:Callable,
                           skip_if_exists=False,
                           pass_filename=False,
                           *args, **kwargs):
