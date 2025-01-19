@@ -48,6 +48,11 @@ def clean_headers_footers_references(dest_dir:str,commit_changes:bool):
                     reference_first_pages[doc_id] = page
                     logging.info(f"Found reference page start for {doc_id} at page {page}")
                     text = text.split("REFERENCES")[0].strip()
+                if doc_id=="Economics-1970-0" and "APPENDIX" in text:
+                        reference_first_pages[doc_id] = page
+                        logging.info(f"Found appendix/reference page start for {doc_id} at page {page}")
+                        text = text.split("APPENDIX")[0].strip()
+
                 text= "\n".join(text.splitlines()[1:]) if not first_page else text
                 with open(path,'w') as f:
                     f.write(text.strip())
