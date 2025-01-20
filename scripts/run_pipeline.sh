@@ -2,8 +2,9 @@
 
 RUN_EXTRA_COMMAND=false
 DEL_BRANCH=true
+
 # Process short options
-while getopts "ok:" opt; do
+while getopts "ok" opt; do
     case "$opt" in
         o)
             RUN_EXTRA_COMMAND=true
@@ -18,7 +19,7 @@ while getopts "ok:" opt; do
     esac
 done
 
-# Shift processed options
+# Shift past the short options
 shift $((OPTIND - 1))
 
 # Process long options manually
@@ -29,10 +30,6 @@ while [[ "$1" =~ ^-- ]]; do
             ;;
         --keep)
             DEL_BRANCH=false
-            ;;
-        --threshold)
-            shift
-            THRESHOLD="$1"
             ;;
         --help)
             echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
@@ -45,6 +42,49 @@ while [[ "$1" =~ ^-- ]]; do
     esac
     shift
 done
+# # Process short options
+# while getopts "ok:" opt; do
+#     case "$opt" in
+#         o)
+#             RUN_EXTRA_COMMAND=true
+#             ;;
+#         k)
+#             DEL_BRANCH=false
+#             ;;
+#         *)
+#             echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
+#             exit 1
+#             ;;
+#     esac
+# done
+
+# # Shift processed options
+# shift $((OPTIND - 1))
+
+# # Process long options manually
+# while [[ "$1" =~ ^-- ]]; do
+#     case "$1" in
+#         --open)
+#             RUN_EXTRA_COMMAND=true
+#             ;;
+#         --keep)
+#             DEL_BRANCH=false
+#             ;;
+#         --threshold)
+#             shift
+#             THRESHOLD="$1"
+#             ;;
+#         --help)
+#             echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
+#             exit 0
+#             ;;
+#         *)
+#             echo "Invalid option: $1"
+#             exit 1
+#             ;;
+#     esac
+#     shift
+# done
 # Validate positional arguments
 if [ "$#" -ne 4 ]; then
     echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
