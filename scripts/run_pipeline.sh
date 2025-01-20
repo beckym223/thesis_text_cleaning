@@ -135,7 +135,7 @@ if [ $? -eq 0 ]; then
             echo "$(date +'%Y-%m-%d %H:%M:%S') - No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made." >> "$LOG_FILE"
             echo "Pipeline Run completed successfully"
             echo "No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made."
-            if $DEL_BRANCH then
+            if $DEL_BRANCH; then
                 echo "Deleting $BRANCH_NAME"
                 # Clean up the temporary branch
                 git checkout "$CURRENT_BRANCH"
