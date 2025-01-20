@@ -7,7 +7,6 @@ from constants import E5_SPLIT_RANGES
 import subprocess
 
 def clean_headers_footers(dest_dir:str,commit_changes:bool):
-    pages_to_delete = []
     try:
         for file in sorted(os.listdir(dest_dir)):
             try:
@@ -19,7 +18,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
                 if page<4:
-                    author_line =re.search("\n(By .*\n)",text)
+                    author_line =re.search("\n(By [^\n]+\n)",text)
                     if author_line is not None:
                         text = text.split(author_line.group(1),1)[1]
                         footnote = re.search(r"\n[\*'\d]+\s*[Pp]resident",text)
