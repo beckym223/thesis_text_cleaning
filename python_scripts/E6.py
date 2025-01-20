@@ -41,7 +41,7 @@ def clean_headers_footers_references(dest_dir:str,commit_changes:bool):
                         if commit_changes:
                                 subprocess.run(["git", "rm", path], check=True)
                         continue
-                    if re.search(r"By[^\*]+\*?\n",text) is not None:
+                    if re.search(r"\nBy[^\*\n]*?[A-Z]{2,}\n",text) is not None:
                         if '1990' in doc_id:
                             logging.info(f"Found first page for 1990: {file}")
                     
