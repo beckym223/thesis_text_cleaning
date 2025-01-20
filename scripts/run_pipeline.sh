@@ -1,22 +1,50 @@
 #!/bin/bash
 
 RUN_EXTRA_COMMAND=false
-
-# Parse optional flags
-while getopts "o" opt; do
+DEL_BRANCH=true
+# Process short options
+while getopts "ok:" opt; do
     case "$opt" in
-    o)
-        RUN_EXTRA_COMMAND=true
-        ;;
-    *)
-        echo "Usage: $0 [-o] <source_dir> <dest_dir> <log_file> <python_script>"
-        exit 1
-        ;;
+        o)
+            RUN_EXTRA_COMMAND=true
+            ;;
+        k)
+            DEL_BRANCH=false
+            ;;
+        *)
+            echo "Usage: $0 [-o|--open] [-v|--verbose] [-t <threshold>] <source_dir> <dest_dir> <log_file> <python_script>"
+            exit 1
+            ;;
     esac
 done
-# Shift past the optional arguments
+
+# Shift processed options
 shift $((OPTIND - 1))
 
+# Process long options manually
+while [[ "$1" =~ ^-- ]]; do
+    case "$1" in
+        --open)
+            RUN_EXTRA_COMMAND=true
+            ;;
+        --keep)
+            DEL_BRANCH=false
+            ;;
+        --threshold)
+            shift
+            THRESHOLD="$1"
+            ;;
+        --help)
+            echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
+            exit 0
+            ;;
+        *)
+            echo "Invalid option: $1"
+            exit 1
+            ;;
+    esac
+    shift
+done
 # Validate positional arguments
 if [ "$#" -ne 4 ]; then
     echo "Usage: $0 [-o] <source_dir> <dest_dir> <log_file> <python_script>"
@@ -66,11 +94,12 @@ if [ $? -eq 0 ]; then
             # Log the absence of differences
             echo "$(date +'%Y-%m-%d %H:%M:%S') - No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made." >> "$LOG_FILE"
             echo "Pipeline Run completed successfully"
-            echo "No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made, deleting $BRANCH_NAME."
-
-            # Clean up the temporary branch
-            git checkout "$CURRENT_BRANCH"
-            git branch -D "$BRANCH_NAME"
+            echo "No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made."
+            if $DEL_BRANCH then
+                echo "Deleting $BRANCH_NAME"
+                # Clean up the temporary branch
+                git checkout "$CURRENT_BRANCH"
+                git branch -D "$BRANCH_NAME"
             exit 0
         else
             # Update the log file locally
