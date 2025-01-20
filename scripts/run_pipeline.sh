@@ -140,6 +140,9 @@ if [ $? -eq 0 ]; then
                 # Clean up the temporary branch
                 git checkout "$CURRENT_BRANCH"
                 git branch -D "$BRANCH_NAME"
+            else
+                echo "Keeping $BRANCH_NAME."
+                echo "To delete, run 'git checkout $CURRENT_BRANCH' and git branch -d $BRANCH_NAME"
             fi
             exit 0
         else
