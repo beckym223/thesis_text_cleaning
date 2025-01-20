@@ -12,7 +12,7 @@ while getopts "ok:" opt; do
             DEL_BRANCH=false
             ;;
         *)
-            echo "Usage: $0 [-o|--open] [-v|--verbose] [-t <threshold>] <source_dir> <dest_dir> <log_file> <python_script>"
+            echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
             exit 1
             ;;
     esac
@@ -48,6 +48,7 @@ done
 # Validate positional arguments
 if [ "$#" -ne 4 ]; then
     echo "Usage: $0 [-o] <source_dir> <dest_dir> <log_file> <python_script>"
+    echo "$#"
     exit 1
 fi
 
