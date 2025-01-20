@@ -16,8 +16,7 @@ def remove_files(dir_path: str,
     Removes files with page 0 from the directory.
     """
     try:
-        files = sorted(os.listdir(dir_path))
-        for file in files:
+        for file in sorted(os.listdir(dir_path)):
             try:
                 if decision_function(file,**decision_kwargs):
                     os.remove(os.path.join(dir_path, file))
