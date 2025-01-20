@@ -42,6 +42,9 @@ def clean_headers_footers_references(dest_dir:str,commit_changes:bool):
                                 subprocess.run(["git", "rm", path], check=True)
                         continue
                     if re.search(r"By[^\*]+\*?\n",text) is not None:
+                        if '1990' in doc_id:
+                            logging.info(f"Found first page for 1990: {file}")
+                    
                         text = handle_first_page(file,text)
                         first_page=True
                 if "REFERENCES" in text:
