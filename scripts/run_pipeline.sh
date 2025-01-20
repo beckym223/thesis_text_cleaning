@@ -47,8 +47,7 @@ while [[ "$1" =~ ^-- ]]; do
 done
 # Validate positional arguments
 if [ "$#" -ne 4 ]; then
-    echo "Usage: $0 [-o] <source_dir> <dest_dir> <log_file> <python_script>"
-    echo "$#"
+    echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
     exit 1
 fi
 
