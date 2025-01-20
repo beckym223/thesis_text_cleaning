@@ -140,6 +140,7 @@ if [ $? -eq 0 ]; then
                 # Clean up the temporary branch
                 git checkout "$CURRENT_BRANCH"
                 git branch -D "$BRANCH_NAME"
+            fi
             exit 0
         else
             # Update the log file locally
