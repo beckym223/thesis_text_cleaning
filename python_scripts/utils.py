@@ -38,15 +38,24 @@ def commit(_func:Optional[Callable]=None,
     else:
         return decorator_commit(_func)
 def setup_logging(log_file):
-    logging.basicConfig(
-        level=logging.INFO,
-        format='%(asctime)s - %(levelname)s - %(message)s',
-        handlers=[
-            logging.FileHandler(log_file),
-            logging.StreamHandler()
-        ]
-    )
-    logging.info("Logging initialized.")
+    # Create a logger
+    logger = logging.getLogger()
+    logger.setLevel(logging.DEBUG)  # Capture all levels, handlers will filter
+
+    # Create file handler for INFO and above
+    file_handler = logging.FileHandler(log_file)
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
+
+    # Create stream handler for WARNING and above
+    stream_handler = logging.StreamHandler()
+    stream_handler.setLevel(logging.WARNING)
+    stream_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
+
+    # Add handlers to the logger
+    logger.addHandler(file_handler)
+    logger.addHandler(stream_handler)
+    logging.info("Logging initialized")
 
 @commit(commit_msg="Initializing directories",commit_path_arg=1)
 def initialize_directories(source_dir: str, dest_dir: str,commit_changes:bool):
