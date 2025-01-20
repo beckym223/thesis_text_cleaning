@@ -35,7 +35,7 @@ def clean_headers_footers_references(dest_dir:str,commit_changes:bool):
                 text = jstor_and_stripping(text)
                 first_page = False
                 if page<4:
-                    if len(text)<500:
+                    if len(text)<500 or file=="Economics-1983-0-01.txt": #special case of first page
                         os.remove(path)
                         logging.info(f"Removing first page {file}{'- Staging for removal' if commit_changes else ''}")
                         if commit_changes:
