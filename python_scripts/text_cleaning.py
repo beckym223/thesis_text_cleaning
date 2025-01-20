@@ -4,11 +4,13 @@ import re
 import itertools as it
 from collections.abc import Callable
 from utils import commit, apply_func_to_txt_dir
+from typing import Any
 
 @commit(commit_msg="Removed files")
 def remove_files(dir_path: str,
                  decision_function:Callable[[str],bool],
                  commit_changes:bool,
+                 **decision_kwargs:dict[str,Any],
                   ):
     """
     Removes files with page 0 from the directory.
@@ -17,7 +19,7 @@ def remove_files(dir_path: str,
         files = sorted(os.listdir(dir_path))
         for file in files:
             try:
-                if decision_function(file):
+                if decision_function(file,**decision_kwargs):
                     os.remove(os.path.join(dir_path, file))
                     logging.info(f"Removed file: {file}")
             except ValueError:
