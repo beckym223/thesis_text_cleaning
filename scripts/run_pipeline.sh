@@ -2,9 +2,9 @@
 
 RUN_EXTRA_COMMAND=false
 DEL_BRANCH=true
-
+BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
 # Process short options
-while getopts "ok" opt; do
+while getopts "okb" opt; do
     case "$opt" in
         o)
             RUN_EXTRA_COMMAND=true
@@ -12,8 +12,11 @@ while getopts "ok" opt; do
         k)
             DEL_BRANCH=false
             ;;
+        b)  
+            BRANCH_NAME="$OPTARG"
+            ;;
         *)
-            echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
+            echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
             exit 1
             ;;
     esac
@@ -32,19 +35,26 @@ while [[ "$1" =~ ^-- ]]; do
             DEL_BRANCH=false
             ;;
         --help)
-            echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
+            echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script>"
+            exit 0
+            ;;
+        --branch)
+            shift
+            BRANCH_NAME="$1"
+            ;;
+                --help)
+            echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
             exit 0
             ;;
         *)
-            echo "Invalid option: $1"
-            exit 1
+            break
             ;;
     esac
     shift
 done
 
-if [ "$#" -ne 4 ]; then
-    echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
+if [ "$#" -le 4 ]; then
+    echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
     exit 1
 fi
 
