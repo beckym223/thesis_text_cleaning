@@ -52,8 +52,11 @@ while [[ "$1" =~ ^-- ]]; do
             shift
             BRANCH_NAME="$1"
             ;;
-                --help)
-            echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
+        --verbose)
+            VERBOSE=true
+            ;;
+        --help)
+            echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] [-v|--verbose] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
             exit 0
             ;;
         *)
@@ -73,7 +76,10 @@ SOURCE_DIR="$1"
 DEST_DIR="$2"
 LOG_FILE="$3"
 PYTHON_SCRIPT="$4"
+shift 4
+if $VERBOSE;then
 echo "DEBUG: BRANCH_NAME = '$BRANCH_NAME'"
+fi
 
 # Ensure the log file and its directory exist
 LOG_DIR=$(dirname "$LOG_FILE")
@@ -163,8 +169,6 @@ fi
 # Output the branch for manual merge
 echo "Changes have been committed to branch: $BRANCH_NAME"
 
-# Output the branch for manual merge
-echo "Changes have been committed to branch: $BRANCH_NAME"
 
 if $RUN_EXTRA_COMMAND; then
     # Replace the following line with the command you want to run
