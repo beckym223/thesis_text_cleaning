@@ -20,7 +20,9 @@ echo "Running test scenario: $SCENARIO"
 case "$SCENARIO" in
     success)
         echo "Simulating a successful pipeline run..."
-        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh  "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --branch "test"
+        set -x
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh -b "test" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" 
+        set +x
         ;;
     failure)
         echo "Simulating a failed pipeline run..."
