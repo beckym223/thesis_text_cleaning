@@ -1,16 +1,26 @@
 #!/bin/bash
-
+DELETE_BRANCH=false
 # Check if the correct number of arguments is provided
+while getopts "d" opt; do
+    case "$opt" in 
+        d)
+            DELETE_BRANCH=true
+            ;;
+        *)
+        echo "Usage: $0 [-d] <temporary_branch>"
+        exit 1
+
+    esac
+done
+shift $((OPTIND - 1))
 if [ "$#" -ne 1 ]; then
-    echo "Usage: $0 <temporary_branch>"
+    echo "Usage: $0 [-d] <temporary_branch>"
     exit 1
 fi
 
 # Argument
 TEMP_BRANCH="$1"
 
-# Get the current branch (we assume the temporary branch is not the same as the current branch)
-CURRENT_BRANCH=$(git branch --show-current)
 
 # Get the upstream (parent) branch of the temporary branch
 PARENT_BRANCH=$(git rev-parse --abbrev-ref "$TEMP_BRANCH@{u}" 2>/dev/null)
@@ -24,6 +34,12 @@ fi
 # Checkout the parent branch
 git checkout "$PARENT_BRANCH"
 
+if $DELETE_BRANCH; then
+    echo "Deleting branch '$TEMP_BRANCH' "
+    git branch -D  "$TEMP_BRANCH"
+    exit 0
+
+fi
 # Merge the changes from the temporary branch (fast-forward only)
 git merge --ff-only "$TEMP_BRANCH"
 
