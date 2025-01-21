@@ -60,11 +60,11 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
             "reference page":[],
             "author photo page":[],
         }
-        for file in sorted(os.listdir(dest_dir)):
+        for i,file in enumerate(sorted(os.listdir(dest_dir))):
             try:
                 if file[0]==".":
                     continue
-
+                print(i)
                 new_text=None
                 path = os.path.join(dest_dir,file)
 
@@ -110,7 +110,7 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                 try:
                     logging.info(f"Removing {len(paths)} {reason}s")
 
-                    if commit_changes:
+                    if commit_changes and len(paths)>0:
                         command = ["git", "rm", *paths]
                         logging.info(f"Running removal command: '{' '.join(command)}'")
                         subprocess.run(command, check=True)
