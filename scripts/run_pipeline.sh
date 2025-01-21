@@ -138,8 +138,9 @@ else # if the pipeline run fails
     # If any changes remain
     if [ -n "$(git status --porcelain)" ]; then
         echo "$(date +'%Y-%m-%d %H:%M:%S') - WARNING - Outstanding changes from failed pipeline run" >> "$LOG_FILE"
-
-        read -p "Some changes are uncommited in branch. Do you want to commit them? (y/n)" user_input
+        
+        # shellcheck disable=SC2162
+        read  -p "Some changes are uncommited in branch. Do you want to commit them? (y/n)" user_input
         if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
             echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Committing outstanding changes from failed pipeline run" >> "$LOG_FILE"
             echo "Staging and committing all changes"
@@ -147,6 +148,7 @@ else # if the pipeline run fails
         fi
     fi
 
+    # shellcheck disable=SC2162
     read -p "Do you want to delete this branch? (y/n): " user_input
     if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
         # Run the merge and cleanup script immediately
