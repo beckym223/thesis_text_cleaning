@@ -4,7 +4,7 @@ RUN_EXTRA_COMMAND=false
 DEL_BRANCH=true
 BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
 # Process short options
-while getopts "okb" opt; do
+while getopts "okb:" opt; do
     case "$opt" in 
         o)
             RUN_EXTRA_COMMAND=true
