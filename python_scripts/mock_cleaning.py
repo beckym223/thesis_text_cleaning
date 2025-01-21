@@ -60,10 +60,10 @@ def temp_creation(dest_dir:str,commit_changes:bool):
 def main(source_dir:str, dest_dir:str, log_file:str,commit_changes:bool,*args):
     setup_logging(log_file,console_level=logging.INFO)
     args = [x.split("--")[-1] for x in args]
-    print("Args:", *args)
-    opt_args =["--no-commit",'--no-change','fail','--git-error','--file-error','success']
+    print("Args:", args)
+    opt_args =["no-commit",'no-change','fail','git-error','file-error','success']
     for arg in args:
-        if arg not in opt_args:
+        if arg not in [*opt_args,source_dir,dest_dir,log_file,'true']:
             logging.warning(f"Unrecognized argument: {arg}, ignoring")
     if 'no-commit' in args:
         logging.info("Changing 'commit_changes' to false")
@@ -110,11 +110,11 @@ if __name__ == "__main__":
     if len(args) < 5:
         print("Usage: python mock_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
         sys.exit(1)
+    print("Total args: ",len(args))
     source_dir = args[1]
     dest_dir = args[2]
     log_file = args[3]
 
     
     commit_changes = args[4].lower() == "true"
-
     main(source_dir, dest_dir, log_file,commit_changes,*args[5:])
