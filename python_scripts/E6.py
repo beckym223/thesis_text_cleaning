@@ -110,7 +110,7 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                         os.remove(path)
 
                     if commit_changes:
-                        command = ["git", "add", "-q", *paths]
+                        command = ["git", "rm", *paths]
                         logging.info(f"Running removal command: '{' '.join(command)}'")
                         subprocess.run(command, check=True)
                 except Exception:
