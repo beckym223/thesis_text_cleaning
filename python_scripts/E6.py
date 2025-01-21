@@ -55,11 +55,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
 def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
     try:
         reference_first_pages:dict[str,int] = {}
-        to_remove:dict[str,list[str]] ={
-            "cover page":[],
-            "reference page":[],
-            "author photo page":[],
-        }
+        to_remove:dict[str,list[str]] =defaultdict(list)
         for i,file in enumerate(sorted(os.listdir(dest_dir))):
             try:
                 if file[0]==".":
@@ -106,22 +102,22 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                 logging.error(f"Error when figuring out file {file}")
                 raise
 
-            for reason,paths in to_remove.items():
-                try:
-                    logging.info(f"Removing {len(paths)} {reason}s")
-                    for path in paths:
-                        #logging.info(f"Removing {reason}: {os.path.basename(path)}")
-                        os.remove(path)
+        for reason,paths in to_remove.items():
+            try:
+                logging.info(f"Removing {len(paths)} {reason}s")
+                for path in paths:
+                    #logging.info(f"Removing {reason}: {os.path.basename(path)}")
+                    os.remove(path)
 
-                    if commit_changes and len(paths)>0:
-                        command = ["git", "rm", *paths]
-                        logging.info(f"Running removal command: '{' '.join(command)}'")
-                        subprocess.run(command, check=True)
-                except Exception:
-                    logging.error(f"Error when removing files with reason {reason}")
-                    raise
-            if commit_changes:
-                git_commit(dest_dir,"Changed some reference pages")
+                if commit_changes and len(paths)>0:
+                    command = ["git", "rm", *paths]
+                    logging.info(f"Running removal command: '{' '.join(command)}'")
+                    subprocess.run(command, check=True)
+            except Exception:
+                logging.error(f"Error when removing files with reason {reason}")
+                raise
+        if commit_changes:
+            git_commit(dest_dir,"Changed some reference pages")
     except Exception as e:
         logging.error(f"Error deleting files: {e}")
         raise
