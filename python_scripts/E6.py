@@ -105,14 +105,19 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
         for reason,paths in to_remove.items():
             try:
                 logging.info(f"Removing {len(paths)} {reason}s")
+                if len(paths)==0:
+                    logging.warning(f"No paths found with reason: {reason}")
+                    continue
                 for path in paths:
                     #logging.info(f"Removing {reason}: {os.path.basename(path)}")
                     os.remove(path)
 
                 if commit_changes and len(paths)>0:
-                    command = ["git", "rm", *paths]
+                    command = ["git", "rm","-q", *paths]
                     logging.info(f"Running removal command: '{' '.join(command)}'")
                     subprocess.run(command, check=True)
+                    subprocess.run(["git",'commit',"-m",f"Removing {reason} files"])
+            
             except Exception:
                 logging.error(f"Error when removing files with reason {reason}")
                 raise
