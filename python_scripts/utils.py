@@ -4,7 +4,7 @@ import logging
 from typing import Optional, Any, Callable
 import shutil
 import functools
-from time import gmtime, strftime
+
 
 def commit(_func:Optional[Callable]=None,
            to_commit_default = False,
@@ -37,19 +37,19 @@ def commit(_func:Optional[Callable]=None,
         return decorator_commit
     else:
         return decorator_commit(_func)
-def setup_logging(log_file):
+def setup_logging(log_file,file_level:int|None=None,console_level:int|None=None):
     # Create a logger
     logger = logging.getLogger()
     logger.setLevel(logging.DEBUG)  # Capture all levels, handlers will filter
 
     # Create file handler for INFO and above
     file_handler = logging.FileHandler(log_file)
-    file_handler.setLevel(logging.INFO)
+    file_handler.setLevel(logging.INFO if file_level is None else file_level)
     file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
 
     # Create stream handler for WARNING and above
     stream_handler = logging.StreamHandler()
-    stream_handler.setLevel(logging.WARNING)
+    stream_handler.setLevel(logging.WARNING if console_level is None else console_level)
     stream_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
 
     # Add handlers to the logger
