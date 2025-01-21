@@ -42,50 +42,7 @@ while [[ "$1" =~ ^-- ]]; do
     esac
     shift
 done
-# # Process short options
-# while getopts "ok:" opt; do
-#     case "$opt" in
-#         o)
-#             RUN_EXTRA_COMMAND=true
-#             ;;
-#         k)
-#             DEL_BRANCH=false
-#             ;;
-#         *)
-#             echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
-#             exit 1
-#             ;;
-#     esac
-# done
 
-# # Shift processed options
-# shift $((OPTIND - 1))
-
-# # Process long options manually
-# while [[ "$1" =~ ^-- ]]; do
-#     case "$1" in
-#         --open)
-#             RUN_EXTRA_COMMAND=true
-#             ;;
-#         --keep)
-#             DEL_BRANCH=false
-#             ;;
-#         --threshold)
-#             shift
-#             THRESHOLD="$1"
-#             ;;
-#         --help)
-#             echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
-#             exit 0
-#             ;;
-#         *)
-#             echo "Invalid option: $1"
-#             exit 1
-#             ;;
-#     esac
-#     shift
-# done
-# Validate positional arguments
 if [ "$#" -ne 4 ]; then
     echo "Usage: $0 [-o|--open] [-k|--keep] <source_dir> <dest_dir> <log_file> <python_script>"
     exit 1
@@ -120,7 +77,7 @@ CURRENT_BRANCH=$(git branch --show-current)
 # Generate a unique branch name
 BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
 
-echo "$(date +'%Y-%m-%d %H:%M:%S') - Starting pipeline run. Current branch: $CURRENT_BRANCH, New branch: $BRANCH_NAME" >> "$LOG_FILE"
+echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Starting pipeline run. Current branch: $CURRENT_BRANCH, New branch: $BRANCH_NAME" >> "$LOG_FILE"
 
 # Create and switch to the new branch, setting its upstream to the current branch
 git checkout -b "$BRANCH_NAME" --track "$CURRENT_BRANCH"
@@ -132,7 +89,7 @@ python "$PYTHON_SCRIPT" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" true
 if [ $? -eq 0 ]; then
         if git diff --quiet "$CURRENT_BRANCH" "$BRANCH_NAME"; then
             # Log the absence of differences
-            echo "$(date +'%Y-%m-%d %H:%M:%S') - No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made." >> "$LOG_FILE"
+            echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made." >> "$LOG_FILE"
             echo "Pipeline Run completed successfully"
             echo "No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made."
             if $DEL_BRANCH; then
@@ -147,24 +104,36 @@ if [ $? -eq 0 ]; then
             exit 0
         else
             # Update the log file locally
-            echo "$(date +'%Y-%m-%d %H:%M:%S') - Pipeline run completed on branch $BRANCH_NAME" >> "$LOG_FILE"
+            echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Pipeline run completed on branch $BRANCH_NAME" >> "$LOG_FILE"
 
             # Commit changes to the new branch
             git add "$DEST_DIR/."
             git commit -m "Pipeline run completed on $BRANCH_NAME"
             echo "Pipeline run completed. Changes committed to branch: $BRANCH_NAME"
         fi
-else
+else # if the pipeline run fails
+
     # Preserve the branch for debugging
     echo "Pipeline run failed. Changes remain in branch: $BRANCH_NAME"
-    read -p "Do you want to delete this branch? (y/n): " user_input
 
-    
+    # If any changes remain
+    if [ -n "$(git status --porcelain)" ]; then
+        echo "$(date +'%Y-%m-%d %H:%M:%S') - WARNING - Outstanding changes from failed pipeline run" >> "$LOG_FILE"
+
+        read -p "Some changes are uncommited in branch. Do you want to commit them? (y/n)" user_input
+        if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
+            echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Committing outstanding changes from failed pipeline run" >> "$LOG_FILE"
+            echo "Staging and committing all changes"
+            git commit -a "Committing outstanding changes from failed pipeline run"
+        else
+    fi
+
+
+    read -p "Do you want to delete this branch? (y/n): " user_input
     if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
         # Run the merge and cleanup script immediately
         git checkout $CURRENT_BRANCH
         git branch -D $BRANCH_NAME
-
     else   
         echo "Switch back to the original branch with 'git checkout $CURRENT_BRANCH' to continue work."
     fi
