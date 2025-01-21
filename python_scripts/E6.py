@@ -133,7 +133,8 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
     initialize_directories(source_dir,dest_dir,commit_changes)
 
     logging.info(f"{len(os.listdir(dest_dir))} files in {dest_dir}")
-
+    logging.info("Ending run to debug")
+    sys.exit(0)
     handle_covers_and_references(dest_dir,commit_changes)
 
     clean_headers_footers(dest_dir,commit_changes)
