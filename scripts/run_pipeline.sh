@@ -125,8 +125,7 @@ else # if the pipeline run fails
             echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Committing outstanding changes from failed pipeline run" >> "$LOG_FILE"
             echo "Staging and committing all changes"
             git commit -a "Committing outstanding changes from failed pipeline run"
-        else
-    fi
+        fi
 
 
     read -p "Do you want to delete this branch? (y/n): " user_input
