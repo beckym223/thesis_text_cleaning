@@ -138,9 +138,7 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     logging.info(f"{len(os.listdir(dest_dir))} files in {dest_dir}")
     handle_covers_and_references(dest_dir,commit_changes)
-
-    logging.info("Ending run to debug")
-    sys.exit(0)
+    
     clean_headers_footers(dest_dir,commit_changes)
 
     # apply_splits_to_pages(dest_dir,E7_SPLIT_RANGES,commit_changes)
