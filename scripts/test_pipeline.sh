@@ -3,6 +3,7 @@
 # Usage: ./test_pipeline.sh <scenario>
 
 SCENARIO=$1
+shift
 SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/.test_source"
 DEST_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_dest"
 LOG_FILE="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_log.log"
@@ -19,17 +20,15 @@ echo "Running test scenario: $SCENARIO"
 case "$SCENARIO" in
     success)
         echo "Simulating a successful pipeline run..."
-        set -x
-        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh -b "test" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" 
-        set +x
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh -b "test" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" "$@"
         ;;
     failure)
         echo "Simulating a failed pipeline run..."
-        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --fail -b "test"
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --fail -b "test" "$@"
         ;;
     no_commit)
         echo "Simulating changes made but not committed..."
-        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh  "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --no-commit -b "test"
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh  "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --no-commit -b "test" "$@"
         ;;
     *)
         echo "Invalid scenario. Choose from: success, failure, no_commit"
