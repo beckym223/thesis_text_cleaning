@@ -90,11 +90,13 @@ if [ ! -f "$LOG_FILE" ]; then
     touch "$LOG_FILE"
 fi
 
-# Check for unstaged changes in the current branch
+# Check for unstaged changes and stash them
 if [ -n "$(git status --porcelain)" ]; then
-    echo "$(date +'%Y-%m-%d %H:%M:%S') - Unstaged changes detected in the current branch. Aborting pipeline run." >> "$LOG_FILE"
-    echo "Error: Unstaged changes detected in the current branch. Please commit or stash your changes before running the pipeline."
-    exit 1
+    echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Unstaged changes detected. Stashing changes before running the pipeline." >> "$LOG_FILE"
+    git stash push -m "Auto-stash before pipeline run"
+    STASHED=true
+else
+    STASHED=false
 fi
 
 # Get the current branch \n----PIPELINE RUN AT 
@@ -177,7 +179,7 @@ if $RUN_EXTRA_COMMAND; then
 fi
 
 # Ask the user if they want to run the merge and cleanup immediately
-read -p "Do you want to merge and clean up now? (y/n): " user_input
+read -p "Do you want to merge and clean up now? (y/n/d to delete): " user_input
 
 # Check if the user typed 'y'
 if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
@@ -186,5 +188,10 @@ if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
 else
     # Print instructions for manual merge and cleanup
     echo "After reviewing changes, run 'scripts/cleanup.sh $BRANCH_NAME' to merge changes and delete the temporary branch."
+fi
+
+if [ "$STASHED" = true ]; then
+    echo "Restoring stashed changes after pipeline run."
+    git stash pop
 fi
 
