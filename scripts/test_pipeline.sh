@@ -3,15 +3,13 @@
 # Usage: ./test_pipeline.sh <scenario>
 
 SCENARIO=$1
-SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_source"
+SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/.test_source"
 DEST_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_dest"
 LOG_FILE="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_log.log"
 PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/mock_cleaning.py"
 
 # Ensure directories exist and prepare test files
 mkdir -p "$SOURCE_DIR" "$DEST_DIR"
-echo "  This is a sample text with da-\nsh errors" > "$SOURCE_DIR/sample1.txt"
-echo "Another file to clean up.\n  Page 1  \nPage 2" > "$SOURCE_DIR/sample2.txt"
 
 # Clear previous logs and destination
 > "$LOG_FILE"
