@@ -25,6 +25,7 @@ def clean_text(dest_dir:str,commit_changes:bool,*args:list[str]):
             except Exception as e:
                 logging.error(f"Error when processing file {file}")
                 logging.warning("Error occured pre-commit")
+                raise
     except Exception as e:
         logging.error(f"Error cleaning headers and footers: {e}")
         raise
