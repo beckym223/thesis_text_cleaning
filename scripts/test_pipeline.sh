@@ -2,8 +2,6 @@
 
 # Usage: ./test_pipeline.sh <scenario>
 
-SCENARIO=$1
-shift
 SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/.test_source"
 DEST_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_dest"
 LOG_FILE="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_log.log"
