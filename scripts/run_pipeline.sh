@@ -1,11 +1,11 @@
 #!/bin/bash
-
+set -x
 RUN_EXTRA_COMMAND=false
 DEL_BRANCH=true
 BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
 # Process short options
 while getopts "okb" opt; do
-    case "$opt" in
+    case "$opt" in 
         o)
             RUN_EXTRA_COMMAND=true
             ;;
@@ -14,7 +14,8 @@ while getopts "okb" opt; do
             ;;
        b)
             if [ -n "$OPTARG" ]; then
-                BRANCH_NAME="$OPTARG"
+                echo "BRANCH NAME found: '$OPTARG'"
+                BRANCH_NAME=$OPTARG
             else
                 echo "Error: Missing branch name for -b option."
                 exit 1
