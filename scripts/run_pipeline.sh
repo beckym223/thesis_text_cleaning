@@ -13,7 +13,7 @@ while getopts "okb" opt; do
             DEL_BRANCH=false
             ;;
         b)  
-            echo "Found optarg b"
+        
             BRANCH_NAME="$OPTARG"
             ;;
         *)
@@ -85,8 +85,6 @@ fi
 # Get the current branch \n----PIPELINE RUN AT 
 CURRENT_BRANCH=$(git branch --show-current)
 
-# Generate a unique branch name
-BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
 
 echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Starting pipeline run. Current branch: $CURRENT_BRANCH, New branch: $BRANCH_NAME" >> "$LOG_FILE"
 
