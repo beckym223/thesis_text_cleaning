@@ -12,9 +12,14 @@ while getopts "okb" opt; do
         k)
             DEL_BRANCH=false
             ;;
-        b)  
-        
-            BRANCH_NAME="$OPTARG"
+       b)
+            if [ -n "$OPTARG" ]; then
+                BRANCH_NAME="$OPTARG"
+            else
+                echo "Error: Missing branch name for -b option."
+                exit 1
+            fi
+            
             ;;
         *)
             echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
@@ -64,7 +69,7 @@ SOURCE_DIR="$1"
 DEST_DIR="$2"
 LOG_FILE="$3"
 PYTHON_SCRIPT="$4"
-
+echo "DEBUG: BRANCH_NAME = '$BRANCH_NAME'"
 
 # Ensure the log file and its directory exist
 LOG_DIR=$(dirname "$LOG_FILE")
@@ -135,7 +140,7 @@ else # if the pipeline run fails
             echo "Staging and committing all changes"
             git commit -a "Committing outstanding changes from failed pipeline run"
         fi
-
+    fi
 
     read -p "Do you want to delete this branch? (y/n): " user_input
     if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
