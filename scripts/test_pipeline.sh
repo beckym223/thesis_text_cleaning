@@ -12,8 +12,7 @@ PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/python_scripts/mock
 mkdir -p "$SOURCE_DIR" "$DEST_DIR"
 
 # Clear previous logs and destination
-> "$LOG_FILE"
-rm -rf "$DEST_DIR/*"
+rm -rf "{$DEST_DIR:?}/*"
 
 echo "Running test scenario: $SCENARIO"
 
