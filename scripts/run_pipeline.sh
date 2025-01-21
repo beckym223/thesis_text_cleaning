@@ -173,3 +173,4 @@ else
     # Print instructions for manual merge and cleanup
     echo "After reviewing changes, run 'scripts/cleanup.sh $BRANCH_NAME' to merge changes and delete the temporary branch."
 fi
+

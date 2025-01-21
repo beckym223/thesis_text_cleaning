@@ -20,15 +20,15 @@ echo "Running test scenario: $SCENARIO"
 case "$SCENARIO" in
     success)
         echo "Simulating a successful pipeline run..."
-        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" -b "test"
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh -b "test" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" 
         ;;
     failure)
         echo "Simulating a failed pipeline run..."
-        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" -b "test" --fail 
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh -b "test" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --fail 
         ;;
     no_commit)
         echo "Simulating changes made but not committed..."
-        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" -b "test" --no-commit
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh -b "test" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" -b "test" --no-commit
         ;;
     *)
         echo "Invalid scenario. Choose from: success, failure, no_commit"
