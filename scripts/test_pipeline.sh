@@ -3,10 +3,10 @@
 # Usage: ./test_pipeline.sh <scenario>
 
 SCENARIO=$1
-SOURCE_DIR="testing/test_source"
-DEST_DIR="testing/test_dest"
-LOG_FILE="testing/test_log.log"
-PYTHON_SCRIPT="testing/mock_cleaning.py"
+SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_source"
+DEST_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_dest"
+LOG_FILE="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_log.log"
+PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/mock_cleaning.py"
 
 # Ensure directories exist and prepare test files
 mkdir -p "$SOURCE_DIR" "$DEST_DIR"
@@ -22,15 +22,15 @@ echo "Running test scenario: $SCENARIO"
 case "$SCENARIO" in
     success)
         echo "Simulating a successful pipeline run..."
-        ./run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT"
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" -b "test"
         ;;
     failure)
         echo "Simulating a failed pipeline run..."
-        ./run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --fail
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" -b "test" --fail 
         ;;
     no_commit)
         echo "Simulating changes made but not committed..."
-        ./run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" --no-commit
+        /Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" -b "test" --no-commit
         ;;
     *)
         echo "Invalid scenario. Choose from: success, failure, no_commit"
