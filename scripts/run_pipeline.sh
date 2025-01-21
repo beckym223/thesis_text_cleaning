@@ -150,7 +150,7 @@ else # if the pipeline run fails
         if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
             echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Committing outstanding changes from failed pipeline run" >> "$LOG_FILE"
             echo "Staging and committing all changes"
-            git commit -a "Committing outstanding changes from failed pipeline run"
+            git commit -a -m "Committing outstanding changes from failed pipeline run"
         fi
     fi
 
