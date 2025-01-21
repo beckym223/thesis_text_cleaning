@@ -6,7 +6,7 @@ SCENARIO=$1
 SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/.test_source"
 DEST_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_dest"
 LOG_FILE="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/test_log.log"
-PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/testing/mock_cleaning.py"
+PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/python_scripts/mock_cleaning.py"
 
 # Ensure directories exist and prepare test files
 mkdir -p "$SOURCE_DIR" "$DEST_DIR"
