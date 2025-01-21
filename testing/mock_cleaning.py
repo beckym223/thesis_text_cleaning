@@ -3,7 +3,7 @@ import os
 import time
 import shutil
 import logging
-from ..python_scripts.utils import initialize_directories, git_commit, setup_logging,apply_func_to_txt_dir
+from ..python_scripts.utils import initialize_directories, git_commit, setup_logging
 from ..python_scripts.text_cleaning import fix_dash_errors_in_dir,jstor_and_stripping
 
 def clean_text(dest_dir:str,commit_changes:bool):
