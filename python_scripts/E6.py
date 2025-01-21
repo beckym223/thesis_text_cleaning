@@ -15,49 +15,32 @@ def handle_first_page(file:str,text:str)->str:
     return text
     # w
 
-def clean_headers_footers_references(dest_dir:str,commit_changes:bool):
+def clean_headers_footers(dest_dir:str,commit_changes:bool):
     try:
-        reference_first_pages ={}
         for file in sorted(os.listdir(dest_dir)):
             try:
                 if file[0] =='.':
                     continue
-                doc_id,pagetxt = file.rsplit("-",1)
+                _,pagetxt = file.rsplit("-",1)
                 page=int(pagetxt[:-4])
                 path = os.path.join(dest_dir, file)
-                if reference_first_pages.get(doc_id,page)<page: # means that it's after the reference first page
-                    os.remove(path)
-                    logging.info(f"Removing reference page {file}{'- Staging for removal' if commit_changes else ''}")
-                    if commit_changes:
-                            subprocess.run(["git", "rm", path], check=True)
-                    continue
-                
+
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
-                first_page = False
-                if page<4:
-                    if len(text)<500 or file=="Economics-1983-0-01.txt": #special case of first page
-                        os.remove(path)
-                        logging.info(f"Removing first page {file}{'- Staging for removal' if commit_changes else ''}")
-                        if commit_changes:
-                                subprocess.run(["git", "rm", "-q", path], check=True)
-                        continue
-                    if re.search(r"\nBy[^\*\n]*?[A-Z]{2,}\n",text) is not None:
-                        if '1990' in doc_id:
-                            logging.info(f"Found first page for 1990: {file}")
-                    
-                        text = handle_first_page(file,text)
-                        first_page=True
-                if "REFERENCES" in text:
-                    reference_first_pages[doc_id] = page
-                    logging.info(f"Found reference page start for {doc_id} at page {page}")
-                    text = text.split("REFERENCES")[0].strip()
-                if doc_id=="Economics-1970-0" and "APPENDIX" in text:
-                        reference_first_pages[doc_id] = page
-                        logging.info(f"Found appendix/reference page start for {doc_id} at page {page}")
-                        text = text.split("APPENDIX")[0].strip()
 
-                text= "\n".join(text.splitlines()[1:]) if not first_page else text
+                if page<4 and re.search(r"\nBy[^\*\n]*?[A-Z]{2,}\n",text) is not None:
+                    #handle first page
+                    footnote_pattern= r"^(?:(?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*\n)(.+?)(?:[\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
+                    new_text = re.search(footnote_pattern,text,re.DOTALL)
+
+                    if new_text is not None:
+                        text= new_text.group(1)
+                    else:
+                        logging.warning(f"Cannot find footnote space for {file}")
+                
+                else:
+                    text= "\n".join(text.splitlines()[1:])
+                
                 with open(path,'w') as f:
                     f.write(text.strip())
             except:
@@ -82,6 +65,7 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                 path = os.path.join(dest_dir,file)
 
                 if "00.txt" in file:
+                    logging.info(f"Setting {file} to remove")
                     to_remove['cover page'].append(path)
                     continue
 
@@ -89,12 +73,15 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                 page=int(pagetxt[:-4])
 
                 if reference_first_pages.get(doc_id,page)<page:
+                    logging.info(f"Setting {file} to remove as reference page")
+
                     to_remove['reference page'].append(path)
                     continue
 
                 text = open(path,'r').read()
 
                 if page<4 and (len(text)<500 or file=="Economics-1983-0-01.txt"):
+                    logging.info(f"Setting {file} author photo to remove")
                     to_remove['author photo page'].append(path)
                     continue
 
@@ -115,22 +102,27 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                 logging.error(f"Error when figuring out file {file}")
                 raise
 
-            for reason,paths in to_remove.items():
-                try:
-                    for path in paths:
-                        #logging.info(f"Removing {reason}: {os.path.basename(path)}")
-                        os.remove(path)
-                    logging.info(f"Removing {len(paths)} {reason}s")
+        for reason,paths in to_remove.items():
+            try:
+                logging.info(f"Removing {len(paths)} {reason}s")
+                if len(paths)==0:
+                    logging.warning(f"No paths found with reason: {reason}")
+                    continue
+                for path in paths:
+                    #logging.info(f"Removing {reason}: {os.path.basename(path)}")
+                    os.remove(path)
 
-                    if commit_changes:
-                        command = ["git", "rm", "-q", *paths]
-                        logging.info(f"Running removal command: '{' '.join(command)}'")
-                        subprocess.run(command, check=True)
-                except Exception:
-                    logging.error(f"Error when removing files with reason {reason}")
-                    raise
-            if commit_changes:
-                git_commit(dest_dir,"Changed some reference pages")
+                if commit_changes and len(paths)>0:
+                    command = ["git", "rm","-q", *paths]
+                    logging.info(f"Running removal command: '{' '.join(command)}'")
+                    subprocess.run(command, check=True)
+                    subprocess.run(["git",'commit',"-m",f"Removing {reason} files"])
+            
+            except Exception:
+                logging.error(f"Error when removing files with reason {reason}")
+                raise
+        if commit_changes:
+            git_commit(dest_dir,"Changed some reference pages")
     except Exception as e:
         logging.error(f"Error deleting files: {e}")
         raise
@@ -140,13 +132,13 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
 
 def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
-    setup_logging(log_file)
+    setup_logging(log_file,console_level=logging.INFO)
 
-    initialize_directories(source_dir,dest_dir,False)
+    initialize_directories(source_dir,dest_dir,commit_changes)
 
     handle_covers_and_references(dest_dir,commit_changes)
-
-    clean_headers_footers_references(dest_dir,commit_changes)
+    
+    clean_headers_footers(dest_dir,commit_changes)
 
     # apply_splits_to_pages(dest_dir,E7_SPLIT_RANGES,commit_changes)
 
