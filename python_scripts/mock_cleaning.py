@@ -60,7 +60,7 @@ def temp_creation(dest_dir:str,commit_changes:bool):
 def main(source_dir:str, dest_dir:str, log_file:str,commit_changes:bool,*args):
     setup_logging(log_file,console_level=logging.INFO)
 
-    opt_args =["no-commit",'no-change','fail','git-error','file-error']
+    opt_args =["no-commit",'no-change','fail','git-error','file-error','success']
     for arg in args[5:]:
         if arg not in opt_args:
             logging.warning(f"Unrecognized argument: {arg}, ignoring")
@@ -98,6 +98,11 @@ def main(source_dir:str, dest_dir:str, log_file:str,commit_changes:bool,*args):
     if "fail" in args:
         logging.info("Running 'fail'")
         sys.exit(1)
+
+    if "success" in args:
+        logging.info("Seeming like a successful run")
+        sys.exit(0)
+    logging.info("Got to end of script, seems like it was a success")
 
 if __name__ == "__main__":
     args = sys.argv
