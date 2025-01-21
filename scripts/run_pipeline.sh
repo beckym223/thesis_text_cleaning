@@ -2,10 +2,10 @@
 RUN_EXTRA_COMMAND=false
 DEL_BRANCH=true
 BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
+VERBOSE=false
 
-echo "Arguments recieved: $@"
 # Process short options
-while getopts "okb:" opt; do
+while getopts "okvb:" opt; do
     case "$opt" in 
         o)
             RUN_EXTRA_COMMAND=true
@@ -24,13 +24,18 @@ while getopts "okb:" opt; do
             fi
             
             ;;
+        v)
+            VERBOSE=true
+            ;;
         *)
             echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
             exit 1
             ;;
     esac
 done
-
+if $VERBOSE; then
+echo "Arguments recieved: $*@"
+fi
 # Shift past the short options
 shift $((OPTIND - 1))
 
@@ -42,10 +47,6 @@ while [[ "$1" =~ ^-- ]]; do
             ;;
         --keep)
             DEL_BRANCH=false
-            ;;
-        --help)
-            echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script>"
-            exit 0
             ;;
         --branch)
             shift
@@ -62,10 +63,10 @@ while [[ "$1" =~ ^-- ]]; do
     shift
 done
 
-if [ "$#" -le 4 ]; then
-    echo "Wrong number of args: Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
-    exit 1
-fi
+# if [ "$#" -le 3 ]; then
+#     echo "Wrong number of args $#: Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
+#     exit 1
+# fi
 
 # Arguments
 SOURCE_DIR="$1"
@@ -103,7 +104,8 @@ git checkout -b "$BRANCH_NAME" --track "$CURRENT_BRANCH"
 python "$PYTHON_SCRIPT" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" true
 
 # Check if the script succeeded
-if [ $? -eq 0 ]; then
+# shellcheck disable=SC2181
+if [ $? -eq 0 ]; then #ignore
         if git diff --quiet "$CURRENT_BRANCH" "$BRANCH_NAME"; then
             # Log the absence of differences
             echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - No differences detected between $CURRENT_BRANCH and $BRANCH_NAME. No commit made." >> "$LOG_FILE"
@@ -148,8 +150,8 @@ else # if the pipeline run fails
     read -p "Do you want to delete this branch? (y/n): " user_input
     if [[ "$user_input" == "y" || "$user_input" == "Y" ]]; then
         # Run the merge and cleanup script immediately
-        git checkout $CURRENT_BRANCH
-        git branch -D $BRANCH_NAME
+        git checkout "$CURRENT_BRANCH"
+        git branch -D "$BRANCH_NAME"
     else   
         echo "Switch back to the original branch with 'git checkout $CURRENT_BRANCH' to continue work."
     fi
