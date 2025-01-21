@@ -28,10 +28,10 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
 
-                if page<4 and re.search(r"\nBy[^\*\n]*?[A-Z]{2,}\n",text) is not None:
+                if page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
                     #handle first page
                     logging.info(f"Found first page {file}")
-                    footnote_pattern= r"^(?:(?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*\n)(.+?)(?:[\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
+                    footnote_pattern= r"^(?:(?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*?\n)(.+?)(?:[\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
                     new_text = re.search(footnote_pattern,text,re.DOTALL)
 
                     if new_text is not None:
