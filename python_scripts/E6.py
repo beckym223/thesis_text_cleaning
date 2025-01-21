@@ -30,6 +30,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
 
                 if page<4 and re.search(r"\nBy[^\*\n]*?[A-Z]{2,}\n",text) is not None:
                     #handle first page
+                    logging.info(f"Found first page {file}")
                     footnote_pattern= r"^(?:(?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*\n)(.+?)(?:[\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
                     new_text = re.search(footnote_pattern,text,re.DOTALL)
 
