@@ -101,7 +101,7 @@ echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Starting pipeline run. Current branc
 git checkout -b "$BRANCH_NAME" --track "$CURRENT_BRANCH"
 
 # Run the specified Python cleaning script
-python "$PYTHON_SCRIPT" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" true
+python "$PYTHON_SCRIPT" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" true "$@"
 
 # Check if the script succeeded
 # shellcheck disable=SC2181
