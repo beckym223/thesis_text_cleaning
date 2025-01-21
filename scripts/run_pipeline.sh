@@ -13,6 +13,7 @@ while getopts "okb" opt; do
             DEL_BRANCH=false
             ;;
         b)  
+            echo "Found optarg b"
             BRANCH_NAME="$OPTARG"
             ;;
         *)
