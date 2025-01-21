@@ -63,7 +63,7 @@ while [[ "$1" =~ ^-- ]]; do
 done
 
 if [ "$#" -le 4 ]; then
-    echo "Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
+    echo "Wrong number of args: Usage: $0 [-o|--open] [-k|--keep] [-b|--branch] <source_dir> <dest_dir> <log_file> <python_script> [extra_args...]"
     exit 1
 fi
 
