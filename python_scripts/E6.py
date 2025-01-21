@@ -69,6 +69,7 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                 path = os.path.join(dest_dir,file)
 
                 if "00.txt" in file:
+                    logging.info(f"Setting {file} to remove")
                     to_remove['cover page'].append(path)
                     continue
 
@@ -76,12 +77,15 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                 page=int(pagetxt[:-4])
 
                 if reference_first_pages.get(doc_id,page)<page:
+                    logging.info(f"Setting {file} to remove as reference page")
+
                     to_remove['reference page'].append(path)
                     continue
 
                 text = open(path,'r').read()
 
                 if page<4 and (len(text)<500 or file=="Economics-1983-0-01.txt"):
+                    logging.info(f"Setting {file} author photo to remove")
                     to_remove['author photo page'].append(path)
                     continue
 
