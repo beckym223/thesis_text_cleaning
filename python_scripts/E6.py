@@ -27,7 +27,20 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 edge_case = year in ['2003','2004']
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
-                if page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case:
+                if edge_case:
+                    start_line=None
+                    end_line=None
+                    lines = text.split("\n")
+                    line_num=0
+                    while end_line is None and start_line is None and line_num<5:
+                        if start_line is None and re.search(r"\b[A-Z]+\b",lines[line_num]) is None:
+                            start_line = line_num
+                        end = line_num*-1-1
+                        if end_line is None and re.search(r"[a-z]",lines[end])  is not None:
+                            end_line=end+1
+                        line_num+=1
+                    text="\n".join(lines[start_line:end_line])
+                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case:
                     #handle first page
 
                     logging.info(f"Found first page {file}")
