@@ -24,7 +24,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 disc,year,num,pagetxt = file.rsplit("-")
                 page=int(pagetxt[:-4])
                 path = os.path.join(dest_dir, file)
-                edge_case = year in ['2003','2004','2006']
+                edge_case = year in ['2003','2004']
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
                 if edge_case:
@@ -40,7 +40,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                             end_line=end+1
                         line_num+=1
                     text="\n".join(lines[start_line:end_line])
-                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case:
+                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case and year!='2006':
                     #handle first page
 
                     logging.info(f"Found first page {file}")
