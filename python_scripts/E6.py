@@ -105,9 +105,6 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                     reference_first_pages[doc_id] = page
                     logging.info(f"Found reference page start for {doc_id} at page {page}")
                     new_text = text.split("REFERENCES")[0].strip()
-                    if '2003' in doc_id or '2004' in doc_id:
-                        logging.info("Adding extra lines for special cases 2003 and 2004")
-                        new_text+='\n Line 1 to later remove from bottom \n line 2'
 
                 if new_text is not None:
                     with open(path,'w') as f:
