@@ -21,15 +21,22 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
             try:
                 if file[0] =='.':
                     continue
-                _,pagetxt = file.rsplit("-",1)
+                disc,year,num,pagetxt = file.rsplit("-")
                 page=int(pagetxt[:-4])
                 path = os.path.join(dest_dir, file)
 
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
-
-                if page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
+                if year in ['2003','2004']:
+                    lines = text.splitlines()
+                    if re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
+                        lines = lines[2:-1]
+                    else:
+                        lines = lines[1:-2]
+                    text = "\n".join(lines)
+                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
                     #handle first page
+
                     logging.info(f"Found first page {file}")
                     footnote_pattern= r"^(?:(?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*?\n)(.+?)(?:[\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
                     new_text = re.search(footnote_pattern,text,re.DOTALL)
@@ -95,6 +102,9 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
                     reference_first_pages[doc_id] = page
                     logging.info(f"Found reference page start for {doc_id} at page {page}")
                     new_text = text.split("REFERENCES")[0].strip()
+                    if '2003' in doc_id or '2004' in doc_id:
+                        logging.info("Adding extra lines for special cases 2003 and 2004")
+                        new_text+='\n Line 1 to later remove from bottom \n line 2'
 
                 if new_text is not None:
                     with open(path,'w') as f:
