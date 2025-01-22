@@ -30,13 +30,13 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 if edge_case:
                     start_line=None
                     end_line=None
-                    lines = text.split("\n")
+                    lines = text.strip().split("\n")
                     line_num=0
                     while end_line is None and start_line is None and line_num<5:
-                        if start_line is None and re.search(r"\b[A-Z]+\b",lines[line_num]) is None:
+                        if start_line is None and re.search(r"\b[A-Z]?[a-z]+\b",lines[line_num]) is not None:
                             start_line = line_num
                         end = line_num*-1-1
-                        if end_line is None and re.search(r"[a-z]",lines[end]) is None:
+                        if end_line is None and re.search(r"[a-z]",lines[end]) is not None:
                             end_line=end
                         line_num+=1
                     text="\n".join(lines[start_line:end_line])
