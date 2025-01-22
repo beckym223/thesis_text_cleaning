@@ -24,20 +24,10 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 disc,year,num,pagetxt = file.rsplit("-")
                 page=int(pagetxt[:-4])
                 path = os.path.join(dest_dir, file)
-
+                edge_case = year in ['2003','2004']
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
-                if year in ['2003','2004']:
-                    
-                    if re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
-                        lines = text.splitlines()
-                        lines = lines[2:-1]
-                        text = "\n".join(lines)
-
-                    else:
-                        text = re.sub(r"^([^\na-z]*\n)+","",text,re.MULTILINE)
-                        text = re.sub(r"(\n[^\na-z]*)+$","",text,re.MULTILINE)
-                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
+                if page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case:
                     #handle first page
 
                     logging.info(f"Found first page {file}")
@@ -49,7 +39,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                     else:
                         logging.warning(f"Cannot find footnote space for {file}")
                 
-                else:
+                elif not edge_case:
                     text= "\n".join(text.splitlines()[1:])
                 
                 with open(path,'w') as f:
