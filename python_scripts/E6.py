@@ -40,7 +40,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                             end_line=end+1
                         line_num+=1
                     text="\n".join(lines[start_line:end_line])
-                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case and year!='2006':
+                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case and year not in ['2006','2007']:
                     #handle first page
 
                     logging.info(f"Found first page {file}")
