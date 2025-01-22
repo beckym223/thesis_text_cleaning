@@ -28,12 +28,14 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
                 if year in ['2003','2004']:
-                    lines = text.splitlines()
+                    
                     if re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
+                        lines = text.splitlines()
                         lines = lines[2:-1]
+                        text = "\n".join(lines)
+
                     else:
-                        lines = lines[1:-2]
-                    text = "\n".join(lines)
+                        text = re.sub(r"(\n[^\na-z]*)+$","",text,re.MULTILINE)
                 elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
                     #handle first page
 
