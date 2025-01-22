@@ -21,15 +21,28 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
             try:
                 if file[0] =='.':
                     continue
-                _,pagetxt = file.rsplit("-",1)
+                disc,year,num,pagetxt = file.rsplit("-")
                 page=int(pagetxt[:-4])
                 path = os.path.join(dest_dir, file)
-
+                edge_case = year in ['2003','2004']
                 text = open(path,'r').read()
                 text = jstor_and_stripping(text)
-
-                if page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
+                if edge_case:
+                    start_line=None
+                    end_line=None
+                    lines = text.strip().split("\n")
+                    line_num=0
+                    while (end_line is None or start_line is None) and line_num<7:
+                        if start_line is None and re.search(r"\b[A-Z]?[a-z]+\b",lines[line_num]) is not None:
+                            start_line = line_num
+                        end = line_num*-1-1
+                        if end_line is None and re.search(r"[a-z]",lines[end]) is not None:
+                            end_line=end+1
+                        line_num+=1
+                    text="\n".join(lines[start_line:end_line])
+                elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case:
                     #handle first page
+
                     logging.info(f"Found first page {file}")
                     footnote_pattern= r"^(?:(?:[^\n]*\n)*?[^\n]*\b[A-Z]{2,}\b[^\n]*?\n)(.+?)(?:[\n\*'A-Z]\s*Presidential|\s[t\*] *[A-Z]\w+.*$)"
                     new_text = re.search(footnote_pattern,text,re.DOTALL)
@@ -39,7 +52,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                     else:
                         logging.warning(f"Cannot find footnote space for {file}")
                 
-                else:
+                elif not edge_case:
                     text= "\n".join(text.splitlines()[1:])
                 
                 with open(path,'w') as f:
