@@ -35,7 +35,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                         text = "\n".join(lines)
 
                     else:
-                        text = re.sub(r"(\n[^\na-z]*)+$","",text,re.MULTILINE)
+                        text = re.sub(r"(^[^\na-z]*\n)|((\n[^\na-z]*)+$)","",text,re.MULTILINE)
                 elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None:
                     #handle first page
 
