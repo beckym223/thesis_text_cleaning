@@ -32,13 +32,17 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                     end_line=None
                     lines = text.strip().split("\n")
                     line_num=0
-                    while (end_line is None or start_line is None) and line_num<7:
-                        if start_line is None and re.search(r"\b[A-Z]?[a-z]+\b",lines[line_num]) is not None:
-                            start_line = line_num
-                        end = line_num*-1-1
-                        if end_line is None and re.search(r"[a-z]",lines[end]) is not None:
-                            end_line=end+1
-                        line_num+=1
+                    while start_line is None:
+                        if re.search(r"\b[A-Z]?[a-z]+\b",lines[line_num]) is None:
+                            line_num+=1
+                        else:
+                            start_line=line_num
+                    last_line = len(lines)-1
+                    while end_line is None:
+                        if re.search(r"[a-z]",lines[line_num-1]) is None:
+                            last_line-=1
+                        else:
+                            end_line = last_line+1
                     text="\n".join(lines[start_line:end_line])
                 elif page<4 and re.search(r"\nBy[^\*\n]*?\b[A-Z]{2,}\b",text) is not None and not edge_case:
                     #handle first page
