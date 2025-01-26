@@ -1,4 +1,4 @@
-national economics courses, sections on trade
+economics courses, sections on trade
 policy spend considerable time addressing national
 defense exceptions, the optimum tariff
 argument, the infant industry argument, secondbest
@@ -99,4 +99,4 @@ Counterfactual Situations
 The final abuse of theory was primarily a
 fault of inappropriate stylized facts. Nonetheless,
 in many instances, analysts assumed
-signs of variables that were certainly question-
+signs of variables that were certainly questionable,

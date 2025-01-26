@@ -96,4 +96,4 @@ models capable of bringing cross-section and
 panel evidence to bear on this and other macroeconomic
 questions is an enormous step forward.
 But Krusell and Smith find only modest
-effects of heterogeneity on the estimates of wel-
+effects of heterogeneity on the estimates of welfare

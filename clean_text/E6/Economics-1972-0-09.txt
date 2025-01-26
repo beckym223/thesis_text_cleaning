@@ -91,4 +91,4 @@ job by searching longer and balances the
 expected discounted value of waiting
 against the loss of earnings. The employed
 worker makes a similar calculation when
-he considers quitting, also taking into ac-
+he considers quitting, also taking into account

@@ -76,4 +76,4 @@ annuities, annuities that are generally indexed to
 prices or wages (or a combination). This is a
 simple application of the view that in a mandatory
 program, individuals should be given what
-we think they would want if they were well-
+we think they would want if they were wellinformed

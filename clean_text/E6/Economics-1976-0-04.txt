@@ -82,4 +82,4 @@ individual firm or establishment (or government
 department) for which mathematical
 tools, including programming and
 the whole range of activity analysis, have
-proved to be useful. To some extent, how-
+proved to be useful. To some extent, however,

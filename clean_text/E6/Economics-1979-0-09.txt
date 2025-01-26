@@ -97,4 +97,4 @@ future market price to obtain the present
 value, per unit of the future bundle. Given
 competitive markets for capital, present
 goods and future goods, and ignoring differences
-in risk, different investments bear-
+in risk, different investments bearing

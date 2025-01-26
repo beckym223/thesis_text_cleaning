@@ -87,4 +87,4 @@ United States is about 0.02 and the after-tax
 return on capital is around 0.05, so the fact that
 p must be positive requires that y in (6) be at
 most 2.5. Moreover, a value as high as 2.5
-would imply much larger interest rate differen-
+would imply much larger interest rate differentials

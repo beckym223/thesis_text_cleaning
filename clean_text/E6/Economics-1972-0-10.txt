@@ -1,4 +1,4 @@
-count the once and for all costs of movement.
+the once and for all costs of movement.
 These calculations are like those of
 the planner, but witlh an important difference.
 An individual does not initernalize
@@ -89,4 +89,4 @@ jobs if the roster of jobs an(d the meniu of
 vacancies are suboptimal.
 In summary, labor markets characterized
 by 5-6 percent unemployment do
-not display the symptoms one would ex-
+not display the symptoms one would expect

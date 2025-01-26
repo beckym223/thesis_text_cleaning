@@ -90,4 +90,4 @@ to an optimal. This conclusion is based on an
 analysis of optimal paths, relying on the type of
 linear welfare function that appears to underlie
 the monetarists' argument, and which is also a
-straightforward generalization of Okun's fa-
+straightforward generalization of Okun's famous
