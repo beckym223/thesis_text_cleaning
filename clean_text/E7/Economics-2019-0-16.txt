@@ -11,8 +11,8 @@ at   , reflects the partial equilibrium,
 direct, effect of the transfer, the second term, call it
 d
 U
-bt   , reflects the general equilib-
-rium effect of the transfer through the change in wages and rates of return to capital.
+bt   , reflects the general equilibrium
+effect of the transfer through the change in wages and rates of return to capital.
 Take the first term, the effect of debt on utility given prices. Using the first-order
 condition gives
 d
@@ -24,15 +24,15 @@ d
 U
 at   = β (1 −  R  t+1  f  ) EU′ ( C 2,t+1  ) dD .
 So, to determine the sign ef
-fect of the transfer on welfare through this first chan-
-nel, the relevant rate is indeed the safe rate. In any period in which
+fect of the transfer on welfare through this first channel,
+the relevant rate is indeed the safe rate. In any period in which
 R
 t+1  f    is less than
 1, the transfer is welf
 are improving.
 The reason why the safe rate is what matters is straightforward and important:
-the safe rate is, in effect, the risk-adjusted rate of return on capital.20 The intergen-
-erational transfer gives people a higher rate of return than the risk-adjusted rate of
+the safe rate is, in effect, the risk-adjusted rate of return on capital.20 The intergenerational
+transfer gives people a higher rate of return than the risk-adjusted rate of
 return on capital.
 Take the second term, the effect of the transfer on utility through prices:
 d

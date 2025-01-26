@@ -1,13 +1,13 @@
-• At each subsequent step of the algorithm, an y applicant rejected at the previ-
-ous step applies to his or her most preferred acceptable hospital that hasn’t yet
+• At each subsequent step of the algorithm, an y applicant rejected at the previous
+step applies to his or her most preferred acceptable hospital that hasn’t yet
 rejected him/her. (If no acceptable choices remain, he/she makes no further
 applications.) Each hospital holds its q most preferred acceptable applications to date, and rejects the rest.
 •
 The algorithm stops when no further applications are made, and the resulting match is the one in which each hospital accepts the applicants
 (if any) whose
 applications it is holding.
-Gale and Shapley called this a deferred acceptance algorithm because the deter -
-mination of which applications are accepted by each hospital is deferred until the end of the application process, i.e., until no more applications are forthcoming (either because every applicant has an application being held by a hospital, or has been rejected by all hospitals on the applicant’s preference list). They observed that, no matter what preference rank-orderings are submitted to the algorithm, the matching it produces is always stable with respect to those preferences, because any applicant who would prefer to be matched to a different hospital must have already applied to that hospital and been rejected because it could already fill all of its positions with applicants it preferred.
+Gale and Shapley called this a deferred acceptance algorithm because the determination
+of which applications are accepted by each hospital is deferred until the end of the application process, i.e., until no more applications are forthcoming (either because every applicant has an application being held by a hospital, or has been rejected by all hospitals on the applicant’s preference list). They observed that, no matter what preference rank-orderings are submitted to the algorithm, the matching it produces is always stable with respect to those preferences, because any applicant who would prefer to be matched to a different hospital must have already applied to that hospital and been rejected because it could already fill all of its positions with applicants it preferred.
 The DA algorithm organized in this way (with applicants applying rather than
 firms making offers) makes it safe (in fact a dominant strategy) for applicants to submit rank order lists that correspond to their true preferences. Mechanisms that make it a dominant strategy to reveal true preferences are called “strategy-proof,” because participants don’t have to make strategic calculations about what others are doing, they just have to decide what they like. And although no mechanism that always produces stable matchings can be strategy-proof for hospitals employ-ing multiple residents, this proves to be less of an issue in this market than it once seemed, because it turns out that the set of stable matchings is very small, and that this and related properties of the market limit the benefits that anyone can even hope to achieve by misrepresenting their preferences.
 53

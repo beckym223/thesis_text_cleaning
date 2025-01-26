@@ -106,8 +106,8 @@ Using the definition of the elasticity of substitution
 η
 
 ≡
-( F K    F N  ) / F KN  F , the defi -
-nition of the share of labor,
+( F K    F N  ) / F KN  F , the definition
+of the share of labor,
 α
 
 =

@@ -1,8 +1,8 @@
 prisoners' dilemma (RPD) games. In RPD games with a large number of agents,
 it is difficult to design an incentive-compatible internal sanction against defectors
 because the punishments punish the punishers. Like a doomsday device, they are
-unattractive, particularly when applied against players who make small contribu-
-tions to the public good. Part of the problem is that the penalties are internal to the
+unattractive, particularly when applied against players who make small contributions
+to the public good. Part of the problem is that the penalties are internal to the
 game and cannot be linked to some larger set of payoffs. The power of tariffs is that
 they are external to the RPD game (i.e., they are part of a different game). Because
 participation in the trade system has such large benefits to countries, these benefits
@@ -13,14 +13,14 @@ if Europe puts sanctions on Russian energy companies, this is likely to raise en
 prices in Europe, hurt European consumers, and therefore have costs on Europe as
 well as Russia. Similarly, other sanctions such as a "grim strategy" (which dissolves
 the agreement completely if one country violates it) or analogous punishments in
-«-person RPD games can only support a cooperative equilibrium for a few coun-
-tries (as is discussed in the section on the small coalition paradox). By contrast, the
+«-person RPD games can only support a cooperative equilibrium for a few countries
+(as is discussed in the section on the small coalition paradox). By contrast, the
 tariff-sanction mechanism analyzed here (i) imposes costs on the nonparticipating
 country but (ii) benefits participants that levy the penalty tariffs. Moreover, because
 tariffs apply bilaterally, they can support an efficient equilibrium for global public
 goods for a large number of countries as long as the optimal-tariff effect operates.
-Figure 1 shows numerically how the tariff-sanction imposes costs and conveys ben-
-efits in a manner that aligns sanctions with external effects.
+Figure 1 shows numerically how the tariff-sanction imposes costs and conveys benefits
+in a manner that aligns sanctions with external effects.
 H. Prices or Quantities?
 The Climate Club discussed here focuses on carbon prices rather than emissions
 reductions as the central organizing principle for an international agreement. While
@@ -32,9 +32,9 @@ governmental revenues, and have not lived up to their promise of equalizing pric
 in different regions. Moreover, as emphasized by Weitzman (2014), prices serve
 as a simpler instrument for international negotiations because they have a single
 dimension, whereas emissions reductions have the dimensionality of the number of
-regions. To the extent that carbon-price targets lead to carbon taxes, the administra-
-tive aspects of taxes are better understood around the world than marketable emis-
-sions allowances, and they are less prone to corruption. This discussion is clearly
+regions. To the extent that carbon-price targets lead to carbon taxes, the administrative
+aspects of taxes are better understood around the world than marketable emissions
+allowances, and they are less prone to corruption. This discussion is clearly
 just a sketch, but it provides some of the reasons for preferring price over quantity
 targets as part of an international climate regime. (For an extended discussion of the
 relative merits of prices and quantities, see Nordhaus 2013.)

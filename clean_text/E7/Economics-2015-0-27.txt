@@ -1,9 +1,9 @@
 K. Sensitivity Analysis
 How sensitive are the results to alternative parameters? The sensitivity analyses are
-presented in detail in the online Appendix, and the results are summarized here. I exam-
-ine the impact of three different sets of parameters. The first is alternative estimates of
-the regional distribution of the global SCC. There are virtually no impacts of this sen-
-sitivity test on the participation rate or on the actual global carbon price for any of the
+presented in detail in the online Appendix, and the results are summarized here. I examine
+the impact of three different sets of parameters. The first is alternative estimates of
+the regional distribution of the global SCC. There are virtually no impacts of this sensitivity
+test on the participation rate or on the actual global carbon price for any of the
 regimes. The second sensitivity test is for the parameter of the abatement-cost function,
 which is varied by a factor of 3. The results showed considerable sensitivity, especially
 for global SCC of $50 and $100. The optimal tariff was varied over a range of a factor
@@ -12,6 +12,6 @@ outcome is the global social cost of carbon, as shown in the figures and tables.
 Those familiar with the literature on climate-change economics will wonder what
 happened to the discount rate, which is critical in virtually all areas. The answer is
 that the discount rate will primarily affect the global and national SCCs, but has
-little effect on the outcomes conditional on the SCCs. For example, a lower dis-
-count rate will raise the estimated global SCC, perhaps from $12.5 to $25. This will
-lead to a higher target carbon price, higher emissions reductions, and lower 
+little effect on the outcomes conditional on the SCCs. For example, a lower discount
+rate will raise the estimated global SCC, perhaps from $12.5 to $25. This will
+lead to a higher target carbon price, higher emissions reductions, and lower

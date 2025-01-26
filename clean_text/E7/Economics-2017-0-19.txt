@@ -7,8 +7,8 @@ price increases boost the contagion rate of popular stories justifying that incr
 heightening demand and more price increases. In a stock market bubble, these might
 be stories of the companies with glamorous new technology and of the people who
 created the technology. In a housing bubble, these might be stories of clever people
-making a fortune flipping houses. There can also be price-to-GDP-to-price feed-
-back, if speculative price increases stimulate purchases and hence more increases,
+making a fortune flipping houses. There can also be price-to-GDP-to-price feedback,
+if speculative price increases stimulate purchases and hence more increases,
 price-to-corporate profits-to-price feedback, and price-to-regulatory laxity-to-price
 feedback, all mediated by changing narratives (Shiller 1984, 2000, 2015).
 The impact of the epidemic on the asset return would depend on the speed of the

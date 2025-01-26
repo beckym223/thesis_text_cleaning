@@ -12,13 +12,13 @@ payments from infrequent gym users who procrastinate about quitting. The average
 person who quits has not been to the gym in 2.3 months. So if competing gyms
 can't make money by turning them into Econs, who can? I suppose Della Vigna and
 Malmendier could have started a service convincing people to switch to paying by
-the visit, but I think they made a wise career choice in selecting academia over per-
-sonal finance consulting.
+the visit, but I think they made a wise career choice in selecting academia over personal
+finance consulting.
 The same analysis applies to the recent financial crisis. Many homeowners took
 out mortgages with initial low "teaser rates." Once the rates reset, some homeowners
-found they were unable to pay their mortgage payments unless home prices contin-
-ued to go up and mortgage refinancing remained available at low interest. The mort-
-gage lenders who initiated such mortgages and then immediately sold the loans to
+found they were unable to pay their mortgage payments unless home prices continued
+to go up and mortgage refinancing remained available at low interest. The mortgage
+lenders who initiated such mortgages and then immediately sold the loans to
 be securitized made lots of money while it lasted, but the subsequent financial crisis
 was painful to nearly everyone. Let's assume that at least some of these mortgage
 borrowers were fooled by fast-talking mortgage brokers.4 How would the market
@@ -37,5 +37,5 @@ Instead we need to follow Milton Friedman's advice and evaluate theories based o
 the quality of their predictions, and, if necessary, modify some of our theories.
 III. Financial Markets3
 A good place to start in an evaluation of the potential importance of
-less-than-fully-rational agents is financial markets. I say this because financial mar-
-kets have the features that should make it hardest to find evidence of misb
+less-than-fully-rational agents is financial markets. I say this because financial markets
+have the features that should make it hardest to find evidence of misb

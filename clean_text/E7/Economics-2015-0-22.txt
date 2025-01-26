@@ -3,11 +3,11 @@ would require improvements in technology so that it becomes economical to attain
 these higher reduction rates at lower costs.
 E. Economic Gains from the Climate Club
 What are the economic gains from the Climate Club? The Club is designed to
-increase economic welfare by overcoming free-riding. Figure 5 shows the net eco-
-nomic gains for different regimes, while Figure 6 shows the regime efficiency as
+increase economic welfare by overcoming free-riding. Figure 5 shows the net economic
+gains for different regimes, while Figure 6 shows the regime efficiency as
 measured by the percentage of the cooperative gains that are realized.
-First examining Figure 5, it is clear that the gains to cooperation are substan-
-tial. Taking as an example the case of $50 per ton of C02, the income gain from
+First examining Figure 5, it is clear that the gains to cooperation are substantial.
+Taking as an example the case of $50 per ton of C02, the income gain from
 noncooperative actions is $63 billion per year. The most successful cooperation
 regimes have gains of $312 billion per year. (Again, all are scaled to 2011 output
 and prices.)
@@ -20,10 +20,10 @@ the regime gets very little of the potential gains except at the highest tariff 
 F. Trade Inefficiencies
 How large are the trade costs relative to the climate gains? Note to begin with
 that there are no trade losses with full participation because there are no sanctions.
-However, with partial participation, there will be efficiency losses because of the tar-
-iffs. Consider a regime with a low tariff and a low target carbon price, for example,
-a 1 percent tariff and a $25 per ton target carbon price. Here, there are six nonpar-
-ticipants. The gains from the regime are $34 billion while the trade inefficiencies
+However, with partial participation, there will be efficiency losses because of the tariffs.
+Consider a regime with a low tariff and a low target carbon price, for example,
+a 1 percent tariff and a $25 per ton target carbon price. Here, there are six nonparticipants.
+The gains from the regime are $34 billion while the trade inefficiencies
 are $0.4 billion. At the other extreme, consider a $50 target price with a tariff of
 6 percent. For this regime, there are only two nonparticipants. The gains from the
 club are $228 billion, while the trade inefficiencies are $0.7 billion. In all cases, the

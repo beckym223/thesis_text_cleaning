@@ -4,13 +4,13 @@ Subject to many deep uncertainties, scientists and economists have developed an
 extensive understanding of the science, technologies, and policies involved in climate
 change and reducing emissions. Much analysis of the impact of national policies such
 as cap-and-trade or carbon taxes, along with regulatory options, has been undertaken.
-Notwithstanding this progress, it has up to now proven difficult to induce coun-
-tries to join in an international agreement with significant reductions in emis-
-sions. The fundamental reason is the strong incentives for free-riding in current
+Notwithstanding this progress, it has up to now proven difficult to induce countries
+to join in an international agreement with significant reductions in emissions.
+The fundamental reason is the strong incentives for free-riding in current
 international climate agreements. Free-riding occurs when a party receives the
-benefits of a public good without contributing to the costs. In the case of the inter-
-national climate-change policy, countries have an incentive to rely on the emissions
+benefits of a public good without contributing to the costs. In the case of the international
+climate-change policy, countries have an incentive to rely on the emissions
 reductions of others without taking proportionate domestic abatement. To this is
 added temporal free-riding when the present generation benefits from enjoying
 the consumption benefits of high carbon emissions, while future generations pay
-for those emissions in lower consumption or a degraded environment. The 
+for those emissions in lower consumption or a degraded environment. The

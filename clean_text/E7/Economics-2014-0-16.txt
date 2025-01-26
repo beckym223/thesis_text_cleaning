@@ -7,17 +7,17 @@ To begin with, assume two positions exist such that kx > k2 and that output is
 reduced when hours do not exceed some level such that ¿1 > S2. In addition, assume
 fct(l - <5|) < k2( 1 - S2 ) so that one occupation or work setting does not dominate
 the other. Now add a third position, r, characterized by linearity (Sr = 0) for which
-kr < k2. That position, which can be called the reservation occupation, will domi-
-nate the other two when A is sufficiently low. Also assume that k2( 1 - ô2) < kr .
+kr < k2. That position, which can be called the reservation occupation, will dominate
+the other two when A is sufficiently low. Also assume that k2( 1 - ô2) < kr .
 As shown in Figure 4, an employee will work in occupation 1 as long as A > Aj
-and will then shift to occupation 2 at lower hours and finally to the reservation occu-
-pation when A < A2. The relationship between output and hours, and thus between
+and will then shift to occupation 2 at lower hours and finally to the reservation occupation
+when A < A2. The relationship between output and hours, and thus between
 earnings and hours, is nonlinear (convex). On a per unit time basis the employee
-receives more in occupation 1 than 2 and more in occupation 2 than in the reserva-
-tion occupation, r.
+receives more in occupation 1 than 2 and more in occupation 2 than in the reservation
+occupation, r.
 In the framework, the position with the highest slope is also the one with the
 highest penalty with regard to reduced hours. Rather than stay in that position, an
 employee who wants lower hours will shift to one that has a lower penalty but
 also a lower slope. If the level of hours that the worker wants is yet lower, then the
 worker will take the reservation job, which involves complete linearity with respect
-to 
+to

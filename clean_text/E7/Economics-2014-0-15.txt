@@ -1,12 +1,12 @@
 but is hard at work for two additional hours in the evening. Even the self-employed
 may have nonlinear earnings because they cannot fully delegate responsibility.
-Gender differences in earnings across occupations and occupational groups sub-
-stantially concern job flexibility and continuity. By job flexibility I mean a multitude
+Gender differences in earnings across occupations and occupational groups substantially
+concern job flexibility and continuity. By job flexibility I mean a multitude
 of temporal matters including the number of hours, precise times, predictability and
 ability to schedule one's own hours.
 I will now provide some micro-foundations for the notion that nonlinear pay
-with respect to hours worked is responsible for the majority of the residual dif-
-ferences observed in earnings by gender. These notions are the micro-foundations
+with respect to hours worked is responsible for the majority of the residual differences
+observed in earnings by gender. These notions are the micro-foundations
 underlying the compensating differentials model of pay with respect to the amenity
 "job-flexibility."
 In many workplaces employees meet with clients and accumulate knowledge
@@ -16,18 +16,18 @@ Equivalently, employees often gain from interacting with each other in meetings
 or through random exchanges. If an employee is not around that individual will be
 excluded from the information conveyed during these interactions and has lower
 value unless the information can be fully transferred in a low cost manner.
-The point is quite simple. Whenever an employee does not have a perfect substi-
-tute nonlinearities can arise.26 When there are perfect substitutes for particular work-
-ers and zero transactions costs, there is never a premium in earnings with respect to
+The point is quite simple. Whenever an employee does not have a perfect substitute
+nonlinearities can arise.26 When there are perfect substitutes for particular workers
+and zero transactions costs, there is never a premium in earnings with respect to
 the number or the timing of hours. If there were perfect substitutes earnings would
 be linear with respect to hours. But if there are transactions costs that render workers
-imperfect substitutes for each other, there will be penalties from low hours depend-
-ing on the value to the firm. A sparse framework will demonstrate these points and
+imperfect substitutes for each other, there will be penalties from low hours depending
+on the value to the firm. A sparse framework will demonstrate these points and
 develop them further.
 B. Framework to Understand the Nonlinear ( Convex ) Hours-Wages Relationship
 Assume that each employee, i, invests in training (e.g., MBA, MD) only prior
-to the job and that the training is valuable in a hierarchy of positions, j. The posi-
-tions can be separate occupations or they can be different varieties of the same
+to the job and that the training is valuable in a hierarchy of positions, j. The positions
+can be separate occupations or they can be different varieties of the same
 occupation. Let 0 < A < 1 be the fraction of full-time employment worked by the
 employee or some metric concerning which hours are worked. Output, Q, for an
 employee is given by

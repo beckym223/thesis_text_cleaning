@@ -1,7 +1,7 @@
 III. Empirical Evidence in the First Three Decades of Modern Labor Economics:
 1965–1995
-“Modern” labor economics began in the  mid-1960s with the release of individ-
-ual microdata from the 1960 census (e.g., Cain 1966; Hanoch 1967; Bowen and
+“Modern” labor economics began in the  mid-1960s with the release of individual
+microdata from the 1960 census (e.g., Cain 1966; Hanoch 1967; Bowen and
 Finegan 1969), the Survey of Consumer Finances (e.g., Stafford 1968) and the
 Survey of Economic Opportunity (e.g., Ashenfelter 1972). As noted by Stafford
 (1986), these new datasets, along with  cross-sectional microdata from the Current
@@ -17,24 +17,24 @@ it was extremely convenient to frame the analysis in the setting described by Hi
 (1932), where individual employers are irrelevant.
 There were a couple of exceptions to this general rule. One was the analysis
 of wage setting under collective bargaining. Here, most analysts followed Lewis
-(1963) in modeling a unionized sector where wages were pushed above the com-
-petitive level, and a nonunion sector where wages were determined under perfect
+(1963) in modeling a unionized sector where wages were pushed above the competitive
+level, and a nonunion sector where wages were determined under perfect
 competition. There was little attention to the role of  firm-specific factors, apart from
 a small literature based on wage contracts (e.g., Hamermesh 1970; Riddell 1979;
 Christofides, Swidinsky, and Wilton 1980) that eventually turned to the question
 of how employment and wages are jointly determined under collective bargaining
 (e.g., Brown and Ashenfelter 1986; Card 1986, 1990).
-A second exception was the literature on quits, turnover, and the returns to senior -
-ity. Pencavel (1972) and Parsons (1972) presented  multi-period models of employer
+A second exception was the literature on quits, turnover, and the returns to seniority.
+Pencavel (1972) and Parsons (1972) presented  multi-period models of employer
 wage setting with a trade-off between wages and quit rates—foreshadowing the
 dynamic monopsony literature discussed below. While the  wage-setting equations
 in these papers are clearly interpretable in a monopsony framework, neither author
-acknowledged any connection with Robinson, or noted that in a perfectly competi-
-tive labor market the quit rate should rise to 100 percent if the wage is set below the
+acknowledged any connection with Robinson, or noted that in a perfectly competitive
+labor market the quit rate should rise to 100 percent if the wage is set below the
 “market” rate.
 A problem faced by both papers was the confusion surrounding Becker’s (1962)
 analysis of  firm-specific human capital, which addressed what we now call the
 problem of “ relationship-specific investments.”7 Many labor economists interpreted
 Becker as saying that firms choose wages to reduce quits (e.g., Parsons 1972 and
-Hashimoto 1981) assuming that quits are a smooth function of wages. This is equiv-
-alent to monopsonistic wage s
+Hashimoto 1981) assuming that quits are a smooth function of wages. This is equivalent
+to monopsonistic wage s

@@ -1,10 +1,10 @@
-Section II looks at the effects of an intergenerational transfer ( a conceptually sim-
-pler policy than a debt rollover, but a policy that shows most clearly the  rele
+Section II looks at the effects of an intergenerational transfer ( a conceptually simpler
+policy than a debt rollover, but a policy that shows most clearly the  rele
 vant effects
 at work)  in an overlapping generation model with uncertainty. In the certainty context
 analyzed by Diamond (1965) , whether such an intergenerational transfer from young
-to old is welfare improving depends on “the” interest rate, which in that model is sim-
-ply the net marginal product of capital. If the interest rate is less than the growth rate, then the transfer is welfare improving. Put simply, in that case, a larger intergenera-tional transfer, or equivalently an increase in public debt, and thus less capital, is good.
+to old is welfare improving depends on “the” interest rate, which in that model is simply
+the net marginal product of capital. If the interest rate is less than the growth rate, then the transfer is welfare improving. Put simply, in that case, a larger intergenera-tional transfer, or equivalently an increase in public debt, and thus less capital, is good.
 When uncertainty is introduced however, the question becomes what interest rate
 we should look at to assess the welfare effects of such a transfer. Should it be the average safe rate, i.e., the rate on sovereign bonds ( assuming no default risk) , or
 should it be the average marginal product of capital? The answer turns out to be: both.
@@ -17,8 +17,8 @@ depends instead on the average (risky) marginal product of capital. It is negati
 Thus, in the current situation where it indeed appears that the safe rate is less
 than the growth rate, but the average marginal product of capital exceeds the growth rate, the two effects have opposite signs, and the effect of the transfer on welfare is ambiguous. The section ends with an approximation that shows most clearly the relative role of the two rates. The net effect may be positive, if the safe rate is suffi-ciently low and the average marginal product is not too high.
 With these results in mind, Section III turns to numerical simulations. People live
-for two periods, working in the first, and retiring in the second. They have separate preferences vis-à-vis intertemporal substitution and risk. This allows to look at differ -
-ent combinations of risky and safe rates, depending on the degree of uncertainty and the degree of risk aversion. Production is constant elasticity of substitution (CES)  in
+for two periods, working in the first, and retiring in the second. They have separate preferences vis-à-vis intertemporal substitution and risk. This allows to look at different
+combinations of risky and safe rates, depending on the degree of uncertainty and the degree of risk aversion. Production is constant elasticity of substitution (CES)  in
 labor and capital, and subject to technological shocks; being able to vary the elastic-ity of substitution between capital and labor turns out to be important as this elasticity determines the strength of the second effect on welfare. There is no technological progress, nor population growth, so the average growth rate is equal to zero.
 I show how the welfare effects of a transfer can be positive or negative, and how
 they depend in particular on the elasticity of substitution between capital and labor. In the case of a linear technology (equivalently, an infinite elasticity of substitution between labor and capital), the rates of return, while random, are independent of capital accumulation, so that only the first effect is at work, and the safe rate is the only relevant rate in determining the effect of the transfer on welfare. I then show how a lower elasticity of substitution implies a negative second effect, leading to an ambiguous welfare outcome.

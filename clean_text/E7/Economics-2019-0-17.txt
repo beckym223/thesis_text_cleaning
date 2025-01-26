@@ -43,9 +43,9 @@ In the Cobb-Douglas case, using the fact that
 ER
 
 ≈
-(1 − α) / (αβ)  , (the approx-
-imation comes from ignoring Jensen’s inequality) the equation reduces to the sim-
-pler formula:
+(1 − α) / (αβ)  , (the approximation
+comes from ignoring Jensen’s inequality) the equation reduces to the simpler
+formula:
 (7)
 sign
 dU

@@ -1,23 +1,23 @@
 renamed the company “Pixar.” To avoid bidding wars over employees, Lucasfilm
 and Pixar agreed (i) not to “cold call” each other’s employees; (ii) to notify the
 other company should they receive an application for employment; (iii) and that
-all offers to employees at the other company would be “final,” with no further bid-
-ding. Ultimately this agreement was extended to other  high-tech firms (e.g., Google,
+all offers to employees at the other company would be “final,” with no further bidding.
+Ultimately this agreement was extended to other  high-tech firms (e.g., Google,
 Microsoft, and Oracle) and lasted over 20 years, until 2008.
 The size of the settlement to affected engineers ($585 million in two suits), and
-other wage adjustments made after the agreement was made public (e.g., a 10 per -
-cent  across-the-board increase offered by Google to all its employees in November
+other wage adjustments made after the agreement was made public (e.g., a 10 percent
+across-the-board increase offered by Google to all its employees in November
 2010) suggest that the suppression of  between-firm competition was successful—a
 validation of the idea that at least some labor markets are vulnerable to wage fixing.
-Another interesting lawsuit concerned a “no hire” agreement between the medi-
-cal schools at Duke University and University of North Carolina (Seaman v. Duke).
+Another interesting lawsuit concerned a “no hire” agreement between the medical
+schools at Duke University and University of North Carolina (Seaman v. Duke).
 This case, which resulted in a settlement of around $10,000 for each member of the
 medical faculties at the two schools, reveals how localized competition appears to
 matter, even for workers who arguably face a national market.
-While one might be tempted to think that “no hire” and “no poaching” agree-
-ments affect only highly skilled workers, Ashenfelter and Krueger (2021) found that
-no poaching clauses were widespread in US franchise agreements.17 These agree-
-ments typically prohibit a franchisee from hiring another franchisee’s employees
+While one might be tempted to think that “no hire” and “no poaching” agreements
+affect only highly skilled workers, Ashenfelter and Krueger (2021) found that
+no poaching clauses were widespread in US franchise agreements.17 These agreements
+typically prohibit a franchisee from hiring another franchisee’s employees
 for some  prespecified period of time after an employee’s departure. For example,
 a standard franchise agreement for McDonald’s as of 2016 had a clause stating:
 “Franchisee shall not employ or seek to employ any person who is at the time
@@ -27,9 +27,9 @@ Krueger 2021). The prohibition extended to employees for six months after leavin
 another McDonald’s job.
 Another strand of recent research has focused on the prevalence of  noncompete
 agreements, which prohibit employees from moving to jobs at “competitor” firms
-for a specified period (e.g., Starr 2019; Balasubramanian et al. 2020). Again, a sur -
-prising fact is the prevalence of these agreements even for relatively  low-wage work-
-ers. Recently, however, a number of states have enacted legislation that prohibits
+for a specified period (e.g., Starr 2019; Balasubramanian et al. 2020). Again, a surprising
+fact is the prevalence of these agreements even for relatively  low-wage workers.
+Recently, however, a number of states have enacted legislation that prohibits
 noncompete agreements for “ low-wage” workers (e.g., earning less than $100,000
 per year in Washington State—see Goldstein and Oberlander 2021).
 The popularity of  no-poaching and  noncompete agreements seems to confirm the

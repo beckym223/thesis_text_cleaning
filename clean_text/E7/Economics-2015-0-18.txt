@@ -1,14 +1,14 @@
 Notes: The matrix shows the structure of penalties in the Climate Club. For example, the lower left cell indicates  that when exporting countries are nonparticipants and importing countries are participants, the trade of exporters is  penalized. In all other cases, there are no penalties.
 coalition and calculate the outcomes and net benefits. Denote these the initial "base
 coalition" and "base outcomes." (ii) Randomly generate a "change coalition" of a set of
-m regions from the n regions. Assume that each of the m regions changes its participa-
-tion from out to in or from in to out. (iii) Construct a new test pattern of participations,
+m regions from the n regions. Assume that each of the m regions changes its participation
+from out to in or from in to out. (iii) Construct a new test pattern of participations,
 substituting the new participation status of the change coalition for its participation in
 the base coalition, (iv) Calculate the test net benefits of the new test participation for
 each region, (v) If the test net benefits are Pareto improving for the change coalition,
 substitute the test participation pattern and other outcomes for the prior base outcomes
-to get new base participation and outcomes. Note that while the results of the test coa-
-lition will be Pareto improving for the change coalition in the new outcomes, it may
+to get new base participation and outcomes. Note that while the results of the test coalition
+will be Pareto improving for the change coalition in the new outcomes, it may
 not improve the welfare for the balance of regions, (vi) Go back and restart from (ii) to
 generate a new random change coalition and then go through steps (iii)-(v). (vii) The
 procedure stops either when (a) the process cycles (a coalition structure repeats), or

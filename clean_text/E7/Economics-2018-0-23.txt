@@ -6,9 +6,9 @@ Because the schools are not strategic players in many cities, the case for requi
 stable matchings is not as compelling as in markets in which stability helps achieve long-term orderly participation in a clearinghouse. Other strategy-proof clearing-house mechanisms have been considered, although seldom adopted.
 70
 The two main sources of congestion in school choice are in applications, and in
-offers and acceptances. When applications are decentralized, it may be hard to learn about schools and how to apply to them, and time consuming to submit many differ -
-ent applications. (So this is an example in which bringing applications together in a single marketplace can reduce congestion.) And when admissions and acceptances are decentralized, some students are offered multiple positions, and others must wait while they decide. In school choice, congestion can therefore be reduced by making the market thicker so that it includes all schools in a single unified admissions clear -
-inghouse that gives each student a single offer.
+offers and acceptances. When applications are decentralized, it may be hard to learn about schools and how to apply to them, and time consuming to submit many different
+applications. (So this is an example in which bringing applications together in a single marketplace can reduce congestion.) And when admissions and acceptances are decentralized, some students are offered multiple positions, and others must wait while they decide. In school choice, congestion can therefore be reduced by making the market thicker so that it includes all schools in a single unified admissions clearinghouse
+that gives each student a single offer.
 Computerized clearinghouses thus help deal with school choice congestion in
 three ways: by bringing together the application process for many schools in a single platform, by using computer speed for processing offers, acceptances, and rejections according to the submitted preference lists, and by asking for those preference lists (and hence acceptance and rejection decisions) in advance, so the process is not
 delayed while participants decide on their preferences.

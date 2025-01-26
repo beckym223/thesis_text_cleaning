@@ -23,17 +23,17 @@ are unlikely to compensate entirely for the constraint imposed by the lower boun
 The costs associated with a very low neutral rate, measured in terms of deeper and
 longer recessions and inflation persistently below target, underscore the importance
 for central banks of keeping inflation and inflation expectations close to target. A
-neutral rate below 2 percent or so also increases the relative attractiveness of alter -
-native strategies for increasing policy space, such as raising the inflation target or
+neutral rate below 2 percent or so also increases the relative attractiveness of alternative
+strategies for increasing policy space, such as raising the inflation target or
 relying more heavily on fiscal policy to fight recessions and to keep inflation and
 interest rates from falling too low.
 I. Assessing the New Tools of Monetary Policy
-When the  short-term policy interest rate reaches the effective lower bound, mon-
-etary policymakers can no longer provide stimulus through traditional means.3
+When the  short-term policy interest rate reaches the effective lower bound, monetary
+policymakers can no longer provide stimulus through traditional means.3
 However, it is still possible in those circumstances to add stimulus by operating
 on  longer-term interest rates and other asset prices and yields. Two tools for doing
 that, both actively used in recent years, are (i) central bank purchases of  longer-term
-financial assets (popularly known as quantitative easing, or QE), and (ii) communi-
-cation from monetary policymakers about their economic outlooks and policy plans
+financial assets (popularly known as quantitative easing, or QE), and (ii) communication
+from monetary policymakers about their economic outlooks and policy plans
 (forward guidance).4 I’ll discuss QE first, returning later to forward guidance, as
 well as to some other new tools used primarily outside the United Sta

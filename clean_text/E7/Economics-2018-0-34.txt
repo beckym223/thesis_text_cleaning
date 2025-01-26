@@ -3,13 +3,13 @@ potentially long chains are so useful: a high concentration of hard to match pai
 means that few simple exchanges between two pairs will be feasible (and these are the exchanges that are further removed from the interhospital marketplace because they can be transplanted internally by their own transplant center).
 110
 Throughout these developments (and unlike the situation in Germany), kidney
-exchange faced little repugnance in the US, although this wasn’t initially obvious. The National Organ Transplant Act (NOTA ) of 1984 specifies that “It shall be unlaw-
-ful for any person to knowingly acquire, receive, or otherwise transfer any human organ for valuable consideration for use in human transplantation.” This raised a potential barrier to kidney exchange, if a kidney in return for a kidney is viewed as “valuable consideration” of the kind precluded by the NOTA. The Department of Justice initially declined to issue an opinion on the legality of kidney exchange. But as kidney exchange began to be performed, Congress was prevailed upon to amend the NOTA via the Norwood Act (Public Law 110-144, 2007), which said that the sentence about valuable consideration “does not apply” to kidney exchange.
+exchange faced little repugnance in the US, although this wasn’t initially obvious. The National Organ Transplant Act (NOTA ) of 1984 specifies that “It shall be unlawful
+for any person to knowingly acquire, receive, or otherwise transfer any human organ for valuable consideration for use in human transplantation.” This raised a potential barrier to kidney exchange, if a kidney in return for a kidney is viewed as “valuable consideration” of the kind precluded by the NOTA. The Department of Justice initially declined to issue an opinion on the legality of kidney exchange. But as kidney exchange began to be performed, Congress was prevailed upon to amend the NOTA via the Norwood Act (Public Law 110-144, 2007), which said that the sentence about valuable consideration “does not apply” to kidney exchange.
 111
 Kidney exchange is one of few examples that achieve the triple aim of healthcare
 reform: improved care, reduced cost, and increased access. There is still work to do to make kidney exchange marketplaces work better.
 112 But if I stopped here, it could
 appear as if the story were a simple one, of victory after victory for market design and kidney exchange.
-But these victories come in a war that we are losing: there are more people wait-
-ing for kidney transplants today than there were when I first began to think about transplants.
+But these victories come in a war that we are losing: there are more people waiting
+for kidney transplants today than there were when I first began to think about transplants.
 113 So it will not be enough to keep improving the current operation

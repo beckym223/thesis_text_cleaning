@@ -5,19 +5,19 @@ with aggregate losses.
 Look at the distribution of gains and losses to determine whether a Climate Club
 would be attractive to most countries relative to existing arrangements. All regions
 would prefer a regime with penalties and modest carbon prices to a regime with
-no penalties. Paradoxically, this is the case even for countries that do not partici-
-pate. The reason is that the gains from strong mitigation measures of participants
+no penalties. Paradoxically, this is the case even for countries that do not participate.
+The reason is that the gains from strong mitigation measures of participants
 outweigh the losses from the tariffs for nonparticipants as long as the tariff rate is
 not too high. This powerful result indicates that a regime with sanctions should be
 attractive to most regions.
 D. Bottom Line
 Here is the bottom line: the present study finds that without sanctions there is
 no stable climate coalition other than the noncooperative, low-abatement coalition.
-This conclusion is soundly based on public-goods theory, on C-DICE model sim-
-ulations, on the history of international agreements, and on the experience of the
+This conclusion is soundly based on public-goods theory, on C-DICE model simulations,
+on the history of international agreements, and on the experience of the
 Kyoto Protocol.
-The analysis shows how an international climate treaty that combines target car-
-bon pricing and trade sanctions can induce substantial abatement. The modeling
+The analysis shows how an international climate treaty that combines target carbon
+pricing and trade sanctions can induce substantial abatement. The modeling
 results indicate that modest trade penalties on nonparticipants can induce a coalition
 that approaches the optimal level of abatement as long as the target carbon price is up
 to $50 per ton at current income and emission levels. The attractiveness of a Climate

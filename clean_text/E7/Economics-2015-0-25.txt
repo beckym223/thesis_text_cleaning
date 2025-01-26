@@ -10,22 +10,22 @@ Protocol countries having binding emissions commitments with no penalties for
 noncompliance (0 percent tariff). Starting with the original Kyoto coalition status, I
 tested for coalition stability as described above.
 All of the simulations collapsed to the noncooperative equilibrium. (See
-Figure B-5 in the online Appendix for the simulations.) This might not be sur-
-prising in light of the analysis above. However, recall that the analytical models
-assume much more environmental and economic homogeneity than is seen in real-
-ity. Perhaps some combination of damages, abatement costs, and carbon intensities
+Figure B-5 in the online Appendix for the simulations.) This might not be surprising
+in light of the analysis above. However, recall that the analytical models
+assume much more environmental and economic homogeneity than is seen in reality.
+Perhaps some combination of damages, abatement costs, and carbon intensities
 might lead to limited cooperation. However, for the modeling structure used here,
 the Kyoto Protocol could not survive.
 So the conclusion from this simple test is that the Kyoto Protocol was doomed
-from the start. It did not contain sufficient economic glue to hold a cooperative coa-
-lition together.
+from the start. It did not contain sufficient economic glue to hold a cooperative coalition
+together.
 I. Regional Choice among Regimes
 The present analysis focuses on the design of a Climate Club and the extent to
 which different club designs succeed in inducing efficient participation and abatement.
 In reality, treaties do not spring full-grown but emerge from a complicated diplomatic
 process. The key steps are negotiation, ratification, implementation, and renegotiation.
-The present study focuses on negotiation and assumes that once treaties are nego-
-tiated, they are ratified and implemented (so there are no "cheap talk" negotiations).
+The present study focuses on negotiation and assumes that once treaties are negotiated,
+they are ratified and implemented (so there are no "cheap talk" negotiations).
 Negotiations take place in two parts. The first stage is treaty design, while the second
 is the decision whether to participate. For the Kyoto Protocol, the United States was
 deeply involved in treaty design but did not ratify the treaty. The last section explains
@@ -39,6 +39,6 @@ have their own SCCs (say that the US SCC is $4 and India's is $2), as well as th
 national abatement cost functions. If countries are just scaled-up or scaled-down
 replicas, all would prefer a $25 per ton target carbon price. In reality, countries
 differ, so their preferred target prices will differ. Countries with high damages will
-prefer a high target carbon price because they will benefit from higher global abate-
-ment; countries with high abatement costs will prefer a low target price because that
-will reduce their abatement costs. The analog for health clubs is that 
+prefer a high target carbon price because they will benefit from higher global abatement;
+countries with high abatement costs will prefer a low target price because that
+will reduce their abatement costs. The analog for health clubs is that

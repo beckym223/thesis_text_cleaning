@@ -1,9 +1,9 @@
 The findings gleaned from each of the graphs are similar although the levels are
-a bit different. In almost all cases the coefficient on female for each of the occu-
-pations is negative. That should not come as a surprise since it is a reflection of
+a bit different. In almost all cases the coefficient on female for each of the occupations
+is negative. That should not come as a surprise since it is a reflection of
 the lower earnings women receive relative to men in almost all occupations. If the
-individual's past employment history was included, as it will be for specific occupa-
-tions presented later, the coefficients would be considerably smaller. Presented as in
+individual's past employment history was included, as it will be for specific occupations
+presented later, the coefficients would be considerably smaller. Presented as in
 Figure 2, the coefficients give the raw gender gap in pay adjusted for age, education
 and time worked.
 One way to think about the coefficient is that it is the penalty to being a woman
@@ -15,4 +15,4 @@ Health, Science, Technology, and a miscellaneous group called "Other." Although
 the categorization is generally clear (e.g., engineers in Technology; physicians in
 Health), occupation descriptions and groupings of the occupations in 0*Net were
 used for less obvious cases.19 The list of occupations by category is given in online
-Appendix Table 
+Appendix Table

@@ -1,26 +1,26 @@
 of free-riding is the failure of the only significant international climate treaty, the
 Kyoto Protocol, and the difficulties of forging effective follow-up regimes.
-While free-riding is pervasive, it is particularly difficult to overcome for global pub-
-lic goods. Global public goods differ from national market failures because no mecha-
-nisms - either market or governmental - can deal with them effectively. Arrangements
+While free-riding is pervasive, it is particularly difficult to overcome for global public
+goods. Global public goods differ from national market failures because no mechanisms
+- either market or governmental - can deal with them effectively. Arrangements
 to secure an international climate treaty are hampered by the Westphalian dilemma.
-The 1648 Treaty of Westphalia established the central principles of modern interna-
-tional law. First, nations are sovereign and have the fundamental right of political
+The 1648 Treaty of Westphalia established the central principles of modern international
+law. First, nations are sovereign and have the fundamental right of political
 self-determination; second, states are legally equal; and third, states are free to manage
 their internal affairs without the intervention of other states. The current Westphalian
 system requires that countries consent to joining international agreements, and all
 agreements are therefore essentially voluntary (Treaty of Vienna 1969, article 34).
 B. Clubs as a Mechanism to Overcome Free-riding
-Notwithstanding the Westphalian dilemma, nations have overcome many trans-
-national conflicts and spillovers through international agreements. There are over
+Notwithstanding the Westphalian dilemma, nations have overcome many transnational
+conflicts and spillovers through international agreements. There are over
 200,000 UN-registered treaties and actions, which are presumptive attempts to
 improve the participants' welfare. Countries enter into agreements because joint
 action can take into account the spillover effects among the participants.
 How have countries overcome the tendency toward free-riding associated with
 the Westphalian system? Consider the many important international agreements in
 international trade and finance as well as alliances that have reduced the lethality of
-interstate military conflicts. These have often been accomplished through the mech-
-anism of "clubs." A club is a voluntary group deriving mutual benefits from sharing
+interstate military conflicts. These have often been accomplished through the mechanism
+of "clubs." A club is a voluntary group deriving mutual benefits from sharing
 the costs of producing an activity that has public-good characteristics. The gains
 from a successful club are sufficiently large that members will pay dues and adhere
 to club rules in order to gain the benefits of membership.
@@ -29,17 +29,17 @@ The theory of clubs is a little-known but important corner of the social science
 Tschirhart 1980.) The major conditions for a successful club include the following:
 (i) that there is a public-good-type resource that can be shared (whether the benefits
 from a military alliance or the enjoyment of a golf course); (ii) that the cooperative
-arrangement, including the dues, is beneficial for each of the members; (iii) that non-
-members can be excluded or penalized at relatively low cost to members; and (iv) that
-the membership is stable in the sense that no one wants to leave. For the current inter-
-national-trade system, the advantages are the access to other countries' markets with
+arrangement, including the dues, is beneficial for each of the members; (iii) that nonmembers
+can be excluded or penalized at relatively low cost to members; and (iv) that
+the membership is stable in the sense that no one wants to leave. For the current international-
+trade system, the advantages are the access to other countries' markets with
 low trade barriers. For military alliances, the benefits are peace and survival. In all
-cases, countries must contribute dues - these being low trade barriers for trade or bur-
-den sharing in defense treaties. If we look at successful international clubs, we might
+cases, countries must contribute dues - these being low trade barriers for trade or burden
+sharing in defense treaties. If we look at successful international clubs, we might
 see the seeds of an effective international system to deal with climate change.
 The organization of this paper is as follows. After a sketch of the proposal, I begin
-with a discussion of the issues of free-riding and previous analyses of potential solu-
-tions. I examine potential approaches to internalizing the transnational spillovers
+with a discussion of the issues of free-riding and previous analyses of potential solutions.
+I examine potential approaches to internalizing the transnational spillovers
 and conclude that a Climate Club with penalties for nonmembers is the most fruitful
 mechanism. The following sections develop a model of coalition formation with
 climate economics (the Coalition-DICE or C-DICE model) and sh

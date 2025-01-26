@@ -1,18 +1,18 @@
-fluctuations. We cannot easily prove that any association between changing narra-
-tives and economic outcomes is not all reverse causality, from the outcomes to the
+fluctuations. We cannot easily prove that any association between changing narratives
+and economic outcomes is not all reverse causality, from the outcomes to the
 narratives. But there have been true controlled experiments showing that people
-respond strongly to narratives, in the fields of marketing (Escalas 2007); journal-
-ism (Machill, Köhler, and Waldhauser 2007 ); education (McQuiggan et al. 2008);
+respond strongly to narratives, in the fields of marketing (Escalas 2007); journalism
+(Machill, Köhler, and Waldhauser 2007 ); education (McQuiggan et al. 2008);
 health interventions (Slater et al. 2003); and philanthropy (Weber et al. 2006).
-My goal in this paper is to describe what we know about narratives and the pen-
-chant of the human mind to be engaged by them, to consider reasons to expect
+My goal in this paper is to describe what we know about narratives and the penchant
+of the human mind to be engaged by them, to consider reasons to expect
 that narratives might well be thought of as important, largely exogenous shocks to
 the aggregate economy. This address extends some earlier work I have done with
 George Akerlof (Akerlof and Shiller 2009, 2015) and some of my own earlier work
 going back decades (Shiller 1984), but develops the analysis and captures a much
 broader relevant literature.
-Of course, almost nothing beyond spots on the sun is truly exogenous in econom-
-ics, but new narratives may be regarded often as causative innovations, since each
+Of course, almost nothing beyond spots on the sun is truly exogenous in economics,
+but new narratives may be regarded often as causative innovations, since each
 narrative originates in the mind of a single individual (or a collaboration among a
 few). Mokyr (2016) calls such an individual a "cultural entrepreneur," and traces
 the concept back to Hume (1742) who wrote that "what depends on a few persons
@@ -30,8 +30,8 @@ I use the term narrative to mean a simple story or easily expressed explanation
 of events that many people want to bring up in conversation or on news or social
 media because it can be used to stimulate the concerns or emotions of others, and/
 or because it appears to advance self-interest. To be stimulating, it usually has some
-human interest either direct or implied. As I (and many others) use the term, a nar-
-rative is a gem for conversation, and may take the form of an extraordinary or heroic
+human interest either direct or implied. As I (and many others) use the term, a narrative
+is a gem for conversation, and may take the form of an extraordinary or heroic
 tale or even a joke. It is not generally a researched story, and may have glaring
 holes, as in urban legends. The form of the narrative varies through time and across
 tellings, but maintains a core contagious element, in the forms that are successful

@@ -4,8 +4,8 @@ good with the simplified structure. The globally averaged noncooperative carbon 
 and control rate are equal to the Herfindahl index times the cooperative values. For
 example, if there are ten equally sized countries, the Herfindahl index is 10 percent, and
 the global carbon tax and emissions-control rates are 10 percent of the efficient levels.
-The Herfindahl index for country gross domestic products (GDPs) is about 12 per-
-cent, indicating that (when emissions-intensities and damage ratios are equal for
+The Herfindahl index for country gross domestic products (GDPs) is about 12 percent,
+indicating that (when emissions-intensities and damage ratios are equal for
 each country) the noncooperative control rate and carbon price are about 12 percent
 of the cooperative values. This figure is close to calculations that have been made
 in more complete models (see Nordhaus and Yang 1996; Nordhaus 2010; Bosetti et
@@ -17,8 +17,8 @@ A more complete treatment of country interactions in climate-change policy
 views interactions in a dynamic framework with decisions over time. The standard
 analysis uses the framework of a repeated prisoners' dilemma (RPD) game. For
 simplicity, assume that the structure above is repeated every few years with identical
-parameters. One equilibrium of a RPD is just the iterated inefficient one-shot equi-
-librium with minimal abatement as described above. However, because players can
+parameters. One equilibrium of a RPD is just the iterated inefficient one-shot equilibrium
+with minimal abatement as described above. However, because players can
 reward and punish other players for good and bad behavior, RPD games generally
 have multiple equilibria; these might include more efficient outcomes if country
 discount rates are low (these being the generalized results of various folk theorems).

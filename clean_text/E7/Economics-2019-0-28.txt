@@ -6,8 +6,8 @@ percent today
 their measured capital at replacement cost, known as Tobin’s q, has roughly doubled since the early 1980s, going roughly from one to two.
 There are two ways of explaining this diverging evolution; both have implications
 for the average marginal product of capital, and, as result, for the welfare effects of debt.
-31 Both have been and are the subject of much research, triggered by an appar -
-ent increase in markups and concentration in many sectors of the US
+31 Both have been and are the subject of much research, triggered by an apparent
+increase in markups and concentration in many sectors of the US
 economy
 (e.g.,
 De Loecker and Eeckhout 2017, Gutiérrez and Philippon 2017, Philippon 2017, Barkai 2018, Farhi and Gourio 2018).

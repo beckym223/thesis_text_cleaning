@@ -1,6 +1,6 @@
 the coefficient of relative risk aversion of 122, which is clearly implausible. One of
-the reasons why the model fails so badly is the symmetry in the degree of uncer -
-tainty facing labor and capital, and the absence of price risk associated with holding shares (as capital fully depreciates within the 25-year period). If we take instead
+the reasons why the model fails so badly is the symmetry in the degree of uncertainty
+facing labor and capital, and the absence of price risk associated with holding shares (as capital fully depreciates within the 25-year period). If we take instead
 σ
 
 to
