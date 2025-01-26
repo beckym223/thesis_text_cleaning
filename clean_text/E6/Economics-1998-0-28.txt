@@ -94,11 +94,3 @@ gence of growth rates among countries, or an
 ultimate convergence of levels of output per
 head. To me, the natural convergence is prod-
 uct by product, not country by country. And
-ing the rate of return (p) imputed to new investments.
-Arguments can be developed for using arbitrary but "sen-
-sible" rates (like 10, 15, or 20 percent), or for applying
-to investments by individual firms and/or industries rates
-of return T that are obtained not from those specific firms
-or industries but from broad sectoral (e.g., manufacturing)
-or economywide averages. I am pursuing these avenues in
-work that will be reported at a later time.

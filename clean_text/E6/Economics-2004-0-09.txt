@@ -41,8 +41,8 @@ itization would favor those with longer ex-
 pected lives-women relative to men, male
 high earners relative to male low earners,
 female high earners relative to female low
-earners. A progressive benefit formula can be
-26W. H. Beveridge (1942) argued that in the United  Kingdom the government systematically did better than  private insurance markets.  27 Annuity pricing that varies with stochastic health out-  comes implies a risk of the classification to which one will  belong. With annuitization done at a single time in life, the  degree of risk classification involves a tension between  providing more insurance and providing more accurate la-
+earners. A progre
+ la-
 bor market incentives.  used to offset the systematic variation in life
 expectancy with earnings within genders.
 For this or any income distribution compar-
@@ -69,7 +69,4 @@ groups divided by gender, race, and educa-
 tion. Thus the differences in expected pay-
 ments from different life expectancies have
 less distributional impact in utility terms than
-in expected payment calculations.30
-281 ignore the role of access to minimum income guar-  antees (SSI).  29 Someone with a higher probability of dying would  find a larger decrease in the price of consumption when  going from unconditional purchase to purchase conditional  on being alive with fair pricing. Without annuitization,  someone with a higher probability of dying would generally  consume less in later years, ceteris paribus, and so have less  consumption on which to receive a price decrease. Given  the preference structure in Brown, the net result of these two  effects is that those with shorter lives gain more from fair  annuitization, tending to offset the redistribution from a  change from fair to uniform annuity pricing. Interpretation  of the Brown analysis of the total impact of annuitization is  aided by the analysis in Bernheim (1987) of the valuation of  marginal annuitization relative to life expectancy and li-  quidity constraints.  30 Implicitly this income distribution discussion has as-  sumed rational lifetime consumption allocation-the only  behavioral element being an unexplained, and unexplain-  able (on rational grounds), failure to purchase annuities.  Similarly, the simulations showing the value of annuiti-  zation assume optimal consumption paths both with and  without annuitization. Any full normative evaluation of  annuitization should reflect the fact that those living  longer after retirement will have a larger marginal utility  of consumption for any given wealth for retirement  consumption.
-MARCH 2004
-8
+in exp

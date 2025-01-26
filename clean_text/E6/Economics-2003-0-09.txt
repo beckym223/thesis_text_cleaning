@@ -91,8 +91,4 @@ These exogenous forces acting differentially
 across households induce different individual
 choices, which in turn lead to differences in
 individual capital holdings. The state space in
-this economy is very large, much larger than
-i6 For example, Ayse Imrohoroglu (1989), Andrew  Atkeson and Christopher Phelan (1994), Krusell and Smith  (1999, 2002), Kjetil Storesletten et al. (2001), and Tom
-Krebs (2002).  17 This way of modeling wealth changes within a fixed  distribution across families was introduced in John Laitner  (1992).
-8
-MARCH 2003
+this economy is

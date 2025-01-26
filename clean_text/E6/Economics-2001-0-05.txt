@@ -84,14 +84,3 @@ cycle. This is reflected in the 2000 Update of
 the International Technology Road Map for
 Semiconductors,'0 prepared by a consortium of
 industry associations.
-5 Charles Petzold (1999) provides a general reference on
-computers and software.
-6 On Kilby, see: http://www.nobel.se/physics/laureates/
-20001 On Noyce, see: Tom Wolfe (2000 pp. 17-65).
-7 Moore (1965). Vernon W. Ruttan (2001 pp. 316-67)
-provides a general reference on the economics of semicon-
-ductors and computers. On semiconductor technology, see:
-http.//euler.berkeley.edu/-esrc/csm.
-8 Moore (1997).
-9 Moore (1996).  10 On International Technology Roadmap for Semicon-
-ductors (2000), see: http://public.itrs.net/.

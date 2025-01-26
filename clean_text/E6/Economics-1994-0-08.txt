@@ -45,19 +45,8 @@ puter industry in the early 1970's and a very
 rapid growth in its importance, leading to a
 more than doubling of the share of machin-
 ery in total manufacturing output by the
-0.15 -
-0.10- 4
-v ~~~~~~+
-0.05-
-0.00-+
--0.05 -
-0.000 0.025 0.050 0.075 0.100 0.125
-R&D-Sales Ratio in 1984
-FIGURE 3. REVISED TOTAL-FACTOR-PRODUCTIVITY
-GROWrH (PER ANNUM), U.S. THREE-DIGIT
-MANUFACTURING INDUSTRIES, 1978-1989
-Note: Computers adjusted downward; electronic com-
-ponents and drugs adjusted upward.
+
+
 late 1980's. This last problem has largely
 been solved recently with the introduction
 of "benchmark-weighted" estimates of gross
@@ -85,5 +74,3 @@ duction of generics in the current measure-
 ment procedures. (I shall come back to
 discuss this last adjustment later on.) So
 adjusted, Figure 3 does not look all that
-8For historical background on these developments
-see Jack Triplett (1989) and Ernst Berndt (1991 Ch. 4).

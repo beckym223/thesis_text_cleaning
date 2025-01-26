@@ -1,7 +1,3 @@
-FIRM'S  TOTAL
-COST
-0 B SHOES
-FIGURE 4
 output proportions constant, we have an
 ordinary total cost curve, OST. With one
 exception, which I will note soon, I have
@@ -41,14 +37,7 @@ the firm's total cost does have a region in
 which constant returns to scale occur, and
 which corresponds to the flat-bottomed seg-
 ment of the A C curve.
-L
-/~~~~~~
-*Y~~~~~Y
-FIGURE 5
-FIRM S
-COST
-0 ~~~~B Y,
-FIGURE 6
+
 Moreover, as before, I have deliberately
 kept this segment quite narrow. Indeed, I
 have repeated the previous proportions, let-

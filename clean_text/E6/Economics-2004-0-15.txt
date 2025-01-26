@@ -81,11 +81,4 @@ is, from income effects as opposed to substitu-
 tion effects. I am not aware of any study of the
 impact on savings from the progressive benefit
 formula-the presence of higher benefits rela-
-tive to taxes for low earners who have a lower
-54 Perhaps the largest effect comes from the cutoffs
-below which benefits are not taxed or are taxed at a lower
-rate. Since the cutoffs are compared with income including  capital income, there is an increase in the tax wedge on  savings for those who are affected in this way. Another  effect comes from the possibility that taxable benefits might  increase the marginal tax bracket. But Social Security dis-  places some private savings. Whatever savings are dis-  placed by Social Security might themselves have affected  the marginal tax rates (depending on the tax treatment of  displaced savings). Moreover, one needs to consider the  effect of Social Security on the income tax rate when the  savings are done as well as when the proceeds are  received-the employer share of the payroll tax is not part  of taxable income for the income tax. Thus, the effect could
-be positive or negative depending on the level of displaced  savings and their income tax treatment. This indirect link is  present in many other programs that are not talked about in  this way. For example, government support of education  raises earnings and so marginal tax rates. The implied  increase in savings distortions does not seem to be of
-consequence.
-MARCH 2004
-14
+tive to taxes for

@@ -78,17 +78,3 @@ generating inputs aside from their con-
 tribution to measurable productivity
 gains.
 The proposition suggests itself that the
-In R & D statistics the concept of "industry" is in-
-tended to include the whole business sector. In principle
-individuals should be included even if they have not
-founded "firms" but while the role of some such indi-
-viduals has been of considerable importance in the
-history of technological progress, their weight on the
-cost-side of our ledger is very small. See John Jewkes,
-David Sawers, and Richard Stillerman. The costs of
-some other strategically significant inputs are also small
-(see Appendix C).
-13 Government-owned enterprises are not included in  this concept.  14 In our framework this distinction coincides with the
-distinction between the argument of a function and
-factors influencing the algebraic form or the param-
-eters of the function. See fn. 2.

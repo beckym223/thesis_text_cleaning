@@ -79,5 +79,3 @@ may appear in experiments, they are not impor-
 tant for economic behavior. This may be true in
 repeated, familiar market settings where the
 conduct and rewards of others provide good
-2 Edited volumes that survey this subject include Kah-  neman et al. (1999), Kahneman and Amos Tversky (2000),  Thomas D. Gilovich (2002), John H. Kagen and Alvin E.  Roth (1995), George Loewenstein et al. (2003), and Charles  R. Plott (forthcoming). See also Charles Bellemare et al.  (2005), Ronald Bosman et al. (2005), Camerer (1999),  Camerer and Thaler (1995), Donald Green et al. (1998),  Teck H. Ho et al. (forthcoming), Michael D. Hurd et al.  (1998), and Olaf Johansson-Stenman and Hector Svedsater
-(2003).

@@ -99,5 +99,3 @@ ferent to each other are now assumed to
 form a smooth (hyper)surface. As another
 instance of the generality permitted by ab-
 straction, consider the notion of a commod-
-20n this direct consequence of a theorem of A. A.
-Lyapunov, see Karl Vind (1964).

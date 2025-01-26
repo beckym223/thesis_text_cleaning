@@ -32,15 +32,8 @@ extensive in the population and is unlikely to
 become extensive if the programs were re-
 moved. Asymmetric information is another can-
 didate for explaining this situation, and it does
-cause an adverse selection effect on pricing that
-14 There is a thriving market in what are called variable  annuities, but these are tax-favored investment vehicles
-with a bit of insurance included (to get the favorable tax  treatment) and an option to purchase a genuine annuity, an  option that appears to be rarely taken. With the recent  addition of a lump-sum option in many defined benefit  plans, many workers may be forgoing an annuity, although  it is difficult to tell since some may simply be waiting to
-annuitize later.
-15 Among TIAA-CREF annuitants roughly three-  quarters choose some guarantee period (John Ameriks,
-2002).
-16 Guarantees may play a role in addressing adverse  selection, but that is, itself, a reflection of poor functioning
-in this market relative to ideals.
-17 Although markets provide both term life insurance  and whole-life contracts, the only annuities in the market are  for payments over the rest of one's life, from the date of the  first payment.  would discourage some individuals from annu-
+cause an adverse sele
+date of the  first payment.  would discourage some individuals from annu-
 itizing. While large systematic differences in
 life expectancy do exist, much of the difference
 is readily attributed to easily measured factors,
@@ -82,10 +75,4 @@ annuities, annuities that are generally indexed to
 prices or wages (or a combination). This is a
 simple application of the view that in a manda-
 tory program, individuals should be given what
-we think they would want if they were well-
-18 Antidiscrimination rules do limit the variables that
-insurance companies can recognize in pricing. But more  could readily be done with allowable categories, such as  smoking, type of job, earnings level. The adaptations of the  life insurance market to the presence of adverse selection  are suggestive that adaptations would occur if the market for  annuities were of a comparable size to that for life insur-
-ance.  19 Note that there is considerable risk classification for
-life insurance.
-6
-MARCH 2004
+we think they 

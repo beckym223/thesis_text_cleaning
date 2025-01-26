@@ -49,29 +49,7 @@ tions that had taken place in the 1970s and
 early 1980s.
 The Unfinished Agenda. Despite the pro-
 gress made in 1986, the federal income tax in
-TABLE 5-CHANGES IN INDIVIDUAL AND CORPORATE
-INCOME TAX LIABILITIES UNDER THE TAX REFORM
-ACT OF 1986, BY POPULATION PERCENTILE, 1988
-Percent Change in
-Federal Individual Total
-Population and Corporate Federal
-Percentilea Income Taxesb Taxes
-lst decile -44 -16
-2nd decile - 32 -11
-3rd decile -24 -10
-4th decile -16 - 7
-5th decile -12 -6
-6th decile - 8 -4
-7th decile - 7 - 4
-8th decile - 6 - 3
-9th decile - 6 - 4
-10th decile + 3 + 2
-Top 5 Percent +4 +3
-Top 1 Percent + 5 + 5
-Source: Brookings MERGE file.  aThe classification is by a comprehensive definition
-of income, including imputed rent and corporate earn-
-ings allocated to stockholders, whether distributed or
-not. 'Assumes the corporate tax is on capital in general.
+
 the United States falls considerably short of
 the comprehensive income target.40 I assume
 that we shall continue to tax capital gains on
@@ -91,6 +69,3 @@ why the income tax tends to be in disrepute
 is the discrimination against capital income
 inherent in a nominal income tax. An infla-
 tion adjustment of asset prices should be
-40For a detailed analysis of a comprehensive income  tax base, see Pechman (1977). Estimates of the revenue
-effects of specific changes in the tax base needed to  reach the comprehensive base are given in Congres-
-sional Budget Office (1989).

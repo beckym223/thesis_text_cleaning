@@ -96,5 +96,4 @@ general equilibrium effects of Social Security
 tilt the pretax distribution of income toward
 higher income individuals by reducing capital
 accumulation, which in turn lowers real wages
-and raises the return to capital.  2 See Robert A. Moffitt (2003) for detailed studies of a
-variety of welfare programs.
+and raises the return to capital.

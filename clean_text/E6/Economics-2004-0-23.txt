@@ -25,13 +25,8 @@ from diversification plays out over time, while
 the redistribution required to build up funding
 hurts the oldest cohorts who provide the funding
 and are affected by the diversification argument
-very little or not at all.83 Thus the diversification
-income issues in that some reform proposals have been  packaged with increased tax incentives for individual retire-  ment savings. The debate has not included the possibility of  a mandatory widening of employer-provided retirement in-  come (with a government-provided default) along the lines  of the recent reform in Australia and earlier discussion in the
-United States (President's Commission on Pension Policy,  1981). The diversity in private savings is also relevant for  considering the right size for mandated benefit provision.  80 For example, with an NDC system, the notional assets  in an account earn a notional rate of return that might be set  to equal the growth rate of the wage bill (if other factors are  not too strong). Then, one can consider the correlation  between the return on assets and the growth rate of the wage
-bill over different time horizons. Since the internal rate of
-return in a pay-as-you-go system is related to the timing of  tax payments and benefits as well as the growth rate of the  wage bill, a more complicated correlation could be exam-  ined.
-81 In principle, diversification could also be accom-  plished by swaps of different tax revenues.  82 Throughout this address, I have assumed that the  interest rate is above the growth of wages, so that the  economy is not on the wrong side of the golden-rule level of
-capital.  83 This logic is clear in a two-period model. With more  periods and externalities, one might find a complex way to  argument by itself does not lead to the possibil-
+very little or not at all
+might find a complex way to  argument by itself does not lead to the possibil-
 ity of a Pareto gain from adding funding to an
 unfunded system, just from reducing funding of
 a fully funded defined contribution system.
@@ -76,6 +71,4 @@ do that adequately. Relating benefits to a mea-
 sure of lifetime earnings surely makes sense. A
 progressive benefit formula makes sense to pro-
 vide higher replacement rates for lower earners,
-in order to supplement annual income taxation
-benefit everyone, taking advantage of the externalities to  offset the payment for funding. But I have not seen anyone  show such a possibility.
-MARCH 2004  22
+in order to supp

@@ -85,6 +85,3 @@ a key role in each of the five neutralities. Why
 have economists made such systematic omis-
 sions? The omission of norms from macroeco-
 nomics, as well as from economics more
-84 Also, COLA clauses are asymmetrically positive. See
-footnote 79 above.  85 Empirically there is a theoretical puzzle of excess  sensitivity to monetary shocks (Lawrence J. Christiano,  Martin Eichenbaum, and Charles L. Evans 1998). Christina
-and David Romer (1989) have shown that such a response  occurs with lags that would be surprisingly long if expected  monetary shocks were always neutralized.
