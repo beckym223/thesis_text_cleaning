@@ -12,17 +12,17 @@ the reliability of macroeconomic prediction.
 Forecasting even for short periods remains
 an uncertain art in which neither economists
 nor politicians can have much confidence.
-Many of the most sophisticated and realis-
-tic members of the profession, conscious of
-all these difficulties, have abandoned the at-
-tempt to advise governments on policies
+Many of the most sophisticated and realistic
+members of the profession, conscious of
+all these difficulties, have abandoned the attempt
+to advise governments on policies
 in favor of the more manageable tasks of
 adding to the knowledge base. This may be
 understandable, but it deprives the economic
 policy debate of the input of some very good
 minds and runs the risk of leaving the job of
-interacting with the political arena dispro-
-portionately to those with strong ideological
+interacting with the political arena disproportionately
+to those with strong ideological
 views.
 I. Fragmentation of the Economic Policy Process
 The pluralism of economics pales beside
@@ -36,8 +36,8 @@ impossible to explain to the uninitiated how
 it is supposed to work, let along how it does
 work.
 A well-founded distrust of despots led our
-forefathers not only to opt for representa-
-tive democracy, but to divide power among
+forefathers not only to opt for representative
+democracy, but to divide power among
 the executive and legislative and judicial
 branches, and between the House and the
 Senate. On matters of taxing and spending,
@@ -45,8 +45,8 @@ they were especially protective of the power
 of the people's representatives, making it
 clear that while the president could propose
 taxing and spending, the ultimate authority
-lies with the Congress, subject only to pres-
-idential veto. This divided power creates a
+lies with the Congress, subject only to presidential
+veto. This divided power creates a
 built-in hurdle to making and carrying out
 fiscal policy. The hurdle is low when the
 president is articulating a policy that has
@@ -61,27 +61,27 @@ failure to reduce the huge structural budget
 deficit of the mid-1980's largely reflects the
 fact that the president's solution-drastic
 reduction of the federal role in the domestic
-economy-does not command broad popu-
-lar support.
+economy-does not command broad popular
+support.
 The separation of powers between the
 Congress and the president is basic to our
 system of government and probably worth
-the price of occasional deadlock. The dif-
-ficulties of making economic policy, how-
-ever, are strongly compounded by the pro-
-pensity of our pluralistic society to diffuse
+the price of occasional deadlock. The difficulties
+of making economic policy, however,
+are strongly compounded by the propensity
+of our pluralistic society to diffuse
 power and decision-making authority both
-within the executive branch and within Con-
-gress. With respect to taxing and spending
+within the executive branch and within Congress.
+With respect to taxing and spending
 policy, for example, the simple notion that
-the president proposes and the Congress dis-
-poses is greatly complicated by the fragmen-
-tation of power within each branch. More-
-over, periodic efforts to make the policy
+the president proposes and the Congress disposes
+is greatly complicated by the fragmentation
+of power within each branch. Moreover,
+periodic efforts to make the policy
 process more coherent within each branch,
 while often temporarily successful, have
-added new power centers without consoli-
-dating the old ones.
+added new power centers without consolidating
+the old ones.
 In the executive branch, the trend since
 early in the century has been to centralize
 power in the White House in order to make
@@ -91,12 +91,12 @@ utilize the growing skills of the economics
 profession to that end. But this worthy goal
 has been accomplished in stages, with a new
 institution added at each stage. The creation
-of what is now called the Office of Manage-
-ment of Budget (OMB) in the 1920's made it
+of what is now called the Office of Management
+of Budget (OMB) in the 1920's made it
 possible for the president to review and
 evaluate spending requests and impose a set
-of priorities on his budget proposal to Con-
-gress reflecting his administration's view of
+of priorities on his budget proposal to Congress
+reflecting his administration's view of
 the appropriate size and role of government.
 The creation of the Council of Economic
 Advisers (CEA) in the 1940's provided a

@@ -1,14 +1,14 @@
 III. Social Preference, Social Choice,
 and Impossibility
-The preceding discussion makes abun-
-dant use of the idea of "social preference."
+The preceding discussion makes abundant
+use of the idea of "social preference."
 Should it be dropped, as suggested by
 Buchanan? And if so, what would remain of
 Arrow's impossibility theorem?
 We have to distinguish between two quite
-different uses of the notion of "social pref-
-erence," related respectively to (i) the oper-
-ation of decision mechanisms, and (ii) the
+different uses of the notion of "social preference,
+" related respectively to (i) the operation
+of decision mechanisms, and (ii) the
 making of social welfare judgments. The first
 notion of "social preference" is something
 like the "underlying preference" on which
@@ -16,59 +16,59 @@ choices actually made for the society by
 prevailing mechanisms are implicitly based
 -a kind of "revealed preference" of the
 society.11 This "derivative" view of social
-preference would be, formally, a binary rep-
-resentation of the choices emerging from
+preference would be, formally, a binary representation
+of the choices emerging from
 decision mechanisms.
 The second idea of "social preference"
 as social welfare judgments-reflects a view
 of the social good: some ranking of what
 would be better or worse for the society.
 Such judgments would be typically made by
-a given person or agency. Here too an ag-
-gregation is involved, since an individual
-who is making judgments about social wel-
-fare, or about the relative goodness of dis-
-tinct social states, must somehow combine
-the diverse interests and preferences of dif-
-ferent people.
+a given person or agency. Here too an aggregation
+is involved, since an individual
+who is making judgments about social welfare,
+or about the relative goodness of distinct
+social states, must somehow combine
+the diverse interests and preferences of different
+people.
 Buchanan's objection is quite persuasive
-for the first interpretation (involving deci-
-sion mechanisms), especially since there is
-no a priori presumption that the mecha-
-nisms used must -or even should -neces-
-sarily lead to choices that satisfy the re-
-quirements of binary representation (not to
+for the first interpretation (involving decision
+mechanisms), especially since there is
+no a priori presumption that the mechanisms
+used must -or even should -necessarily
+lead to choices that satisfy the requirements
+of binary representation (not to
 mention the more exacting demands of an
 ordering representation).12 On the other
 hand, the second interpretation does not
 involve this problem, and even an individual
 when expressing a view about social welfare
-needs a concept of this kind.13 When ap-
-plied to the making of social welfare judg-
-ments by an individual or an agency, Arrow's
-impossibility theorem thus cannot be dis-
-puted on the ground that some organic exis-
-tence is being imputed to the society. The
+needs a concept of this kind.13 When applied
+to the making of social welfare judgments
+by an individual or an agency, Arrow's
+impossibility theorem thus cannot be disputed
+on the ground that some organic existence
+is being imputed to the society. The
 amelioration of impossibility must be sought
 elsewhere (see Section IV). However,
 Buchanan's critique of Arrow's theorem
-would apply to mechanisms of social deci-
-sion (such as voting procedures).
+would apply to mechanisms of social decision
+(such as voting procedures).
 Would the dropping of the requirement
 that social choices be based on a binary
 relation-in particular a transitive ordering
 -negate the result in the case of social
 decision mechanisms? A large literature has
 already established that the arbitrariness of
-power, of which Arrow's case of dictator-
-ship is an extreme example, lingers in one
+power, of which Arrow's case of dictatorship
+is an extreme example, lingers in one
 form or another even when transitivity is
-dropped, so long as some regularity is de-
-manded (such as the absence of cycles).'4
+dropped, so long as some regularity is demanded
+(such as the absence of cycles).'4
 There is, however, cause for going further,
 precisely for the reasons identified by
-Buchanan, and to eschew not just the tran-
-sitivity of social preference, but the idea of
+Buchanan, and to eschew not just the transitivity
+of social preference, but the idea of
 social preference itself. All that is needed
 from the point of view of choice is that the
 decision mechanisms determine a "choice

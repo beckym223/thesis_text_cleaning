@@ -14,81 +14,81 @@ trade-off between pensions and wages. Other
 things equal, jobs with higher pension benefits
 should have lower wages because the total
 amount that employers are willing to pay for a
-given worker should not vary with the compo-
-sition of the compensation package and because
+given worker should not vary with the composition
+of the compensation package and because
 workers are willing to trade wages for pensions.
 In Figure 3, the observed trade-off is shown by
 the locus AB, which is the estimated market
 relation of wages to pensions. Note that it is
-positively sloped, but this is not because work-
-ers do not view both wages and pension benefits
+positively sloped, but this is not because workers
+do not view both wages and pension benefits
 as goods. Instead, it reflects the fact that more
 productive workers, who are richer, take some of
 their income in the form of wages and some in the
 form of pensions. The (pl offer function reflects
 the bid by firms to low-productivity workers and
-the (p2 function reflects the bid by firms to high-
-productivity workers. Even if all workers had the
+the (p2 function reflects the bid by firms to highproductivity
+workers. Even if all workers had the
 same preferences, as shown by the dotted offer
 functions (the one to the northeast reflecting
-higher utility), the market equilibrium would se-
-lect points A and B. For any given worker, the
+higher utility), the market equilibrium would select
+points A and B. For any given worker, the
 trade-off would be negative because then the (p or
-0 curves would be relevant. But the market ob-
-serves the AB line, because key productivity fac-
-tors cannot be held constant. The AB line might
+0 curves would be relevant. But the market observes
+the AB line, because key productivity factors
+cannot be held constant. The AB line might
 well be estimated with precision, depending on
 the amount and nature of the data, but it identifies
 neither a firm's nor worker's willingness to trade
 off pensions for wages.
 IV. Diversity and Specialization
-Specialization, division of labor, and the or-
-ganization of work socially create much of the
-diversity observed in economics. In his compel-
-ling discussion, Smith identified scale econo-
-mies as the principal cause of specialization.
+Specialization, division of labor, and the organization
+of work socially create much of the
+diversity observed in economics. In his compelling
+discussion, Smith identified scale economies
+as the principal cause of specialization.
 Instead of working alone and doing everything
 by oneself, it is productive for a worker to join
 teams and assign individual members to a few
 mutually exclusive tasks. The division of labor
 is one of the most important bits of economic
-analysis at the extensive margin. How are pro-
-ductive activities packaged and bundled to-
-gether into jobs, and who works on them?
-For the economy as a whole, the most impor-
-tant reason by far for specialization and division
-of labor are scale economies in utilizing ac-
-quired skills. The returns to investing in a par-
-ticular skill are proportional to the frequency of
+analysis at the extensive margin. How are productive
+activities packaged and bundled together
+into jobs, and who works on them?
+For the economy as a whole, the most important
+reason by far for specialization and division
+of labor are scale economies in utilizing acquired
+skills. The returns to investing in a particular
+skill are proportional to the frequency of
 its subsequent use. This makes it efficient to use
-th'e skills one has already acquired as inten-
-sively as possible and not to spread oneself too
+th'e skills one has already acquired as intensively
+as possible and not to spread oneself too
 thinly over a highly diversified portfolio. These
-same connections between capacity and utiliza-
-tion apply to all capital goods, not only to
-human-capital varieties. The costs of construct-
-ing an office building depend on its size; but
+same connections between capacity and utilization
+apply to all capital goods, not only to
+human-capital varieties. The costs of constructing
+an office building depend on its size; but
 once it is built, it is efficient to keep the offices
-as fully occupied as possible because the mar-
-ginal cost of an unoccupied office is much
+as fully occupied as possible because the marginal
+cost of an unoccupied office is much
 smaller than its average cost.
 Specialization is optimal if learning new
 skills involves significant fixed costs that are
-only loosely linked to the intensity of subse-
-quent utilization. Then it is best to learn a few
+only loosely linked to the intensity of subsequent
+utilization. Then it is best to learn a few
 skills very well and use them all the time. These
 basic forces produce enormous social gains
 from trade. We could all build our own houses
 and educate our own children. Instead, we use
 markets to buy new houses built by expert
-house builders and purchase educational ser-
-vices for our children from expert teachers. The
+house builders and purchase educational services
+for our children from expert teachers. The
 houses are better and the children learn more.
 Specialization and trade are important causes of
 economic diversity among people in society.
 Many aspects of economic diversity and its
 manifestations in economic inequality serve
-valuable social purposes. The fact is that sub-
-stantial inequality is necessary for decentralized
-societies to function. Many components of vari-
-ance of earnings among persons are sustained
+valuable social purposes. The fact is that substantial
+inequality is necessary for decentralized
+societies to function. Many components of variance
+of earnings among persons are sustained

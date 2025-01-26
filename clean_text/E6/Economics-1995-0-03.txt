@@ -2,14 +2,14 @@ Second, another set of problems relates
 to questions raised by James Buchanan
 (1954a,b), which were partly a response to
 Arrow's results, but they are momentous in
-their own right.3 Pointing to "the funda-
-mental philosophical issues" involved in
+their own right.3 Pointing to "the fundamental
+philosophical issues" involved in
 "the idea of social rationality," Buchanan
-(1954a) argued that "rationality or irra-
-tionality as an attribute of the social group
+(1954a) argued that "rationality or irrationality
+as an attribute of the social group
 implies the imputation to that group of an
-organic existence apart from that of its indi-
-vidual components" (p. 116). Buchanan was
+organic existence apart from that of its individual
+components" (p. 116). Buchanan was
 perhaps "the first commentator to interpret
 Arrow's impossibility theorem as the result
 of a mistaken attempt to impose the logic of
@@ -17,86 +17,86 @@ welfare maximization on the procedures of
 collective choice" (Robert Sugden, 1993 p.
 1948). But in addition, he was arguing that
 there was a deep "confusion surrounding
-the Arrow analysis" (not just the impossibil-
-ity theorem but the entire framework used
+the Arrow analysis" (not just the impossibility
+theorem but the entire framework used
 by Arrow and his followers) which ensued
-from the mistaken idea of "social or collec-
-tive rationality in terms of producing results
+from the mistaken idea of "social or collective
+rationality in terms of producing results
 indicated by a social ordering" (Buchanan,
-1960 pp. 88-89). We certainly have to exam-
-ine whether Buchanan's critique negates the
-impossibility results, but we must also inves-
-tigate the more general issues raised by
+1960 pp. 88-89). We certainly have to examine
+whether Buchanan's critique negates the
+impossibility results, but we must also investigate
+the more general issues raised by
 Buchanan.4
 Third, Buchanan's reasoned questioning
 of the idea of "social preference" suggests,
 at the very least, a need for caution in
 imposing strong "consistency properties" in
-social choice, but his emphasis on proce-
-dural judgments may be taken to suggest,
+social choice, but his emphasis on procedural
+judgments may be taken to suggest,
 much more ambitiously, that we should
 abandon altogether consequence-based
-evaluation of social happenings, opting in-
-stead for a procedural approach. In its pure
+evaluation of social happenings, opting instead
+for a procedural approach. In its pure
 form, such an approach would look for
-"right" institutions rather than "good" out-
-comes and would demand the priority of
-appropriate procedures (including the ac-
-ceptance of what follows from these proce-
-dures). This approach, which is the polar
+"right" institutions rather than "good" outcomes
+and would demand the priority of
+appropriate procedures (including the acceptance
+of what follows from these procedures)
+. This approach, which is the polar
 opposite of the welfare-economic tradition
 based on classical utilitarianism of founding
 every decision on an ordering of different
 states of affairs (treating procedures just as
 instruments to generate good states), has
-not been fully endorsed by Buchanan him-
-self, but significant work in that direction
+not been fully endorsed by Buchanan himself,
+but significant work in that direction
 has occurred in public choice theory and in
 other writings influenced by Buchanan's
-work (most notably, in the important contri-
-butions of Robert Sugden [1981, 1986]).
+work (most notably, in the important contributions
+of Robert Sugden [1981, 1986]).
 This contrast is particularly important in
 characterizing rights in general and liberties
 in particular. In the social choice literature,
 these characterizations have typically been
 in terms of states of affairs, concentrating
-on what happens vis-a-vis what the per-
-son wanted or chose to do. In contrast, in
+on what happens vis-a-vis what the person
+wanted or chose to do. In contrast, in
 the libertarian literature, inspired by the
 pioneering work of Robert Nozick (1974),
-and in related contributions using "game-
-form" formulations (most notably, by Wulf
+and in related contributions using "gameform"
+formulations (most notably, by Wulf
 Gaertner, Pattanaik, and Suzumura [1992]),
-rights have been characterized in procedu-
-ral terms, without referring to states of af-
-fairs. We have to examine how deep the
-differences between the disparate formula-
-tions are, and we must also scrutinize their
+rights have been characterized in procedural
+terms, without referring to states of affairs.
+We have to examine how deep the
+differences between the disparate formulations
+are, and we must also scrutinize their
 respective adequacies.
-Fourth, the prospects of rationality in so-
-cial decisions must be fundamentally condi-
-tional on the nature of individual rational-
-ity. There are many different conceptions of
+Fourth, the prospects of rationality in social
+decisions must be fundamentally conditional
+on the nature of individual rationality.
+There are many different conceptions of
 rational behavior of the individual. There is,
 for example, the view of rationality as canny
-maximization of self-interest (the presump-
-tion of human beings as "homo economicus,"
+maximization of self-interest (the presumption
+of human beings as "homo economicus,"
 used in public choice theory, fits into this
 framework). Arrow's (1951) formulation is
-more permissive; it allows social considera-
-tions to influence the choices people make.
-Individual preferences, in this interpreta-
-tion reflect "values" in general, rather than
+more permissive; it allows social considerations
+to influence the choices people make.
+Individual preferences, in this interpretation
+reflect "values" in general, rather than
 being based only on what Arrow calls
-"tastes" (p. 23). How adequate are the re-
-spective characterizations of individual ra-
-tionality, and through the presumption of
+"tastes" (p. 23). How adequate are the respective
+characterizations of individual rationality,
+and through the presumption of
 rational behavior (shared by most economic
 3Dennis C. Mueller (1989) provides an excellent
 introduction to public choice theory and its relation to
 social choice theory. See also Atkinson (1987) and
 Sandmo (1990) on Buchanan's contributions.
-4The canonical treatise on the "public choice" ap-
-proach is Buchanan and Tullock (1962), but it is impor-
-tant to note the differences in emphases between the
+4The canonical treatise on the "public choice" approach
+is Buchanan and Tullock (1962), but it is important
+to note the differences in emphases between the
 appendix by Buchanan and that by Tullock.

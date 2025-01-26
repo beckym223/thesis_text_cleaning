@@ -7,33 +7,33 @@ of their own place within it and of the place of
 their heirs. That also occurred over a very long
 run-over the course of centuries.
 B. Life-Cycle Hypothesis
-Regarding the life-cycle hypothesis, we ar-
-gued that consumption depends upon current
+Regarding the life-cycle hypothesis, we argued
+that consumption depends upon current
 income because norms regarding how much
 people think they should spend are linked to
 it. But such a norm Wyould be highly unlikely
 to change as a result'of the use of fiscal and
 monetary policy for stabilization. In the first
-place, such stabilization will make the adher-
-ence to the norm less costly, not more costly,
-in purely economic terms. Furthermore, mac-
-roeconomic sources are responsible for only a
+place, such stabilization will make the adherence
+to the norm less costly, not more costly,
+in purely economic terms. Furthermore, macroeconomic
+sources are responsible for only a
 small fraction of the variation in individual
 incomes. As a result, there is further reason
 why the role of current income in norms is
-unlikely to change as a result of macroeco-
-nomic stabilization.
+unlikely to change as a result of macroeconomic
+stabilization.
 C. Cash Flow and Investment
 The rise of the CFO suggests that norms
 regarding investment have changed in large US
-firms. Quite possibly, this change occurred be-
-cause firms realized the need for financial con-
-trols that compared the returns on inside and
+firms. Quite possibly, this change occurred because
+firms realized the need for financial controls
+that compared the returns on inside and
 outside options. Such an endogenous response
 would make Modigliani-Miller correct. But,
 following Zorn (2004), this change took 40
-years. In the meantime, in the short run, follow-
-ing our earlier logic, investments would have
+years. In the meantime, in the short run, following
+our earlier logic, investments would have
 depended on cash flow. And, of course, even in
 the long run the CFO, who is only one voice
 among many in corporate decisions, may not be
@@ -43,8 +43,8 @@ Rational Expectations
 Regarding the natural rate hypothesis and
 also the rational expectations hypothesis, we
 saw that they will no longer hold if norms of
-price and wage setting have nominal compo-
-nents. Regarding prices and wages, the most  powerful evidence in favor of norms comes
+price and wage setting have nominal components.
+Regarding prices and wages, the most  powerful evidence in favor of norms comes
 from employees' resistance to money wage
 cuts and customers' resistance to nominal
 price increases. As long as inflation is low, it
@@ -65,8 +65,8 @@ or prices should be. Of course, if inflation
 increases to high levels, the norms for wages
 and prices and the method of calculating
 those norms will change. Exactly how they
-change-with the possibility that they under-
-adjust to increases in inflation when it is low
+change-with the possibility that they underadjust
+to increases in inflation when it is low
 and overadjust when it is high-should be
 empirically investigated.
 E. Where Do the Norms Come From?
@@ -78,14 +78,14 @@ role in macroeconomics. Hopefully, then, it has
 added to the motivation for research on their
 microfoundations.88
 XI. Conclusion
-This lecture has shown that the early Keyne-
-sians got a great deal of the working of the
+This lecture has shown that the early Keynesians
+got a great deal of the working of the
 economic system right, in ways that are denied
 by the five neutralities. As quoted from Keynes
-earlier, they based their models on "our knowl-
-edge of human nature and from the detailed
+earlier, they based their models on "our knowledge
+of human nature and from the detailed
 facts of experience." They used their intuitions
-regarding the norms of how consumers, inves-
-tors, and wage and price setters thought they
+regarding the norms of how consumers, investors,
+and wage and price setters thought they
 88 This lecture has been very much influenced by the
 insights of the Ph.D. thesis of Robert Akerlof (2006) on  preferences for beliefs. His thinking on this subject has  influenced many of the sections of this paper, especially on  consumption and the endogeneity of norms.

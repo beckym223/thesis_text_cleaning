@@ -1,27 +1,27 @@
-one of the important reasons for Chile's con-
-tinued, very impressive economic perfor-
-mance. And it is important, also, in the context
+one of the important reasons for Chile's continued,
+very impressive economic performance.
+And it is important, also, in the context
 of this paper. Living in a world in which real
-cost reductions are a key dynamic force pro-
-ducing economic growth, we must look to the
+cost reductions are a key dynamic force producing
+economic growth, we must look to the
 motivations and preoccupations of those who
 take the critical decisions at the level of the
-firm. For these decisions, it is not only impor-
-tant that the policy framework be good now;
+firm. For these decisions, it is not only important
+that the policy framework be good now;
 the expectation that it will stay good in the
-future is also important. Otherwise, invest-
-ments will tend to be limited to those with
+future is also important. Otherwise, investments
+will tend to be limited to those with
 short horizons and payment periods, and much
-soil, fertile with longer-term economic oppor-
-tunities, will go unplowed.
+soil, fertile with longer-term economic opportunities,
+will go unplowed.
 VI. A Vision of the Growth Process
-Let me now try to summarize my own vi-
-sion of the growth process-the major ele-
-ments of which have been presented here. In
+Let me now try to summarize my own vision
+of the growth process-the major elements
+of which have been presented here. In
 the first place we have the five standard pillars
 of growth-the rate of increase in the labor
-force, the rate of increase in the stock of hu-
-man capital, the increase in the capital stock
+force, the rate of increase in the stock of human
+capital, the increase in the capital stock
 (net investment as a fraction of value added),
 the rate of return which that investment will
 yield (or can be expected to yield) and, last
@@ -31,21 +31,21 @@ Commenting on these in turn, I would note
 that increases in the labor force have taken on
 new meaning in many countries as labor force
 participation rates (particularly those of
-women) have increased. Whereas with a con-
-stant participation rate, the growth rate of the
+women) have increased. Whereas with a constant
+participation rate, the growth rate of the
 labor force is just a proxy for the growth rate
 of population, important increases in labor
-force participation can lead, just by them-
-selves, to significant increases in measured
+force participation can lead, just by themselves,
+to significant increases in measured
 real income per head.
 Concerning increases in the stock of human
 capital, my conviction is that most of their
 contribution to growth is, on the whole, well
-measured by market wages, as in the expres-
-sion XiwiALi. This does not deny the exis-
-tence of externalities due to an increased
-human capital stock; it simply judges their in-
-fluence on the growth rate to be modest in
+measured by market wages, as in the expression
+XiwiALi. This does not deny the existence
+of externalities due to an increased
+human capital stock; it simply judges their influence
+on the growth rate to be modest in
 comparison with the effects of education,
 training, learning-by-doing, etc., that can be
 (and typically are) internalized by those who
@@ -55,15 +55,15 @@ term YjwjALj, and only (via externalities) as
 one of many elements underlying the growth
 residual R'.
 The rate of investment is a veteran on the
-stage of growth analysis. What I would em-
-phasize here is the importance of maintaining
-a clear separation between the rate of invest-
-ment and the rate of saving. Models (like
+stage of growth analysis. What I would emphasize
+here is the importance of maintaining
+a clear separation between the rate of investment
+and the rate of saving. Models (like
 those of the representative consumer) in
 which saving and investment are always
 equal are not much use even for analysis at
-the national level in our modern, interde-
-pendent world. They are even less useful as
+the national level in our modern, interdependent
+world. They are even less useful as
 one goes down to smaller geographical
 regions, and simply cease to make sense as
 one studies the growth process at the levels
@@ -71,34 +71,34 @@ of the industry and the firm.
 The rate of return to investment has in
 many ways been the orphan of our growth
 analysis, having been masked from view by
-our typical representation of capital's contri-
-bution to the growth rate as Sk (AK/K). Here
+our typical representation of capital's contribution
+to the growth rate as Sk (AK/K). Here
 the rate of return (p + 6) is totally hidden
 from view. I deeply urge that more of us get
 into the habit of representing this same term
-as (p + 6)(AKIy). I want to see more atten-
-tion paid to the rate of return because it plays
-such a central role in the motivation of eco-
-nomic agents, and also because changes in it
-are such an important element in understand-
-ing and explaining the growth residual, R'.
+as (p + 6)(AKIy). I want to see more attention
+paid to the rate of return because it plays
+such a central role in the motivation of economic
+agents, and also because changes in it
+are such an important element in understanding
+and explaining the growth residual, R'.
 Table 3 helps explain why I feel this way.
 This table is adapted from Harald Beyer's
 (1996) work. He carried out an analysis of
-the growth experiences of 32 countries rang-
-ing from Sri Lanka to the United States on
-the income scale, and from Iceland to Austra-
-lia on the geographic scale. In Table 3 we
+the growth experiences of 32 countries ranging
+from Sri Lanka to the United States on
+the income scale, and from Iceland to Australia
+on the geographic scale. In Table 3 we
 present results for his ten countries with the
-highest and for his ten countries with the low-
-est GDP growth rates from 1971-1991. In the
+highest and for his ten countries with the lowest
+GDP growth rates from 1971-1991. In the
 second column the calculated average annual
 rate of return is shown. In the third column
 we have capital's contribution to the growth
-rate [z (p + 6) (AKly) ], and in the final col-
-umn the estimated average annual rate of TFP
+rate [z (p + 6) (AKly) ], and in the final column
+the estimated average annual rate of TFP
 growth, all over the same time period.
 Table 3 shows an unequivocal tendency for
 fast-growing countnes to be experiencing high
-rates of return as well as high capital contri-
-butions and high rates of TFP improvement.
+rates of return as well as high capital contributions
+and high rates of TFP improvement.

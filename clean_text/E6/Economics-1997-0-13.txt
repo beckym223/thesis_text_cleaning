@@ -1,15 +1,15 @@
-intervention, such as infant industry protec-
-tion, can be called for.
+intervention, such as infant industry protection,
+can be called for.
 The problem with the argument, as a basis
-for policy, is that it fails to provide any guid-
-ance as to how to distinguish between an infant
+for policy, is that it fails to provide any guidance
+as to how to distinguish between an infant
 that will grow up and a would-be producer
-seeking protection because it is privately prof-
-itable. It is not even clear how one could begin,
+seeking protection because it is privately profitable.
+It is not even clear how one could begin,
 empirically, to identify the domain of the
 externality. Moreover, even if there were a
-producer or producers whose increased pro-
-duction would generate dynamic externalities,
+producer or producers whose increased production
+would generate dynamic externalities,
 it does not follow that any level of protection
 is warranted. And there is nothing in the infant
 industry argument to provide guidance for
@@ -17,47 +17,47 @@ quantifying or estimating the likely magnitude
 of the externality.
 Indiscriminate protection in developing
 countries was defended on infant industry
-grounds with arguments of capital market fail-
-ure, labor market failure (as the costs of train-
-ing, presumably, would be borne by first
+grounds with arguments of capital market failure,
+labor market failure (as the costs of training,
+presumably, would be borne by first
 entrants into industries and then not recouped
-as others hired workers away), costs of in-
-vestments in technology, and uncertainty all
-used. It was not until Baldwin's (1969) sem-
-inal article that it was demonstrated that, even
+as others hired workers away), costs of investments
+in technology, and uncertainty all
+used. It was not until Baldwin's (1969) seminal
+article that it was demonstrated that, even
 when the presumed imperfection existed, it
 was unlikely that infant industry protection
-would help correct it. As Baldwin cogently ar-
-gued, later entrants to an industry might speed
-up their investments if protection made do-
-mestic production more profitable, and the first
+would help correct it. As Baldwin cogently argued,
+later entrants to an industry might speed
+up their investments if protection made domestic
+production more profitable, and the first
 entrant might even be worse off! It was only
-after critical examination of these circum-
-stances that the defenders of the infant indus-
-try case for import substitution became less
+after critical examination of these circumstances
+that the defenders of the infant industry
+case for import substitution became less
 vehement.
 The infant industry argument also is an
-excellent example of a theory that is nonoper-
-ational because criteria for bureaucrats to iden-
-tify cases have not been put forward. Quite
-aside from the unpredictability and immeasur-
-ability of the future time path of costs in new
+excellent example of a theory that is nonoperational
+because criteria for bureaucrats to identify
+cases have not been put forward. Quite
+aside from the unpredictability and immeasurability
+of the future time path of costs in new
 factories and the moral hazard associated with
 asking individual entrepreneurs to indicate
-how much protection they need, there is noth-
-ing to my knowledge in the literature speci-
-fying how the policy maker might instruct a
+how much protection they need, there is nothing
+to my knowledge in the literature specifying
+how the policy maker might instruct a
 bureaucrat to identify (much less measure) a
 dynamic externality if it were present, how an
-incentive-compatible mechanism might be de-
-vised for improving welfare, how the bureau-
-crat might measure the height of warranted
-protection, nor how policy makers might cred-
-ibly commit to temporary protection. Even ex
+incentive-compatible mechanism might be devised
+for improving welfare, how the bureaucrat
+might measure the height of warranted
+protection, nor how policy makers might credibly
+commit to temporary protection. Even ex
 post, it is not entirely clear how one might
-identify an industry as a successful infant: sim-
-ply because a firm became profitable and ex-
-ported does not prove that there was either an
+identify an industry as a successful infant: simply
+because a firm became profitable and exported
+does not prove that there was either an
 externality or a dynamic process at work! 9
 B. Negative Results
 Much of the theorizing that took place was
@@ -66,9 +66,9 @@ That is, analysts sought to find reasons why,
 for example, an exception to free trade should
 be made. Once the principle of comparative
 advantage was laid down as a basis for policy,
-there was little left for theorists to prove sup-
-porting an open trading system, so the chal-
-lenge to theorists was to find conditions under
+there was little left for theorists to prove supporting
+an open trading system, so the challenge
+to theorists was to find conditions under
 which the free trade precept did not hold. As
 theory, these findings were significant, but for
 policy they were unhelpful, and probably
@@ -87,5 +87,5 @@ pages, or other measures of research output
 were devoted to finding exceptions to the
 proposition that comparative advantage should
 form the basis for trade policy, contrasted with
-those focussing on circumstances where pro-
-tection was too high! In undergraduate inter-
+those focussing on circumstances where protection
+was too high! In undergraduate inter-

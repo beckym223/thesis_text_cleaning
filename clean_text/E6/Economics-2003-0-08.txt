@@ -1,18 +1,18 @@
 tials than those we see between fast-growing
 economies like Taiwan and mature economies
-like the United States. This is the kind of evi-
-dence that leads to the use of y values at or near
+like the United States. This is the kind of evidence
+that leads to the use of y values at or near
 1 in applications.
 But the CRRA model has problems. Rajnish
 Mehra and Prescott (1985) showed that if one
 wants to use a stochastic growth model with
 CRRA preferences to account for the entire
-return differential between stocks and bonds-
-historically about 6 percent-as a premium for
-risk, the parameter y must be enormous, per-
-haps 50 or 100.11 Such values obviously cannot
-be squared with (6). This "equity premium puz-
-zle" remains unsolved, and has given rise to a
+return differential between stocks and bondshistorically
+about 6 percent-as a premium for
+risk, the parameter y must be enormous, perhaps
+50 or 100.11 Such values obviously cannot
+be squared with (6). This "equity premium puzzle"
+remains unsolved, and has given rise to a
 vast literature that is clearly closely related to
 the question of assessing the costs of
 instability.12
@@ -21,63 +21,63 @@ three- rather than two-parameter description
 of preferences. Larry G. Epstein and Stanley
 E. Zin (1989, 1991) and Philippe Weil (1990)
 proposed different forms of recursive utility,
-preference families in which there is one pa-
-rameter to determine intertemporal substitut-
-ability and a second one to describe risk
-aversion. The first corresponds to the param-
-eter y in (6), and can be assigned a small
-value to fit estimated average returns to cap-
-ital. Then the risk-aversion parameter can be
+preference families in which there is one parameter
+to determine intertemporal substitutability
+and a second one to describe risk
+aversion. The first corresponds to the parameter
+y in (6), and can be assigned a small
+value to fit estimated average returns to capital.
+Then the risk-aversion parameter can be
 chosen as large as necessary to account for
 the equity premium.
-Thomas D. Tallarini, Jr. (2000) uses prefer-
-ences of the Epstein-Zin type, with an intertem-
-poral substitution elasticity of 1, to construct a
+Thomas D. Tallarini, Jr. (2000) uses preferences
+of the Epstein-Zin type, with an intertemporal
+substitution elasticity of 1, to construct a
 real-business-cycle model of the U.S. economy.
 He finds an astonishing separation of quantity
 and asset price determination: The behavior of
 aggregate quantities depends hardly at all on
 attitudes toward risk, so the coefficient of risk
 aversion is left free to account for the equity
-premium perfectly.13 Tallarini estimates a wel-
-fare cost of aggregate consumption risk of 10
+premium perfectly.13 Tallarini estimates a welfare
+cost of aggregate consumption risk of 10
 percent of consumption, comparable to some
 
 of the supply-side gains cited in Section I, and
 two orders of magnitude larger than the estimate
 I proposed in Section II.14 As Maurice Obstfeld
-(1994) shows, this result is basically the for-
-mula (4) with a coefficient of risk aversion two
+(1994) shows, this result is basically the formula
+(4) with a coefficient of risk aversion two
 orders of magnitude larger than the one I used.
 Fernando Alvarez and Urban J. Jermann
 (2000) take a nonparametric approach to the
-evaluation of the potential gains from stabiliza-
-tion policy, relating the marginal cost of busi-
-ness-cycle risk to observed market prices
+evaluation of the potential gains from stabilization
+policy, relating the marginal cost of business-
+cycle risk to observed market prices
 without ever committing to a utility function.
-Their estimation procedure is based on the ob-
-servation that consumption streams with a wide
+Their estimation procedure is based on the observation
+that consumption streams with a wide
 variety of different risk characteristics-or
 something very nearly equivalent to them-are
 available for sale in securities markets. They
 use a mix of asset-pricing theory and statistical
 methods to infer the prices of a claim to the
-actual, average consumption path and alterna-
-tive consumption paths with some of the uncer-
-tainty removed. They call the price differentials
+actual, average consumption path and alternative
+consumption paths with some of the uncertainty
+removed. They call the price differentials
 so estimated marginal welfare costs, and show
-that they will be upper bounds to the corre-
-sponding total cost: my compensation parame-
-ter A. The basic underlying hypotheses are that
+that they will be upper bounds to the corresponding
+total cost: my compensation parameter
+A. The basic underlying hypotheses are that
 asset markets are complete and that asset-price
 differences reflect risk and timing differences
 and nothing else.
-The gain from the removal of all consump-
-tion variability about trend, estimated in this
-way, is large-around 30 percent of consump-
-tion.15 This is a reflection of the high risk aver-
-sion needed to match the 6-percent equity
+The gain from the removal of all consumption
+variability about trend, estimated in this
+way, is large-around 30 percent of consumption.
+15 This is a reflection of the high risk aversion
+needed to match the 6-percent equity
 premium, and can be compared to Tallarini's
-estimate of 10 percent. But the gain from re-
-moving risk at what Alvarez and Jermann call
+estimate of 10 percent. But the gain from removing
+risk at what Alvarez and Jermann call
 business-cycle frequencies-cycles of eight

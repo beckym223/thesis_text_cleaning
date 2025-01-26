@@ -9,24 +9,24 @@ Note: All price indexes are divided by the output price index.
 E. Communications Equipment and Software
 Communications technology is crucial for the
 rapid development and diffusion of the Internet,
-perhaps the most striking manifestation of in-
-formation technology in the American econ-
-omy.15 Kenneth Flamm (1989) was the first to
+perhaps the most striking manifestation of information
+technology in the American economy.
+15 Kenneth Flamm (1989) was the first to
 compare the behavior of computer prices and
 the prices of communications equipment. He
 concluded that the communications equipment
-prices fell only a little more slowly than com-
-puter prices. Gordon (1990) compared Flamm's
+prices fell only a little more slowly than computer
+prices. Gordon (1990) compared Flamm's
 results with the official price indexes, revealing
 substantial bias in the official indexes.
 Communications equipment is an important
 market for semiconductors, but constant quality
-price indexes cover only a portion of this equip-
-ment. Switching and terminal equipment rely
+price indexes cover only a portion of this equipment.
+Switching and terminal equipment rely
 heavily on semiconductor technology, so that
 product development reflects improvements in
-semiconductors. Grimm's (1997) constant qual-
-ity price index for digital telephone switching
+semiconductors. Grimm's (1997) constant quality
+price index for digital telephone switching
 equipment, given in Figure 3, was incorporated
 into the national accounts in 1996. The output
 of communications services in the NIPA also
@@ -34,18 +34,18 @@ incorporates a constant quality price index for
 cellular phones.
 Much communications investment takes the
 form of the transmission gear, connecting data,
-voice, and video terminals to switching equip-
-ment. Technologies such as fiber optics, micro-
-wave broadcasting, and communications satellites
-have progressed at rates that outrun even the dra-
-matic pace of semiconductor development. An
-example is dense wavelength division multiplex-
-ing (DWDM), a technology that sends multiple
-signals over an optical fiber simultaneously. In-
-stallation of DWDM equipment, beginning in
+voice, and video terminals to switching equipment.
+Technologies such as fiber optics, microwave
+broadcasting, and communications satellites
+have progressed at rates that outrun even the dramatic
+pace of semiconductor development. An
+example is dense wavelength division multiplexing
+(DWDM), a technology that sends multiple
+signals over an optical fiber simultaneously. Installation
+of DWDM equipment, beginning in
 1997, has doubled the transmission capacity of
 fiber-optic cables every 6-12 months.'6
 15 A general reference on the Internet is Soon-Yong Choi
 and Andrew B. Whinston (2000). On Internet indicators,  see: http://www.internetindicators.com/.  16 Rick Rashad (2000) characterizes this as the "demise"
-of Moore's Law. Jeff Hecht (1999) describes DWDM tech-
-nology and provides a general reference on fiber optics.
+of Moore's Law. Jeff Hecht (1999) describes DWDM technology
+and provides a general reference on fiber optics.

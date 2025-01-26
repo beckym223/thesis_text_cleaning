@@ -1,21 +1,21 @@
 Equation (3) allocates ALP growth among three
 sources. The first is capital deepening, the
 growth in capital input per hour worked, and
-reflects the capital-labor substitution. The sec-
-ond is improvement in labor quality and cap-
-tures the rising proportion of hours by workers
+reflects the capital-labor substitution. The second
+is improvement in labor quality and captures
+the rising proportion of hours by workers
 with higher marginal products. The third is TFP
 growth, which contributes point-for-point to
 ALP growth.
 D. Contributions of IT Investment
 Figure 5 depicts the rapid increase in the
-importance of IT services, reflecting the accel-
-erating pace of IT price declines. In 1995-1999
+importance of IT services, reflecting the accelerating
+pace of IT price declines. In 1995-1999
 the capital service price for computers fell 24.81
 percent per year, compared to an increase of
 36.36 percent in capital input from computers.
-As a consequence, the value of computer ser-
-vices grew substantially. However, the current
+As a consequence, the value of computer services
+grew substantially. However, the current
 dollar value of computers was only 1.6 percent
 of gross domestic income in 1999.
 The rapid accumulation of software appears
@@ -25,30 +25,30 @@ for 1995-1999. Nonetheless, firms have been
 accumulating software very rapidly, with real
 capital services growing 16.30 percent per year.
 A possible explanation is that firms respond to
-computer price declines by investing in comple-
-mentary inputs like software. However, a more
+computer price declines by investing in complementary
+inputs like software. However, a more
 plausible explanation is that the price indexes
 used to deflate software investment fail to hold
 quality constant. This leads to an overstatement
 of inflation and an understatement of growth.
-Although the price decline for communica-
-tions equipment during the period 1995-1999 is
+Although the price decline for communications
+equipment during the period 1995-1999 is
 comparable to that of software, investment in
-this equipment is more in line with prices. How-
-ever, prices of communications equipment also
+this equipment is more in line with prices. However,
+prices of communications equipment also
 fail to hold quality constant. The technology of
 switching equipment, for example, is similar to
 that of computers; investment in this category is
-deflated by a constant-quality price index devel-
-oped by BEA. Conventional price deflators are
-employed for transmission gear, such as fiber-
-optic cables. This leads to an underestimate of
+deflated by a constant-quality price index developed
+by BEA. Conventional price deflators are
+employed for transmission gear, such as fiberoptic
+cables. This leads to an underestimate of
 the growth rates of investment, capital stock,
 capital services, and the GDP, as well as an
 overestimate of the rate of inflation.
-Figures 6 and 7 highlight the rising contribu-
-tions IT outputs to U.S. economic growth. Fig-
-ure 6 shows the breakdown between IT and
+Figures 6 and 7 highlight the rising contributions
+IT outputs to U.S. economic growth. Figure
+6 shows the breakdown between IT and
 non-IT outputs for subperiods from 1948 to
-1999, while Figure 7 decomposes the contribu-
-tion of IT into its components. Although the
+1999, while Figure 7 decomposes the contribution
+of IT into its components. Although the

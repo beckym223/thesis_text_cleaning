@@ -7,27 +7,27 @@ for the average worker when the age for full
 benefits was 65.49 With the increase in the age
 for full benefits there will be a small tax at these
 ages. While implicit taxes used to be much
-larger above the age for full benefits, the retire-
-ment test has been eliminated for those ages.
+larger above the age for full benefits, the retirement
+test has been eliminated for those ages.
 With differences in life expectancy, a zero tax
 on an average worker implies that some workers
 are taxed and some are subsidized by the pres-  ence of the retirement test.50
 The retirement test has two effects. One is to
-raise (delayed) monthly benefits for those con-
-tinuing to work. To the extent that a worker
+raise (delayed) monthly benefits for those continuing
+to work. To the extent that a worker
 would have consumed out of benefits received
 while still working, the delay in the start of
 benefits raises later consumption (for both the
 worker and possibly a surviving spouse) since
-more is saved. This is advantageous to the ex-
-tent that consumption falls too much after re-
-tirement.51 The combination of a delay and
+more is saved. This is advantageous to the extent
+that consumption falls too much after retirement.
+51 The combination of a delay and
 increase in benefits is also redistribution across
 workers based on life expectancy along the lines
 discussed above. On the other hand, benefit
-ineligibility while continuing to work discour-
-ages work for those not fully valuing their in-
-creased later benefits and those with shorter life
+ineligibility while continuing to work discourages
+work for those not fully valuing their increased
+later benefits and those with shorter life
 expectancy. Empirical estimates find that the
 overall labor supply effect is modest, suggesting
 that the increase in monthly benefits effect is
@@ -35,20 +35,20 @@ more important. The retirement test also helps
 
 with the risk in earnings trajectories that comes
 from how opportunities to earn (and disutilities)
-develop toward the end of a career. The retire-
-ment test addresses that risk to the extent that
+develop toward the end of a career. The retirement
+test addresses that risk to the extent that
 there is taxation on continued work and those
 continuing to work are less needy on average
 than those who stop working earlier.52 Thus I
 conclude that the retirement test does distort
 labor supply, but that distortion is more than
-offset by the gains from improved lifetime con-
-sumption allocations and increased insurance.
-Limiting the range of ages at which the re-
-tirement test applies makes sense. Otherwise
+offset by the gains from improved lifetime consumption
+allocations and increased insurance.
+Limiting the range of ages at which the retirement
+test applies makes sense. Otherwise
 some of those working to very advanced ages
-would have replacement rates above 100 per-
-cent and, if liquidity-constrained, would prefer
+would have replacement rates above 100 percent
+and, if liquidity-constrained, would prefer
 to have part of benefits while still working.
 Currently the age for the end of the retirement
 test is the age for full benefits. I am not aware of
@@ -59,14 +59,14 @@ I have focused on the retirement decision
 since elasticities here are larger than those with
 earlier labor supply decisions. But younger
 workers pay payroll taxes and anticipate an
-increase in benefits once they retire as a conse-
-quence of the earnings that were subject to tax.
-The effect on labor supply is relevant for choos-
-ing the size of a mandatory retirement income
+increase in benefits once they retire as a consequence
+of the earnings that were subject to tax.
+The effect on labor supply is relevant for choosing
+the size of a mandatory retirement income
 system. This incentive depends on the perceived
 link between taxed earnings and retirement (and
-disability) benefits. While those nearing retire-
-ment age often gather information on the work-
-ings of the system and seek advice on the
+disability) benefits. While those nearing retirement
+age often gather information on the workings
+of the system and seek advice on the
 advantages of different timing of retirement,
 younger workers are not well informed.53 Some

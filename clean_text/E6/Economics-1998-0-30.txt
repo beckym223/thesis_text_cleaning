@@ -1,12 +1,12 @@
-people have in mind when they list efficiency-
-oriented policies as essential ingredients of a
+people have in mind when they list efficiencyoriented
+policies as essential ingredients of a
 program promoting economic growth. It is
 policies of this type that give the right signals
 to the CEOs and the managers down the line,
 that take away trammels that impede their
 quest for real cost reductions, and that create
-an environment in which Schumpeter's pro-
-cess of "creative destruction" can work its
+an environment in which Schumpeter's process
+of "creative destruction" can work its
 wonders.
 APPENDIX ON METHODOLOGY
 The vision of the growth process presented
@@ -19,36 +19,36 @@ into components.
 (a) To measure the real rate of return to
 capital, one must express the numerator (real
 dollars of retum) and the denomiinator (the
-capital stock) in the same units. The most ef-
-ficient way to do this is to measure both output
+capital stock) in the same units. The most efficient
+way to do this is to measure both output
 (value added) and the capital stock in units of
 the GDP deflator. That way one is sure that the
-outputs of all the subaggregates in the econ-
-omy add up to the GDP, and one also satisfies
+outputs of all the subaggregates in the economy
+add up to the GDP, and one also satisfies
 the requirement that the capital and return be
 measured in the same units. This is also the
-way cash flows would be deflated in a stan-
-dard, ex post project evaluation. When this is
+way cash flows would be deflated in a standard,
+ex post project evaluation. When this is
 done at the aggregate level the contribution of
 capital to growth is (p + 5) AK where p is an
-aggregate rate of return to capital, 6 the depre-
-ciation rate (including obsolescence), and AK
+aggregate rate of return to capital, 6 the depreciation
+rate (including obsolescence), and AK
 the net increment to the capital stock in the
 period in question. At a subaggregate level, the
 contribution of capital to growth in activity j
 is (pj + bj) AKj. At both levels, we find that
-high rates of return are an important compo-
-nent of most successful growth episodes.
-(b) To capture the great diversity of the la-
-bor factor, we would like to have a very fine
+high rates of return are an important component
+of most successful growth episodes.
+(b) To capture the great diversity of the labor
+factor, we would like to have a very fine
 breakdown of labor into categories (indexed
 by i). The labor contribution is then liwiALi,
 where wi represents the real wage of category
-i and ALi the change in hours worked by cat-
-egory i. Since the number of relevant catego-
-ries of labor is huge, any such breakdown is
-difficult, and gets more difficult as one disag-
-gregates from economy to sector to branch to
+i and ALi the change in hours worked by category
+i. Since the number of relevant categories
+of labor is huge, any such breakdown is
+difficult, and gets more difficult as one disaggregates
+from economy to sector to branch to
 industry and to firm. This Gordian knot can be
 cut by a simple assumption, similar to what is
 done in most countries to convert residential
@@ -56,30 +56,30 @@ construction to real terms. There, one builds a
 price index of a "standard house" p*, and
 then obtains a quantum of construction C* by
 dividing total construction outlays by the price
-of the standard house. In the resulting aggre-
-gate, each individual residence (i) gets attrib-
-uted a quantum of housing equal to Pi Ip */ In
+of the standard house. In the resulting aggregate,
+each individual residence (i) gets attributed
+a quantum of housing equal to Pi Ip */ In
 this work I define a standard wage w*, which
 I assign to "standard labor" or "raw labor."
 The excess of anybody's actual wage over w *
 is attributed to human capital. The returns to
 natural ability, as well as to formal education,
 training, and experience belong there, under
-this interpretation. High returns due to a dis-
-torted wage structure are not appropriately
-attributable to human capital, but the meth-
-odology would nonetheless be correct in at-
-tributing to the affected labor a marginal
+this interpretation. High returns due to a distorted
+wage structure are not appropriately
+attributable to human capital, but the methodology
+would nonetheless be correct in attributing
+to the affected labor a marginal
 productivity that is measured by the distorted
 high wage.
 The "labor contribution" as measured by
 w*AL* is equal to w* (Q S(wi /w *) AL1 +
 iLi A(w /w*). The second term will be zero
-if the structure of relative wages remains con-
-stant, or even if the weighted average premium
+if the structure of relative wages remains constant,
+or even if the weighted average premium
 does not change. Any changes in the weighted
-average premium will cause the calculated re-
-sidual to be different from those calculated by
+average premium will cause the calculated residual
+to be different from those calculated by
 other methods.
 The "two-deflator method" is characterized
 by the use of a single numeraire-deflator (say,
@@ -89,8 +89,8 @@ the numeraire-deflator, and by the use of a
 standard wage w * and a quantum of labor L *
 equal to the wages bill divided by w *. This is
 the method used by Beyer (1996), Robles
-(1997), and Torre (1997) in their work re-
-ported in this paper.
+(1997), and Torre (1997) in their work reported
+in this paper.
 It goes without saying that the two-deflator
 method is rough. But it is also tremendously
 robust and easily applied. I think of it as being
@@ -98,7 +98,7 @@ really designed for use at the firm level, where
 very commonly we can get data in value
 added, on gross investment, and on the wages
 bill, but know nothing (from standard sources)
-about the quantum of output or about the num-
-ber of total hours worked (or even the total
+about the quantum of output or about the number
+of total hours worked (or even the total
 number of employees used). This opening of
 wide new vistas, of huge new data sets, is what

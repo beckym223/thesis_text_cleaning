@@ -1,13 +1,13 @@
 Under circumstances in which uncertainty
 is overpowering, as Keynes suggested was
 often the case for stock prices, a price may
-remain approximately stable for a consid-
-erable time on the basis of a tacit "conven-
-tion," which market participants come to
-accept. The convention amounts to the as-
-sumption that
-... the existing state of affairs will con-
-tinue indefinitely, except in so far as
+remain approximately stable for a considerable
+time on the basis of a tacit "convention,
+" which market participants come to
+accept. The convention amounts to the assumption
+that
+... the existing state of affairs will continue
+indefinitely, except in so far as
 we have specific reasons to expect a
 change... For, if there exist organized
 investment markets,... an investor can
@@ -15,86 +15,86 @@ legitimately encourage himself with the
 idea that the only risk he runs is that of
 a genuine change in the news over the
 near future, as to the likelihood of which
-he can attempt to form his own judg-
-ment, and which is unlikely to be very
-large. For, assuming that the conven-
-tion holds good, it is only these changes
-which can affect the value of his invest-
-ment, and he need not lose his sleep
+he can attempt to form his own judgment,
+and which is unlikely to be very
+large. For, assuming that the convention
+holds good, it is only these changes
+which can affect the value of his investment,
+and he need not lose his sleep
 merely because he has not any notion
 of what his investment will be worth
 ten years hence.
 [General Theory, pp. 152-53]
 Thus, the price of gold might well, for a
-considerable period of time, fluctuate nar-
-rowly around a level far from the equi-
-librium price at which amounts produced
+considerable period of time, fluctuate narrowly
+around a level far from the equilibrium
+price at which amounts produced
 and consumed would in the long run be
 equal. And so, although to a considerably
 lesser extent, could the price of wheat or tin.
 Yet such a period of approximate stability
 might at any time be upset by a major,
-self-maintaining movement in either direc-
-tion.
+self-maintaining movement in either direction.
+
 IV. Macroeconomic Inventory Theory
-Let us now turn to some of the macroeco-
-nomic implications of this microeconomic
+Let us now turn to some of the macroeconomic
+implications of this microeconomic
 theory of commodity prices and inventories.
 First, and most important, is to recognize
-that there is nothing in standard price the-
-ory-even when we expand it to take account
+that there is nothing in standard price theory-
+even when we expand it to take account
 of speculative demands for inventories, price
 bubbles, or of the possible transmission of
-speculative fever from one market to an-
-other-that implies that the aggregate stock
+speculative fever from one market to another-
+that implies that the aggregate stock
 of inventories, and the rate of aggregate
-inventory accumulation for an entire econ-
-omy should exhibit any systematic variation
+inventory accumulation for an entire economy
+should exhibit any systematic variation
 over time. Random disturbances to supply
 and/or demand for particular commodities
 or products might lead to periods of net
-accumulation or net decumulation of inven-
-tories of those products. But the aggregation
+accumulation or net decumulation of inventories
+of those products. But the aggregation
 of many time-series, each subject to random,
 non-serially-correlated variation, produces
 only a time-series with proportionally smaller
 variation. Thus, several years of systematic
-general accumulation of inventories, fol-
-lowed by substantial periods of general
+general accumulation of inventories, followed
+by substantial periods of general
 decumulation of inventories, finds no basis
 in conventional price theory.
-Yet one of the most obvious macroeco-
-nomic facts of life is the existence of pro-
-nounced cycles, both in the size of aggregate
+Yet one of the most obvious macroeconomic
+facts of life is the existence of pronounced
+cycles, both in the size of aggregate
 inventories and in their rate of accumulation.
-Indeed, of all of the conventional subaggre-
-gates of real national product, the one that
+Indeed, of all of the conventional subaggregates
+of real national product, the one that
 shows the greatest decrease (not merely in
 percentage but in aggregate dollar amount)
 between periods of business expansion and
 of business contraction is, almost invariably,
-that of the net addition to business invento-
-ries. This total typically goes from a large
+that of the net addition to business inventories.
+This total typically goes from a large
 positive amount at business cycle peaks to
 a large negative amount at business cycle
 troughs. This difference exceeds the typical
 cyclical decline in business investment in
-plant and equipment, in residential construc-
-tion, in purchases by consumers or govern-
-ments, or in net exports. The existence of
-these pronounced cycles in aggregate inven-
-tory accumulation has long challenged mac-
-roeconomists to develop theories that might
+plant and equipment, in residential construction,
+in purchases by consumers or governments,
+or in net exports. The existence of
+these pronounced cycles in aggregate inventory
+accumulation has long challenged macroeconomists
+to develop theories that might
 explain this phenomenon. The response to
 this challenge has produced a second and
 macroeconomic literature about inventories,
 that is almost completely nonintersecting
 with microeconomic price theory.
-In this macroeconomic inventory litera-
-ture, prices and price expectations are rare-
-a world of constant change, few if any market par-
-ticipants may share the same model of equilibrium-or
-at least the same and "correct" model. In these situa-
-tions, most market participants may come to realize that
+In this macroeconomic inventory literature,
+prices and price expectations are rarea
+world of constant change, few if any market participants
+may share the same model of equilibrium-or
+at least the same and "correct" model. In these situations,
+most market participants may come to realize that
 there is no price other than the current one that has any
 better claim to being considered the equilibrium price.

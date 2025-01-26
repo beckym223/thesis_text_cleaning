@@ -1,22 +1,22 @@
-generally, can be explained by economists' ad-
-herence to positive economics.86 Friedman's
+generally, can be explained by economists' adherence
+to positive economics.86 Friedman's
 (1953) essay on positive economics describes
 the methodological implications of such belief.
 In particular, he says that economic theorists
-should strive for parsimonious modeling. Ac-
-cording to Friedman, they should even forsake
-realistic assumptions in pursuit of such parsi-
-mony. Maximization models with only objec-
-tive arguments of utility have been defined as
+should strive for parsimonious modeling. According
+to Friedman, they should even forsake
+realistic assumptions in pursuit of such parsimony.
+Maximization models with only objective
+arguments of utility have been defined as
 more parsimonious than models where people,
-additionally, lose utility insofar as they, or oth-
-ers, fail to live up to their standards. As a result,
+additionally, lose utility insofar as they, or others,
+fail to live up to their standards. As a result,
 whatever the empirical validity or relevance of
-such norms, positive economics has a method-
-ological bias against their consideration. It priv-
-ileges models without norms.
-The prescriptions of positive economics re-
-garding the conduct of empirical investigation
+such norms, positive economics has a methodological
+bias against their consideration. It privileges
+models without norms.
+The prescriptions of positive economics regarding
+the conduct of empirical investigation
 compound the bias against norms. Friedman
 says that economists should not pay heed to the
 stated intentions of decision makers, which
@@ -34,16 +34,16 @@ course would arrive at models where people's
 views regarding how they should behave affect
 decision making. But economic tests lack
 power. All economic models are very imprecise
-in their specification of the independent vari-
-able, the nature of the dependent variables, the
+in their specification of the independent variable,
+the nature of the dependent variables, the
 nature of leads and lags, and the nature of
 residuals. Yet worse, most economic problems
 involve simultaneity (as in supply and demand),
 making establishment of causality difficult. In
 almost any instance, such a large number of
-models can be fitted statistically that it is ex-
-tremely hard-and perhaps impossible-to sta-
-tistically reject all the variants of models
+models can be fitted statistically that it is extremely
+hard-and perhaps impossible-to statistically
+reject all the variants of models
 without norms. As a result, the program of
 positive economics-with its initial nulls of  models based only on utility with objective
 variables verified only by statistical hypothesis
@@ -52,8 +52,8 @@ economic phenomena where norms play a role.
 Summers (1986) illustrates the severity of
 this bias. The conventional test of the efficient
 markets hypothesis-that stock prices are the
-expected value of future returns-looks for au-
-tocorrelations of the excess returns on stocks
+expected value of future returns-looks for autocorrelations
+of the excess returns on stocks
 relative to bonds. Following Summers, it would
 take approximately 5,000 years of data with
 such a test to obtain as much as 50 percent
@@ -63,35 +63,35 @@ fundamentals 35 percent of the time. With such
 lack of power, nulls are important. When they
 are not rejected, alternative theories, such as
 those with norms, are not even considered. This
-lecture has illustrated such reversion to norm-
-less nulls. Consumption behavior, investment
+lecture has illustrated such reversion to normless
+nulls. Consumption behavior, investment
 behavior, and wage and price behavior-the three
-most important components of most macro mod-
-els-all display excess sensitivity relative to re-
-spective neutralities. All of these violations could
+most important components of most macro models-
+all display excess sensitivity relative to respective
+neutralities. All of these violations could
 be easily explained by norms. Yet in each case
-economists have sought to explain such viola-
-tions of classical theory by norm-less models.
+economists have sought to explain such violations
+of classical theory by norm-less models.
 In contrast to reliance on statistical testing,
 disciplines other than economics typically put
-much greater weight on a naturalistic ap-
-proach. This approach involves detailed case
+much greater weight on a naturalistic approach.
+This approach involves detailed case
 studies. Such observation of the small often
 has been the key to the understanding of the
 large. To me, the most dramatic example of
 such a relation between the small and the
 large occurs in the structure of life itself.
-Francis Crick and James D. Watson87 conjec-
-tured correctly that if they could describe the
-crystalline structure of a single DNA mole-
-cule, they would have unlocked the secret of
+Francis Crick and James D. Watson87 conjectured
+correctly that if they could describe the
+crystalline structure of a single DNA molecule,
+they would have unlocked the secret of
 life. The duality between the structure of the
-DNA molecule and the way in which organ-
-isms are generated and reproduced is one of
-the most beautiful findings of human knowl-
-edge. It indicates the sense in which Crick and
+DNA molecule and the way in which organisms
+are generated and reproduced is one of
+the most beautiful findings of human knowledge.
+It indicates the sense in which Crick and
 Watson were, indeed, profoundly correct.
 What are the implications for social science?
-Positive economics, with its emphasis on statis-
-tical analysis of populations, would suggest that
+Positive economics, with its emphasis on statistical
+analysis of populations, would suggest that
 86 Some of the thoughts and wording in this section have  been presented in Akerlof (2005).  87 As dramatically described by Watson (1969).

@@ -1,32 +1,32 @@
-investment goods, including information tech-
-nology. Confronted by the fact that constant
+investment goods, including information technology.
+Confronted by the fact that constant
 quality prices of investment goods differ from
-consumption goods prices, they borrow the con-
-cept of embodiment from Solow (1960) in order
-to convert investment goods output into an ap-
-propriate form for measuring capital stock.31
-Investment has two prices, one used in the mea-
-suring output and the other used in measuring
-capital stock. This inconsistency can be re-
-moved by simply distinguishing between out-
-puts of consumption and investment goods, as
+consumption goods prices, they borrow the concept
+of embodiment from Solow (1960) in order
+to convert investment goods output into an appropriate
+form for measuring capital stock.31
+Investment has two prices, one used in the measuring
+output and the other used in measuring
+capital stock. This inconsistency can be removed
+by simply distinguishing between outputs
+of consumption and investment goods, as
 in the national accounts and equation (1). The
 concept of embodiment can then be dropped.
 Perhaps inadvertently, Greenwood et al. have
-revisited the controversy accompanying the in-
-troduction of a constant quality price index for
+revisited the controversy accompanying the introduction
+of a constant quality price index for
 computers into the national accounts. They have
-revived Denison's (1993) proposal to use a con-
-sumption price index to deflate investment in
+revived Denison's (1993) proposal to use a consumption
+price index to deflate investment in
 the NIPA. Denison found this appealing as a
 means of avoiding the introduction of constant
 quality price indexes for computers. Denison's
 approach leads to a serious underestimate of
 GDP growth and an overestimate of inflation.
-Another limitation of the aggregate produc-
-tion function is that it fails to incorporate costs
-of adjustment. Robert E. Lucas, Jr. (1967) pre-
-sented a production model with internal costs of
+Another limitation of the aggregate production
+function is that it fails to incorporate costs
+of adjustment. Robert E. Lucas, Jr. (1967) presented
+a production model with internal costs of
 adjustment. Fumio Hayashi (2000) shows how
 to identify these adjustment costs from James
 Tobin's (1969) Q-ratio, the ratio of the stock
@@ -38,9 +38,9 @@ adjustment are external, as in the production
 possibility frontier (1), asset valuation can be
 modeled separately from production.32
 C. Sources of Growth
-Under the assumption that product and fac-
-tor markets are competitive, producer equilib-
-rium implies that the share-weighted growth
+Under the assumption that product and factor
+markets are competitive, producer equilibrium
+implies that the share-weighted growth
 of outputs is the sum of the share-weighted
 growth of inputs and growth in total factor
 productivity:
@@ -58,9 +58,9 @@ VK,n + VK,c + VK,s + VK,t + VL 1.
 Equation (2) makes it possible to identify the
 contributions of outputs as well as inputs to U.S.
 economic growth. The growth rate of output is
-a weighted average of growth rates of invest-
-ment and consumption goods outputs. The con-
-tribution of each output is its weighted growth
+a weighted average of growth rates of investment
+and consumption goods outputs. The contribution
+of each output is its weighted growth
 rate. Similarly, the growth rate of input is a
 weighted average of growth rates of capital and
 labor services and the contribution of each input
@@ -68,20 +68,20 @@ is its weighted growth rate. The contribution of
 TFP, the growth rate of the augmentation factor
 A in equation (2), is the difference between
 growth rates of output and input.
-Table 6 presents results of a growth account-
-ing decomposition, based on equation (2), for
+Table 6 presents results of a growth accounting
+decomposition, based on equation (2), for
 the period 1948-1999 and various subperiods,
 following Jorgenson and Stiroh (1999, 2000b).
 Economic growth is broken down by output and
 input categories, quantifying the contribution of
-information technology to investment and con-
-sumption outputs, as well as capital inputs.
+information technology to investment and consumption
+outputs, as well as capital inputs.
 These estimates identify computers, software,
 and communications equipment as distinct
 types of information technology.
 Rearranging equation (2), the results can be
-presented in terms of average labor productiv-
-ity (ALP), defined as y = YIH, the ratio of
+presented in terms of average labor productivity
+(ALP), defined as y = YIH, the ratio of
 output Y to hours worked H, and k = KIH is
 the ratio of capital services K to hours worked:
 (3) A Iny== VKA Ink

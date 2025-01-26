@@ -1,37 +1,37 @@
 THE AMERICAN ECONOMIC REVIEW
 Despite the advantages of annuities, we see
 only a small fraction of people doing voluntary
-annuitization.14 Furthermore, those who do an-
-nuitize make very odd choices. They buy nom-
-inal annuities. There is wide popularity of what
-are called guarantees-continued payments af-
-ter death up to some limit.15 Such guarantees
+annuitization.14 Furthermore, those who do annuitize
+make very odd choices. They buy nominal
+annuities. There is wide popularity of what
+are called guarantees-continued payments after
+death up to some limit.15 Such guarantees
 undo some of the underlying annuitization, and
-are a relatively expensive form of holding non-
-annuitized wealth (given the relative adminis-
-trative costs on annuities and other accounts).
+are a relatively expensive form of holding nonannuitized
+wealth (given the relative administrative
+costs on annuities and other accounts).
 They represent an increase in the riskiness of
-one's bequest, not a decrease. That is, an annu-
-ity without a guarantee costs less, allowing one
+one's bequest, not a decrease. That is, an annuity
+without a guarantee costs less, allowing one
 to leave one's heirs a determinate amount in
 present value, rather than a random amount
-depending on the date of death.'6 More gener-
-ally, many features of insurance markets are
+depending on the date of death.'6 More generally,
+many features of insurance markets are
 hard to reconcile with sensible decisions by
-households and the equilibrium industry re-
-sponse we would expect in the presence of
-sensible demands. The extremely limited op-
-tions available for annuitization seem to reflect
+households and the equilibrium industry response
+we would expect in the presence of
+sensible demands. The extremely limited options
+available for annuitization seem to reflect
 the natural response of the supply of insurance  to the nature of demand.17
 Some have tried to explain this limited use of
 annuities by the degree of annuitization that
-already exists in government programs. But vol-
-untary annuitization, while present for centuries
+already exists in government programs. But voluntary
+annuitization, while present for centuries
 before the creation of these programs, was not
 extensive in the population and is unlikely to
-become extensive if the programs were re-
-moved. Asymmetric information is another can-
-didate for explaining this situation, and it does
+become extensive if the programs were removed.
+Asymmetric information is another candidate
+for explaining this situation, and it does
 cause an adverse selection effect on pricing that
 14 There is a thriving market in what are called variable  annuities, but these are tax-favored investment vehicles
 with a bit of insurance included (to get the favorable tax  treatment) and an option to purchase a genuine annuity, an  option that appears to be rarely taken. With the recent  addition of a lump-sum option in many defined benefit  plans, many workers may be forgoing an annuity, although  it is difficult to tell since some may simply be waiting to
@@ -40,17 +40,17 @@ annuitize later.
 2002).
 16 Guarantees may play a role in addressing adverse  selection, but that is, itself, a reflection of poor functioning
 in this market relative to ideals.
-17 Although markets provide both term life insurance  and whole-life contracts, the only annuities in the market are  for payments over the rest of one's life, from the date of the  first payment.  would discourage some individuals from annu-
-itizing. While large systematic differences in
+17 Although markets provide both term life insurance  and whole-life contracts, the only annuities in the market are  for payments over the rest of one's life, from the date of the  first payment.  would discourage some individuals from annuitizing.
+While large systematic differences in
 life expectancy do exist, much of the difference
 is readily attributed to easily measured factors,
-so insurance companies could do more to over-
-come this problem, given the potential for large
+so insurance companies could do more to overcome
+this problem, given the potential for large
 gains to the insured.18 In the United Kingdom,
 there is a sizable market for individual purchase
 of annuities because of a large tax incentive for
-their purchase from assets in tax-favored indi-
-vidual retirement accounts. In the presence of
+their purchase from assets in tax-favored individual
+retirement accounts. In the presence of
 this demand, suppliers are offering annuities
 with better prices for those with "impaired
 lives." We do not see this risk classification in
@@ -72,20 +72,20 @@ the set of insurance products that are marketed
 will reflect the shortcomings of consumer
 understanding-it is very expensive to try to
 sell a product the virtues of which potential
-customers do not understand. I think that with-
-out Social Security, inadequate annuitization
-would be even more widespread than inade-
-quate savings.
-In any event, social security systems in ad-
-vanced countries typically provide benefits as
+customers do not understand. I think that without
+Social Security, inadequate annuitization
+would be even more widespread than inadequate
+savings.
+In any event, social security systems in advanced
+countries typically provide benefits as
 annuities, annuities that are generally indexed to
 prices or wages (or a combination). This is a
-simple application of the view that in a manda-
-tory program, individuals should be given what
+simple application of the view that in a mandatory
+program, individuals should be given what
 we think they would want if they were well-
 18 Antidiscrimination rules do limit the variables that
-insurance companies can recognize in pricing. But more  could readily be done with allowable categories, such as  smoking, type of job, earnings level. The adaptations of the  life insurance market to the presence of adverse selection  are suggestive that adaptations would occur if the market for  annuities were of a comparable size to that for life insur-
-ance.  19 Note that there is considerable risk classification for
+insurance companies can recognize in pricing. But more  could readily be done with allowable categories, such as  smoking, type of job, earnings level. The adaptations of the  life insurance market to the presence of adverse selection  are suggestive that adaptations would occur if the market for  annuities were of a comparable size to that for life insurance.
+19 Note that there is considerable risk classification for
 life insurance.
 6
 MARCH 2004

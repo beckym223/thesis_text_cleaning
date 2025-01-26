@@ -3,35 +3,35 @@ Collins, 1990).
 V. Data Woes
 Why are the data not better? The facts
 themselves are not in dispute. Every decade
-or so a prestigious commission or commit-
-tee produces a report describing in detail
+or so a prestigious commission or committee
+produces a report describing in detail
 various data difficulties and lacunae: the
 Stigler committee report on government
-price statistics (National Bureau of Eco-
-nomic Research, 1961) is still a living docu-
-ment, as are the related Ruggles report
-(Richard Ruggles, 1977), the Rees produc-
-tivity report (National Academy of Sciences,
+price statistics (National Bureau of Economic
+Research, 1961) is still a living document,
+as are the related Ruggles report
+(Richard Ruggles, 1977), the Rees productivity
+report (National Academy of Sciences,
 1979), the Bonnen report (J. T. Bonnen,
-1981), the Creamer GNP improvement re-
-port (D. Creamer, 1977), the recent OTA
+1981), the Creamer GNP improvement report
+(D. Creamer, 1977), the recent OTA
 report (Office of Technology Assessment,
 1989), and many others. But life goes on,
 and change in this area is very slow. Why? I
-don't really have good answers to this ques-
-tion, and the topic itself is much larger than
+don't really have good answers to this question,
+and the topic itself is much larger than
 can be handled in this address, but at least
 three observations come to mind:
 (i) The measurement problems are really
 hard.
-(ii) Economists have little clout in Wash-
-ington, especially as far as data-collec-
-tion activities are concerned. More-
-over, the governmental agencies in
-these areas are balkanized and under-
-funded.
-(iii) We ourselves do not put enough em-
-phasis on the value of data and data
+(ii) Economists have little clout in Washington,
+especially as far as data-collection
+activities are concerned. Moreover,
+the governmental agencies in
+these areas are balkanized and underfunded.
+
+(iii) We ourselves do not put enough emphasis
+on the value of data and data
 collection in our training of graduate
 students and in the reward structure of
 our profession. It is the preparation
@@ -40,60 +40,60 @@ catches the professional eye, not the
 quality of the raw materials in the meal,
 or the effort that went into procuring
 them (Griliches, 1986b).
-In many cases the desired data are un-
-available because their measurement is re-
-ally difficult. After decades of discussion we
-are not even close to a professional agree-
-ment on how to define and measure the
+In many cases the desired data are unavailable
+because their measurement is really
+difficult. After decades of discussion we
+are not even close to a professional agreement
+on how to define and measure the
 output of banking, insutrance, or the stock
-market (see Griliches, 1992). Similar diffi-
-culties arise in conceptualizing the output
-of health services, lawyers, and other con-
-sultants, or the capital stock of R&D. While
+market (see Griliches, 1992). Similar difficulties
+arise in conceptualizing the output
+of health services, lawyers, and other consultants,
+or the capital stock of R&D. While
 the tasks are difficult, progress has been
-made on such topics. The work of Jorgen-
-son and Barbara Fraumeni (1992) on the
+made on such topics. The work of Jorgenson
+and Barbara Fraumeni (1992) on the
 measurement of educational output is an
 example both of what can be done and of
 the difficulties that still remain. But it is not
 reasonable for us to expect the government
-to produce statistics in areas where the con-
-cepts are mushy and where there is little
+to produce statistics in areas where the concepts
+are mushy and where there is little
 professional agreement on what is to be
 measured and how. Much more could be
-done, however, in an exploratory and re-
-search mode.16 Unfortunately, the various
+done, however, in an exploratory and research
+mode.16 Unfortunately, the various
 statistical agencies have been both starved
 for funds and badly led, with the existing
-bureaucratic structure downplaying the re-
-search components of their enterprise when
+bureaucratic structure downplaying the research
+components of their enterprise when
 not being outright hostile to them, research
-being cut first when a budget crunch hap-
-pens (Triplett, 1991).
+being cut first when a budget crunch happens
+(Triplett, 1991).
 Our current statistical structure is badly
 split, there is no central direction, and the
 funding is heavily politicized. How else can
-one explain that the national income ac-
-counts and the BEA as a whole receive only
-one-third, and health and education statis-
-tics each less than one-half of the funds
+one explain that the national income accounts
+and the BEA as a whole receive only
+one-third, and health and education statistics
+each less than one-half of the funds
 allocated to agricultural statistics?17 How
 does one explain the failure of the most
 16I refrain from offering a detailed list of my own
 favorite data improvements; but a census of real wealth
-(i.e., a survey of structure, equipment, and other re-
-sources and their utilization-not just what is on the
+(i.e., a survey of structure, equipment, and other resources
+and their utilization-not just what is on the
 books, but what is actually out there in the field) would
 be high on my list. I would also like to see a survey of
 patent owners on the use and potential value of their
 property rights.  17j am not arguing that too much is being currently
 spent on agricultural statistics. That would require a
 substantive analysis, which has not been done. I am
-saying, however, that the other areas of federal statis-
-tics could use both more funding and a redirection of
+saying, however, that the other areas of federal statistics
+could use both more funding and a redirection of
 existing funding. We are also currently spending far
 more on monthly employment and average hourly
 earnings data than we spend to collect all of the other
-inputs and outputs annually. With Congressional prod-
-ding, we spend much more on local-markets data than
+inputs and outputs annually. With Congressional prodding,
+we spend much more on local-markets data than
 on national-level data.

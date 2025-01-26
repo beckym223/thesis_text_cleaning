@@ -1,13 +1,13 @@
 Conceptual advances have continued
 throughout the past twenty-five years, but
 they have been more in the nature of a
-fleshing out and consolidation of the origi-
-nal breakthroughs with the aid of the
-powerful tools of mathematics and econo-
-metrics. Multiplier analysis, for example,
+fleshing out and consolidation of the original
+breakthroughs with the aid of the
+powerful tools of mathematics and econometrics.
+Multiplier analysis, for example,
 has moved from the theoretical realm into
-large computer models of the economy-
-with the tax cut of 1964 and the surtax of
+large computer models of the economywith
+the tax cut of 1964 and the surtax of
 1968 providing empirical grist for the mill.
 While the models differ on the exact value
 of the multiplier, "a fiscal policy planner
@@ -16,26 +16,26 @@ multiplier of 2" for government spending
 (see Blinder and Solow).
 Coupled with multiplier studies is the
 even more subtle study of the structure
-of the "outside lags," of the timing of re-
-sponses in the economy to changes in
+of the "outside lags," of the timing of responses
+in the economy to changes in
 fiscal policy. Though the empirical efforts
 and debates go on apace, the behavior of
 the cumulative multipliers in a clutch of
 economic models suggests that for any
 given change in fiscal policy, "at least 75
-percent, probably much more, of the ulti-
-mate effect is felt within the first year
+percent, probably much more, of the ultimate
+effect is felt within the first year
 after the initiation of the policy" (Blinder
-and Solow). Although intractable ques-
-tions remain concerning investment re-
-sponses to fiscal policy changes, enough
+and Solow). Although intractable questions
+remain concerning investment responses
+to fiscal policy changes, enough
 has been learned about aggregate demand
-responses to provide two broad general-
-izations about fiscal policy:
+responses to provide two broad generalizations
+about fiscal policy:
 One, the conditions for intelligent
-fiscal policy are met if economic f ore-
-casting can answer two not-very-exact-
-ing questions: Do projected economic
+fiscal policy are met if economic f orecasting
+can answer two not-very-exacting
+questions: Do projected economic
 conditions in the ensuing six to nine
 months call for restraint or stimulus?
 Is the required dosage large or small?
@@ -46,8 +46,8 @@ monetary-fiscal moves than a few large
 ones.
 Implicit in these two generalizations is a
 third one: Given both the internal shifts
-and the external shocks with which stabi-
-lization policy has to cope, a discretionary
+and the external shocks with which stabilization
+policy has to cope, a discretionary
 policy that makes efficient use of feedback
 information will be more effective than
 an automatic policy that locks in on fixed
@@ -56,8 +56,8 @@ Development of a simplified measure of
 fiscal impact revolving around the "full
 employment surplus" (FES) concept is
 another example of the typical process by
-which economists expose error, develop ap-
-proximations of truth, but continue the
+which economists expose error, develop approximations
+of truth, but continue the
 vigorous debate on further improvements.
 First, policy makers had to be weaned
 away from the annually balanced budget
@@ -72,22 +72,22 @@ was converted (in 1961) and another
 decade to capture a Republican White
 House.
 But success on the policy frontier has
-its own pitfalls, both political and eco-
-nomic. What was intended as a measure of
-policy was instead taken as a goal, name-
-ly, a balanced budget at full employment,
+its own pitfalls, both political and economic.
+What was intended as a measure of
+policy was instead taken as a goal, namely,
+a balanced budget at full employment,
 a "self-fulfilling prophecy" as the Nixon
 Administration called it. This erroneously
-implied that the fiscal target should re-
-main fixed regardless of changes in mone-
-tary policy and significant shifts in private
-demand, for example, a plant-and-equip-
-ment boom. Apart from trying to correct
+implied that the fiscal target should remain
+fixed regardless of changes in monetary
+policy and significant shifts in private
+demand, for example, a plant-and-equipment
+boom. Apart from trying to correct
 such misconceptions, economists have had
-to wrestle with the problem of the over-
-statement of the full employment surplus
+to wrestle with the problem of the overstatement
+of the full employment surplus
 when inflation expands revenues faster
 than expenditures, not to mention the
-problem of weighting for differing multi-
-pliers if tax or expenditure components
+problem of weighting for differing multipliers
+if tax or expenditure components
 change sharply. In brief, the advances over

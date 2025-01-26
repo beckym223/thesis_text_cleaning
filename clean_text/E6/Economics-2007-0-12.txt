@@ -1,61 +1,61 @@
-and, with quadratic utility, to uncertain in-
-comes.37 In standard terminology, the value of
+and, with quadratic utility, to uncertain incomes.
+37 In standard terminology, the value of
 her discounted income is called her wealth; the
 amount of that wealth that can be spent without
 its depletion is called permanent income.38 An
 alternative expression of Friedman's hypothesis
 is that consumption depends on permanent  rather than on current income.39
 The permanent income hypothesis may be in
-accordance with most standard economic mod-
-els. Nevertheless, it contradicted prior thinking
+accordance with most standard economic models.
+Nevertheless, it contradicted prior thinking
 about the consumption function. Keynes, and  his followers, believed that current income
-played an especially important role in the de-
-termination of current consumption.
-"The fundamental psychological law [em-
-phasis added], upon which we are entitled
+played an especially important role in the determination
+of current consumption.
+"The fundamental psychological law [emphasis
+added], upon which we are entitled
 to depend with great confidence both a
-priori from our knowledge of human na-
-ture and from the detailed facts of expe-
-rience, is that men are disposed, as a rule
-and on the average, to increase their con-
-sumption as income increases, but not by
-as much as the increase in income" (Key-
-nes, The General Theory, 1936, 96).
+priori from our knowledge of human nature
+and from the detailed facts of experience,
+is that men are disposed, as a rule
+and on the average, to increase their consumption
+as income increases, but not by
+as much as the increase in income" (Keynes,
+The General Theory, 1936, 96).
 It is true that The General Theory discussed a
-long list of other factors that could affect con-
-sumption. The list was sufficiently rich to in-
-clude not only current income, but also all the
+long list of other factors that could affect consumption.
+The list was sufficiently rich to include
+not only current income, but also all the
 other determinants of wealth, such as expected
 future income and the rate of interest. But that
 does not make Keynes's theory identical to
-Friedman's. In the Keynesian theory, consum-
-ers are more sensitive to current income than to
+Friedman's. In the Keynesian theory, consumers
+are more sensitive to current income than to
 other changes in income that have similar effect
 on the consumer's wealth.
 A. Empirical Results and Their Explanation
 A large number of tests have demonstrated the
-excess sensitivity of consumption to current in-
-come, in concert with the Keynesian consumption
+excess sensitivity of consumption to current income,
+in concert with the Keynesian consumption
 function. For example, John Y. Campbell and
-N. Gregory Mankiw (1989) nested both Fried-
-man's view that consumption depends solely on
+N. Gregory Mankiw (1989) nested both Friedman'
+s view that consumption depends solely on
 wealth and the simplified Keynesian view that
 consumption depends solely on income. They
 suppose that a fraction of consumers A are pure
-Keynesians, while a fraction (1 - A) behave ac-
-cording to the permanent income hypothesis; they
+Keynesians, while a fraction (1 - A) behave according
+to the permanent income hypothesis; they
 estimate A from the extent to which consumption
 overreacts to changes in income that would be
-predictable from past changes in income and con-
-sumption. Usefully, then, A gives a natural mea-
-sure of the departure from the permanent income
-hypothesis. The estimates of A are significant sta-
-tistically and also of significant magnitude eco-
-nomically: between 40 and 50 percent (depending
+predictable from past changes in income and consumption.
+Usefully, then, A gives a natural measure
+of the departure from the permanent income
+hypothesis. The estimates of A are significant statistically
+and also of significant magnitude economically:
+between 40 and 50 percent (depending
 upon whether three or five periods are used to
 predict the change in current income).
-Other studies corroborate such excess depen-
-dence on current income: John Shea (1985), for
+Other studies corroborate such excess dependence
+on current income: John Shea (1985), for
 union members whose contracts specified their  37 The simple proof is that her utility-maximizing con-  sumption will depend upon the intercept and the slope of the  budget line. The budget line states that the present dis-  counted value of consumption is the present discounted  value of her future income, which is what Friedman calls
 her wealth. The intercept of the budget line is her wealth.  That is how much she could consume today if she consumed
 nothing tomorrow. And the slope of the budget line is  determined by the rate of interest r: on the budget line for  every unit of c, she gives up (1 + r) units of c2. Her  consumption will be on the highest attainable utility indif-  ference curve. That will be the indifference curve that is just  tangent to the budget line. As a result, we see that, given the

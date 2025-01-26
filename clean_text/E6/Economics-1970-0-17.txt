@@ -1,27 +1,27 @@
 number of dimensions of improvement.30
 So physical capital formation helps the
-improvement process, if for no other rea-
-son than because it increases the number
+improvement process, if for no other reason
+than because it increases the number
 of directions in which improvement can
 proceed. The interaction is mutual: we
 have seen that without any technological
 progress whatever, net physical capital
 formation could not exceed the equivalent
 of the growth of other inputs because less
-labor-intensive machines are different ma-
-chines. Some readers might therefore pre-
-fer the alternative framework outlined at
+labor-intensive machines are different machines.
+Some readers might therefore prefer
+the alternative framework outlined at
 the outset of Section III (see also fn. 21).
 On the whole, I do not believe that we
-would become guilty of gross error by dis-
-regarding these mutual interactions when
+would become guilty of gross error by disregarding
+these mutual interactions when
 using our framework for distinguishing
 between progress-generating activities and
 physical investment provided we stay
 aware of the fact that large changes in the
 scale on which either of these activities is
-pursued have implications for the condi-
-tions under which it is possible to engage
+pursued have implications for the conditions
+under which it is possible to engage
 in the other type of activity. Of this we
 must remain aware.
 V. Progress-Generating Inputs and Costs:
@@ -29,27 +29,27 @@ The Significance of the
 "Unrecorded" Items3"
 From 1953 to 1966 total recorded R & D
 rose from $5.2 billion to $22.2 billion, and
-this represents a better than twofold in-
-increase when R & D is expressed as a
+this represents a better than twofold inincrease
+when R & D is expressed as a
 proportion of the privately produced
-GNP. This proportion rose from 1.6 per-
-cent to 3.3 percent.32 While an appreciable
+GNP. This proportion rose from 1.6 percent
+to 3.3 percent.32 While an appreciable
 part of this increase was "real"-i.e.,
-"physical"- considerable importance at-
-taches to changes in relative values.
-The question of the weight of the real-
-input component versus the relative-valua-
-tion component of the increase of the ratio
+"physical"- considerable importance attaches
+to changes in relative values.
+The question of the weight of the realinput
+component versus the relative-valuation
+component of the increase of the ratio
 of R & D-cost to private GNP is discussed
-quantitatively in Appendix B. This ques-
-tion is of some importance because the
+quantitatively in Appendix B. This question
+is of some importance because the
 relative-valuation component represents
 in part rent-formation-a mere transfer of
 income-rather than a rise of social costs.
-However, in any event, even the relative-
-valuation component represents in good
-part rising social costs, because the rela-
-tively-rising salaries of research workers
+However, in any event, even the relativevaluation
+component represents in good
+part rising social costs, because the relatively-
+rising salaries of research workers
 (and also of teachers) have attracted into
 the progress activities individuals whose
 qualifications and productivity would be
@@ -61,5 +61,5 @@ progress-activities-particularly in reseach
 and higher education-the rent-formation
 accompanying the rise of social costs is
 smaller than in the types of activity mostly
-referred to when the nature of the transfer-
-rent problem is illustrated.33
+referred to when the nature of the transferrent
+problem is illustrated.33

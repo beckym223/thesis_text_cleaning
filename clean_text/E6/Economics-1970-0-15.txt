@@ -11,8 +11,8 @@ reasonably stable. To the extent that these
 assumptions are unrealistic our analysis
 needs to be adjusted, and in Section III, I
 have already pointed out that one type of
-adjustment does not change the conclu-
-sions very much. What should we think of
+adjustment does not change the conclusions
+very much. What should we think of
 the "disembodiment" implication of our
 framework, i.e., of the implication that
 progress leads inter alia to the production
@@ -23,51 +23,51 @@ not seem convincing to me on logical
 grounds, and to my knowledge, no claim of
 empirical superiority has been made, let
 alone established, for these frameworks. As
-I said, all progress is necessarily disem-
-bodied in the sense that new ideas must
+I said, all progress is necessarily disembodied
+in the sense that new ideas must
 always be put into effect with reliance on
 the initially given resources. This is an
-essential constraint under which all econo-
-mies operate. Improved production with
+essential constraint under which all economies
+operate. Improved production with
 the initially given resources then leads to
 more and better capital goods-hence to
-the replacement of old with superior equip-
-ment and structures ("obsolescence")-
+the replacement of old with superior equipment
+and structures ("obsolescence")-
 and it yields more and better consumer
 goods. But all this represents forward, not
 backward, embodiment.
-For various purposes it has proved re-
-warding to interpret progress as "factor-
-augmenting"; yet even if progress is inter-
-preted as purely capital-augmenting, this
+For various purposes it has proved rewarding
+to interpret progress as "factoraugmenting"
+; yet even if progress is interpreted
+as purely capital-augmenting, this
 alone does not change the framework into
-one of embodied progress. Using a frame-
-work in which some input is "augmented"
-merely means expressing the productivity-
-increase of that input as the equivalent of a
+one of embodied progress. Using a framework
+in which some input is "augmented"
+merely means expressing the productivityincrease
+of that input as the equivalent of a
 specific quantity-increase and expressing
 the productivity-increases of other inputs
 as resulting from complementarity. No
 empirical superiority has been claimed for
 this degree of unilateral emphasis on
-capital-i.e., for assuming pure capital-
-augmentation-but at any rate more is
+capital-i.e., for assuming pure capitalaugmentation-
+but at any rate more is
 needed for obtaining "embodiment," in a
 distinctive sense of the term.
 If the embodiment hypothesis is not to
-lose what I consider its essential charac-
-teristic, the additional assumption must be
+lose what I consider its essential characteristic,
+the additional assumption must be
 made that each period's capital-goods
 output can become subject merely to a
-single dose of augmentation which de-
-scribes a specific level of technology; and
-that only the next period's capital goods-
-the next vintage-can become subject to
-the next dose. This, I submit, is an un-
-convincing assumption if we take into
-account why next period's capital goods-
-next period's equipment-models-are su-
-perior to this period's equipment-models.
+single dose of augmentation which describes
+a specific level of technology; and
+that only the next period's capital goodsthe
+next vintage-can become subject to
+the next dose. This, I submit, is an unconvincing
+assumption if we take into
+account why next period's capital goodsnext
+period's equipment-models-are superior
+to this period's equipment-models.
 They are superior because this period's
 initially given equipment-models and labor
 perform better than how these inputs
@@ -81,14 +81,14 @@ not become exhausted in this fashion, then
 a level of technological knowledge ceases
 to be uniquely described by (or embodied
 into) a specific vintage of capital goods.
-In the absence of strong empirical sup-
-port for the hypothesis of pure capital-
-augmentation and of the required addi-
-tional assumption, I have fewer misgivings
-about disembodiment than about embodi-
-ment. Yet while so-called embodiment
+In the absence of strong empirical support
+for the hypothesis of pure capitalaugmentation
+and of the required additional
+assumption, I have fewer misgivings
+about disembodiment than about embodiment.
+Yet while so-called embodiment
 makes too much of the role of new physical
-capital formation in bringing about prog-
-ress, disembodiment implies overlooking
-its progress-promoting effect which prob-
-ably does exist. The existence of this ef-
+capital formation in bringing about progress,
+disembodiment implies overlooking
+its progress-promoting effect which probably
+does exist. The existence of this ef-

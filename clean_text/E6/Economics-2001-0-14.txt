@@ -1,39 +1,39 @@
 and has been used in almost all applications of
 the cost of capital.25
-The second empirical issue is the measure-
-ment of economic depreciation. The stability of
+The second empirical issue is the measurement
+of economic depreciation. The stability of
 patterns of depreciation in the face of changes in
 tax policy and price shocks has been carefully
 documented. The depreciation rates presented
 by Jorgenson and Stiroh (2000b) summarize a
 large body of empirical research on the behavior
 of asset prices.2 A third empirical issue is the
-description of the tax structure for capital in-
-come. This depends on the tax laws prevailing
+description of the tax structure for capital income.
+This depends on the tax laws prevailing
 at each point of time. The resolution of these
-issues has cleared the way for detailed measure-
-ments of the cost of capital for all assets that
-appear in the national accounts, including infor-
-mation technology.27
+issues has cleared the way for detailed measurements
+of the cost of capital for all assets that
+appear in the national accounts, including information
+technology.27
 The definition of capital includes all tangible
 assets in the U.S. economy, equipment and
-structures, as well as consumers' and govern-
-ment durables, land, and inventories. The capi-
-tal service flows from durable goods employed
+structures, as well as consumers' and government
+durables, land, and inventories. The capital
+service flows from durable goods employed
 by households and governments enter measures
-of both output and input. A steadily rising pro-
-portion of these service flows are associated
+of both output and input. A steadily rising proportion
+of these service flows are associated
 with investments in IT. Investments in IT by
 business, household, and government sectors
-must be included in the GDP, along with house-
-hold and government IT capital services, in
+must be included in the GDP, along with household
+and government IT capital services, in
 order to capture the full impact of IT on the U.S.
 economy.
 Table 3 gives capital stocks from 1948 to
 1999, as well as price indexes for total domestic
-tangible assets and IT assets-computers, soft-
-ware, and communications equipment. The es-
-timate of domestic tangible capital stock in
+tangible assets and IT assets-computers, software,
+and communications equipment. The estimate
+of domestic tangible capital stock in
 Table 3 is $35.4 trillions in 1999, considerably
 greater than the $27.9 trillions in fixed capital
 estimated by Shelby W. Herman (2000) of
@@ -45,51 +45,51 @@ equipment by households and governments,
 have grown spectacularly in recent years, but
 remain relatively small. The stocks of all IT
 assets combined account for only 4.35 percent
-of domestic tangible capital stock in 1999. Ta-
-ble 4 presents estimates of the flow of capital
+of domestic tangible capital stock in 1999. Table
+4 presents estimates of the flow of capital
 services and corresponding price indexes for
 1948-1999.
-The difference between growth in capital ser-
-vices and capital stock is the improvement in
+The difference between growth in capital services
+and capital stock is the improvement in
 capital quality. This represents the substitution
 towards assets with higher marginal products.
 The shift toward IT increases the quality of
-capital, since computers, software, and commu-
-nications equipment have relatively high mar-
-ginal products. Capital stock estimates fail to
-account for this increase in quality and substan-
-tially underestimate the impact of IT investment
+capital, since computers, software, and communications
+equipment have relatively high marginal
+products. Capital stock estimates fail to
+account for this increase in quality and substantially
+underestimate the impact of IT investment
 on growth.
 The growth of capital quality is slightly less
 than 20 percent of capital input growth for the
 period 1948-1995. However, improvements in
-capital quality have increased steadily in rela-
-tive importance. These improvements jumped
+capital quality have increased steadily in relative
+importance. These improvements jumped
 to 44.9 percent of total growth in capital input
 during the period 1995-1999, reflecting very
 rapid restructuring of capital to take advantage
 of the sharp acceleration in the IT price decline.
-Capital stock has become progressively less ac-
-curate as a measure of capital input and is now
+Capital stock has become progressively less accurate
+as a measure of capital input and is now
 seriously deficient.
 Figure 5 gives the IT capital service flows as
 a share of gross domestic income. The second
 panel of Table 2 summarizes the growth rates of
 prices and quantities of capital inputs for 1990-
-1995 and 1995-1999. Growth of IT capital ser-
-vices jumps from 11.51 percent per year in
+1995 and 1995-1999. Growth of IT capital services
+jumps from 11.51 percent per year in
 1990-1995 to 19.41 percent in 1995-1999,
-while growth of non-IT capital services in-
-creases from 1.72 percent to 2.94 percent. This
+while growth of non-IT capital services increases
+from 1.72 percent to 2.94 percent. This
 reverses the trend toward slower capital growth
 through 1995.
 C. Labor Services
 This subsection presents estimates of labor
 input for the U.S. economy from 1948 to 1999.
-These incorporate individual data from the Cen-
-suses of Population for 1970, 1980, and 1990,
-as well as the annual Current Population Sur-
-veys. Constant quality indexes for the price and  25 See, for example, Jorgenson et al. (1987 pp. 40-49)
+These incorporate individual data from the Censuses
+of Population for 1970, 1980, and 1990,
+as well as the annual Current Population Surveys.
+Constant quality indexes for the price and  25 See, for example, Jorgenson et al. (1987 pp. 40-49)
 and Jorgenson and Griliches (1996).
 26 Jorgenson and Stiroh (2000b Table B4 pp. 196-97)
 give the depreciation rates employed in this study. Barbara

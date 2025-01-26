@@ -4,88 +4,88 @@ seventy-five years or so, takes a normative
 stance by default.9 Indeed, it takes a
 normative stance by more than default. It
 says outright that the primary question to
-which economists should address them-
-selves is the "optimum" allocation of re-
-sources, and it insists on providing a pre-
-cise definition of optimum. (Compare
+which economists should address themselves
+is the "optimum" allocation of resources,
+and it insists on providing a precise
+definition of optimum. (Compare
 Ward, pp. 52-54, 90.) Since, as Koopmans
 points out, competitive equilibrium theory
-ignores the welfare implications of the per-
-sonal distribution of income that results,
+ignores the welfare implications of the personal
+distribution of income that results,
 "the term 'optimum' [is] a misnomer"
 (p. 49). (See also Ward, pp. 197-98.)
 My remarks thus far have been directed
-toward microeconomics. But macro-eco-
-nomic analysis also must face the problem
+toward microeconomics. But macro-economic
+analysis also must face the problem
 of how optimally to combine rigor and
-relevance. What we today call macro-
-economics grew out of the catastrophe of
+relevance. What we today call macroeconomics
+grew out of the catastrophe of
 the Great Depression,'0 and in the early
 development of macro-economic analysis
-relevance took precedence over rigor. To-
-day, rigor competes with relevance in
+relevance took precedence over rigor. Today,
+rigor competes with relevance in
 macro-economic and monetary theory, and
 in some lines of development macro and
-monetary theorists, like many of their col-
-leagues in micro theory, seem to consider
+monetary theorists, like many of their colleagues
+in micro theory, seem to consider
 relevance to be more or less irrelevant. A
 good example has been the elaboration of
 so-called growth theory Ahich now seems
 to be losing some of its earlier popularity.
 Apparently, there has come to be a growing
 recognition that the considerable efforts
-spent on growth models have not signifi-
-cantly advanced knowledge beyond the
+spent on growth models have not significantly
+advanced knowledge beyond the
 contributions of the original Harrod-Domar
 and the Solow-Swan neoclassical models.
 And other intriguing topics have arisen to
-stimulate the pursuit of rigor at the ex-
-pense of relevance.
-In both micro- and macroeconomics, ef-
-forts are sometimes made to extract a drop
-or two of relevance from exercises in ana-
-lytical rigor; and conclusions are drawn
+stimulate the pursuit of rigor at the expense
+of relevance.
+In both micro- and macroeconomics, efforts
+are sometimes made to extract a drop
+or two of relevance from exercises in analytical
+rigor; and conclusions are drawn
 about the functioning of some aspect of
 the real world, or policy recommendations
-are made, on the basis of theoretical exer-
-cises which rest on assumptions that fly in
+are made, on the basis of theoretical exercises
+which rest on assumptions that fly in
 the face of the facts. One example is the
-frequent fitting of the neoclassical invest-
-ment function, with its built-in assump-
-tions of constant returns and perfect com-
-petition, to industries in which these as-
-sumptions obviously do not hold. Another
-example is a good deal of the recent litera-
-ture seeking to reformulate the micro-
-economic foundations of macro-economic
+frequent fitting of the neoclassical investment
+function, with its built-in assumptions
+of constant returns and perfect competition,
+to industries in which these assumptions
+obviously do not hold. Another
+example is a good deal of the recent literature
+seeking to reformulate the microeconomic
+foundations of macro-economic
 theory and policy-what Edmund Phelps
-(1969, 1972) has termed "The New Micro-
-economics in Inflation and Employment
+(1969, 1972) has termed "The New Microeconomics
+in Inflation and Employment
 Theory." The theoretical analysis in much
 of this literature rests on assumptions that
 also fly in the face of the facts. To cite a
-few examples: all unemployment is a vol-
-untary activity as part of a search proce-
-dure in which workers are continuously
+few examples: all unemployment is a voluntary
+activity as part of a search procedure
+in which workers are continuously
 equating costs and prospective benefits at
 the margin; the labor supply is typically
-taken to be homogeneous with perfect mo-
-bility among labor submarkets; so-called
+taken to be homogeneous with perfect mobility
+among labor submarkets; so-called
 structural unemployment is ignored as are
 the striking differences in unemployment
 rates among different age, sex, ethnic, and
 occupational groups; and downward wage
 flexibility is generally assumed, although
 some recent attempts have been made to
-relax this assumption. Another related re-
-cent development in which theory pro-
-ceeds with impeccable logic from unrealis-
-tic assumptions to conclusions that contra-
-dict the historical record, is the recent
+relax this assumption. Another related recent
+development in which theory proceeds
+with impeccable logic from unrealistic
+assumptions to conclusions that contradict
+the historical record, is the recent
 work on rational expectations. (Compare
-Robert J. Gordon.) And, as a final illustra-
-tion I might cite much of the recent litera-
-ture on capital theory.
+Robert J. Gordon.) And, as a final illustration
+I might cite much of the recent literature
+on capital theory.
 II
 I turn now from the first part of my title
 to the second from rigor and relevance to

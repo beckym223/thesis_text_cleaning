@@ -1,8 +1,8 @@
 Barbara and Ann both think that their employer
 should give them a nominal wage increase.
-Another study, with a different form of ques-
-tionnaire, independently found a similar re-
-sponse. Robert Shiller found that 49 percent of
+Another study, with a different form of questionnaire,
+independently found a similar response.
+Robert Shiller found that 49 percent of
 a sample of the general public either fully or
 weakly agreed with the following statement: "If
 my pay went up, I would feel more satisfaction
@@ -14,21 +14,21 @@ in the case of Ann and Barbara, such opinions
 are consistent with the view that workers think
 their employers should give them a nominal
 wage increase: they will be disappointed when
-it does not occur. Shiller's finding may be sim-
-ilar to the public's view of Ann and Barbara.
-But, as he reports, it is also in stark disagree-
-ment with the view of professional economists
-that underlies natural rate theory. Ninety per-
-cent of economists weakly or strongly disagreed
+it does not occur. Shiller's finding may be similar
+to the public's view of Ann and Barbara.
+But, as he reports, it is also in stark disagreement
+with the view of professional economists
+that underlies natural rate theory. Ninety percent
+of economists weakly or strongly disagreed
 with the statement; 77 percent were in complete
 disagreement.77
-Such norms-regarding the wage or salary in-
-crease that employees think they should receive--
+Such norms-regarding the wage or salary increase
+that employees think they should receive--
 can be economically consequential. They cause
 the long-run inflation-unemployment trade-off
 to be downward sloping. With such a norm, at
-higher levels of inflation workers will not expe-
-rience disappointment from receiving lower
+higher levels of inflation workers will not experience
+disappointment from receiving lower
 nominal wage increases than they think they
 should receive; therefore, at higher inflation,
 ceteris paribus, wage bargains will result in
@@ -37,12 +37,12 @@ price that the firm wants to set, and therefore
 raise the rate of sustainable employment. There
 is a need for further research following Shafir,
 Diamond, and Tversky and Shiller regarding
-whether workers have norms regarding the nom-
-inal wage increases they think they should receive.
-High Inflation.-The opinions expressed re-
-garding Barbara and Ann, and also the opinions
-of Shiller's respondents, suggest that the long-
-run trade-off between inflation and employment
+whether workers have norms regarding the nominal
+wage increases they think they should receive.
+High Inflation.-The opinions expressed regarding
+Barbara and Ann, and also the opinions
+of Shiller's respondents, suggest that the longrun
+trade-off between inflation and employment
 is upward sloping. These answers were elicited
 in the United States and thus are reflective of
 respondents' views in an environment where
@@ -50,18 +50,18 @@ inflation has been low. But if inflation is very  high and therefore also very s
 to such questionnaires could be very different.
 And they could impart a very different shape to
 the trade-off between macroeconomic demand
-and steady-state inflation.78 In such cases, peo-
-ple may gain satisfaction only from wage and
+and steady-state inflation.78 In such cases, people
+may gain satisfaction only from wage and
 salary increases that exceed inflation. Such
 norms regarding how employers should behave
-will then necessitate higher real wages (to main-
-tain the same level of satisfaction) at higher
-levels of inflation. The long-run inflation-
-employment relation will then be downward
+will then necessitate higher real wages (to maintain
+the same level of satisfaction) at higher
+levels of inflation. The long-run inflationemployment
+relation will then be downward
 sloping. Such behavior gives a much stronger
 rationale, even than current rational-expectations
-credibility models (Barro and Gordon 1983; Ken-
-neth Rogoff 1987), why central banks should
+credibility models (Barro and Gordon 1983; Kenneth
+Rogoff 1987), why central banks should
 maintain price stability. Failure to appreciate this
 realistic possibility again may be another case in
 which the absence of norms from utility functions

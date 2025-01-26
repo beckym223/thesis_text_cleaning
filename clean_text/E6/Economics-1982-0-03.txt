@@ -1,19 +1,19 @@
 The address of the departing president is
 no place for modesty. Nevertheless, I must
 resist the temptation to describe the analysis
-I will report here as anything like a revolu-
-tion. Perhaps terms such as "rebellion" or
-"uprising" are rather more apt. But, never-
-theless, I shall seek to convince you that the
+I will report here as anything like a revolution.
+Perhaps terms such as "rebellion" or
+"uprising" are rather more apt. But, nevertheless,
+I shall seek to convince you that the
 work my colleagues, John Panzar and Robert
-Willig, and I have carried out and encapsu-
-lated in our new book enables us to look at
+Willig, and I have carried out and encapsulated
+in our new book enables us to look at
 industry structure and behavior in a way that
 is novel in a number of respects, that it
 provides a unifying analytical structure to
 the subject area, and that it offers useful
-insights for empirical work and for the for-
-mulation of policy.
+insights for empirical work and for the formulation
+of policy.
 Before getting into the substance of the
 analysis I admit that this presidential address
 is most unorthodox in at least one significant
@@ -33,15 +33,15 @@ time for rebellion is ripe it seems to break
 out simultaneously and independently in a
 variety of disconnected centers each offering
 its own program for the future. Events here
-have been no different. I have recently re-
-ceived a proposal for a conference on new
-developments in the theory of industry struc-
-ture formulated by my colleague, Joseph
+have been no different. I have recently received
+a proposal for a conference on new
+developments in the theory of industry structure
+formulated by my colleague, Joseph
 Stiglitz, which lists some forty participants,
 most of them widely known. Among those
 working on the subject are persons as well
-known as Caves, Dasgupta, Dixit, Fried-
-laender, Grossman, Hart, Levin, Ordover,
+known as Caves, Dasgupta, Dixit, Friedlaender,
+Grossman, Hart, Levin, Ordover,
 Rosse, Salop, Schmalensee, Sonnenschein,
 Spence, Varian, von Weiszacker, and
 Zeckhauser, among many others.' It is, of
@@ -63,8 +63,8 @@ analysis, we must look enthusiastically upon
 our fellow rebels as comrades in arms, each
 of whom has made a crucial contribution to
 the common cause.
-Turning now to the substance of the the-
-ory, let me begin by contrasting our results
+Turning now to the substance of the theory,
+let me begin by contrasting our results
 with those of the standard theory. In offering
 this contrast, let me emphasize that much of
 the analysis rests on work that appeared

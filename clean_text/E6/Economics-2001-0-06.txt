@@ -14,33 +14,33 @@ Note: All price indexes are divided by the output price index.
 C. Constant Quality Price Indexes
 The behavior of semiconductor prices is a
 severe test for the methods used in the official
-price statistics. The challenge is to separate ob-
-served price changes between changes in semi-
-conductor performance and changes in price
+price statistics. The challenge is to separate observed
+price changes between changes in semiconductor
+performance and changes in price
 that hold performance constant. Achieving this
 objective has required a detailed understanding
-of the technology, the development of sophisti-
-cated measurement techniques, and the intro-
-duction of novel methods for assembling the
+of the technology, the development of sophisticated
+measurement techniques, and the introduction
+of novel methods for assembling the
 requisite information.
 Ellen R. Dulberger (1993) of IBM introduced
 a "matched model" index for semiconductor
 prices. A matched model index combines price
-relatives for products with the same perfor-
-mance at different points of time. Dulberger
+relatives for products with the same performance
+at different points of time. Dulberger
 presented constant quality price indexes based
 on index number formulas, including the
 [Irving] Fisher (1922) ideal index used in the
 U.S. national accounts. 1 1 The Fisher index is the
 geometric average of the familiar Laspeyres and
 Paasche indexes.
-W. Erwin Diewert (1976) defined a superla-
-tive index number as an index that exactly
-replicates aflexible representation of the under-
-lying technology (or preferences). A flexible
-representation provides a second-order approx-
-imation to an arbitrary technology (or prefer-
-ences). A. A. Konus and S. S. Byushgens
+W. Erwin Diewert (1976) defined a superlative
+index number as an index that exactly
+replicates aflexible representation of the underlying
+technology (or preferences). A flexible
+representation provides a second-order approximation
+to an arbitrary technology (or preferences)
+. A. A. Konus and S. S. Byushgens
 (1926) first showed that the Fisher ideal index is
 superlative in this sense. Laspeyres and Paasche
 indexes are not superlative and fail to capture
@@ -50,9 +50,9 @@ Grimm (1998) combined matched model
 techniques with hedonic methods, based on an
 econometric model of semiconductor prices at
 different points of time. A hedonic model gives
-the price of a semiconductor product as a func-
-tion of the characteristics that determine perfor-
-mance, such as speed of processing and storage
+the price of a semiconductor product as a function
+of the characteristics that determine performance,
+such as speed of processing and storage
 capacity. A constant quality price index isolates
 the price change by holding these characteristics
 of semiconductors fixed.

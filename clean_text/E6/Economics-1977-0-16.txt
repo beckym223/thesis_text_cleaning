@@ -1,7 +1,7 @@
-ness cycle obsolete?" (see Martin Bronfen-
-brenner, editor). No one seemed to question the
-greater postwar stability of all Western econ-
-omies-nor is this surprising when one recalls
+ness cycle obsolete?" (see Martin Bronfenbrenner,
+editor). No one seemed to question the
+greater postwar stability of all Western economies-
+nor is this surprising when one recalls
 that around that time business cycle specialists
 felt so threatened by the new-found stability that
 they were arguing for redefining business cycles
@@ -9,12 +9,12 @@ as fluctuations in the rate of growth rather than
 in the level of output.
 It was recognized that the reduced severity of
 fluctuations might in part reflect structural
-changes in the economy and the effect of stron-
-ger built-in stabilizers, inspired, of course, by
+changes in the economy and the effect of stronger
+built-in stabilizers, inspired, of course, by
 the Keynesian analysis. Furthermore, the greater
-stability in the United States, and in other indus-
-trialized countries, are obviously not indepen-
-dent events. Still, at least as of the time of that
+stability in the United States, and in other industrialized
+countries, are obviously not independent
+events. Still, at least as of the time of that
 conference, there seemed to be little question
 and some evidence that part of the credit for the
 greater stability should go to the conscious and
@@ -25,10 +25,10 @@ V. The Case of Supply Shocks and the
 A. Was the 1974 Depression Due to Errors of
 Commission or Omission?
 In pointing out our relative postwar stability
-and the qualified success of stabilization poli-
-cies, I have carefully defined the postwar period
-as ending somewhere in 1973. What has hap-
-pened since that has so tarnished the reputation
+and the qualified success of stabilization policies,
+I have carefully defined the postwar period
+as ending somewhere in 1973. What has happened
+since that has so tarnished the reputation
 of economists? In facing this problem, the first
 question that needs to be raised is whether the
 recent combination of unprecedented rates of
@@ -37,8 +37,8 @@ traced to crimes of commission or omission. Did
 our monetary and fiscal stabilization policies
 misfire, or did we instead fail to use them?
 We may begin by establishing one point that
-has been blurred by monetarists' blanket indict-
-ments of recent monetary policy: the virulent
+has been blurred by monetarists' blanket indictments
+of recent monetary policy: the virulent
 explosion that raised the four-quarter rate of
 inflation from about 4 percent in 1972 to 6.5
 percent by the third quarter of 1973, to 11.5
@@ -50,8 +50,8 @@ growth from the beginning of 1970 to the second
 half of 1974 was close to 7 percent. To be sure,
 this was a high rate and could be expected sooner
 or later to generate an undesirably high inflation
--but how high? Under any reasonable assump-
-tion one cannot arrive at a figure much above 6
+-but how high? Under any reasonable assumption
+one cannot arrive at a figure much above 6
 percent. This might explain what happened up to
 the fall of 1973, but not from the third quarter
 of 1973 to the end of 1974, which is the really
@@ -77,15 +77,15 @@ peak, was largely the result of the astronomic
 rise in interest rates around the middle of the
 year. That rise in turn was the unavoidable result
 of the Fed's stubborn refusal to accommodate,
-to an adequate extent, the exogenous inflation-
-ary shock due to oil, by letting the money supply
+to an adequate extent, the exogenous inflationary
+shock due to oil, by letting the money supply
 growth exceed the 6 percent rate announced at
-the beginning of the year. And this despite re-
-peated warnings about that unavoidable result
+the beginning of the year. And this despite repeated
+warnings about that unavoidable result
 (see, for example, the author 1974).
 Monetarists have suggested that the sharp
-recession was not the result of too slow a mone-
-tary growth throughout the year, but instead of
+recession was not the result of too slow a monetary
+growth throughout the year, but instead of
 the deceleration that took place in the last half of
 1974, and early 1975. But this explanation just
 does not stand up to the facts. The fall in the

@@ -3,22 +3,22 @@ changing structure and role of the family
 bring in their train. The state of our cities
 with all their problems of poverty, crime
 and deteriorating education, and all their
-exposure to the pressures of racial con-
-centration and frustration, should be a suffi-
-cient reminder. All are bound up with the
+exposure to the pressures of racial concentration
+and frustration, should be a sufficient
+reminder. All are bound up with the
 productivity growth process itself. They are
 sources of antagonism, conflict, and decline
-of personal quality which will work to con-
-strain growth unless moderated.
+of personal quality which will work to constrain
+growth unless moderated.
 VIII
-In the new, less-favorable growth environ-
-ment, the tensions between productivity and
+In the new, less-favorable growth environment,
+the tensions between productivity and
 other welfare goals are screwed several
 notches tighter. The success of our mixed
 economy and pluralistic society in the next
 generation will depend heavily on how those
-tensions are managed. In present circum-
-stance, therefore, economic progress turns
+tensions are managed. In present circumstance,
+therefore, economic progress turns
 very largely on the policies we pursue, on
 what we do through government, and how
 we do it. As things now stand, however, we
@@ -32,28 +32,28 @@ The gaps in our knowledge define the job
 for economics. Virtually every facet of the
 way productivity depends on policy involves
 matters of fact still to be established. What
-is the elasticity of substitution between en-
-ergy and other resources, and how much
+is the elasticity of substitution between energy
+and other resources, and how much
 will it cost us in future output if we forego
-the cheapest mode of increasing energy sup-
-plies in order to provide a greater degree of
+the cheapest mode of increasing energy supplies
+in order to provide a greater degree of
 protection for environment and people?
 What are the full benefits and what are the
 full costs of other environmental or safety
 measures as now legislated and applied? And
-how much could we save if we sought simi-
-lar levels of protection more efficiently by
+how much could we save if we sought similar
+levels of protection more efficiently by
 making larger use of market incentives as
 regulatory devices? What are the effects of
-different levels and-just as important-
-different types of taxes and transfers on the
+different levels and-just as importantdifferent
+types of taxes and transfers on the
 supplies of saving, investment, and risky
 enterprise, and on the supply of labor and
 the quality of people? What is the full range
 of our government expenditure which has
 the character of capital formation-and
-what are the returns to investment in educa-
-tion and in research and development? What
+what are the returns to investment in education
+and in research and development? What
 would our progress in productivity look like
 if we tracked it by a system of national
 accounts more relevant to long-term change
@@ -62,9 +62,9 @@ national product? The questions go on and
 on. These are matters to which, for the most
 part, economists have only recently turned.
 They are now being attacked with vigor,
-which is testimony to the fact that the ag-
-gravated tension between measured produc-
-tivity growth and other welfare goals is
+which is testimony to the fact that the aggravated
+tension between measured productivity
+growth and other welfare goals is
 eliciting a constructive response. There are
 promising beginnings of useful analytical
 and empirical work, and these will benefit
@@ -72,8 +72,8 @@ from future experience and experiment. At
 the same time, our knowledge about this
 entire range of questions continues to be
 uncertain.
-The weakness of our knowledge, more-
-over, is matched, probably exceeded, by the
+The weakness of our knowledge, moreover,
+is matched, probably exceeded, by the
 weakness of the political institutions and
 procedures through which that knowledge
 must be brought to bear. The structure of
@@ -96,6 +96,6 @@ welfare and training programs are uniformly effective
 emollients and remedies for the dislocations and
 maladjustments of growth. Nor does it mean that our
 present income-support programs may not, in some
-instances, have little-understood, deleterious side ef-
-fects on family life and individual quality. Nor does it
+instances, have little-understood, deleterious side effects
+on family life and individual quality. Nor does it
 mean that we now know how to do better.

@@ -1,45 +1,45 @@
-education experiment designed to alter smok-
-ing and other risks for heart disease (Nathan
+education experiment designed to alter smoking
+and other risks for heart disease (Nathan
 Maccoby and Douglas S. Solomon, 1981).
-Identical regressions of smoking on school-
-ing were estimated at age 17 and at age 24,
+Identical regressions of smoking on schooling
+were estimated at age 17 and at age 24,
 with schooling measured in both cases as the
-number of years the individual would even-
-tually complete. The most striking result was
+number of years the individual would eventually
+complete. The most striking result was
 the absence of any increase in the size of the
 schooling coefficient between the ages of 17
 and 24. The additional schooling could not
-be the cause of the differential smoking be-
-havior (and by extension the differential
+be the cause of the differential smoking behavior
+(and by extension the differential
 health associated with smoking) at age 24
-because the differences in smoking were al-
-ready evident at age 17, before the dif-
-ferences in schooling had emerged (Philip
+because the differences in smoking were already
+evident at age 17, before the differences
+in schooling had emerged (Philip
 Farrell and Fuchs, 1982) .20
 In my judgment, the most likely explanation
 for the high correlation between health and
 schooling is that both reflect differences in
 time preference (Fuchs, 1982). Both health
-and schooling are aspects of investment in hu-
-man capital; differences among individuals in
+and schooling are aspects of investment in human
+capital; differences among individuals in
 time preference that are established at an early
-age could result in different amounts of in-
-vestment in health and education.21
+age could result in different amounts of investment
+in health and education.21
 Although I believe there have been many
 fruitful interactions between economics and
 health, the political debate over health care
 reform in 1993-1994 benefited much less
-than it could have from the insights of econ-
-omists. Possible explanations for the failure
+than it could have from the insights of economists.
+Possible explanations for the failure
 of health economics research to have more
 impact on policy are explored in the next
 section.
 II. The Present
 George Stigler's Presidential Address to the
 American Economic Association in December
-1964 was distinctive in its emphasis on proph-
-ecy over preaching. To be specific, Stigler pre-
-dicted that economics was "at the threshold of
+1964 was distinctive in its emphasis on prophecy
+over preaching. To be specific, Stigler predicted
+that economics was "at the threshold of
 its golden age" (Stigler, 1965 p. 17) because
 "the age of quantification is now full upon us"
 (p. 16). The growth of empirical estimation
@@ -48,32 +48,32 @@ very first magnitude" (p. 17). He believed
 that empirical research would have an impact
 on policy far beyond anything possible from
 theory alone because "a theory can usually be
-made to support diverse policy positions. The-
-ories present general relationships, and which
-part of a theory is decisive in a particular con-
-text is a matter of empirical evidence" (p. 13).
-With regard to health care, Stigler's predic-
-tion of a vast expansion in empirical research
+made to support diverse policy positions. Theories
+present general relationships, and which
+part of a theory is decisive in a particular context
+is a matter of empirical evidence" (p. 13).
+With regard to health care, Stigler's prediction
+of a vast expansion in empirical research
 has been amply fulfilled. During the past 30
 years economists have published thousands of
 empirical articles on various aspects of health
-and medical care. But the shallow and incon-
-clusive debate over health policy in 1993-
+and medical care. But the shallow and inconclusive
+debate over health policy in 1993-
 1994 contradicts his expectation that this
 research would narrow the range of partisan
 disputes and make a significant contribution to
 the reconciliation of policy differences.22 What
 went wrong?
-One possibility is that the research was in-
-conclusive. If health economists cannot agree
+One possibility is that the research was inconclusive.
+If health economists cannot agree
 among themselves, why should their research
-have a salutary effect on public policy? Sec-
-ond, even if the research were conclusive, it
+have a salutary effect on public policy? Second,
+even if the research were conclusive, it
 would not be of much help to policy if the
 results were not adequately disseminated to a
 wider audience. A third possible explanation
-is that the policy debate foundered on differ-
-ences in values, differences which could not
+is that the policy debate foundered on differences
+in values, differences which could not
 be reconciled by empirical research, however
 conclusive and however well disseminated.
 To gain some insight into these matters,
@@ -86,11 +86,11 @@ schooling and smoking is only evident for cohorts that
 reached age 17 after the information about the effects of
 smoking on health became available. It is also of interest
 that the relationship has not diminished for more recent
-cohorts even though the information about the nega-
-tive consequences of smoking has become more widely
+cohorts even though the information about the negative
+consequences of smoking has become more widely
 available.
-21 There are alternative or complementary "third vari-
-able" explanations possible; compare Albert Bandura's
+21 There are alternative or complementary "third variable"
+explanations possible; compare Albert Bandura's
 (1991) concept of self-efficacy.  22 Stigler's optimism regarding the impact of empirical
 research on policy may have had more vindication in other
 fields, but my research into family issues (Fuchs, 1983)

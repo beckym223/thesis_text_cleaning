@@ -5,90 +5,90 @@ flux: new products, new processes, new
 tastes and fashions, new developments of
 land and niatural resources, obsolescent
 industries and (leclining areas.
-The overlap of vacancies and unem-
-ployment--say, the sum of the two for
+The overlap of vacancies and unemployment-
+-say, the sum of the two for
 any given difference between them--is a
-measure of the heterogeneity or disper-
-sion of individual markets. The amount of
+measure of the heterogeneity or dispersion
+of individual markets. The amount of
 (lispersion (lepen(1s directly on the size of
 those shocks of demand anid technology
-that keep markets in perpetual disequilib-
-riumn, and inversely on the responsive mo-
-bility of labor. The one increases, the other
+that keep markets in perpetual disequilibriumn,
+and inversely on the responsive mobility
+of labor. The one increases, the other
 diminishes the frictional component of
-unemployment, that is, the number of un-
-filled vacancies coexisting with any given
+unemployment, that is, the number of unfilled
+vacancies coexisting with any given
 unemployment rate.
 A central assumptioin of the theory is
 that the functions relating wage change
 to excess demand or supply are non-linear,
 specifically that unemployment retards
-money wages less than vacancies acceler-
-ate them. Noinlinearity in the response of
-wages to excess demand has several im-
-portant implications. First, it helps to
-explain the characteristic observed curva-
-ture of the Phillips curve. Each successive
+money wages less than vacancies accelerate
+them. Noinlinearity in the response of
+wages to excess demand has several important
+implications. First, it helps to
+explain the characteristic observed curvature
+of the Phillips curve. Each successive
 increment of unemployment has less effect
 in reducing the rate of inflation. Linear
 wage response, on the other hand, would
 mean a linear Phillips relation.
-Second, given the overall state of aggre-
-gate demand, economy-wide vacancies less
+Second, given the overall state of aggregate
+demand, economy-wide vacancies less
 unemployment, wage inflation will be
 greater the larger the variance among
 markets in excess (lemand and supply.
 As a number of recent empirical studies,
 have confirmed (see George Perry and
-Charles Schultze), dispersion is infla-
-tionary. Of course, the rate of wage
+Charles Schultze), dispersion is inflationary.
+Of course, the rate of wage
 inflation will depend not only on the
 overall (lispersion of excess demands and
 supplies across markets but also on the
-particular markets where the excess sup-
-plies and demands happen to fall. An un-
-lucky random (Irawing might put the
-excess demands in highly responsive mar-
-kets and the excess supplies in especially
+particular markets where the excess supplies
+and demands happen to fall. An unlucky
+random (Irawing might put the
+excess demands in highly responsive markets
+and the excess supplies in especially
 unresponsive ones.
-Third, the nonlinearity is an explana-
-tion of inflationary bias, in the following
+Third, the nonlinearity is an explanation
+of inflationary bias, in the following
 sense. Even when aggregate vacancies are
-at most equal to unemployment, the aver-
-age disequilibrium component will be
+at most equal to unemployment, the average
+disequilibrium component will be
 positive. Full employment in the sense of
 equality of vacancies and unemployment
 is not compatible with price stability.
 Zero inflation requires unemployment in
 excess of vacancies.
 Criteria that coincide in full long-run
-equilibrium zero inflation and zero ag-
-gregate excess demand diverge in sto-
-chastic macro-equilibrium. Full long-run
+equilibrium zero inflation and zero aggregate
+excess demand diverge in stochastic
+macro-equilibrium. Full long-run
 equilibrium in all markets would show no
-unemployment, no vacancies, no unantici-
-pated inflation. But with unending sec-
-toral flux, zero excess (lemand spells in-
-flation and zero inflation spells net excess
-supply, unemployment in excess of va-
-cancies. In these circumstances neither
+unemployment, no vacancies, no unanticipated
+inflation. But with unending sectoral
+flux, zero excess (lemand spells inflation
+and zero inflation spells net excess
+supply, unemployment in excess of vacancies.
+In these circumstances neither
 criterion can be justified simply because it
 is a property of full long-run equilibrium.
-Both criteria automatically allow for fric-
-tional unemployment incident to the re-
-quired movements of workers between
+Both criteria automatically allow for frictional
+unemployment incident to the required
+movements of workers between
 markets; the no-inflation criterion requires
 enough additional unemployment to wipe
 out inflationary bias.
-' I turn now to the equilibrium compo-
-nent, the rate of wage increase in a market
+' I turn now to the equilibrium component,
+the rate of wage increase in a market
 with neither excess demand nor excess
 supply. It is reasonable to suppose that the
 equilibrium component depends on the
-trend of wages of comparable labor else-
-where. A "competitive wage," one that
-reflects relevant trends fully, is what em-
-ployers will offer if they wish to maintain
+trend of wages of comparable labor elsewhere.
+A "competitive wage," one that
+reflects relevant trends fully, is what employers
+will offer if they wish to maintain
 their share of the volume of employment.
 TI his will happen where the rate of growth
 of marginal revenue product the com-

@@ -1,13 +1,13 @@
-prospective accounting period would be is-
-sued to each firm on the basis of the gross
-markups for a corresponding preceding pe-
-riod, plus or minus adjustments for changes
+prospective accounting period would be issued
+to each firm on the basis of the gross
+markups for a corresponding preceding period,
+plus or minus adjustments for changes
 in prime inputs such as labor and invested
 capital. These warrants would be issued in
 sufficient total face value to correspond to
 the value at a desired price level of the
-output expected to be produced by the in-
-puts against which the warrants were issued.
+output expected to be produced by the inputs
+against which the warrants were issued.
 They would be freely tradable for cash in a
 competitive market, and if at the end of the
 accounting period a firm is found to have
@@ -22,20 +22,20 @@ market price of the warrants.
 Adjustment of the warrant issue for
 changes in investment could be made simply
 on the basis of a uniform percentage of
-such change. Adjustment for changes in em-
-ployment is somewhat more difficult: a flat
+such change. Adjustment for changes in employment
+is somewhat more difficult: a flat
 amount per employee or man-hour takes
-too little account of variations in qualifica-
-tions, while to allow adjustments equal to
+too little account of variations in qualifications,
+while to allow adjustments equal to
 payrolls would run a danger of allowing
 inflationary wage increases. Some formula
 such as a percentage of payrolls plus a flat
 amount per employee might be satisfactory;
 such a formula would involve a certain bias
-in favor of the employment of low-skill la-
-bor, which may be considered desirable in
-view of the fact that this is where the unem-
-ployment problem is most serious.
+in favor of the employment of low-skill labor,
+which may be considered desirable in
+view of the fact that this is where the unemployment
+problem is most serious.
 Administration would seem to pose no
 insurmountable problems. Determination of
 gross markups is essentially no different than
@@ -43,11 +43,11 @@ the assessment of a value-added tax such as
 is widespread in Europe. Adjustment for
 investment can be made on the basis of
 accounts already needed for income-tax
-purposes, while adjustments for employ-
-ment can be related to the social-security
+purposes, while adjustments for employment
+can be related to the social-security
 records. Some special methods may have to
-be developed for dealing with the self-
-employed and very small firms, and possibly
+be developed for dealing with the selfemployed
+and very small firms, and possibly
 some classes of firms could be excluded
 from the scheme, as is sometimes done with
 the value-added tax.
@@ -55,12 +55,12 @@ XII. Prospects for Rapidly Reaching
 Genuine Full Employment
 With such a scheme in place, what can we
 plan for in terms of getting from where we
-are to full employment? Currently unem-
-ployment is reported as about 7.5 percent,
+are to full employment? Currently unemployment
+is reported as about 7.5 percent,
 and full employment can be reckoned at
 about 1.5 percent, giving a slack to be made
-up of 6 percent. Using Okun's ratio of per-
-centage change in GNP to percentage
+up of 6 percent. Using Okun's ratio of percentage
+change in GNP to percentage
 change in reported unemployment of 2.5,
 we have a slack of 15 percent to be made
 up. If this slack can be taken up within two
@@ -68,18 +68,18 @@ years, this will be 7.5 percent per year; if to
 this we add 2.5 percent for growth in the
 labor force and in productivity, we get 10-
 percent annual growth in GNP over two
-years. After two years, we hit the full-
-employment ceiling, and growth thereafter
-will be limited to the labor force and pro-
-ductivity factor, possibly between 2 percent
+years. After two years, we hit the fullemployment
+ceiling, and growth thereafter
+will be limited to the labor force and productivity
+factor, possibly between 2 percent
 and 4 percent.
 Is public finance up to the job of reaching
 the goals thus defined in terms of the limits
-of our real resources? Possibly, but it re-
-quires breaking new ground. One would
+of our real resources? Possibly, but it requires
+breaking new ground. One would
 have to begin with increasing government
-recycling as rapidly as possible by 8-10 per-
-cent of GNP in order to inaugurate the
+recycling as rapidly as possible by 8-10 percent
+of GNP in order to inaugurate the
 1.0-percent growth rate. How rapidly this
 could be done would of course depend on
 the political and legislative ambience. From
@@ -88,13 +88,13 @@ way to do this is by tax cuts. Unfortunately,
 if tax cuts are temporary they tend to be
 viewed as windfalls to be saved rather than
 spent, so that only part of the tax cuts are
-effectively recycled. Alternatively, if not an-
-nounced as temporary, tax cuts tend to cre-
-ate a resistance to later tax increases called
+effectively recycled. Alternatively, if not announced
+as temporary, tax cuts tend to create
+a resistance to later tax increases called
 for by full-employment conditions and large
 debt-service requirements. This is especially
-threatening in the present context of politi-
-cal campaigning on the basis of promises of
+threatening in the present context of political
+campaigning on the basis of promises of
 no new taxes. Perhaps the best tax cut would
 be a cut in the payroll taxes, as promising
 the maximum proportion of recycling, if this

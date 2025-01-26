@@ -7,8 +7,8 @@ price vector consistent with equilibrium for
 this firm. That is, whatever his price vector,
 his market will at some time be vulnerable to
 partial or complete takeover by an entrant
-who has neither superior skills nor techno-
-logical superiority and whose entrance
+who has neither superior skills nor technological
+superiority and whose entrance
 increases the quantities of resources used up
 in production. In other words, here the
 invisible hand proves incapable of protecting
@@ -21,24 +21,24 @@ on the world market of the Dutch by the
 English, the English by the Germans and the
 Americans, and the Americans, perhaps, by
 the Japanese.
-The proof of our proposition on the inter-
-temporal vulnerability of incumbents to en-
-try that is premature from the viewpoint of
+The proof of our proposition on the intertemporal
+vulnerability of incumbents to entry
+that is premature from the viewpoint of
 cost minimization does require just a little
 bit of algebra. To keep our analysis simple, I
-will divide time into two periods, each last-
-ing z =45 years so that capacity in the first
+will divide time into two periods, each lasting
+z =45 years so that capacity in the first
 period is, optimally, just sufficient to satisfy
 all demand, but in the second, it requires the
-construction of added capacity to meet de-
-mand growth because, by assumption, antic-
-ipatory construction to meet growth more
+construction of added capacity to meet demand
+growth because, by assumption, anticipatory
+construction to meet growth more
 than z years in the future simply is too
 costly. Also for simplicity, I will assume that
-there are no costs other than cost of con-
-struction. Of course, neither this nor the use
-of only two periods really affects the argu-
-ment in any way. My only three substantive
+there are no costs other than cost of construction.
+Of course, neither this nor the use
+of only two periods really affects the argument
+in any way. My only three substantive
 assumptions are that demand is growing with
 time, that there are economies of scale, that
 is, declining average costs in construction,
@@ -49,12 +49,12 @@ the growth in quantity demanded that will
 occur beyond that date.
 The argument, like the notation, is now
 straightforward. Let y, be output in period t,  P, be price in period t, and K(y) be the cost
-of construction of capacity sufficient to pro-
-duce (a maximum of) y units per period.
+of construction of capacity sufficient to produce
+(a maximum of) y units per period.
 Here, both p, and K(y) are expressed in
 discounted present value.4
-Then, by assumption, our firm will con-
-struct at the beginning of the first period
+Then, by assumption, our firm will construct
+at the beginning of the first period
 capacity just sufficient to produce output y,
 at cost K(y,) and at the beginning of the
 second period it will produce the rest of the
@@ -80,8 +80,8 @@ to cover the cost, K(y,), of the entrant's
 once-and-for-all construction. That is, entry
 will be profitable unless
 (2) plyl + P2Y1 - K(y1).
-Thus, the prices in question cannot con-
-stitute an equilibrium unless (2) as well as (1)
+Thus, the prices in question cannot constitute
+an equilibrium unless (2) as well as (1)
 are satisfied.
 Now, subtracting (2) from (1) we obtain
 immediately

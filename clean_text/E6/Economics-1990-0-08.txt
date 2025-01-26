@@ -11,10 +11,10 @@ better measure of long-term well-being. In
 fact, under certain simplifying assumptions,
 the bases of taxes on the discounted present
 value of income and expenditure are the
-same over a lifetime. Assuming perfect capi-
-tal markets, constant discount rates that ap-
-ply equally to all people under all circum-
-stances, tax rates that are constant and
+same over a lifetime. Assuming perfect capital
+markets, constant discount rates that apply
+equally to all people under all circumstances,
+tax rates that are constant and
 proportional, and no gifts and bequests, the
 present values of lifetime expenditures of
 people with the same (discounted) lifetime
@@ -22,57 +22,57 @@ incomes are the same regardless of when the
 incomes are consumed.26
 Advocates of the expenditure tax regard
 the lifetime perspective as a major advastage
-because it permits them to pretend that tax-
-ing consumption is equivalent to taxing per-
-sonal endowments. A tax on endowments, if
+because it permits them to pretend that taxing
+consumption is equivalent to taxing personal
+endowments. A tax on endowments, if
 they could be measured, would avoid the
 distortionary effects of either an income tax
 or an expenditure tax. If it is assumed that
-lifetime consumption approximates exidow-
-ment, then taxing consumption at flAtXand
+lifetime consumption approximates exidowment,
+then taxing consumption at flAtXand
 constant rates treats equally all taxpayers
-with the same endowment.27 The totaly' un-
-realistic assumptions underlying this line of
+with the same endowment.27 The totaly' unrealistic
+assumptions underlying this line of
 reasoning strain credulity, but it doestteem
-to lie behind the strong support for thQ ex-
-penditure tax by many economists.
+to lie behind the strong support for thQ expenditure
+tax by many economists.
 The lifetime perspective has little merit
 even without the endowment rationale. In
 my view, it is difficult enough to measure
 economic circumstances over relatively short
 periods. Taxation of lifetime consumption
 (or income) hardly seems appropriate in a
-world of changing tax rates, substantial fam-
-ily instability, economic and political change,
-and uncertainty. Except for the attractive-
-ness of the arithmetic, lifetime economic
+world of changing tax rates, substantial family
+instability, economic and political change,
+and uncertainty. Except for the attractiveness
+of the arithmetic, lifetime economic
 circumstances as measured by discounted
 lifetime incomes or consumption cannot be
 regarded as satisfactory indexes of ability to
-pay.28 Moreover, taxation of annual con-
-sumption expenditures at graduated rates
+pay.28 Moreover, taxation of annual consumption
+expenditures at graduated rates
 would destroy the identity of lifetime taxes
-of taxpayers with the same (discounted) life-
-time incomes.
-The expenditure tax is alleged to be supe-
-rior to the income tax on the additional
-ground that the income tax reduces the re-
-turn on saving and therefore encourages cur-
-rent as against future consumption. Even if
+of taxpayers with the same (discounted) lifetime
+incomes.
+The expenditure tax is alleged to be superior
+to the income tax on the additional
+ground that the income tax reduces the return
+on saving and therefore encourages current
+as against future consumption. Even if
 saving remained unchanged, the distortion
 generates a welfare loss for consumers. It has
 been pointed out by many economists that
-this effect must be balanced against the wel-
-fare cost of further distorting the choice
-between labor and leisure. There is no theo-
-retical basis for judging whether the welfare
-gain from eliminating the intertemporal dis-
-tortion of consumption would exceed the
-welfare loss from increasing the intratempo-
-ral distortion of the labor-leisure choice.29
+this effect must be balanced against the welfare
+cost of further distorting the choice
+between labor and leisure. There is no theoretical
+basis for judging whether the welfare
+gain from eliminating the intertemporal distortion
+of consumption would exceed the
+welfare loss from increasing the intratemporal
+distortion of the labor-leisure choice.29
 A tax that omits saving from the tax base
-can be shown to be the same as a tax apply-
-ing only to labor income and exempting all
+can be shown to be the same as a tax applying
+only to labor income and exempting all
 property income.30 Several expenditure tax
 25For analyses of the relative merits of the iitiome
 and expenditure taxes, see Kaldor (1955), Misgave
@@ -80,8 +80,8 @@ and expenditure taxes, see Kaldor (1955), Misgave
 Bradford (1986).
 26The identity of lifetime incomes and expenditures
 holds when there are gifts to others and beu ts,
-provided the gifts and bequests are counted as dendi-
-tures. Aaron and Galper (1985) defined such a taks a  "lifetime" income tax, arguing that "there is nrdigical
+provided the gifts and bequests are counted as denditures.
+Aaron and Galper (1985) defined such a taks a  "lifetime" income tax, arguing that "there is nrdigical
 reason why a particular astronomical regularitp31iAild
 be enshrined in the tax law" (pp. 21-22). 9)
 27  27See Bradford (1980), pp. 106-9, Bradford (1986 p.
@@ -98,5 +98,5 @@ Gravelle (1988 and 1989).
 income tax in present value terms, this assumes that tax
 and interest rates remain constant over a lifetime and
 there are no gifts and bequests. Let s = saving, w =
-wages, c = consumption, r = the interest rate, and as-
-sume that saving in the first period is consumed during
+wages, c = consumption, r = the interest rate, and assume
+that saving in the first period is consumed during

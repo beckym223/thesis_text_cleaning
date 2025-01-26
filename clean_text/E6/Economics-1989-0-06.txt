@@ -1,51 +1,51 @@
 that in both cases the security services are
 merely inputs which should not be taken to
 change our measure of final product. With
-the massive increases in expenditures for na-
-tional defense in recent years-whether jus-
-tifiable or not-the implications for our
+the massive increases in expenditures for national
+defense in recent years-whether justifiable
+or not-the implications for our
 measures of growth in GNP are substantial.5
 II. Deficits and National Saving
 and Investment
 Substantial as are the differences between
-income as usually measured and its theoreti-
-cal construct, they are relatively small com-
-pared to the departures of conventionally
+income as usually measured and its theoretical
+construct, they are relatively small compared
+to the departures of conventionally
 measured saving and investment from their
 theoretical counterparts.6 Personal saving,
 the difference between disposable personal
 income and outlays, of which the latter is
 chiefly consumption, is immediately suspect
 because of the measures of both income and
-consumption, as is business or corporate sav-
-ing because of questionable measures of
-costs, investment, and profits.7 But the prob-
-lem is much larger.
-Investment is the acquisition or produc-
-tion of capital, which in turn contributes to
+consumption, as is business or corporate saving
+because of questionable measures of
+costs, investment, and profits.7 But the problem
+is much larger.
+Investment is the acquisition or production
+of capital, which in turn contributes to
 current and future output. Should not the
 production of new automobiles then qualify
 as investment, whether they are bought by
-business or by households or by govern-
-ment? Should research expenses not be con-
-sidered investment along with expenditures
+business or by households or by government?
+Should research expenses not be considered
+investment along with expenditures
 for plant and equipment? Are the education
 and training of our young not perhaps the
-most important investment in future produc-
-tivity that we can make?8 Yet we count such
+most important investment in future productivity
+that we can make?8 Yet we count such
 private expenditures as consumption and the
 vast if insufficient amount of output in the
 form of public education is excluded from
 investment under the apparently somewhat
-pejorative heading of "government spend-
-ing."
+pejorative heading of "government spending.
+"
 With gross income identically equal to
 gross output, gross saving is identically equal
 to gross investment, including increases in
 net claims on the rest of the world, and net
 saving is thus the claims on net additions to
-capital. Saving should then include the por-
-tion of income used to invest in the human
+capital. Saving should then include the portion
+of income used to invest in the human
 capital of a college education as well as the
 portions used to buy corporate bonds or put
 into a pension fund.
@@ -53,26 +53,26 @@ We have been bombarded for some time
 with the arguments in political circles, but
 also from many economists, utilizing data
 from conventional measures and accounts,
-that " national saving" is too low, disas-
-trously low. This so-called national saving is
-the sum of the personal and corporate sav-
-ing, which we have had reason to question,
+that " national saving" is too low, disastrously
+low. This so-called national saving is
+the sum of the personal and corporate saving,
+which we have had reason to question,
 and government saving or the government
 budget surplus.9 These measures are far from
 the theoretical constructs to which we might
 expect them to correspond.
 First, since government budget surpluses
--or deficits-are taken as government re-
-ceipts minus all government outlays, without
+-or deficits-are taken as government receipts
+minus all government outlays, without
 distinguishing between current and capital
 5If government services are viewed as intermediate
 product purchased by business with other than indirect
 business taxes, there is a corresponding reduction in
-national income.  6Discrepancies between theory and measure of na-
-tional income are not unique to U.S. accounts. They
+national income.  6Discrepancies between theory and measure of national
+income are not unique to U.S. accounts. They
 arise as well with the accounts of other nations. Foreign
-accounts, however, do usually include government capi-
-tal in saving and investment. This indeed generates
+accounts, however, do usually include government capital
+in saving and investment. This indeed generates
 some of the gap between U.S. and other saving rates
 that receive much attention. Hayashi (1986, p. 151)
 attributes 3 to 5- percentage points in the difference
@@ -85,10 +85,10 @@ revised its figures dramatically upward, with increases
 over the old series for the years 1975 to 1978 ranging
 from a quarter to a third. The hue and cry did not pause
 long, however, and current complaints about laggard
-net investment evince no concern about critical mea-
-sures of depreciation mentioned above, or comparably
-critical questions of price deflation and quality adjust-
-ment noted below.
+net investment evince no concern about critical measures
+of depreciation mentioned above, or comparably
+critical questions of price deflation and quality adjustment
+noted below.
 SSee, of course, Theodore Schultz (1961) and Gary
 Becker (1964, 1975) and a vast literature on human
 capital they have spawned. Failure to count education

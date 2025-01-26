@@ -13,19 +13,19 @@ who has a job and who does not. By exploiting
 these features, solutions can be calculated using
 an iterative procedure that works like a dream:
 For determining the behavior of aggregates,
-they discovered, realistically modeled house-
-hold heterogeneity just does not matter very
+they discovered, realistically modeled household
+heterogeneity just does not matter very
 much.
 For individual behavior and welfare, of
 course, heterogeneity is everything. In the
 thought-experiments that Krusell and Smith run
 with their model, removal of the business cycle
-is defined to be equivalent to setting the aggre-
-gate productivity shock equal to a constant. It is
+is defined to be equivalent to setting the aggregate
+productivity shock equal to a constant. It is
 important to be clear on what the effect of such
-a change would be on the behavior of the em-
-ployment shocks to which individuals are sub-
-ject, but the magical character of the experiment
+a change would be on the behavior of the employment
+shocks to which individuals are subject,
+but the magical character of the experiment
 makes it hard to know how this question is best
 resolved. I will describe what Krusell and Smith
 did, and deal with some other possibilities later on.
@@ -43,51 +43,51 @@ Not only is the direct effect of the productivity
 shock z removed but also the indirect effects of
 z on the individual employment shocks e.18 In
 
-this particular application, removing the vari-
-ance of the aggregate shock is estimated to
+this particular application, removing the variance
+of the aggregate shock is estimated to
 reduce the standard deviation of the individual
 employment shocks by 16 percent.19
 The first such thought-experiment Krusell
-and Smith describe involves a comparison be-
-tween the expected utility drawn from the
+and Smith describe involves a comparison between
+the expected utility drawn from the
 steady state of the economy with aggregate
 shocks and the expected utility from the steady
 state of the economy with aggregate shocks and
 their indirect effects removed in the way I have
-just described. The welfare gain from eliminat-
-ing cycles in this sense turns out to be negative!
+just described. The welfare gain from eliminating
+cycles in this sense turns out to be negative!
 In a model, like this one, in which markets for
 risk pooling are incomplete, people will engage
 in precautionary savings, overaccumulating
 capital in the effort to self-insure. This implies
 larger average consumption in the more risky
-economy. Of course, there are costs to accumu-
-lating the higher capital stock, but these costs are
+economy. Of course, there are costs to accumulating
+the higher capital stock, but these costs are
 not fully counted in a steady-state comparison.
 In any case, as Krusell and Smith emphasize,
 there is nothing really distributional about a
 steady-state comparison: Every infinitely lived
-dynasty is assigned a place in the wealth distri-
-bution at random, and no one of them can be
+dynasty is assigned a place in the wealth distribution
+at random, and no one of them can be
 identified as permanently rich or poor. The
 whole motivation of the paper is to focus on the
 situation of people described as "hand-to-mouth
 consumers," but a steady-state comparison
-misses them. This observation motivates a sec-
-ond thought-experiment-one with much more
+misses them. This observation motivates a second
+thought-experiment-one with much more
 complicated dynamics than the first-in which
-an economy is permitted to reach its steady-
-state wealth distribution with realistic aggregate
+an economy is permitted to reach its steadystate
+wealth distribution with realistic aggregate
 shocks, and then is relieved of aggregate risk.
 The full transition to a new steady state is then
 worked out and taken into account in the utility
-comparisons. In this experiment, we can iden-
-tify individuals as "rich" or "poor" by their posi-
-tion in the initial wealth distribution, and discuss
+comparisons. In this experiment, we can identify
+individuals as "rich" or "poor" by their position
+in the initial wealth distribution, and discuss
 the effects of risk removal category by category.
-The average welfare gain in this second ex-
-periment is about 0.1 of 1 percent of consump-
-tion, about twice the estimate in Section II of
+The average welfare gain in this second experiment
+is about 0.1 of 1 percent of consumption,
+about twice the estimate in Section II of
 this paper. (Krusell and Smith also assume log
 utility.) But this figure masks a lot of diversity.
 Low wealth, unemployed people-people who

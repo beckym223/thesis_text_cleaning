@@ -1,13 +1,13 @@
 10. The IT products contribute 0.50 percentage
 points to TFP growth for 1995-1999, compared to
-0.25 percentage points for 1990-1995. This re-
-flects the accelerating decline in relative price
-changes resulting from shortening the product cy-
-cle for semiconductors.
+0.25 percentage points for 1990-1995. This reflects
+the accelerating decline in relative price
+changes resulting from shortening the product cycle
+for semiconductors.
 F. Output Growth
 This subsection presents the sources of GDP
-growth for the entire period 1948 to 1999. Cap-
-ital services contribute 1.70 percentage points,
+growth for the entire period 1948 to 1999. Capital
+services contribute 1.70 percentage points,
 labor services 1.14 percentage points, and TFP
 growth only 0.61 percentage points. Input
 growth is the source of nearly 82.3 percent of
@@ -17,8 +17,8 @@ TFP has accounted for 17.7 percent. Figure
 TFP in all subperiods.
 More than three-quarters of the contribution
 of capital reflects the accumulation of capital
-stock, while improvement in the quality of cap-
-ital accounts for about one-quarter. Similarly,
+stock, while improvement in the quality of capital
+accounts for about one-quarter. Similarly,
 increased labor hours account for 80 percent of
 labor's contribution; the remainder is due to
 improvements in labor quality. Substitutions
@@ -37,16 +37,16 @@ also slowed from 4.64 percent for 1948-1973 to
 3.57 percent for 1973-1990. This contributed to
 sluggish ALP growth-2.82 percent for 1948-
 1973 and 1.26 percent for 1973-1990.
-Relative to the early 1990's, output growth in-
-creased by 1.72 percent in 1995-1999. The con-
-tribution of IT production almost doubled, relative
+Relative to the early 1990's, output growth increased
+by 1.72 percent in 1995-1999. The contribution
+of IT production almost doubled, relative
 to 1990-1995, but still accounted for only 28.9
-percent of the increased growth of output. Al-
-though the contribution of IT has increased
+percent of the increased growth of output. Although
+the contribution of IT has increased
 steadily throughout the period 1948-1999, there
 has been a sharp response to the acceleration in the
 IT price decline in 1995. Nonetheless, more than
 70 percent of the increased output growth can be
 attributed to non-IT products.
-Between 1990-1995 and 1995-1999 the con-
-tribution of capital input jumped by 0.95
+Between 1990-1995 and 1995-1999 the contribution
+of capital input jumped by 0.95

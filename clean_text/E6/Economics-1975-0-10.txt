@@ -1,38 +1,38 @@
-search) and by "controlled" social experi-
-mentation (for example, by the Brookings
-Institution and the University of Wiscon-
-sin Institute for Research on Poverty).
+search) and by "controlled" social experimentation
+(for example, by the Brookings
+Institution and the University of Wisconsin
+Institute for Research on Poverty).
 These newer tools and the institutions
 that nurture them constitute part of the
-rich and expanding resources of econom-
-ics.
+rich and expanding resources of economics.
+
 Economics can also draw on a broad
 data base, especially in federal statistics.
 But here, the quantity, timeliness, and
-even the quality of the data are not keep-
-ing pace with either the problems requir-
-ing analysis or the capacity of our quanti-
-tative techniques. Responding to policy
+even the quality of the data are not keeping
+pace with either the problems requiring
+analysis or the capacity of our quantitative
+techniques. Responding to policy
 needs and mounting self-criticism, the
 profession has opened many new fronts in
 the search for realistic micro-data to link
 up with macro-data, for cross-section data
 to help overcome the curse of collinearity
-in time-series analysis, and for custom-
-built data developed by survey and experi-
-mental techniques.
-That the human, analytical, and quanti-
-tative resources of economics provide a
+in time-series analysis, and for custombuilt
+data developed by survey and experimental
+techniques.
+That the human, analytical, and quantitative
+resources of economics provide a
 huge potential for solving problems seems
 undeniable. That more of these powerful
 resources than ever before are being put at
 the disposal of economic policy makers
 also seems undeniable. What we do not
-know is what proportion is being mis-
-directed into arid puzzles, sterile proofs,
+know is what proportion is being misdirected
+into arid puzzles, sterile proofs,
 and recreational mathematics while the
-world's pressing economic and social prob-
-lems go begging for answers. Here, we
+world's pressing economic and social problems
+go begging for answers. Here, we
 can only match one observer's impression
 against another's. The profession itself has
 not come to grips with this question of
@@ -41,8 +41,8 @@ A second test in appraising the state of
 economics, one not unknown to economics,
 is that of the market place. This takes
 several forms, none very robust, but none
-trivial. The first is the upsurge in enroll-
-ments in economics courses, especially in
+trivial. The first is the upsurge in enrollments
+in economics courses, especially in
 introductory economics, that has occurred
 in the academic years 1973-74 and 1974-
 75. The second is the oft-reported high
@@ -51,27 +51,27 @@ government, and academic life. A third
 is the strong and growing demand for
 economists' inputs into the policy-making
 process either as staff members or as
-expert witnesses for congressional com-
-mittees, individual congressmen, and the
+expert witnesses for congressional committees,
+individual congressmen, and the
 executive branch.
-With students, business, and govern-
-ment beating a path to our door, we can
+With students, business, and government
+beating a path to our door, we can
 infer that something must be right with
 economics, or wrong with the economy,
 or both. Either we are building a better
 mousetrap or there are more and bigger
 mice threatening our customers. Perhaps
-it is simply that we have the only mouse-
-traps in town.
+it is simply that we have the only mousetraps
+in town.
 But there must be more to it than that.
 Take the policy maker, for example.
 What he finds congenial is that he can
 hand an economist a problem relating to
 changes in taxation, regulations, budget
-proposals, pollution control, poverty, so-
-cial security, public service jobs, gasoline
-taxes, oil prices, and so on and be reason-
-ably sure of getting a useful appraisal of
+proposals, pollution control, poverty, social
+security, public service jobs, gasoline
+taxes, oil prices, and so on and be reasonably
+sure of getting a useful appraisal of
 alternative paths to his objectives, of
 costs and benefits, and of distributional,
 allocative, and stabilization impacts.
@@ -83,12 +83,12 @@ our hardheaded analysis and numbers on
 the myriad problems of economic choice
 with which he is faced.
 It seems fair to draw another inference:
-notwithstanding the current wave of self-
-criticism and public criticism, even lam-
-pooning, of economists and despite our
+notwithstanding the current wave of selfcriticism
+and public criticism, even lampooning,
+of economists and despite our
 highly visible public debates and highly
 vulnerable participation in policy making,
-economics continues to maintain its stand-
-ing as a science. Signs of a reported crisis
+economics continues to maintain its standing
+as a science. Signs of a reported crisis
 of public confidence or of a "recession of
 self-confidence" are few and far between.

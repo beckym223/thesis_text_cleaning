@@ -1,19 +1,19 @@
 minus the inflation rate) and the change in the
-relative price of oil. The coefficients of an in-
-vertible vector autoregression are estimated,
+relative price of oil. The coefficients of an invertible
+vector autoregression are estimated,
 subject to several restrictions. This procedure
 yields time series of estimated shocks g t and
 decompositions of the variance of each of the
 five variables into the fractions "explained" by
 the most recent k values of each of the five
 shocks.
-Shapiro and Watson apply a variety of the-
-oretical principles to the interpretation of
-their estimates. They do not consistently fol-
-low the general-equilibrium practice of inter-
-preting all shocks as shifts in preferences,
-technologies, or the behavior of policy vari-
-ables, but they have in mind some kind of
+Shapiro and Watson apply a variety of theoretical
+principles to the interpretation of
+their estimates. They do not consistently follow
+the general-equilibrium practice of interpreting
+all shocks as shifts in preferences,
+technologies, or the behavior of policy variables,
+but they have in mind some kind of
 monetary growth model that does not have a
 long-run Phillips curve.6 Real variables, in
 the long run, are determined by real factors
@@ -21,20 +21,20 @@ only. Nominal shocks can affect real variables
 and relative prices in the short run but not in
 the long run. This idea is not tested: Long-run
 neutrality is imposed on the statistical model.
-In return it becomes possible to estimate sep-
-arately the importance of nominal shocks to
-the short- and medium-run variability of out-
-put, hours, and real interest rates.7
+In return it becomes possible to estimate separately
+the importance of nominal shocks to
+the short- and medium-run variability of output,
+hours, and real interest rates.7
 In the five-variable scheme that Shapiro and
-Watson use, there are two nominal variables-
-the inflation rate and the nominal interest rate-
-and three real ones-output, hours, and the
+Watson use, there are two nominal variablesthe
+inflation rate and the nominal interest rateand
+three real ones-output, hours, and the
 relative price of oil. They assume as well five
 shocks, two of which are nominal in the sense
 of having no effect on real variables in the long
 run. They are not able to measure the effects of
-the two dimensions of nominal instability sep-
-arately. The other three shocks are taken to be
+the two dimensions of nominal instability separately.
+The other three shocks are taken to be
 real. The assumed exogeneity of oil price
 shocks plus a long-run neutrality hypothesis on
 hours are used to estimate the importance of
@@ -56,28 +56,28 @@ percent entries in this row for inflation and the
 nominal interest rate could have come out any
 way. I take the fact that these values are so close
 to 1 as a confirmation of Shapiro and Watson's
-procedure for identifying nominal shocks. Ac-
-cording to Table 1, these nominal shocks have
+procedure for identifying nominal shocks. According
+to Table 1, these nominal shocks have
 accounted for something less than 30 percent of
 short-run production variability in the postwar
 United States. This effect decays slowly, with
 no change after one year, a reduction to 20
 percent after two years, and so on.
 One can ask whether a better estimate of the
-importance of nominal shocks could have ob-
-tained by using Ml or some other observable
+importance of nominal shocks could have obtained
+by using Ml or some other observable
 measure of monetary shocks. Many studies
 have proceeded in this more direct way,8 and
 much has been learned, but in the end one does
 not know whether the importance of monetary
-shocks has been estimated or just the impor-
-tance of a particular, possibly very defective,
+shocks has been estimated or just the importance
+of a particular, possibly very defective,
 measure of them. Information on future prices is
 conveyed to people by changes in monetary
 aggregates, of course, but it is also conveyed by
 interest-rate and exchange-rate movements, by
 changes in the fiscal situation that may lead to
 tighter or easier money later on, by changes in
-financial regulations, by statements of influen-
-tial people, and by many other factors. Shapiro
+financial regulations, by statements of influential
+people, and by many other factors. Shapiro
 and Watson's method bypasses these hard

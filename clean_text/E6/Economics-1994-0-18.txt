@@ -1,20 +1,20 @@
 human-capital stocks.2' The appearance of
 such investment opportunities is the essence
-of growth and change. They are largely dis-
-equilibrium phenomena, resulting in a
+of growth and change. They are largely disequilibrium
+phenomena, resulting in a
 lurching from one "steady state" to another
-rather than something smooth and expo-
-nential. The presence of locally increasing
+rather than something smooth and exponential.
+The presence of locally increasing
 returns, network externalities, asymmetric
-information, and heterogeneous expecta-
-tions, the appearance of new products and
-technologies, and the changes in the politi-
-cal and regulatory environments are all
+information, and heterogeneous expectations,
+the appearance of new products and
+technologies, and the changes in the political
+and regulatory environments are all
 sources of such "excess" returns, while the
 ex post fixity of much of the investment in
-both physical and human capital causes cap-
-ital gains and losses and unanticipated "ob-
-solescence" in the various stocks. We will
+both physical and human capital causes capital
+gains and losses and unanticipated "obsolescence"
+in the various stocks. We will
 have to figure out how to take the residual
 apart along such lines to make more
 progress in understanding its proximate
@@ -26,8 +26,8 @@ latter being a difficult and chancy business.
 In fact we may be far from our existing
 "frontiers." Harvey Leibenstein's (1966)
 ideas about X-efficiency, or more correctly
-X-inefficiency, did not get much of a sympa-
-thetic ear from us. They were inconsistent
+X-inefficiency, did not get much of a sympathetic
+ear from us. They were inconsistent
 with notions of equilibrium, the absence of
 unexploited profit opportunities, and the
 possibilities for economic arbitrage. But real
@@ -35,8 +35,8 @@ economic growth is the consequence of both
 the appearance of such disequilibria and
 the devising of ways of closing them. How
 quickly they are eliminated depends on the
-strength of incentive systems within enter-
-prises, and on their organizational quality.
+strength of incentive systems within enterprises,
+and on their organizational quality.
 In spite of the large growth in the literature
 on organizations, we have not yet developed
 useful ways of quantifying their strengths
@@ -52,45 +52,45 @@ externalities as their centerpiece (see Solow
 ironic that they have come to the fore just
 when growth started declining and notions
 of eternal exponential growth began to lose
-their luster. Knowledge externalities are ob-
-viously very important in the growth pro-
-cess, but they do not help us to explain what
+their luster. Knowledge externalities are obviously
+very important in the growth process,
+but they do not help us to explain what
 has happened in the last two decades. There
-is no reason to believe that they have de-
-clined over time. If anything, the communi-
-cation and transportation advances should
-have expanded the availability of such exter-
-nalities.22 But we have no good models for
+is no reason to believe that they have declined
+over time. If anything, the communication
+and transportation advances should
+have expanded the availability of such externalities.
+22 But we have no good models for
 the measurement of such processes.
 Knowledge is not like a stock of ore,
 sitting there waiting to be mined. It is an
-extremely heterogenous assortment of infor-
-mation in continuous flux. Only a small part
+extremely heterogenous assortment of information
+in continuous flux. Only a small part
 of it is of any use to someone at a particular
-point of time, and it takes effort and re-
-sources to access, retrieve, and adapt it to
+point of time, and it takes effort and resources
+to access, retrieve, and adapt it to
 one's own use. Thus models of externalities
-must perforce be models of interaction be-
-tween different actors in the economy. We
+must perforce be models of interaction between
+different actors in the economy. We
 have, however, very few convincing models
 of such interactions, and the identification
-problems are severe (see e.g., Charles Man-
-ski, 1993). Our measurement frameworks
+problems are severe (see e.g., Charles Manski,
+1993). Our measurement frameworks
 are not set up to record detailed origin and
 destination data for commodity flows, much
 less so for information flows. We do have
 now a new tool for studying some of this:
-citations to patents and the scientific litera-
-ture (see e.g., Jaffe et al., 1993), but anyone
+citations to patents and the scientific literature
+(see e.g., Jaffe et al., 1993), but anyone
 currently active in the e-mail revolution and
-participating in the conferences and work-
-shops circuit knows how small this tip is
+participating in the conferences and workshops
+circuit knows how small this tip is
 relative to the informal-communications
 iceberg itself.
 21This is not a new idea. Versions of it appear in
 Harry Johnson (1964), Arnold Harberger (1990), and
-Theodore Schultz (1990) and presumably also else-
-where.
-22The story is similar for externalities from human-
-capital investments, another linchpin of the new growth
+Theodore Schultz (1990) and presumably also elsewhere.
+
+22The story is similar for externalities from humancapital
+investments, another linchpin of the new growth
 theories, but I will not pursue it here.

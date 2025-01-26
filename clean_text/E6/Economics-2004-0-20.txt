@@ -9,32 +9,32 @@ example, in Chile workers are required to save
 using the accumulation for an annuity purchase
 or phased withdrawals after reaching benefit
 eligibility. Thus the workings of the system are
-fully specified in terms of economic out-
-comes. 7 This does not imply that the Chilean
+fully specified in terms of economic outcomes.
+7 This does not imply that the Chilean
 government will never change the rules of the
 system. Indeed, it has made frequent changes in
 some details. But it does mean that we can
-analyze the outcomes of the current system un-
-der the assumption of no further legislation
-without being internally inconsistent. We can-
-not do that for the United States-there are
+analyze the outcomes of the current system under
+the assumption of no further legislation
+without being internally inconsistent. We cannot
+do that for the United States-there are
 states of nature that require some legislative
 change, indeed the probability of such a future
 need is very high today.
-The Chilean approach of a fully funded de-
-fined contribution system is not the only way to
+The Chilean approach of a fully funded defined
+contribution system is not the only way to
 have a fully specified system. Sweden has one
 too. In Sweden, the payroll tax rate is 18.5
 percent. While 2.5 percent of payroll goes into
 fully funded individual accounts, 16 percent is
 used for a partially funded system, called a
 notional defined contribution system (NDC).
-An NDC system mimics a fully funded de-
-fined contribution system in that it accumu-
-lates a notional balance for each worker that
-increases each year by taxes paid and a no-
-tional interest rate.68 At retirement, this bal-
-ance is converted into an annuity based on the
+An NDC system mimics a fully funded defined
+contribution system in that it accumulates
+a notional balance for each worker that
+increases each year by taxes paid and a notional
+interest rate.68 At retirement, this balance
+is converted into an annuity based on the
 
 life expectancy of that cohort and the same  notional interest rate.69 The notional interest
 rate is set administratively (with automatic
@@ -43,40 +43,40 @@ held. In this way an NDC system mimics a
 defined benefit system. Thus it is very much a
 hybrid. Whether this system is referred to as a
 defined benefit system or an unfunded defined
-contribution system matters since the vocab-
-ulary with which a system is described can
+contribution system matters since the vocabulary
+with which a system is described can
 influence the politics of both creation and
 adaptation.
 By itself a well-structured NDC system, with
 a decent size buffer stock of assets, will have
-little probability of needing legislative interven-
-tion as long as economic growth is large
+little probability of needing legislative intervention
+as long as economic growth is large
 enough. Even so, the Swedes have gone further
 by introducing an automatic balancing system. I
-will not digress to describe the Swedish auto-
-matic balance rules. It suffices to say that if
-economic growth is sufficiently slow, the no-
-tional interest rate is automatically lowered-
-reducing both benefits in payment and future
+will not digress to describe the Swedish automatic
+balance rules. It suffices to say that if
+economic growth is sufficiently slow, the notional
+interest rate is automatically loweredreducing
+both benefits in payment and future
 benefits in response to this slower rate of
-growth. Thus the Swedish system can be ana-
-lyzed for an indefinite future without an as-
-sumption about the structure of future
+growth. Thus the Swedish system can be analyzed
+for an indefinite future without an assumption
+about the structure of future
 legislation, so one does not need a fully funded
 system to have that property. Sweden, like
 Chile, puts all of the risk of future outcomes on
 the side of benefits and none on the side of
 taxes.70
 Some simple ways for pretty much ensuring
-automatic balance can illustrate alternative ap-
-proaches. In the French and German pension
+automatic balance can illustrate alternative approaches.
+In the French and German pension
 systems, workers accumulate "points" based on
 earnings that have been subject to tax. Think of
 this as a sum of wage-indexed wages over a
 worker's career. The accumulations of points
-determine relative pensions for retirees. Un-
-like what is actually done in France and Ger-
-many, points could be converted into cash
+determine relative pensions for retirees. Unlike
+what is actually done in France and Germany,
+points could be converted into cash
 benefits by automatically adjusting the value
-of a point to exhaust available revenues. Con-
-versely, we could think of adjusting the tax
+of a point to exhaust available revenues. Conversely,
+we could think of adjusting the tax

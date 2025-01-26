@@ -1,23 +1,23 @@
 models), the depiction of actual conduct
 and choices?
-Another issue, related to individual be-
-havior and rationality, concerns the role of
+Another issue, related to individual behavior
+and rationality, concerns the role of
 social interactions in the development of
 values, and also the connection between
 value formation and the decision-making
 processes. Social choice theory has tended
 to avoid this issue, following Arrow's own
-abstinence: "we will also assume in the pre-
-sent study that individual values are taken
+abstinence: "we will also assume in the present
+study that individual values are taken
 as data and are not capable of being altered
 by the nature of the decision process itself"
 (Arrow, 1951 p. 7).5 On this subject,
-Buchanan has taken a more permissive po-
-sition-indeed emphatically so: "The defi-
-nition of democracy as 'government by dis-
-cussion' implies that individual values can
-and do change in the process of decision-
-making" (Buchanan, 1954a p. 120).6 We
+Buchanan has taken a more permissive position-
+indeed emphatically so: "The definition
+of democracy as 'government by discussion'
+implies that individual values can
+and do change in the process of decisionmaking"
+(Buchanan, 1954a p. 120).6 We
 have to scrutinize the importance of this
 difference as well.
 This is a long and somewhat exacting list,
@@ -29,12 +29,12 @@ II. Social Welfare Judgments and Arrow's
 Impossibility Theorem
 The subject of welfare economics was
 dominated for a long time by the utilitarian
-tradition, which performs interpersonal ag-
-gregation through the device of looking at
-the sum-total of the utilities of all the peo-
-ple involved. By the 1930's, however,
-economists came to be persuaded by argu-
-ments presented by Lionel Robbins (1938)
+tradition, which performs interpersonal aggregation
+through the device of looking at
+the sum-total of the utilities of all the people
+involved. By the 1930's, however,
+economists came to be persuaded by arguments
+presented by Lionel Robbins (1938)
 and others (influenced by the philosophy of
 "logical positivism") that interpersonal
 comparisons of utility had no scientific
@@ -46,41 +46,41 @@ comparability of individual utilities, the
 "new welfare economics" that emerged tried
 to rely only on one basic criterion of social
 improvement, the Pareto criterion. Since
-this confines the recognition of a social im-
-provement only to the case in which every-
-one's utility goes up (or someone's goes up
+this confines the recognition of a social improvement
+only to the case in which everyone'
+s utility goes up (or someone's goes up
 and no one's goes down), it does not require
 any interpersonal comparison, nor for that
-matter, any cardinality of individual utili-
-ties. However, Pareto efficiency can scarcely
+matter, any cardinality of individual utilities.
+However, Pareto efficiency can scarcely
 be an adequate condition for a good society.
 It is quite insensitive to the distribution of
 utilities (including inequalities of happiness
 and miseries), and it takes no direct note of
 anything other than utilities (such as rights
 or freedoms) beyond their indirect role in
-generating utilities. There is a need, cer-
-tainly, for further criteria for social welfare
+generating utilities. There is a need, certainly,
+for further criteria for social welfare
 judgments.
-The demands of orderly, overall judg-
-ments of "social welfare" (or the general
+The demands of orderly, overall judgments
+of "social welfare" (or the general
 goodness of states of affairs) were clarified
-by Abram Bergson (1938, 1966) and exten-
-sively explored by Paul Samuelson (1947).
+by Abram Bergson (1938, 1966) and extensively
+explored by Paul Samuelson (1947).
 The concentration was on the need for a
 real-valued function W of "social welfare"
 defined over all the alternative social states,
 or at least an aggregate ordering R over
 them, the so-called "social preference." In
-the reexamination that followed the Berg-
-son-Samuelson initiative (including the de-
-velopment of social choice theory as a disci-
-pline), the search for principles underlying a
+the reexamination that followed the Bergson-
+Samuelson initiative (including the development
+of social choice theory as a discipline)
+, the search for principles underlying a
 social welfare function played a prominent
 part.
 Arrow (1951) defined a "social welfare
-function" as a functional relation that speci-
-fies a social ordering R over all the social
+function" as a functional relation that specifies
+a social ordering R over all the social
 states for every set of individual preference
-orderings. In addition to assuming-not es-
-pecially controversially-that there are at
+orderings. In addition to assuming-not especially
+controversially-that there are at

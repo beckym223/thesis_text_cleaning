@@ -1,10 +1,10 @@
-phenomena under examination may be quan-
-tified, and thus provide rationalizations (ad-
-mittedly for those who want them) for policies
+phenomena under examination may be quantified,
+and thus provide rationalizations (admittedly
+for those who want them) for policies
 that cannot by any realistic test pass muster.
-Perhaps the lesson is that there is a signifi-
-cant danger that economic theory will be mis-
-interpreted in the policy arena, and researchers
+Perhaps the lesson is that there is a significant
+danger that economic theory will be misinterpreted
+in the policy arena, and researchers
 could productively take more pains to distance
 themselves from policy conclusions that are
 not warranted by their analysis. Theoretical
@@ -15,20 +15,20 @@ policy should ..." are obviously overstepping
 their bounds when the empirical relevance of
 x and y are not yet established, and even more
 so when conditions other than x and y also may
-be important (as, for example, with rent-
-seeking).
+be important (as, for example, with rentseeking)
+.
 But many good theory papers are written
 where the authors assume that their audience
 will consist entirely of other theorists. In such
 instances, good theory may be misused, and it
 certainly will be in the self-interest of some to
-harness it to their own ends. It behooves ap-
-plied economists, as well as the theorists, to
+harness it to their own ends. It behooves applied
+economists, as well as the theorists, to
 be careful to interpret the policy relevance of
 results in ways which minimize the scope for
 misinterpretation. This is as true for those
-seeking to find "dynamic" aspects of export-
-ing, or endogenous aspects of a "big push,"
+seeking to find "dynamic" aspects of exporting,
+or endogenous aspects of a "big push,"
 as it should have been for those developing the
 infant industry or optimum tariff arguments.
 Complex results, such as those noted by
@@ -38,34 +38,34 @@ suit the decision maker or lobbyist.
 Finally, there is theory which provides no
 guidance as to when or how to observe the
 phenomenon. In such instances, it is difficult
-to find policy implications that will not be cap-
-tured. One possible challenge for theorists
+to find policy implications that will not be captured.
+One possible challenge for theorists
 might well be to ask for at least one plausible
 incentive-compatible mechanism under which
-the inefficiencies they identify might be im-
-proved upon by policy makers and bureau-
-crats. The existence of infant industries, of
+the inefficiencies they identify might be improved
+upon by policy makers and bureaucrats.
+The existence of infant industries, of
 cases in which there are rents that might be
 captured by appropriate strategic trade policy,
 and of informational asymmetries and other
 market imperfections cannot be doubted. But
 until the magnitude of these phenomena can
 somehow be measured, or incentive-compatible
-mechanisms for correcting them can be de-
-vised, theorists asserting their presence are
+mechanisms for correcting them can be devised,
+theorists asserting their presence are
 simply providing a carte blanche for policy
-makers and bureaucrats to intervene in what-
-ever ways they like, and this will simulta-
-neously be seized upon by special interests to
+makers and bureaucrats to intervene in whatever
+ways they like, and this will simultaneously
+be seized upon by special interests to
 bolster their causes.
 No matter how careful economists are,
-special interests always will seize their re-
-search results in supporting their own objec-
-tives. And, no matter how sophisticated and
+special interests always will seize their research
+results in supporting their own objectives.
+And, no matter how sophisticated and
 careful research findings are, there always
-will be politicians formulating, and non-
-economists administering, policies. Recog-
-nition of these propositions could do much
+will be politicians formulating, and noneconomists
+administering, policies. Recognition
+of these propositions could do much
 to increase the degree to which economists'
 research results can contribute (positively)
 to policy formulation.

@@ -1,27 +1,27 @@
-great economy in the handling of informa-
-tion, presumably because transmission of
+great economy in the handling of information,
+presumably because transmission of
 prices is in some significant sense much
 cheaper than transmission of the whole set
 of production possibilities and utility
 functions. It is this point which emerged
 in the great debate over the feasibility of
 socialism begun by Ludwig von iMises's
-attack and usually thought of as conclud-
-ing with the work of Oskar Lange and
+attack and usually thought of as concluding
+with the work of Oskar Lange and
 Abba Lerner in the 1930's; though it should
 be added many of the essential points had
 already been made earlier by Vilf redo
-Pareto and Enrico Barone. XVhat was ar-
-gued, in effect, was that a socialist system
+Pareto and Enrico Barone. XVhat was argued,
+in effect, was that a socialist system
 could use the price system and therefore
-achieve whatever economies in informa-
-tion it does achieve; and if the equilibrium
+achieve whatever economies in information
+it does achieve; and if the equilibrium
 conditions are written out they do give the
 appearance of relative simplicity. But
 what was left obscure is a more definite
 measure of information and its costs, in
-terms of which it would be possible to as-
-sert the superiority of the price system
+terms of which it would be possible to assert
+the superiority of the price system
 over a centralized alternative. Though I
 feel that current work has brought about a
 considerable clarification, we still have no
@@ -31,23 +31,23 @@ answers less clear. Several writers, in both
 Western and socialist countries, have noted
 that alternative decentralized schemes
 exist where quantity messages rather than
-price messages are transmitted in the suc-
-cessive stages of approximation and that
+price messages are transmitted in the successive
+stages of approximation and that
 such schemes also have efficient equilibrium
 points. Indeed, with the development of
-mathematical programming and high-
-speed computers, the centralized alterna-
-tive no longer appears preposterous. After
+mathematical programming and highspeed
+computers, the centralized alternative
+no longer appears preposterous. After
 all, it would appear that one could mimic
 the workings of a decentralized system by
-an appropriately chosen centralized al-
-gorithm. While there is more to the story
+an appropriately chosen centralized algorithm.
+While there is more to the story
 than these few remarks, they do make the
-point that if we are going to take informa-
-tional economy seriously, we have to add
-to our usual economic calculations an ap-
-propriate measure of the costs of informa-
-tion gathering and transmission.
+point that if we are going to take informational
+economy seriously, we have to add
+to our usual economic calculations an appropriate
+measure of the costs of information
+gathering and transmission.
 But actually the comparisons between
 socialist and capitalist resource allocation
 systems have tended to overlook some of
@@ -55,20 +55,20 @@ the most obvious facts while examining
 finer points closely. As we all know, both
 production and consumption (lecisions are
 in fact made with reference to the future
-as well as to the present. A rational produc-
-tion plan includes very importantly deci-
-sions or at least plans about the future; and
-similarlv with consumption plans. Invest-
-ment and savings are not only integral
+as well as to the present. A rational production
+plan includes very importantly decisions
+or at least plans about the future; and
+similarlv with consumption plans. Investment
+and savings are not only integral
 parts of our current decisions but in the
 long run shape the possibilities for further
-development. As we know, the formal neo-
-classical model can be extenided to deci-
-sions over time by dating commodities and
+development. As we know, the formal neoclassical
+model can be extenided to decisions
+over time by dating commodities and
 regarding the same commodity at different
-dates as different commodities. All pre-
-vious conclusions follow; allocative effi-
-ciency, for example, is achieved with the
+dates as different commodities. All previous
+conclusions follow; allocative efficiency,
+for example, is achieved with the
 same appearance of informational efliciency.
 But of course there is a slight problem
 with this reasoning. The information
@@ -81,14 +81,14 @@ exist. Even the futures markets in certain
 commodities, limited in extent as they are,
 do not in fact lead to balancing all future
 decisions. Rather they balance present
-commitments to the future; but it is un-
-derstood by all parties that when the fu-
-ture becomes the present, there will be a
-spot market on which the futures commit-
-ments may be undone; and indeed those
+commitments to the future; but it is understood
+by all parties that when the future
+becomes the present, there will be a
+spot market on which the futures commitments
+may be undone; and indeed those
 making no futures commitments at all can
 enter and know now that they will be able
 to enter.
-Even as a graduate student, I was some-
-what surprised at the emphasis on static
+Even as a graduate student, I was somewhat
+surprised at the emphasis on static
 allocative efficiency by market socialists,

@@ -1,12 +1,12 @@
-rates were supposed to affect, at best, the de-
-mand for long-lived fixed investments, and the
+rates were supposed to affect, at best, the demand
+for long-lived fixed investments, and the
 interest elasticity was deemed to be low. Thus,
-shocks were believed to produce a large re-
-sponse. Finally, investment demand was seen as
+shocks were believed to produce a large response.
+Finally, investment demand was seen as
 capriciously controlled by "animal spirits,"
 thus providing an important source of shocks.
-All this justified calling for very active stabiliza-
-tion policies. Furthermore, since the very
+All this justified calling for very active stabilization
+policies. Furthermore, since the very
 circumstances which produce a large response to
 demand shocks also produce a large response to
 fiscal and a small response to monetary actions,
@@ -17,18 +17,18 @@ C. The Phillips Curve
 In the two decades following The General
 Theory, there were a number of developments of
 the Keynesian system including dynamization of
-the model, the stress on taxes versus expendi-
-tures and the balanced budget multiplier, and the
-first attempts at estimating the critical param-
-eters through econometric techniques and mod-
-els. But for present purposes, the most important
+the model, the stress on taxes versus expenditures
+and the balanced budget multiplier, and the
+first attempts at estimating the critical parameters
+through econometric techniques and models.
+But for present purposes, the most important
 one was the uncovering of a "stable" statistical
 relation between the rate of change of wages and
 the rate of unemployment, which has since come
 to be known as the Phillips curve. This relation,
 and its generalization by Richard Lipsey to allow
-for the effect of recent inflation, won wide ac-
-ceptance even before an analytical underpinning
+for the effect of recent inflation, won wide acceptance
+even before an analytical underpinning
 could be provided for it, in part because it could
 account for the "puzzling" experience of 1954
 and 1958, when wages kept rising despite the
@@ -43,51 +43,51 @@ al.). This approach served to shed a new light on
 the nature of unemployment by tracing it in the
 first place to labor turnover and search time
 rather than to lack of jobs as such: in a sense
-unemployment is all frictional-at least in de-
-veloped countries. At the same time it clarified
+unemployment is all frictional-at least in developed
+countries. At the same time it clarified
 how the availability of more jobs tends to reduce
 unemployment by increasing vacancies and thus
 reducing search time.
 Acceptance of the Phillips curve relation
-implied some significant changes in the Keynes-
-ian framework which partly escaped notice until
+implied some significant changes in the Keynesian
+framework which partly escaped notice until
 the subsequent monetarists' attacks. Since the
 rate of change of wages decreased smoothly with
 the rate of unemployment, there was no longer a
 unique Full Employment but rather a whole
-family of possible equilibrium rates, each asso-
-ciated with a different rate of inflation (and re-
-quiring, presumably, a different long-run
+family of possible equilibrium rates, each associated
+with a different rate of inflation (and requiring,
+presumably, a different long-run
 growth of money). It also impaired the notion of
 a stable underemployment equilibrium. A fall in
-demand could still cause an initial rise in unem-
-ployment but this rise, by reducing the growth of
+demand could still cause an initial rise in unemployment
+but this rise, by reducing the growth of
 wages, would eventually raise the real money
 supply, tending to return unemployment to the
-equilibrium rate consistent with the given long-
-run growth of money.
+equilibrium rate consistent with the given longrun
+growth of money.
 But at the practical level it did not lessen the
-case for counteracting lasting demand distur-
-bances through stabilization policies rather than
-by relying on the slow process of wage adjust-
-ment to do the job, at the cost of protracted un-
-employment and instability of prices. Indeed,
-the realm of stabilization policies appeared to ex-
-pand in the sense that the stabilization authority
+case for counteracting lasting demand disturbances
+through stabilization policies rather than
+by relying on the slow process of wage adjustment
+to do the job, at the cost of protracted unemployment
+and instability of prices. Indeed,
+the realm of stabilization policies appeared to expand
+in the sense that the stabilization authority
 had the power of choosing the unemployment
-rate around which employment was to be sta-
-bilized, though it then had to accept the asso-
-ciated inflation. Finally, the dependence of wage
+rate around which employment was to be stabilized,
+though it then had to accept the associated
+inflation. Finally, the dependence of wage
 changes also on past inflation forced recognition
-of a distinction between the short- and the long-
-run Phillips curve, the latter exhibiting the long-
-run equilibrium rate of inflation implied by a
+of a distinction between the short- and the longrun
+Phillips curve, the latter exhibiting the longrun
+equilibrium rate of inflation implied by a
 maintained unemployment rate. The fact that the
 long-run tradeoff between unemployment and
 inflation was necessarily less favorable than the
-short-run one, opened up new vistas of "enjoy-
-it-now, pay-later" policies, and even resulted in
-an entertaining literature on the political busi-
-ness cycle and how to stay in the saddle by riding
+short-run one, opened up new vistas of "enjoyit-
+now, pay-later" policies, and even resulted in
+an entertaining literature on the political business
+cycle and how to stay in the saddle by riding
 the Phillips curve (see for example, Ray Fair,
 William Nordhaus).

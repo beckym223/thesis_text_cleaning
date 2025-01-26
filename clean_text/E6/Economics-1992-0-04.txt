@@ -5,51 +5,51 @@ anything about it.
 A first step in pursuing this phenomenon
 is to assess how much warming might go
 with an enhanced concentration of these
-gases. That cannot be done in the labora-
-tory; there are too many feedbacks. A
+gases. That cannot be done in the laboratory;
+there are too many feedbacks. A
 warmer atmosphere will contain more water
 vapor; water vapor itself is a greenhouse
 gas. Changes in temperature and humidity
 will change cloud cover; clouds can reflect
-or absorb incoming or outgoing light accord-
-ing to their composition and altitude. The
+or absorb incoming or outgoing light according
+to their composition and altitude. The
 average temperature is only one dimension;
-temperatures at different altitudes and dif-
-ferent latitudes matter. But a starting point
-has been the change in average surface at-
-mospheric temperature expected to accom-
-pany a specified increase in the concentra-
-tion of greenhouse gasses; and arbitrarily,
+temperatures at different altitudes and different
+latitudes matter. But a starting point
+has been the change in average surface atmospheric
+temperature expected to accompany
+a specified increase in the concentration
+of greenhouse gasses; and arbitrarily,
 but reasonably, the base case is taken as a
 doubling of the concentration.
 A moment on why a doubling is the
-benchmark. To compare estimates of warm-
-ing, people must use the same hypothesized
+benchmark. To compare estimates of warming,
+people must use the same hypothesized
 concentration of greenhouse gases in the
 atmosphere. (Alternatively, they could use
-the same hypothesized temperature in-
-crease and estimate the corresponding con-
-centration.) Doubling, like a half-life in re-
-verse, is a natural unit if it is within the
-range of practical interest, and it is. A dou-
-bling is expected sometime in the next cen-
-tury, so it is temporally relevant; and a
+the same hypothesized temperature increase
+and estimate the corresponding concentration.
+) Doubling, like a half-life in reverse,
+is a natural unit if it is within the
+range of practical interest, and it is. A doubling
+is expected sometime in the next century,
+so it is temporally relevant; and a
 doubling is estimated to make a substantial
 but not cataclysmic difference. If fixation on
 a doubling seems to imply an upper limit on
 any expected increase, the implication is
-unfortunate: enough fossil fuel exists to sup-
-port several doublings.
+unfortunate: enough fossil fuel exists to support
+several doublings.
 In 1979, a committee of the National
 Academy of Sciences (NAS) (1979 p. 2)
-estimated the change in average tempera-
-ture to accompany a doubling of carbon
+estimated the change in average temperature
+to accompany a doubling of carbon
 dioxide in the atmosphere: three degrees
-Celsius, with a range of 1.5 degrees to ei-
-ther side. (In the last 15 years other green-
-house gases have received attention; these
-other gases can be converted to their car-
-bon dioxide equivalents and the original
+Celsius, with a range of 1.5 degrees to either
+side. (In the last 15 years other greenhouse
+gases have received attention; these
+other gases can be converted to their carbon
+dioxide equivalents and the original
 estimate applied to the mixture.) The NAS
 appointed another committee a few years
 later to reexamine that estimate, and the
@@ -58,8 +58,8 @@ new committee saw no reason to change it
 panel on climate change (IPCC), consisting
 of scientists from many nations, revisited
 the estimate in 1990 and concluded, from
-the several climate models they had exam-
-ined, that "the models results do not justify
+the several climate models they had examined,
+that "the models results do not justify
 altering the previously accepted range of 1.5
 to 4.5 degrees C" (IPCC, 1990 p. xxv). Thus,
 the estimate appears to be robust over time,
@@ -67,26 +67,26 @@ but the spread of uncertainty remains large:
 the upper limit is three times the lower
 limit. (No quantitative interpretation of
 these upper and lower "limits" has been
-made public. Both National Academy re-
-ports referred to them as "probable error.")
+made public. Both National Academy reports
+referred to them as "probable error.")
 II
 The uncertainties are even greater in
-translating a temperature change into cli-
-mates. The media support a popular view
-that things will just get hotter; a news maga-
-zine cover was a sweating global face. But
+translating a temperature change into climates.
+The media support a popular view
+that things will just get hotter; a news magazine
+cover was a sweating global face. But
 the laboratories that do the meteorology do
 not simply predict warming; they do not
 even predict that the most noticeable effects
 will necessarily be temperature changes.
 Among the great driving forces of weather
 and climate is the temperature differential
-between equatorial and polar regions; con-
-vection currents coupled with the rotation
+between equatorial and polar regions; convection
+currents coupled with the rotation
 of the earth are engines of atmospheric
-circulation and, ultimately, ocean circula-
-tion. The models predict greater tempera-
-ture change in the polar regions than near
+circulation and, ultimately, ocean circulation.
+The models predict greater temperature
+change in the polar regions than near
 the equator. This change in gradient can
 drive changes in circulation. The results may
 be warmer in some places and colder in

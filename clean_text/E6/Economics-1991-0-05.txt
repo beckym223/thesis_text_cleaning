@@ -1,42 +1,42 @@
 since any statement can be derived flawlessly
 and immediately from that contradiction.
-In its mathematical form, economic the-
-ory is open to an efficient scrutiny for logi-
-cal errors. The rigor that has been reached
+In its mathematical form, economic theory
+is open to an efficient scrutiny for logical
+errors. The rigor that has been reached
 as a consequence is in sharp contrast to the
 standards of reasoning that were accepted
-in the late 1930's. Few of the articles pub-
-lished then by Econometrica or by the Re-
-view of Economic Studies would pass the
+in the late 1930's. Few of the articles published
+then by Econometrica or by the Review
+of Economic Studies would pass the
 acid test of removing all their economic
-interpretations and letting their mathemati-
-cal infrastructure stand on its own. The
-greater logical solidity of more recent analy-
-ses has contributed to the rapid contempo-
-rary construction of economic theory. It has
+interpretations and letting their mathematical
+infrastructure stand on its own. The
+greater logical solidity of more recent analyses
+has contributed to the rapid contemporary
+construction of economic theory. It has
 enabled researchers to build on the work of
-their predecessors and to accelerate the cu-
-mulative process in which they are partici-
-pating.
+their predecessors and to accelerate the cumulative
+process in which they are participating.
+
 But a Grand Unified Theory will remain
 out of the reach of economics, which will
-keep appealing to a large collection of indi-
-vidual theories. Each one of them deals
+keep appealing to a large collection of individual
+theories. Each one of them deals
 with a certain range of phenomena that it
 attempts to understand and to explain.
 When it acquires an axiomatic form, its
 explicit assumptions delimit its domain of
-applicability and make illegitimate overstep-
-ping of its boundary flagrant. Some of those
+applicability and make illegitimate overstepping
+of its boundary flagrant. Some of those
 theories take a comprehensive view of an
 economic system and bring insights into the
 solutions of several global problems. For
 instance, prices contribute to achieving an
-efficient use of resources, to equalizing sup-
-ply and demand for commodities, and to
+efficient use of resources, to equalizing supply
+and demand for commodities, and to
 preventing the formation of destabilizing
-coalitions. In every case, a theoretical expla-
-nation must be provided. The assumptions,
+coalitions. In every case, a theoretical explanation
+must be provided. The assumptions,
 which cannot be satisfied by all economic
 observations, are the present outcome of a
 continuing weakening process.
@@ -45,8 +45,8 @@ to take into account the large number of its
 commodities, the equally large number of
 its prices, the multitude of its agents, and
 their interactions requires a mathematical
-model. Economists have successfully con-
-structed such a model because the central
+model. Economists have successfully constructed
+such a model because the central
 concept of the quantity of a commodity has
 a natural linear structure. The action of an
 agent can then be described by listing the
@@ -64,37 +64,37 @@ set for sometimes dazzling mathematical
 developments that began with the elements
 of differential calculus and linear algebra
 and that gradually called on an ever broader
-array of powerful techniques and funda-
-mental results offered by mathematics. Thus,
+array of powerful techniques and fundamental
+results offered by mathematics. Thus,
 the three roles of prices given earlier as
-instances were illuminated by basic mathe-
-matical theorems: the first, the achievement
+instances were illuminated by basic mathematical
+theorems: the first, the achievement
 of an efficient use of resources, by results of
-convex analysis; the second, the equaliza-
-tion of supply and demand for commodities,
+convex analysis; the second, the equalization
+of supply and demand for commodities,
 by results of fixed point theory; the third,
-the prevention of the formation of destabi-
-lizing coalitions, by results of the theory of
+the prevention of the formation of destabilizing
+coalitions, by results of the theory of
 integration and of nonstandard analysis. In
 those three cases, the lag between the date
 of a mathematical discovery and the date of
-its application to economic theory de-
-creased over time. It was notably short for
-nonstandard analysis, founded at the begin-
-ning of the 1960's by Abraham Robinson1
+its application to economic theory decreased
+over time. It was notably short for
+nonstandard analysis, founded at the beginning
+of the 1960's by Abraham Robinson1
 and applied to economics by Donald Brown
 and Abraham Robinson (1972).
 The last, and most recently developed, of
 those three instances can be chosen, as can
 either of the other two, for a more detailed
-illustration. Competition is perfect when ev-
-ery agent's influence on the outcome of
-economic activity is insignificant. The in-
-fluence of their totality on that outcome is,
-however, significant. It is to solve the prob-
-lem of aggregating negligible quantities so
-as to obtain a nonnegligible sum that inte-
-gration was invented. In this perspective,
+illustration. Competition is perfect when every
+agent's influence on the outcome of
+economic activity is insignificant. The influence
+of their totality on that outcome is,
+however, significant. It is to solve the problem
+of aggregating negligible quantities so
+as to obtain a nonnegligible sum that integration
+was invented. In this perspective,
 the application of integration theory to the
 study of economic competition is entirely
 natural. That application requires the set of

@@ -1,19 +1,19 @@
-therefore be placed on tendencies observ-
-able by comparing typical data for a
+therefore be placed on tendencies observable
+by comparing typical data for a
 limited number of consecutive periods, and
 importance will be attributed to the fact
 that when the Residual is used as a point of
 departure for estimating benefits, and the
-costs are defined as those of our progress-
-generatinog inputs, the benefit-trends and
-cost-trends show a fairly consistent rela-
-tionship that "makes sense."
-The method of the Residual can be em-
-ployed in different ways. Kendrick has
+costs are defined as those of our progressgeneratinog
+inputs, the benefit-trends and
+cost-trends show a fairly consistent relationship
+that "makes sense."
+The method of the Residual can be employed
+in different ways. Kendrick has
 measured a magnitude he calls total factor
 productivity, this being a productivity
-measure from which he excludes the conse-
-quences of allocational shifts among sectors
+measure from which he excludes the consequences
+of allocational shifts among sectors
 (his industry groupings). Hence here the
 shifts, which in fact have favored the
 higher-productivity sectors (industry
@@ -25,35 +25,35 @@ has measured a magnitude which he calls
 differs from his "total factor productivity"
 only in that it registers the results of the
 intersector shifts as productivity-increases
-rather than as increase of weighted input-
-quantity. Both concepts relate to the pri-
-vate domestic economy.
-Both measures used by Kendrick regis-
-ter larger productivity-increases than those
-consistent with the usual two-factor class-
-room models, because his input-estimates
+rather than as increase of weighted inputquantity.
+Both concepts relate to the private
+domestic economy.
+Both measures used by Kendrick register
+larger productivity-increases than those
+consistent with the usual two-factor classroom
+models, because his input-estimates
 include estimates of farm land and of real
 estate (site land) as part of his estimate of
 capital. The relative fixity of this input
-reduces the growth-rates of physical in-
-puts, thus increasing the Residual. Aside
+reduces the growth-rates of physical inputs,
+thus increasing the Residual. Aside
 from this, some technical considerations
 suggest that, by their own standards, the
 Kendrick measures of productivity-gains
 err somewhat on the high side but other
-considerations point in the opposite direc-
-tion.
+considerations point in the opposite direction.
+
 From 1900 to 1929, factor productivity,
-including the favorable effect of inter-
-group shifts, rose at an annual compound
+including the favorable effect of intergroup
+shifts, rose at an annual compound
 rate of 1.8 percent (during the last ten
 years of the period it rose at 2.0 percent);
 from 1929 to 1948 the rise occurred at the
 rate of 2.3 percent; from 1948 to 1966 at
 2.8 percent, with no acceleration during
 these past eighteen years. If we exclude
-from the productivity-increase the favor-
-able effect of Kendrick's intergroup shifts,
+from the productivity-increase the favorable
+effect of Kendrick's intergroup shifts,
 we obtain somewhat smaller productivity
 increases but broadly similar trends for
 these, except that some further accelera-

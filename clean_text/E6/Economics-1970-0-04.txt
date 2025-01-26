@@ -1,32 +1,32 @@
 edge.' Even what in the usual neoclassical
-model is considered mere factor-substitu-
-tion is in this alternative framework viewed
+model is considered mere factor-substitution
+is in this alternative framework viewed
 as implying the invention of new types of
-goods, viz. of less labor-intensive equip-
-ment. I will explain later why I will
-merely keep an eye on the conclusions ob-
-tainable from this construction which is
+goods, viz. of less labor-intensive equipment.
+I will explain later why I will
+merely keep an eye on the conclusions obtainable
+from this construction which is
 neither neoclassical nor Cambridgeian,
 and why the main part of my analysis
-will move in the framework usually re-
-ferred to as neoclassical.2 Objections raised
+will move in the framework usually referred
+to as neoclassical.2 Objections raised
 against the neoclassical models are quite
-inconclusive in their present form, be-
-cause the question is not whether the as-
-sumptions underlying such models are
+inconclusive in their present form, because
+the question is not whether the assumptions
+underlying such models are
 "'realistic" (a good photograph of reality),
-but whether in the real world these as-
-sumptions are violated in such respects
+but whether in the real world these assumptions
+are violated in such respects
 and to such an extent as to render the
-analytical results misleading. This the cri-
-tics have so far not even tried to show.
+analytical results misleading. This the critics
+have so far not even tried to show.
 I. A Ratio of Benefit-Streamt to Cost and the
 Corresponding Average Social
 Rate of Return
 The costs of generating progress consist
 of the costs of producing new knowledge,
-and the costs of increased per-capita knowl-
-edge-distribution, and of the extra-costs of
+and the costs of increased per-capita knowledge-
+distribution, and of the extra-costs of
 chiangeovers from the use of old to the use of
 new knowledge. This seems a reasonable
 way of looking at our problem, because
@@ -38,22 +38,22 @@ improved diets, etc. play no major role. There remains
 an ambiguity in connection with the consequences of
 intersector shifts, on which see the discussion of the two
 Kendrick measures in Section III.
-2 To illustrate with the simplest kind of Cobb-
-Douglas function applicable to the problem, as well as
+2 To illustrate with the simplest kind of CobbDouglas
+function applicable to the problem, as well as
 this is possible for a single period (t= n):
 Q(n) = F( E LR, E KR, LR(n), KE(n),
 o o
 LA(n), KA(n))L4(n)K$(n)
 LR, KR = research-type inputs, in the broad sense.
 LE(n), KE(n) = education (knowledge-distribution)
-inputs which were applied in the past, or are being ap-
-plied in period n, to the labor force of period n, expressed  per capita of this labor force.
+inputs which were applied in the past, or are being applied
+in period n, to the labor force of period n, expressed  per capita of this labor force.
 LA(n), KA(n) =inputs required for changing over to
-improved industrial methods (mainly the obsolescence-
-component of capital-replacement)..
+improved industrial methods (mainly the obsolescencecomponent
+of capital-replacement)..
 Lc(n), Kc(n) = those inputs of period n not accounted
-for in the argument of F, except that the education in-
-puts applied in period n to persons who are not yet
+for in the argument of F, except that the education inputs
+applied in period n to persons who are not yet
 members of the labor force belong neither in Lc(n),
 Kc(n) nor of course in the argument of F.
 The algebraic form and the parameters of F depend on
@@ -63,35 +63,35 @@ expressing themselves in the R and E inputs; various
 inputs in foreign economies; the relative weight of that
 part of the old knowledge which remains useful when
 new knowledge is acquired, etc. It will be seen later  that the convenient definition of the rate of technological  progress here is d In F/dt.
-In this model avoidance of the implication of econ-
-omies of scale would require (3<1-a, instead of the  conventional (3=1 -a, but it may be preferable to face
+In this model avoidance of the implication of economies
+of scale would require (3<1-a, instead of the  conventional (3=1 -a, but it may be preferable to face
 the problem of such economies as one giving rise to the
 qualifications discussed in the opening paragraph of
 Section III.
 The progress-generating inputs should be defined so
 that if the variables in the argument of F assume the
-values to which zero progress-generating input cor-
-responds, then d In F/dt=O (in which case, however,
+values to which zero progress-generating input corresponds,
+then d In F/dt=O (in which case, however,
 JLc and IKc would be larger than at positive values of the
-progress-inputs and of this derivative). Hence the prog-
-ress-generating inputs for period n consist of the
-period's additions to the two E terms; and of the in-
-crease of LB and KE expressed per capita of the labor
-force of period n, as compared to the immediately pre-
-ceding period's Lg and KB expressed per capita of that
-period's labor force; and of LA(n) and KA(n). In prin-
-ciple, one of the magnitudes representing a progress-
-input (increased per capita education) could turn out
+progress-inputs and of this derivative). Hence the progress-
+generating inputs for period n consist of the
+period's additions to the two E terms; and of the increase
+of LB and KE expressed per capita of the labor
+force of period n, as compared to the immediately preceding
+period's Lg and KB expressed per capita of that
+period's labor force; and of LA(n) and KA(n). In principle,
+one of the magnitudes representing a progressinput
+(increased per capita education) could turn out
 to be negative, and avoidance of this awkwardness
 would then call for some adjustments of terminology,
 but in our context this may be disregarded.  If the methods of measuring progress call for limiting
-Q to the private sector (usually including government-
-owned enterprise), then Lc and Kc should also be so
-limited, but the argument of F should nevertheless in-
-clude also the public-sector inputs of the type specified
+Q to the private sector (usually including governmentowned
+enterprise), then Lc and Kc should also be so
+limited, but the argument of F should nevertheless include
+also the public-sector inputs of the type specified
 in the lines under the equation.
-The larger cost-base to be defined in Section II in-
-volves "charging" to the progress generated in a period  all progress-generating inputs for the period; the smaller
+The larger cost-base to be defined in Section II involves
+"charging" to the progress generated in a period  all progress-generating inputs for the period; the smaller
 cost-base to be defined in Section II involves charging
 merely the "profit-oriented" progress-inputs, which in
 turn implies that the costs of the other progress-inputs

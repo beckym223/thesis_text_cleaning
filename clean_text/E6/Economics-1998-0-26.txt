@@ -43,7 +43,7 @@ sorts of good things go together. Strong real
 3 The standard expression for the residual, R = pdy -
 iwIdL - (p + 5)dK has a "dual" representation, which is:
 R - Ldw + Kd(p + 6) - y-dp. T'his form simply says
-that the fruits of real cost reduction have to go some-
-where-either to workers (Ldw) or to owners of capital
-[Kd(p + 6)] or, in the form of lower prices to the activ-
-ity's customers (-y7dp).
+that the fruits of real cost reduction have to go somewhere-
+either to workers (Ldw) or to owners of capital
+[Kd(p + 6)] or, in the form of lower prices to the activity'
+s customers (-y7dp).

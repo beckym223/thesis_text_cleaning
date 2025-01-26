@@ -1,6 +1,6 @@
 Macroeconomics was born as a distinct field
-in the 1940's, as a part of the intellectual re-
-sponse to the Great Depression. The term then
+in the 1940's, as a part of the intellectual response
+to the Great Depression. The term then
 referred to the body of knowledge and expertise
 that we hoped would prevent the recurrence of
 that economic disaster. My thesis in this lecture
@@ -8,10 +8,10 @@ is that macroeconomics in this original sense
 has succeeded: Its central problem of depression
 prevention has been solved, for all practical
 purposes, and has in fact been solved for many
-decades. There remain important gains in wel-
-fare from better fiscal policies, but I argue that
-these are gains from providing people with bet-
-ter incentives to work and to save, not from
+decades. There remain important gains in welfare
+from better fiscal policies, but I argue that
+these are gains from providing people with better
+incentives to work and to save, not from
 better fine-tuning of spending flows. Taking
 U.S. performance over the past 50 years as a
 benchmark, the potential for welfare gains from
@@ -21,10 +21,10 @@ short-run demand management.
 My plan is to review the theory and evidence
 leading to this conclusion. Section I outlines the
 general logic of quantitative welfare analysis, in
-which policy comparisons are reduced to differ-
-ences perceived and valued by individuals. It
-also provides a brief review of some exam-
-ples-examples that will be familiar to
+which policy comparisons are reduced to differences
+perceived and valued by individuals. It
+also provides a brief review of some examples-
+examples that will be familiar to
 many-of changes in long-run monetary and
 fiscal policies that consumers would view as
 equivalent to increases of 5-15 percent in their
@@ -34,24 +34,24 @@ which a single consumer is magically relieved
 of all consumption variability about trend. How
 much average consumption would he be willing
 t
-o give up in return? About one-half of one-
-tenth of a percent, I calculate. I will defend this
+o give up in return? About one-half of onetenth
+of a percent, I calculate. I will defend this
 estimate as giving the right order of magnitude
 of the potential gain to society from improved
-stabilization policies, but to do this, many ques-
-tions need to be addressed.
-How much of aggregate consumption vari-
-ability should be viewed as pathological? How
+stabilization policies, but to do this, many questions
+need to be addressed.
+How much of aggregate consumption variability
+should be viewed as pathological? How
 much can or should be removed by monetary
 and fiscal means? Section III reviews evidence
-bearing on these questions. Section IV consid-
-ers attitudes toward risk: How much do people
+bearing on these questions. Section IV considers
+attitudes toward risk: How much do people
 dislike consumption uncertainty? How much
 would they pay to have it reduced? We also
-know that business-cycle risk is not evenly dis-
-tributed or easily diversified, so welfare cost
-estimates that ignore this fact may badly under-
-state the costs of fluctuations. Section V reviews
+know that business-cycle risk is not evenly distributed
+or easily diversified, so welfare cost
+estimates that ignore this fact may badly understate
+the costs of fluctuations. Section V reviews
 recently developed models that let us explore
 this possibility systematically. These are hard
 questions, and definitive answers are too much
@@ -72,7 +72,7 @@ U((l + A)CA) = U(CB).
 We call this number A-in units of a percentage
 of all consumption goods-the welfare gain of
 a change in policy from A to B. To evaluate the
-effects of policy change on many different con-
-sumers, we can calculate welfare gains (perhaps
+effects of policy change on many different consumers,
+we can calculate welfare gains (perhaps
 losses, for some) for all of them, one at a time,
 and add the needed compensations to obtain the

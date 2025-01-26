@@ -1,51 +1,51 @@
-* A realistic norm will make income and em-
-ployment dependent on systematic monetary
+* A realistic norm will make income and employment
+dependent on systematic monetary
 policy, and thus violate rational expectations
 theory; and
-* A realistic norm will make current consump-
-tion dependent on the current generation's
-social security receipts, in violation of Ricar-
-dian equivalence.
+* A realistic norm will make current consumption
+dependent on the current generation's
+social security receipts, in violation of Ricardian
+equivalence.
 Additionally, insofar as the behavior assumed
-by the early Keynesians differed from the be-
-havior that produces the neutralities, there is
+by the early Keynesians differed from the behavior
+that produces the neutralities, there is
 likely to be a bias in favor of the Keynesians.
 The Keynesians based their models on their
-observation of motivations, rather than on ab-
-stract derivations. If there is a difference be-
-tween real behavior and behavior derived from
+observation of motivations, rather than on abstract
+derivations. If there is a difference between
+real behavior and behavior derived from
 abstract preferences, New Classical economics
 has no way to pick up those differences. In
-contrast, models with norms based on observa-
-tion will systematically incorporate such behav-
-ior-although, of course, as with any method,
+contrast, models with norms based on observation
+will systematically incorporate such behavior-
+although, of course, as with any method,
 there is the possibility for error.
-Inclusion of the "missing motivations in mac-
-roeconomics" then combines the observations
+Inclusion of the "missing motivations in macroeconomics"
+then combines the observations
 of the Keynesians with the intentionality of
-economic decisions in New Classical econom-
-ics. Such a synthesis yields the best of the two
+economic decisions in New Classical economics.
+Such a synthesis yields the best of the two
 approaches.
-Two Disclaimers.--Before beginning in ear-
-nest, let me offer two brief disclaimers. First,
+Two Disclaimers.--Before beginning in earnest,
+let me offer two brief disclaimers. First,
 none of the behavior revealing of the norms that
 are introduced in this lecture will be new. On
-the contrary, I have purposefully chosen phe-
-nomena that have been emphasized since The
+the contrary, I have purposefully chosen phenomena
+that have been emphasized since The
 General Theory by macroeconomists who have
 followed Keynes in voicing their continuing
-doubts about classical interpretations of macro-
-economic behavior.
+doubts about classical interpretations of macroeconomic
+behavior.
 Second, this lecture will discuss different
 norms that respectively correspond to the five
 neutralities. I shall assume that these norms are
 exogenous. Such assumptions of exogeneity are
-standard in economic analysis. In a given prob-
-lem in a given time frame, some terms are
+standard in economic analysis. In a given problem
+in a given time frame, some terms are
 assumed constant, while others are allowed to
-vary. I ask you to withhold your doubts regard-
-ing whether such exogeneity is a correct as-
-sumption or not. The incorporation of such
+vary. I ask you to withhold your doubts regarding
+whether such exogeneity is a correct assumption
+or not. The incorporation of such
 endogeneity is the next step-not the first
 step-in the study of the effect of norms on
 macroeconomics, especially since such endoge-  neity may sometimes dampen, but will rarely
@@ -56,10 +56,10 @@ overview of each of the five neutrality results.
 A. Dependence of Consumption on Wealth,
 Not Income
 Standard theory tells us that, under only
-somewhat special conditions, consumption de-
-pends on wealth, which is the value of current
-assets plus the discounted value of future earn-
-ings.7 Thus there is no tendency for people to
+somewhat special conditions, consumption depends
+on wealth, which is the value of current
+assets plus the discounted value of future earnings.
+7 Thus there is no tendency for people to
 make their expenditures conform to the pattern
 of their income receipts (as long as their wealth
 is given).
@@ -67,13 +67,13 @@ Changes in the pattern of current income that
 leave overall wealth constant are neutral in their
 effects on current consumption.
 B. The Modigliani-Miller Theorem
-One version of the Modigliani-Miller Theo-
-rem says that a firm's investment strategy is
+One version of the Modigliani-Miller Theorem
+says that a firm's investment strategy is
 totally independent of its liquidity position.8
-Thus, for example, a corporation with an unex-
-pected windfall will not spend any additional
-investment dollars. Instead, it will pass the  windfall on to shareholders or seek other finan-
-cial investments, since it will make only those
+Thus, for example, a corporation with an unexpected
+windfall will not spend any additional
+investment dollars. Instead, it will pass the  windfall on to shareholders or seek other financial
+investments, since it will make only those
 investments whose risk-adjusted rate of return
 exceeds the rate of return on capital.
 Changes in the firm's finances will thus be  neutral in their effect on current investment.
@@ -81,8 +81,8 @@ C. Natural Rate Theory
 According to Natural Rate Theory, there is
 some single rate of unemployment that is the
 only level that could be permanently maintained
-without ever-increasing inflation or ever-
-increasing deflation.9 A fiscal/monetary policy
+without ever-increasing inflation or everincreasing
+deflation.9 A fiscal/monetary policy
 mix that sought to maintain employment that
 was any higher would result in permanently
 increasing inflation. A fiscal/monetary mix that

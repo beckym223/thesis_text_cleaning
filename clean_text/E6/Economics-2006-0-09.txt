@@ -1,17 +1,17 @@
 examples. Some consumers are slow learners,
 however, and many markets are inconsistent
-teachers, providing more irritation than illumi-
-nation, giving random awards and punishments
-that consumers cannot always translate into ac-
-curate road maps for successful behavior. Even
-if consumers do learn from experience, remem-
-ber P. T. Barnum's comment that "there is a
+teachers, providing more irritation than illumination,
+giving random awards and punishments
+that consumers cannot always translate into accurate
+road maps for successful behavior. Even
+if consumers do learn from experience, remember
+P. T. Barnum's comment that "there is a
 fool born every minute," additional mugs for
-the market game. Importantly, the sting of mar-
-ket punishment breeds agoraphobia. Just as
+the market game. Importantly, the sting of market
+punishment breeds agoraphobia. Just as
 children humiliated in the classroom may be
-turned off rather than educated, consumers hu-
-miliated in the marketplace may develop an
+turned off rather than educated, consumers humiliated
+in the marketplace may develop an
 aversion to markets, where opportunities for
 choice may be interpreted as opportunities for
 mistakes, embarrassment, and regret.
@@ -19,57 +19,57 @@ A. Memory and Perceptions
 There are now extensive experiments and
 insights from cognitive psychology showing
 that memory is imperfect and perceptions are
-often biased and statistically flawed (for de-
-tailed surveys see Matthew Rabin, 1998; Mc-
-Fadden, 1999). Consider, first, factual and
-affective memory. Our memories guide our per-
-ceptions of alternatives and our preferences, and
-imperfections in remembering facts and sensa-
-tions can distort our perspective, leading to in-
-consistent behavior and disappointment. Table
-1 summarizes some of these effects; I will com-
-ment on how they can lead to suboptimal mar-
-ket outcomes.
+often biased and statistically flawed (for detailed
+surveys see Matthew Rabin, 1998; McFadden,
+1999). Consider, first, factual and
+affective memory. Our memories guide our perceptions
+of alternatives and our preferences, and
+imperfections in remembering facts and sensations
+can distort our perspective, leading to inconsistent
+behavior and disappointment. Table
+1 summarizes some of these effects; I will comment
+on how they can lead to suboptimal market
+outcomes.
 What we store and retrieve from memory
 is affected by mood and emotion. Laura
 Carstensen (Susan M. Charles et al., 2003;
-James J. Gross et al., 1997) finds that advertise-
-ments are remembered better, and influence  choice more, when the affective content of the
+James J. Gross et al., 1997) finds that advertisements
+are remembered better, and influence  choice more, when the affective content of the
 ad matches the mood of the consumer. George
-Loewenstein (1996) finds that emotional sen-
-sations are more easily remembered than non-
-emotional ones, but emotions themselves are
-difficult to retrieve from memory-we remem-
-ber experiencing episodes of pleasure or pain,
+Loewenstein (1996) finds that emotional sensations
+are more easily remembered than nonemotional
+ones, but emotions themselves are
+difficult to retrieve from memory-we remember
+experiencing episodes of pleasure or pain,
 and these memories can powerfully condition
 our behavior-"once burned, twice shy"-but
 we fortunately cannot relive the experiences in
 their original intensity.
 Finding and retrieving information from
-memory is a complex cognitive task. The an-
-swer may be on the tip of your tongue, but
+memory is a complex cognitive task. The answer
+may be on the tip of your tongue, but
 sometimes the tip of your tongue is hard to find.
 We use contemporary cues to guide memory
 search, and to fill in and bluff when memory
-fails. Consequently, what we remember is in-
-fluenced substantially by current context and
+fails. Consequently, what we remember is influenced
+substantially by current context and
 mood, and these are vulnerable to manipulation
 in the presentation of choice alternatives.
 Selective memory is the phenomenon in
 which we remember what draws our attention.
-Coincidences stick in our minds, noncoinci-
-dences are forgotten. This influences probability
+Coincidences stick in our minds, noncoincidences
+are forgotten. This influences probability
 judgments. A good example is the belief in the
 "hot hand" in athletics, the idea that players can
 get in the groove for some period of time and
 play consistently above their game. Objectively,
 the hot-hand phenomenon does not exist-the
-observed distribution of runs of success is con-
-sistent with independent Bernoulli trials, not
-with heterogeneous spurts and slumps. The ex-
-planation is that long runs are coincidences that
-are selectively remembered. One of the impli-
-cations of selective memory for market behav-
-ior is that people build up elaborate and
-complex beliefs about causal relationships be-
-tween events, taking natural events personally,
+observed distribution of runs of success is consistent
+with independent Bernoulli trials, not
+with heterogeneous spurts and slumps. The explanation
+is that long runs are coincidences that
+are selectively remembered. One of the implications
+of selective memory for market behavior
+is that people build up elaborate and
+complex beliefs about causal relationships between
+events, taking natural events personally,

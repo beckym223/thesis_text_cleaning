@@ -2,31 +2,31 @@ The second is that, since the early years
 of the energy crisis in the 1970's, there have
 been enthusiastic portrayals of currently
 available technologies, ranging from light
-bulbs to electric motors, double-glazed win-
-dows and improved internal-combustion en-
-gines, that for some reason have not been
-successfully marketed. The interest contin-
-ues, and the recent National Academy of
+bulbs to electric motors, double-glazed windows
+and improved internal-combustion engines,
+that for some reason have not been
+successfully marketed. The interest continues,
+and the recent National Academy of
 Sciences study gave sympathetic attention,
 but no analysis, to a number of proposals
 for residential, commercial, industrial, and
 transportation energy management and for
 improved electricity production and fuel
-supply and concluded that, including reduc-
-tions in CFC's, "The United States could
-reduce or offset its greenhouse gas emis-
-sions by between 10 and 40 percent of 1990
+supply and concluded that, including reductions
+in CFC's, "The United States could
+reduce or offset its greenhouse gas emissions
+by between 10 and 40 percent of 1990
 levels at low cost or at some net saving, if
 the proper policies are implemented" (1991
 p. 73).
-All of these ideas are completely orthogo-
-nal to the econometric estimates. The
+All of these ideas are completely orthogonal
+to the econometric estimates. The
 Academy panel that produced the report
 was unable to offer an explanation for why
 these low-cost or negative-cost technologies
-have not caught on. Its quantitative assess-
-ment, including an allowance for elimina-
-tion of CFC's, ranged from as little as 10
+have not caught on. Its quantitative assessment,
+including an allowance for elimination
+of CFC's, ranged from as little as 10
 percent to as much as 40 percent of current
 U.S. emissions; CFC's aside, their range of
 possibility is from zero to about 30 percent.
@@ -40,9 +40,9 @@ decades.
 VIII
 With these qualifications, let us look at
 that 2 percent of GNP as a permanent
-reduction over the coming century. I con-
-sider it altogether improbable that the de-
-veloping world, at least for the next several
+reduction over the coming century. I consider
+it altogether improbable that the developing
+world, at least for the next several
 decades, will incur any significant sacrifice
 in the interest of reduced carbon (nor would
 I advise developing countries to do so).
@@ -52,14 +52,14 @@ the richer countries.
 Financing energy conservation, energy
 efficiency, and switching from high-carbon
 to lower-carbon or noncarbon fuels in Asia
-and Africa would not only be a major eco-
-nomic enterprise but a complex effort in
-international diplomacy and politics. If suc-
-cessful, it would increase the costs to the
+and Africa would not only be a major economic
+enterprise but a complex effort in
+international diplomacy and politics. If successful,
+it would increase the costs to the
 developed world by at least another percent
 or two on top of the 2 percent I mentioned.
-It is furthermore not easy to hide the trans-
-fer of resources on the order of a couple of
+It is furthermore not easy to hide the transfer
+of resources on the order of a couple of
 hundred billion dollars, dollars "budgeted"
 somehow or other, compared with hiding
 some of the costs due to regulation, such as
@@ -68,24 +68,24 @@ United States. The kind of thing we are
 talking about is inducing the Chinese,
 through our somehow offsetting their cost,
 to forgo a massive electrification based on
-coal and the cheapest coal-combustion tech-
-nology. Without engaging in blackmail, the
+coal and the cheapest coal-combustion technology.
+Without engaging in blackmail, the
 Chinese can assert that it is not in their
 interest to do that at their own expense,
 even if they are the keystone of a "social
-contract" and no other nation will do any-
-thing unless the Chinese fully participate.
+contract" and no other nation will do anything
+unless the Chinese fully participate.
 I shall sketch what I can imagine as a
 major attack on the greenhouse problem.
-And I should be explicit about what I can-
-not imagine. For reasons that I would be
-delighted to elaborate but for which I can-
-not take space here, a universal uniform
-carbon tax is not a solution that I can imag-
-ine. My reason is simple. A carbon tax suf-
-ficient to make a big dent in the greenhouse
-problem would have to be roughly equiva-
-lent at least to a dollar per gallon on motor
+And I should be explicit about what I cannot
+imagine. For reasons that I would be
+delighted to elaborate but for which I cannot
+take space here, a universal uniform
+carbon tax is not a solution that I can imagine.
+My reason is simple. A carbon tax sufficient
+to make a big dent in the greenhouse
+problem would have to be roughly equivalent
+at least to a dollar per gallon on motor
 fuel, and for the United States alone such a
 tax on coal, petroleum, and natural gas
 would currently yield close to half a trillion
@@ -96,5 +96,5 @@ requiring the United States to levy internal
 carbon taxation at that level, keeping the
 proceeds, would be ratified by the Senate.
 Reduce the tax by an order of magnitude
-and it becomes imaginable, but then it be-
-comes trivial as greenhouse policy.5
+and it becomes imaginable, but then it becomes
+trivial as greenhouse policy.5

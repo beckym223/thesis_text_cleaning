@@ -2,18 +2,18 @@ Reports of the demise of our discipline are
 grossly exaggerated.
 IV. The "Outputs" of Public Economics
 Having considered some indicators of
-the quality of our inputs and of the re-
-vealed preferences for our outputs, let me
-continue this exercise in casual (andcon-
-genial) empiricism by taking an unscien-
-tific but not unrepresentative sample of
+the quality of our inputs and of the revealed
+preferences for our outputs, let me
+continue this exercise in casual (andcongenial)
+empiricism by taking an unscientific
+but not unrepresentative sample of
 the outputs of economics, especially those
 bearing on policy. For this purpose, I
 draw on my chosen field of public finance,
 or public economics, to illustrate the telling
 conceptual and empirical advances of
-economics in recent decades and the result-
-ing enrichment of its offerings to the policy
+economics in recent decades and the resulting
+enrichment of its offerings to the policy
 maker. Indeed; such an appraisal offers so
 many healthy antidotes to "what's wrong
 with economics" that I was tempted to
@@ -24,10 +24,10 @@ carefully documented depth in survey
 volumes by Brookings and the National
 Bureau;2 second, I figured it might test
 your patience and mine; and third, it
-would have left no room for a confronta-
-tion with inflation. So I offer instead a
-miniaturized assessment of the achieve-
-ments of public economics as viewed
+would have left no room for a confrontation
+with inflation. So I offer instead a
+miniaturized assessment of the achievements
+of public economics as viewed
 through the policy prism.
 Public Expenditures
 Consider first the striking contributions
@@ -37,15 +37,15 @@ decisions on public expenditures. Partly,
 this reflects advances in economic science,
 for example, in the theory of public goods
 and human capital, and partly, creative
-new applications of the economist's char-
-acteristic way of looking at problems of
-choice, namely, through the lens of op-
-portunity costs, benefits, and alternative
+new applications of the economist's characteristic
+way of looking at problems of
+choice, namely, through the lens of opportunity
+costs, benefits, and alternative
 paths to a stated goal.
-Economics can offer much more con-
-crete guidance on efficient ways of allocat-
-ing resources to achieve stated govern-
-mental objectives than it can on what the
+Economics can offer much more concrete
+guidance on efficient ways of allocating
+resources to achieve stated governmental
+objectives than it can on what the
 public-private sector division of resources
 should be. That may be a good thing in
 that presidents and congressmen view the
@@ -56,13 +56,13 @@ at least accept, economic guidance on the
 choice among competing methods of
 achieving these goals.
 Nonetheless, rapid progress in the
-theory of public goods since the appear-
-ance of the Samuelson classic on "The
+theory of public goods since the appearance
+of the Samuelson classic on "The
 Pure Theory of Public Expenditures" just
 twenty years ago has vastly improved on
 the simplistic theory it replaced. It has
-facilitated straight thinking on the deriva-
-tion of conditions for efficient public-sector
+facilitated straight thinking on the derivation
+of conditions for efficient public-sector
 allocations from private evaluations and
 on the articulation of social priorities
 through the political process.
@@ -70,8 +70,8 @@ Interwoven with the newer thinking
 about public goods has been a resurgent
 interest in externalities or spillover effects.
 In a sense, the pure collective good is a
-case of total externality-all of its bene-
-fits are external and nonmarketable since
+case of total externality-all of its benefits
+are external and nonmarketable since
 nobody can be excluded from them. That
 may clarify thinking but gives little policy
 guidance.
@@ -81,5 +81,5 @@ disparate areas as pollution, federal aid,
 and the law. When pollution became a
 national concern, economists quickly drew
 on their tool kit to develop proposals for
-antipollution taxes (within the context of  2 See Alan Blinder and Robert Solow et al. This is the  capstone volume of the Brookings Studies on Govern-  ment Finance, directed by Joseph A. Pechman, which  has produced 35 books in the past decade. See also Carl  Shoup et al. This was one of several survey volumes un-  der the general heading, Economic Researchl: Retrospect  and Prospect, based on the Bureau's Fiftieth Anniver-
-sary Colloquia.
+antipollution taxes (within the context of  2 See Alan Blinder and Robert Solow et al. This is the  capstone volume of the Brookings Studies on Govern-  ment Finance, directed by Joseph A. Pechman, which  has produced 35 books in the past decade. See also Carl  Shoup et al. This was one of several survey volumes un-  der the general heading, Economic Researchl: Retrospect  and Prospect, based on the Bureau's Fiftieth Anniversary
+Colloquia.

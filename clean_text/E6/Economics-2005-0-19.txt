@@ -1,11 +1,11 @@
 income is withdrawn from personal accounts,
 which can be bequeathed if the individual dies
-before exhausting the account or before annu-
-itizing the accumulated balance.
+before exhausting the account or before annuitizing
+the accumulated balance.
 The analysis of these three types of distortion  should make it clear that the shift to a "notional"
 defined contribution system would help only a  little to reduce the adverse effects of the current
-pay-as-you-go system. A notional defined con-
-tribution system is one in which each individual
+pay-as-you-go system. A notional defined contribution
+system is one in which each individual
 has an account that is credited with his tax
 payments and with a notional rate of return on
 his accumulated balance, but in which there is
@@ -18,73 +18,73 @@ present value of consumption is not changed.
 The distortion in labor supply and in the form of
 compensation is reduced (but not eliminated)
 because individuals can more clearly see the
-link between their taxes and their future bene-
-fits. A notional defined contribution system also
+link between their taxes and their future benefits.
+A notional defined contribution system also
 reduces the distortion in retirement decisions
 because individuals reduce their future benefits
 if they retire early and increase them by delayed
-retirement. But even with this improved trans-
-parency, the low implicit pay-as-you-go rate of
+retirement. But even with this improved transparency,
+the low implicit pay-as-you-go rate of
 return leaves a substantial distortion in work
 and compensation incentives.
-Although the scope for reducing the substan-
-tial deadweight losses of the pure pay-as-you-go
+Although the scope for reducing the substantial
+deadweight losses of the pure pay-as-you-go
 system and for increasing the present value of
 all future consumption should provide a strong
 incentive for a change in policy, they are not the
 reason that has driven the political process in
-many countries to move from a pure pay-as-
-you-go to a mixed system or to consider such a
-change. The primary driving force is the recog-
-nition that the increasing age of the population
+many countries to move from a pure pay-asyou-
+go to a mixed system or to consider such a
+change. The primary driving force is the recognition
+that the increasing age of the population
 will require a very large tax increase or benefit
 cut if nothing is done to change the existing
 system. This is not a temporary effect of the
 baby boom generation reaching retirement age
 but a permanent result of the trend to increased
-longevity. This demographic change is signifi-
-cant not only because it drives the political
-process but also because it increases the poten-
-tial gain of making such a change.
-The desirability of shifting to an investment-
-based or mixed system depends on four issues: (a)
+longevity. This demographic change is significant
+not only because it drives the political
+process but also because it increases the potential
+gain of making such a change.
+The desirability of shifting to an investmentbased
+or mixed system depends on four issues: (a)
 the transition process and its cost; (b) the ongoing  administrative costs; (c) the riskiness of financial
 investments; and (d) the effect on the income
 distribution and especially on the poorest group. I
 have done work on these issues during the past
 decade, both alone and with colleagues Jeffrey
-Liebman, Elena Ranguelova, and Andrew Sam-
-wick. I will now summarize what I have learned.
-I commented earlier on the transition prob-
-lem when I discussed my experience with Pres-
-ident Reagan. The common view that the
+Liebman, Elena Ranguelova, and Andrew Samwick.
+I will now summarize what I have learned.
+I commented earlier on the transition problem
+when I discussed my experience with President
+Reagan. The common view that the
 transition from a pure pay-as-you-go system to
-a mixed system requires the transition genera-
-tion to "pay double"-once to save for their
+a mixed system requires the transition generation
+to "pay double"-once to save for their
 own retirement and once to meet obligations to
 existing retirees-is wrong. As examples of
 what could be done, Andrew Samwick and I
 (1998a, 1998b, 2002) showed how the projected
 rise in the pay-as-you-go tax rate to more than
 19 percent19 could be avoided if individuals
-contribute just 1.5 percent of wages out-of-
-pocket to personal retirement accounts. The key
+contribute just 1.5 percent of wages out-ofpocket
+to personal retirement accounts. The key
 to the transition is using personal retirement
-account annuities to supplement the pay-as-
-you-go benefits. The growth of the PRA annu-
-ities offsets the slowdown of the pay-as-go-
-benefits that results from not increasing the tax
+account annuities to supplement the pay-asyou-
+go benefits. The growth of the PRA annuities
+offsets the slowdown of the pay-as-gobenefits
+that results from not increasing the tax
 rate as the population ages.
 There is no free lunch in this process. The
-key is that additional saving during the transi-
-tion years can reduce long-run costs. This extra
-saving could be voluntary, induced by a match-
-ing PRA contribution out of existing payroll tax
+key is that additional saving during the transition
+years can reduce long-run costs. This extra
+saving could be voluntary, induced by a matching
+PRA contribution out of existing payroll tax
 receipts.20 Although the matching would reduce
 the "trust fund" balances, the transition need not
-involve borrowing by the Social Security sys-
-tem from general revenue (Feldstein and Sam-
-wick, 2002).21
+involve borrowing by the Social Security system
+from general revenue (Feldstein and Samwick,
+2002).21
 19 The 19 percent is based on Social Security Administra-  tion's "intermediate" demographic and economic assumptions  but ignores the effect of the higher tax rate of the size of the tax  base for the payroll and personal income taxes.  20 The matching rate could be higher for low income  individuals to assure very high levels of participation. In the  extreme, the entire contribution for low-income individuals
 could come from payroll tax revenue, requiring no contri-  bution of their own. High income individuals would gener-  ally welcome a chance for more tax favored saving and  could therefore be induced to participate with little or no
 matching.  21 Stated differently, the Social Security Trust Fund  could remain positive and be rising at the end of the 75 year  projection period, showing that the system has long-run

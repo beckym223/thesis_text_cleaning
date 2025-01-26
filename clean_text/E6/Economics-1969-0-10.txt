@@ -2,22 +2,22 @@ all costs, whether easily countable or not,
 and evaluate all rewards, however hard
 they are to evaluate, is one which emerges
 squarely out of economics and which is at
-least a preliminary guideline in the forma-
-tion of the moral judgment, in what might
+least a preliminary guideline in the formation
+of the moral judgment, in what might
 be called the "economic ethic."
 Nevertheless, the economic ethic, or the
 total cost-benefit principle, is subject to
 sharp challenge. Two principal criticisms
 have been made of it, the first of which I
-think is probably not valid, and the sec-
-ond of which may be valid under limited
+think is probably not valid, and the second
+of which may be valid under limited
 circumstances. The criticism that I think
 is not valid is that cost-benefit analyses in
-particular, or economic principles in gen-
-eral, imply selfish motivation and an in-
-sensitivity to the larger issues of malevo-
-lence, benevolence, the sense of commu-
-nity and so on. It is quite true, as shown
+particular, or economic principles in general,
+imply selfish motivation and an insensitivity
+to the larger issues of malevolence,
+benevolence, the sense of community
+and so on. It is quite true, as shown
 above, that economists have neglected the
 problem of malevolence and benevolence.
 Nevertheless, our attitudes towards others
@@ -26,19 +26,19 @@ measure other preferences, either by some
 principle of "revealed preference" or by
 direct questioning. It is entirely within the
 competence of economics, for instance, to
-develop a concept of the "rate of benevo-
-lence" which is the quantity of exchange-
-ables, as measured in real dollars, which a
+develop a concept of the "rate of benevolence"
+which is the quantity of exchangeables,
+as measured in real dollars, which a
 person would be willing to sacrifice in
 order to contemplate an increase of one
-real dollar in the welfare of another per-
-son. If the rate of benevolence is zero, of
-course, we have indifference or pure self-
-ishness; if the rate of benevolence is nega-
-tive we have malevolence, in which case
-people need compensation in order to con-
-template without loss the increased wel-
-fare of an enemy, or in reverse would be
+real dollar in the welfare of another person.
+If the rate of benevolence is zero, of
+course, we have indifference or pure selfishness;
+if the rate of benevolence is negative
+we have malevolence, in which case
+people need compensation in order to contemplate
+without loss the increased welfare
+of an enemy, or in reverse would be
 willing to damage themselves in order to
 damage another. The rate of malevolence
 then would be the amount in real dollars
@@ -53,28 +53,28 @@ case our rate of benevolence towards
 North Vietnam is at least minus four. In
 determining cost-benefit analysis we can
 easily include rates of benevolence and
-malevolence, adding the benefits and sub-
-tracting the costs to those toward whom
+malevolence, adding the benefits and subtracting
+the costs to those toward whom
 we are benevolent, multiplied of course by
 the rate of benevolence, and subtracting
-the benefits and adding the costs, simi-
-larly modifed, to those towards whom we
+the benefits and adding the costs, similarly
+modifed, to those towards whom we
 are malevolent.
-The concept of a rate of benevolence, in-
-cidentally, is at least a partial solution to
+The concept of a rate of benevolence, incidentally,
+is at least a partial solution to
 the perplexing question of interpersonal
-comparisons of utility around which econ-
-omists have been doing a ritual dance for
+comparisons of utility around which economists
+have been doing a ritual dance for
 at least three generations. Any decision
 involving other people obviously involves
 these interpersonal comparisons. They are
-made, of course, inside the mind of the de-
-cision-maker and what his rates of benev-
-olence or malevolence are likely to be is
+made, of course, inside the mind of the decision-
+maker and what his rates of benevolence
+or malevolence are likely to be is
 determined by the whole social process in
 which he is embedded. Surely something
-can be said about this. We are, for in-
-stance, likely to be more benevolent to
+can be said about this. We are, for instance,
+likely to be more benevolent to
 people who are going to vote for us and
 perhaps malevolent to people who are
 going to vote against us. The economic
@@ -87,6 +87,6 @@ take over all the other social sciences.
 The second attack on the "economic
 ethic" is more fundamental and harder to
 repulse. This is the attack from the side
-of what I have elsewhere called the "he-
-roic ethic" [1]. In facing decisions, espe-
-cially those which involve other people, as
+of what I have elsewhere called the "heroic
+ethic" [1]. In facing decisions, especially
+those which involve other people, as

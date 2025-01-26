@@ -1,36 +1,36 @@
 production orientations will be empire-builders.
 In contrast, the role of the conscientious CFO is
 to curb those enthusiasms. Fifty years have
-elapsed since the publication of Modigliani-
-Miller. According to Zorn, when it first ap-
-peared, it did not describe the investment
-decision of large corporations. Now, quite pos-
-sibly, changes in corporate decision-making  since that time make it more realistic.65
+elapsed since the publication of ModiglianiMiller.
+According to Zorn, when it first appeared,
+it did not describe the investment
+decision of large corporations. Now, quite possibly,
+changes in corporate decision-making  since that time make it more realistic.65
 C. Summary
 The investment decision demonstrates once
 again that the respective neutrality result depends
 on the objective function of the decision makers.
 VII. Natural Rate Theory
 We now turn to natural rate theory. Once
-again, the debate concerns the behavior of eco-
-nomic decision makers. The early Keynesians
+again, the debate concerns the behavior of economic
+decision makers. The early Keynesians
 viewed wage setters, and possibly also price
 setters, as setting nominal wages and prices,
-respectively, without taking full account of in-
-flationary expectations. In contrast, New Clas-
-sical revisionists have assumed that wage and
+respectively, without taking full account of inflationary
+expectations. In contrast, New Classical
+revisionists have assumed that wage and
 price setters care only about relative wages or
 prices, and therefore wage and price setting will
 fully incorporate inflationary expectations. Such
 behavior yields a long-run neutrality result with
 severe limits on the ability of monetary and
-fiscal policy to affect unemployment and out-
-put. When wage and price setters care only
-about relative wages and relative prices, accel-
-erating inflation will occur if unemployment is
+fiscal policy to affect unemployment and output.
+When wage and price setters care only
+about relative wages and relative prices, accelerating
+inflation will occur if unemployment is
 below a critical level, called the natural rate;
-accelerating deflation will occur if unemploy-
-ment is above it.
+accelerating deflation will occur if unemployment
+is above it.
 As we shall see, such spirals occur because,
 at high levels of demand, the representative firm
 will wish to set the price of its product relative
@@ -42,11 +42,11 @@ in each period it also makes a bargain with its
 labor regarding next period's real wages. Next
 period's nominal price and nominal wage are then
 respectively set by adjusting this desired real price
-and this bargained real wage according to infla-
-tionary expectations. When demand is higher, the
+and this bargained real wage according to inflationary
+expectations. When demand is higher, the
 desired real price of the representative firm is
-higher for two reasons: on the demand side, be-
-cause the demand for its product is higher, and, on
+higher for two reasons: on the demand side, because
+the demand for its product is higher, and, on
 the cost side, because the bargained real wage is
 higher. That bargained real wage is higher both
 because the typical employee's opportunity costs,
@@ -56,34 +56,34 @@ desire for her labor is higher. Since the firm's
 owners, customers, and workers care only about
 real prices or real wages, a given level of real
 aggregate demand will be associated with a given
-real wage bargain between the firm and its work-
-ers, and a given desired real price for the firm's
-product. If unemployment is sufficiently low-
-below the natural rate-that desired real price will
+real wage bargain between the firm and its workers,
+and a given desired real price for the firm's
+product. If unemployment is sufficiently lowbelow
+the natural rate-that desired real price will
 be in excess of unity. If unemployment is above
 the natural rate, it will be less than unity.
 It is now easy to explain the inflationary and
-deflationary spirals in natural rate theory. Con-
-sider what happens when the representative firm
+deflationary spirals in natural rate theory. Consider
+what happens when the representative firm
 wishes to set its price above that of other firms.
-In this case, actual inflation will exceed ex-
-pected inflation. With such a positive gap be-
-tween actual and expected inflation, inflationary
-expectations will rise, as inflationary expecta-
-tions are adjusted upward to conform to reality.
+In this case, actual inflation will exceed expected
+inflation. With such a positive gap between
+actual and expected inflation, inflationary
+expectations will rise, as inflationary expectations
+are adjusted upward to conform to reality.
 But the firm's desired real price, and therefore
-the difference between actual and expected in-
-flation, will be unchanged as long as unemploy-
-ment is constant. There will be no abatement in
-the rise in expected inflation. Inflationary ex-
-pectations will be forever increasing, and infla-
-tion will rise with it, as nominal prices and
+the difference between actual and expected inflation,
+will be unchanged as long as unemployment
+is constant. There will be no abatement in
+the rise in expected inflation. Inflationary expectations
+will be forever increasing, and inflation
+will rise with it, as nominal prices and
 wages adjust the real wage bargains and the
-desired real prices for these increasing inflation-
-ary expectations. By similar logic, if unemploy-
-ment is above the natural rate, there will be a
+desired real prices for these increasing inflationary
+expectations. By similar logic, if unemployment
+is above the natural rate, there will be a
 deflationary spiral. The natural rate is the only
-sustainable level of unemployment without ac-
-celerating or decelerating inflation. It corre-
-sponds to the exact level of demand where firms
+sustainable level of unemployment without accelerating
+or decelerating inflation. It corresponds
+to the exact level of demand where firms
 wish to set a real price of exactly one.

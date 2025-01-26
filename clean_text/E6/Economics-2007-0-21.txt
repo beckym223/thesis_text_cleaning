@@ -1,32 +1,32 @@
-takes the form that nominal considerations af-
-fect real wage or price setting in some way or
+takes the form that nominal considerations affect
+real wage or price setting in some way or
 other.
 Evidence of one form of violation of the
 assumptions of natural rate theory is especially
 stark. That evidence concerns downward wage
-rigidity. Such wage behavior can easily be per-
-ceived statistically by examining distributions
-of wage-changes. These distributions are char-
-acterized by a bunching of wage changes at
+rigidity. Such wage behavior can easily be perceived
+statistically by examining distributions
+of wage-changes. These distributions are characterized
+by a bunching of wage changes at
 exactly zero; there are some wage changes just
 above zero in these distributions, but almost no
 wage changes just below.68 Careful studies have
 documented such wage stickiness in Australia,
-Canada, Germany, Japan, Mexico, New Zea-
-land, Switzerland, the United States, and the
+Canada, Germany, Japan, Mexico, New Zealand,
+Switzerland, the United States, and the
 United Kingdom.69,70 There seems to be no way
 to account for such nominal wage rigidity with
 the basic assumptions underlying natural rate
 theory: that participants in the economy care
 only about real prices and real wages.
-Wage stickiness also explains a macroeco-
-nomic observation that is an anomaly for natural
+Wage stickiness also explains a macroeconomic
+observation that is an anomaly for natural
 rate theory. Unemployment was so massive in
 the Great Depression that inflation should have
 been below inflationary expectations throughout
-this long period. With any natural-rate adaptive-
-expectations Phillips curve, such high unemploy-
-ment would have caused a deflationary spiral.  Data on inflation are available for 12 countries for
+this long period. With any natural-rate adaptiveexpectations
+Phillips curve, such high unemployment
+would have caused a deflationary spiral.  Data on inflation are available for 12 countries for
 the Great Depression. Not a single one of them  shows such a spiral.71 For example, the United
 States experienced rapid deflation from 1929 to
 1933, but inflation systematically neither rose nor
@@ -37,31 +37,31 @@ For example, a dynamic simulation of the US
 economy with money wage rigidity and with
 Depression-level unemployment fits the data all
 but exactly (Akerlof, Dickens, and Perry 1996).72
-Nominal wage rigidity may not only be sta-
-tistically perceptible; it can also be macroeco-
-nomically important, even outside of Great
+Nominal wage rigidity may not only be statistically
+perceptible; it can also be macroeconomically
+important, even outside of Great
 Depressions. Nominal wage rigidity imparts a
 long-run trade-off between unemployment and
 long-run inflation. This trade-off is of sufficient
 size that it should deter central banks from
-targeting very low levels of inflation. For exam-
-ple, simulations of the US economy (Akerlof,
+targeting very low levels of inflation. For example,
+simulations of the US economy (Akerlof,
 Dickens, and Perry 1996) show that an increase
 of the inflation target from 0 to 2 percent will
-permanently reduce unemployment by 1.5 per-
-centage points.73
+permanently reduce unemployment by 1.5 percentage
+points.73
 Norms as Explanation for Sticky Money
 Wages.-It seems to be impossible, or all but
 impossible, to explain the existence of sticky
 money wages, without relaxation of the basic
-assumption that the utility functions of employ-
-ees or of employers contain real arguments. A
+assumption that the utility functions of employees
+or of employers contain real arguments. A
 simple and natural amendment to the standard
 model explains such sticky money wages: that
 employees have a norm for what wages should
 be. According to that norm, they will lose utility
 from a money wage decline. Sticky money
-wages then result, as the bargains between em-
-ployers and employees reflect the presence of
+wages then result, as the bargains between employers
+and employees reflect the presence of
 this ideal in the utility function.
 Indeed, the study by Bewley (1999) gives

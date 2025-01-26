@@ -1,24 +1,24 @@
 A. Acceptance of Natural Rate Theory
-Most macroeconomists do not just view nat-
-ural rate theory as a useful null hypothesis.
+Most macroeconomists do not just view natural
+rate theory as a useful null hypothesis.
 They also see it as a description of reality. Such
 a view is revealed in textbook presentations.
 Economists accept natural theory for theoretical
 and empirical reasons.
 Theoretically, they view the assumptions of
-natural rate theory as realistic. A standard cri-
-terion for an economic model is that participants
+natural rate theory as realistic. A standard criterion
+for an economic model is that participants
 in the economy care only about real outcomes.
 That is the fundamental assumption of natural
 rate theory. Also, unlike our other neutrality
-results, natural rate theory is insensitive to de-
-viations due to "frictions," such as imperfect
+results, natural rate theory is insensitive to deviations
+due to "frictions," such as imperfect
 information, taxes, myopia, or transaction costs.
 As long as these "frictions" can be expressed
 solely in real terms, the neutrality result of
 natural rate theory will be robust.
-Empirical considerations have also been in-
-fluential in economists' acceptance of natural
+Empirical considerations have also been influential
+in economists' acceptance of natural
 rate theory. The original Phillips curve showed
 a close fit between the rate of change of nominal
 wages and the inverse of the unemployment rate
@@ -28,13 +28,13 @@ equation. In the United States in the late 1960s
 and early 1970s, however, such a simple inverse
 relation between changes in nominal wages and
 unemployment broke down, as both price and
-wage inflation rose, along with the unemploy-
-ment rate. Natural rate theory offered an expla-
-nation for this occurrence: it explained the rise
+wage inflation rose, along with the unemployment
+rate. Natural rate theory offered an explanation
+for this occurrence: it explained the rise
 in inflation by the large oil supply shock and
 also an increase in inflationary expectations,
-both of which shifted the Phillips curve out-
-ward; it explained the rise in unemployment by
+both of which shifted the Phillips curve outward;
+it explained the rise in unemployment by
 a decline in demand.
 Furthermore, new estimates of Phillips curves
 seemed to show that the theory closely fit the data.
@@ -46,22 +46,22 @@ reject that this sum is equal to one.66' 67 The stan-  dard errors of such estim
 they also fail to reject sums whose departure from
 one is of sufficient size to result in departures of
 economically significant magnitude from natural
-rate theory. But the standard treatment of the Phil-
-lips curve ignores this inconvenient fact.
+rate theory. But the standard treatment of the Phillips
+curve ignores this inconvenient fact.
 The textbooks thus typically present natural
-rate theory as a "just-so" story. It runs as fol-
-lows. The previous Keynesian economists had
+rate theory as a "just-so" story. It runs as follows.
+The previous Keynesian economists had
 posited a Phillips curve without a dependence
 on inflationary expectations. Friedman (1968)
 and Phelps (1968) perceived that such a theory
-could not result from models where the partic-
-ipants in the economy are concerned only with
+could not result from models where the participants
+in the economy are concerned only with
 real variables. They modified the relationship so
 that wage and price equations would be affected
 one for one by inflationary expectations. Such
 judicious use of economic theory explained the
-otherwise-mysterious finding of the simulta-
-neous increases in inflation and unemployment
+otherwise-mysterious finding of the simultaneous
+increases in inflation and unemployment
 of the late 1960s/early 1970s. The theory is also
 consistent with most econometric estimates.
 B. Nominal Considerations in Wage Behavior
@@ -70,9 +70,9 @@ wages that we asked concerning consumption
 and investment. Is there "excess sensitivity"
 relative to the respective neutrality? Natural
 rate theory is based on the assumption that
-wages and prices are set only with real con-
-siderations in mind. "Excess sensitivity" here
-66 See, for example, Robert J. Gordon (1977, table 3,  lines 6 and 7, 260).  67 Given the importance of such findings, it is remark-  able that their robustness to specifications of time period,  data, and exact specification of the Phillips curve has never  been subjected to tough tests-even though everything else  about the Phillips curve, including the natural rate of un-  employment itself, is considered to be estimated with great  imprecision. Akerlof, William T. Dickens, and George L.  Perry (2000) show a range of estimates for both wage and  price equations with many different specifications. These  estimates, particularly when made for periods of low infla-  tion, show considerable variation in the sum of the coeffi-
-cients on lagged inflation, dependent on the specification.  Another bit of evidence that suggests such estimates will be  sensitive to specification comes from the high standard  errors on the natural rate itself (Douglas Staiger, James H.  Stock, and Mark W. Watson 1997); it would be surprising  that the sum of lagged coefficients could be estimated  precisely if another component of the Phillips curve, the  natural rate, could be estimated only with very low preci-  sion. Gordon's own estimates show very different values for  this sum of coefficients. Of course, there is a theoretical
+wages and prices are set only with real considerations
+in mind. "Excess sensitivity" here
+66 See, for example, Robert J. Gordon (1977, table 3,  lines 6 and 7, 260).  67 Given the importance of such findings, it is remark-  able that their robustness to specifications of time period,  data, and exact specification of the Phillips curve has never  been subjected to tough tests-even though everything else  about the Phillips curve, including the natural rate of un-  employment itself, is considered to be estimated with great  imprecision. Akerlof, William T. Dickens, and George L.  Perry (2000) show a range of estimates for both wage and  price equations with many different specifications. These  estimates, particularly when made for periods of low infla-  tion, show considerable variation in the sum of the coefficients
+on lagged inflation, dependent on the specification.  Another bit of evidence that suggests such estimates will be  sensitive to specification comes from the high standard  errors on the natural rate itself (Douglas Staiger, James H.  Stock, and Mark W. Watson 1997); it would be surprising  that the sum of lagged coefficients could be estimated  precisely if another component of the Phillips curve, the  natural rate, could be estimated only with very low preci-  sion. Gordon's own estimates show very different values for  this sum of coefficients. Of course, there is a theoretical
 reason why estimates of such a sum should not be robust.  With rational expectations, rather than a simple mechanical  theory of formation of inflationary expectations, Sargent  (1971) shows that there is no theoretical reason that they
 should sum to one.

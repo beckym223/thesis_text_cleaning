@@ -8,8 +8,8 @@ Year Taxes Taxes
 1980 0.4627 0.4320
 1984 0.4884 0.4700
 1988 0.4940 0.4722
-Source: Congressional Budget Office, The Changing Dis-
-tribution of Federal Taxes: A Closer Look at 1980, (July
+Source: Congressional Budget Office, The Changing Distribution
+of Federal Taxes: A Closer Look at 1980, (July
 1988), p. 98.
 to estimates of the Congressional Budget
 Office (CBO), in 1977, when the top income
@@ -19,8 +19,8 @@ coefficient of inequality was 0.4502 before
 tax and 0.4185 after federal taxes (more than
 half of which were individual and corporate
 income taxes). In 1980, when the top tax rate
-was still 70 percent (though only on un-
-earned income) and the corporate rate was
+was still 70 percent (though only on unearned
+income) and the corporate rate was
 46 percent, the Gini coefficient was 0.4627
 before tax and 0.4320 after the same taxes.
 Thus, as measured by the Gini coefficient,
@@ -29,30 +29,30 @@ system declined from a modest 0.0317 points
 (7.0 percent) in 1977 to an even more modest
 0.0307 points (6.6 percent) in 1980 (Table 4).
 Two major pieces of tax legislation were
-enacted during the 1980s. One increased in-
-equality, the other reduced it. The 1981 Act,
-enacted after Ronald Reagan's sweeping vic-
-tory in the 1980 presidential election, in-
-creased inequality by reducing income tax
+enacted during the 1980s. One increased inequality,
+the other reduced it. The 1981 Act,
+enacted after Ronald Reagan's sweeping victory
+in the 1980 presidential election, increased
+inequality by reducing income tax
 rates by 23 percent across the board (with a
 top rate on ordinary income of 50 percent),
-lowering the capital gains rate to a maxi-
-mum of 20 percent, introducing generous
-deductions for individual retirement ac-
-counts, and providing very liberal deprecia-
-tion allowances for business investment on
+lowering the capital gains rate to a maximum
+of 20 percent, introducing generous
+deductions for individual retirement accounts,
+and providing very liberal depreciation
+allowances for business investment on
 top of the previously enacted investment tax
 credit. The Tax Reform Act of 1986 reduced
 inequality by increasing personal exemptions
 and the standard deduction, equalizing the
-tax rates on capital gains and ordinary in-
-come, and closing numerous loopholes. At
-the same time, income tax rates were re-
-duced to a maximum of 33 percent on indi-
-viduals and 34 percent on corporations.
+tax rates on capital gains and ordinary income,
+and closing numerous loopholes. At
+the same time, income tax rates were reduced
+to a maximum of 33 percent on individuals
+and 34 percent on corporations.
 Despite the large rate cuts at the top of
-the income scale, the 1986 act increased in-
-come tax progression, though not to the 1980
+the income scale, the 1986 act increased income
+tax progression, though not to the 1980
 level. By 1984, the equalization provided by
 the federal tax system had declined to 0.0184
 points (3.8 percent) in terms of the Gini
@@ -72,8 +72,8 @@ out to be a rather ambitious undertaking,
 particularly if income tax rates are to be
 kept to moderate levels. Before calculating
 the tax rates, it is necessary first to establish
-the appropriate tax base for a modem in-
-come tax.
+the appropriate tax base for a modem income
+tax.
 Reform of the Income Tax
 The proper base for the income tax was
 described fifty years ago by Henry Simons,

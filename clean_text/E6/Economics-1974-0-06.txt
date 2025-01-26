@@ -1,6 +1,6 @@
 spite the current fashion for exalting
-Ricardo over his successors; Ricardo im-
-plicitly equated supply and demand on all
+Ricardo over his successors; Ricardo implicitly
+equated supply and demand on all
 his markets without ever realizing the
 problematic nature of this process. Jevons
 felt obliged to enunciate explicitly a Law
@@ -12,28 +12,28 @@ Menger, at least according to Hayek and
 Streissler, concentrated on individual trades
 and ignored the market completely. It is
 Walras's auctioneer which has proved to
-have had the most enduring effect on sub-
-sequent theoretical development, and the
-stability theory which flows from that con-
-cept is still the subject of vigorous theo-
-retical development, though very little
+have had the most enduring effect on subsequent
+theoretical development, and the
+stability theory which flows from that concept
+is still the subject of vigorous theoretical
+development, though very little
 empirical application. What is envisioned
 is a feedback mechanism in which errors
 in the price are successively corrected by
-reference to the disequilibria they gener-
-ate. This view specifies and makes feasible
+reference to the disequilibria they generate.
+This view specifies and makes feasible
 the operations of the market. But on one
 hand the stability models are far from
-adequate representations even of the dy-
-namics of the neoclassical models and,
+adequate representations even of the dynamics
+of the neoclassical models and,
 what may be connected, the results are by
 no means necessarily favorable to the
 stability of the adjustment process; and on
 the other hand, the motivations for the
 feedback to operate are obscure.
 Let me be clear on one methodological
-point. The fact that our intuitive under-
-standing, our verstehen as the German
+point. The fact that our intuitive understanding,
+our verstehen as the German
 social methodologists call it, of the market
 as an institution is not entirely satisfactory
 does not mean that we should not use the
@@ -42,53 +42,53 @@ further development. Certainly, as Popper
 and Friedman hold, the acceptability of a
 theory is to be judged by its ability to
 predict and understand phenomena. The
-theory of the perfect market is in an in-
-teresting way complementary to Key-
-nesian theory. We have never been able to
-integrate Keynesian viewpoints into stan-
-dard neoclassical theory, in terms of in-
-dividual motivation, yet this theory, with
+theory of the perfect market is in an interesting
+way complementary to Keynesian
+theory. We have never been able to
+integrate Keynesian viewpoints into standard
+neoclassical theory, in terms of individual
+motivation, yet this theory, with
 its various modifications, has been a most
 serviceable tool of prediction and control.
-In fact, it is useful in domains where com-
-petitive theory fails and vice versa. Neither
-theory is good, however, at predicting dy-
-namic processes, the short-run changes
+In fact, it is useful in domains where competitive
+theory fails and vice versa. Neither
+theory is good, however, at predicting dynamic
+processes, the short-run changes
 which are responses to disequilibria, and it
-is here that the pressure for a more satis-
-factory model arises.
-Hold in abeyance for a moment our con-
-siderations about the market. Let us return
-to the optimization problem of the in-
-dividual. One aspect on which we put a
+is here that the pressure for a more satisfactory
+model arises.
+Hold in abeyance for a moment our considerations
+about the market. Let us return
+to the optimization problem of the individual.
+One aspect on which we put a
 good deal of weight, particularly in our less
 formal discussions, is that a market system
 is informationally economical. That is, we
 tend to regard it as a virtue of the system
 that the individual agent need not know
 very much. Specifically, he is supposed to
-know the motivation and production con-
-ditions which define him, i.e., his utility
+know the motivation and production conditions
+which define him, i.e., his utility
 function and production possibility set,
-together with the prices of the commodi-
-ties he buys and sells. The economic sys-
-tem, taken as a whole, has vastly more in it
+together with the prices of the commodities
+he buys and sells. The economic system,
+taken as a whole, has vastly more in it
 than any one individual knows; it contains
-the utility functions and production pos-
-sibilities of all individual agents. Indeed,
+the utility functions and production possibilities
+of all individual agents. Indeed,
 the apparent modesty of the information
 needed is one of the most appealing aspects
 of the neoclassical model, both in the
-descriptive sense that the individual's de-
-cision problems appear manageable for him
+descriptive sense that the individual's decision
+problems appear manageable for him
 and for the economist studying him, and
 in the normative sense that the system
 permits its members to spend their time
 and effort at producing goods rather than
 in unnecessary duplication of information.
-But clearly this simplification of the in-
-dividual's decision making is made possible
+But clearly this simplification of the individual'
+s decision making is made possible
 only because the markets have supplied
 the information economized on, in the form
-of prices. In equilibrium, at least, the sys-
-tem as a whole gives the impression of
+of prices. In equilibrium, at least, the system
+as a whole gives the impression of

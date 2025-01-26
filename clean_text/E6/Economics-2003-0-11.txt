@@ -10,20 +10,20 @@ and capital. Finally, there is a large group of
 middle wealth households that are made worse
 off by eliminating aggregate risk.
 These calculations are sensitive-especially at
-the poor end of the distribution-to what is as-
-sumed about the incomes of unemployed people.
-Krusell and Smith calibrate this, roughly, to cur-
-rent U.S. unemployment insurance replacement
-rates. If one were estimating the costs of the de-
-pression of the 1930's, before the current welfare
+the poor end of the distribution-to what is assumed
+about the incomes of unemployed people.
+Krusell and Smith calibrate this, roughly, to current
+U.S. unemployment insurance replacement
+rates. If one were estimating the costs of the depression
+of the 1930's, before the current welfare
 system was in place, lower rates would be used
 and the cost estimates would increase sharply.20 It
 would also be interesting to use a model like this
 to examine the trade-offs between reductions in
 aggregate risk and an improved welfare system.
 Storesletten et al. (2001) study distributional
-influences on welfare cost estimates with meth-
-ods that are closely related to Krusell and
+influences on welfare cost estimates with methods
+that are closely related to Krusell and
 Smith's, but they obtain larger estimates of the
 gains from removing all aggregate shocks. They
 use an overlapping generations setup with 43
@@ -32,8 +32,8 @@ cohort is always credit constrained. In such a
 setting, the young are helpless in the face of
 shocks of all kinds and reductions in variance
 can yield large welfare gains. But if the age
-effects are averaged out to reflect the impor-
-tance of intrafamily lending (as I think they
+effects are averaged out to reflect the importance
+of intrafamily lending (as I think they
 should be) the gains estimated by Storesletten et
 al. under log utility are no larger than Krusell
 and Smith's.21 In contrast to earlier studies,
@@ -47,13 +47,13 @@ Two features of the theory interact to bring
 this about.22 First, and most crucial, is a differ-
 20 See Satyajit Chatterjee and Dean Corbae (2000).  21 Based on Exhibits 2 and A.3.1.
 22 Storesletten et al. do a good job of breaking the  differences into intelligible pieces. I also found the example  explicitly solved in Krebs (2002) very helpful in this regard.  ence in the way reductions in the variance of
-aggregate shocks affect risks faced at the indi-
-vidual level. In the Storesletten et al. simula-
-tions, a bad realization of the aggregate
+aggregate shocks affect risks faced at the individual
+level. In the Storesletten et al. simulations,
+a bad realization of the aggregate
 productivity shock increases the conditional
 variance of the idiosyncratic risk that people
-face, so aggregate and individual risks are com-
-pounded in a way that Krusell and Smith rule
+face, so aggregate and individual risks are compounded
+in a way that Krusell and Smith rule
 out. A second difference is that idiosyncratic
 shocks are assumed to have a random walk
 component, so their effects are long lasting. A
@@ -64,8 +64,8 @@ throughout his prime working years.
 The effects of these two assumptions are
 clear: They convert small, transient shocks at
 the aggregate level into large, persistent shocks
-to the earnings of a small fraction of house-
-holds. Whether they are realistic is question of
+to the earnings of a small fraction of households.
+Whether they are realistic is question of
 fact. That individual earnings differences are
 highly persistent has been clear since Lee
 Lillard and Robert Willis's pioneering (1978)
@@ -73,8 +73,8 @@ study. The fanning out over time of the earnings
 and consumption distributions within a cohort
 that Angus Deaton and Christina Paxson (1994)
 document is striking evidence of a sizeable,
-uninsurable random walk component in earn-
-ings. The relation of the variance of earnings
+uninsurable random walk component in earnings.
+The relation of the variance of earnings
 shocks to the aggregate state of the economy,
 also emphasized by N. Gregory Mankiw (1986)
 in connection with the equity premium puzzle,
@@ -88,15 +88,15 @@ also conclude that "the unemployment rate and
 the variance of permanent [earnings] shocks
 appear to be quite synchronized" in the 1970's
 and 1980's.
-These issues are central to an accurate de-
-scription of the risk situation that individual
+These issues are central to an accurate description
+of the risk situation that individual
 agents face, and hence to the assessment of
-welfare gains from policies that alter this situ-
-ation. The development of tractable equilibrium
+welfare gains from policies that alter this situation.
+The development of tractable equilibrium
 models capable of bringing cross-section and
-panel evidence to bear on this and other mac-
-roeconomic questions is an enormous step for-
-ward. But Krusell and Smith find only modest
+panel evidence to bear on this and other macroeconomic
+questions is an enormous step forward.
+But Krusell and Smith find only modest
 effects of heterogeneity on the estimates of wel-
 10
 MARCH 2003

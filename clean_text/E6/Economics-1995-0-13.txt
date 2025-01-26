@@ -1,10 +1,10 @@
-legitimately owned property). But the possi-
-bility of having unacceptable consequences
+legitimately owned property). But the possibility
+of having unacceptable consequences
 has to be addressed by any such procedural
 system. What if the results are dreadful for
 many, or even all?
-Indeed, it can be shown that even gigan-
-tic famines can actually take place in an
+Indeed, it can be shown that even gigantic
+famines can actually take place in an
 economy that fulfills all the libertarian rights
 and entitlements specified in the Nozick
 system.33 It is, thus, particularly appropriate
@@ -13,57 +13,57 @@ consequence-independence in cases where
 the exercise of these rights would lead to
 "catastrophic moral horrors."34 Because of
 this qualification, consequences are made to
-matter after all, and underlying this conces-
-sion is Nozick's good sense (similar to
+matter after all, and underlying this concession
+is Nozick's good sense (similar to
 Buchanan's) that a procedural system of
-entitlements that happens to yield catas-
-trophic moral horrors (we have to have some
+entitlements that happens to yield catastrophic
+moral horrors (we have to have some
 consensus on what these are) would
-be-and should be-ethically unaccept-
-able. However, once- consequences are
+be-and should be-ethically unacceptable.
+However, once- consequences are
 brought into the story, not only is the purity
 of a consequence-independent system lost,
 but also the issue of deciding on the relative
-importance of "right rules" and "good con-
-sequences" is forcefully reestablished.
-I turn now to the other side of the di-
-chotomy: can we have sensible outcome
-judgments in a totally procedure-indepen-
-dent way? Classical utilitarianism does in-
-deed propose such a system, but it is hard
+importance of "right rules" and "good consequences"
+is forcefully reestablished.
+I turn now to the other side of the dichotomy:
+can we have sensible outcome
+judgments in a totally procedure-independent
+way? Classical utilitarianism does indeed
+propose such a system, but it is hard
 to be convinced that we can plausibly judge
-any given utility distribution ignoring alto-
-gether the process that led to that distribu-
-tion (attaching, for example, no intrinsic
-importance whatever to whether a particu-
-lar utility redistribution is caused by charity,
+any given utility distribution ignoring altogether
+the process that led to that distribution
+(attaching, for example, no intrinsic
+importance whatever to whether a particular
+utility redistribution is caused by charity,
 or taxation, or torture).35
 This recognition of the role of processes
-is not, in fact, hostile to social choice the-
-ory, since there is nothing to prevent us
+is not, in fact, hostile to social choice theory,
+since there is nothing to prevent us
 from seeing the description of processes as
 a part of the consequent states generated
 by them.36 If action A is performed, then
-"action A has been done" must be one-
-indeed, the most elementary-consequence
+"action A has been done" must be oneindeed,
+the most elementary-consequence
 of that event. If Mr. John Major were to
 wish not merely that he should be reelected
 as Prime Minister, but that he should be
-"reelected fairly" (I am not, of course, in-
-sinuating that any such preference has been
+"reelected fairly" (I am not, of course, insinuating
+that any such preference has been
 expressed by Mr. Major), the consequence
-that he would be seeking would have proce-
-dural requirements incorporated within it.
+that he would be seeking would have procedural
+requirements incorporated within it.
 This is not to claim that every process can
-be comfortably placed within the descrip-
-tion of states of affairs without changing
+be comfortably placed within the description
+of states of affairs without changing
 anything in social choice theory. Parts of the
-literature that deal with comparisons of de-
-cision mechanisms in arriving at given states
-would need modification. If, in general, pro-
-cesses leading to the emergence of a social
-state were standardly included in the char-
-acterization of that state, then we have to
+literature that deal with comparisons of decision
+mechanisms in arriving at given states
+would need modification. If, in general, processes
+leading to the emergence of a social
+state were standardly included in the characterization
+of that state, then we have to
 construct "equivalence classes" to ignore
 some differences (in this case, between some
 antecedent processes) to be able to discuss
@@ -72,20 +72,20 @@ about by different decision mechanisms. To
 make sense of such ideas as, say, "path
 independence" (on which see Plott [1973]),
 so that they are not rendered vacuous,
-equivalence classes of this type would cer-
-tainly have to be constructed (on the con-
-cepts of equivalence classes and invariance
+equivalence classes of this type would certainly
+have to be constructed (on the concepts
+of equivalence classes and invariance
 conditions, see Sen [1986b]).
 The contrast between the procedural and
-consequential approaches is, thus, some-
-what overdrawn, and it may be possible to
+consequential approaches is, thus, somewhat
+overdrawn, and it may be possible to
 combine them, to a considerable extent, in
 an adequately rich characterization of states
 of affairs. The dichotomy is far from pure,
-and it is mainly a question of relative con-
-centration.
-330n this see Sen (1981), linking starvation to un-
-equal entitlements, with actual case studies of four
+and it is mainly a question of relative concentration.
+
+330n this see Sen (1981), linking starvation to unequal
+entitlements, with actual case studies of four
 famines. See also Ravallion (1987), Dreze and Sen
 (1989), and Desai (1995).
 34See also Nozick's (1974) discussion of "Locke's

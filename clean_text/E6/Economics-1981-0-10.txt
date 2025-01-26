@@ -3,36 +3,36 @@ our pursuit of alternative welfare goals has
 thus far also involved a tolerance, indeed a
 pressure, for chronic budgetary deficits, and
 an understandable political incapacity to
-employ monetary and fiscal restraint force-
-fully and consistently at the risk of elevated
+employ monetary and fiscal restraint forcefully
+and consistently at the risk of elevated
 unemployment. Inflation, in conjunction
-with tax rules and accounting practices de-
-signed for a stable price regime, has meant
+with tax rules and accounting practices designed
+for a stable price regime, has meant
 very high marginal taxes on returns to
 capital. In the judgement of some public
-finance experts, it has also meant a differen-
-tial burden on business investment com-
-pared with that on household borrowing,
+finance experts, it has also meant a differential
+burden on business investment compared
+with that on household borrowing,
 spending, and investing.'6 If there are fears
 of accelerated inflation in the future, they
 carry the prospect of still higher taxes and
 lower returns while the erratic nature of
-rapid inflation makes the future more dif-
-ficult to discern and increases the sense of
+rapid inflation makes the future more difficult
+to discern and increases the sense of
 risk. And if the same fears give rise to a
-vision of price controls, the risks of invest-
-ment and innovation are compounded. In
+vision of price controls, the risks of investment
+and innovation are compounded. In
 any event, inflation compels- or threatens
 to compel-governments to reduce capacity
 utilization below its potential. Therefore
-inflation acts to diminish one of the induce-
-ments to invest, as the 1980 business con-
-traction following on financial disorder il-
-lustrates. We should remember, moreover,
+inflation acts to diminish one of the inducements
+to invest, as the 1980 business contraction
+following on financial disorder illustrates.
+We should remember, moreover,
 that there is an element of vicious circularity
-in this aspect of our present conjecture. In-
-flation has deleterious effects on productiv-
-ity growth-and unexpected declines in
+in this aspect of our present conjecture. Inflation
+has deleterious effects on productivity
+growth-and unexpected declines in
 productivity growth exacerbate inflation.
 This range of considerations leads some
 students to the view that the pursuit of
@@ -41,31 +41,31 @@ considerable part of the retardation. Fellner,
 whom I mentioned before, suggests that "the
 causes of at least 1 percentage point annual
 slackening of the trend in output per
-worker's hour can be found among the 'sus-
-pects"' (p. 10). That loss is equal to one-half
-the observed difference between the private-
-sector productivity growth since 1973 and
+worker's hour can be found among the 'suspects"
+' (p. 10). That loss is equal to one-half
+the observed difference between the privatesector
+productivity growth since 1973 and
 that during the quarter century between 1948
 and 1973.
 Such numbers and the argument that leads
 to them should be understood to be no more
-than what they are-a prima facie indica-
-tion that something very substantial may be
+than what they are-a prima facie indication
+that something very substantial may be
 involved in the choices we make between
 productivity growth and alternative welfare
 goals. I would not mention them if I did not
 fear that there is much to the problem, if
-not as a cause of the recent abrupt retarda-
-tion, then as a longer-term secular con-
-straint. Yet, at the present time the argu-
-ment is only speculative, and the estimated
+not as a cause of the recent abrupt retardation,
+then as a longer-term secular constraint.
+Yet, at the present time the argument
+is only speculative, and the estimated
 loss still more so. The theoretical and
 quantitative issues are unsettled and deserve
 our most urgent attention.'7  16See Feldstein and Lawrence Summers. This study
-measures the extra taxes imposed by inflation on cor-
-porate income both at the level of the corporations
-themselves and at those of the households and institu-
-tions which receive dividends and interest payments or
+measures the extra taxes imposed by inflation on corporate
+income both at the level of the corporations
+themselves and at those of the households and institutions
+which receive dividends and interest payments or
 have an equity interest in the corporations. They find
 that the combined excess tax due to inflation averaged
 only 16.4 percent of corporate income tax from 1954
@@ -77,16 +77,16 @@ had been accomplished by the tax acts of the early
 fallen as low as 55 percent of real corporate income
 from 1962 through 1967, rose to an average of 68
 percent from 1968 through 1977. This somewhat
-exceeded the rate of the latter 1950's, when the com-
-bined tax averaged 65 percent of corporate income
+exceeded the rate of the latter 1950's, when the combined
+tax averaged 65 percent of corporate income
 from 1954 through 1961.
 There is a presumption, though no direct proof, that
 the increase in the effective tax rate reduces the real
 after-tax rate of return on capital and, therefore, the
 rate of business capital formation. Feldstein and
 Summers also argue that, since the impact of inflation
-on taxes works unevenly, it makes for capital misallo-
-cation among industries, encourages more investment
+on taxes works unevenly, it makes for capital misallocation
+among industries, encourages more investment
 in inventories and less in equipment and structures,
 and tends to shift investment away from the corporate
 sector and towards residential construction and
@@ -101,7 +101,7 @@ of the effect of cyclical or other transient changes in
 the intensity of resource use which suggest that no
 underlying slowdown occurred before 1973. (See
 Denison, chs. 7-9.) On such a view, there is a strong
-suggestion that our troubles do not lie in any gener-
-alized impact of the welfare and regulatory programs of
+suggestion that our troubles do not lie in any generalized
+impact of the welfare and regulatory programs of
 government, but are mainly confined to the effects of
 two developments which either occurred or intensified

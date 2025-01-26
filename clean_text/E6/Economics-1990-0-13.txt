@@ -1,8 +1,8 @@
 incorporated in the tax law as part of the
 computation of real capital gains and losses,
-real interest income expense, and real inven-
-tory and depreciation allowances. The ad-
-justment of interest is admittedly difficult,
+real interest income expense, and real inventory
+and depreciation allowances. The adjustment
+of interest is admittedly difficult,
 but the widespread use of computers should
 ease the administrative and compliance
 problems.
@@ -20,19 +20,19 @@ transferred by gift or at death. Taxing such
 gains would reduce the lock-in effect of the
 tax on transfers of assets and eliminate a
 source of horizontal inequity.
-A major neglected problem in most coun-
-tries is the erosion of the tax base from the
+A major neglected problem in most countries
+is the erosion of the tax base from the
 exclusion of employee fringe benefits. Trade
-unions, as well as employers, staunchly de-
-fend the continued exclusion of fringe bene-
-fit income, but in fact the largest subsidies
+unions, as well as employers, staunchly defend
+the continued exclusion of fringe benefit
+income, but in fact the largest subsidies
 go to the highest paid employees. Loopholes
 for union members and other workers are no
-more defensible than those for the rich. Tax-
-ation of fringe benefits would encourage their
-conversion into cash compensation, thus giv-
-ing employees more control over the disposi-
-tion of their income and the choice of the
+more defensible than those for the rich. Taxation
+of fringe benefits would encourage their
+conversion into cash compensation, thus giving
+employees more control over the disposition
+of their income and the choice of the
 providers of their services. Australia and New
 Zealand have shown the way to reform in
 this area by taxing fringe benefits (other
@@ -42,10 +42,10 @@ a difficult, but urgent, problem is simple and
 effective.
 Social Security benefits continue to receive
 favorable treatment, even though the elderly
-can no longer be regarded as a disadvan-
-taged group. Under current law, the medical
-insurance subsidies they receive are not sub-
-ject to tax, and less than half of retirement
+can no longer be regarded as a disadvantaged
+group. Under current law, the medical
+insurance subsidies they receive are not subject
+to tax, and less than half of retirement
 and disability benefits is taxable to married
 couples with income above $32,000 ($25,000
 if single). The value of the medical insurance  subsidies should be subject to tax in full"4
@@ -59,12 +59,12 @@ remains unsatisfactory. I assume that the
 exclusion of imputed rent from the tax base
 and the deduction of mortgage interest by
 most homeowners are sacrosanct, but it is
-possible to limit the encouragement of bor-
-rowing without promoting rearrangements of
+possible to limit the encouragement of borrowing
+without promoting rearrangements of
 debt for tax purposes. The solution is to
-broaden the limitation on deductions of in-
-vestment interest to include all interest pay-
-ments. That is, a deduction for all interest
+broaden the limitation on deductions of investment
+interest to include all interest payments.
+That is, a deduction for all interest
 payments would be allowed, but limited to
 the amount of reported investment income.
 To accommodate the home-owner lobby, the
@@ -73,19 +73,19 @@ an arbitrary amount, say, $10,000-enough
 to take care of the vast majority of home
 owners. The broader interest limitation
 would remove the discrimination against
-borrowing for other purposes and the incen-
-tive to substitute home equity loans for other
+borrowing for other purposes and the incentive
+to substitute home equity loans for other
 types of borrowing.
 Deductions other than for interest are still
-too generous. The Simons' definition of in-
-come includes all sources of income, without
+too generous. The Simons' definition of income
+includes all sources of income, without
 any deductions for the uses of that income.
-For equity reasons, it is appropriate to per-
-mit deductions for such unusual expenses as
+For equity reasons, it is appropriate to permit
+deductions for such unusual expenses as
 medical payments and casualty losses. I
 would retain the deduction for state income
-taxes to moderate interstate tax dif-
-ferentials.42 However, the property tax is
+taxes to moderate interstate tax differentials.
+42 However, the property tax is
 largely a benefit tax and therefore should not
 be deductible. Nor is it necessary to allow a
 deduction for the first dollar of charitable

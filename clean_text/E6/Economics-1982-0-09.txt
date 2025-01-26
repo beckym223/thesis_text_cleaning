@@ -1,26 +1,26 @@
 industry's output vector. The industry may
-be a natural monopoly with one output vec-
-tor, a natural duopoly with another, and
+be a natural monopoly with one output vector,
+a natural duopoly with another, and
 efficiency may require seventy-three firms
 when some third output vector is provided
 by the industry.
 This, then, completes the first of the two
 basic steps in the endogenous determination
-of industry structure. Here we have ex-
-amined what industry structure is least costly
-for each given output vector of a given in-
-dustry, and have found how the result de-
-pends on the magnitudes of the elements of
+of industry structure. Here we have examined
+what industry structure is least costly
+for each given output vector of a given industry,
+and have found how the result depends
+on the magnitudes of the elements of
 that output vector and the shape of the cost
-function of the typical firm. So far the dis-
-cussion may perhaps be considered norma-
-tive rather than behavioral. It tells us what
-structure is most efficient under the circum-
-stances, not which industry structure will
+function of the typical firm. So far the discussion
+may perhaps be considered normative
+rather than behavioral. It tells us what
+structure is most efficient under the circumstances,
+not which industry structure will
 emerge under the pressures of the market
 mechanism.
-The transition toward the second, behav-
-ioral, stage of the analysis is provided by the
+The transition toward the second, behavioral,
+stage of the analysis is provided by the
 observation that the optimal structure of an
 industry depends on its output vector, while
 that output vector in turn depends on the
@@ -35,49 +35,49 @@ than this for a market whose properties are
 unspecified. But, for a perfectly contestable
 market, we can go much further. Indeed, the
 properties of perfect contestability cut
-through every difficulty and tell us the equi-
-librium prices, outputs, and industry struc-
-ture, all at once.
+through every difficulty and tell us the equilibrium
+prices, outputs, and industry structure,
+all at once.
 Where more than one firm supplies a
 product, we have already characterized these
 prices precisely. For we have concluded that
-each equilibrium price will equal the associ-
-ated marginal cost. Then, given the industry's
+each equilibrium price will equal the associated
+marginal cost. Then, given the industry's
 cost and demand relationships, this yields
-the industry's output quantities simulta-
-neously with its prices, in the usual manner.
+the industry's output quantities simultaneously
+with its prices, in the usual manner.
 Here there is absolutely nothing new in the
 analysis.
 But what is new is the format of the
 analysis of the determination of industry
 structure. As I have already pointed out,
-structure is determined by the efficiency re-
-quirement of equilibrium in any contestable
-market. Since no such equilibrium is compat-
-ible with failure to minimize industry costs,
-it follows that the market forces under per-
-fect contestability will bring us results con-
-sistent with those of our normative analysis.
+structure is determined by the efficiency requirement
+of equilibrium in any contestable
+market. Since no such equilibrium is compatible
+with failure to minimize industry costs,
+it follows that the market forces under perfect
+contestability will bring us results consistent
+with those of our normative analysis.
 Whatever industry structures minimize total
 costs for the equilibrium output vector must
 turn out to be the only structures consistent
 with industry equilibrium in the long run.
-Thus, for contestable markets, but for con-
-testable markets only, the second stage of the
+Thus, for contestable markets, but for contestable
+markets only, the second stage of the
 analysis of industry structure turns out to be
 a sham. Whatever industry structure was
 shown by the first, normative, portion of the
 analysis to be least costly must also emerge
 as the industry structure selected by market
-behavior. No additional calculations are re-
-quired by the behavioral analysis. It will all
-have been done in the normative cost-
-minimization analysis and the behavioral
+behavior. No additional calculations are required
+by the behavioral analysis. It will all
+have been done in the normative costminimization
+analysis and the behavioral
 analysis is pure bonus.
 Thus, as I promised, I have indicated how
 contestability theory departs from the older
-theory which implicitly took industry struc-
-ture to be determined exogenously in a
+theory which implicitly took industry structure
+to be determined exogenously in a
 manner totally unspecified and, instead,
 along with other recent writings, embraces
 the determination of industry structure as an
@@ -86,5 +86,5 @@ simultaneously with the determination of
 prices and outputs.
 At this point I can only conjecture about
 the determination of industry structure once
-we leave the limiting case of perfect contest-
-ability. But my guess is that there are no
+we leave the limiting case of perfect contestability.
+But my guess is that there are no

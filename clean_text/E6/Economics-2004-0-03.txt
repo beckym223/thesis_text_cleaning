@@ -1,6 +1,6 @@
 THE AMERICAN ECONOMIC REVIEW
-makes sense to have a progressive benefit for-
-mula; that it makes sense to limit benefits to
+makes sense to have a progressive benefit formula;
+that it makes sense to limit benefits to
 those who are old enough and stop working or
 are even older (whether they stop or not); and
 that having been generous to early cohorts, it
@@ -10,11 +10,11 @@ This is not to say that I agree with all of the
 details of the current structure by any means. Of
 course we should change benefit and tax rules
 so that we restore actuarial balance-so that
-projected revenues are sufficient to pay for pro-
-jected benefits over at least 75 years. And other
+projected revenues are sufficient to pay for projected
+benefits over at least 75 years. And other
 changes would be desirable as well. I am just
-arguing that the overall design of Social Secu-
-rity makes good sense. In addition to presenting
+arguing that the overall design of Social Security
+makes good sense. In addition to presenting
 the basis of my support for the broad structure
 of Social Security, I will identify some rules
 needing change and I will speculate on why
@@ -41,15 +41,15 @@ I will not say much about the advantage of a
 mandate to save for retirement-there is little
 call for eliminating such a mandate. After a
 discussion of a framework for thinking about
-Social Security (Section I), I will consider an-
-nuitization (Section II), treatment of the family
-(Section III), the interaction among income dis-
-tribution, insurance, and labor supply (Section
+Social Security (Section I), I will consider annuitization
+(Section II), treatment of the family
+(Section III), the interaction among income distribution,
+insurance, and labor supply (Section
 IV), the degree of funding (Section V), and
 adjustments over time to benefits and taxes
 (Section VI).3 Not discussed but worth keeping
-3My approach has some similarity to the three-  dimensional analysis of different pension systems in Assar  in mind are the supporting antipoverty pro-
-grams as they affect the elderly [Supplemental
+3My approach has some similarity to the three-  dimensional analysis of different pension systems in Assar  in mind are the supporting antipoverty programs
+as they affect the elderly [Supplemental
 Security Income (SSI) and Medicaid], and the
 provision of medical insurance for the elderly
 (Medicare). Nor will I discuss the Disability
@@ -60,20 +60,20 @@ One-third of the elderly received at least 90
 percent of their income from Social Security in
 2001, with nearly two-thirds receiving at least
 half (Social Security Administration, 2003). Yet
-Social Security was always meant to be a foun-
-dation for retirement income and not a level to
+Social Security was always meant to be a foundation
+for retirement income and not a level to
 be relied on exclusively. The average new
 award for a retired worker in 2002 was just over
 $900 per month. For a worker retiring in 2002 at
 age 62 (the modal retirement age), a worker in
 the middle of the earnings distribution received
-a benefit of roughly one-third of (wage-
-indexed) lifetime average earnings in 2000 dol-
-lars. If the worker had a nonworking spouse of
-the same age, the benefit would be larger-
-about one-half of the worker's lifetime average
-earnings.4 These are low replacement rates-
-you would not want to retire on one-third to
+a benefit of roughly one-third of (wageindexed)
+lifetime average earnings in 2000 dollars.
+If the worker had a nonworking spouse of
+the same age, the benefit would be largerabout
+one-half of the worker's lifetime average
+earnings.4 These are low replacement ratesyou
+would not want to retire on one-third to
 one-half of what you had earned on average in
 your lifetime. Benefits would look even lower
 compared to earnings over the last decade of

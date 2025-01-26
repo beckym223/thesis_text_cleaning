@@ -1,9 +1,9 @@
-reduced form equations relying on just two exog-
-enous variables are very unreliable for the pur-
-pose of estimating structure, nor are they
+reduced form equations relying on just two exogenous
+variables are very unreliable for the purpose
+of estimating structure, nor are they
 particularly accurate for forecasting, though per
-dollar of research expenditure they are surpris-
-ingly good. Second, if the St. Louis people want
+dollar of research expenditure they are surprisingly
+good. Second, if the St. Louis people want
 to go on using this method and wish to secure the
 best possible forecast, then they should ask the
 MPS or any other large econometric model what
@@ -15,20 +15,20 @@ must then conclude that opting for a constant rate
 of growth of the nominal money supply can
 result in a stable economy only in the absence of
 significant exogenous shocks. But obviously the
-economy has been and will continue to be ex-
-posed to many significant shocks, coming from
+economy has been and will continue to be exposed
+to many significant shocks, coming from
 such things as war and peace, and other large
 changes in government expenditure, foreign
-trade, agriculture, technological progress, popu-
-lation shifts, and what not. The clearest evidence
+trade, agriculture, technological progress, population
+shifts, and what not. The clearest evidence
 on the importance of such shocks is provided by
 our postwar record with its six recessions.
 IV. The Record of Stabilization Policies:
 Stabilizing or Destabilizing
 A. Was Postwar Instability Due to Unstable
 Money Growth?
-At this point, of course, monetarists will ob-
-ject that, over the postwar period, we have not
+At this point, of course, monetarists will object
+that, over the postwar period, we have not
 had a constant money growth policy and will hint
 that the observed instability can largely be traced
 to the instability of money. The only way of
@@ -44,12 +44,12 @@ through our post-Korean War history, I have
 been able to find just two stretches of several
 years in which the growth of the money stock
 was relatively stable, whether one chooses to
-measure stability in terms of percentage devia-
-tions from a constant growth or of dispersion of
+measure stability in terms of percentage deviations
+from a constant growth or of dispersion of
 four-quarter changes. It may surprise some that
 one such stretch occurred quite recently and
-consists of the period of nearly four years begin-
-ning in the first quarter of 1971 (see the author
+consists of the period of nearly four years beginning
+in the first quarter of 1971 (see the author
 and Papademos, 1976). During this period, the
 average growth was quite large, some 7 percent,
 but it was relatively smooth, generally well
@@ -67,8 +67,8 @@ remaining 13-year stretch from mid-1957 to the
 end of 1970, the variability of money growth
 was roughly twice as large if measured by the
 average deviation of four quarter changes, and
-some five times larger if measured by the per-
-centage deviation of the money stock from a
+some five times larger if measured by the percentage
+deviation of the money stock from a
 constant growth trend.
 How did the economy fare in the two periods
 of relatively stable money growth? It is common
@@ -83,11 +83,11 @@ output was 3.3 percent, more than twice as large
 as in the period of less stable money growth. But
 the first stretch was also marked by well above
 average instability, with the contraction of 1954,
-the sharp recovery of 1955, and the new contrac-
-tion in 1958, the sharpest in postwar history
-except for the present one. The variability of out-
-put is again 50 percent larger than in the middle
+the sharp recovery of 1955, and the new contraction
+in 1958, the sharpest in postwar history
+except for the present one. The variability of output
+is again 50 percent larger than in the middle
 period.
-To be sure, in the recent episode serious exog-
-enous shocks played a major role in the develop-
-ment of prices and possibly output, although the
+To be sure, in the recent episode serious exogenous
+shocks played a major role in the development
+of prices and possibly output, although the

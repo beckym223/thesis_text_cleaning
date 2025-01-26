@@ -2,19 +2,19 @@ One of the great pleasures of belonging to
 my generation of economists is that we were
 able to witness the birth and the subsequent
 evolution of the modern approach to the
-analysis of economic growth. The center-
-piece of that approach is probably growth
+analysis of economic growth. The centerpiece
+of that approach is probably growth
 accounting, but we should never forget that
-growth accounting is firmly rooted in eco-
-nomic theory.
+growth accounting is firmly rooted in economic
+theory.
 My way of telling the story goes like this:
 Many, maybe even most, economists expected
 that increments of output would be explained
 by increments of inputs, but when we took our
-best shot we found that traditional inputs typ-
-ically fell far short of explaining the observed
-output growth. Our best shot consisted in at-
-tributing to each factor a marginal product
+best shot we found that traditional inputs typically
+fell far short of explaining the observed
+output growth. Our best shot consisted in attributing
+to each factor a marginal product
 measured by its economic reward. Thus:
 (1) ffAy = WAL + (p + 6)AK + R.
 Here:
@@ -26,8 +26,8 @@ T = initial real rate of return to capital;  8 = rate of real depreciation of ca
 AK = change in capital stock; and
 R = "the residual" of growth unexplained
 by increases in traditional inputs.
-Many economists are probably more famil-
-iar with a variant of (1)
+Many economists are probably more familiar
+with a variant of (1)
 (1') (Ay/y)-= (wL/py)(LL/L)
 + [(+ 6)Klfy ] (AK/K)
 + (Rly) = se(AL/L)

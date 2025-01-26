@@ -7,15 +7,15 @@ FIGURE 1. SPATIAL EQUILIBRIUM
 plane, as in Figure 1. A consumer lives at point
 A, (0,0), if neither variety is purchased, at point
 B, (pl,zl), if the low-quality variety is most
-preferred, and at point C, (Ph,Zh), if high qual-
-ity is chosen. High-quality goods must sell for
+preferred, and at point C, (Ph,Zh), if high quality
+is chosen. High-quality goods must sell for
 higher prices than low-quality goods, or else
 low quality is dominated and disappears from
 the market. Thus, higher z is always associated
 with larger p if both Zh and z, are actually
 traded. Given that some variety is purchased, a
-consumer chooses Zh if the benefits of its addi-
-tional quality exceed its additional cost. Once
+consumer chooses Zh if the benefits of its additional
+quality exceed its additional cost. Once
 having decided on the choice of variety, the
 consumer decides whether to purchase it or do
 without.
@@ -28,8 +28,8 @@ willing to pay for it, A\O, and is defined as a
 compensating variation:
 (1) U(y - pI - AO, Zh) = U(y - pi, Z1)-
 AXO is the money premium a person would pay
-for Zh when the lower-quality item z, is avail-
-able at price p,. The optimal choice is Zh if
+for Zh when the lower-quality item z, is available
+at price p,. The optimal choice is Zh if
 AXO > Ph - p, and z, otherwise. The second part of
 the problem, whether or not to purchase the
 good at all, is another cost-benefit comparison.
@@ -40,46 +40,46 @@ that obtained from the best possible variety:
 u(y,O)
 = max{u(y - 0 - AO, Zh), U(y - 0, Z1)}.
 The consumer does not purchase any z if both
-0 < p, and 0 + AO < Ph-
-This can be neatly described diagrammati-
-cally with a spatial bidfunction 0 (z), defined as
+0 < p, and 0 + AO < PhThis
+can be neatly described diagrammatically
+with a spatial bidfunction 0 (z), defined as
 the amount a person with income y will pay for
 various varieties at some constant utility index:
 (3) u(y - 0(z), z) = constant.
 0(z) is an indifference curve between money
 and the measure of quality z. From (3), its
 derivative a 0/az = uzJuC, is the marginal rate
-of substitution between z and c. This is pos-
-itive and 0 (z) is upward sloping. Diminishing
+of substitution between z and c. This is positive
+and 0 (z) is upward sloping. Diminishing
 marginal rate of substitution implies that
 0"(z) < 0: the marginal willingness to pay
 for additional quality is decreasing. The
-curves labeled 0' in Figure 1 depict indif-
-ference curves for three different kinds of
+curves labeled 0' in Figure 1 depict indifference
+curves for three different kinds of
 buyers. Consumers whose tastes look like 00 do
 not purchase the differentiated product at all
 because the indifference curve through (0,0) lies
 above the available price-quality combinations
 for z. Analogously, those whose tastes look like
 01 purchase z, and those whose tastes are more
-like 02 buy Zh- Choices of differentiated variet-
-ies are nicely ordered by the intensity of pref-
-erences for quality in this example.
+like 02 buy Zh- Choices of differentiated varieties
+are nicely ordered by the intensity of preferences
+for quality in this example.
 Supply decisions of sellers are similar. The
 benefit of selling a variety is its market price.
-Production is profitable if price exceeds produc-
-tion costs of at least some sellers. Parallel with
+Production is profitable if price exceeds production
+costs of at least some sellers. Parallel with
 bid functions, these choices are depicted by a
-spatial offer function p( z)-the locus of price-
-quality pairs that result in the same profit. 'p( c)
+spatial offer function p( z)-the locus of pricequality
+pairs that result in the same profit. 'p( c)
 is the supply price of quality z for that seller.
 Since higher-quality goods are more costly to
-produce, 'p'(z) > 0. Offer curves are increas-
-ing and convex functions of z. Producers either
+produce, 'p'(z) > 0. Offer curves are increasing
+and convex functions of z. Producers either
 specialize their production in distinct varieties
 or produce several of them in a product line.
-Costs and production conditions, indivisibili-
-ties, the nature of competition, and competitors'
-costs factor into these outcomes. Figure 1 de-
-picts a case of specialization. The offer function
+Costs and production conditions, indivisibilities,
+the nature of competition, and competitors'
+costs factor into these outcomes. Figure 1 depicts
+a case of specialization. The offer function
 labeled Sp1 refers to a seller with comparative

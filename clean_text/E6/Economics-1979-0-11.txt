@@ -1,9 +1,9 @@
 and life benefits" bought per dollar spent.
-The ideal of equilibrium then suggests re-
-distributing expenditures, if needed, in or-
-der to maximize total benefits from the
-given expenditure for protection. Valua-
-tions of health or life that have a modicum
+The ideal of equilibrium then suggests redistributing
+expenditures, if needed, in order
+to maximize total benefits from the
+given expenditure for protection. Valuations
+of health or life that have a modicum
 of public approval could result from such
 redistribution. Note that these valuations,
 also called shadowv prices, are in efTect set by
@@ -11,46 +11,46 @@ the budgetary decision makers, whether
 they are aware of it or not.
 After such redistribution if called for, the
 calculation of money values of health and
-life registers what in good practice we con-
-sistently spend to save a life. The process
+life registers what in good practice we consistently
+spend to save a life. The process
 recognizes that, disturbing as it is to our
 sensibilities, society is being compelled by
 the facts of technology and behavior to set
-up equivalences between lives of unidenti-
-fied people and bundles of goods and ser-
-vices implicitly of the same market or
-shadow value - --thus bracketing contem-
-porary lives together with current goods
-and services in the same category of ex-
-changeables.
+up equivalences between lives of unidentified
+people and bundles of goods and services
+implicitly of the same market or
+shadow value - --thus bracketing contemporary
+lives together with current goods
+and services in the same category of exchangeables.
+
 The examples given so far concern small
-to moderate risks affecting small to moder-
-ate numbers of people, less than 100 at a
-time, say. Moreover, the time intervals be-
-tween the decision to commit funds for the
+to moderate risks affecting small to moderate
+numbers of people, less than 100 at a
+time, say. Moreover, the time intervals between
+the decision to commit funds for the
 reduction of risks, the actual expenditure of
 these funds, and the reaping of benefits
 therefrom are moderate, less than twenty
 years, say. Finally, the problems are mostly
 local or national, not international in scope.
 The long-run choices between energy
-technology mixes are different in these re-
-spects. By a gradual shift from oil and gas
+technology mixes are different in these respects.
+By a gradual shift from oil and gas
 to coal, fossil fuels can remain a principal
-source of energy for countries with abun-
-dant resources of coal, especially the United
+source of energy for countries with abundant
+resources of coal, especially the United
 States, the USSR, and China, for a long
 time to come. Intensive current discussion
-with regard to this option concerns the pos-
-sible climatic effects of the increase in the
+with regard to this option concerns the possible
+climatic effects of the increase in the
 atmospheric concentration of carbon dioxide
-caused by continued large-scale combus-
-tion of fossil fuels or their derivatives,
+caused by continued large-scale combustion
+of fossil fuels or their derivatives,
 alongside with world-wide deforestation.
-Among the large-scale effects held pos-
-sible are an increase in average global
-temperature, entailing dislocation of agri-
-culture depending on how each region is
+Among the large-scale effects held possible
+are an increase in average global
+temperature, entailing dislocation of agriculture
+depending on how each region is
 affected, and an increase in the level of the
 oceans due to the melting of polar ice not
 previously floating. The present state of
@@ -64,8 +64,8 @@ If current estimates of the capital cost of
 central station solar power are realistic, the
 principal alternative to fossil fuels for bulk
 power generation is nuclear power. I am
-not qualified to even comment on the reac-
-tor safety and waste disposal problems. I
+not qualified to even comment on the reactor
+safety and waste disposal problems. I
 assume, however, that the developers of
 these technologies would classify these
 problems in terms of very small risks to
@@ -77,25 +77,25 @@ we are all groping in the dark, I feel I should
 describe this aspect of nuclear technology
 as an unknown risk to a very large number
 of people.
-I cannot see my way through to a calcu-
-lus of the value of human lives in large
+I cannot see my way through to a calculus
+of the value of human lives in large
 numbers, that would help clarify issues of
 the scope of those just discussed although
 estimates of numbers of lives at risk are
 and will remain important. These are
 basically problems for judgment, even
-though the need for making these judg-
-ments will weigh hard on the people called
+though the need for making these judgments
+will weigh hard on the people called
 upon to make them. But supposing I should
 be wrong, let me point to one apparent
 paradox to be faced in any attempt to
 bring a calculus of the shadow price of
 human life to bear on problems with a long
 time span.
-Suppose one accepts as an ethical prin-
-ciple that, in balancing risks to human life
-in the present and in the future, equal num-
-bers of lives should receive equal weight.
+Suppose one accepts as an ethical principle
+that, in balancing risks to human life
+in the present and in the future, equal numbers
+of lives should receive equal weight.
 This would make the present value of the
 future human life independent of the time
 at which it is lived. However, we have seen

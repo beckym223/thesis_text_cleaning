@@ -12,8 +12,8 @@ markets. This case may be only a trivial
 curiosity when we deal with commodities.
 But it is a matter of considerable importance
 when we recognize that an inability to store
-output is, by definition, the case for ser-
-vices-whether they are final products, or
+output is, by definition, the case for services-
+whether they are final products, or
 are services used in production. The largest
 class of services, of course, is the labor
 services used for the production of goods. If
@@ -23,12 +23,12 @@ price of labor services should respond rather
 sharply to random shocks to the demand for
 goods produced using labor. Indeed, prices
 of labor should, in general, be more variable
-than prices of commodities, on the reason-
-able assumption that the supply of labor is
-less price elastic than the supply of cooperat-
-ing factors of production."
-In fact, of course, the evidence is undeni-
-able that wage rates normally fluctuate far
+than prices of commodities, on the reasonable
+assumption that the supply of labor is
+less price elastic than the supply of cooperating
+factors of production."
+In fact, of course, the evidence is undeniable
+that wage rates normally fluctuate far
 less than do prices. This anomaly seems to
 require an "institutional" explanation, or,
 more fundamentally, a theory that explains
@@ -37,9 +37,9 @@ Such explanations often run in terms of
 " set-up," "transactions," and "information"
 costs, that make implicit or explicit contracts
 mutually beneficial both to workers and to
-employers, despite the fact that such con-
-tracts necessarily imply substantial intermit-
-tent unemployment, as well as occasional
+employers, despite the fact that such contracts
+necessarily imply substantial intermittent
+unemployment, as well as occasional
 labor shortages.12 An extensive literature has
 developed along these lines, greatly advanced
 in Arthur Okun's posthumous Prices and
@@ -58,16 +58,16 @@ the Business Cycle
 One well-known critique of stabilization
 policy is that associated with Robert Lucas
 and Robert Barro. However, Lucas and Barro
-accept the reality of a business cycle, involv-
-ing serially-correlated changes in real output,
-although they still deny the ability of mone-
-tary or fiscal policy to affect the economy.
+accept the reality of a business cycle, involving
+serially-correlated changes in real output,
+although they still deny the ability of monetary
+or fiscal policy to affect the economy.
 The price-theoretic approach of Lucas and
 Barro stands, however, at an opposite pole
 from that of Okun. For instead of trying to
 model the imperfect flexibility of wage rates
-in a real world, wages are sometimes as-
-sumed not to exist. In one version (1977) of
+in a real world, wages are sometimes assumed
+not to exist. In one version (1977) of
 Lucas' theory of the business cycle, we have
 a world reminiscent of J. B. Say, in which
 there are no firms, no hired labor, but only
@@ -80,21 +80,21 @@ Needless to say, competition is perfect, and
 information free and nearly complete.
 1 " To be sure, the presumed rational expectations
 response to fluctuations in the demand for commodities,
-through planned additions to inventories or the draw-
-ing-down of inventories, would tend also to stabilize the
-demand for labor. However, given the costs of commod-
-ity storage, it can easily be shown that this response is
+through planned additions to inventories or the drawing-
+down of inventories, would tend also to stabilize the
+demand for labor. However, given the costs of commodity
+storage, it can easily be shown that this response is
 consistent with the presumption stated in the text: that
 labor prices should fluctuate more than goods prices.  12On the other hand, the explicitly or implicitly
 contractual nature of the employment relationship not
-only contributes to the explanation of wage rate insensi-
-tivity, but also allows producers greater freedom to use
+only contributes to the explanation of wage rate insensitivity,
+but also allows producers greater freedom to use
 temporary layoffs, along with inventory changes, as a
 means of adjustment to temporary fluctuations in the
-demand for output in a manner which may be economi-
-cally efficient both for workers and for employers. The
-relationship between inventory behavior and the de-
-mand for labor has recently been interestingly explored
+demand for output in a manner which may be economically
+efficient both for workers and for employers. The
+relationship between inventory behavior and the demand
+for labor has recently been interestingly explored
 by Robert Topel.
 13As Blinder and Fischer have recently characterized
 the producers in this model.

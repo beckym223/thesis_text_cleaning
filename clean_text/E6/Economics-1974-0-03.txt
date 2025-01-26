@@ -1,12 +1,12 @@
 The content of presidential addresses to
 this Association provides a fine example of
 a random variable with a high variance. It
-might even be a good subject for econo-
-metric analysis; the variation might be
-explained in terms of the economic condi-
-tions of the moment, previous intellectual
-investments, or even, for boldly interdis-
-ciplinary analysis, the psychological states
+might even be a good subject for econometric
+analysis; the variation might be
+explained in terms of the economic conditions
+of the moment, previous intellectual
+investments, or even, for boldly interdisciplinary
+analysis, the psychological states
 or class origins of the speakers or the
 audience. But no doubt captious theorists
 like myself will object that the endogenous
@@ -33,33 +33,33 @@ models. Taking presidential addresses as
 our data, we find most frequently a review
 of the speaker's main research concerns
 but also expressions of methodological or
-ethical concerns, historical surveys of vary-
-ing degrees of erudition and humor, and,
-least frequently, new points of view on sig-
-nifi-cant problems of economics.
+ethical concerns, historical surveys of varying
+degrees of erudition and humor, and,
+least frequently, new points of view on signifi-
+cant problems of economics.
 I am taking a somewhat different tack
-today; it will be an expression of discon-
-tents and expectations. As I shall try to
+today; it will be an expression of discontents
+and expectations. As I shall try to
 argue, the uncertainties about economics
-are rooted in our need for a better under-
-standing of the economics of uncertainty;
+are rooted in our need for a better understanding
+of the economics of uncertainty;
 our lack of economic knowledge is, in good
-part, our difficulty in modelling the ig-
-norance of the economic agent.
-Critical aspects of this need for reorien-
-tation of theory have been recognized by
+part, our difficulty in modelling the ignorance
+of the economic agent.
+Critical aspects of this need for reorientation
+of theory have been recognized by
 many scholars in the last quarter-century
 and particularly in the last decade. I view
-my remarks today as a summary and per-
-spective on a widely shared development
+my remarks today as a summary and perspective
+on a widely shared development
 of thinking.
 The starting point of discussion must
 still be the much-abused neoclassical
 theory. No really cohesive alternative
-which aspires to the same level of com-
-pleteness exists. The neoclassical model is
-founded on two concepts, which are con-
-siderably different in nature. One is the
+which aspires to the same level of completeness
+exists. The neoclassical model is
+founded on two concepts, which are considerably
+different in nature. One is the
 notion of the individual economic agent,
 whose behavior is governed by a criterion
 of optimization under constraints which

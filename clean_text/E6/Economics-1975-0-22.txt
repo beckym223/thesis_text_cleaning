@@ -1,13 +1,13 @@
-in-the-making, and conservation and de-
-velopment measures to limit dependence
+in-the-making, and conservation and development
+measures to limit dependence
 on foreign raw materials cartels. In other
 words, it is a call for better planning,
 better data, and faster conversion of
 knowledge into policy.
-Another criterion of economists' re-
-sponses to inflationary shocks is how
-quickly they adapted (read, "disaggre-
-gated") their macromodels, large and
+Another criterion of economists' responses
+to inflationary shocks is how
+quickly they adapted (read, "disaggregated"
+) their macromodels, large and
 small, to incorporate new supply and price
 parameters that had previously been
 judged of second or third order importance
@@ -28,28 +28,28 @@ capacity behavior, to give them a fix on
 price trends. Their eyes were on labor
 market indicators rather than commodity
 supplies, exchange rates, and the like.
-After some initial delays, the model build-
-ers scrambled to disaggregate, to build
+After some initial delays, the model builders
+scrambled to disaggregate, to build
 microelements into their macromodels.
-For example, DRI now has good stage-of-
-processing models that absorb the impacts
-of food and energy explosions. Price elas-
-ticities are being built into the macro-
-models to reflect the impact of massive
-relative price changes on the macrodimen-
-sions of the economy.
+For example, DRI now has good stage-ofprocessing
+models that absorb the impacts
+of food and energy explosions. Price elasticities
+are being built into the macromodels
+to reflect the impact of massive
+relative price changes on the macrodimensions
+of the economy.
 The whole experience reminds us of the
 role and limits of econometric forecasting
-models. First, the combination of com-
-puters, mathematics, and econometrics
-cannot produce the miracles that the un-
-initiated may expect of them-there is no
+models. First, the combination of computers,
+mathematics, and econometrics
+cannot produce the miracles that the uninitiated
+may expect of them-there is no
 way of replicating reality with its 3 million
 equations, all of them non-linear. Second,
 their indispensable function is to bring us
 closer to reality and help the mind manage
-the previously unmanageable-they per-
-mit us to release vastly more animals from
+the previously unmanageable-they permit
+us to release vastly more animals from
 the ceteris paribus pound than we could
 manage without these tools. Third, they
 have to be constantly adjusted to plug in
@@ -72,22 +72,22 @@ toward macro-micro fusion will proceed.
 Economists who use judgmental models
 have shown us how to be the master
 rather than the slave of the computer. A
-case in point was the early analysis (es-
-pecially by George Perry) of the macro-
-impact of the oil price increases. A year
+case in point was the early analysis (especially
+by George Perry) of the macroimpact
+of the oil price increases. A year
 ago, his work had already brought out the
 oil paradox-the inflation of costs and
-hence prices, leading to a deflation of ag-
-gregate demand-and had provided some
+hence prices, leading to a deflation of aggregate
+demand-and had provided some
 estimates of both. The insight that some
 $15 to $20 billion of consumer purchasing
 power would be siphoned off into the
-hands of oil producers and royalty col-
-lectors without any early return to the
-economy in the form of demand for im-
-ports or investment goods had important
-implications for demand-management pol-
-icy-implications that were ignored until
+hands of oil producers and royalty collectors
+without any early return to the
+economy in the form of demand for imports
+or investment goods had important
+implications for demand-management policy-
+implications that were ignored until
 severe recession was full upon us.7
 I Late in 1974, Perry undertook a more searching
 econometric probe with the benefit of actual rather than

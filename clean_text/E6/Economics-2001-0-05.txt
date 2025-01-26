@@ -1,8 +1,8 @@
 and Robert Noyce of Fairchild Semiconductor in
 1959. An integrated circuit consists of many, even
 millions, of transistors that store and manipulate
-data in binary form. Integrated circuits were orig-
-inally developed for data storage and retrieval and
+data in binary form. Integrated circuits were originally
+developed for data storage and retrieval and
 semiconductor storage devices became known as
 memory chips.5
 The first patent for the integrated circuit was
@@ -18,25 +18,25 @@ A. Moore's Law
 In 1965 Gordon E. Moore, then Research
 Director at Fairchild Semiconductor, made a
 prescient observation, later known as Moore's
-Law.7 Plotting data on memory chips, he ob-
-served that each new chip contained roughly
+Law.7 Plotting data on memory chips, he observed
+that each new chip contained roughly
 twice as many transistors as the previous chip
 and was released within 18-24 months of its
 predecessor. This implied exponential growth
 of chip capacity at 35-45 percent per year!
 Moore's prediction, made in the infancy of the
-semiconductor industry, has tracked chip capac-
-ity for 35 years. He recently extrapolated this
+semiconductor industry, has tracked chip capacity
+for 35 years. He recently extrapolated this
 trend for at least another decade.8
-In 1968 Moore and Noyce founded Intel Cor-
-poration to speed the commercialization of
+In 1968 Moore and Noyce founded Intel Corporation
+to speed the commercialization of
 memory chips.9 Integrated circuits gave rise to
-microprocessors with functions that can be pro-
-grammed by software, known as logic chips.
+microprocessors with functions that can be programmed
+by software, known as logic chips.
 Intel's first general purpose microprocessor was
-developed for a calculator produced by Busi-
-com, a Japanese firm. Intel retained the intellec-
-tual property rights and released the device
+developed for a calculator produced by Busicom,
+a Japanese firm. Intel retained the intellectual
+property rights and released the device
 commercially in 1971.
 The rapidly rising trends in the capacity of
 microprocessors and storage devices illustrate the
@@ -50,14 +50,14 @@ economy during this period was slower by two
 orders of magnitude.
 B. Semiconductor Prices
 Moore's Law captures the fact that successive
-generations of semiconductors are faster and bet-
-ter. The economics of semiconductors begins with
-the closely related observation that semiconduc-
-tors have become cheaper at a truly staggering
+generations of semiconductors are faster and better.
+The economics of semiconductors begins with
+the closely related observation that semiconductors
+have become cheaper at a truly staggering
 rate! Figure 1 gives semiconductor price indexes
 constructed by Bruce T. Grimm (1998) of the U.S.
-Bureau of Economic Analysis (BEA) and em-
-ployed in the U.S. National Income and Product
+Bureau of Economic Analysis (BEA) and employed
+in the U.S. National Income and Product
 Accounts since 1996. These are divided between
 memory chips and logic chips. The underlying
 detail includes seven types of memory chips and
@@ -77,9 +77,9 @@ setting semiconductors apart from other products.
 Figure 1 also reveals a sharp acceleration in
 the decline of semiconductor prices in 1994 and
 1995. The microprocessor price decline leapt to
-more than 90 percent per year as the semicon-
-ductor industry shifted from a three-year prod-
-uct cycle to a greatly accelerated two-year
+more than 90 percent per year as the semiconductor
+industry shifted from a three-year product
+cycle to a greatly accelerated two-year
 cycle. This is reflected in the 2000 Update of
 the International Technology Road Map for
 Semiconductors,'0 prepared by a consortium of

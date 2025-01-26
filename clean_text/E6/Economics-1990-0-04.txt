@@ -23,19 +23,19 @@ introduced in the 1960s and liberalized in
 the 1970s and 1980s, as well as a reduction
 in the profitability of the corporate sector.10
 Since 1985, the distribution of tax burdens
-has changed largely because of the enact-
-ment of the landmark Tax Reform Act of
+has changed largely because of the enactment
+of the landmark Tax Reform Act of
 1986. This act increased the progressivity of
 the tax system, most notably by raising the
 personal exemptions, standard deductions,
-and the earned income credit, and by shift-
-ing about $25 billion of tax annually from
+and the earned income credit, and by shifting
+about $25 billion of tax annually from
 individuals to corporations. However, this
 change in tax policy restored only a small
-fraction of the progressivity lost in the pre-
-ceding two decades. At the very top of the
-income distribution, the 1986 federal tax re-
-form restored about half the reduction in
+fraction of the progressivity lost in the preceding
+two decades. At the very top of the
+income distribution, the 1986 federal tax reform
+restored about half the reduction in
 effective tax rates between 1980 and 1985,
 but left them far below the 1966 levels: the
 top 1 percent paid only 26.8 percent in taxes
@@ -50,14 +50,14 @@ much. Since the before-tax distribution has
 become much more unequal in the 1980s, it
 follows that inequality has increased even
 more on an after-tax basis.'1
-Transfer Payments. The other major ele-
-ment of government policy affecting the dis-
-tribution of income is the system of transfer
+Transfer Payments. The other major element
+of government policy affecting the distribution
+of income is the system of transfer
 payments, or negative taxes. This system in-
 10See Alan Auerbach and James Poterba (1987).  "ISince the income tax affects economic behavior, the
 before-tax distributions reflect the responses of taxpay-  ers, through portfolio shifts, substitution of nontaxable
-fringe benefits for cash compensation, and other ac-
-tions, to the level and structure of the tax system.
+fringe benefits for cash compensation, and other actions,
+to the level and structure of the tax system.
 Hence, the after-tax distribution is more representative
 of the changes in inequality. For a discussion of these
 issues, see Eugene Steuerle (1985) and Harvey Galper,
