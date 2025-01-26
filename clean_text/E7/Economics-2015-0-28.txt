@@ -1,10 +1,14 @@
 damages. There will be second-order effects through cost-of-capital factors, GDP,
 and other economic variables. But a changed discount rate will affect the outcome
 primarily through changes in the SCC.
+
 VIII. Conclusion
+
 The present study analyzes the syndrome of free-riding in climate agreements such
 as the Kyoto Protocol and considers potential structures for overcoming free-riding.
 This concluding section summarizes the basic approach and conclusions.
+
 A. The Climate Club
+
 The structure of climate change as a global public good makes it particularly
 susceptible to free-riding. The costs of abatement are national, while the benefits are

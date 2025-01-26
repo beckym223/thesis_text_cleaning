@@ -4,10 +4,12 @@ has a welfare loss of $10 billion when it does not participate and the penalty t
 the external damages of $16 billion. Additionally, the figure shows the "Benefit of
 in," which is the benefit of forming a club of 1, when the country is the only member
 of the club. For the United States, the benefit of in is $23 billion.
+
 For all regions, the sum of the transnational externalities is $124 billion. The
 sum of the costs of out (clubs of 14) of all 15 regions is $102 billion, while the sum
 of benefits of in (clubs of 1) is $98 billion. Online Appendix Table B-7 shows the
 results for all regions.
+
 The calculations provide a surprising result. They indicate that a penalty tariff provides
 incentives that are reasonably well targeted to the transnational externalities.
 The penalty always has the correct sign, and the size of the penalty is the right order
@@ -16,6 +18,8 @@ patterns, the externality and the trade penalty are imperfectly aligned. Note
 that the tariff effect changes with club size, so the internalization effect is variable.
 But on the whole, an appropriate tariff appears to be remarkably well-calibrated to
 the C02 externality.
+
 G. Tariffs as Sanctions for Global Public Goods
+
 Two simple but critical points concern the role of tariffs as sanctions. To begin
 with, they play the role of external penalties. This can be most easily seen in repe

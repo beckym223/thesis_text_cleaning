@@ -1,20 +1,36 @@
 the limit, a transfer that led people to save nothing in the form of capital would eliminate
 uncertainty about second period income, and thus would lead to
+
 E
+
 R
+
 f  = ER  .
+
 The larger  ER
+
 ,
+
 the faster  E
+
 R
+
 f   increases with a large transfer; for  ER   high enough  ,
+
 and
+
 for  D
 
+
+
 large enough,  E
+
 R
+
 f   becomes larger than 1, and the transfer becomes welfare
+
 decreasing.
+
 In other words, even if the transfer has no effect on the average rate of return to
 capital, it reduces the risk premium, and thus increases the safe rate. At some point,
 the safe rate becomes positive, and the transfer has a negative effect on welfare.
@@ -22,7 +38,9 @@ Figures 9 and 10 do the same, but now for the Cobb-Douglas case. They yield
 the following conclusions. Both effects are now at work, and both rates matter. A lower safe rate makes it more likely that the transfer will increase welfare; a higher risky rate makes it less likely. For a small transfer (5 percent of saving), a safe rate
 2 percent lower than the growth rate leads to an increase in welfare so long as the risky rate is less than 2 percent above the growth rate. A safe rate 1 percent lower than the growth rate leads to an increase in welfare so long as the risky rate is less than 1 percent above the growth rate. For a larger transfer (20 percent of saving), which increases the average
 R
+
 f   closer to 1, the trade-off becomes less attractive. For
+
 welfare to increase, a safe rate 2 percent lower than the growth rate requires that
 the risky rate be less than 1.5 percent above the growth rate; a safe rate of 1 percent below the growth rate requires that the risky rate be less than 0.7 percent above the growth rate.
 I have so far focused on intergenerational transfers, such as we might observe in
@@ -30,7 +48,11 @@ a pay-as-you-go system. Building on this analysis, I now turn to debt, and proce
 Suppose the government increases the level of debt and maintains it at this higher
 level forever. Depending on the value of the safe rate every period, this may require either issuing new debt when
 R
+
 t  f  < 1   and distrib uting the proceeds as benefits, or
+
 retiring debt, when
+
 R
+
 t  f  > 1   and financing it through tax e

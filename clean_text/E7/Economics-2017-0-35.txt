@@ -1,10 +1,12 @@
 Research in semantic information and semiotics is advancing. For example,
+
 machine translation is already somewhat able to pick which meaning of the word is
 intended by looking at context, at other adjacent words. Semantic search took a big
 leap forward in 2010 when Apple, Inc. introduced its Siri function, which allows
 users to verbally ask a question like "What is the longest river in South Africa?"
 and receive a direct verbal answer. Semantic search is now getting well established
 around the world.
+
 Semantic search may, however, take a long time to reach the abilities of the human
 mind to understand narratives. In the meantime, researchers can still be quantitative
 in the study of narratives if they use multiple research assistants with explicit

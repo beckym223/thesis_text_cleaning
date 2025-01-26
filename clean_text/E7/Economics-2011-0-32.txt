@@ -1,22 +1,28 @@
 Figure 18 shows the response of the consumption levels of the two types of households.
 Consumers who are able to level consumption by adjusting saving have flat
+
 profiles, with no discontinuity at the point when the interest rate is no longer pinned
 at too high a level. On the other hand, liquidity-constrained households consume
 more when their incomes rise as unemployment drops to normal.
+
 Figure 19 shows the response of investment. Business investment takes a modest
 hit at the outset, then recovers gradually. Investment in houses and consumer
 durables falls to zero immediately and does not recover much until the interest rate
 is unpinned, when it jumps up to normal levels.
+
 Figure 20 shows the response of the interest rate. For four years, it is pinned at
 0.12 percent. At the end of the period of high interest, the rate drops discontinuously
 to ?0.20 percent. That is enough, at that time, to restore full employment. The rate
 then gradually rises as the adverse forces dissipate.
+
 Figure 21 shows the responses of unemployment to other combinations of adverse
 forces. The blue line takes the financial friction out of the mix. The initial increase
 in unemployment is not as severe, but the recovery is not as fast. Taking tight credit
 out as well isolates the effect of the bulge of housing and durables, which by itself
 pushes unemployment up to about 13 percent.
+
 C. Responses of a Similar Economy without a Pinned Real Interest Rate
+
 What if the economy had been hit by the same adverse forces but the interest rate
 was completely free to do its job? Figure 22 shows what the model implies for that
 counterfactual. Consumption would start out a bit low, because of the inheritance of

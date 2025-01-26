@@ -12,12 +12,15 @@ that the response would have to involve substantial increases in tax revenue. Wi
 recent repeated congressional games of chicken over the debt limit and inability to
 bargain to a resolution of long-term budget problems, the answer may now be in
 some doubt.
+
 With the central bank keeping interest rates stable in the face of inflation fluctua
 tions and fiscal authorities not increasing primary surpluses in response to increased
 real debt, the price level is still likely to be determinate. But the main determinant
 of inflation becomes the fiscal deficit, rather than changes in the usual instruments
 of monetary policy.
+
 B. Paper Money Requires Fiscal Backing
+
 It is easy to construct models of economies in which unbacked paper money can
 have value, but in such models it is generally also possible for money to be valueless,
 or to dwindle rapidly in value so that the economy approaches a barter equilibrium.
@@ -26,6 +29,7 @@ or to contract the supply of non-interest-bearing liabilities (and thus, via def
 create a real return) tends to resolve the indeterminacy and provide a uniquely deter
 mined price level. The first two examples in Section III below show quite different
 models in which this pattern of results hold.
+
 Depending on the institutional setup, the fiscal backing can be apparent in
 equilibrium, as with taxation to service a stable volume of nominal debt, or it
 can be implicit, invoked only under unusual circumstances, as with a commit
@@ -34,6 +38,7 @@ deteriorates. But in evaluating monetary and fiscal institutions, the question o
 the nature of fiscal backing for the price level is a useful starting point. It led me
 (Sims 2004; 1999) to think about where fiscal backing could come from in the
 European Monetary Union (EMU) and what kinds of conditions might force the
+
 EMU to confront the need for fiscal backing. Those two papers speculated about
 policy dilemmas that at the time might have been seen as obscure and unlikely,
 but now seem practically relevant. The policy discussion in the EMU during this

@@ -1,7 +1,9 @@
 an  estimate of the overall supply elasticity. Manning’s insight provides a tractable
 method of estimating labor supply elasticities that has been implemented in many
 different settings.
+
 Perhaps the most compelling evidence based on this approach comes from the
+
 experiment on public sector hiring conducted by Dal Bo, Finan, and Rossi (2013).
 These authors randomly varied the salaries announced at different job sites to potential
 job applicants for a position in the office of the Regional Development Program
@@ -11,6 +13,7 @@ recruiting with respect to wages is around 2.1 (though rather imprecisely estima
 Using Manning’s shortcut, the implied (steady state) elasticity of labor supply is
 around 4.2.11 In a simple monopsonistic model such an elasticity implies that wages
 are marked down relative to marginal revenue products by about 20 percent.
+
 Observational studies of the partial correlation between wages and quit or recruiting
 rates tend to yield elasticities in the same range (see Sokolova and Sorensen,
 2021 for a  meta-analysis of this literature and Ashenfelter et al. forthcoming for
@@ -25,10 +28,14 @@ searchers. Adopting the estimation approach of Berry, Levinsohn, and Pakes (2004
 elasticity of applications with respect to wages is around 2.9. Assuming the recruiting
 elasticity is the same as the application elasticity this implies a steady state labor
 supply elasticity of just under six.
+
 B. The Relationship between Wages and Firm Productivity
+
 In a competitive labor market, more and less productive firms pay the same
+
 wages for workers, even if the more productive firms are larger. In imperfectly competitive
 labor markets, however, more productive firms will generally have to pay
+
 more to maintain a larger workforce. Card et al. (2018) developed a simple partial
 equilibrium model where workers have MNL preferences over different firms and
 firms set wages without accounting for strategic interaction effects (i.e., a model of
@@ -38,5 +45,7 @@ literature researchers typically find that wages are about 0.5 to 1.5 percent hi
 at firms with 10 percent higher productivity. In the parameterization of preferences
 adopted by Card et al., this degree of  pass-through is consistent with  firm-specific
 supply elasticities of about four.
+
 Lamadon, Mogstad, and Setlzer (2022) present a more extensive analysis
+
 of the  pass-through of  firm-specific and  market-wide value added p

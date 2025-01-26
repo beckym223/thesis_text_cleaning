@@ -1,4 +1,5 @@
 I. Introduction
+
 Slumps?extended periods of low resource utilization?are an enduring part of
 life in modern advanced economies. At the beginning of 2011, the US and many
 other economies found themselves in slumps. The worst slump in US history was
@@ -8,5 +9,6 @@ employed fraction of the labor force aged 25 through 54 since the beginning of
 1979 (the remaining fraction of the labor force is unemployed). Slumps are identified
 as periods when this measure of employment was less than its normal level of
 95.5 percent of the labor force.
+
 A slump begins with a contraction, often fairly brief, at least in comparison to the
 extended period of slow growth that follows the contraction. Relative to the vocabulary

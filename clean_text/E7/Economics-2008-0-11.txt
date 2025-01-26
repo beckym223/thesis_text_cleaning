@@ -1,23 +1,34 @@
 A decision maker has preferences ordered by
+
 (12) jt/(/>*)/(/>10) ?(/>*)
+
 and chooses a history-dependent plan
+
 (13) v, = A,(*'|0), t>0
+
 that maximizes (12). This gives rise to the sequence of decisions v (h \ 0)x. The difference between
 this choice problem and the canonical intelligent design problem in Section I is the presence of
 the approximating model f(y*, vx 10) in (12) rather than the true model that appeared in (2). I call
 maximizing (12) a "Phelps problem" in honor of a policy design problem of Edmund S. Phelps
 (1967) that will play an important role in Section VI.
+
 DEFINITION 1: A self-confirming equilibrium (SCE) is a parameter vector 0ofor the approximating
 model that satisfies the data-matching conditions
+
 d4) f(yx,v(h\0oY\6o) =f(y\v(h\Oor\p)
+
 An SCE builds in, first, optimization of (12) given beliefs indexed by 0O, and, second, a 0 =
 0O that satisfies the data matching conditions (14). Data matching prevails for events that occur
 under the equilibrium policy v (h 10O)X, but it is possible that
+
 d5) /(/>* 10O) */(/>>)
+
 for vx ^ v{h\0oy. In an SCE, the approximating model is observationally equivalent with the
 true model for events that occur under the SCE government policy, but not necessarily under
 alternative government policies.
+
 B. Learning Converges to an SCE
+
 An SCE is a possible limit point of an adaptive learning process. Margaret M. Bray and Kreps
 (1987) distinguish between learning about an equilibrium and learning within an equilibrium.18
 By saying about and not within, Bray and Kreps emphasize that the challenge is to analyze how a

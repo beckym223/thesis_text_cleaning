@@ -1,32 +1,45 @@
 around a common theme, have been creating cultural change long before the
+
 Internet revolution, when the appearance of the parallel phenomenon of computer
 viruses, which spread by contagion from computer to computer, popularized the
 virus metaphor.
+
 Talk of the epidemic spread of narratives goes back centuries. David Hume wrote
 in 1742
+
 ... when any causes beget a particular inclination or passion, at a certain
 time and among a certain people, though many individuals may escape
+
 the contagion, and be ruled by passions peculiar to themselves; yet the
+
 multitude will certainly be seized by the common affection, and be governed
 by it in all their actions ,5
+
 McKay (1841) drew attention to the contagious spread of "extraordinary popular
 delusions." Gustave Le Bon said in his book Psychologie des foules ( The Crowd):
 "Ideas, sentiments, emotions, and beliefs possess in crowds a contagious power as
 intense as that of microbes" (Le Bon 1895). Related terms were collective consciousness
 (Durkheim 1897), collective memory (Halbwachs 1925), and memes
+
 (Dawkins 1976). Contagion is also related to issues of identity, since an important
 part of most narratives describing past events involving people is that one must
 imagine oneself as another person, and thus momentarily at least feel a shared identity
 with someone else (Akerlof and Kranton 201 1).
+
 III. Dimensions of Narratives Normal and Abnormal
+
 The psychologist Jerome Bruner, who has stressed the importance of narratives,
 wrote that we should not assume that human actions are ever driven in response to
 purely objective facts:
+
 I do not believe that facts ever quite stare anybody in the face. From a
+
 psychologist's point of view, that is not how facts behave, as we well know
 from our studies of perception, memory, and thinking. Our factual worlds
+
 are more like cabinetry carefully carpentered than like a virgin forest inadvertently
 stumbled upon.6
+
 Narratives are human constructs that are mixtures of fact and emotion and human
 interest and other extraneous detail that form an impression on the human mind.
 Psychiatrists and psychologists recognize that mental illness is often an extreme
@@ -35,6 +48,7 @@ So we can learn about the complexities of normal human narrative brain processin
 by looking at dysnarrativia, abnormal narrative phenomena. Neuroscientists Young
 and Saver (2001) listed some of its varied forms: arrested narration, undernarration,
 denarration, confabulation.
+
 Schizophrenia may be regarded as another brain anomaly related to narrative
 problems (Gaser et al. 2004). Schizophrenia has aspects of being a disorder of
 narrative, as it often involves the hearing of imaginary voices delivering a fa

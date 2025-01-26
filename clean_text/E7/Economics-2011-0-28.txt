@@ -1,27 +1,46 @@
 Here, pd t is the rental price of durables, as above. The unconstrained household's
 demand for the goods component of consumption satisfies
+
 (26) Py,tcyt = <t>pCttct
+
 and similarly for constrained households. Total nondurable consumption is
+
 (27) PyjCyJ = (/>PCj(Ct I" Ct).
+
 Unconstrained households order their paths of composite consumption according
 to the intertemporal utility function
+
 (28) Ct
+
 1 - l/a 9
+
 where a is the intertemporal elasticity of substitution.
+
 Constrained households' consumption is
+
 (29) pCJct = Pytt{uyt - styt),
+
 where u is the fraction of constrained households and st is the burden of interest and
 debt repayments of constrained households as a fraction of output.
+
 Consumption of durables services is
+
 (30) PdA-i = (! ~ </>)PcA?t + Ct)
+
 C. The Price of Output
+
 I take the price of output, py t, to be an upward trend at rate 7r:
+
 (31) Py,t = P(l ~ 7T)->.
+
 D. Employment
+
 As in the standard Diamond-Mortensen-Pissarides model, all workers desire to
 work a standard number of hours. The only source of variation in aggregate hours of
 work arises from unemployment.
+
 Hall (2009) gives a compact summary of the search-and-matching model whose
+
 canon is Dale T. Mortensen and Christopher T. Pissarides (1994). My approach
 generalizes wage determination relative to the Nash bargain in that paper. Also, I
 simplify the treatment of labor-market dynamics by considering only the stochastic

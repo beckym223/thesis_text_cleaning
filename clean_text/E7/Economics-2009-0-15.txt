@@ -15,23 +15,33 @@ need a repeated game with adverse selection as well as moral hazard. Dilip Abreu
 Bernheim, and Dixit (2005) construct some examples that illustrate the possibilities in such situations,
 but we await more general theoretical understanding of graduated punishments.
 A. Internalizing Norms of Prosocial Behavior
+
 When discussing contract enforcement, I emphasized the social value and practical importance
 of internalized prosocial preferences (first-party governance), and of deliberate efforts
 to generate such preferences by socialization and education of children. Collective action also
 benefits from similar preferences. Dixit (2008) constructs a simple example that can serve as a
 starter model for this.
+
 Consider a society of n individuals. Each individual i can expend two types of effort, private
 xt and public zr The resulting income of individual / is given by
+
 yt = (1 + z)xn
+
 where z is the average of the zr Thus public effort creates a public input that raises the average
 and marginal product of private input.
+
 The private or selfish utility of individual / is
+
 With this specification, the noncooperative Nash equilibrium has no public effort:
 (1) *, = 3/2, z, = 0, )\ = 3/2, ?, = 3/4,
+
 but the cooperative optimum has positive public effort yielding higher selfish utility:
 (2) xt = 2, Zl= 1, yt - 4, ux = 1.
+
 If the society cannot compel individuals to exert the public effort directly, it may induce them
 to do so by changing their preferences to include a prosocial element. Suppose individual 1 is
 given a prosocial utility
+
 n
+
 i=2

@@ -1,25 +1,32 @@
 Woodford (2003), and Lawrence Christiano, Eichenbaum, and Rebelo (2009) has
 made various assumptions that amount to letting unemployment account for the
 excess supply of labor, as in Figure 3.
+
 Much of a story connecting the behavior induced by the inappropriately high
 return on currency to the outbreak of unemployment is still untold. The goal is
 clear?an equilibrium where some indifference curve is tangent to some isoquant.
 And the slope of the tangent line needs to be one plus the real rate the government is
 paying on money?the negative of the inflation rate. See Figure 16.
+
 In the low-employment equilibrium, first-period consumption is quite a bit lower
 and second-period consumption?which the household hoped would be higher?is
+
 actually lower as well. The desire to trade to a better indifference curve, by hoarding
 currency, is thwarted in equilibrium.
+
 In the equilibrium shown, unemployment occurs in the first period but not in the
 second. Less capital is carried from the first to the second period than in the standard
 equilibrium. In the second period, that capital is combined with all available labor.
 Because the labor/capital ratio is higher, the return to capital is higher and capital
 can compete with high-return currency.
+
 To find an equilibrium of the economy with high-yielding currency, one needs an
 alternative concept of equilibrium. A long tradition of macroeconomics considers:
 DEFINITION: A low-employment equilibrium in the two-period economy at interest
 rate r is a consumption pair (cif c2) and an employment pair (nlf n2), with nx<n
 and n2 < n, satisfying the equality of marginal rate of substitution and marginal
 product of capital at the interest rate r,
+
 (13)
+
 ?U'(c2)

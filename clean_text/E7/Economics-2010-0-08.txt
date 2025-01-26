@@ -2,11 +2,15 @@ the ICP collects prices in each country c in region r for basic head /* so that 
 j = 1, ...Nr items in the basic heading (varieties of fish in the fish basic heading). We can then
 run a set of country-product dummy (CPD) regressions, one for each basic heading separately
 by region, of the form
+
 (1) \nPiy = ar + +
+
 in which each price is regressed on a set of commodity (basic heading) and country dummieswith
 country 1 omitted?so that the parity in region r for basic heading / (with country 1 as
 numeraire) is given by
+
 (2) pf = exp?r)
+
 where the suffix lr identifies the numeraire country in region r. If every country in the region
 prices everything in the regional list, (2) would be a geometric mean of prices in the basic head
 ing for country c. But not everyone has fresh (or even smoked) bonga in their local market, so
@@ -14,6 +18,7 @@ that CPD regression works when geometric means would not. Effectively, (1) "fill
 values for items whose prices cannot be found, even to the extent of delivering a comparison of
 two countries neither of which consumed any item purchased in the other, provided that the items
 appear together in one or more other countries.
+
 Another problematic issue here is that smoked bonga (or indeed Kellogg's cornflakes, a more
 important example) may be available but is rarely eaten in country c, so that it is only stocked
 in specialty shops at very high prices. On the one hand, the ICP wants to specify goods very
@@ -26,6 +31,7 @@ representativity of each good on a three point scale, with the intent of down-we
 sentative items. A similar system was successfully operated in Europe in 2005, but the rankings
 from the other regions were not usable, so no correction was made for high prices of possibly
 unrepresentative goods.
+
 When we move from parities for basic headings to PPPs for countries, the prices for each basic
 heading from (3) are combined with expenditures from the national accounts statistics of each
 country. In the first instance, this is done for each region separately. The theory here is a multi

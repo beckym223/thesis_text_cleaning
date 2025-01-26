@@ -4,6 +4,7 @@ purchase with an hour of work, and it is comparable over time and across space.
 The primary message of Table 5 and the accompanying hgures is that growth in
 real wage rates was entirely confined to the developing countries of Russia, India,
 and China during the period 2000-2007.
+
 Generally speaking, each country represented in I able 5 displays increases in nom
 inal wages and prices. What is remarkable is the dramatic disparity in the growth in
 real wages as measured by the BMPH. In both Canada and the United States, the real
@@ -13,6 +14,7 @@ it is over 150 percent in Russia. The choice of 2000 for the start of data colle
 unfortunate in the case of Russia, as it is well known that the Russian financial crisis
 in the late 1990s resulted in a collapse in living standards. No doubt some of the mas
 sive growth in Russia simply represents a return to previous wage levels.
+
 The cases of India and China, countnes that contain nearly one-halt or the world s
 population, are especially noteworthy. There have been many anecdotal conjectures
 about the accuracy of Chinese growth as reflected in official accounts. The data in

@@ -1,5 +1,6 @@
 without external penalties, that is, ones that have self-contained payoffs and cannot
 be enforced by third parties or be linked to other arrangements.
+
 Begin with some definitions. The formal difference between "external" and "internal"
 penalties is the following. If countries are playing a repeated game, then internal
 penalties maintain the payoff structure of the game, but countries can penalize or
@@ -17,12 +18,15 @@ Before turning to the analysis of coalitions, it will be useful to distinguish b
 economics, reviewed in the next section, focuses on a bottom-up approach in which
 coalitions optimize their own self-interest and evolve into larger or smaller coalitions.
 Regional trade agreements are examples of this approach.
+
 The Climate Club approach is instead a top-down approach. Here, the regime is
 optimized to attract large numbers of participants and attain high levels of abatement,
 and then countries decide whether or not to join. The Bretton Woods institutions
 such as the International Monetary Fund or the World Trade Organization are
 examples of the top-down model.
+
 B. Bottom-up Coalitions and the Small Coalition Paradox
+
 In the context of climate change, coalitions of countries can form treaties that
 potentially improve the welfare of their members by taking concerted action. If several
 countries maximize their joint welfare, the optimized level of abatement will rise

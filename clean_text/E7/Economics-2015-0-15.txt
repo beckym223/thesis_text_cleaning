@@ -1,5 +1,6 @@
 conference? Or would it evolve from a small number of countries who see the logic,
 define a regime, and then invite other countries to joinThere
+
 are no clear answers to these questions. International organizations evolve in
 unpredictable ways. Sometimes, it takes repeated failures before a successful model
 is developed. The histories of the gold and dollar standards, cholera conventions, the
@@ -7,7 +8,9 @@ WTO, the European Union, and the Internet all emphasize the unpredictability in 
 development of international regimes (for some histories, see Cooper et al. 1989). The
 destination of a Climate Club is clear, but there are many roads that will get there.
 V. Modeling Coalition Formation: The Coalition-DICE (C-DICE) Model
+
 A. Description of the Model and Sources
+
 Economic analysis can describe the basic structure of a Climate Club. However
 detailed empirical modeling is necessary to determine the effectiveness of different
 regimes in the context of actual emissions, damages, climate change, and trade
@@ -19,20 +22,24 @@ economic integrated assessment models (IAMs), the purpose is different. The
 C-DICE model is designed to determine whether or not countries join a coalition
 of high-abatement countries, and to find stable coalitions, rather than to look for an
 optimal choice of climate policies or map out emissions trajectories.
+
 The current version has 15 regions, including the largest countries and aggregates
 of the balance of the countries. The regions are the US, EU, China, India,
+
 Russian Federation, Japan, Canada, South Africa, Brazil, Mideast and North Africa,
 Eurasia, Latin America, tropical Africa, middle-income Asia, and the ROW (rest
 of the world). The model includes exogenous output, baseline C02 emissions, and
 a baseline trade matrix for the 15 regions. Countries produce a single composite
 commodity, and C02 emissions are a negative externality of production. Regions
 can reduce emissions by undertaking costly abatement.
+
 The marginal damages of emissions (social cost of carbon (SCC)) are assumed
 to be constant. This is reasonably accurate for small time periods because emissions
 are a flow, damages are a function of the stock, and the flow-stock ratio is small. The
 fact that the SCC is little affected by abatement levels is shown in Nordhaus (2014,
 Table 1), where there is virtually no difference in the SCC between the optimal and
 baseline policies.
+
 The damage estimates are drawn from a recent comparison of the social cost of
 carbon (Nordhaus 2014). That study found a central estimate for the global SCC of
 $24 per ton C02 in 201 1 US$ for 2020 emissions. However, estimates from other

@@ -3,38 +3,61 @@ welfare than in the transfer case. Otherwise, the conclusions are very similar.
 This is a good place to discuss informally a possible extension of the closed
 economy model, and allow the economy to be open. Start by thinking of a small open economy that takes
 R
+
 f   as given and unaffected by its actions. In this case, if
+
 R
+
 f   is less than 1, an increase in debt unambiguously increases welfare. The reason is
 that capital accumulation is unaffected, with the increase in debt fully reflected in an
 increase in external debt, so the second effect characterized above is absent. In the case of a large economy such as the United States, an increase in debt will lead to both an increase in external debt and a decrease in capital accumulation. While the decrease in capital accumulation is the same as above for the world as a whole, the decrease in US capital accumulation is smaller than in the closed economy. Thus, the second effect is smaller; if it was adverse, it is less adverse. This may not be the end of the story however. Other countries suffer from the decrease in capital accumulation, leading possibly to a change in their own debt policy. I leave this extension to another paper, but, in the current context in which the difference between the interest rate and the growth rate varies across countries, it is clearly of relevance today.
 Let me finally turn to the effects of a debt rollover, where the government, after
 having issued debt and distributed the proceeds as transfers, does not raise taxes thereafter, and lets debt dynamics play out.
 The government issues debt
+
 D
+
 0   . Unless the debt rollover fails, there are neither
+
 taxes nor subsidies after the initial issuance and associated transfer. The budget con-straints faced by somebody born at time
 t
+
 are thus gi
+
 ven by
+
 C
+
 1t   =  W  t   + X −   ( K t   +  D t  )  ,
+
 C
+
 2t+1   =  R t+1    K t   +  D t    R  t+1  f   ,
+
 and debt follo
+
 ws
+
 D
+
 t   =  R  t  f   D t−1   .
+
 First, consider sustainability
+
 . Even if debt decreases in expected value over time,
+
 a debt rollover may fail with positive probability. A sequence of realizations of
 R
+
 t  f  > 1   may increase debt to the le vel where   R    f   becomes larger than 1 and then
 remains so, leading to a debt explosion. At some point, an adjustment will have to
 take place, either through default, or through an increase in taxes. The probability of such a sequence over a long but finite period of time is however likely to be small if
 
+
 R
+
 f   starts far below 1.26
+
 This is shown in Figure 11, which plots 1,000 stochastic paths of debt evolutions,
 under the assumption that the production function is linear, and Figure 12, under the
 assumption that the production function is Cobb-Douglas. In both cases, the initial

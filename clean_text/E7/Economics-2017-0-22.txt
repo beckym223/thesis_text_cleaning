@@ -13,6 +13,7 @@ conference on exhaustion of resources, to even more dire predictions by May 1920
 from David White, chief geologist at the USGS, that oil production would peak
 "probably within five years and possibly in three years." (In fact, new oil discoveries
 quickly brought the price of oil down after 1920.)
+
 All of these events - World War, the influenza epidemic, the race riots, the Big
 Red Scare, the oil shock - were associated with hugely unsettling narratives that
 could have led to a sense of economic uncertainty that might have discouraged
@@ -20,6 +21,7 @@ discretionary spending of households and slowed down hiring decisions of firms
 around the world. These certainly sound like more significant potential causes than
 New York Fed President Benjamin Strong's decision to take a cruise when he was
 needed.
+
 There were also more subtle narratives that might have brought on the recession.
 A story was afloat in 1920 that the Consumer Price Index would eventually come
 back down to its level in 1913, just before World War I. Not everyone expected
@@ -33,6 +35,7 @@ economists by John Bates Clark (1895). The concept of real interest rate just ha
 not gone viral yet (and you might say it still hasn't). But many people certainly
 understood why they should postpone buying and avoid borrowing when massive
 deflation is expected.
+
 In 1913 in the United States, a retail price index, predecessor to the Consumer
 Price Index (CPI), attracted great attention. The CPI that we have now began with a
 base value of 10 in 1913. By 1920, the index had doubled to 20, and by mid-1921 it

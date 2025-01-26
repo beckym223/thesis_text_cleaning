@@ -5,10 +5,12 @@ expect policy to revert to the baseline Taylor rule. Assuming that guidance is c
 for as long as 28 quarters seems reasonable, because the guidance is at worst
 mildly  time-inconsistent—the implied overshoots of the inflation target are small
 and might well be welcome if the FOMC were concerned about reinforcing the
+
 credibility of its symmetric inflation target after a period of inflation undershoot. In
 any case, as will be seen, I do not find forward guidance to be particularly powerful
 in my simulations, and my overall results do not rely on unrealistic foresight on the
 part of the public.
+
 Quantitative Easing.—Following Kiley (2018), I consider four alternative QE
 policies, ranging from least aggressive (A) to most aggressive (D). In all cases, QE
 is assumed to be deployed when the output gap has become sufficiently large. For

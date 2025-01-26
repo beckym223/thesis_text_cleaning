@@ -1,4 +1,5 @@
 A. From Commodity to Token to Fiat Money
+
 Appendix B describes a 700-year process of theorizing and experimenting that transformed
 a European commodity money system with many nominal anchors?mint-melt price pairs (i.e.,
 gold or silver points) for full-bodied coins of all denominations?to a one nominal anchor system
@@ -13,6 +14,7 @@ policy experiments generated data with sufficient variance in price levels and m
 to reveal the quantity theory to empiricists, a theory that led to Ricardo's proposal and ultimately
 induced monetary experts like Keynes to advocate a well-managed fiat system.
 B. Two Threats to a Well-Managed Fiat Money System
+
 Friedman (1992,249-52) claimed that our fiat money system is historically unprecedented and
 repeated the warning of Irving Fisher (1926, 131) that "Irredeemable paper money has almost
 invariably proved a curse to the country employing it" because two obstacles obstruct the path
@@ -24,7 +26,9 @@ adaptive models that focus on Friedman's obstacle (i) and feature private agents
 papers both select among rational equilibria and modify their outcomes enough to fit data from
 big inflations in Latin America. In the remainder of this paper, I focus on statistical models that
 feature monetary authorities' struggles with Friedman's obstacle (ii).
+
 VI. Learning Inflation-Unemployment Dynamics
+
 This section describes three stories about how the US monetary authorities learned about inflation-
 unemployment dynamics after World War II. These stories assume that a monetary authority
 can control inflation if it wants.24 Then why did the US monetary authority allow inflation to

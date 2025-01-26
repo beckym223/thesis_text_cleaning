@@ -3,7 +3,9 @@ which can add stimulus even when short rates are at the lower bound. And, for th
 most part, in retrospect it has become evident that the costs and risks attributed to the
 new tools, when first deployed, were overstated. The case for adding the new tools
 to the standard central bank toolkit thus seems clear.
+
 But how much can the new tools help? To estimate the policy space provided
+
 by the new tools, I turn to simulations of the Fed’s FRB/US model (Brayton et al.
 2014). Assuming, importantly, that the (nominal) neutral rate of interest, defined
 more fully below, is in the range of 2 to 3 percent—consistent with most current
@@ -16,6 +18,7 @@ to what is needed to negate the adverse effects of the effective lower bound in 
 circumstances. In particular, as I will argue, in this scenario the use of the new tools
 to increase policy space seems preferable to the alternative strategy of raising the
 central bank’s inflation target.
+
 An important caveat to these conclusions, as already indicated, is that they apply
 fully only when the neutral interest rate is in the range of  2–3 percent or above. If the
 neutral rate is below 2 percent or so, the new tools still add valuable policy space but
@@ -27,13 +30,17 @@ neutral rate below 2 percent or so also increases the relative attractiveness of
 strategies for increasing policy space, such as raising the inflation target or
 relying more heavily on fiscal policy to fight recessions and to keep inflation and
 interest rates from falling too low.
+
 I. Assessing the New Tools of Monetary Policy
+
 When the  short-term policy interest rate reaches the effective lower bound, monetary
 policymakers can no longer provide stimulus through traditional means.3
+
 However, it is still possible in those circumstances to add stimulus by operating
 on  longer-term interest rates and other asset prices and yields. Two tools for doing
 that, both actively used in recent years, are (i) central bank purchases of  longer-term
 financial assets (popularly known as quantitative easing, or QE), and (ii) communication
 from monetary policymakers about their economic outlooks and policy plans
+
 (forward guidance).4 I’ll discuss QE first, returning later to forward guidance, as
 well as to some other new tools used primarily outside the United Sta

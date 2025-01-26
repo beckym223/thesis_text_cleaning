@@ -3,6 +3,7 @@ tation, but the aggregation used here captures about 85 percent of the variabili
 the raw data on wage rates.11 The year 2007 was selected both because the sample of
 countries for which data were collected was expanded in that year, but also because
 the financial crisis that affected many countries had not yet begun.
+
 The ñrst column of Table 3 contains the wage rate for a McDonald s crew mem
 ber in US dollars (at then-current exchange rates), while the third column contains
 the price of a Big Mac (again in US dollars). For ease of comparison, the second
@@ -10,6 +11,7 @@ column expresses the McWage in the economic region indicated relative to its val
 in the United States. Finally, the fourth column contains the ratio of the price of a
 Big Mac to the McWage (that is, it contains the measure of Big Macs per hour of
 work, BMPH).
+
 There are three obvious, dramatic conclusions that it is easy to draw from the com
 parison of wage rates in Table 3. First, the developed countries, including the United
 States, Canada, Japan, and Western Europe have quite similar wage rates, whether
@@ -36,6 +38,7 @@ of the work force and (ii) capital/output ratios, but I have here assumed capita
 output ratios are the same in all countries. The second column shows the results of
 using equation (2) to measure the hypothetical TFP with the relative wage of work
 ers in McDonald's restaurants.
+
 It is apparent from Table 4 that for a vast part of the world, the measures of TFP
 based on wage rates are remarkably similar to those based on output accounting
 measures. This is not surprising given the high correlation between the McWage

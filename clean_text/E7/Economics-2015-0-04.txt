@@ -1,12 +1,15 @@
 illustrative calculations. The bottom line - that clubs with penalties or sanctions on
 nonparticipants can support a strong international climate agreement - is summarized
 at the end of the paper.
+
 C. A Sketch of the Climate Club
+
 The idea of a Climate Club should be viewed as an idealized solution of the
 free-riding problem that prevents the efficient provision of global public goods. Like
 free trade or physics in a vacuum, it will never exist in its pure form. Rather, it is a
 blueprint that can be used to understand the basic forces at work and sketch a system
 that can overcome free-riding.
+
 Here is a brief description of the proposed Climate Club: the club is an agreement by
 participating countries to undertake harmonized emissions reductions. The agreement
 envisioned here centers on an "international target carbon price" that is the focal provision
@@ -19,19 +22,24 @@ is that nonparticipants are penalized. The penalty analyzed here is uniform
 percentage tariffs on the imports of nonparticipants into the club region. Calculations
 suggest that a relatively low tariff rate will induce high participation as long as the
 international target carbon price is up to $50 per ton.
+
 An important aspect of the club is that it creates a strategic situation in which
 countries acting in their self-interest will choose to enter the club and undertake high
 levels of emissions reductions because of the structure of the incentives. The balance
 of this study examines the club structure more carefully and provides an empirical
 model to calculate its effectiveness.
+
 II. Background on International Agreements on Climate Change
+
 A. Basic Free-riding Equilibrium
+
 There is a large literature on the strategic aspects of international environmental
 agreements, including those focused on climate change. One important strand is the
 analytical work on global public goods. The clear message is that without special
 features the outcome will be a prisoners' dilemma or tragedy of the commons in
 which there is too little abatement. This point is illustrated with a simple model that
 will form the backbone of the empirical model below.
+
 I begin by analyzing the costs and benefits of national climate policies in a
 noncooperative (NC) framework (Nash 1950). In the NC framework, countries act
 individually and are neither rewarded nor penalized by other countries for their policies.

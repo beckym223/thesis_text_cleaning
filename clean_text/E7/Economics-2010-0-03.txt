@@ -1,5 +1,6 @@
 updating method, that is substantially different from those currently in use, and that preserves a
 better continuity with previous estimates.
+
 Section IV, which is again somewhat more technical, is an enquiry into the international price
 indexes themselves, with a focus on the factors that affect global inequality. It starts from the
 question of how to price comparable goods in different countries and whether the ever more
@@ -12,6 +13,7 @@ for example between Japan and Kenya, or Britain and Cameroon. Such comparisons a
 if we are to make multilateral price index numbers for the world as a whole, and I use data from
 the 2005 ICP to investigate their credibility. My analysis shows that these comparisons rest on
 weak theoretical foundations and are fragile in practice.
+
 Section V returns to the main argument and looks briefly at a monitoring system based on
 asking people about how their lives are going; I use data from the Gallup World Poll which
 collects an annual sample of all the people of the world. Section VI concludes, and speculates
@@ -22,6 +24,7 @@ counts are calculated, for example by bringing closer together the rhetoric and 
 dollar a day poverty line. I also argue that while changes in the poverty line affect the levels of
 global poverty more than they affect its rate of change, the levels are themselves important for  the international debate.
 I. Global Poverty and Global Inequality
+
 Many countries have their own national poverty lines and poverty headcounts. One candidate
 measure for an international count would use those national numbers and add them up over all
 countries. The 2008 annual poverty line in the United States was $21,834 for a family of two

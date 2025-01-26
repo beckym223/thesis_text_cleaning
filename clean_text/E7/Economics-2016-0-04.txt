@@ -7,6 +7,7 @@ Many economists even thought that psychology (then still in its infancy) should
 play an important role in economics. Pareto (1906, p. 21) wrote that "The foundation
 of political economy, and, in general of every social science, is evidently psychology.
 A day may come when we shall be able to decide the laws of social science
+
 from the principles of psychology." John Maurice Clark (1918, p. 4), the son of John
 Bates Clark, went further. "The economist may attempt to ignore psychology, but it
 is sheer impossibility for him to ignore human nature ... If the economist borrows
@@ -14,17 +15,22 @@ his conception of man from the psychologist, his constructive work may have some
 chance of remaining purely economic in character. But if he does not, he will not
 thereby avoid psychology. Rather, he will force himself to make his own, and it will
 be bad psychology."
+
 It has been nearly 100 years since Clark wrote those words but they still ring
 true, and behavioral economists have been taking Clark's advice, which is to borrow
 some good psychology rather than invent bad psychology. Why did this common
 sense suggestion fail to gain much traction for so longII.
+
 Explainawaytions
+
 In the process of making economics more mathematically rigorous after World
 War II, the economics profession appears to have lost its good intuition about human
 behavior. Defective telescopic facilities were replaced with time-consistent exponential
 discounting. Over-weening conceits were replaced by rational expectations.
+
 And ephemeral shifts in animal spirits were replaced by the efficient market hypothesis.
 Economics textbooks no longer had any Humans. How did this happenI
+
 believe that the most plausible explanation is that models of rational behavior
 became standard because they were the easiest to solve. This conjecture is not meant
 as a put-down. One begins learning physics by studying the behavior of objects in
@@ -34,6 +40,7 @@ For many years, economists reacted to questions about the realism of the basic
 model by doing the equivalent of either denying the existence of air, or by claiming
 that it just didn't matter all that much. Matthew Rabin has dubbed these defensive
 reactions as "explainawaytions."1
+
 Let's be blunt. The model of human behavior based on the premise that people
 optimize is and has always been highly implausible. For one thing, the model does
 not take into consideration the degree of difficulty of the problem that agents are

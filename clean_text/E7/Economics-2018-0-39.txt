@@ -2,13 +2,18 @@ Open science presents a different, more open-ended kind of engineering problem.
 Do the incentives for scientific investigation and publication need to be modified
 to keep up with the changing ways science is produced and disseminated? Gall, Ioannidis, and Maniadis (2017) point out that fostering a reliable scientific literature is a market design problem. Scientific journals in particular are market-places for ideas that can experiment with ways of increasing the long-term reliabil-ity of reported results, for example by allowing study designs to be pre-registered, requiring data to be made widely available, encouraging replications, and generally making it easier to identify (and reward) robustly replicable findings.
 125
+
 Any list of open questions is necessarily arbitrary and incomplete, but this is particularly
 true of engineering challenges. Some kinds of questions can ( eventually)
+
 be answered definitively, but engineering isn’t like that. Pythagoras’s Theorem is as true today as it was when he proved it, and applies as well to modern right triangles as to ancient ones, but the bridges that were built in his time have been replaced by stronger and longer bridges, and today’s bridges will be replaced by better ones in the future. The job of engineering is to use available knowledge to make things work bet-ter, and the market designs of today will be replaced by different designs as our needs change and as we understand better how to achieve our goals. Of course engineering
 and science progress together. Market design is going to require reliable domain knowledge about how particular markets work. And, to quote Bob Wilson: “for the theorist, the problems encountered by practitioners provide a wealth of topics.”
 126
+
 VII. Concluding Remarks
+
 Markets and marketplaces are like languages; both are ancient human artifacts.
 Whole languages are hard to redesign, but smaller parts, e.g., technical vocabularies, are easier. And so it is with marketplaces: a marketplace is a piece of the market, not the whole. Marketplace designers don’t have control over the whole strategy space: market participants have lots of options.
 127 And marketplace behavior evolves as
+
 participants gain experience in developing and deploying their strategies. Practical market design must often proceed in advance of reliable theory, and so market designers also need big strategy sets, that include theory, field studies, computation, and experimentation.

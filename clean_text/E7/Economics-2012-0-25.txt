@@ -1,9 +1,11 @@
 VII. Concluding Remarks
+
 My goal here has been to demonstrate how measures of wage rates that are com
 parable across space and time may be used in economic analysis. I have tried to
 stress the importance of assessing the underlying theoretical framework used for
 measurement as well as how that framework can assist in the interpretation of what
 we measure.
+
 I began by providing just a little of the flavor of the long and distinguished history
 of the measurement of real wage rates. In the past, measurement focused on changes
 to wages within a given country over time. Today, much of the emphasis has shifted
@@ -11,6 +13,7 @@ to constructing credible measurements that permit comparisons of wage rates acro
 countries. In principle, we would like to accomplish both these comparisons with
 one measure, but this is a virtual impossibility in a world where the quality and
 nature of new goods changes rapidly.
+
 One appealing aspect of measuring worker welfare with real wage rates is the
 greater availability of the underlying data from historical periods. Recent histori
 cal research has accumulated to the point where it seems possible to draw some
@@ -19,5 +22,6 @@ countries before the Industrial Revolution, and perhaps only modestly above sub
 sistence levels even in the best of circumstances. In the period since the Industrial
 Revolution, real wage rates have diverged across countries, with catch-up taking
 place in different countries at different points in time.
+
 Finally, I have explored some data I have been engaged in collecting on wage
 rates and prices in McDonald's restaurants over the last decade. These data suggest

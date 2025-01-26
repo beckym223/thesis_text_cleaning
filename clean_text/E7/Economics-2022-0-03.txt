@@ -1,20 +1,26 @@
 wages (see Di Addario et al. forthcoming for a simple exposition focusing on starting
 wages for each job).
+
 B. Differentiated Demand Models
+
 Chamberlain (1933) considered a model in which firms produce a differentiated
 set of products and set prices ignoring strategic interactions with other producers.
 This model translates directly to the supply side,5 though to the best of my knowledge
 Bhaskar and To (1999) were the first to try to formalize the idea of monopsonistic
 competition. Chamberlain’s simple graphical analysis was reproduced
+
 in many undergraduate textbooks, but (as noted above) had a limited impact on
 subsequent research until Spence (1976) and Dixit and Stiglitz (1977) wrote down
 CES-style models of representative agent preferences that rationalized his framework.
 Models based on these preferences (and generalizations with a nested CES
+
 structure) have proven amenable to a multitude of applications in different fields.
 Recently, Berger, Herkenhoff, and Mongey (2021) have adapted the approach to the
 study of wage setting.
+
 An alternative approach to modeling demand for differentiated products is the
 multinomial logit (MNL) model proposed by McFadden (1974, 1978). The MNL
+
 and its generalizations specify  individual-level preferences that lead to convenient
 expressions for the share of consumers that purchase each product (Berry 1994),
 and are widely used in industrial organization (IO) and labor economics. Card

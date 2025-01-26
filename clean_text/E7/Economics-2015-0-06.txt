@@ -1,4 +1,5 @@
 In these equations, #(0)=^/ Herfindahl index of country size.
+
 Equations (4) and (5) show the basic free-riding equilibrium for a global public
 good with the simplified structure. The globally averaged noncooperative carbon price
 and control rate are equal to the Herfindahl index times the cooperative values. For
@@ -12,19 +13,24 @@ in more complete models (see Nordhaus and Yang 1996; Nordhaus 2010; Bosetti et
 al. 2012). For example in the multiperiod RICE-2010 model with 12 regions, the
 noncooperative price is estimated to be is 1 1 percent of the efficient price (Nordhaus
 2010, supplemental materials).
+
 C. Outcomes with Repeated Decisions
+
 A more complete treatment of country interactions in climate-change policy
+
 views interactions in a dynamic framework with decisions over time. The standard
 analysis uses the framework of a repeated prisoners' dilemma (RPD) game. For
 simplicity, assume that the structure above is repeated every few years with identical
 parameters. One equilibrium of a RPD is just the iterated inefficient one-shot equilibrium
 with minimal abatement as described above. However, because players can
+
 reward and punish other players for good and bad behavior, RPD games generally
 have multiple equilibria; these might include more efficient outcomes if country
 discount rates are low (these being the generalized results of various folk theorems).
 The efficient RPD equilibrium with large numbers of countries will be hampered by
 free-riding and inability to construct renegotiation-proof strategies in situations with
 large number of agents.
+
 The strategic significance of the analysis of NC behavior is threefold. First, the
 overall level of abatement in the noncooperative equilibrium will be much lower
 than in the efficient (cooperative) strategy. A second and less evident point is that
@@ -35,8 +41,11 @@ the current generation pays for the abatement while future generations are the
 beneficiaries of lower damages. But to a first approximation, the noncooperative
 analysis in this section describes international climate policy as of 2015.
 III. Climate Coalitions and International Environmental Treaties
+
 A. Key Definitions on Sanctions and Coalitions
+
 Might coalitions of countries form cooperative arrangements or treaties that
 improve on noncooperative arrangements? Questions involving the formation,
+
 value, and stability of coalitions have a long history in game theory, oligopoly
 theory, as well as in environmental economics. In this section, I analyze coalit

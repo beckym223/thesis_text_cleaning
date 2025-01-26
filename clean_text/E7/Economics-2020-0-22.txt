@@ -6,17 +6,20 @@ And the recovery, though not rapid, was unusually sustained, in 2019 becoming th
 longest documented expansion in US history. Did the limits imposed by the lower
 bound make the Great Recession significantly worse, or the recovery slower? How
 much did the new tools helpThe
+
 literature does not provide a consensus on these questions. Some work suggests
 that the new tools substantially overcame the limitations imposed by the lower bound.
 For example, Fernald et al. ( 2017) , using growth accounting methods, attributed the
 slow pace of the US recovery from the Great Recession primarily to subdued productivity
 growth and  demographically-induced declines in labor force participation,
+
 both trends in place before the financial crisis. They noted that indicators of resource
 utilization like the unemployment rate—which are more subject to the influence of
 monetary policy than is potential growth—behaved relatively normally during the
 recovery.18 If the recovery from the Great Recession was relatively normal, given the
 size of the shock and the economy’s underlying growth potential, then presumably the
 lower bound could not have been a major constraint on policy.
+
 An interesting alternative approach to measuring the effectiveness of  post-crisis
 monetary policy is through the construction of “shadow”  short-term interest rates.
 Following an insight of Black (1995), Wu and Xia (2016) used an affine term structure

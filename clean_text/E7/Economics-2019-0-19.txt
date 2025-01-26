@@ -1,120 +1,225 @@
 Finally, I assume that, in addition to the wage, the young receive a nonstochastic
 endowment,
+
 X
+
 . Gi
+
 ven that the wage follows a log normal distribution and thus can
+
 be arbitrarily small, such an endowment is needed to make sure that the deterministic
 transfer from the young to the old is always feasible, no matter what the real-ization of
 W
 
+
+
 .24 I assume that the endowment is equal to 100 percent of the average
+
 wage absent the transfer.
+
 Given the results in the previous section, I calibrate the model so as to fit a set
 of values for the average safe rate and the average risky rate. I consider average net annual risky rates (marginal products of capital) minus the growth rate (here equal to 0) between 0 percent and 4 percent. These imply values of the average 25-year gross risky rate,
 ER
+
 , between 1.00 and 2.66. I consider a
+
 verage net annual safe rates
+
 minus the growth rate between −2 percent and 1 percent; these imply values of the average 25-year gross safe rate,
 E
+
 R
+
 f  , between 0.60 and 1.28.
+
 I choose some of the coefficients a priori. I choose
+
 b
 
+
+
 (which is equal to the capital
+
 share in the Cobb-Douglas case) to be 1/3. For reasons explained below, I choose
 the annual value of
+
 σ
+
 a    to be a high 4 percent a year, which implies a value of  σ   of
+
 √ _ 25   × 4%  =  0.20  .
+
 Because the strength of the second effect above depends on the elasticity of substitution,
 I consider two different values of
+
 η
+
+
 
 ,
+
 η
 
+
+
 =
+
+
 
 ∞
+
 which corresponds to the
+
 linear production function case, and in which the price ef
+
 fects of lower capital accumulation
+
 are equal to 0, and
+
 η
+
+
 
 =
 
+
+
 1
+
 , the Cobb-Douglas case, which is generally seen
+
 as a good description of the production function in the medium run.
+
 The central parameters are, on the one hand,
+
 β
+
 and
+
 μ
+
 , and on the other
+
 ,
 
+
+
 γ
 
+
+
 .
+
 The parameters
+
 β
+
+
 
 and μ determine (together with
+
 σ
+
 , which plays a minor role
+
 )
+
 the average level of capital accumulation and thus the average marginal product of capital: i.e., the average risky rate. In general, both parameters matter. In the linear production case however, the marginal product of capital is independent of the level of capital, and depends only on
 μ
+
 ; thus, I choose
 
+
+
 μ
+
+
 
 to fit the average value of the
+
 marginal product
+
 ER
+
 . In the Cobb-Douglas case, the mar
+
 ginal product of capital is
+
 instead independent of
+
+
 
 μ
 
+
+
 and depends only on
+
 β
+
 ; thus, I choose
+
 β
+
 to fit the a
+
 verage
+
 value of the marginal product
+
 ER
 
+
+
 .
+
 The parameter
+
 γ
+
 determines, together with
+
 σ
+
 , the spread between the risk
+
 y rate
+
 and the safe rate. In the absence of transfers, the following relation holds between the two rates:
 ln
+
 R
+
 t+1  f   − ln  E  R  t+1   = −  γ  σ    2  .
+
 This relation implies however that the model suffers from a strong case of the
 equity premium puzzle (see, for example, Kocherlakota 1996). If we think of
 
+
 σ
 
+
+
 as
+
 the standard deviation of TFP growth, and assume that, in the data, TFP growth is
 a random walk (with drift), this implies an annual value of
+
 σ
+
 a    of about 2 percent,
+
 equivalently a value of
+
 σ
+
 o
+
 ver the 25-year period of 10 percent, and thus a value of
+
 σ
+
 2   of 1 percent. Thus, if we think of the annual risk premium as equal to, say, 5  percent,
 which implies a v
+
 alue of the right-hand side of 1.22, this implies a value

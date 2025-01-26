@@ -6,6 +6,7 @@ negative real interest rates. He considers a number of alterations in currency
 policy that could have the same effect in a modern economy, such as the abolition
 of government-issued currency. None of these policies seems even remotely likely
 of adoption.
+
 Tax policies that emulate the effect of low real rates could ameliorate the burden
 of high real rates by making current purchasing cheaper than future. A key feature
 of these policies is to defer the time when the policy reverses itself until after full
@@ -14,9 +15,11 @@ bulge in car purchases, but because it lasted only a few months, it only deferre
 purchases for that many months and did little to shift purchases from a time of
 full employment to the present, according to Mian and Sufi (2010a). The effective
 program would place a high subsidy on current purchasing and phase out the
+
 subsidy, eventually becoming a consumption tax that financed the earlier subsidy.
 The shrinkage rate of the subsidy would amount to a negative real interest rate in
 consumer purchasing decisions.
+
 One idea is to phase in a tax that adds to the prices of goods, such as a value-added
 tax (Martin Feldstein 2002). The anticipation of higher later prices incorporating
 higher tax rates would have the same accelerating effect on spending as a negative
@@ -25,16 +28,21 @@ effect. Britain did this when it joined the European Union at a time when the
 resulting inflation was harmful. Now that we need some inflation, the idea looks
 better. A second virtue is that a value-added tax is a consumption tax, with well
 known efficiency benefits.
+
 For a complete discussion involving a full set of fiscal instruments, but in the specific
 context of the New Keynesian model, see Correia et al. (2010).
+
 The most important policy lesson is to prevent the repetition of the poor oversight
 of government-protected financial institutions that gave us too much housing, too
 many cars, and too much debt during the past decade.
+
 XIII. Concluding Remarks
+
 An economy with a disabled real interest rate is in deep trouble when one type of
 spending?homebuilding and consumer durables in the current slump?declines. A
 slump will last until the affected spending resumes its normal level. Consequently,
 the slump may last many years.
+
 The analysis and calculations in this paper assume that the gradual price adjustment
 described by the Phillips curve does not occur. Inflation remains at the same
 rate. If inflation declines and turns into growing deflation, the slump will worsen, as

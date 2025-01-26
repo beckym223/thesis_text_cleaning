@@ -1,19 +1,27 @@
 from poor countries would result in paid donors infiltrating American health care in
 contrived guises as spouses and relatives.119
+
 So, GKE, which is still in its earliest stages (six such chains have been accomplished
 as of this writing), is likely to face the full set of complications that kidney exchange has faced around the world. These include not only the market design issues involved in attracting participants, eliciting their information, and resolv-ing analytic, computational, and operational obstacles, but also in garnering social support.
 120
+
 In these respects, kidney exchange and its continued development represent
+
 issues that are typical of market design.
+
 VI. Open Questions , Engineering Challenges, and Opportunities
+
 Markets and marketplaces, broadly understood, are woven into the fabric of the
 human environment, so opportunities to build new ones are ubiquitous, and there are still many unresolved scientific and engineering questions about how they work, and what makes them work well.
 I’ve already mentioned open questions in the context of the particular markets
 I’ve discussed. More generally, what are the roles of marketplaces in markets? What properties of transactions, in addition to prices, do marketplaces help determineWhich
 markets are adequately organized without a coordinated marketplace (coordinated in time, or space, or both)? For which markets is a centralized marketplace
 desirable? For which markets does a centralized clearinghouse (possibly
+
 computer
+
 -assisted) offer additional benefits? Understanding what well-designed
+
 centralized marketplaces can accomplish will also illuminate how decentralized matching markets succeed and fail, how markets mediate inequality, and other ques-tions underlying the organization of market economies.
 Computers have begun to play multiple roles in marketplaces, no longer just
 as intermediaries or record keepers. “Smart marketplaces” help markets clear in ways that parallel-processing by participants could not. For example, there are com-putationally difficult problems involved in determining optimal kidney matchings, or in selecting optimal combinations of bids to maximize revenue in a compl

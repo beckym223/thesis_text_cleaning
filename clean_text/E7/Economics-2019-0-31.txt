@@ -1,20 +1,28 @@
 but, because safe rates are likely to be far below potential growth rates, the welfare
 costs of debt may be small or even altogether absent.
+
 Let me however concentrate on the potential costs of debt, and on some counterarguments
 to the earlier conclusions that debt may have low fiscal or welfare costs. I can think of three main counterarguments.
 The first is that the safe rate may be artificially low, so the welfare implications
 above do not hold. It is generally agreed that US government bonds benefit not only from low risk, but also from a liquidity discount, leading to a lower safe rate than would otherwise be the case. The issue however is whether this discount reflects technology and preferences or, instead, distortions in the financial system. If it reflects liquidity services valued by households and firms, then the logic of the earlier model applies. The safe rate is now the liquidity-adjusted and risk-adjusted equivalent of the marginal product of capital and is thus what must be compared to the growth rate. If however, the liquidity discount reflects distortions, for example financial repression forcing financial institutions to hold a certain proportion of their portfolios in government bonds, then indeed the safe rate is no longer the appropri-ate rate to compare to the growth rate. It may be welfare improving in this case to reduce financial repression even if this leads to a higher safe rate, and a higher cost of public debt.
 40 Straight financial repression is no longer relevant for the United
+
 States, but various agency issues internal to financial institutions as well as financial regulations such as minimum liquidity ratios, may have some of the same effects.
 The second counterargument is that the future may be different from the past,
 and that, despite the long historical record, the safe interest rate may become consis-tently higher than the growth rate. History may indeed not be a reliable guide to the future. As the debate on secular stagnation and the level of the long-run Wicksellian rate (the safe rate consistent with unemployment remaining at the natural rate) indicate,
 the future is indeed uncertain. It may be that some of the factors underlying low rates will fade over time. Or it may be because public debt increases to the point where the equilibrium safe rate actually exceeds the growth rate. In the formal model above, a high enough level of debt, and the associated decline in capital accumula-tion, eventually leads to an increase in the safe rate above the growth rate, leading to positive fiscal costs and higher welfare costs. Indeed, the trajectory of deficits under current fiscal plans is indeed worrisome. Estimates by Sheiner (2018), for example, suggest that even under the assumption that the safe rate remains below the growth rate, we may see an increase in the ratio of debt to GDP of close to 60
 percent of
+
 GDP between no
+
 w and 2043. If so, using a standard (but admittedly rather uncertain
+
 as well) back-of-the-envelope number that an increase in debt of 1
+
 percent
+
 of GDP
+
 increases the safe rate by 2–3 basis points, this would lead to an increase in the safe rate of 1.2 percent to 1.8 percent, enough to reverse the inequality between the safe rate and the growth rate.
 The evidence on indexed bonds suggests however two reasons to be relatively
 optimistic about the sign of the inequality. The first is that, to the extent that the US government can finance itself through inflation-indexed bonds, it can actually lock in a real rate of 1.1 percent over the next 30 years, a rate below even pessi

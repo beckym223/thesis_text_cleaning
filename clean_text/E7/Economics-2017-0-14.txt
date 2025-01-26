@@ -2,7 +2,9 @@ narrative does not appear even once). Some of these modified SIR models involve
 complex patterns of outcomes, and sometimes cycles. Geographic models of spread
 are increasingly complicated by worldwide social media connections (Bailey et al.
 2016).
+
 Some SIR models (surveyed in Lamberson 2016) dispense with replacing the
+
 idea of random mixing and choose instead a network structure. There may be strategic
 decisions whether or not to allow oneself to be infected, and the fraction of
 the population infected may enter into the decision (Jackson and Yariv 2005). There
@@ -10,17 +12,21 @@ are variations of models that describe individuals as adopting a practice not me
 through random infection but through rational calculations of the information
 transmitted through their encounters with others (Banerjee 1992; Bikhchandani,
 Hirshleifer, and Welch 1992).
+
 Currently, there is not any one single model for social epidemics; instead, there
 is a tool-bag of models for understanding epidemics depending on their circumstances.
 But we can still refer to the original Kermack-McKendrick SIR model as
+
 a metaphor for the class of dynamic models that rely on contagion and recovery.
 These other models typically still take analogues of c and r as fundamental parameters,
 still have the property that a slight tweak of c upward or r downward may set
 in motion a chain of events that sets off an epidemic with a lag, so that on the date
 the epidemic is first publicly noticed, the causes are now in fairly distant history and
 hard to discern.
+
 Even though direct face-to-face communication of ideas is less important in
 modern times, because of the communications media, the Kermack-McKendrick
+
 model still remains an important model for economics. The core model may apply
 no matter what way people may connect with each other. There is a concern that
 modern communications media (the press, the Internet, etc.) make the SIR model
@@ -33,11 +39,15 @@ Kardes, and Kim 1991), and the marketing profession has responded by promoting
 word-of-mouth seeding strategies and television ads that feature actors portraying
 people with whom the common person can identify and simulating direct interpersonal
 word of mouth. In considering the Internet and social media and the SIR
+
 model, Zhao et al. (2013) argue for a modified SIR model where analogues to the
 parameters c and r are both increased by the new media.
+
 Bauckhage (2011) showed evidence that the SIRS variant of the KermackMcKendrick
 compartmental model fits time series data reasonably well on Internet
+
 memes from Google Insights (now Google Trends.) He looked at silly recent
+
 Internet viruses like the "O RLY?" (Oh, really?) meme that displayed nothing more
 than a picture of a cute owl with what would appear to be a puzzled facial expression.
 Because the memes are largely nonsensical, we might expect them to follow a

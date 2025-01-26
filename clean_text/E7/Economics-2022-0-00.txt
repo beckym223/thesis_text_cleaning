@@ -1,4 +1,5 @@
 In the textbook model of labor markets—synthesized by Hicks (1932)—product
+
 and factor markets are perfectly competitive and wages are equated to marginal products.
 1 Just one year after Hicks, Robinson (1933) developed an alternative framework
 for understanding  firm-specific wage setting and coined the term “monopsony.” The
@@ -11,6 +12,7 @@ concept of monopsony had been relegated to discussions of company towns. Indeed,
 in the preface to the second edition to her book, Robinson (1969) observed, “All this
 had no effect. Perfect competition, supply and demand … and marginal products
 still reign supreme in orthodox teaching.”
+
 At the risk of following too closely in Reynolds’s footsteps, in this paper I will
 try to make the case that the time has come to recognize that many—or even most—
 firms have some  wage-setting power. Such a shift was made with respect to firm’s

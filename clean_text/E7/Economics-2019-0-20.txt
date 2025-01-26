@@ -3,50 +3,89 @@ the reasons why the model fails so badly is the symmetry in the degree of uncert
 facing labor and capital, and the absence of price risk associated with holding shares (as capital fully depreciates within the 25-year period). If we take instead
 σ
 
+
+
 to
+
 reflect the standard deviation of annual rates of stock returns, say 15 percent a year (its historical mean), and assume stock returns to be uncorrelated over time, then
 
+
 σ
+
 o
+
 ver the 25-year period is equal to 75 percent, implying values of
+
+
 
 γ
 
+
+
 around 2.5.
+
 There is no satisfactory way to deal with the issue within the model, so as an uneasy compromise, I choose
 σ
 
+
+
 =
+
+
 
 20%
 
+
+
 . Given
+
 σ
 
+
+
 ,
+
 γ
 
+
+
 is determined for each pair of average
+
 risky and safe rates.25
+
 I then consider the effects on steady-state welfare of an intergenerational transfer.
 The basic results are summarized in Figures 7 to 10.
+
 Figure 7 shows the effects of a small transfer (5 percent of (pre-transfer) average
 saving) on welfare for the different combinations of the safe and the risky rates (reported, for convenience, as net rates at annual values, rather than as gross rates at 25-year values), in the case where
 η
 
+
+
 =
 
+
+
 ∞
+
 and, thus, production is linear
+
 . In this
+
 case, the derivation above showed that, to a first order, only the safe rate mattered. This is confirmed visually in the figure. Welfare increases if the safe rate is negative (more precisely, if it is below the growth rate, here equal to 0), no matter what the average risky rate.
 Figure 8 looks at a larger transfer (20 percent of saving), again in the linear
 production case. For a given
+
 E
+
 R
+
 f  , a larger  ER   leads to a smaller welf are increase if
+
 welfare increases, and to a larger welfare decrease if welfare decreases. The reason
 is as follows. As the size of the transfer increases, second period income becomes less risky, so the risk premium decreases, increasing
 E
+
 R
+
 f   for given average  ER  . In

@@ -5,6 +5,7 @@ its poverty lines. At the same time, small changes in lines can have large effec
 when there is a large fraction of the population near the line; more generally, it is hard to justify
 treating people so differently, whether or not they happen to fall on one or the other side of a
 largely arbitrary line.
+
 Poverty counts can also be very sensitive to survey design. Given a global line, the contribu
 tion of a country to the world count is the number of people whose household per capita expen
 diture lies below the local value of the line, a number that is estimated from household surveys.
@@ -35,6 +36,7 @@ themselves of uneven quality and timeliness. Yet international organizations and
 make claims about the effects on world poverty and on world hunger of current events?most
 recently the rise in food prices and the financial crisis; these claims are essentially extrapolations
 using evidence whose pertinence can reasonably be questioned.
+
 Given all of the problems, it is worth returning to the idea that people themselves seem to have
 a very good idea of whether or not they are poor. Indeed, the poverty lines set by politicians and
 bureaucrats are often informed by community ideas of what is needed to get by, even if they are

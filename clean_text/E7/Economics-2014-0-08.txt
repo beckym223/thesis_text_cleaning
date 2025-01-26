@@ -3,8 +3,10 @@ forties (for the most recent of the cohorts to be old enough to be in that age b
 Why it increases is beyond the scope of the present work. It would appear to be less
 a function of selection since in most cases the women who left would be drawn disproportionately
 from the lower part of the earnings distribution and those returning
+
 would presumably be the same individuals with less accumulated human capital. If
 anything, the function should increase and then decrease.
+
 The main conclusion from the aggregate earnings gender gaps is that the difference
 in earnings by sex greatly increases during the first several decades of working
 life. That conclusion will be reaffirmed by the findings of studies of several highly
@@ -12,13 +14,18 @@ specific occupations for which the training for both men and women is identical.
 The two degrees are MBA and JD. The data for these occupations, moreover, is longitudinal
 (or retrospective) thereby containing actual cohorts, not synthetic ones. In
 addition, the data contains detailed productivity-related characteristics.
+
 B. By Occupation
+
 Within versus Between Occupation Differences by Gender. - Another important
 clue concerning what the last chapter must contain arises from the fact that
 the majority of the current earnings gap comes from within occupation differences
 in earnings rather than from between occupation differences. What happens
+
 within each occupation is far more important than the occupations in which
+
 women wind up.
+
 The fact can be demonstrated several ways. One is by observing the coefficient on
 female in a log earnings regression when a full set of three-digit occupation dummies
 are added. Table 1 gives the results for four samples from the 2009 to 2011
@@ -28,6 +35,7 @@ full-time, full-year. All regressions include age as a quartic, race, and year. 
 of time worked (log hours, log weeks) and education levels (above college for the
 college graduates) are successively added. Occupation dummies (three-digit level)
 are included in the most complete specification.
+
 Absorbing the effect of all occupations decreases the coefficient on female by
 no more than one-third. Take the case of college graduates working full-time, fullyear
 ("full-time, BA"). The female coefficient is -0.285 (a ratio of 0.752) with
@@ -37,6 +45,7 @@ no additional variables. Adding log hours and log weeks reduces the coefficient 
 education groups, the inclusion of all occupations decreases the gap by somewhat
 less. For the full-time, full-year sample that includes the education variables, the gap
 decreases from -0.247 (0.781) to -0.192 (0.825) or by just 22 percent.
+
 Another way to measure the effect of occupation is to ask what would happen to
 the aggregate gender gap if one equalized earnings by gender within each occupation
 or, instead, evened their proportions for each occupation. The answer is that

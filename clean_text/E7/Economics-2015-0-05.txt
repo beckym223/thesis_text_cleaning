@@ -1,7 +1,9 @@
 B. Noncooperative Equilibrium in a One-shot Decision
+
 Begin by assuming that countries choose their policies once and for all in a single
 decision. I take a highly stylized structure, but the most complex models extant have
 virtually identical results.
+
 For this example, I assume that the emissions-intensities (a) and the damage-output
 ratios are identical for all countries and that countries only differ in their sizes.
 In what follows, W = total economic welfare, A = abatement cost, D = damages,
@@ -10,13 +12,17 @@ control rate [= (E - E)/E]. A key variable is the social cost of carbon (SCC),
 which is the marginal damage from a unit of emissions. The global SCC is denoted
 by 7, while 6 is the country share of world output and other variables. This first
 analysis excludes trade.
+
 The basic identity for country i is that welfare equals output minus abatement
 cost minus damages. Abatement costs are assumed to be quadratic in the emissions
 reduction rate, A, = aßjQt = a¡i}diQw, where a is the identical abatement-cost
 parameter and Qw is world output. Damages are proportional to global emissions.
 All these imply for region i:
+
 (1) = e, - ^ - D¡ = e,Qw - aß}etQw - 1ei(Ei + e Ejì-
+
 Mi
+
 The potential for free riding occurs because most of the damages originate outside
 the country. This is captured in the last term of equation (1), which in practice means
 that for all countries the preponderance of damages originate outside, while the
@@ -24,8 +30,11 @@ preponderance of damages caused by a country's emissions falls on other countrie
 Maximizing each country's welfare in a one-shot game, assuming no cooperation
 or strategic interactions, yields (as shown in the online Appendix) the noncooperative
 emissions-control rate and domestic carbon price (rf0):
+
 (2) = 6>,[7cr/2a]
+
 (3) rfc = en.
+
 The most intuitive result shown in (3) is that a country's noncooperative carbon
 price is equal to the country share of output times the global social cost of
 carbon. A less intuitive result in (2) is that a country's noncooperative control rate
@@ -33,5 +42,6 @@ carbon. A less intuitive result in (2) is that a country's noncooperative contro
 the emissions-output ratio, and inverse to the abatement-cost parameter. Equation
 (3) survives alternative specifications of the abatement-cost function, while (2) is
 sensitive to parameters such as the exponent in the cost function.
+
 Under the simplified assumptions, calculate the global average NC control rate
 and carbon price as functions of the cooperative levels ( ~ßc and 7

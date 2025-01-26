@@ -1,4 +1,5 @@
 Monetary and Fiscal Policy
+
 Formerly, there were monetary economists who argued that the central bank bal
 ance sheet is an accounting fiction, of no substantive interest. It is true that the
 implications of having negative net worth at current market values are different for
@@ -8,9 +9,11 @@ them all. A central bank can "print money"—offer deposits as payment for its b
 It will not be subject to the usual sort of run, then, in which creditors fear not being
 paid and hence demand immediate payment. Its liabilities are denominated in gov
 ernment paper, which it can produce at will.
+
 On top of this, most economists have thought of central banks as part of the gov
 ernment, with the only balance sheet that really matters being that of the government
 as a whole.
+
 But both of these arguments come apart when the central bank aims at control
 ling the price level and fiscal and monetary policy are not set jointly. Traditional
 contractionary open market operations require selling assets to shrink the amount
@@ -23,6 +26,7 @@ reserves, again putting it on an unsustainable path. Of course, if the treasury 
 ready to back up the central bank—providing additional assets to the central bank in
 the form of interest-bearing securities whenever necessary—then the central bank
 balance sheet is indeed irrelevant.
+
 In thinking about central bank policy when fiscal backing from the treasury is
 absent or uncertain, it helps to consider what "fiscal backing" the central bank can
 provide on its own, without assistance from the treasury. Of course central banks

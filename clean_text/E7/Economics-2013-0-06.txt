@@ -1,5 +1,6 @@
 fiscal backing may hesitate to undertake such operations out of fear of their balance
 sheet consequences.
+
 A simple model of balance sheet dynamics for a central bank with negative net
 worth and no fiscal backing appears in my earlier paper, Sims (2005). However, that
 paper assumes the central bank has non-interest-bearing liabilities and short-term
@@ -19,6 +20,7 @@ might not be automatic. Perhaps equally important is that, foreseeing the risk o
 capital call and its implicit fiscal transfers, the ECB's governing board might refuse
 to authorize market-stabilizing actions by the ECB that an ordinary central bank
 would have undertaken.
+
 In the United States, the risk is that the need for capital infusion would most likely
 arise in the wake of stringent monetary policy tightening that caused capital losses
 on the Fed's long term debt holdings and required an increased stream of inter
@@ -28,7 +30,9 @@ an environment where Congress cannot agree to let the debt limit increase to acc
 modate its own spending and revenue legislation, it is not hard to imagine Congress
 blaming the Fed for the painful decisions it faces and in the process casting doubt
 on its commitment to recapitalize the Fed.
+
 D. Nominal Debt and Real Debt are Very Different
+
 Real sovereign debt promises future payments of something the government may
 not have available—gold, under the gold standard, euros for individual country
 members of the EMU, and dollars for developing countries that borrow mainly in
@@ -41,5 +45,6 @@ real debt will require increased future primary surpluses, whereas with nominal 
 there are two other ways to restore balance—inflation, which directly reduces the
 real value of future commitments, and changes in the nominal interest rate, which
 will change the current market value of long term debt.
+
 Obviously outright default on nominal debt is much less likely than default on real
 debt. So long as the country is capable of generating any positive stream of primary

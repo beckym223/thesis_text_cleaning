@@ -1,13 +1,17 @@
 remainder of this paper, I focus on yet another application, namely, to situations in which a government
 solves an intelligent design problem using a misspecified model.
+
 D. REE or SCESome
+
 builders of adaptive models have specified an approximating model to equal a true one,
 meaning that there exists a value 0O for which/(jx, vx | p) = /(j00, v?? 10O) for all plans v00, not just
 equilibrium ones. This specification prevails in adaptive models in which least squares learning
 schemes converge to rational expectations equilibria (see Woodford 1990; Marcet and Sargent
 1989b). When/(j00, vx | p) ^f(yx, vx 10O) for some choices of v, the most that can be hoped for is
 convergence to an SCE.22
+
 E. SCE-REE Gaps and Policy Design
+
 Why is a gap between a rational expectations equilibrium and a self-confirming equilibrium
 important for a macroeconomist? Macroeconomists build models with many small agents and
 some large agents called governments. It doesn't matter to a small agent that his views may be
@@ -21,7 +25,9 @@ us to the threshold of the twentieth century experiment with fiat currency. Sect
 ahead to the 1960s and 1970s and uses statistical models to describe how the US monetary
 authorities struggled to understand inflation-unemployment dynamics as they sought to meet
 their dual mandate of promoting high output growth and low inflation.
+
 V. Learning Monetary Policy before and after Ricardo
+
 Central bankers are preoccupied with nominal anchors. For centuries, commodity monies
 built in redundant nominal anchors. When Ricardo wrote, new technologies of coin production
 and expert opinion had established the confidence to dispense with redundant nominal anchors

@@ -4,11 +4,14 @@ participants about the costs and risks of asset purchases that they discussed at
 December 2013 meeting. In retrospect, most of the costs and risks that concerned
 policymakers and outside observers have not proved significant.12 The possible
 exception is the risk of financial instability, which I leave to last.
+
 Impairment of Market Functioning.—Central banks using QE have tried to
+
 ensure that securities markets continue to function well, for example, by putting
 limits on the fraction of individual issues eligible for  asset-purchase programs. The
 JGB market in Japan has at times had very low activity outside of central bank purchases.
 In the other major economies however there has been only limited evidence
+
 of poor market functioning, absence of  two-way trade, or loss of price discovery.
 Asset purchases likely improved market functioning during the global financial crisis
 and during the European sovereign debt crisis, by adding liquidity, promoting
@@ -25,6 +28,7 @@ measures and large fiscal deficits could  unanchor inflationary expectations, th
 determinants of which are poorly understood. This was a minority view and, of
 course, inflation and inflation expectations remained low—often frustratingly so—
 in all major jurisdictions despite the use of QE and other new tools.
+
 Managing Exit.—FOMC participants worried about whether the expansion of the
 Fed’s balance sheet could ultimately be reversed without disrupting markets, and
 about how (in a mechanical sense)  short-term interest rates could be raised when the

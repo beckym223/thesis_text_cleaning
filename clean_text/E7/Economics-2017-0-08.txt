@@ -1,12 +1,15 @@
 confirm or disconfirm one's thoughts. It seems that the human mind strives to reach
 enduring understanding of events by forming them into a narrative that is embedded
 in social interactions.
+
 Some have suggested that it is stories that most distinguish us from animals,
 and even that our species be called Homo narrans (Fisher 1984) or Homo narrator
 (Gould 1994) or Homo narrativus (Ferrand and Weil 2001) depending on whose
+
 Latin we use. Might this be a more accurate description than Homo sapiens, i.e.,
 wise man? It is more flattering to think of ourselves as Homo sapiens, but not necessarily
 more accurate.
+
 It is important to note that narratives may not generally be acted upon reflectively,
 since, in the words of psychologists Schank and Abelson (1977), they may be taken
 as scripts. When in doubt as to how to behave in an ambiguous situation, people may
@@ -16,10 +19,12 @@ activities, including our economic actions. The "prudent person rule" in finance
 one of those norms that has economic impact: fiduciaries and experts do not have the
 right to act on their own judgment. They must instead mimic the "prudent person,"
 and this, in effect, means following a script (Shiller 2002).
+
 Popular narratives may have a spirit of "us versus them," a Manichean tone of
 revealed evil described of others in the story. Jokes are quite often at somebody else's
 expense - members of some other group. In extreme cases, they may be focused on
 events as evidence of some kind of imagined conspiracy.
+
 Of course, it is rational for people to be alert to conspiracies, since history is filled
 with actual examples of them. But the human mind seems to have a built-in interest
 in conspiracies, a tendency to form a personal identity and loyalty to friends built
@@ -30,6 +35,7 @@ may be amplified individually by brain damage, into a paranoid personality disor
 that is recognized in the Diagnostic and Statistical Manual, Fifth Edition (DSM V)
 of the American Psychiatric Association as afflicting 2.3 percent to 4.4 percent of
 the US adult population.4
+
 There is a daunting amount in the scholarly literature about narratives, in a number
 of academic departments, and associated concepts of memetics, norms, social
 epidemics, contagion of ideas. While we may never be able to explain why some

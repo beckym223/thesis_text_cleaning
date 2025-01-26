@@ -1,6 +1,7 @@
 (column 4). The remaining gap at year 15 is reduced to around 22 log points when
 time worked during the year is included and to 13 log points once work absences
 and job tenure are added (columns 5 and 6).41
+
 Of great importance with regard to the issues raised here is that annual earnings
 are clearly nonlinear (convex) with respect to hours in year 15 but not in year 5. At
 year 15 the coefficient on log hours in the log earnings regression is significantly
@@ -13,16 +14,21 @@ that in turn influence job interruptions and prior part-time work. The framework
 necessitates a homogeneous group of individuals by training and those are given
 here by the precise law school, performance in law school, completion of the JD,
 and time since degree (15 years).
+
 Because those who work in law firms usually report their hourly billing rate or fee
 (about 90 percent do), columns 7 and 8 also include the relationship between hours
 and the hourly fee reported. That, too, displays nonlinearity (convexity). The more
 hours worked, the higher the hourly fee reported.
+
 The nonlinearity of annual earnings with respect to hours worked and the relationship
 between hourly earnings and hours are graphed in Figure 6 together with
+
 characteristics of the JDs in each of four hour-intervals used (10-34, 35-44, 45-54,
 and 55+ hours). The annual earnings graph bears a striking resemblance to the representation
 of the framework in Figure 4. The nonlinearity of annual earnings with
+
 respect to hours worked is clear.
+
 The fraction female at 15 years is 0.288, but the fraction female decreases as
 hours increase from 0.826 for the 0 to 34 hours group to 0. 182 for the 55 hours plus
 group. The fraction of women who have children at 15 years out also decreases as
@@ -34,11 +40,14 @@ of time by the average lawyer is spent representing a Fortune 500 company in
 the highest hours bin than in the smallest hours bin. Similarly, the fraction of time
 representing "rich" people increases substantially (from about 0.025 to 0.09) when
 a lawyer shifts from working part-time to full-time.
+
 As in the case of MB As, the reason for the reduction in hours of work at 15 years
 out is largely due to the arrival of children. And also similar to the MBA case is
 that the decrease in participation is due to an interaction between children and the
 income of the spouse. About 16.5 percent of JD women, and 21 percent of those
 with children of any age, are not in the labor force by year 15.
+
 Spousal income is an important determinant of who stays and who leaves employment
 at year 15. JD women with children who are married to men in the upper 30
+
 percent of the earnings distribution (more than $200K per year, in US$20

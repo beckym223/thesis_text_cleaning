@@ -6,9 +6,13 @@ explained by the stability of prices of individual products. In particular, the 
 sellers resist cutting individual prices is a complete non-starter. The explanation of
 stable overall inflation appears to involve factors that operate across products and
 not in individual product markets.
+
 VII. How a Pinned Interest Rate Causes a Slump
+
 A. The Non-Existence of a Standard Equilibrium in an Economy Where the
+
 Government Attempts to Trade at the Wrong Price
+
 To start the analysis of the implications of an interest rate that is too high because
 it is pinned at zero, I'll use the Fisher diagram?the standard indifference curve
 isoquant story applied to the intertemporal setting, shown in Figure 14. All households
@@ -19,6 +23,7 @@ consume more in the second period. The tangency of the isoquant and the indiffer
 curve is the equilibrium of the economy. The slope of the tangent line is one
 plus the real interest rate at equilibrium. The economy achieves this equilibrium if
 there are no other opportunities open to households.
+
 At the beginning of period 1, the household has capital k0. Employment is nx
 and output at the end of the period is yx =f(k09nl), which is divided between
 immediate consumption cx and capital kx to carry forward to date 2, when the

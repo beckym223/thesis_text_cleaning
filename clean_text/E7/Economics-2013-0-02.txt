@@ -1,4 +1,5 @@
 I. Introduction
+
 Central banks since 2008 in many countries have greatly expanded their balance
 sheets, rapidly creating large amounts of what used to be called "high powered
 money," without creating inflation. The European Central Bank's policies and pro
@@ -9,8 +10,10 @@ generate inflation. Most central banks now pay interest on reserve deposits, mak
 those deposits part of the government's interest-bearing debt. These developments
 make it clear that monetary and fiscal policy are tied together, and that conventional
 macro models with non-interest-bearing high-powered money, a "money multi
+
 plier," and a tight relation between the price level and the quantity of "money" are
 inadequate as a framework for current policy discussions.
+
 The literature on the fiscal theory of the price level (FTPL) integrates discussion
 of monetary and fiscal policy, recognizing that fiscal policy can be a determinant,
 or even the sole determinant, of the price level.1 The first papers in the area may

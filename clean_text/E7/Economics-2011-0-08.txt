@@ -1,13 +1,16 @@
 IV. Financial Frictions
+
 A financial friction drives a wedge between the returns that savers receive and the
 rates that borrowers pay. Agency problems in financial intermediaries are one source
 of those frictions. Adverse selection of borrowers is another. The financial crisis
 resulted in large declines in the equity values of financial intermediaries, which
 substantially worsened the agency problems. Loss of equity among household borrowers
 worsened adverse selection.
+
 Robert E. Hall (2010) describes a framework for studying financial frictions and
 Hall (forthcoming) gives many details and citations to recent work on this topic. The
 framework in those papers shares many elements with the discussion here.
+
 A widely studied setup?see Ben S. Bernanke, Mark Gertler, and Simon Gilchrist
 (1999)?generates frictions from the agency relationship between investors and
 financial intermediaries. See Gertler and Peter Karadi (2009) for an application to

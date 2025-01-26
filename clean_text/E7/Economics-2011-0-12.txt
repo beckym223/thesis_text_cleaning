@@ -3,13 +3,20 @@ of banks with respect to lending standards for a variety of types of loans. An
 example of a question in the survey is: "Over the past three months, how have your
 bank's credit standards for approving applications for credit cards from individuals
 or households changed?" The permissible answers are:
+
 1. Tightened considerably,
+
 2. Tightened somewhat,
+
 3. Remained basically unchanged,
+
 4. Eased somewhat, and
+
 5. Eased considerably.
+
 Although the answers are qualitative, it appears possible to create an index of standards
 from the answers.
+
 To this end, let xt be an index of lending standards, interpreted as the mean across
 banks, where the change in the bank's own index is normal with mean Axt + ii and
 unit standard deviation. If a bank's own index change is in the interval [? v,v\,
@@ -17,6 +24,7 @@ it reports that its standards "remained basically unchanged." The Federal Reserv
 reports the difference in the fraction of banks that reported a tightening of standards
 and the fraction that reported a loosening?this is called the net change. It is
 (3) Net change = <f>(Axt + \? - v) - <S>(-Axt - ii - v),
+
 where <J> is the standard cumulative normal distribution (see the online Appendix for
 details). To estimate the parameter v, I observe that when Axt + ii = 0, that is, when
 standards are not changing, the probability of the middle answer is the probability
@@ -28,6 +36,7 @@ credit cards. The identifying assumption is that Axt has mean zero. For mortgage
 where data are available only for the crisis period, I use a mean of 0.15. My assumption
 that the cross-sectional standard deviation across banks is 1.0 amounts to a
 normalization of the units of the index.
+
 Figure 9 shows the resulting indexes, the cumulations of the estimated changes.
 Because the indexes are constructed to start and end at zero, nothing should be read
 into the lack of trend, though it remains a reasonable assumption. Further, because

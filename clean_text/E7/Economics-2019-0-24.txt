@@ -2,12 +2,19 @@ increase in debt is equal to 15 percent of (pre-debt) average steady state savin
 The underlying parameters in both cases are calibrated so as to fit values of
 ER
 
+
+
 and
 
+
+
 E
+
 R
+
 f   absent debt corresponding to −1 percent for the annual safe rate, and 2 percent
 for the annual risky rate.
+
 Failure is defined as the point where the safe rate becomes sufficiently large
 and positive (so that the probability that debt does not explode becomes very
 small, depending on the unlikely realization of successive large positive shocks

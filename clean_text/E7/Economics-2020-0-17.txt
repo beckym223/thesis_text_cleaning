@@ -3,6 +3,7 @@ regime, reducing concerns about whether there are enough JGBs available for the
 BOJ to buy. Yield curve control, besides providing the ability to target financial condition
 more precisely, thereby also appears—in the Japanese context, at least—to be
 more sustainable.
+
 Clearly, novel monetary policy options extend beyond QE and forward guidance.
 Will the Federal Reserve ever adopt any of these supplementary tools? Other than
 GSE-backed mortgages, the Fed does not have the authority to buy private assets,
@@ -15,10 +16,12 @@ the time, though, FOMC participants did not believe that bank liquidity was cons
 lending, and there were some reservations about the  quasi-fiscal and credit
 allocation aspects of subsidizing bank loans. Freeing up bank lending is also macroeconomically
 more consequential in jurisdictions like the euro area and Japan
+
 where the bulk of credit flows through banks, as opposed to securities markets. Still,
 one can imagine circumstances—for example, if constraints on bank lending are
 interfering with the transmission of monetary policy—in which this option might
 resurface in the United States.
+
 Federal Reserve officials believe that they have the authority to impose negative
 short-term rates (by charging a fee on bank reserves)  but have shown little appetite for
 negative rates thus far because of the practical limits on how negative rates can go and
@@ -30,6 +33,7 @@ central bank to influence  longer-term rates near the lower bound, through QE or
 means (Grisse, Krogstrup, and Schumacher 2017) . Maintaining at least some constructive
 ambiguity about the possibility of negative policy rates thus seems desirable.
 Yield curve control in the Japanese style—that is, pegging or capping very
+
 long-term yields—is probably not feasible, or at least not advisable, in the United
 States, given the depth and liquidity of US government securities markets. If
 long-term yields were pegged, and market participants came to believe that the future
@@ -40,6 +44,8 @@ to large capital losses. However, pegging Treasury yields at a shorter horizon, 
 two years, would likely be feasible and might prove a powerful method for reinforcing
 forward rate guidance. Board staff analyzed this possibility in 2010 (Bowman,
 Erceg, and Leahy 2010) and it has been recently raised by Brainard (2019).
+
 D. Costs and Risks of the New Policy Tools
+
 The appropriate use of new policy tools depends not only on their benefits but
 on their potential costs and risks. I briefly discuss here the potential cos

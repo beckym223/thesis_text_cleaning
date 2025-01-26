@@ -2,6 +2,7 @@ auction for radio spectrum. Computational speed also helps deal with congestion.
 Ads can be matched with internet users by auctions that run quickly enough to keep up with internet attention spans, and stable matchings can be determined without delay. But computerized markets can also increase congestion by easing access, e.g., by increasing the number of job applications it is easy for a job seeker to send. How will computerized speed and intelligence influence the scope and scale of marketplacesHow
 will artificial intelligence and machine learning techniques help automate parts of market design?
 121 Somewhat separately, as computers become
+
 increasingly important as infrastructure for markets and capital equipment for firms, markets for computation, such as cloud computing, may fundamentally change some
 of the make or buy decisions of firms, and how computers are owned and accessed.
 Privacy issues arise with special force when markets are computerized, because
@@ -11,4 +12,5 @@ Rules are data for the study of how marketplaces are designed, and the computeri
 of marketplaces also gives us access to data on market rules, precisely encoded in algorithms and apps. Contracts are data too, and contracts are what is for sale in many marketplaces, including computerized marketplaces. The increased availability of precisely coded rules and contracts may lead to an explosion of empirical
 game theory, parallel to the growth of applied microeconomic research fostered by big datasets of individual behavior.
 Repugnance and its causes and consequences are worth much further study.
+
 Economists often shrink from having third parties prevent voluntary transact

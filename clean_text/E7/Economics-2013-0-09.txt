@@ -3,6 +3,7 @@ may be uncertain. For example, a minor default may involve a modest delay in
 returning principal of a short term debt. Other creditors may be unaffected, or, if
 the holder of the short debt goes to court, all debtors may find themselves impaired.
 Similar, or perhaps more severe, uncertainties surround sovereign default.
+
 Unanticipated high inflation does impose losses on investors in nominal sover
 eign debt, but it does not involve renegotiation or court proceedings. Contracted
 payments are made. The securities remain tradable. In the same state of uncertainty
@@ -10,6 +11,7 @@ about future primary surpluses, therefore, investors are likely to be much more
 uncertain about the return on their own investment in sovereign debt when reso
 lution of the fiscal imbalance has to come from default, rather than inflation and
 nominal interest rate changes.
+
 In a financial panic, counterparty risk becomes pervasive among market partici
 pants and credit markets freeze up. An institution of unquestioned soundness and
 liquidity can remedy the situation by lending freely. While large private banks can
@@ -26,8 +28,11 @@ ity to create reserve money and their country treasuries issue only real debt. D
 the recent crisis the ECB has in fact played a lender of last resort role, though its
 effectiveness is limited because its actions and announcements in this role are regu
 larly criticized by some northern-tier economic officials.
+
 III. Models
+
 A. Samuelson's Pure Consumption Loan Model with Storage
+
 This model is one where, without tax backing for debt or money, the price level
 is indeterminate. The model in that case has one stable price level, in which the
 real allocation is efficient, and a continuum of other possible initial price levels,
@@ -40,5 +45,6 @@ the value of their government paper matches the present value of their future ta
 This mechanism eliminates the non-uniqueness, no matter how small the primary
 surplus, and for small levels of primary surplus, the real allocation is arbitrarily
 close to the efficient one.
+
 There is an infinite sequence of periods, in each of which the same number of two
 period-lived agents is born and endowed with one unit of the consumption good,

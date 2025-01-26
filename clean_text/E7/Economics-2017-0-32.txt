@@ -22,7 +22,9 @@ the event thus might have been a self-fulfilling prophecy in that it created wor
 and uncertainty, perhaps contributing to the persistence of a depressed economy.
 What is it about the 2007-2009 event that made the name Great Recession suddenly
 contagious? Judging from the peak US unemployment rate, it was less severe
+
 than the 1981-1982 recession.
+
 Perhaps it was because the 2007-2009 event fit the most generic and ill-informed
 memories of the Great Depression. People remember massive bank failures as part
 of the Great Depression story, and that was a better fit, it appeared, with the events of
@@ -33,6 +35,7 @@ In contrast, 2007-2009 saw a halving of the market from very high levels. People
 1981-1982 were, as public opinion polls confirm, preoccupied with out-of-control
 consumer-price inflation, and saw the events in terms of a suddenly strong central
 bank effort to contain the inflation.
+
 Psychologists Daniel Kahneman and Amos Tversky's representativeness heuristic
 is the principle that people judge current events by their similarity to memories
 of representative events. The Great Depression was a model that is exaggerated in

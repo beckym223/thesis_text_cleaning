@@ -11,6 +11,7 @@ more and more if the unemployment rate is above the critical rate. Generally the
 NAIRU is found to be around 6 percent. By this influential body of thought, month
 after month of unemployment over 6 percent should bring more and more deflation.
 Fortunately, the theory is wrong.
+
 It is not news that NAIRU theory is a failure. Robert M. Solow (1990) and Hall
 (2005) demonstrate its lack of support in the time-series properties of unemployment.
 James H. Stock and Mark W. Watson (2010) report that the best way to characterize
@@ -21,15 +22,18 @@ say, the same rate, no matter how high, unemployment loses its deflationary effe
 That is exactly the opposite of the NAIRU theory. The finding is plainly consistent
 with the data in Figure 12. It's also plainly the case that any negative effect of unemployment
 on inflation is small even during the time when it has any effect.
+
 The limited response of inflation applies at the level of components of output.
 Figure 13 shows annual rates of change of output and price for a number of components
 of GDP, over the two-year period from 2007:IV to 2009:IV. The points lie
+
 along a line with a slightly positive slope?the line connecting the left-most observation
 to the right-most has a slope of 0.22 percentage points of price change per
 point of output decline. The most informative observation is for residential construction,
 where output declined at a 17 percent annual rate but price declined by only
 3.4 percent per year. Construction is a good test case, because existing theories of
 sticky prices do not seem to apply to this component.
+
 An adverse shift in the terms of trade may be an influence favoring unresponsive
 prices. If an increase in input prices occurs at the same time that product demand
 falls, product prices may hardly move at the same time that output falls. A spike in
@@ -37,11 +41,13 @@ oil prices occurred in the summer of 2008. But the spike reversed by the end of 
 and there was no meaningful shift in the terms of trade during the two years included
 in Figure 13. The ratio of the price indexes for imports and exports fell by 17 basis
 points per year during the period.
+
 Most economic models of pricing derive a reasonably stable markup of price over
 cost. The dominant model of inflation embedded in practical macro models today
 hypothesizes that firms would like to set prices according to a markup theory, but
 only do so at random times. These models are inconsistent with the evidence above,
 because they imply that the NAIRU principle holds. They cannot explain the stabilization
 of inflation at positive rates in the presence of long-lasting slack.
+
 The remarkable stability of the rates of change of price indexes conceals the high
 volatility and dramatic variations in trends of the prices of individual products. The

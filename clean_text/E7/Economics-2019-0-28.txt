@@ -2,18 +2,25 @@ Look at the blue line however. It shows the evolution of the ratio of the same
 earnings series, now to the market value of the same firms, constructed as the sum
 of the market value of equity plus other liabilities minus financial assets. Note how it has declined since the early 1980s, going down from roughly 10 percent then to about 5
 percent today
+
 . Put another way, the ratio of the market value of firms to
+
 their measured capital at replacement cost, known as Tobin’s q, has roughly doubled since the early 1980s, going roughly from one to two.
 There are two ways of explaining this diverging evolution; both have implications
 for the average marginal product of capital, and, as result, for the welfare effects of debt.
 31 Both have been and are the subject of much research, triggered by an apparent
 increase in markups and concentration in many sectors of the US
+
 economy
+
 (e.g.,
+
 De Loecker and Eeckhout 2017, Gutiérrez and Philippon 2017, Philippon 2017, Barkai 2018, Farhi and Gourio 2018).
 The first explanation is unmeasured capital, reflecting in particular intangible
 capital. To the extent that the true capital stock is larger than the measured capi-tal stock, this implies that the measured earnings rate overstates the true rate, and by implication overstates the marginal product of capital. A number of researchers have explored this hypothesis, and their conclusion is that, even if the adjustment already made by the Bureau of Economic Analysis is insufficient, intangible capi-tal would have to be implausibly large to reconcile the evolution of the two series. Measured intangible capital as a share of capital has increased from 6 percent in 1980 to 15
 percent
+
 today. Suppose it had in fact increased to 25 percent. This would
+
 only lead only to a 10 percent increase in measured capital, far from enough to explain the divergent evolutions of the two series.
 32

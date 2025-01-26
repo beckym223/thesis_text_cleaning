@@ -1,18 +1,29 @@
 But back to thinking of it as debt. What if we do provide tax backing for the debtSuppose
 everything is as before, but now the government imposes a lump sum tax r
+
 on the young each period. The government budget constraint is now
+
 / x jB, RBt_ i
+
 <12> i=-ir-T'
+
 Suppose there were an equilibrium in which savings is in the form of both bonds and
 storage. Then both must have real gross rate of return 6. That makes the government
 budget constraint
+
 (13) T = eT±"r
+
 't rr-l
+
 This is a stable difference equation in B,/Pt. If it starts operation at t = 0, we will
 have
+
 B, B()
+
 (14) ^ = ^_rr + 0< °
+
 *t j=0 *0
+
 But notice that, since 8 < 1, the right-hand side of this expression eventually becomes
 negative, converging as t —> oo to — r/ ( 1 —6). That is, if the economy started on a
 path satisfying this condition, eventually it would reach a point where the govern
@@ -25,12 +36,16 @@ equilibria in which storage and debt coexist. It has also eliminated the equilib
 which debt is valueless (P, = oo) for the same reason: the government is trying to
 exchange r units of grain per capita for mature debt, so the mature debt is necessar
 ily of some value.
+
 If there is no storage, the rate of return on debt can be positive. The tax is recog
 nized by individual agents as reducing their wealth, so first-period consumption is
 reduced. Formally, the private budget constraint in the first period is now
 (15) cu + ^ + t= 1.
+
 We will still have, from the first-order conditions, RP,/P,+l = p, = C2,r+i/Q, where
 p, is just notation for the real rate of return. Using these last two expressions to
 rewrite the first-period budget constraint, we have
+
 ~ i i ^2,t+i . P/C],
+
 (16) Clt + t — — 1 — Cu -j — I- r.

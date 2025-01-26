@@ -1,5 +1,7 @@
 Then (27) becomes
+
 (29) ¿ = (p-0,)¿ +00-02
+
 The three-equation differential equation system formed by (21), (22), and (29) is
 recursive, since b appears only in the last equation. That means that the solution
 paths that make it explode up or down that we observed when considering the first
@@ -21,6 +23,7 @@ eventually became negative. Now people would see their wealth in the form of
 government debt growing without bound, with no offsetting increase in future tax
 obligations. They would therefore spend, raising prices, bringing the economy
 back to its stable path.
+
 These arguments do not depend on the size of 4>2, so long as it is positive. In equi
 librium, 7r will be zero or (if people are imperfectly foresighted, or if we add random
 disturbances to the system) fluctuate in a narrow range. If 4>2 is small enough, its
@@ -28,7 +31,9 @@ presence might be difficult to detect from data. In any case its presence would 
 no effect on the first two equations of the system or on the equilibrium time path
 of prices and interest rates, except for its elimination of the unstable solutions as
 equilibria of the economy.
+
 C. Debt as a Fiscal Cushion
+
 Barro (1979) showed in a simple, stylized model that in the presence of distort
 ing taxation it is not optimal to rapidly pay off public debt, because the deadweight
 losses from heavy initial taxation to reduce the debt are not offset by the present

@@ -1,6 +1,7 @@
 decline to offset a force that lowers the equilibrium real rate. The same economy
 without a lower limit on the real rate is completely stable and always operates at
 full employment.
+
 The model shares a feature with almost all dynamic general-equilibrium models?
 it has almost no ability to generate long slumps endogenously. The persistence
 of the driving forces controls the persistence of low employment. In the case of the

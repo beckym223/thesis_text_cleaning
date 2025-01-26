@@ -1,5 +1,7 @@
 I. Bargaining and Climate Coalitions
+
 A. Free-riding and the Westphalian System
+
 Subject to many deep uncertainties, scientists and economists have developed an
 extensive understanding of the science, technologies, and policies involved in climate
 change and reducing emissions. Much analysis of the impact of national policies such
@@ -7,6 +9,7 @@ as cap-and-trade or carbon taxes, along with regulatory options, has been undert
 Notwithstanding this progress, it has up to now proven difficult to induce countries
 to join in an international agreement with significant reductions in emissions.
 The fundamental reason is the strong incentives for free-riding in current
+
 international climate agreements. Free-riding occurs when a party receives the
 benefits of a public good without contributing to the costs. In the case of the international
 climate-change policy, countries have an incentive to rely on the emissions

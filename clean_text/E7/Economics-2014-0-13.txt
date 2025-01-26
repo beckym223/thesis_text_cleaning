@@ -4,6 +4,7 @@ smallest ones. That is, given age and time worked residual differences for Busin
 occupations are large and residual differences in Technology and Science are small.
 In fact, for the "young" group (less than 45 years old) some Technology and Science
 occupations have positive coefficients.20
+
 For the full-time, full-year sample including log hours, log weeks, and education
 in years (in addition to the basic set of variables), the residual difference for
 the Business occupations is -0.240 and the residual difference for the Technology
@@ -19,8 +20,10 @@ some of the occupations, in particular the "technology" occupations in which the
 are relatively few women, are largely driven by selection. My answer will be that
 selection is not the dominant reason for the small penalty to being a woman working
 in the technology and science fields.
+
 Potential Biases: Technology Occupations. - The fact that individuals in the technology
 occupations have among the lowest residual gender gaps may be greeted
+
 with some skepticism. These are not occupations in which women are a large fraction
 and the fields of training for many of them are also not those in which women
 are abundant. Perhaps the finding is due to selection: the best men and the worst
@@ -30,6 +33,7 @@ could become science teachers. These individuals would not show up in the techno
 occupations. Another issue is whether the low gender gaps in recent data are
 because of the industries in which these individuals are hired rather than something
 about the technology occupations.
+
 I use the National Survey of College Graduates, 2003 (NSCG03) to explore if
 women with technology degrees have different labor force participation rates than
 those of other college graduate women. The answer is that they do not have lower

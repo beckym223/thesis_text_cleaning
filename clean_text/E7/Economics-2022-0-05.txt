@@ -14,6 +14,7 @@ the simple event studies developed by Card, Heining, and Kline (2013) and the
 surprisingly small job match component uncovered in that paper (and many later
 studies) suggest that workers tend to move up the same job ladder (as in Abowd,
 Kramarz, and Margolis 1999).
+
 Finally, there were a few studies of specific institutional settings where firm wage
 setting power seemed possible. Sullivan (1989), for example, showed that increases
 in the number of nurses were correlated with  hospital-specific wage increases,
@@ -21,13 +22,18 @@ suggesting that employers were facing  upward-sloping supply curves for nursing
 labor. Ransom (1993) used university payroll data to show that wages of professors
 decline with tenure—a pattern he attributed to monopsonistic wage discrimination.
 IV . What Happened in the 1990sFour
+
 new types of evidence have accumulated in the past 25 years that suggest
+
 employer  wage-setting power is  nonnegligible: evidence on quit and recruiting
 responses to wages, evidence on the relationship between wages and firm productivity,
 evidence on the concentration of employment in small numbers of employers,
+
 and evidence of conspiracies and other forms of firm behavior targeted at suppressing
 firm-to-firm mobility and wage growth.
+
 A. Quit, Recruiting, and Application Elasticities
+
 Though many economists acknowledge that quit and recruitment rates vary with
 wages, the connection between these responses and the elasticity of supply that is
 relevant for a monopsonistic wage setter does not seem to have been fully appreciated
@@ -35,4 +41,5 @@ until the seminal paper by BM (which circulated for many years prior to its
 publication). Card and Krueger (1995) noted that in any steady state, the elasticity
 of labor supply is just the sum of the absolute values of the elasticities of recruiting
 and quitting. Manning (2003) showed that in a simple job ladder model the
+
 two are equal: thus, an analyst can estimate one or the other and doubl

@@ -2,6 +2,7 @@ Some New Simulation Results:  In the rest of this lecture, I present new simulat
 results aimed at assessing how much policy space the new monetary tools could
 provide prospectively. Like the papers described immediately above, I employ stochastic
 simulations of FRB/US to compare expected economic performance under
+
 alternative monetary policy frameworks, given historically realistic patterns of
 shocks. So as to consider cases in which the lower bound is an important constraint,
 I assume that the real and nominal neutral interest rates remain historically low.
@@ -14,8 +15,10 @@ Kiley and Roberts (2017) that   i   ∗   = 3 is sufficiently low as to lead, un
 monetary policies, to frequent encounters with the lower bound. However, it is possible
 of course that the nominal neutral rate is, or will become, lower even than my
 assumed case of   i   ∗   = 2. I return to this possibility below.
+
 The alternative policies to be evaluated are listed in the leftmost panels of Tables
 3 and 4. Briefly, the policies considered are as follows.
+
 Baseline Rules.—The traditional policy approach, taken here as the baseline, is
 represented by variants of the standard Taylor (1993) rule. I assume the “balanced
 approach” version of the rule, which gives greater relative weight to unemployment
@@ -29,7 +32,9 @@ space. Also reported are results for the case, labeled “unconstrained” in th
 which   π   ∗   = 2 but the constraint imposed by the zero lower bound on the  short-term
 rate is ignored. Comparing the unconstrained case to other policy rules measures the
 costs imposed by the lower bound.
+
 Threshold Forward Guidance.—As in Chung et al. (2019) and Bernanke, Kiley,
+
 and Roberts (2019), I consider variants of forward guidance in which, once the
 short-term rate is constrained by the lower bound, the central bank promises to
 hold the policy rate at zero until inflation has reached a specified level.20 Once that
@@ -37,6 +42,7 @@ threshold is reached, policy reverts to the baseline Taylor rule. I report resul
 three alternative inflation thresholds: 1.75, 2.0, and 2.25 percent. I also considered
 thresholds based on the unemployment rate (not reported), with results that were
 qualitatively similar to the policies using inflation thresholds.
+
 In some standard models, the implied effects of forward guidance on the economy
 are implausibly large, the  so-called forward guidance puzzle (Del Negro, Giannoni,
 and Patterson 2012; McKay, Nakamura, and Steinsson 2016). The  puzzle

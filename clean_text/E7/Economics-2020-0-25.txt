@@ -9,6 +9,7 @@ guidance and QE could provide enough stimulus to substantially offset the effect
 of the lower bound. Chung et al. ( 2019) , also using FRB/ US simulations and
 studying a similar scenario, were somewhat more pessimistic, finding that forward
 guidance and QE would be “modestly effective” in promoting recovery and
+
 returning inflation to target but would do little to limit the initial rise in unemployment
 in a severe recession. The differences in their results appear to be due to
 more conservative assumptions by Chung et al. ( 2019)  about the effects of asset
@@ -20,7 +21,9 @@ reflect estimated lags of monetary policy, traditional or nontraditional. The ex
 of these lags provides an argument for  more proactive policies, and perhaps
 for policy frameworks that lead financial market participants and others to understand
 in advance that policymakers will respond aggressively when the short rate
+
 hits the lower bound.
+
 An alternative approach to using FRB/US to study a single historical episode or
 hypothetical scenario is to use the model to simulate the  long-run behavior of the US
 economy under differing policy rules or frameworks, with shocks drawn from the
@@ -29,14 +32,18 @@ the performance of alternative policies under a realistic mix of shocks, includi
 possibility that adverse shocks may hit an economy already in recession,  so-called
 stochastic simulations arguably provide more robust assessments of policy alternatives.
 Studying the  long-run behavior of the model, as opposed to simulating the
+
 “next recession,” is also more useful from the perspective of choosing among policy
 frameworks or toolkits, which once decided upon are likely to remain in place for
 an extended period.
+
 Kiley and Roberts ( 2017)  and Bernanke, Kiley, and Roberts (2019)  used stochastic
 simulations in FRB/ US to study the performance of alternative monetary
+
 policy rules and frameworks near the lower bound. However, neither of these
 papers considered central bank asset purchases. Kiley ( 2018)  remedied this omission,
 using FRB/ US simulations to study the effects of the systematic use of QE
+
 (without forward guidance) . He considered Fed balance sheet rules of varying
 aggressiveness, in which the quantity of assets purchased after the policy rate
 hits zero is tied to the estimated output gap. For a nominal neutral interest rate of

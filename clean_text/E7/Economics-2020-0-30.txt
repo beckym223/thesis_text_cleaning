@@ -4,6 +4,7 @@ rules, since they assume that inflation expectations remain at target. If expect
 fall in response to persistently  below-target inflation, as no doubt they ultimately
 would, then the nominal neutral interest rate would decline, reducing policy space
 yet further.
+
 Second, higher inflation targets, which for these simulations I assume to result
 one-for-one in higher nominal neutral rates, improve the performance of the baseline
 rules, by increasing policy space and making encounters with the lower bound
@@ -18,6 +19,7 @@ would be significant.22 Moreover, it may be that raising the inflation target wo
 provide less additional space than assumed in these simulations, because at higher
 inflation rates economic behavior could change in ways that reduce the potency of
 monetary policy (L’Huillier and Schoenle 2019).
+
 Third, taken separately, both forward guidance and QE lead to improved performance,
 relative to the baseline rule with a 2 percent inflation target. However, the
 economic benefits of forward guidance alone in these simulations are moderate, and
@@ -37,6 +39,7 @@ compared to 2 percent of the time for the balanced Taylor rule with a 5 percent 
 target. With   r   ∗   = 0 and   i   ∗   = 2 (Table 4), the performance of the QE(D) program
 deteriorates somewhat but remains close to that of the baseline rule with a 5 percent
 inflation target.
+
 Fourth, importantly, for both   r   ∗   = 1 (Table 3) and   r   ∗   = 0 (Table 4), corresponding
 to nominal neutral rates of 3 percent and 2 percent respectively, combinations of
 QE and forward guidance can almost fully compensate for the effects of

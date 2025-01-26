@@ -4,13 +4,16 @@ gap, it overpredicts the amount of disinflation. That causes it to revise its es
 slope of the Phillips curve toward zero. Thus, Orphanides's story about the consequences of
 misestimating the natural rate of unemployment complements Primiceri's story about sacrifice
 ratio pessimism.
+
 C. An Eclectic Account
+
 The stories in the previous two sections take stands on both the true and the government's
 approximating models. Cogley and Sargent (2005) perform an exercise that does not require
 specifying a true data-generating mechanism, the empirical distribution being enough. But the
 government's views about the consequences of choosing alternative feasible policies continue to
 play the leading role. The government's model f(ycc,vcc\0) mixes three submodels according to
 Bayesian posterior probabilities that are included in the vector 0t.
+
 A government entertains three models that Cogley and Sargent use to capture prominent specifications
 from the literature about US unemployment-inflation dynamics described by King and
 Watson (1994). The models are (1) a Samuelson-Solow Phillips curve with King and Watson's
@@ -26,6 +29,7 @@ of the state variables appearing in those exploitable dynamic Phillips curves. T
 attaches positive probability to all three models, so the Phelps problem brokers a compromise
 among the recommendations of the three models. But what kind of compromise? It depends on
 submodel probabilities multiplied by value functions.
+
 The government starts with a prior that has non-zero weights on all three models in 1960, then
 each period uses Bayes's law to update parameters of each of the three submodels and also its
 prior over the submodels.37 In each period, the government solves a Phelps problem that penalizes

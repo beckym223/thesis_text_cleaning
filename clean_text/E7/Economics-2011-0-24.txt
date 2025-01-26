@@ -1,9 +1,11 @@
 second period, kx. The flow of output is a significant fraction of the stock of capital.
 As Table 1 shows, output is two or three times higher than capital. In a standard calibration
 of a long-horizon model?and in data for the US economy?output is only a
+
 fraction of the capital stock. Even a total collapse of output lowers the capital stock
 by a small percentage and may not be able to match the increase in the real return to
 capital needed to generate a low-employment equilibrium.
+
 The second factor that may block a low-employment equilibrium is keeping the level
 of employment high enough to elevate the labor/capital ratio to the point needed to
 match the high return to currency. On the one hand, a low-employment equilibrium
@@ -27,13 +29,19 @@ US and many other countries since late 2008 or in the Great Depression?the retur
 to capital must match the return to currency, including the appropriate risk premium.
 But the collapse of the economy, especially the decline in employment, seems to
 point in the direction of a low return to capital.
+
 One element that may help in building a model of a slump that has an equilibrium
 is a decline in capital utilization. This idea is an important element of the New
 Keynesian model. If x is the fraction of capital in productive use, the economy's
 technology is
+
 The return to capital is the marginal product of capital. One notion of the marginal
 product is  D. Interpretation of No Equilibrium
+
 E. Capital Utilization
+
 (15)  y = na{xk)
+
 \-a
+
 (16)

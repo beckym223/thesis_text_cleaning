@@ -1,4 +1,5 @@
 K. Sensitivity Analysis
+
 How sensitive are the results to alternative parameters? The sensitivity analyses are
 presented in detail in the online Appendix, and the results are summarized here. I examine
 the impact of three different sets of parameters. The first is alternative estimates of

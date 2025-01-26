@@ -2,6 +2,7 @@ land, livestock, and produce. Gradually the protectors got together to form the 
 became the Mafia. The knowledge that a property was under the protection of the Mafia acted
 as a deterrent. If that didn't work, the protectors resorted to varying degrees of violence against
 transgressors.
+
 However, private protection of property has some important harmful effects. The Mafia's protection
 offered to its customers, unlike the state's protection that is in principle available to
 everyone, creates a negative externality. Thieves selectively target the unprotected properties,
@@ -9,6 +10,7 @@ so extending protection to one property raises the probability that other proper
 That, in turn, increases their demand for the protection service. Thus, the Mafia is able to extract
 a high price for its service, and can make this externality-dependent high value evident by not
 covering everyone.
+
 Can private institutions guard private property rights against the government's pr?dationThis
 is a complicated collective action problem. An individual is helpless against a government;
 even in an ongoing relationship, one person cannot offer the government the prospect
@@ -38,6 +40,7 @@ I don't think it has been tried anywhere, so we don't know for certain that it c
 have some chance of success in a country like India, where there is an established business
 community with quite good information networks and some leadership by the most prominent
 businesspersons.
+
 One more point about corruption is worth making: whether the corruption is organized or
 disorganized makes a difference. Andrei Shleifer and Robert Vishny (1998, chap. 5) and Easterly
 (2001, 247-48) point out that if some economic activity requires many licenses that must be

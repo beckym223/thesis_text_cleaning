@@ -1,30 +1,46 @@
 I use the term real interest rate to mean the own interest rate on output. The optimal
 choice of consumption growth results in a discounter that discounts the market real
 interest rate to one:
+
 (38) (1 + r,)/x, = 1.
+
 The real and nominal interest rates are related as
+
 (39) 1 + r, = (1 + rj^j-.
+
 Thus the zero lower bound on the nominal rate rHjt implies
+
 (40) ,,>,, = ,?-_,.
+
 From the earlier assumption in equation (31),
+
 (41) r, = -TT.
+
 F. Material Balance
+
 At the beginning of a period, the stock of installed capital is kt_x and the stock of
 housing is dt_x. At the end of the period, output yt becomes available and is allocated
 to consumption of goods cy t, and investment in capital and housing, including adjustment
 cost, resulting in the new capital stock kt and new housing stock dt. Firms expend
 jnt/q(nt) in recruiting cost. The equation for the economy's material balance is
 (42) kt + % {k> ~ k'-^ + d,+ % {d' ~ d'~l)2
+
 2 2 dt_x
+
 n
+
 = (1 - + (1 - 5d)dt-\ + yt ~ cy,t - vl
+
 G. Standard versus Low-Utilization Periods
+
 The cases that I consider all have equilibria in which the interest bound binds and
 the model is in low-utilization equilibrium for t G [1,7] and in standard equilibrium
 in later quarters. Although one could imagine an economy that went in and out of the
 interest bound, I consider only those cases involving a single transition away from the
 bound.
+
 H. Parameter Values
+
 Table 2 gives the parameter values I use in the base case and their sources. I
 choose the elasticity of employment with respect to the marginal revenue product ip
 to make capital utilization xt move in proportion to employment:

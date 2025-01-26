@@ -3,6 +3,7 @@ first, having only one large denomination full weight coin that the mint sold fo
 and, second, having the government issue difficult-to-counterfeit small denomination token
 coins that it promised to convert on demand into the large denomination coin. This required a
 technology for manufacturing coins that were difficult to counterfeit.50
+
 As examples of inadvertent experiments, token monies were occasionally issued inside
 besieged cities and sometimes they worked. A document that anticipated ideas of John Law,
 Adam Smith, and David Ricardo sparked a purposeful experiment. It advised King Ferdinand II
@@ -37,5 +38,6 @@ seventeenth- and eighteenth-century Britain, hundreds of private firms and munic
 small denomination tokens that formed a substantial part of the country's coinage. Between 1816
 and 1836, the British government implemented the standard formula by nationalizing a token
 coin industry that had long existed.
+
 Ricardo's Proposal.?It required 156 years to take the short logical step from Henry Slingsby's
 1660 standard formula for issuing convertible token subsidiary coins to David Ricardo's 1816

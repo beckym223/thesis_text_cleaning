@@ -1,10 +1,12 @@
 of any significant difference between risk premiums in prolonged slumps and in
 normal times. In particular, slumps are not times of high volatility in asset markets
 or elsewhere in the economy.
+
 The real rate is a basic price that clears the current labor and output markets. If
 the nominal rate is pinned at zero (rn = 0), the real rate is minus the rate of inflation:
 The hypothesis of a given, unresponsive rate of inflation achieves a crucial simplification
 of macro modeling. The hypothesis makes sense only in an economy that
+
 had adapted to stable low inflation for many years. And it's only an approximation.
 The US entered the slump with a history of low and stable inflation. Cost-of-living
 increases were concentrated in a narrow band around 2 percent per year since the
@@ -12,14 +14,20 @@ mid-1990s and were not much higher from the mid-1980s to 1990. An immediate
 issue following the sharp contraction in the last quarter of 2008 was whether
 inflation would fall and even turn into deflation as a result of the extreme slack that
 developed quickly. The answer, luckily, was no.
+
 The Great Slump brought slacker product markets to the US economy than had
+
 existed at any time since the depression in the 1930s. A line of thought rather deeply
 embedded in macroeconomics holds that product prices fall in slack markets. The
 logic is that sellers have much to gain by increasing output when output is low. On
 the reasonable assumption that marginal-cost curves slope upward, a contraction
 in output will cause a price-setting firm, irrespective of its market power, to cut its
 price in an attempt to take business away from its rivals.
+
 (5)
+
 Pt+i ~ Pt
+
 Pt
+
 VI. Near-Exogeneity of the Rate of Inflation

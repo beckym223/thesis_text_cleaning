@@ -4,11 +4,13 @@ a hump-shaped pattern that plays out over centuries. Adam Smith (1723-1790) has
 a Google Ngrams plot that did not peak until the 1880s, and has since been declining
 slowly for over a century. Karl Marx (1818-1883) has a Google Ngrams plot that
 did not peak until the 1970s.
+
 Taking the Kermack-McKendrick model as an illustration or metaphor, it would
 appear that this learning theory might imply that the total impact of an idea is measured
 by its Rqc long after the idea has ceased to be infectious. The long-run impact
 of an idea then is not testimony to its correctness, but rather to the c/r in the initial
 epidemic that popularized it.
+
 In applying the SIR model to social epidemics, we need also consider that narratives
 affect the contagion rates of other narratives that are seen to be on the same
 topic or that further inform. One new narrative may remind one of another that has
@@ -27,7 +29,9 @@ process of perfecting stories is one of trial and error, and responsiveness to t
 of things that go viral. A successful story entrepreneur may have a lifetime of failed
 attempts and perhaps only one or a few breakthroughs. The rare breakthroughs make
 the entire enterprise worthwhile.
+
 VI. Narrative Epidemics of Economic Theories
+
 Let us consider as an example the narrative epidemic associated with the Laffer
 Curve, a diagram created by economist Arthur Laffer in the theory of public finance.
 Let's curve the curve: look at Kermack-McKendrick curves for the narrative of the
@@ -39,6 +43,7 @@ event involving the US economist Art Laffer. In Figure 3, a plot of the frequenc
 of references to the Laffer Curve by year, from ProQuest News and Newspapers
 and by Google Ngrams, somewhat resembles the infectives plot of the KermackMcKendrick
 model in Figure 2.
+
 For both, the curves are choppy relative to the model, due to some publication
 noise, but show some of the hump shape. For news and newspapers, the frequency
 of use of the term Laffer Curve initially rises strongly, from 1977 to 1978, and then

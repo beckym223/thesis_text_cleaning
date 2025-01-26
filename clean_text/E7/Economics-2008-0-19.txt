@@ -1,5 +1,6 @@
 Notes: Evolution of policy-maker's beliefs about: (a) the natural rate of unemployment; (b)  the persistence of inflation in the Phillips curve; and (c) the slope of the Phillips curve in  King and Watson's Keynesian direction. Shaded areas are where the government (a) underes?  timates the natural rate of unemployment, (b) underestimates the persistence of inflation, and  (c) thinks that the sacrifice ratio is very large.
 Source: I have modified a figure of Primiceri (2006, p. 882).
+
 estimates of the evolution of the Fed's estimates of the natural rate of unemployment, the persistence
 of inflation, and the slope of the Phillips curve. Primiceri's Phelps problem attributes the
 acceleration of inflation to the monetary authority's initial underestimates of both the natural
@@ -10,4 +11,5 @@ problem attributes the monetary authority's reluctance to deflate to its overest
 of disinflation, as captured by the slope of the Phillips curve. We will return to this point in
 Section VIC, where we link it to the conceptual issues about direction of fit raised by King and
 Watson (1994).36
+
 than what prevails in the estimated model's self-confirming equilibrium. In addition to these initial conditions, Primiceri  sets two constant gain parameters, one for the natural rate, another for all other coefficients in the government's beliefs.  These calibrated objects, the data, and the parameters of the structural relations pin down the government's beliefs.  Primiceri uses maximum likelihood to estimate parameters appearing in the government's objective function and the  time-invariant structural equations.  36 Among many interesting features of Primiceri's results are his estimate of k> the parameter in the government's  one-period loss function that allows Primiceri to evaluate the government's temptation to deviate from the natural rate  (he finds that the temptation is small) and the time series that he extracts for v? which tracks a real interest rate very  well after 1980.

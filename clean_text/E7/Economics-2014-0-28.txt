@@ -8,14 +8,17 @@ workers when there are sufficiently low transactions costs of relaying informati
 Evidence from 0*Net on occupational characteristics demonstrates that certain
 features of occupations that create time demands and reduce the degree of substitution
 across workers are associated with larger gender earnings gaps.
+
 Data for MBAs and JDs shows large increases in gender pay gaps with time since
 graduation and also reveals the relationship between the increasing gender pay gap
 and the desire for time flexibility due to the arrival of children. Lower hours mean
 lower earnings in a nonlinear (convex) fashion. Lower potential earnings, particularly
 among those with higher-earning spouses, often means lower labor force participation.
 Pharmacists, on the other hand, have pay that is more linear with respect
+
 to hours of work. Female pharmacists with children often work part-time and remain
 in the labor force rather than exiting.
+
 What must be in this chapter for it to be the last? The last chapter must be concerned
 with how worker time is allocated, used and remunerated and it must involve
 a reduction in the dependence of remuneration on particular segments of time. It
@@ -24,6 +27,7 @@ the ability of workers to substitute seamlessly for each other. Flexibility at w
 become a prized benefit but flexibility is of less value if it comes at a high price in
 terms of earnings. The various types of temporal flexibility require changes in the
 structure of work so that their cost is reduced.
+
 There are many occupations and sectors that have moved in the direction of less
 costly flexibility. Firms in many sectors, including healthcare, retail sales, banking,
 brokerage, and real estate, are making their employees better substitutes for each other
@@ -38,6 +42,7 @@ hospitals. Self-employment has declined in a large number of professions the pas
 several decades including dentists, lawyers, optometrists, pharmacists, physicians,
 and veterinarians. The decline has produced a reduction in the premium to long and
 unpredictable hours.
+
 Some changes have occurred organically, often due to economies of scale (as in
 the cases of physicians, pharmacists and veterinarians), some changes have been
 prompted by employee pressure (as in the case of various physician specialties such

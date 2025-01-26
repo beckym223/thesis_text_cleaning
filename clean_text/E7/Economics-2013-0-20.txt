@@ -13,6 +13,7 @@ higher welfare, but because the budget constraint is nonlinear, we can't be cert
 this. The amount of shock absorption available from surprise changes in prices and
 interest rates depends on the size of the real debt, and the real debt is locally non
 stationary in this solution.
+
 However, the results with long and short debt contrast so sharply that this example
 does provide a reason for caution in interpreting the results of analyses like those
 of Schmitt-Grohé and Uribe (2001) and Siu (2004). These papers conclude that

@@ -1,24 +1,34 @@
 forecasts of growth over the same period. The second is that investors seem to give
 a small probability to a major increase in rates. Looking at 10-year inflation-in-dexed bonds, and using realized volatility as a proxy for implied volatility (option markets are not deep enough to derive implied volatility directly), suggests that the market puts the probability that the rate will be higher than 200 bp in 5 years around 5–15
 
+
 percent.41
+
 In short, one can surely not exclude the possibility that debt will indeed be more
 costly in the future, and the safe rate may exceed the growth rate. The welfare implications however are continuous, and for reasonably small positive differences between the interest rate and the growth rate, the welfare costs will remain small. The basic intuition remains the same. The safe rate is the risk-adjusted rate of return on capital. If it is higher but not much higher than the growth rate, lower capital accumulation may not have major adverse welfare effects.
 The third counterargument relies on the existence of multiple equilibria and may
 be the most difficult to counter.
+
 42 Suppose that the model above is right, and that
+
 investors believe debt to be safe and are willing to hold it at the safe rate. In this case, the fiscal cost of debt may indeed be zero, and the welfare cost may be small. If however, investors believe that debt is risky and ask for a risk premium to com-pensate for that risk, debt payments will be larger, and debt will indeed be risky, and investors’ expectations may be self-fulfilling.
 The mechanics of such fiscal multiple equilibria were first characterized by Calvo
 (1988), later on by Giavazzi and Pagano (1990), and more recently by Lorenzoni and Werning (2018). In this case, over a wide range of debt, there may be two
 equilibria, with the good one being the one where the rate is low, and the bad one characterized by a high risk premium on public debt, and a higher rate.
 43
+
 The question is what practical implications this has for debt levels.The first question is whether there is a debt level sufficiently low as to eliminate
 the multiplicity. If we ignore strategic default, there must be some debt level low enough that the debt is effectively safe and there is only one equilibrium. The proof is by contradiction. Suppose investors worry about risk and increase the required rate. As the required rate increases, the state may indeed default. But suppose that, even if it defaults, debt is low enough that, while it cannot pay the stated rate, it can pay the safe rate. This in turn implies that investors, if they are rational, should not and will not worry about risk.
 This argument however raises two issues. First, it may be difficult to assess what
 such a safe level of debt is: it is likely to depend on the nature of the government, its ability to increase and maintain a primary surplus. Second, the safe level of debt may be very low, much lower than current levels of debt in the United States or in Europe. If multiple equilibria are present at, say 100
 percent of GDP
+
 , they are likely
+
 to still be present at 90
+
 percent as well; going ho
+
 wever from 100
+
 percent of GDP to

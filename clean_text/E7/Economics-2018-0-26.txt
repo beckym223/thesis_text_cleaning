@@ -1,15 +1,20 @@
 that American prisons are filled with people convicted of drug offenses. The Federal
 Bureau of Prisons reports as of January 2018 that 46 percent of all inmates were convicted of drug offenses.
 77 Yet there are over 60,000 deaths a year from opioid
+
 overdoses in the United States. And users have large strategy sets: these deaths are split between Schedule I drugs like heroin and Schedule II prescription opioids. That is, opioids can be supplied both by criminal organizations that produce the drugs, and by the diversion or misuse of legal prescription drugs.
 78
+
 There is of course a simple economic model of rational crime and addiction that
 predicts that if the penalties are high enough, very few people will sell drugs ille-gally or use them, so that the prisons will be virtually empty and deaths from overdoses
 will be minimal. But that is not what we are seeing: there is some flaw in that market design.
 Yet not every badly functioning market is ripe for redesign.
+
 79 Sometimes the
+
 political and social obstacles to a good design, that historically caused a market to work poorly, persist. Thus, although there is a much bigger problem with opioids in the United States than in Europe (where there are fewer overdose deaths, and substantially less prescription of pain relief medicines), there is no clear politically feasible path forward for American policymakers who might wish, e.g., to decrimi-nalize narcotic addiction as in Portugal (Greenwald 2009), where the legal options successfully divert customers from the illegal ones. The most likely regulatory ave-nues to limit legal opioids will involve changing prescription practices to treat pain much less, or very differently (as is the case in many other countries).
 80
+
 Modest marketplace design changes in how we deal with the opioid crisis may
 be more quickly attainable (but by no means politically easy). Steps to reduce the harms of the drug markets are being explored in various venues. The most widely supported of these in the United States are needle exchanges to reduce the spread of infectious diseases among intravenous drug users (US Department of Health and Human Services 2016). More controversial are “drug checking” to allow purchasers of illegal drugs to have them tested for purity and potency (Hungerbuehler, Bhecheli, and Schaub 2011), and supervised injection facilities to promote safer drug injection practices and monitor potential overdoses (Potier et al. 2014). All of these are “harm reduction” measures intended to acknowledge the presence of active black markets, and to respond with modifications of these illegal marketplaces to give their partici-pants access to some ancillary infrastructure and services from legal sources.
 81

@@ -1,5 +1,7 @@
 The aggregate consumption data have mistreated (5) and the Euler equation
+
 (6) 1 - ^mt+l(xt+l)RJJ+l(xt+l)f(xt+l\x') dxt+l.
+
 One reaction has been to retain the rational expectations assumption but to add backward
 looking (see John Y. Campbell and John H. Cochrane 1999) or forward-looking (see Larry G.
 Epstein and Stanley E. Zin 1989) contributions to time t felicity. Another reaction has been to
@@ -20,13 +22,17 @@ Hansen and Sargent (2007), and Timothy Cogley and Sargent (2007), among others. 
 in Hansen (2007) is to extend rational expectations enough to understand the data better while
 retaining the econometric discipline that rational expectations models acquire by economizing
 on free parameters that characterize agents' beliefs.12
+
 D. Another Empirical Reason to Allow for Belief Heterogeneity
+
 Applied macroeconomists study data that can be weakly informative about parameters and
 model features. Ultimately, this is why differences of opinion about how an economy works can
 persist. The philosophy of Evan W. Anderson, Hansen, and Sargent (2003), Hansen (2007), and
 Hansen and Sargent (2007) is to let agents inside a model have views that can diverge from the
 truth in ways about which the data speak quietly and slowly.
+
 III. Rational Expectations Econometrics
+
 Ideas from rational expectations econometrics motivate stories and models that feature gaps
 between an objective distribution and the temporary subjective distributions used by a government
 that solves a sequence of intelligent design problems. I review econometric methods that

@@ -23,6 +23,7 @@ percent. If we make a rough correction for all of these issues, raising Asia/Pac
 India by 15 percent (same reasons as China), the Gini coefficient falls from 0.543 to 0.524. These
 calculations are for GDP; some of the corrections would have smaller effects for consumption,
 and some larger.
+
 The calculation in which all the corrections are done independently probably overstates the
 uncertainty about the Gini coefficient, although I find it hard to feel confident about even that.
 Yet earlier work by Albert Berry, Bourguignon, and Morrison (1983) also showed that Gini
@@ -34,6 +35,7 @@ weighting that emerge from both Tables 5 and 6. What is disconcerting is not the
 a cause or group of causes for the increase in measured inequality, but rather the sense that all
 of the intercontinental comparisons are fragile and can easily be disturbed by factors that we do  not know how to handle.
 V. Why Don't We Just Ask PeopleI
+
 now return to the main theme, the question of poverty measurement. My investigation of the
 ICP has shown that there are a number of ICP related questions about the poverty counts. But
 uncertainty about PPPs is not the only source of sensitivity in poverty measures. The national

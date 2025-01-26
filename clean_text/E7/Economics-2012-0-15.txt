@@ -6,12 +6,16 @@ contrast, Figure 6 compares two measures that deflate the McWage by price indexe
 that may be thought to measure the prices a consumer-worker faces for a basket
 of goods (containing both tradable and nontradable goods) that consumer-workers
 actually purchase.
+
 The more common measure of a purchasing-power-price (PPP) index from the
+
 ICP is used to deflate the McWage on the horizontal axis of Figure 6. A more uncon
 ventional measure of purchasing power is used to deflate the McWage on the ver
 tical axis: the price of a Big Mac. What is apparent from the comparison of the
 PPP-deflated McWage and the measure of Big Macs per Hour Worked (BMPH) is
+
 that they are very closely related.
+
 The reason for this is apparent from Figure 7, which plots the Big Mac price
 against the US dollar measure of the McWage. The motivation for this plot is
 equation (3), which displays the same concave form as is displayed in the figure.

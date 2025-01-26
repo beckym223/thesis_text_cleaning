@@ -11,6 +11,7 @@ argument that the effectiveness of QE can be evaluated by looking at the behavio
 longer-term yields during periods of active  central-bank purchases. The flow view
 would be correct if QE affected asset prices and yields primarily through  short-run
 liquidity effects.
+
 However, the stock view conforms better to the underlying theory and has better
 empirical support (D’Amico and King 2013). Substantial research has tried to
 quantify the dynamic relationship between yields and the relative supplies of securities
@@ -22,6 +23,7 @@ and the maturing of existing securities, and they developed reasonable measures 
 market expectations of future purchases. They also incorporated estimates of new
 Treasury debt issuance, which partially offset the effects of the Fed’s purchases on
 the net supply of government debt (Greenwood et al. 2014).
+
 Putting these elements together, Ihrig et al. (2018) found significant effects of
 the Fed’s asset purchase programs on Treasury yields. For example, their estimates
 suggest that, at inception, QE1 reduced the  10-year term premium by 34 basis

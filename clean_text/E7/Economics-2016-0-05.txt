@@ -3,12 +3,15 @@ other hand, is quite a different matter. Most of us play chess terribly and woul
 no chance of beating a free program on our smartphones, much less a grandmaster.
 So, it makes no sense to assume that the representative agent plays chess as well as
 tic-tac-toe. But that is essentially what we assume in economics.
+
 When we assume that agents maximize utility (or profits) we do not condition
 that assumption on task difficulty. We assume that people are equally good at deciding
 how many eggs to buy for breakfast and solving for the right amount to save for
 retirement. That assumption is, on the face of it, preposterous. So why has it stuckThere
 has been a litany of explainawaytions.
+
 A. Aí If
+
 Grumblings within the profession about the so-called "marginalist revolution"
 were present in the 1940s, and this journal published several articles debating the
 realism of the theory that firms set output and hire workers by calculating the point at
@@ -18,9 +21,11 @@ firms how they actually made such decisions. Whatever firms were doing did not
 seem to be captured by the term "equating at the margin," and Lester (1946, p. 81)
 ended his paper this way: "This paper raises grave doubts as to the validity of conventional
 marginal theory and the assumptions on which it rests." Machlup (1946)
+
 took up the defense of the traditional theory and argued that even if firm owners did
 not know how to calculate marginal costs and revenues, they would make decisions
 that would closely approximate such choices using their intuitions.
+
 Machlup's defense was refined and polished by Friedman (1953, p. 21) in his
 famous essay "The Methodology of Positive Economics." Friedman brushed aside
 questions about the realism of assumptions and argued that instead theories should
@@ -35,7 +40,9 @@ not based on the belief that billiard players, even expert ones, can or do go th
 the process described; it derives rather from the belief that, unless in some way or
 other they were capable of reaching essentially the same result, they would not in
 fact be expert billiard players."
+
 Friedman had a well-deserved reputation as a brilliant communicator and
+
 debater, and those skills are on full display in this passage. Using the mere
 two-word phrase "as if," Friedman essentially ended the debate about the realism
 of assumptions in economics. But given proper scrutiny, we can see that this passage

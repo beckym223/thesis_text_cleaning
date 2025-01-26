@@ -1,16 +1,19 @@
 real wage has increased; w/w is thus a real wage index from the worker's point
 of view.
+
 It is easy to show that w* is increasing in prices, p, as would be expected. But it
 is also easy to show that w* is decreasing in nonwork income, y. In other words,
 the lowest wage rate that permits a worker to reach the reference utility level, v*,
 increases when prices increase, but it decreases when nonlabor income increases.
 Approximating the effect of prices on w* raises all the usual problems of index num
 ber base levels (Deaton 2010) and purchasing power parity measurement.
+
 An interesting insight from this formulation is that comparisons of real wage rates
 for economies where nonwork income differs substantially may be seriously mis
 leading. Wage rates in economies that provide economic safety nets, for example,
 may result in lower work effort, but real wage rates in such economies are higher
 than a simple price adjustment applied to the nominal wage would imply.
+
 In most applications it is not possible to measure nonwork income. Pencavel
 (1977) suggests simply assuming that nonwork income does not differ in the dif
 ferent places or times where wage rates are being compared. Using this assump
@@ -18,16 +21,20 @@ tion, and estimates of the necessary parameters from Abbott and Ashenfelter (197
 Pencavel shows that the conventional measure of the real wage index provides a
 workable approximation to the constant-utility real wage rate even when wage rates
 change substantially.
+
 Another interesting feature of a constant-utility real wage index is that it provides
 a way to measure welfare differences that does not depend on any assumption about
 competition in product or labor markets, or about the absence of minimum or maxi
 mum wage regulations. Although product market monopoly or labor market mon
+
 opsony reduces real wage rates, this is fully reflected in a lower real wage rate and
 a lower level of worker welfare. Likewise, a wage regulation that increases the real
 wage results in a higher level of worker welfare. On the other hand, the existence
 of quantity restrictions on work effort, such as unemployment, implies that the real
 wage alone is not a sufficient indicator of welfare differences.4
+
 B. Real Wage as Marginal Product of Labor
+
 At the same time that the real wage rate determines labor supply, it also plays
 a key role in the demand for labor. A profit-maximizing firm treats the wage rate
 as the price of labor and hires workers to the point where the value of an addi

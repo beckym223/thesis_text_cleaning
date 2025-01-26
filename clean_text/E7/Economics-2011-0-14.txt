@@ -3,9 +3,11 @@ could sell it, convert the proceeds to currency, and earn a safe higher return. 
 market prices of bonds would fall so that their returns rose to zero. Consequently,
 as long as the Fed will give currency in exchange for reserves dollar for dollar, the
 interest rate cannot be negative.
+
 Figure 11 shows that the Fed pushed the nominal interest rate to almost zero
 immediately after the crisis and is expected to keep it there for a total of three full
 years at zero.
+
 The term real interest rate is generic for a concept more precisely identified as an
 own rate. The latter is a rate measured in the physical units of some product. The
 own rates that matter in this analysis are those for consumption goods and services,
@@ -15,8 +17,11 @@ products relative to output as appropriate to generate the corresponding own ret
 I denote the safe nominal rate as rn but for most of the analysis take rn ? 0. The real
 rate is the return measured in output units available from a one-period investment at
 the safe nominal rate:
+
 (4) r, = (1 + rJjgL - 1,
+
 where p is the dollar price of output.
+
 Other real returns follow the same rule, all applying the same rate of inflation. I
 neglect any changes in risk, so when I assume that the safe short-term real return
 is roughly constant, I am assuming that returns for all assets of whatever risk are

@@ -4,6 +4,7 @@ to 15 percent in earlier rounds. If the portfolio balance channel is operating,
 that news should have led to a decline in the prices and a rise in the yields of the
 longer-maturity bonds, relative to those with shorter maturity. That was indeed what
 the authors found.
+
 Cahill et al. (2013) performed similar analyses of QE1, the Fed’s decision in
 August 2010 to keep its asset holdings constant by reinvesting the proceeds of
 maturing securities, the Maturity Extension Program, and the extension of the MEP
@@ -15,6 +16,7 @@ or as the size of the central bank’s balance sheet increases. These results, w
 have been replicated in a number of studies, including for the United Kingdom,
 once again do not support the view that QE is only effective when markets are
 dysfunctional.9
+
 Cahill et al. (2013), like most studies in this literature, looks at the differential
 impact of asset purchase programs on Treasury debt of varying maturity. But
 the Fed’s purchase programs also differed in how they treated Treasuries versus
@@ -34,6 +36,7 @@ by only about half as much, consistent with the portfolio balance effect. In con
 they found that QE2 and the Maturity Extension Program, neither of which included
 MBS purchases, did not differentially affect rates on  GSE-eligible mortgages and
 jumbo mortgages.
+
 Note that studies of the  cross-sectional  asset-price impacts of QE announcements
 should reflect only portfolio balance effects. Studies have also found evidence of signaling
 effects, that is, QE announcements tend to be associated with changes in the

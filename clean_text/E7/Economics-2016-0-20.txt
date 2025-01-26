@@ -1,5 +1,6 @@
 of 6 percent - the largest value they could justify was 0.35 percent. As a result of
 this calibration exercise a long and interesting literature ensued.
+
 Although such examples of predictions about magnitude are uncommon, economic
 theory does make some rather precise predictions about effect sizes, namely
 for variables that should have no effect at all on behavior. For example the following
@@ -8,8 +9,10 @@ displayed, the salience of one option over another, the presence of a prior sunk
 (or gain), whether the customer at a restaurant can see the dessert options when
 choosing whether to stick to the planned diet, and so forth. I call these, and a multitude
 of other possible variables that can and do influence choices, "supposedly
+
 irrelevant factors" or SIFs. One of the most important ways in which behavioral economics
 can enrich economic analyses is by pointing out the SIFs that matter most.
+
 One domain in which the potential importance of SIFs has been best documented
 is retirement saving. In a standard life-cycle model Econs compute their optimal
 consumption path and then implement a plan of saving, investing, and eventually
@@ -21,6 +24,7 @@ it should not be surprising that many Humans have trouble dealing with retiremen
 saving in a defined-contribution world in which they have to make all the decisions
 themselves. However, it has been possible to help people with this daunting task
 with the aid of some SIFs.
+
 The first SIF that has been important in helping people to save for retirement is
 the intelligent use of the default option. In a world of Econs, especially when the
 stakes are as high as they are for retirement saving, it should not matter whether
@@ -29,6 +33,7 @@ plan unless he opts in. The cost of ticking a box and filling out a form must be
 compared to the benefits of receiving a company match and tax-free accumulations
 for decades. Nevertheless, changing the default has had an enormous impact on the
 utilization rates of 401(k) plans.
+
 The first paper to document this effect was Madrian and Shea (2001) using data
 from a company that had adopted what is now called "automatic enrollment" in
 1999. Previously, to join the 401(k) plan employees had to fill in some forms, and
@@ -42,6 +47,8 @@ enrollment is widespread. More than half of large US employers are using the con
 and the United Kingdom is in the process of rolling out a national defined contribution
 savings plan with this feature. Most plans, including the national UK plan,
 find that opt out rates are around 10 percent.
+
 One problem with automatic enrollment is that many plans initially enroll
+
 employees at a low savings rate; in the United States it is often just 3 percent of pay.
 As Madrian and Shea pointed out in their initial paper, such a low ini

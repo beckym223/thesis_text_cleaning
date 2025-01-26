@@ -1,6 +1,8 @@
 Slovenia, South Africa, and Zambia. As suggested by Diewert (2008), these detailed ring prices
 were used in a modified version of the CPD regression (1)
+
 (3) \npf - In/?/7" = cy? + 7/ +
+
 where p-'f is the ring price for item j in basic head / in country c in region r, p[r is the previ
 ously established regional parity for basic head /, from (3), and the right-hand side variables are
 regional and item dummies. Intuitively, each item price in the ring, p-- \ the price of shrimp (j) in
@@ -13,6 +15,7 @@ exp(a/"), which are unity for the numeraire region (OECD-Eurostat). These "price
 with the regional aggregates of expenditures on each basic head expressed in regional numeraire
 currency, are used in a global multilateral aggregation to give regional PPPs, one index for each
 region, that allow the within-region PPPs to be scaled up to global PPPs.
+
 Four specific aspects of this ICP construction are of concern here. First, the absence of weights
 within basic headings, including the lack of representativity weights, may result in basic head
 ings being priced using high-priced unrepresentative goods that are rarely consumed in some

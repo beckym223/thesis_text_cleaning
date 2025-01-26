@@ -1,9 +1,13 @@
 Cj r+1
+
 et = -£±, if s, > o.
+
 Let savings be represented by W, — S, + Bt/Pt. Logarithmic utility makes solution
 easy because it implies that whatever the rate of return to savings, call it p„ we will
 have p = C2,r+i/Clr, and this in turn implies that
+
 Thus savings is always half the endowment, i.e., 0.5.
+
 This economy has an equilibrium in which there is no storage and nominal debt
 has value (i.e., P, < oo). With no storage, Cu = 0.5 and, since savings is all used to
 buy debt from the older generation, C2, = 0.5 also. This means p, = 1 and therefore
@@ -14,13 +18,16 @@ The economy also has equilibria in which S(>0, however. In these equilibria, of
 course, p = 9 = RPt/Pt+l. In other words, The price level grows not at the rate R,
 but at the higher rate R/0. The nominal debt still grows at the rate R, however, so the
 real debt shrinks over time, with
+
 The economy can start with any Bx/ Px < 0.5. Storage will then be 5] = 0.5 —
 Bx/P{. In subsequent periods, S, increases toward 0.5 as the real value of savings in
 the form of nominal bonds shrinks toward zero.
+
 In other words, every initial price level PA that exceeds 2RB0, including P{ = oo
 (in which case bonds are valueless and all savings is in the form of storage), corre
 sponds to a perfect-foresight equilibrium in this economy. This is an economy with
 an indeterminate price level.
+
 Note that the economy's resource constraint is Cu + C2, + S, — 1 + 9S,_i: con
 sumption and storage by the young plus consumption by the old is endowment of
 the young plus the proceeds from storage by the old. Since in all the equilibria

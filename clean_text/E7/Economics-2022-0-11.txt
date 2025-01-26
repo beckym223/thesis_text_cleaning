@@ -2,7 +2,9 @@ end of the labor market, firms respond to  wage-setting choices by their competi
 (Derenoncourt et al. 2021). It therefore seems necessary to move beyond the “no
 strategic interactions” case considered in several recent studies. Berger, Herkenhoff,
 and Mongey (2021) have made some initial progress in this direction.
+
 B. Who Should Study Wage SettingOnce
+
 we accept that firms set wages, the analysis of wage setting becomes a part
 of labor economics, just like the analysis of price setting is a part of IO. Right now,
 much of the practical discussion of wage setting is done by  noneconomists. Human
@@ -14,10 +16,13 @@ very little to say about questions like the design of online labor markets, or t
 effects of  no-solicitation or  no-poaching agreements—other than that they should
 not matter. We also distanced ourselves from other economists—particularly those
 in IO—who were busy developing useful models of market power and strategic
+
 decision making.
+
 One of the most exciting developments in the field today is the evidence of labor
 economists taking questions about wage setting seriously. This effort began with
 Manning’s (2003) landmark book: I hope that the growing body of work since
+
 then finds its way into the classroom and into the textbooks soon. I also expect this
 work to lead to some  rethinking on policies such as minimum wages, the regulation
 of trade unions, and  anti-trust (see Langella and Manning 2021, and Naidu and

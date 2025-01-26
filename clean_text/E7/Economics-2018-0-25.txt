@@ -1,20 +1,25 @@
 There’s still a lot to learn about the range of markets that could benefit from
 centralized clearinghouses, and, more generally, which forms of marketplaces best
 facilitate which kinds of markets.
+
 But that question supposes that we want to facilitate markets. There are often
 markets that a substantial number of people wish to impede or prevent entirely, but that others wish to participate in. These present different kinds of market design problems.
 IV . Repugnant T ransactions, Forbidden Markets, and Black Markets
+
 Tastes differ, so it is not surprising to find transactions that some people find
 appealing and others find appalling.74 More puzzling are transactions that some
 people would like to engage in but that others would like to forbid, even when negative externalities are hard to identify or measure. I’ll reserve use of the word “repugnant” for these latter kinds of transactions, as in Roth (2007).
 Same-sex marriage is an example of such a transaction: two people would like
 to marry each other, while others don’t think they should be allowed to. Laws and customs preventing same-sex marriage have been struck down around the world in recent decades, amid considerable political turmoil. In the US, these laws fell state by state through a combination of court decisions, legislation, and referenda, culminating in a Supreme Court decision in 2015 making same-sex marriage legal in every state. (This decision came a half-century after the Supreme Court decision that legalized interracial marriage in every state.)
 75
+
 Laws that criminalize or strictly limit transactions sometimes contribute to the
 design of black markets. For example, in the United States it was illegal to sell most alcohol during Prohibition (1920–1933), and today prostitution and narcotic drugs like heroin are broadly illegal throughout the United States. But black markets for alcohol were widespread during Prohibition, and both sex and narcotics are readily found for sale in many American venues today.
 Markets for drugs provide a clear example of how illegal markets can thrive.
 Under American law, opioids and other drugs with a high potential for abuse and addiction are legally classified as either Schedule I drugs, like heroin, which have no currently accepted medical use in the United States, or Schedule II drugs, like oxycodone and fentanyl, which are available as prescription painkillers, but cannot be sold or administered legally except when prescribed by a physician.
 76 The law
+
 pro
+
 vides severe penalties for sale, resale, or inappropriate prescription of such drugs,
 and is vigorously enforced—often with mandatory minimum sentencing laws—so

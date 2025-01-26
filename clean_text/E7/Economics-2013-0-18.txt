@@ -1,27 +1,42 @@
 dR\ H,E,ut+1 = ¡3Et[ist+l\t+1]b,
+
 (36) dv. (yt- 1) = — A tRt_xb,_x +n,_lR,_lp.
+
 These first order conditions look complicated, but when 9 = 0, so that there is no
 cost to inflation, they collapse to a surprisingly simple solution. To keep things
 neat, we assume /3p = 1. From the b and R FOCs and the Fisher equation (31) we
 can derive
+
 (37) b,X, = n,p.
+
 Substituting into the v first order condition, we arrive at
+
 (38) {y, - 1) = (—A, + \,-\)Rt-\bt_x = (r, - T,_x)Rt_ib,_
+
 If 9 = 0, this lets us conclude that r, = rf_j, so long as Rt_\ and b,_l are both posi
 tive. With T, constant and g, exogenous and stochastic, (31) is an unstable equation.
 Feasibility (b > 0) and transversality (b, —> oo while future r's are constant cannot
 be optimal) imply that b must not explode. This implies that we can solve the budget
 constraint (32) forward to produce
+
 (39)
+
 b,
+
 P- 1
+
 -E,
+
 PC
+
 E s= 1
+
 P gt+S
+
 In the special case where g is i.i.d., b is constant, b is maintained at these stability
 consistent values by fluctuations in u„ the inverse inflation rate, that offset the effects
 of g on the real value of the debt.
+
 So far, we have derived an analogue in this simple model of the Lucas-Stokey
 result, by setting 9 = 0. We can also consider 9 = oo, i.e., a case where the price
 level is kept constant and only real government debt exists. Then we drop the v first
@@ -29,6 +44,7 @@ order condition, because v is no longer freely chosen, and use the fact that vt 
 Then the b first order condition lets us conclude that E,rt+l = r„ and we are back
 to Barro's (1979) conclusion (since we are now back to Barro's model, which had
 only real debt).
+
 The cases of most interest, though, are those with 0 < 9 < oo. For these cases,
 we want to contrast this version of the model with one in which government debt is
 not only nominal, but long term. We will consider the extreme case of consol debt,

@@ -1,4 +1,5 @@
 I. Introduction
+
 There is a long history of measuring, recording, and comparing real wage rates,
 dating at least from the Price Edicts of Diocletian in 301 AD.1 A nominal wage rate
 ($/hour) divided by the price of a good ($/good), is a transparent measure of how

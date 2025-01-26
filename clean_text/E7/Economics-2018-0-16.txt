@@ -2,19 +2,27 @@ In the early 1950s, a collection of medical groups proposed and implemented a
 centralized clearinghouse. Applications and interviews would go on as before, but
 instead of being followed by decentralized offers and acceptances or rejections, both applicants and directors of hospital residency programs would be invited to sub-mit a rank ordering (in order of preference) of those they had interviewed. That is, applicants would submit a rank ordering of the positions to which they still wished to apply after interviewing (i.e., a first choice, second choice, etc.), and program directors (who I will call “hospitals”) would submit a rank ordering of applicants
 they had interviewed and would be willing to hire.
+
 An algorithm would process these preference lists and propose a matching of
 applicants to hospitals, and the matched parties were encouraged to exchange promptly a signed contract.
 49 After a little trial and error, an algorithm was settled
+
 on that was later shown (in Roth 1984) to produce a stable matching, in the sense,
 defined by Gale and Shapley (1962), that no applicant and hospital who were not matched to one another would both prefer to be matched to the other than to their proposed match, and thus form a “blocking pair.”
 50 The empirical evidence is that
+
 producing a matching that is stable in this way is important for the long-term suc-cess of this kind of clearinghouse (see, e.g., Roth 1991a, Kagel and Roth 2000). The importance of stable matchings for the success of a clearinghouse is closely related to the fact that market participants have large strategy sets that may involve actions taken outside of the marketplace. If a matching is not stable, then there are blocking pairs of doctors and hospitals not matched to one another who would both prefer to be, and it is often hard to prevent them from circumventing the marketplace and matching together.
 51
+
 But another important feature of the computerized clearinghouse was how it
+
 eliminated congestion that arose when offers were made in a decentralized way.52
 The easiest way to see this is to consider a version of the Deferred Acceptance
 algorithm defined by Gale and Shapley, which is the basis for the more complicated algorithm now used. It takes as input the preference lists submitted by the applicants and hospitals, and performs the following operations (phrased here as if the indi-viduals involved were making and responding to applications, but all performed at computer speed).
 •
+
 Initially
+
 , each applicant applies to his/her top choice hospital, and each hospital
+
 h with q positions holds the top q applications among the acceptable applica-tions it receives, and rejects all others.

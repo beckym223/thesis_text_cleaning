@@ -1,22 +1,40 @@
 assume that benefits and taxes are paid to, or levied on, the young. In this case, the
 budget constraints faced by somebody born at time
+
 t
+
 are gi
+
 ven by
-C
-1t   =  ( W t   + X +   (1 −  R  t  f   ) D)  −  ( K t   + D)  =  W  t   + X −   K  t   − D R   t  f  ,
 
 C
+
+1t   =  ( W t   + X +   (1 −  R  t  f   ) D)  −  ( K t   + D)  =  W  t   + X −   K  t   − D R   t  f  ,
+
+
+C
+
 2t+1   =  R t+1    K t   + D R   t+1  f   .
+
 So, a constant le
+
 vel of debt can be thought of as an intergenerational transfer, with
+
 a small difference relative to the case developed earlier. The difference is that a generation
 born at time
+
 t  mak
+
 es a net transfer of
+
 D R
+
 t  f   when young, and receives, when old,
+
 a net transfer of  D R
+
 t+1  f   , as opposed to the one-for-one transfer studied earlier. Under
+
 certainty, in steady state,   R
+
 f   is constant and the two are equal. Under uncertainty, the

@@ -3,11 +3,14 @@ relevance of increasing returns to scale and increased concentration.33 If so, t
 earnings rate reflects not only the marginal product of capital, but also rents. By
 implication, the market value of firms reflects not only the value of capital but also the present value of rents. If we take all of the increase in the ratio of the market value of firms to capital at replacement cost to reflect an increase in rents, the dou-bling of the ratio implies that rents account for roughly one-half of earnings, and the marginal product of capital for the other half.
 34,35
+
 As with many of the issues raised in this lecture, many caveats are in order, and
 they are being taken on by current research. Movements in Tobin’s q, the ratio of market value to capital, are often difficult to explain.
 36 Yet, the evidence is fairly
+
 consistent with a decrease in the average marginal product of capital, and by impli-cation, a smaller welfare cost of debt.
 V . A Br oader View: Arguments and Counterarguments
+
 So far, I have considered the effects of debt when debt was used to finance intergenerational
 transfers in a full employment economy. This was in order to focus on the basic mechanisms at work. But it clearly did not do justice to the potential ben-efits of debt finance, nor does it address other potential costs of debt left out of the model. The purpose of this last section is to discuss potential benefits and potential costs. As this touches on many aspects of the economy and many lines of research, it is informal, more in the way of remarks and research leads than definitive answers about optimal debt policy.
 Start with Potential Benefits.—Even within the strict framework above, the focus

@@ -1,5 +1,6 @@
 and Williams (2003); see also Bauer and Rudebusch (2017). All of these estimates
 are in the  2–3 percent range in nominal terms. 24
+
 On the other hand, Kiley (2019) has recently argued that, when global factors
 are taken into account, the best estimate of the real neutral rate in the United States
 might be much lower than the current consensus, perhaps as low as −1 percent,
@@ -15,6 +16,7 @@ persistent but ultimately fading  after-effects of the crisis as well as of shor
 aggregate demand in some major foreign economies. On the other hand, perhaps the
 overheated financial conditions before the crisis kept rates artificially high, and the
 recent downward trend in the neutral rate will continue.
+
 If the nominal neutral rate in the United States does ultimately prove to be as
 low as 1 percent, as Kiley finds, then moving that rate higher—to provide more
 monetary policy space, and perhaps for other reasons including reducing financial
@@ -26,6 +28,7 @@ fiscal policy, for example, by increasing the use of automatic stabilizers. And 
 whatever the levels of the neutral rate, it is essential that the Fed keep inflation
 expectations near target, defending against inflation shortfalls as vigorously as
 it defended against  too-high inflation in the past.
+
 My simulation results apply only to the United States and cannot be directly
 extended to other countries. Two conclusions of this lecture can safely be extended,
 however: that the new monetary tools are effective and should remain in the policy

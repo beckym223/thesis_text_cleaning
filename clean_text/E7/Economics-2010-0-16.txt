@@ -24,6 +24,7 @@ the regional PPPs for Africa and Asia-Pacific had been half their actual size, s
 were 1.21 and 1.165 rather than 1.42 and 1.33, half the difference in the standard deviation of logs
 in per capita GDP would disappear. Without the upward revisions to the African and Asia-Pacific
 PPPs, there would have been no increase in measured inequality.
+
 The 2005 ICP has price data for 146 countries, many of which were imputed in earlier rounds,
 either by comparison with countries at a similar level of development, or by updating old data, or
 some combination of the two. For countries without benchmarks, the PPP correction factor, the
@@ -35,6 +36,7 @@ in international dollars, and deliver unbiased estimates in ideal conditions. Ho
 values will have fewer cross-country variations than the unobserved true values. If \npy is the
 logarithm of the price of GDP?the ratio of the PPP to the average exchange rate?the regression
 for imputation in its simplest form is
+
 where yA is per capita GDP in US dollars converted at market exchange rates; using the World
 Development Indicators, 8X is typically estimated to be around 0.25. Imputed per capita GDP in
 international prices is  A. Country Coverage, Imputations, and Inequality

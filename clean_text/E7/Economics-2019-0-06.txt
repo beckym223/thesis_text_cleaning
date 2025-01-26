@@ -1,15 +1,20 @@
 growth rate, the ratio of debt to GDP decreases over time; a sequence of adverse shocks
 may however increase the safe rate sufficiently so as to lead to
+
 e
+
 xplosive dynamics,
+
 with higher debt increasing the safe rate, and the higher safe rate in turn increasing debt over time. Second, with respect to desirability: a successful debt rollover can yield positive welfare effects, but less so than the transfer scheme. The reason is that a debt rollover pays people a lower rate of return than the implicit rate in the transfer scheme.
 The conclusion of Section III is that the welfare effects of debt depend not only on
 how low the average safe rate is, but also on how high the average marginal product is. With this in mind, Section IV returns to the empirical evidence on the marginal product of capital, focusing on two facts. The first fact is that the ratio of the earnings of US corporations to their capital at replacement cost has remained high and rela-tively stable over time. This suggests a high marginal product, and thus, other things equal, a higher welfare cost of debt. The second fact, however, is that the ratio of the earnings of US corporations to their market value has substantially decreased since the early 1980s. Put another way, Tobin’s q , which is the ratio of the market value of
 capital to the value of capital at replacement cost, has substantially increased. There are two potential interpretations of this fact. First, that capital at replacement cost is poorly measured and does not fully capture intangible capital. Second, that an increasing proportion of earnings comes from rents. Both explanations ( which are
 the subject of much current research)  imply a lower marginal product for a given
 measured earnings rate, and thus a smaller welfare cost of debt.
+
 Section V goes beyond the formal model and places the results in a broader but
 informal discussion of the costs and benefits of public debt.
+
 On the benefit side, the model above has looked at debt issuance used to finance
 transfers in a full employment economy; this does not do justice to current policy discussions, which have focused on the role of debt finance to increase demand and output if the economy is in recession, and on the use of debt to finance public invest-ment. This research has concluded that, if the neutral rate of interest is low and the effective lower bound on interest rates is binding, then there is a strong argument for using fiscal policy to sustain demand. The analysis above suggests that, in that very situation, the fiscal and welfare costs of higher debt may be lower than has been assumed, reinforcing the case for a fiscal expansion.
 On the cost side, ( at least)  three arguments can be raised against the model above

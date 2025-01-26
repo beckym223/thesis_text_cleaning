@@ -7,6 +7,7 @@ game and cannot be linked to some larger set of payoffs. The power of tariffs is
 they are external to the RPD game (i.e., they are part of a different game). Because
 participation in the trade system has such large benefits to countries, these benefits
 can be used to induce participation in the climate game.
+
 A second critical feature of tariff-sanctions is that they are incentive-compatible.
 Many sanctions have the disadvantage that they penalize the penalizer. For example,
 if Europe puts sanctions on Russian energy companies, this is likely to raise energy
@@ -21,11 +22,15 @@ tariffs apply bilaterally, they can support an efficient equilibrium for global 
 goods for a large number of countries as long as the optimal-tariff effect operates.
 Figure 1 shows numerically how the tariff-sanction imposes costs and conveys benefits
 in a manner that aligns sanctions with external effects.
+
 H. Prices or QuantitiesThe
+
 Climate Club discussed here focuses on carbon prices rather than emissions
+
 reductions as the central organizing principle for an international agreement. While
 at an abstract level either approach can be used, a review of both theory and history
 suggests that use of prices is a more promising approach.
+
 Quantitative targets in the form of tradable emissions limits have failed in the
 case of the Kyoto Protocol, have shown excessive price volatility, lose precious
 governmental revenues, and have not lived up to their promise of equalizing prices
@@ -38,6 +43,9 @@ allowances, and they are less prone to corruption. This discussion is clearly
 just a sketch, but it provides some of the reasons for preferring price over quantity
 targets as part of an international climate regime. (For an extended discussion of the
 relative merits of prices and quantities, see Nordhaus 2013.)
+
 I. How to Get StartedAn
+
 important question is, how would a top-down Climate Club get startedWho
+
 would define the regime? Would it begin with a grand Bretton-

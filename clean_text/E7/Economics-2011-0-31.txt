@@ -1,6 +1,9 @@
 IX. The Model's Implications for an Economy Hit by Adverse Forces
+
 when the Real Interest Rate Is Pinned
+
 A. Scenario
+
 I focus on a particular scenario to illustrate the principles. The scenario is only
 loosely connected to actual events in the current slump. I consider an economy with
 a fixed inflation rate at just below zero (ir ? ? 0.12 percent per year decline). The
@@ -11,6 +14,7 @@ households with debt-service commitments of 6.7 percent of GDP that are graduall
 declining by 2 percent per quarter (st = (0.067)(0.98')). There is a financial friction
 /equivalent to a property tax on both types of capital at 2 percent per year, gradually
 declining at the same rate as for 5*.
+
 I solve the model over a long horizon (40 years) with the initial conditions just
 described. Macroeconomists often describe a dynamic model's properties in terms
 of impulse response functions showing how an unexpected shock affects the key
@@ -18,7 +22,9 @@ variables starting from the time of the shock. My approach is different, because
 forces that became so harmful in the Great Slump did not strike as a shock, except for
 the financial friction, but rather built up over about half a decade. Online Appendix D
 discusses the relation between my approach and impulse response functions.
+
 B. Results
+
 Figure 17 shows the response of the unemployment rate to the combined effects
 of the three adverse forces. Unemployment starts at a very high rate above 30 percent
 and gradually declines during the four years that the interest rate is blocked

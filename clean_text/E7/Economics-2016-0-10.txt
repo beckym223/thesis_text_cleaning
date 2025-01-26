@@ -3,8 +3,10 @@ they owned it, and also to choose which of the bets they would rather have. The 
 "preference reversal" emerged from the fact that of those who preferred the p-bet,
 a majority reported a higher selling price for the $-bet, implying that they valued it
 more than the p-bet.
+
 Grether and Plott (1979) were perplexed by this finding and set out to determine
 which mistake the psychologists must have made to obtain such an obviously
+
 wrong result. Since the original study was based on hypothetical questions, one of
 the hypotheses Grether and Plott investigated was whether the preference reversals
 would disappear if the bets were played for real money. (They favored this hypothesis
@@ -16,14 +18,18 @@ but preference reversals did not thereby vanish; rather, their frequency went up
 the nearly 40 years since Grether and Plott's seminal paper, I do not know of any
 findings of "cognitive errors" that were discovered and replicated with hypothetical
 questions but then vanished as soon as significant stakes were introduced.
+
 C. The Invisible Handwave
+
 There is a variation on the "if there is enough money at stake people will behave
 like Econs" story that is a bit more complicated. In this version markets replace the
 enlightening role of money. The idea is that when agents interact in a market environment,
 any tendencies to misbehave will be vanquished. I call this argument the
+
 "invisible handwave" because there is a vague allusion to Adam Smith embedded
 in there somewhere, and I claim that it is impossible to complete the argument with
 both hands remaining still.
+
 Suppose, for example, that Homer falls prey to the "sunk cost fallacy" and always
 finishes whatever is put on his plate for dinner, since he doesn't like to waste money.
 An invisible handwaver might say, fine, he can do that at home, but when Homer

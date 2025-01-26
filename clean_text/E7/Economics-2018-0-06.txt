@@ -1,4 +1,5 @@
 I. The Mark et for New Economists
+
 Consider, as a familiar example, the marketplace for interviews between employers
 and new PhD economists conducted at the winter meeting of the Allied Social
 Sciences Associations (ASSA), organized by the American Economic Association.14
@@ -6,12 +7,15 @@ This marketplace facilitates many of the matches of departments and new PhDs for
 The larger market for new economists extends beyond this marketplace for interviews.
 Not everyone chooses to participate in interviews of this sort, and even for those who do, the market extends in time and space. Earlier, there are positions to be advertised, applications to be made, and reference letters to be sent, today, often via internet clearinghouses. As interviews are being arranged, there are signals of particular interest to be transmitted, including formal signals organized by the AEA (cf. Coles et al. 2010). Later there are flyouts, and offers to be made and accepted or rejected. Later still there is a “scramble” website organized by the AEA to help organize the market for those not yet matched in the main market.
 15 These marketplace
+
 institutions were established incrementally, over time.
+
 Before the early 1970’s, many economics departments did not formally advertise
 faculty positions, even for new PhDs. Instead, positions were filled through informal,
 decentralized communications, with the result that there was not a clear time at which most jobs and applicants were known to be available. The AEA began publishing Job Openings for Economists around 1974, which helped make information
 about positions widely known. This made it easier for many economists to apply for each position, and for each applicant to apply to many positions. This trend toward more applications (per position and per applicant) was enhanced by changes in technology from typewriters and snail mail to word processors and the internet. These changes lowered the costs, in labor, time, and postage, of crafting and sending applications. Similar changes have lowered the costs to faculty advisors or their assistants of sending letters of reference.
 16 A common medium on which
+
 most jobs were advertised in a relatively concentrated period, together with lowered costs of application, helped make the market thick, i.e., helped bring together many employers and job seekers at the same time.
 Thick markets may suffer from congestion. By congestion I mean the accumulation
 of more time-consuming activities than can easily be accommodated in the time available. Evaluating many job opportunities, or many applicants, is time consum-ing. Organizing interviews at the ASSA meetings helps to deal with this congestion, because many interviews can be conducted in a short time once the candidates and recruiting committees are all assembled in the same place. However, as the number of applications per position has grown, many employers cannot conduct a

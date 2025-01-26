@@ -6,6 +6,7 @@ rates, Shlomo Benartzi and I (Thaler and Benartzi 2004) introduced a plan we cal
 their savings rate starting at some later date, ideally when they get their next raise.
 Once an employee enrolls in the plan, her savings rate keeps increasing until she
 reaches some cap or opts out.
+
 Notice that Save More Tomorrow is just a collection of SIFs. It should not matter
 that the savings rate is increased in a few months rather than now, nor that the
 increases are linked to pay increases, nor that the default is to stay in the plan, but of
@@ -18,6 +19,7 @@ escalation (the generic term for Save More Tomorrow, in which savings increases 
 not always linked to pay increases) had boosted annual savings by $7.4 billion.
 One worry about such programs has been that the increases we observe in retirement
 savings produced by automatic enrollment and Save More Tomorrow might
+
 be offset by reductions in savings (or increases in borrowing) in other accounts.
 However, there was no dataset in the United States that allowed anyone to test this
 hypothesis. Fortunately, such data do exist in Denmark, which, because of a history
@@ -34,13 +36,16 @@ percentage points higher. On average these workers receive an increase in pensio
 contributions of 5.64 percent of labor income. Do workers contribute less to compensate
 for this change in their employers generosity? Yes, but just by 0.56 percentage
 points. And saving in taxable accounts is essentially unchanged.
+
 Chetty et al. (2014) also make use of a change in tax policy that occurred
+
 during the period for which they have data. This natural experiment allowed them
 to compare the effectiveness of the tax subsidy given to pension contributions in
 encouraging retirement savings relative to the effects of design features such as the
 employer contribution. The change in the law they exploit was a reduction in the
 subsidy given to retirement saving for roughly the top quintile of the income distribution.
 Even among this relatively affluent group, the vast majority did not react
+
 at all to the change in the subsidy - they were "passive savers." About 20 percent
 of this segment did react and eliminated all their contributions to the tax-sheltered
 plans, but they did not spend that money; they just shifted it to taxable savings

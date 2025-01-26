@@ -1,9 +1,12 @@
 related labor markets, and in school choice. But they have remained a relatively rare
 form of marketplace in the economy at large.
+
 One feature of the markets that have adopted these clearinghouses is that almost
 all the positions to be filled become vacant at the same time, and most of the appli-cants for these positions come from an easily identified set of candidates, who apply for very few other kinds of positions and who make up the lion’s share of those hired for these positions. (Thus, most medical graduates go on to residency positions, most medical subspecialty fellowships are filled by candidates who have already become certified in the underlying specialty, most eighth graders need to be assigned to high schools, etc.) Prior to adopting a centralized clearinghouse, each of these markets also struggled with establishing and maintaining thickness and/or dealing with congestion.
 Another reason we don’t see so many centralized clearinghouses may be that
+
 when preference formation is very costly, eliciting preferences in advance may not be feasible. For example, in senior labor markets, preferences over possible posi-tions may involve additional searches, for jobs for spouses and schools for children. These additional searches may often be too costly to launch over a wide range of possible positions, and so may be feasible only late in the recruiting process, or following receipt of a job offer, when the search can be focused on a small number of possibilities. Similarly, when employers consider very diverse pools of candi-dates, or candidates consider very diverse kinds of employment, the difficulties in organizing participation in a clearinghouse by the relevant candidates and firms may be insurmountable. As a practical matter, an existing marketplace often has to be performing very badly before a major reorganization becomes attractive to many participants, since otherwise it is difficult for a redesign to be a Pareto improvement that lifts all boats or most of them (and because some market participants may have invested in dealing with the current market environment).
 72 So there will be markets
+
 for which this kind of centralized clearinghouse may not be feasible, as well as those for which this form of organization may not be appropriate.
 73

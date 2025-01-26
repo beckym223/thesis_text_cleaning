@@ -1,7 +1,9 @@
 To see how this can be done, consider the typical Cobb-Douglas production func
 tion of growth accounting, written conveniently as Hall and Jones (1999) do to
 isolate total factor productivity (TFP), as
+
 (1)  y i = AtÇKt/Y^1 - °>hh
+
 where, for country or time period i, y¡ is output per worker, K¡ / Y¡ is the capital/output
 ratio, h¡ is human capital per worker, Al is TFP, and a is the capital coefficient in the
 aggregate production function. Adjusting output per worker by a measure of human
@@ -15,6 +17,7 @@ returns to schooling to construct measures of h¡. Hendricks (2002) assumes that
 wage of observationally equivalent workers who migrate from country i to work
 in the United States, compared to the wage of workers from the United States who
 work in the United States, provides a measure of differences in h¡.
+
 Assuming workers are paid their marginal products implies that it is also pos
 sible to use the wage rates of workers doing identical jobs in different countries or
 at different times to account for human capital differences. A worker with the base
@@ -24,7 +27,9 @@ A¡ (KjYj)"''11 ~ a'h0i. Since hm = h00 (for all Í) for workers using the same 
 follows that the wage rate of the base-level skilled worker (w0i) in country i can be
 expressed, relative to the wage rate of the base level skilled worker in a base country
 (w00), using (1) as
+
 (2) wjww = [AiiKi/Y^1 - a)]/A0 (.K0/Y0)a7(1 " a).
+
 According to (2), if workers are paid their marginal products, wage ratios of the base
 skill group can be accounted for by differences in capital/output ratios and differ
 ences in total factor productivity. Differences in human capital per worker will not

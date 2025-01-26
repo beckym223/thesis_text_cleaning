@@ -4,6 +4,7 @@ in a burger and a bag of McDonald's French fries. For all I know I have eaten
 McDonald's burgers and fries in more countries of the world than anyone, and I can
 testify that they all really do taste the same" (italics in the original).7
 A. Data Collection
+
 There is a reason that McDonald's products are similar. These restaurants oper
 ate with a standardized protocol for employee work. Food ingredients are deliv
 ered to the restaurants and stored in coolers and freezers. The ingredients and food
@@ -13,6 +14,7 @@ select employees may differ among restaurants, the basic food preparation work i
 each restaurant is highly standardized. Operations are monitored using the 600-page
 Operations and Training Manual, which covers every aspect of food preparation
 and includes precise timetables as well as color photographs.8
+
 A key motivation for the use of standardized work protocols is the implied guar
 antee of food safety that eating at a McDonald's restaurant provides when a traveler
 has little information about the quality of local establishments. The standardized
@@ -23,12 +25,14 @@ interpretation problems stemming from differences in skill content or compensat
 ing wage differentials. I suspect there are other internationally diversified compa
 nies that have a similar structure and that might also make suitable candidates for
 data collection.
+
 My original survey of McDonald's wages was carried out as a pilot project with
 the cooperation of the McKinsey Global Institute. To determine if the project was
 feasible, data were collected in the month of December 1998 for a limited list of
 13 countries.9 Since the data collection went quite smoothly, the primary project
 was started with the collection of data for 27 countries during the summer of 2000,
 specifically including a number of transitional and developing countries.
+
 In general, the data collection was for McDonald's restaurants operating in a
 large urban area, typically a capital city or, in larger countries, the two largest
 cities. In later work, starting in 2007, data were collected for this project with a

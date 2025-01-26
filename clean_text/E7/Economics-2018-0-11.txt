@@ -1,10 +1,13 @@
 II. Mark etplace Failures Related to Timing
+
 Thick marketplaces that operate at a time at which transactions can be made efficiently
 provide a public good to the participants, by allowing them to compare many
 possible transactions. But as with any public good, there is a temptation to free ride, and thus marketplaces often need to be defended in order not to lose their thickness, or their efficient timing. For example, markets can unravel in time, a process by which offers in a labor market gradually become earlier, shorter in duration, and diffuse in time (with the consequence that participants must make decisions before important information is available, and without knowing what other opportunities might be available in the market).
 34 Roth and Xing (1994) describe many unraveled
+
 markets, and for many markets identified organizations that try—often with only mixed success—to regulate the time at which marketplaces operate, and often the timing and duration of offers, to prevent free riding and promote efficiency.
 35,36
+
 Early offers, like exploding offers, can arise in anticipation of congestion: a firm
 that expects to have to make multiple offers may wish to begin early, to have more time. But it can also result from the desire to move before competitors do, and combined with exploding offers it provides a strong negative externality to those competitors (although recipients of early offers may or may not be glad to get them,
 rather than waiting for potential later offers). But there is every reason to believe that unraveling results from multiple causes, because markets are multidimensional but time is one-dimensional. Offers can be made only later or earlier, and making offers later than one’s competitors does not affect them in the same way as making early offers to candidates they might have wished to hire themselves, which can lead to escalation and a race to be first.

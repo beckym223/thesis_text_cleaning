@@ -7,10 +7,13 @@ how countries would actually negotiate such a regime. The dangers to the world
 trading system of such a proposal are so important that they must be reiterated.
 Today's open trading system is the result of decades of negotiations to combat protectionism.
 It has undoubtedly produced large gains to living standards around the
+
 world. A regime that ties a climate-change agreement to the trading system should
 be embraced only if the benefits to slowing climate change are clear and the dangers
 to the trading system are worth the benefits.
+
 C. Results
+
 One major result is to confirm that a regime without trade sanctions will dissipate
 to the low-abatement, noncooperative (NC) equilibrium. This is true starting from
 a random selection of participating countries. More interestingly, starting from the
@@ -19,6 +22,7 @@ the coalition always degenerates to the NC structure with minimal abatement.
 A surprising result is that the Climate Club structure generates stable coalitions
 for virtually all sets of parameters. A few regimes produce quasi-stable coalitions
 with similar numbers of participants.
+
 A next set of results concerns the impact of different Climate Club parameters
 on the participation structure. The participation rate and the average global carbon
 price rise with the tariff rate. For the lowest target carbon prices ($12.5 and $25 per
@@ -28,6 +32,7 @@ difficult to attain the cooperative equilibrium. For a $50 per ton target carbon
 the Club can attain 90+ percent efficiency with a tariff rate of 5 percent or more.
 However, for a target carbon price of $100 per ton, it is difficult to induce more than
 the noncooperative level of abatement.
+
 Why is it so difficult to attain efficient abatement with high social costs of
 carbon even with high penalty tariffs? The reason is that the gap between the
 cooperative and the noncooperative equilibrium rises sharply as the global SCC
@@ -35,11 +40,13 @@ increases. Take the case of a large country like China or the United States. For
 these countries the national SCC might be 10 percent of the global SCC. For a
 global SCC and target price of $25 per ton, participation would require increasing
 the domestic carbon price from $2.5 to $25, while a global SCC of $100
+
 would require increasing from $10 to $100. Because abatement costs are sharply
 increasing in the target carbon price, this implies that the costs of cooperation
 become much larger as the target carbon price rises. On the other hand, the costs
 of trade penalties associated with nonparticipation are independent of the global
 SCC. So the national cost-benefit trade-off tilts toward nonparticipation as the
 international target carbon price rises.
+
 Next examine the patterns of gains and losses. Here, measure the impact relative
 to the noncooperative equilibrium. Note as well that these resul

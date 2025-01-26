@@ -12,6 +12,7 @@ raising the growth rate of consumption so as to satisfy the household's Euler eq
 at the higher real return. Notice that the economy has full employment in the
 second period. The labor/capital ratio that matters, n2/kx, is not depressed by lower
 employment; it is raised by lower capital.
+
 The existence of a low-employment equilibrium is not a given. The obstacle is
 the need to generate a labor/capital ratio sufficiently higher than in the no-currency
 equilibrium to make the rate of return on capital equal the higher level that currency
@@ -22,7 +23,9 @@ shown in Figure 16, second-period employment is at its full-employment level. Wi
 lower first-period employment, the capital stock kx is lower because output is lower
 and because the difference in first-period consumption is smaller than is the difference
 in the capital stock.
+
 C. Many Periods
+
 Economies lasting over many (or an infinity of) periods are less likely to have a
 low-employment intertemporal equilibrium. Two factors stand in the way of that
 equilibrium. First, in the two-period case, a reduction in first-period output can cause

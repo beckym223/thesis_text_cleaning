@@ -1,9 +1,11 @@
 they want to be able to make credible promises in the future (Nakata 2015). The success
 of frameworks like inflation targeting—which grant policymakers only “constrained
 discretion” (Bernanke and Mishkin 1997)—shows that these reputational
+
 forces can be quite effective. On the other hand, failure to achieve stated targets over
 a long period can damage institutional credibility, as shown by the difficulty that the
 Bank of Japan has had in raising inflation expectations (Gertler 2017).
+
 Forward guidance in the next downturn will be more effective—better understood,
 better anticipated, and more credible—if it is part of a policy framework clearly
 articulated in advance. As of this writing, the Federal Reserve is formally reviewing
@@ -19,14 +21,18 @@ several of these frameworks involve only tweaks to the current  inflation-target
 framework, which would ease any transition; and their effectiveness is not substantially
 reduced if they affect the beliefs and behavior of only financial market participants,
 as opposed to the general public. Improving policy and communications
+
 frameworks to incorporate more-systematic forward guidance at the lower bound
 should be a high priority for central banks.
+
 C. Other New Monetary Policy Tools
+
 The Federal Reserve supplemented traditional policy with QE and forward guidance
 during the  post-crisis period, as did other central banks. But major central
 banks outside the United States also used some other tools, which I will discuss
 briefly here. As already noted, I will not discuss policy tools aimed primarily at
 financial (as opposed to macroeconomic) stabilization.
+
 The alternative tools fell into several major categories. First, unlike the
 Fed, which by law was largely limited to purchasing only government bonds or
 government-guaranteed MBS, other central banks also purchased a range of private
@@ -39,6 +45,7 @@ private assets has disadvantages as well: they involve taking credit risk, as we
 the  interest-rate risk associated with all QE programs, and they may generate political
 controversies if they create the perception that the central bank is favoring some
 firms or industries.
+
 Second, several foreign central banks subsidized bank lending through cheap
 long-term funding, usually on the condition that banks increase their lending to
 approved categories of borrowers. Leading examples include the Bank of England’s

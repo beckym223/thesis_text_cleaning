@@ -11,6 +11,7 @@ well-capitalized, then their need for cheap liquidity from the central bank may 
 limited. Conversely, if banks are short of capital, their lending may be constrained
 or their incentives to make good loans distorted, notwithstanding the availability of
 low-cost funding.
+
 Third, the Bank of Japan, the ECB, and the central banks of several smaller
 European countries adopted negative  short-term interest rates, enforced by a charge
 on bank reserves. The ability of the public to substitute into cash, which pays a
@@ -21,11 +22,13 @@ negative rates, because in practice banks cannot easily pass negative rates on t
 retail depositors. Indeed, a “reversal rate” of interest may exist, below which the
 adverse effects of the negative rate on bank capital and lending make it economically
 contractionary on net (Brunnermeier and Koby 2017). However, central banks
+
 can address the reversal rate problem through various devices, such as paying a
 higher rate to banks on a portion of their reserves (tiering), as has been done by the
 BOJ and the ECB. In addition, when rates decline, banks benefit from the upward
 revaluation of their assets and from improvements in overall economic conditions,
 which reduce credit losses.
+
 Within the limited range so far experienced, negative policy rates appear to have
 been passed through to bank lending rates, money market rates, and  longer-term
 interest rates (Arteta et al. 2018, Hartmann and Smets 2018). An International
@@ -35,6 +38,7 @@ effects on domestic monetary conditions, with no major internal side effects on 
 profits, payment systems, or market functioning.” The evidently moderate costs and
 benefits of negative rates seem disproportionate to the rhetorical heat they stimulate
 in some quarters. Money illusion can be powerful.
+
 Finally, the Bank of Japan in September 2016 initiated a program of “yield curve
 control,” a framework which includes a peg for the  short-term interest rate (as in
 traditional policymaking) but also a target range for the yield on  10-year Japanese

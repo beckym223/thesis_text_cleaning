@@ -10,6 +10,7 @@ durations of  lower-bound episodes or peak asset  central-bank accumulations
 outside historical experience. In contrast to the baseline rules, these policies also
 produce inflation rates near target, consistent with inflation expectations remaining
 well anchored.
+
 The finding that, with an inflation target of 2 percent, a plausible combination of
 new policy tools performs as well as traditional policies with an effective inflation
 target of 5 percent, yields two implications. First, it suggests that, when the nominal
@@ -25,6 +26,7 @@ more policy space. Unless the direct costs of low nominal interest rates, in ter
 of increased financial stability risks for example, exceed the costs of reaching and
 maintaining 5 percent inflation, the use of new policy tools is preferable to a higher
 inflation target.
+
 Obviously, there are qualifications. Tables 3 and 4 include no standard errors, but
 in reality, the uncertainty surrounding the reported estimates is high. Reasonable
 people can disagree about the precise effects of asset purchases on financial conditions,
@@ -35,12 +37,14 @@ may in some ways understate the potential of new monetary tools. For example, I
 have ruled out the use of negative  short-term rates,  funding-for-lending programs,
 and other tools that might provide additional policy space. I have also excluded
 MBS purchases, which could reduce the spread between mortgage rates and
+
 Treasury yields. A policy framework that made inflation thresholds a condition for
 raising rates from the lower bound, if it led market participants to expect that policy
 response even in advance of rates hitting the bound, would be more powerful than
 the  threshold-based guidance in the simulations. And FRB/US does not include all
 of the new tools’ potential channels of effect, such as the possible impacts of asset
 purchases on bank lending (Rodnyansky and Darmouni 2017).
+
 The Role of the Neutral Interest Rate:  An especially important qualification to
 my results is the uncertainty about the level of the neutral interest rate. As I have discussed,
 if the nominal neutral rate is in the range of  2–3 percent or higher,

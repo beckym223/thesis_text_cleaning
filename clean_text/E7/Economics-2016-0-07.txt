@@ -1,23 +1,38 @@
 Problem 1. - Imagine that you face the following pair of concurrent decisions.
 First examine both decisions, and then indicate the options you prefer.
+
 Decision (i) Choose between:
+
 A. A sure gain of $240 [84%]
+
 B . 25 % chance to gain $ 1 ,000 and
+
 75% chance to gain or lose nothing [16%]
+
 Decision (ii) Choose between:
+
 C. A sure loss of $750 [13%]
+
 D. A 75% chance to lose $1,000 and a
+
 25% chance to lose nothing [87%]
+
 The numbers in brackets indicate the percentage of subjects that chose that option.
 We observe a pattern that was frequently displayed: subjects were risk averse in the
 domain of gains but risk seeking in the domain of losses. It is not immediately obvious
 that there is anything particularly disturbing about these choices; that is, until
 one studies the following problem.
+
 Problem 2. - Choose between:
+
 E. 25% chance to win $240
+
 and 75% chance to lose $760 [0%]
+
 F. 25% chance to win $250
+
 and 75% chance to lose $750 [100%]
+
 Inspection reveals that although Problem 2 is worded differently, its choices are formally
 identical to those in Problem 1. The difference is that some simple arithmetic
 has been performed for the subjects. Once these calculations are made it becomes
@@ -32,7 +47,9 @@ inconsistent with almost any formal model. Second, by utilizing clever framing, 
 majority of subjects can be induced to select a pair of options that are dominated by
 another pair. Once again, this behavior does not seem consistent with the idea that
 people are choosing as «/they are rational.
+
 B. Experiments, Incentives, and Learning
+
 A second class of explainawaytions emerged in the 1980s, in part as a reaction to
 the findings of Kahneman and Tversky and an early paper of mine (Thaler 1980).
 These retorts, usually delivered orally in workshops and conference presentations

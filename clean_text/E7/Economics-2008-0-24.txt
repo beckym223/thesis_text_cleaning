@@ -14,11 +14,15 @@ which the government chooses an optimal policy based on a wrong model, the learn
 changes how we should think about generating the novel dataseis and policies that will allow
 misguided governments to break out of the lack-of-experimentation traps to which self-confirming
 equilibria confine them.
+
 It is also easy to admire the spirit of the quote from Ricardo. It conveys respect for the struggles
 of our predecessors and the monetary institutions that they created, and confidence that,
 armed with new models and technologies, we can do better.
+
 Appendixes
+
 A. Learning in Games
+
 In a game, a Nash equilibrium is the natural counterpart of a rational expectations equilibrium
 or a recursive competitive equilibrium. An extensive literature studies whether a system
 of adaptive players converges to a Nash equilibrium. A range of plausible adaptive algorithms
@@ -30,7 +34,9 @@ in the past, given their opponents' histories of actions. At the other extreme a
 players construct statistical theories about their opponents' behavior, use them for a while to
 make forward-looking decisions, occasionally subject their theories to hypothesis tests, discard
 rejected ones, and choose new specifications.
+
 This literature has sought plausible and robust algorithms that converge to a Nash equilibrium.
 Sergiu Hart and Andreu Mas-Colell say that this is a tall order:
+
 It is notoriously difficult to formulate sensible adaptive dynamics that guarantee convergence
 to Nash equilibrium. In fact, short of variants of exhaustive search (deterministic  or stochastic), there are no general results.

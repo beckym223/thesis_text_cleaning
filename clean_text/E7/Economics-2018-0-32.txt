@@ -4,17 +4,23 @@ could be organized on a larger scale (Roth, Sönmez, and Ünver 2004, 2005b, 200
 in mind). We helped our surgical colleagues, led by Frank Delmonico, to found the New England Program for Kidney Exchange (NEPKE) to build a database of patient donor pairs and facilitate exchange at scale among the 14 transplant centers in New England (Delmonico et al. 2004; Roth, Sönmez, and Ünver 2005b).
 Today, kidney exchange has become established as a standard mode of transplantation
 in the United States, and is growing around the world.
+
 103 But initial progress was
+
 slow. By the end of 2007, NEPKE had facilitated only 22 transplants.104 It became
 clear that effective market designs were going to have to deal with the detailed operations
 of kidney exchange marketplaces, and not just with their overall architecture.
 The logistics of trades among cycles of patient-donor pairs are subject to congestion
 (since all parts of the exchange need to be conducted simultaneously),
+
 and so there has been increased attention to the chains of transplants started by a non-directed donation, which don’t have to be performed simultaneously. (Since a
 non-directed donor does not ha
+
 ve a particular patient in mind, he or she can initiate a
+
 chain of transplants by donating to a patient in a pair waiting for a kidney exchange, whose donor gives to someone else and so on. Each incompatible patient-donor pair receives a kidney before they donate their own, so that no pair bears the risk that a broken link in the chain would leave them still needing a transplant but no longer having a kidney to exchange.) The first such chain was organized by the Alliance for Paired Donation (APD), and reported in Rees et al. (2009). One of the big operational
 issues was how to manage the sometimes long non-simultaneous chains that became possible. These chains were initially controversial, but early experience together with computational simulations from clinical data, paying careful attention to how such chains could be organized, eventually allowed them to become standard practice (Ashlagi et al. 2011a, b).
 105
+
 As chains became national in scope, hospitals with different costs started shipping
 kidneys to each other, and there were some financial frictions (e.g., one hos-pital might charge much more than another for a nephrectomy, which coul

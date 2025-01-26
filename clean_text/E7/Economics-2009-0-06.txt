@@ -1,6 +1,7 @@
 SEC to verify Merrill's solvency" (257).3 Perhaps the right balance is to be found in the Russian
 proverb that Ronald Reagan repeatedly quoted, much to Mikhail Gorbachev's annoyance: "Trust,
 but verify" (floeepnu, ho npoeepn?).
+
 To repeat and emphasize, governmental and private institutions of governance coexist even in
 modern market economies. Conversely, many economic transactions take place outside conventional
 markets, e.g., within families, social networks, and firms. Therefore, the issue in the study
@@ -10,13 +11,16 @@ work well, under what conditions. In this study, a general principle will appear
 no institution or system will prove perfect or ideal?the economist's first-best?under all circumstances.
 Everything is "second-best" at best, subject to numerous constraints of information,
 incentives, commitment, and rules of the political game.
+
 II. Alternative Institutions
+
 What kinds of alternative governance institutions should we study in this context? Different
 distinctions are appropriate for different purposes. For my purpose here, the most relevant distinction
 is between formal institutions of the state, enforced by its legal apparatus and using its
 powers of coercion if needed as a last resort, and informal social institutions, which must be self
 governing using strategies available to the participants in the economic interaction themselves.4
 I will interpret both categories in a broad and inclusive manner.
+
 My list of formal governmental institutions of governance starts with the constitution (written
 or merely widely understood) that lays down the rules of the political game, the legislature
 that makes more detailed rules within this context, and the courts, the police, and licensing and
@@ -28,7 +32,9 @@ adjudication and enforcement of the norms. And private order can include interna
 transaction by placing the parties into one economic unit, in other words, by integration that converts
 the problem from one of enforcement of an arm's-length contract into an agency problem
 in corporate governance.
+
 III. Protection of Property Rights
+
 If the government does not protect private property rights, at least not as well as the owners
 require, many alternative private arrangements arise to meet the owners' needs. Some work
 by deterrence: private guards and gated communities exist in many rich societies, especially if

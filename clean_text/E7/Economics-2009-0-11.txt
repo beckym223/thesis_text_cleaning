@@ -3,6 +3,7 @@ but are only partially effective in practice. For example, Princeton University'
 requires students to report observed instances of cheating in examinations, and anyone who fails
 to do so also violates the Code. But surveys find that over 60 percent of respondents would not
 turn in a friend who cheated (Jeremy Caplan 1996).
+
 Therefore, people try to build bilateral relationships upon successful encounters. Joel Watson
 (2002) constructs theoretical models of how bilateral relationships can be developed in a gradual
 way. But in many situations a given pair of people may not have enough ongoing pairwise transaction
@@ -17,6 +18,7 @@ The information and communication channels that are needed for second-party gove
 become weaker as the size and scope of the group expand. Successful governance in a large
 group, or one with a large geographic or social spread, eventually requires a shift toward more
 formal methods of governance (Shuhe Li 2003; Dixit 2004, chap. 3).
+
 Li draws a distinction between formal rule-based governance and informal relation-based
 governance, based on different costs of the two institutions. A rule-based formal legal system
 requires substantial fixed costs to pass the laws and to establish the courts to adjudicate disputes,
@@ -27,6 +29,7 @@ But as business expands, one must deal with strangers and must first establish r
 them; therefore the marginal costs of expansion are high and rising. The low fixed cost, rising
 marginal cost system will have lower overall costs for small-scale transactions, and the high
 fixed cost, low marginal cost system will be better for larger scales.
+
 Dixit constructs a more detailed spatial model of information transmission and its fading at
 large distances to explain the idea of rising marginal costs. This leads to some surprising implications
 for what happens when the relation-based system reaches the limit of its size.

@@ -8,6 +8,7 @@ some small groups, too far to the detriment of more general interests. (4) Crise
 change because they destroy existing special interests (Olson 1982); but not many people recommend
 engineering a crisis in the hope of facilitating institutional reform. Competition also forces
 change (North 1990).
+
 But these insights do not constitute an overall framework for understanding institutional
 change. Much more research is needed to achieve that. Such research will have to combine many
 disciplinary perspectives?economics, history, political science, sociology, psychology, anthropology,
@@ -16,7 +17,9 @@ narratives, statistical empirical studies, and theoretical modeling using both r
 behavioral approaches. This is an ambitious but exciting endeavor and an important one both
 scientifically and in its potential practical applications, and I hope this paper will stimulate many
 economists and other social scientists to contribute to it.
+
 VII. Recommendations for Reforms
+
 Everyone wants an essay like this to conclude with practical recommendations for policy and
 institutional reform or design. This is very difficult because research on governance institutions
 is very much a work in progress. Case studies and theory alike show a great diversity of possible
@@ -26,7 +29,9 @@ must be combined appropriately in each situation. Any recommendations at the lev
 article must be correspondingly broad, vague, and tentative: suggestions rather than prescriptions.
 With this proviso, here are a few, which summarize some arguments and remarks made
 earlier and add some concluding thoughts.
+
 A. Suggestions for Investors and Traders
+
 A businessman who comes from economies with well-functioning formal governance is likely
 to find the relation-based informal institutions in many less-developed countries and transition
 economies bewildering, and is likely to make mistakes. He can avoid these mistakes by using

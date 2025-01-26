@@ -5,7 +5,9 @@ equilibrium concepts work. Behavioral theories will be more like engineering, a
 set of practical enhancements that lead to better predictions about behavior. So far,
 most of these behavioral enhancements focus on two broad topics: preferences and
 beliefs.
+
 A. Behavioral Preferences
+
 Prospect theory is a good illustration of a model based on assumptions about preferences
 that differ from the ones used to derive expected utility theory. Specifically,
 most of prospect theory's predictive power comes from three crucial assumptions
@@ -16,6 +18,7 @@ changes in wealth into utility, has a kink at the origin, with losses weighed mo
 heavily than gains - i.e., "loss aversion." Third, decision weights are a function of
 probabilities n(p) where II(p) 7^ p. These aspects of the theory were inferred from
 studying the choices subjects made when asked to choose between gambles.
+
 Two other research streams have been based on models of preferences. The first
 topic is intertemporal choice. As revealed by the quotations from Smith, Pigou, and
 Fisher mentioned earlier in this essay, economists have long worried that people
@@ -27,6 +30,7 @@ plus a week, but when the year passes and the smaller reward is available "now,"
 submit to temptation. If people realize they have such preferences, they may choose
 to commit themselves now to choosing the larger delayed reward, a strategy they
 will later regret (at least for a week or so).
+
 Two kinds of models have been proposed to deal with these aberrant preferences.
 One is based on a two-self (or "two-system") approach that is meant to capture
 the inherent conflict that defines self-control problems. In the version of this type

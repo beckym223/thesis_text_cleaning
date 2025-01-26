@@ -1,6 +1,7 @@
 Section II looks at the effects of an intergenerational transfer ( a conceptually simpler
 policy than a debt rollover, but a policy that shows most clearly the  rele
 vant effects
+
 at work)  in an overlapping generation model with uncertainty. In the certainty context
 analyzed by Diamond (1965) , whether such an intergenerational transfer from young
 to old is welfare improving depends on “the” interest rate, which in that model is simply

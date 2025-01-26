@@ -1,5 +1,6 @@
 VIII. Narratives During the Sharpest (Though Not the Worst) US Contraction Ever,
 1920 to 1921
+
 In looking for the narrative basis of economic recessions, which might be hard
 to see since narratives are not easy to measure, it would appear that we would have
 the most luck looking at really big ones: 1920-1921 was the sharpest US recession
@@ -16,9 +17,12 @@ earnings was also extremely low, at 8.51. This was the recession that, because o
 severity, influenced the fledgling National Bureau of Economic Research (NBER)
 toward a research program emphasizing the study and dating of business cycles.
 Surprisingly, the online NBER Working Paper Series, almost a hundred years
+
 later, when searched, has virtually nothing to say about what caused this spectacular
 depression. Why, after all, did it happenMilton
+
 Friedman and Anna J. Schwartz, in their Monetary History of the United
+
 States , have given the most influential account. According to them, the 1920-1921
 contraction has a single identifiable cause: an error made by the fledgling Federal
 Reserve to raise the discount rate to trim out-of-bounds inflation in 1919 caused
@@ -28,13 +32,16 @@ president of the New York Fed, was on a long cruise starting December 1919, and
 was unable to prevent Federal Reserve Banks (which did not coordinate their policies
 with each other so much back then) from raising the discount rate as much as a
 full percentage point in one shot in January 1920.
+
 The Fed was new then, having opened its doors only in 1914, and so it is not surprising
 that they could have made mistakes and implemented overly strong swings
+
 in policy. But let us not jump to conclusions about the Fed having caused the depression.
 Other remarkable things were going on too. If we are going to single out significant
 events for study, we should keep in mind that important events are usually the
 result of the confluence of many factors, and often changing narratives are at work
 in those factors.
+
 There was a background then of horrible recent events: World War I, which ended
 only 14 months before the start of the Depression; an influenza epidemic even more
 deadly than the war that started during the war and was not quite over; and a series

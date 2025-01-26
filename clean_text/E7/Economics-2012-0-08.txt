@@ -3,13 +3,16 @@ worked in US manufacturing were around 40. At current wage rates, weekly earn
 ings would be 50 percent higher today than they actually are if work hours had not
 declined so dramatically since 1890. Clearly, a considerable part of the increase in
 the real hourly wage was used to reduce hours at work.3
+
 As Pencavel (1977) noted, the implication of a negatively sloped long-run labor
 supply function is that observed earnings or income differences may be a mislead
 ing measure of welfare differences when wages rates differ dramatically. It follows
 that an appropriate measure of the real wage rate that is intended to measure welfare
 should be based on a model in which labor supply and commodity consumption are
 selected jointly by a consumer-worker.
+
 A. Constant-Utility Indexes of Real Wages
+
 In the conventional setup a consumer-worker maximizes utility u(l, c) subject to
 the budget constraint pc = wh + y, where c indicates consumption goods, w is the
 nominal wage rate, p is a set of prices of consumption goods, h = T — I is hours
@@ -17,6 +20,7 @@ worked, I is nonwork time, T is the total time endowment, and y is income unrela
 to work. The usual first-order conditions lead to a labor supply function h(w,p,y)
 and commodity demand functions c, = c, (w,p,y) and, after substitution, to the indi
 rect utility function u{T — h(w,p,y),c(w,p,y)) = v(w,p,y).
+
 The solution of v(w,p,y) for w* = w*(p,y,v*) is the lowest wage rate that permits
 a consumer with nonwork income, y, facing prices, p, to reach the reference utility
 level V*. The function w* provides the basis for a constant-utility index number of

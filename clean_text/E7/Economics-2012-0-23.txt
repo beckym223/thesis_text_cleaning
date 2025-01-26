@@ -4,6 +4,7 @@ While the data in Table 5 do not speak directly to that issue, workers in McDona
 restaurants are not highly paid relative to other workers, even by Indian standards. It
 is hard to imagine that the scale of growth these data display did not have consider
 able effects on the welfare of Indian workers more generally.
+
 Table 6 and the accompanying Figures 13-15 contain data on changes over the
 recent period from 2007 to 2011 that reflects the current financial crisis and its after
 math. The first column contains the McWage in 2011 relative to its value in 2007,
@@ -13,7 +14,9 @@ rates have either fallen (sometimes quite sharply) or remained constant over thi
 period. These real wage declines have been associated with both nominal wage and
 price increases, but the price increases have not been fully matched by correspond
 ing nominal wage increases.
+
 The two primary exceptions are Russia and China. The pace of real wage
+
 increases in Russia is impressive, and much harder to attribute to the recovery from
 the Russian financial crisis nearly a decade before. China's growth has slowed down
 over this period to a rate that is about two-thirds of the growth rate in the precrisis

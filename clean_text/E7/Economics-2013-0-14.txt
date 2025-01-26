@@ -4,7 +4,9 @@ time 0 in this case have no way to finance consumption. It is plausible then to 
 pose that the government imposes the tax ron the young, issues new debt bought by
 the young, and uses the proceeds to provide a subsidy to the time-0 old. From that
 point on the equilibrium would be as we have calculated above.
+
 B. Fiscal Backup for a Taylor Rule
+
 Cochrane (2007) has argued against attempts to claim a determinate price level in
 models with Taylor-rule monetary policy by invoking "fiscal backing" that comes
 into play only off the equilibrium path. I don't understand his reasoning, but in any
@@ -18,22 +20,30 @@ small in equilibrium. Institutions like those in the EMU that make it unclear wh
 the fiscal backing would come from, or even whether it exists, are destabilizing; yet
 in normal times, because large fiscal-backing interventions do not occur in equilib
 rium, it is easy for the importance of fiscal backing to be lost sight of.
+
 The model is very simple, a continuous time extension of Leeper's (1991) original
 framework. The monetary policy rule is
+
 (21) r = i(0p - (r- p)).
+
 This makes the nominal interest rate r respond with a delay (larger 7 means less
 delay) to inflation p. The "Taylor principle" that the interest rate should eventually
 respond more than one for one to inflation changes corresponds here to 9 > 1.
 We assume a constant real rate p and a no-risk-aversion Fisher equation connect
 ing a constant real rate p and the nominal rate:
+
 (22) r = p + p.
+
 The p notation represents the right time derivative of the expected path of the log of
 the price level. On a perfect foresight solution path, p = p at all dates after the initial
 date, but p can move discontinuously at the initial date. These two equations (21)
 and (22) can be solved to yield a second order differential equation in p:
+
 (23) p = -y(0-l)p,
+
 which holds after the initial date / = 0 on any perfect foresight equilibrium path.
 With 9 > 1, this is an unstable differential equation, with solutions of the form p,
 = p0elly6~r'1'.
+
 Leeper assumed that such explosive paths for the price level were not equilibrium
 paths and focused on the one stable solution to the equation, p = 0. On such a path

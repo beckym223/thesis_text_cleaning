@@ -1,4 +1,5 @@
 II. Narratives as Creative, Essentially Human, Works
+
 Predicting the success of creative works with the public is an extremely difficult
 task, one that is fundamentally related to the challenge we have in predicting contagion
 rates of narratives, processes that depend on many factors. We don't precisely
@@ -6,11 +7,16 @@ observe the mental and social processes that create contagion. For example, pred
 the success of motion pictures before they are released is widely known to be
 quite difficult (Litman 1983). Jack Valenti, former president of the Motion Picture
 Association of America, said
+
 With all the experience, with all the creative instincts of the wisest people
 in our business, no one, absolutely no one can tell you what a movie is
+
 going to do in the marketplace... Not until the film opens in a darkened
+
 theater and sparks fly up between the screen and the audience can you say
+
 this film is rightBy
+
 analogy, the reason that writers pull quotes, especially paragraph-length quotes,
 and display them as I have just done is often to convey a narrative, to give the reader
 a historical sense of a past narrative that had impact and might again have impact on
@@ -23,9 +29,12 @@ Since around the beginning of the twentieth century, scholars from a wide array
 of disciplines began to think that narratives, stories that seem outwardly to be of
 entertainment value only, are really central to human thinking and motivation. For
 example, in 1938 the existentialist philosopher Jean-Paul Sartre wrote
+
 A man is always a teller of tales, he lives surrounded by his stories and
+
 the stories of others, he sees everything that happens to him through them;
 and he tries to live his life as if he were recounting it
+
 The tales tend to have human interest, if only suggested. By analogy, when asleep
 at night, narratives appear to us in the form of dreams. We do not dream of equations
 or geometric figures without some human element. Neuroscientists have described
@@ -33,6 +42,7 @@ dreaming, which involves characters, settings, and a hierarchical event structur
 as a story-telling instinct that resembles in brain activity a form of spontaneous
 confabulation caused by lesions of the anterior limbic system and its subcortical
 connections (Pace-Schott 2013).
+
 Anthropologists, who conduct research on the behavior of diverse tribes around
 the world, have observed a "universal" that people "use narrative to explain how
 things came to be and to tell stories" (Brown 1991). Visitors to any human society

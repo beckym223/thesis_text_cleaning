@@ -11,6 +11,7 @@ no longer on target to meet the first Millennium Development Goal (Himanshu 2008
 and Ravallion, forthcoming). More generally, the number of poor people in the world is widely
 quoted in public debate, so that arbitrary?and poorly understood?changes undermine any
 usefulness that these numbers might otherwise have had.
+
 How should the global poverty line be set in the future? There are two quite different
 approaches, depending on whether we take our standard from the poor world, as in the current
 count, or from the rich world, which is my own preference. In the former, the global line is linked
@@ -27,6 +28,7 @@ poverty lines from poor countries, although, once again, those poverty lines nee
 not be changed over time; this is what was done until the current revision. There will still be
 changes in the global line as successive ICP revisions change the relative PPPs of poor countries,
 something that cannot be avoided.
+
 The alternative procedure would be to make the global poverty line in fact what it is widely
 perceived to be, one international dollar per person a day. Whatever its origins, it would in future
 be updated by the US CPI only, so the global line would be a dollar in 2005 prices. If this rule

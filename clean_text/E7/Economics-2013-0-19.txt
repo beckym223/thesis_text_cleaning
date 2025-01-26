@@ -1,13 +1,18 @@
 and the budget constraint becomes
+
 (41)
+
 Qt vt + 1
+
 a-. - r, + gt.
+
 Because these systems with non-trivial 6 become difficult to handle analytically,
 we omit laying out the first order conditions for the consol-debt case, and we solve,
 numerically, locally linearized versions of both the short debt and long debt models.
 We assume g, is independent across time, with constant mean Eg, = ~g = 1. We set
 p = /?_1 = 1.1, and r = 2 in the initial steady state. Because this makes r — ~g = 1,
 and the net real rate p — 1 =0.1, initial steady state real debt b = 10.
+
 With real debt, as in Barro's (1979) original framework (i.e., 0 — oo), a unit
 increase in g, above its mean ~g requires r and b to move to new levels that could be
 sustained forever if future g values reverted to ~g. So with our parameter settings,
@@ -15,6 +20,7 @@ sustained forever if future g values reverted to ~g. So with our parameter setti
 to service the increased debt at the 10 percent interest rate. The new values of b
 and T are sustained forever in the absence of new shocks. The interest rate remains
 constant.
+
 At the opposite extreme, with perfectly flexible prices (9 = 0) and nominal debt,
 optimal policy absorbs all of the fiscal surprise in surprise inflation. The inflation
 proportionally reduces the real value of maturing debt, which is 11, and must be
@@ -22,12 +28,15 @@ sufficient to offset the unit increase in g, since r will optimally not change a
 The result is an inflation of 10 percent, with b, r, and the interest rate all unchanged.
 The inflation is limited to the initial period, after that returning to zero. Here again,
 the interest rate remains constant.
+
 With oj = 10, optimal policy depends on whether we have one-year or consol
+
 debt. With one-year debt, optimal policy allows 43 percent of the g shock to flow
 into b and permanently adjusts r by 4.3 percent, to cover the increased debt ser
 vice. This leaves some of the g shock unaccounted for, though, and that is absorbed
 in a one-time surprise inflation of 4.8 percent. And once again the interest rate
 remains constant.
+
 With u = 10 and consol debt, only 6.9 percent of the g shock passes into increased
 b, and r increases by only 0.69 percent. Most of the shock is absorbed by simultane
 ous, permanent small increases in the nominal interest rate (1/(2) ar>d the inflation
@@ -41,6 +50,7 @@ approximation when there is no inflation, but when there is steady inflation, as
 wake of this shock, a consol's constant stream of nominal payments is front-loaded
 in real terms, so that in fact the constant real rate is preserved by this combination of
 permanent changes in inflation and 1 /Q.
+
 The response to the g shock in the four cases we have discussed in the preceding
 paragraphs is displayed in Figure 2. Each column of plots shows the time path of
 changes in the four variables listed on the left side of the chart, in the case labeled at

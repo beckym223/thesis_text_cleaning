@@ -13,6 +13,7 @@ not improve the welfare for the balance of regions, (vi) Go back and restart fro
 generate a new random change coalition and then go through steps (iii)-(v). (vii) The
 procedure stops either when (a) the process cycles (a coalition structure repeats), or
 (b) no other coalition is able to overturn the existing base coalition.
+
 Note that the termination in (viib) cannot be determined with certainty because
 of the probabilistic nature of the algorithm. However, because the change coalition
 is randomly selected, in the worst case the likelihood of there being an overturning
@@ -22,8 +23,11 @@ I examined up to 50,000 iterations and random starting coalitions to test stabil
 While this algorithm might potentially be improved with bounding refinements, the
 flexibility of the evolutionary algorithm for finding stable coalitions suggests it is
 adequate. Further details are provided in the online Appendix.
+
 VII. Results
+
 A. A First Example
+
 Before diving into the results, it will be useful to present a numerical example.
 Assume that the international target carbon price is $25 per ton; that the penalty
 tariff rate is 4 percent; that all high-income countries participate; and that the United

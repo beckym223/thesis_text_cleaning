@@ -4,6 +4,7 @@ answer is that it results far more from the occupation than from the industry. T
 examine whether industry is the locus of greater gender equality rather than occupation
 I create a variable measuring the fraction of the industry's workforce in one of
 the identified technology occupations.
+
 To see whether the industry of the technology workers matters, a log earnings
 regression is estimated similar to the previous ones but is limited to individuals in
 one of the technology occupations. I add a variable measuring the fraction of the
@@ -13,14 +14,20 @@ occupations (around 60 percent) whereas others, such as "motor vehicle manufactu
 " are moderate (around 12 percent) and still others are very low. Engineers
 and information technology workers are hired in almost all industries. The technology
 industry variable is also interacted with female.
+
 The results are that technology workers in industries with more technology
+
 workers earn considerably more than workers in other industries, even with occupation
 fixed effects. But women do not earn disproportionately more than men
+
 within the technology industries. The bottom line is that technology occupations
 and not technology industries more generally are associated with greater gender
 equality in earnings.23
+
 III. A Personnel Economics Theory of Occupational Pay Differences
+
 A. Micro-foundations of Compensating Differentials
+
 Residual differences by occupation in earnings by gender, I will demonstrate, are
 largely due to the value placed on the hours and job continuity of workers, including
 the self-employed.24 Individuals in some occupations work 70 hours a week and
@@ -29,6 +36,7 @@ in other occupations they do not. Some occupations exhibit linearity with respec
 time worked whereas others exhibit nonlinearity (convexity).25 When earnings are
 linear with respect to time worked the gender gap is low; when there is nonlinearity
 the gender gap is higher.
+
 Total hours worked are generally a good metric for time on the job. But often what
 counts are the particular hours worked. The employee who is around when others are
 as well may be rewarded more than the employee who leaves at 1 1 am

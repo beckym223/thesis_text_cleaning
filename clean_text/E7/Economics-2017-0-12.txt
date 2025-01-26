@@ -5,6 +5,7 @@ is infective, and then there will be a lag, possibly a long lag if c is small, b
 disease has infected enough people to be noticed in public. The epidemic will then
 rise to a peak, and then fall and come to an end without any change in the infection
 or removal rates, and before everyone is infected.
+
 Figure 2 shows an example, implied by the three equations above, with N = 100
 people, of very small transmission of infection per unit of time on any one exposure,
 70 = 1, c - 0.005, r = 0.05. In this case, almost 100 percent of the population
@@ -17,19 +18,24 @@ over the disease and are immune to it, so there are not enough new encounters to
 generate sufficient new infectives to keep the disease on the growth path. Eventually,
 the infectives almost disappear, and the population consists almost entirely of susceptibles
 and recovereds.
+
 What creates a big disease that ultimately reaches a lot of people (the total ever
 infected and recovered as measured by 7?^)? It is a function of the ratio c/r of the
 two parameters. As time goes to infinity, the number of people who have ever had
 the disease goes to a limit R ^ (called the size of the epidemic) strictly less than N. It
 follows directly from the first and third equations that dS/dR - -(c/r)S and the initial
 condition 70 that S = (N - 70) e ~&R and since 7^ = 0, N = we have
+
 C_
+
 C_ r
+
 If we could choose c and r, we could make the size of the epidemic anything
 we want between 70 and N. Higher c/r corresponds to higher size of epidemic Rœ,
 regardless of the level of c or of r, while higher c itself, holding c/r constant, yields a
 faster epidemic. If we define "going viral" by R ^ > N/2, then we see this happening
 in this example when c/r > 0.014.
+
 If we multiply both parameters, c and r, by any constant a, then the same equations
 are satisfied by S(at), I(at), R(at). This means, depending on the two parameters
 c and r, that there can be both fast and slow epidemics that look identical if the

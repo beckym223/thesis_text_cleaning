@@ -1,7 +1,9 @@
 Figure 4. A Theory of Occupational Pay Differences
+
 Notes: Each of the lines gives the relationship between output, Q, in some occupation and the  time input, A, of a worker where 0 < A < Amax. When the time input is reduced below some  level, A*, output decreases discretely for occupations 1 and 2. Occupation r has a linear rela-  tionship between time worked and earnings throughout. An individual who works between X'  and Amax will be in occupation 1, an individual between '' and A ' will work in 2 and all others  will work in r, if they remain in the labor force.
 setup given by (1) contains a discontinuity in productivity if the worker is absent
 more than some amount.
+
 Several occupations or positions may exist among which individual i can choose.
 To begin with, assume two positions exist such that kx > k2 and that output is
 reduced when hours do not exceed some level such that ¿1 > S2. In addition, assume
@@ -12,9 +14,11 @@ the other two when A is sufficiently low. Also assume that k2( 1 - ô2) < kr .
 As shown in Figure 4, an employee will work in occupation 1 as long as A > Aj
 and will then shift to occupation 2 at lower hours and finally to the reservation occupation
 when A < A2. The relationship between output and hours, and thus between
+
 earnings and hours, is nonlinear (convex). On a per unit time basis the employee
 receives more in occupation 1 than 2 and more in occupation 2 than in the reservation
 occupation, r.
+
 In the framework, the position with the highest slope is also the one with the
 highest penalty with regard to reduced hours. Rather than stay in that position, an
 employee who wants lower hours will shift to one that has a lower penalty but

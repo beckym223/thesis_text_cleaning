@@ -7,6 +7,7 @@ of government debt and taxes. It is also true that some policy advisors have eno
 evolution produces good outcomes to recommend copying best practices (for example, see John
 Maynard Keynes 1913). If only good things survive the tests of time and practice, evolution produces
 intelligent design.
+
 Theories of out-of-equilibrium learning tell us not always to expect that. An observational
 equivalence possibility that emerges from the rational expectations econometrics of Section III
 sets the stage for Section IV, which describes how a system of adaptive agents converges to a
@@ -23,7 +24,9 @@ While these stories differ in many interesting details, they all suggest that ch
 the monetary authorities were affected by misunderstandings that do not occur within a rational
 expectations equilibrium.1 These "misspecification stories" also provide a backhanded defense
 for inflation targeting.
+
 I. Intelligent Design with Common Beliefs
+
 What I call intelligent design is to solve a Pareto problem for a model in which every agent
 inside the model optimizes in light of information and incentive constraints and a common
 probability model. Intelligent design is a coherent response to Lucas's (1976) indictment of pre
@@ -31,9 +34,11 @@ rational expectations macroeconomic policy design procedures. Lucas rejected tho
 because they incorporated private agents' decision rules that were not best responses to government
 policy under the equilibrium probability measure. The cross-equation restrictions imposed
 by a common belief assumption fix that problem.
+
 Let/denote a probability density and xt a history xt,xt-i,,..,x0. Partition xt = [y? v,]', where
 vt is a vector of decisions taken by a government and yt is a vector of all other variables. Let
 /(/?,vx|p) be a joint density conditional on a parameter vector p?ilp. Government chooses a  sequence h of functions
 (1) v, = ft,(x?, r=>0,
+
 to maximize a Pareto criterion that can be expressed as expected utility under density/(jt??|p):
 (2) \u{f,v-\pW^\p)d{y-,v-).

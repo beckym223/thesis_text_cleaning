@@ -4,12 +4,14 @@ is simple. A nonparticipant will choose the low NC carbon price because that
 maximizes national welfare for nonparticipants. Similarly, a participant will choose
 the higher international target carbon price to meet its obligations because that maximizes
 its economic welfare conditional on participation.
+
 In considering whether or not to participate in the high-abatement cooperative
 regime, countries face two sets of costs. The first cost is the additional abatement
 cost (net of reduced damages) of participation. The additional abatement costs are
 greater than the reduced damages. This fact shows immediately why countries will
 not voluntarily depart from the NC equilibrium without some further inducements
 to participate.
+
 The second impact of the decision on participation is due to trade impacts. The
 present study analyzes a uniform tariff on all goods and services imposed by participants
 on the imports from nonparticipants into the Climate Club. Figure 2 shows the
@@ -18,13 +20,16 @@ Club treaty authorizes penalty tariffs on nonparticipants into the Club region, 
 penalty tariffs on intra-Club trade. The two cells on the right indicate that there are
 no tariffs, which assumes no reaction or retaliation of non-Club members to the Club.
 VI. Algorithmic Issues
+
 Finding the equilibrium coalition, as well as determining stability and uniqueness,
 is computationally demanding. Consider a global Climate Club with n regions.
 The payoffs are functions of the parameters of the game, including output, emissions,
 damages, the trade technology, and the tariff penalty function. In addition, the
 payoffs depend up the participation of each of the other players.
+
 In the most general version, discussed above in the section on bottom-up coalitions,
 there may be multiple coalitions (i.e., regional groupings). This outcome
+
 is seen in trade associations and military alliances formed on the basis of costs,
 location, and ideologies. In the case of multiple coalitions, there will be on the order
 of n! possible coalitions. For our study, with 15 regions and multiple regimes, that
@@ -40,6 +45,7 @@ would need to take each of the 2" coalitions and determine whether they are stab
 against all the other 2" - 1 coalitions, which requires about 22" « 109 comparisons.
 While this is computationally feasible, it is unnecessarily burdensome, particularly
 for model construction and comparison of regimes.
+
 I therefore settled on an evolutionary algorithm to find stable coalitions. This is
 similar to a genetic algorithm except that it considers mutations of all elements rather
 than just local searches. This proceeds in the following steps: (i) Start w

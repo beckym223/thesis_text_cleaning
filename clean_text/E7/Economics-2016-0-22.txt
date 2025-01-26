@@ -1,6 +1,7 @@
 retirement savings only produced a penny in increased savings. What determines
 savings rates is not tax policy but the design features of the employer pension plans,
 i.e., SIFs.
+
 There are many other examples of the potential power of behavioral factors in policy
 analysis but summarizing them would be a waste of time. I cannot possibly do a
 better job of that than Raj Chetty (2015) did last year in his Ely lecture: "Behavioral
@@ -8,6 +9,7 @@ Economics and Public Policy: A Pragmatic Perspective." I completely endorse his
 view that the best way to proceed is to stop arguing about theoretical principles and
 just get down to work figuring out the best way of understanding the world.
 VI. Conclusion
+
 There is one central theme of this essay: it is time to fully embrace what I would
 call evidence-based economics. This should not be a hard sell. Economists use
 the most sophisticated statistical techniques of any social science, have access to
@@ -17,12 +19,15 @@ economics has become an increasingly empirical discipline. Hamermesh (2013)
 finds that the percentage of "theory" papers in top economics journals has fallen
 from 50.7 percent in 1963 to 19.1 percent in 201 1. We are undeniably an empirical
 discipline - so let's embrace that.
+
 Viewed in this context, behavioral economics is simply one part of the growing
 importance of empirical work in economics. There is nothing unique about incorporating
 psychological factors such as framing, self-control, and fairness into economics
 analyses. If such factors help us understand the world better and improve
+
 predictions about behavior, then why wouldn't we use them just like we would use
 any other new source of data such as web searches or genetic markersIn
+
 this sense I think it is time to stop thinking about behavioral economics as
 some kind of revolution. Rather, behavioral economics should be considered simply
 a return to the kind of open-minded, intuitively motivated discipline that was
@@ -32,6 +37,7 @@ not in such a way that restricts our attention to only those factors that can be
 from our traditional normative traditions. Indeed, my sense is that we are at the
 beginning of a new wave of theoretical developments made possible simply by turning
 our attention to the study of Humans rather than Econs.
+
 If economics does develop along these lines the term "behavioral economics"
 will eventually disappear from our lexicon. All economics will be as behavioral as
 the topic requires, and as a result, we will have an approach to economics that yields

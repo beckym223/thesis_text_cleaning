@@ -1,14 +1,18 @@
 economic and strategic aspects and leave other aspects to specialists in those areas
 (see Bordoff 2009 and Brainard and Sorkin 2009).
+
 Two approaches to trade sanctions might be considered. A first approach, called
 carbon duties, would put tariffs on imports of nonparticipants in relation to the carbon
 content of imports. A second approach, called uniform penalty tariffs, would
 apply uniform percentage tariffs to all imports from nonparticipating countries. I
 discuss each of these in turn.
+
 The central question addressed in this analysis is whether a club design which
 incorporates penalty tariffs on nonparticipants can produce a stable equilibrium or
 coalition that significantly improves on the noncooperative equilibrium.
+
 D. Carbon Duties
+
 A first approach called carbon duties - commonly proposed among scholars who
 have advocated penalties - would put tariffs on goods imported from nonparticipants
 in relation to the goods' carbon content. (These are also known as countervailing
@@ -18,6 +22,7 @@ would be equal to the domestic price of carbon (or perhaps by an agreed-upon int
 target carbon price) times the carbon content of the import. Alternatively,
 under a cap-and-trade regime, the requirement might be that importers purchase
 emissions allowances to cover the carbon content of imports.
+
 The technique of carbon duties is commonly used when countries violate their trade
 agreements, and is also included in several international environmental agreements
 (see Barrett 2003 for an extensive history). The purposes of carbon duties are to reduce
@@ -35,7 +40,9 @@ European Union. They find that the proposal would be complex to implement and
 would have little effect on emissions. Estimates of this approach using the C-DICE
 model described below also indicate that carbon duties have limited effectiveness in
 promoting deep abatement (see the online Appendix for more details).
+
 E. Uniform Tariff Mechanisms
+
 Given the complexity of carbon duties, I propose and analyze an alternative and simpler
 approach: a uniform percentage tariff. Under this approach, participating countries
 would levy a uniform percentage tariff (perhaps 2 percent) on all imports from nonparticipants.

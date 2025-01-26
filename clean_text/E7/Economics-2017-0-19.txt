@@ -2,6 +2,7 @@ even reasonably well, they could become rich very fast, and they would take over
 the market. There are both smart money and noise traders in the market, the former
 attempting to predict the latter.11 There is a large literature on value investing that
 confirms that there has been a long-term return to doing it.12
+
 In a bubble, the contagion is altered by the public attention to price increases: rapid
 price increases boost the contagion rate of popular stories justifying that increase,
 heightening demand and more price increases. In a stock market bubble, these might
@@ -11,6 +12,7 @@ making a fortune flipping houses. There can also be price-to-GDP-to-price feedba
 if speculative price increases stimulate purchases and hence more increases,
 price-to-corporate profits-to-price feedback, and price-to-regulatory laxity-to-price
 feedback, all mediated by changing narratives (Shiller 1984, 2000, 2015).
+
 The impact of the epidemic on the asset return would depend on the speed of the
 epidemic relative to the discount rate. If the speed is very low, there would be very
 little impact on short-term returns. Then the asset price changes would find little

@@ -1,52 +1,91 @@
 II. Inter generational Transfers and Welfare
+
 Debt rollovers are, by their nature, non-steady-state phenomena, and have potentially
 complex dynamics and welfare effects. It is useful to start by looking at a simpler
 policy, namely a transfer from the young to the old (equivalent to pay-as-you-go social security), and then to return to debt and debt rollovers in the next section.
 The natural setup to explore the issues is an overlapping generation model under
 uncertainty. The overlapping generation structure implies a real effect of intergen-erational transfers or debt, and the presence of uncertainty allows to distinguish between the safe rate and the risky marginal product of capital.
 16
+
 I proceed in two steps, first briefly reviewing the effects of a transfer under
 certainty, following Diamond (1965), then extending it to allow for uncertainty. (Derivations are given in online Appendix B.)
 17,18
+
 Assume that the economy is populated by people who live for two periods, working
 in the first period, and consuming in both periods. Their utility is given by
 U
 
+
+
 =
+
 (1 − β) U ( C 1  )  + βU  ( C 2  )  ,
+
 where
+
 C
+
 1    and   C  2    are consumption in the first and the second period of life, respectively.
 (As I limit myself for the moment to looking at the effects of the transfer
 on utility in steady state, there is no need for now for a time index.) Their first and
 second period budget constraints are given by
+
 C
+
 1   = W  −  K  −  D;   C  2   = RK  +  D  ,
+
 where
+
 W
+
 is the w
+
 age,
+
 K
+
 is sa
+
 ving (equivalently, next period capital),
+
 D
+
 is the transfer
+
 from young to old, and
+
 R
+
 is the rate of return on capital.
+
 I ignore population gro
+
 wth and technological progress, so the growth rate is equal
+
 to zero. Production is given by a constant returns production function,
+
 Y
 
+
+
 =
 
+
+
 F
+
 (K, N)  .
+
 It is convenient to normalize labor to 1, so  Y
 
+
+
 =
 
+
+
 F
+
 (K, 1)  . Both factors are paid
+
 their marginal

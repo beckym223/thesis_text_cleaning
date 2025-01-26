@@ -6,20 +6,29 @@ that the systematic component of inflation v does not affect the distribution of
 rate conditional on v. The government's one-period loss function is E(U2 + it2).
 The government's approximating model denies the natural rate hypothesis by asserting that v
 affects the probability distribution of U according to
+
 (22) U = 60 + 0i(v + 63w2) + 62wl ;
+
 (23) 77 = v + 03w2,
+
 where the random vector w has the same distribution as w. Under the true model and the protocol
 that the government chooses target inflation before the private sector sets its expectation of inflation,
 the government's best policy is v = 0. However, under the approximating model (22)-(23),
 the government's best policy is
+
 <24) "*<*>-77*,
+
 There exists a unique self-confirming equilibrium in which
+
 (25) (0o)o = PO + P,h(eo),
+
 (26) (0i)o=-Pi,
+
 and (02)o ? PiX^^o ? P3- The self-confirming equilibrium equals the time-consistent equilibrium
 of Kydland and Prescott (1977).28 An adaptive government's estimates 0, converge to
 the self-confirming equilibrium vector 60, and the systematic part of inflation converges to v =
 h{0o).
+
 The data-matching restriction (25) pinpoints how the government mistakenly ignores the effect
 of its policy choice v, which also equals the public's expected rate of inflation, on the position of
 the Phillips curve. The population regression coefficient of ?Von 77 is 6X = ?PiP2/[var(v) + p2].

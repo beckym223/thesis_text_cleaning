@@ -1,72 +1,128 @@
 Now consider a small increase in  D   on utility at time  t  :
+
 d
+
 U
+
 t   =  [−  (1 − β) U′ ( C 1,t  )  + βEU′  ( C 2,t+1  ) ] dD
+
 +
+
 [ (1 − β) U′ ( C 1,t  )  d W t   + β K t   E [U′ ( C 2,t+1  )  d R t+1  ] ]  .
 As before, the first term in brackets, call it
+
 d
+
 U
+
 at   , reflects the partial equilibrium,
+
 direct, effect of the transfer, the second term, call it
+
 d
+
 U
+
 bt   , reflects the general equilibrium
+
 effect of the transfer through the change in wages and rates of return to capital.
 Take the first term, the effect of debt on utility given prices. Using the first-order
 condition gives
+
 d
+
 U
+
 at   =  [− βE  [ R t+1  U′ ( C 2,t+1  ) ]  + βE  [U′ ( C 2,t+1  ) ] ]  dD .
 So, using the definition of the safe rate:
+
 (3)
+
 d
+
 U
+
 at   = β (1 −  R  t+1  f  ) EU′ ( C 2,t+1  ) dD .
+
 So, to determine the sign ef
+
 fect of the transfer on welfare through this first channel,
+
 the relevant rate is indeed the safe rate. In any period in which
+
 R
+
 t+1  f    is less than
+
 1, the transfer is welf
+
 are improving.
+
 The reason why the safe rate is what matters is straightforward and important:
 the safe rate is, in effect, the risk-adjusted rate of return on capital.20 The intergenerational
 transfer gives people a higher rate of return than the risk-adjusted rate of
 return on capital.
+
 Take the second term, the effect of the transfer on utility through prices:
 d
+
 U
+
 bt   =  (1 − β) U′ ( C 1,t  )  d W t   + βE  [U′ ( C 2,t+1  )  K t   d R t+1  ]  .
 Or using the factor price frontier relation:
-d
-U
-bt   =  (−1 − β) U′ ( C 1,t  )   K t−1   d R t   + βE  [U′ ( C 2,t+1  )  K t   d R t+1  ]  .
-In general, this term will depend both on
-d
-K
-t−1    (which affects  d W t   ) and on  d  K  t
-(which affects
-d
-R
-t+1   ). If we evaluate it at   K  t   =  K t−1   = K   and  d  K  t   = d K  t+1
-=
-dK
-, it can be re
-written, using the same steps as in the certainty case, as
-(4)
-d
-U
-bt   =  [β (1/η) α] E [ ( R t+1   −    R t+1   _  R t    ) U′ ( C 2,t+1  ) ]   R t    dK ,
-or
-(5)
 
 d
+
 U
+
+bt   =  (−1 − β) U′ ( C 1,t  )   K t−1   d R t   + βE  [U′ ( C 2,t+1  )  K t   d R t+1  ]  .
+In general, this term will depend both on
+
+d
+
+K
+
+t−1    (which affects  d W t   ) and on  d  K  t
+
+(which affects
+
+d
+
+R
+
+t+1   ). If we evaluate it at   K  t   =  K t−1   = K   and  d  K  t   = d K  t+1
+=
+
+dK
+
+, it can be re
+
+written, using the same steps as in the certainty case, as
+
+(4)
+
+d
+
+U
+
+bt   =  [β (1/η) α] E [ ( R t+1   −    R t+1   _  R t    ) U′ ( C 2,t+1  ) ]   R t    dK ,
+or
+
+(5)
+
+
+
+d
+
+U
+
 bt   =  [β (1/η) α] E [ R t+1  U′ ( C 2,t+1  ) ]  ( R t   − 1)  dK .
+
 Thus, the relevant rate in assessing the sign of the welfare effect of the transfer
 through this second term is the risky rate, the marginal product of capital. If
 R
+
 t    is
+
 20 The relevance of the safe rate in assessing the return to capital accumulation was one of the themes in
 Summers (

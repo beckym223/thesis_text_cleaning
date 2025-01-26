@@ -1,5 +1,6 @@
 desire minimal facilities want low dues, while those who prefer extensive coverage
 choose more elaborate facilities with higher dues.
+
 Let's take an experiment where we ask each country for its preferred international
 target carbon price (always keeping the global SCC at $25 and its regional distribution
 unchanged). Using the C-DICE model, calculate the equilibrium coalition for
@@ -8,6 +9,7 @@ for each region, ask which treaty carbon price is optimal for the region. For th
 example chosen, the impacts on net regional incomes are roughly quadratic for low
 prices because all regions participate. Above $34 per ton, countries begin to drop
 out, so the calculations become clouded by the effects of participation.
+
 Figure 8 and Table 3 show the distribution of preferred target carbon prices for
 regions where the global SCC is $25. The curves show on the vertical axis the fraction
 of regions that would prefer an international target carbon price at or below the target
@@ -20,9 +22,11 @@ The median preferred international target carbon price using GDP weights is $28
 per ton, which is slightly above the global SCC. The median breakeven carbon price is
 $48 per ton. An important finding is that all regions prefer a weak regime to the noncooperative
 regime. Even the least enthusiastic region (South Africa) would prefer a
+
 target price of $18 per ton to the $3 per ton NC equilibrium. Where the negotiations
 would actually settle is an important question beyond the scope of the present study.
 J. Unstable Regimes
+
 Of the 44 regimes, 6 displayed coalitional instability, and these can be easily understood.
 For example, 3 came with a $50 international target carbon price and low tariff
 rates. For example, with a tariff rate of 2 percent, the solution cycled around among a
@@ -30,13 +34,16 @@ small number of quasi-stable coalitions with an average of 2.9 participants. The
 instabilities came with the $100 per ton target price and high tariff rates. For example,
 with $100 per ton target price and a penalty tariff of 9 percent, the coalitions cycled
 with an average number of participations of 3.9 regions.
+
 The instabilities arise because the gains from participation are close to equal in
 these different midsized coalitions. Hence, the solution cycles among quasi-stable
 coalitions as each outbids the others. None of the regimes degenerates to the
 noncooperative equilibrium. Rather, they cycle among similar numbers of participants
 and levels of abatement.
+
 Another potential source of instability would arise if the damage function has a catastrophic
 threshold (which has not been modeled in the C-DICE model framework).
+
 In the limit, assume that if emissions pass some quantity (below the emissions in
 the NC equilibrium), then damages for each region are unlimited. There will be
 multiple combinations of abatement by different regions that can stay under the catastrophic

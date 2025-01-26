@@ -1,6 +1,8 @@
 with, as usual with log utility, first-period consumption being half of total wealth
 1 — r. With no storage, Cit+ C2t = 1, which implies
+
 (17) C2, = i±±.
+
 Note that in this unique equilibrium, the utility of each generation is log( 1 — r) +
 log(l + r) + 21og(l/2), which is less than the upper bound of 21og(l/2). Thus with
 r = 0, the utility-maximizing equilibrium exists, but is not unique, while small posi
@@ -8,26 +10,43 @@ tive values of r make equilibrium unique, and can approach the utility of the op
 The debt valuation equation holds in these equilibria. The gross real interest rate
 is p, = C2j+i/Cu = (1 + t)/(1 — r). From the government budget constraint, then,
 we see that
+
 B,
+
 -i
+
 p Pt-i p r>
+
 t "t~)
+
 and since B/P = C2/p is constant in the equilibrium,
+
 B, T
+
 (18)
+
 P, p- 1
+
 Note that as r approaches zero, B/P does not approach zero, as this formula might
 suggest, p = C2/Cl = (1 + r) / ( 1 — r) in equilibrium and substituting this for p in
 (18) gives us
+
 (19) Tr'-^r
+
 Because p —* 1 as r —» 0, in other words, real debt converges to one half, its value in
 the utility-maximizing equilibrium, as r —> 0, even though the debt valuation equa
 tion (18) continues to hold.
+
 To see how the initial price level is determined, we look at the initial government
 budget constraint. R_x and B_x are given by history, so
+
 / s S0 i — T R_,B._,
+
 (20) — = = - t.
+
 y } P0 2 Pt
+
 This equation can be solved for a unique, positive value of P0, so long as
+
 R,-\B,_x > 0. The subsequent sequence of prices is determined by the sequence of
 policy choices for R„ with higher R, values producing higher inflation.

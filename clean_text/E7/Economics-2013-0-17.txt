@@ -1,10 +1,12 @@
 with b brought in line with stochastically fluctuating future government spending by
 surprise inflation and deflation.
+
 However, these results all depend on surprise inflation and deflation being cost
 less. In a Keynesian model with sticky prices or wages, or in a model with incom
 plete markets and borrowing and lending via standard debt contracts in nominal
 terms, surprise inflation has a substantial cost. Schmidt-Grohé and Uribe (2001)
 showed that in a New Keynesian model with one-period government debt, opti
+
 mal policy is much closer to Barro's (1979) initial prescription than to a constant-r
 policy. It makes a great deal of difference, though, whether government debt is long
 or short term. When debt is short, as in Schmitt-Grohé and Uribe's setup, inflation
@@ -17,23 +19,35 @@ ment fluctuations. The model of this section revisits Barro's (1979) framework,
 adding endogenous price determination and allowing for short or long debt. It con
 cludes that substantial use of the nominal debt fiscal cushion to limit tax fluctuations
 may be optimal if debt maturity is long.
+
 Following Barro (1979), we model the government as wanting to minimize the
+
 deadweight loss from taxation, modeled as proportional to r2, the square of total
 revenue. But we add to his specification a concern with wide swings in inflation,
 leading to the objective function
+
 Î"H£-■)')]■
+
 It simplifies notation for us to use the single symbol ut — P,_x/P, to denote the
 inverse of the gross inflation rate from this point on. There is a constant real interest
 rate, and private sector behavior requires the real rate to match the expected nominal
 return on a bond:
+
 (31) R,Etut+1 = p.
+
 The government budget constraint is
+
 (32) b, = R,_iU,bl_l - T, + g„
+
 where b is real debt and g, is government spending, which we treat as an exogenous
 stochastic process. The government then maximizes (30) by choosing R, P, b, and
 T subject to the two constraints (31) and (32). The first order conditions for an opti
 mum are
+
 (33) dr: t, = X,
+
 (30)
+
 (34)
+
 db: A t = 0RtE,[ut+l\t+l]

@@ -1,6 +1,8 @@
 Figure 22. Shares of Output with Flexible Interest Rate
+
 persistence. If that were the only factor explaining the slump, the economy would be
 well on the way to recovery as of the end of 2010.
+
 Evidence on the persistence of the two credit-related driving forces?consumer credit
 standards and the financial friction?is mixed. This topic needs a lot more investigation.
 The model solution here corresponds qualitatively with Romer's 1992 account
@@ -14,9 +16,14 @@ inflows resulting from the increase in the pegged price of gold and from events 
 Europe. Thus, as in the model solution, a period of a pinned real interest rate caused
 a huge contraction in activity and the release from the high real rate caused a rapid
 expansion of activity.
+
 X. Simple Sticky-Price and Sticky-Wage Models
+
 The model developed here has three important properties that are departures from
 standard economic thinking:
+
 1. The rate of inflation in the price of output is close to exogenous,
+
 2. Capital utilization falls in slumps, and
+
 3. Real wages are sticky.

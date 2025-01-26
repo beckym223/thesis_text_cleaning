@@ -29,6 +29,7 @@ are somehow supposed to fulfill the redistributive role of the missing global go
 example Thomas Pogge (2002) or Peter Singer (2002). For those who do not accept the cosmo
 politan vision as morally compelling or descriptively accurate, such measures are less relevant:
 John Rawls (1999), Thomas Nagel (2005), Leif Wenar (2006).
+
 The paper is organized as follows. Section I explains how the dollar a day poverty numbers are
 calculated and how they depend on purchasing power parity exchange rates. It shows that poverty  measures are sensitive to the PPPs used in their construction and establishes the basic facts and
 puzzles to be addressed, particularly the increases in poverty and inequality associated with the

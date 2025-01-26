@@ -3,23 +3,31 @@ the agents inside the model. The econometrician's tools for learning 0 are (i) a
 a Law of Large Numbers, a Central Limit Theorem, and some large deviations theorems that
 characterize limits, rates of convergence, and tail behaviors of estimators. With enough data and
 a correct likelihood function, an econometrician can learn 0O.
+
 A rational expectations equilibrium evaluated at a particular history is a likelihood function:
 (7) L(x'\0)=f(x'\e)=f(xt\x'~\e)f(x^\x'-he)---f(xl\xo-e)f(xo\e).
+
 The most confident and ambitious branch of rational expectations econometrics recommends
 maximizing a likelihood function or combining it with a Bayesian prior p{0) to construct a
 posterior p(0\xf)P In choosing 0 to maximize a likelihood function, a rational expectations
 econometrician in effect searches simultaneously for a stochastic process of exogenous variables
 and a system of expectations that prompts forward-looking artificial agents inside a model to
 make decisions that best fit the data.14 Taking logs in (7) gives
+
 (8) logL(?|x') - ?(x,|xf-1;0) + ?(x^x'"2;?) + - + ?(x,|x0;?) + ?(xo|0),
+
 where ?(x,|x'_1;0) = log/folx'"1^). Define the score function as st(x\0) = 3?(xf |x'"~\0)/a0.  The first-order conditions for maximum likelihood estimation are
 (9) -n-i>r(*T.4) = o.
+
 By solving these equations, an econometrician finds a 0t that allows him to approximate the
 equilibrium density very well as t -? +o?.
+
 A. Using a Misspecified Model to Estimate a Better One
+
 Lucas (1976) convinced us that nonstructural models are bad vehicles for policy analysis. But
 the first-order conditions for estimating a good fitting nonstructural model can help to make
 good inferences about parameters of a structural economic model.
+
 Indirect estimation assumes that a researcher wants to estimate a parameter vector p of a
 structural rational expectations model for which (1) analytical difficulties prevent evaluating a
 likelihood function/^'|p) directly, and (2) computational methods allow simulating time series

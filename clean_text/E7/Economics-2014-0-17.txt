@@ -3,6 +3,7 @@ penalties on employees who want fewer hours and more flexible employment. The
 lower remuneration can result in shifts to an entirely different occupation or to a
 different position within an occupational hierarchy or to being out of the labor force
 altogether.
+
 Illustrations of the framework will be useful. Lawyers, for example, constitute
 an occupational group, certainly one professional degree group. But an individual
 with a law degree can be partner in a large law firm in which there is a premium for
@@ -13,26 +14,34 @@ can be thought of as position 1 , position 2, and the reservation position in th
 The remuneration of these lawyers, all of whom have the same formal education,
 would map out a nonlinear (convex) relationship of total earnings with respect
 to hours or to the flexibility of hours.27
+
 Pharmacy, on the other hand, has nearly linear earnings with respect to time
 worked. Pharmacists who work more hours earn more, linearly. Those who are
+
 in managerial positions in a pharmacy earn more chiefly because they work more
 hours. Those who work part-time get paid less in a linear fashion.28
+
 The explanation just provided for differences across occupations is more a part of
 personnel economics than human capital theory because the underlying notions are
 those of compensating differentials. Differences in pay arise because of productivity
 differences in the workplace, not because of inherent differences in human capital
 across workers. Some workers want the amenity of flexibility or of lower hours and
 some firms may find it cheaper to provide.
+
 The framework just outlined can be viewed as the micro-foundations of a compensating
 differentials model.29 Individuals place different values on the amenity
+
 "temporal flexibility," and firms or sectors face different costs in providing the amenity.
 The framework gives reasons why there are different costs and how they might
 change.30
+
 IV. Occupational Differences from 0*Net Characteristics
+
 Do the notions of the framework have explanatory power regarding the estimated
 gender gaps for the 95 occupations previously identified and classified by group? To
 explore the relationship between the residual gender earning gap and occupational
 features I have used detailed occupation descriptions from 0*Net online.31
+
 0*Net lists hundreds of separate characteristics grouped in seven categories. The
 two categories most relevant for the issues at hand are "work context" (57 characteristics)
 and "work activities" (41 characteristics). Five characteristics

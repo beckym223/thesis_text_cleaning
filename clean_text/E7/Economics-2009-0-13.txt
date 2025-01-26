@@ -1,6 +1,7 @@
 this respect he is like a combination of court and police or jailer. Formal law, where enforcement
 is provided by governmental or quasi-governmental bodies, is also third-party governance, but
 not for profit.
+
 Honesty of these third parties is not automatic. Formal courts may also be biased or corrupt,
 and the police and jailers may likewise be corrupt in enforcing the judgment of the courts.
 Private for-profit enforcement brings the problem out into the open. If Peppe conspires with
@@ -11,8 +12,11 @@ with the third party. To sustain honest behavior in each game, each trader and P
 sufficiently large share in the total pie. This places upper and lower bounds on the fee of the third
 party: Peppe's fee has to be high enough to keep him honest, but low enough to keep the trader
 honest (Dixit 2004, chap. 4; further details in Dixit 2003a).
+
 A simple special case of the analysis will illustrate the point. Consider a one-shot game with
 the payoff matrix
+
+
 
 where W>H>C>0>L, and 0 is the outside option. This game is a prisoner's dilemma; it
 is worth playing even without governance, but can yield a higher payoff if governance ensures
@@ -22,13 +26,17 @@ Under the information service, each customer can cheat to get a one-time payoff 
 of H - F for an extra benefit (W - H), but then the game will collapse into the cheating equilibrium,
 so the player will get C instead of H - F forever. If r is the discount rate, the condition for
 this deviation to be undesirable is
+
 {H-F)-C> r(W-H), or F < (H - C) - r (W - H).
+
 Peppe can double-cross one of the customers to let the other gain W instead of H, and can extract
 at most this excess (W - H) for this. But then the cheated customer will not deal with Peppe in
 the future, so Peppe will lose F forever. The condition to keep Peppe honest is therefore
 F>r'{W-H\
+
 where r' is Peppe's discount rate (which may be higher than r, to reflect the probability of loss of
 business or death in the cutthroat competition to become the next Peppe). These two inequalities
 are the conditions on the division of surplus, or the two-sided efficiency wage. If
 r' (W - H) < (H - C) - r (W - H\
+
 we can find an F satisfying both inequalities.

@@ -5,19 +5,23 @@ adequate variation in inflation, which it does not do within an SCE. So the firs
 of being one in which evolution converges to "the best of all possible worlds." A more optimistic
 outcome prevails in our next story, which endows the government with a model that allows its
 misunderstandings of off-equilibrium-path choices eventually to vanish.
+
 B. A Keynesian Account
+
 The previous story is about how the troublesome possibility raised in Section MB plays out.
 The model of Giorgio Primiceri (2006) envisions a world in which that possibility is off the table
 because/(j", vx|p) = /(/>X|0O) for all vx and an SCE equals an REE. All of the action in
 Primiceri's model comes from calibrating an initial 0O ^ 0O which leads to a transient stochastic
 path that converges to an SCE presided over by Greenspan and whose transient dynamics mimic
 the post-WWII United States.
+
 Primiceri's definition of an SCE is special in that, while it sets the government's model/(jtc ' \ 6)
 equal to the true model/(x'| p), it assumes that private agents make forecasts of inflation that do
 not equal those implied by/(V| p). There is implicitly a third density f{xl) inside the model that
 equals neither the government's/(V|(9) nor nature's f(xl\p). In particular, Primiceri assumes
 thaXf{xt\0) =f(xt\p) is a version of a Solow-Tobin model that itself imputes irrational expectations
 about inflation to the private sector.32
+
 Primiceri has a time invariant true data-generating model featuring (i) an expectations augmented
 Phillips curve; (ii) a Phillip Cagan (1956)-Friedman (1957) adaptive expectations scheme
 that describes how the public forms expectations of inflation that appear in (i)33; (iii) an aggregate

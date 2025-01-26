@@ -1,5 +1,6 @@
 much the same effect as taxes?they create wedges and resulting inefficiencies, but
 do not consume output.
+
 A different type of friction occurs when a borrower is unable to perform on a
 debt obligation. Another branch of the literature on financial frictions, starting from
 Robert M. Townsend (1979), observes that debt contracts have the property that the
@@ -14,12 +15,16 @@ the borrower and lender jointly?it comprises bankruptcy costs, business interrup
 costs, and the like. But the friction is likely to move in proportion to observed
 spreads, so a widening of the total spread will usually indicate an increase in the
 financial friction.
+
 A. Credit Rationing and Lending Standards
+
 Lenders always ration credit. They need to overcome substantial adverse selection
 problems. They set standards for borrower eligibility and spend resources verifying
 that borrowers meet the standards. One of the consequences of a slump, especially
 one with an initial financial crisis, is a tightening of lending standards for both businesses
 and households. Adverse selection becomes a more serious danger when
+
 more borrowers are close to the margin of failure.
+
 Lending standards are increasingly based on credit scores and other metrics, but I
 am not aware of any systematic compilation of quantitative standards into an overall

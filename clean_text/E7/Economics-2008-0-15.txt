@@ -7,6 +7,7 @@ unemployment the Keynesian direction of fit and unemployment on inflation the cl
 26 I impute simplified versions of more completely articulated models to the government.27
 These simple models capture the substantially different operating characteristics that drive our
 stories.
+
 The three stories have monetary authorities solve adaptive intelligent design problems that
 induce them to make decisions that are influenced by their erroneous views about the consequences
 of actions not taken. The stories differ in the nature of those misunderstandings. In
@@ -19,12 +20,15 @@ temporary misestimates 0, of 0o induce it to misunderstand the consequences of p
 it chooses not to implement. In the third story, the government mixes across submodels with
 operating characteristics that give very different readings about the consequences of following a
 no-feedback low-inflation policy.
+
 A. The (Temporary) Conquest of US Inflation
+
 This story is about generating sufficient variation in the data to allow a government's misspecified
 model to detect that there is no exploitable trade-off between inflation and unemployment.
 The only way the government's model lets it discover that there truly is no exploitable trade-off
 is for it falsely to infer that there is no trade-off whatsoever. That imperfection dooms stabilizations
 of inflation to be temporary.
+
 This story uses specifications f{ycc,vcc\p) "?f(yx,v?\0) to capture the idea that a monetary
 authority misunderstands how its decisions affect private agents' expectations about inflation
 and, therefore, the joint distribution of unemployment and inflation. I illustrate the forces at work
@@ -32,7 +36,9 @@ with the following simplified version of a model that Christopher A. Sims (1988)
 and Sargent (2002), and Sargent and Williams (2005) studied and that Heetaik Chung (1990),
 Sargent (1999), and Sargent, Williams, and Zha (2006b) fit to US data. The true model is
 (20) U = p0 - Pip3w2 + p2Wi ;
+
 (21) 77 = v + p3w2,
+
 where U is the unemployment rate, rr is the rate of inflation, v is the systematic part of the inflation
 rate chosen by the monetary authority, w is a 2 X 1 Gaussian random vector with mean zero
 stability and performance of alternative monetary policy rules See Timothy Cogley (2005) and Monika Piazzesi and  Martin Schneider (2007) for applications to the yield curve

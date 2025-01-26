@@ -6,11 +6,13 @@ respond strongly to narratives, in the fields of marketing (Escalas 2007); journ
 health interventions (Slater et al. 2003); and philanthropy (Weber et al. 2006).
 My goal in this paper is to describe what we know about narratives and the penchant
 of the human mind to be engaged by them, to consider reasons to expect
+
 that narratives might well be thought of as important, largely exogenous shocks to
 the aggregate economy. This address extends some earlier work I have done with
 George Akerlof (Akerlof and Shiller 2009, 2015) and some of my own earlier work
 going back decades (Shiller 1984), but develops the analysis and captures a much
 broader relevant literature.
+
 Of course, almost nothing beyond spots on the sun is truly exogenous in economics,
 but new narratives may be regarded often as causative innovations, since each
 narrative originates in the mind of a single individual (or a collaboration among a
@@ -19,6 +21,7 @@ the concept back to Hume (1742) who wrote that "what depends on a few persons
 is, in great measure, to be ascribed to chance, or secret and unknown causes; what
 arises from a great number may often be accounted for by determinate and known
 causes."1
+
 I will present here some thoughts on these effects of a "few persons" and offer
 a class of mathematical models for some of these determinate and known causes
 of the path of narratives, quantifying the dynamics of narratives, and will consider
@@ -26,6 +29,7 @@ how our understanding can be enhanced of major economic events: the Depression
 of 1920-1921, the Great Depression of the 1930s, the Great Recession of 2007-
 2009, and our present time right after our narrative-filled 2016 US presidential
 election.
+
 I use the term narrative to mean a simple story or easily expressed explanation
 of events that many people want to bring up in conversation or on news or social
 media because it can be used to stimulate the concerns or emotions of others, and/
@@ -40,5 +44,7 @@ hard to understand, unless we reflect carefully on the reason people like to spr
 the narrative. Mutations in narratives spring up randomly, just as in organisms in
 evolutionary biology, and when they are contagious, the mutated narratives generate
 seemingly unpredictable changes in the economy.
+
 Narratives can be based on varying degrees of truth. Wishful thinking may
+
 enhance contagion (Bénabou 2013). The impact of nonfactual narrat

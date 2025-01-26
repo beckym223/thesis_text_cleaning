@@ -11,11 +11,14 @@ their internal affairs without the intervention of other states. The current Wes
 system requires that countries consent to joining international agreements, and all
 agreements are therefore essentially voluntary (Treaty of Vienna 1969, article 34).
 B. Clubs as a Mechanism to Overcome Free-riding
+
 Notwithstanding the Westphalian dilemma, nations have overcome many transnational
 conflicts and spillovers through international agreements. There are over
+
 200,000 UN-registered treaties and actions, which are presumptive attempts to
 improve the participants' welfare. Countries enter into agreements because joint
 action can take into account the spillover effects among the participants.
+
 How have countries overcome the tendency toward free-riding associated with
 the Westphalian system? Consider the many important international agreements in
 international trade and finance as well as alliances that have reduced the lethality of
@@ -24,6 +27,7 @@ of "clubs." A club is a voluntary group deriving mutual benefits from sharing
 the costs of producing an activity that has public-good characteristics. The gains
 from a successful club are sufficiently large that members will pay dues and adhere
 to club rules in order to gain the benefits of membership.
+
 The theory of clubs is a little-known but important corner of the social sciences.
 (For an early analysis, see Buchanan 1965, while for a fine survey, see Sandler and
 Tschirhart 1980.) The major conditions for a successful club include the following:

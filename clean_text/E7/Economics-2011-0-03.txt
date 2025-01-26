@@ -9,6 +9,7 @@ crisis of September 2008?the Great Slump?the origin in the financial events of
 the earlier years of the decade seems obvious. Years of stable and rising house prices
 made levered positions in real-estate-related assets seem quite safe. Regulators permitted
 increases in leverage, especially for investment banks and other financial
+
 entities thought to be free from government guarantees and the accompanying need
 for government supervision. The Securities and Exchange Commission altered capital
 requirements for investment banks in 2004 and their leverage rose. Risk analysis
@@ -17,6 +18,7 @@ to significant declines in housing prices. Credit became available to households
 were denied access under earlier standards. The result was a bulge in homebuilding
 and sales of cars and other consumer durables, together with a corresponding bulge
 in consumer debt.
+
 The wholly unexpected decline in housing prices brought the financial crisis.
 Commercial banks required help from the government that they had reason to expect.
 Events showed that the precarious conditions of other large financial entities?investment

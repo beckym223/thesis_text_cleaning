@@ -4,17 +4,28 @@ not subject to tax. The proportion of such holders has steadily increased over t
 reflecting the increase in emerging markets’ reserves (in particular China’s), the
 growth of the Social Security Trust Fund, and more recently, the increased holdings of the Fed, among other factors. From 15 percent in 1950, it now accounts for 64 percent today.
 Using the maturity adjusted interest rate from above,
+
 i
+
 t   , the implicit tax rate,
+
 τ
+
 t   , and the proportion of holders likely subject to tax,   β  t   , I construct an “adjusted
 interest rate” series according to
+
 i
+
 adj,t   =  i t   (1 −  τ t   ×  β t  )  .
+
 Its characteristics are shown in Figures 3 and 4. Figure 3 plots the adjusted rate
 against the 1-year and the 10-year rates. Figure 4 plots the adjusted tax rate against
 the nominal growth rate. They yield two conclusions:
+
 •
+
 First, o
+
 ver the period, the average adjusted rate has been lower than either the
+
 1-year or the 10-year rates, averaging 3.8 percent since 1950. This however

@@ -1,19 +1,24 @@
 resources, all involve problems of collective action to avoid free-riding; they are multiperson
 prisoner's dilemmas.2
+
 Good economic governance thus underpins the whole Smithian process whereby individuals
 specialize in different tasks and then transact with one another to achieve the full economic
 potential of the society.
+
 Governance is an organizing concept for many fields in all social sciences; it is not a field
 per se, and certainly not a field within economics. Case studies in law, political science, sociology,
 and anthropology, and game-theoretic modeling in economics, have all contributed to the
 advancement of our knowledge concerning governance institutions. This offers a unique opportunity
 for the social sciences to have a meeting point, if not for reunification, after their separation
 over a century ago.
+
 Consistent with the multidisciplinary, multifaceted nature of the topic, this essay will synthesize
 and build on the work of numerous researchers, not just reprise my own. The literature
 is vast, my knowledge of it is imperfect, and space is limited even for a presidential address. I
 apologize in advance for all omissions and misinterpretations.
+
 I. Governance and Government
+
 Most people's first instinctive reaction to the recognition of the importance of economic governance
 is that good governance should be provided by the government. But I want to emphasize
 that governance and government should not be regarded as almost synonymous; indeed, this may
@@ -38,5 +43,6 @@ norms can work better than traffic lights. At a more entertaining level, YouTube
 traffic "law without order" in St. Petersburg: http://www.youtube.com/watch?v=H2JFLlSk21Y
 and conversely, "order without law" in India: http://www.youtube.com/watch?v=5WU8hilbN9Y
 and in Vietnam http://www.youtube.com/watch?v=eC4BN9kInXg.
+
 Of course, norms do not always deliver perfect order; traffic accidents do occur in India and
 Vietnam.

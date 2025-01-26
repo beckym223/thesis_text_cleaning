@@ -6,11 +6,13 @@ governance structures to minimize transaction costs; in other words, there is a 
 toward more efficient structures that match institutions to the needs of governance. Douglass
 North (1990) argues that such alignment may fail to occur, emphasizing obstacles presented by
 the political process of reform.
+
 Discriminating alignment can work well and reasonably quickly when the decision is made
 by one actor, or by a small group with common interests. Williamson's (1985, chap. 4, 5) classic
 analysis of vertical integration choices by firms is a case in point. Robert Ellickson (1991) and
 Gary Libecap (1989, chap. 3) have cases where small groups quickly established and enforced
 private order for property rights.9
+
 But institutions constitute an equilibrium, and institutional change means shifting to a new
 equilibrium. In any moderately complex social context, this requires (1) either compensating
 those who would lose from the change or overcoming their resistance in the existing political
@@ -38,6 +40,7 @@ the performance of the existing system of informal relational governance, by mak
 of cheating less harmful. These examples also show that when making institutional
 reforms that are expected to lead to eventual improvements, it may be necessary to accept some
 transitional worsening of performance.
+
 These studies have also given us a few broad generalizations about successful institutional
 change. (1) The government has an important role as partner and facilitator of reforms. But top
 down reforms may be difficult to achieve because of lack of adequate local knowledge and lack

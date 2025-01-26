@@ -5,6 +5,7 @@ damages, that the global noncooperative carbon price and abatement rate are prop
 to the Herfindahl index of country size. This implies, given realistic data,
 that the global noncooperative carbon price and control rate will be in the order of
 one-tenth of the efficient cooperative levels.
+
 Next consider possible mechanisms to combat free-riding and focus on a Climate
 Club. It is generally assumed that the most effective approach will be to impose trade
 sanctions on nonparticipants, and this is the route followed here. Most trade sanctions
@@ -14,10 +15,12 @@ tariffs levied by club participants on nonparticipants. In the analysis, the tar
 vary from 0 percent to 10 percent. It is further assumed that a climate treaty will
 amend trade rules so that a penalty tariff conforms with international trade law and
 retaliation by nonparticipants is prohibited.
+
 This study assumes that countries adopt an international carbon-price target rather
 than a quantity target as the policy instrument. The assumed target price ranges from
 $12.5-$ 100 per ton C02. In the experiments, the international target carbon price is
 always set equal to the global social cost of carbon.
+
 Individual countries are assumed to adopt climate policies that maximize their
 national economic welfare. Welfare equals standard income less damages less
 abatement costs less the costs of trade sanctions. I assume a one-shot static game,
@@ -26,19 +29,25 @@ described as a coalition Nash equilibrium, is a coalition of countries that is s
 against any combination of joiners and defectors. The equilibrium is calculated by
 an evolutionary algorithm that tests each coalition against a random collection of
 countries that can defect and join.
+
 The study introduces a new approach called the C-DICE model (Coalition
+
 DICE, or Coalition Dynamic Integrated Model of Climate and the Economy). It is
 a 15-region model with abatement, damages, international trade, and the economic
 impacts of tariffs. Using an evolutionary algorithm, the model can be used to find
 stable coalition Nash equilibria.
+
 B. Qualifications
+
 I begin with qualifications on the results that relate to the data and structural
 parameters. The data on output, C02 emissions, and trade are relatively well measured.
 The global SCC is uncertain but can be varied as shown in the different
+
 experiments. The national SCCs are also uncertain, but since they are all small
 relative to the global SCC, their exact magnitudes are not critical for the findings.
 Other structural uncertainties relate to the abatement cost function and the optimal
 tariff rate.
+
 A related question is whether a trade-penalty-plus-carbon-price regime can operate
 in the future with the rising carbon prices that are generally associated with an
 efficient climate-change program. Answering this question requires a multiperiod

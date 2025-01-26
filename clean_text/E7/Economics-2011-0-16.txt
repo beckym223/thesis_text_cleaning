@@ -2,6 +2,7 @@ Recent experience requires a fundamental reconsideration of the view that produc
 find it desirable to expand output by cutting prices. Their behavior across
 all industries suggests, to the contrary, that price-cutting is not the answer to any
 problem they perceive in a time of extreme slack.
+
 Monthly inflation rates contain a good deal of noise from components of the
 price index with volatile prices, notably petroleum products and food. Practitioners
 have come up with a variety of ways of extracting a less noisy inflation signal from
@@ -10,8 +11,10 @@ month changes. Another, currently the most widely used, is to study core inflati
 price changes excluding the volatile food and energy components. The third?the
 one I favor?is to use inflation forecasts. The volatile components lose their unpredictable
 noise components but are not completely neglected in this approach. For
+
 the present purpose, forecasts seem the desirable approach, because it is expected
 inflation that matters for the real rate.
+
 Figure 12 shows the one-year-ahead forecast of the GDP deflator from the Survey
 of Professional Forecasters, maintained by the Philadelphia Federal Reserve Bank,
 along with the unemployment rate. The period covered starts in 1987, the year that

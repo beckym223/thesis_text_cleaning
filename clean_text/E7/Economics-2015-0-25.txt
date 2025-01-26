@@ -1,25 +1,33 @@
 H. The Kyoto Protocol as a Failed Regime
+
 One test of the approach used here is to examine the stability of the Kyoto Protocol.
 This agreement included at the outset a substantial fraction of global emissions and
 would, if it had broadened and deepened, have made a substantial contribution to
 slowing the growth of emissions. However, it failed to gain new adherents, and some
 of the members with binding commitments, particularly the US, dropped out.
+
 Conceptually, the Kyoto Protocol was a climate club with no sanctions. To test
 its coalition stability, I formed an initial club with only the original Annex I Kyoto
 Protocol countries having binding emissions commitments with no penalties for
 noncompliance (0 percent tariff). Starting with the original Kyoto coalition status, I
 tested for coalition stability as described above.
+
 All of the simulations collapsed to the noncooperative equilibrium. (See
+
 Figure B-5 in the online Appendix for the simulations.) This might not be surprising
 in light of the analysis above. However, recall that the analytical models
+
 assume much more environmental and economic homogeneity than is seen in reality.
 Perhaps some combination of damages, abatement costs, and carbon intensities
 might lead to limited cooperation. However, for the modeling structure used here,
 the Kyoto Protocol could not survive.
+
 So the conclusion from this simple test is that the Kyoto Protocol was doomed
 from the start. It did not contain sufficient economic glue to hold a cooperative coalition
 together.
+
 I. Regional Choice among Regimes
+
 The present analysis focuses on the design of a Climate Club and the extent to
 which different club designs succeed in inducing efficient participation and abatement.
 In reality, treaties do not spring full-grown but emerge from a complicated diplomatic

@@ -23,6 +23,7 @@ well satisfied with the range of 1.66 or 1.61 to 1 that we get for India and Chi
 margins of uncertainty ignore the other problems of the ICP, such as the treatment of housing,
 of the productivity of government services, of urban bias in pricing, and the question of what we
 are doing when we match specifications so carefully.
+
 More formally than Stone, but along the same lines, Amartya Sen (1973, 1976) has suggested
 that we not try to make complete orderings between countries, let alone compute the ratio-scale
 real income numbers on which poverty and inequality comparisons rest. Instead, he argued for
@@ -30,6 +31,7 @@ establishing the partial orderings that can be obtained from pairwise comparison
 establishing that one is richer than the other, or cannot be ranked, using the value of each coun
 try's commodity vector at the other country's prices. This is a line of research that could usefully
 be reopened using the data from the ICP.
+
 At the same time, it is clear that PPP comparisons between broadly similar countries, for
 example within regions, are on relatively firm ground and may be sufficient to support cross
 country regressions within subsets of the world, if not for all countries pooled together. PPPs for
@@ -42,6 +44,7 @@ information presented," but there is still much to be done. It is also clear tha
 be made of monitoring surveys, such as the Gallup World Poll, at least as supplementary infor
 mation, and that the UN and the World Bank would do well to use them in their assessment of
 progress towards targets such as the Millennium Development Goals.
+
 What about the poverty count that has been a running theme of this lecture? I have shown that
 the recent 50 percent increase in the counts had very little to do with revisions to the ICP, and
 nothing at all to do with the fact that the ICP made the developing world as a whole uniformly

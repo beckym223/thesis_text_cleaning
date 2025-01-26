@@ -6,13 +6,16 @@ crisis as before, suggesting that the proximity of the lower bound had limited e
 on market expectations of the monetary policy response to changes in the outlook.
 Debortoli, Galí, and Gambetti (2019) found that the cyclical behaviors of key macroeconomic
 and financial variables during the Great Recession were not atypical, as
+
 they should have been if monetary policy had been constrained by the lower bound.
 However, in contrast to the research cited above, other work finds that the constraint
 imposed by the lower bound led to materially worse outcomes after the crisis,
 despite the new policy tools. In a 2015 paper, Engen, Laubach, and Reifschneider
 used simulations of FRB/US, a model of the US economy used extensively by
+
 Federal Reserve Board staff in forecasting and policy analysis, to perform a retroactive
 assessment of the macroeconomic effects of the Fed’s policies. They found
+
 that, taken together, QE and forward guidance helped to ease financial conditions
 after the lower bound was reached, but that the economy nevertheless enjoyed a
 meaningful boost beginning only in 2011. The limited benefit of the new tools in
@@ -24,6 +27,7 @@ authors found, use of the new tools began to speed up the recovery appreciably. 
 led to an unemployment rate in early 2015 about 1.25 percentage points lower and,
 slightly later, to inflation about 0.5 percentage points higher, relative to the counterfactual
 with no use of new tools.
+
 In a similar vein, Eberly, Stock, and Wright (2019) found that  post-crisis monetary
 policies reduced the slope of the yield curve and assisted the recovery. However,
 they estimated that an unconstrained monetary policy would have set the federal
@@ -33,6 +37,7 @@ that the lower bound significantly constrained monetary policy during and after 
 crisis. Based on simulations, they calculated that the lower bound accounted for
 about 30 percent of the sharp contraction in 2009 and also contributed importantly
 to the slowness of the recovery.
+
 My reading of the  post-crisis experience is that, in both the United States and
 elsewhere, the new policy tools helped ease financial conditions and led ultimately
 to significantly better economic outcomes than would have otherwise occurred. In
@@ -44,4 +49,5 @@ by the lower bound. Particularly in the early  post-crisis period, monetary poli
 were uncertain about the economic outlook, concerned about the costs and risks
 of the new tools, and learning through experience how to implement and communicate
 about them. Thus, policymakers were more cautious and less effective than
+
 they would be later. Notably, in the United States, neither QE nor forw

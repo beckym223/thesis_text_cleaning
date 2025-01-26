@@ -1,23 +1,36 @@
 the american economic review
+
 april 2011
+
 Capital installation occurs up to the point where the marginal adjustment cost
 equals the difference between the price of installed capital qk and the price of unin
 stalled capital,/?^,:
+
 (20) Pyjkk kt , kt~l = qk,t ~ Py,t>
+
 Kt-\
+
 The parameter k measures capital adjustment cost?if nk = 0, qk is always py r, and
 there are no adjustment costs. Housing installation follows a similar equation with
 subscript d replacing k.
+
 The rental prices of capital and durables include the financial frictions/^ and
 (21) pk,t = (1 + ^_0(1 + fk,t)qk,t-i - (1 - 6k)qkJ
+
 and
+
 (22) pdtt = (1 + ^-i)(l + fdMk,t-i ~ (1 - Sd)qdtt.
+
 Here, rnt_{ is the nominal rate of interest for borrowing at the end of period t ? 1
 and repaying at the end of period t.
+
 The market-clearing condition for capital equates the value of the marginal product
 of capital to the rental price:
+
 (23) (1 - a)^- = pKt.
+
 B. Household Product Demand
+
 Households fall into two categories, unconstrained ones who follow the standard
 life-cycle intertemporal model, and constrained ones who are at the corner of their
 intertemporal choice resulting from an inability to engage in unsecured borrowing
@@ -26,8 +39,12 @@ division of spending between consumption of nondurable goods and services, on
 the one hand, and the services of durable goods including housing, on the other
 hand. A tilde (~) denotes unconstrained households and a bar (~) denotes constrained
 ones.
+
 Consumption is a Cobb-Douglas composite of consumption of standard output,
+
 Cyft, and the services of durables, dt_x:
+
 (24) c, = c*td]:t,
+
 and similarly for constrained households. The price of composite consumption is
 (25)

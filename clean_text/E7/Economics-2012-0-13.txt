@@ -2,13 +2,16 @@ pay scale giving wage rates depending on seniority; in this case the midpoint or
 that scale was taken as the wage rate. Finally, in a few countries it was necessary
 to estimate an hourly wage rate based on an average monthly salary divided by
 average hours worked.
+
 Although the reliability of these data is hard to assess at a general level, there is
 quite a bit of anecdotal evidence to support the estimates shown below. It is straight
 forward to compare our estimates of Big Mac prices with those that the Economist
 magazine has reported for many years. The correlation averages about 0.99. Other
 evidence comes from personal data collection, often provided by economists who
 have eaten in a McDonald's restaurant.
+
 B. Comparisons to Other Wage Data
+
 One direct way to assess the reliability of these data is to compare them to
 what other data already exist. Although McDonald's currently operates in about
 120 countries, many of these are very small. As of 2007, my data on wage rates in
@@ -22,6 +25,7 @@ comparable, these BLS data nevertheless provide a general measure of the level o
 wage rates in the broad labor market in several countries. The result of a comparison
 of the McWage (converted to US dollars at then-current exchange rates) and the
 BLS wage measures (also in US dollars) for 2007 is contained in Figure 4.
+
 In Figure 4 wage rates for each country are expressed relative to the United States.
 Thus, the point (1,1) represents the combination of the US McWage and the BLS
 wage measure for the United States. The line drawn is a 45 degree line, so that
@@ -29,6 +33,7 @@ points above it indicate a relative BLS wage higher than the comparable McWage,
 and points below it represent a relative BLS wage that is lower than the comparable
 McWage. It is apparent from the figure that these two separate measures of the wage
 rate are closely related.
+
 Two additional points are worth noting. First, no matter whether measured by the
 BLS data or the McWage, there are many countries that have higher, and in some
 cases far higher, wage rates than the United States. Second, in the richer countries
@@ -36,6 +41,7 @@ with a high minimum wage (as in Denmark), the McWage tends to be higher than
 the BLS measure of the wage. It follows that when minimum wages are binding on
 McDonald's restaurant workers considerable care is required in the interpretation of
 the McWage.
+
 Figure 5 compares, using the same graphical method, the McWage and the wage
 rates for laborers from the available ILO data for 2007. As with the BLS data, it is
 apparent that both these measures of the wage rate are highly related. The ILO data

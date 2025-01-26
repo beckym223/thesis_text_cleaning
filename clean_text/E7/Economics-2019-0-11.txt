@@ -1,66 +1,116 @@
 largely reflects the nonneutrality of taxation to inflation in the 1970s and 1980s,
 which is much less of a factor today. In 2018, the rate was around 2.4 percent.
 •
+
 Second, o
+
 ver the period, the average adjusted rate has been substantially lower
+
 than the average nominal growth rate, 3.8 percent versus 6.3 percent.
+
 The last potential issue is Jensen’s inequality. The dynamics of the ratio of debt
 to GDP are given by
 
+
+
 d
+
 t   =   1 +  r adj,t   _ 1 +  g t      d t−1   +  x t   ,
+
 where
+
 d
+
 t    is the ratio of debt to GDP (with both variables either in nominal or in real
 terms if both are deflated by the same deflator), and
+
 x
+
 t    is the ratio of the primary
+
 deficit to GDP (again, with both variables either in nominal or in real terms). The
 evolution of the ratio depends on the relevant product of interest rates and growth
 rates (nominal or real) over time.
+
 Given the focus on debt rollovers, that is, the issuance of debt without a
+
 later increase in taxes or reduction in spending, suppose we want to trace debt dynamics under the assumption that
 x
+
 t    remains equal to zero.13 Suppose that
+
 ln
+
 [ (1 +  r adj,t  ) / (1 +  g t  ) ]   is distributed normally with mean  μ   and v ariance   σ    2  . Then,
 the evolution of the ratio will depend not on
+
 e
+
 xp
+
 μ
+
 b
+
 ut on
+
 e
+
 xp
+
 (μ +  (1/2)   σ   2 )  . We
+
 have seen that, historically,
+
 μ
+
 w
+
 as between −1 percent and −2 percent. The standard
+
 deviation of the log ratio over the same sample is equal to 2.8 percent, implying
 a variance of 0.08 percent, thus too small to affect the conclusions substantially. Jensen’s inequality is thus not an issue here.
 14
+
 In short, if we assume that the future will be like the past (admittedly a big if),
 debt rollovers appear feasible. While the debt ratio may increase for some time due to adverse shocks to growth or positive shocks to the interest rate, it will eventually decrease over time. In other words, higher debt may not imply a higher fiscal cost.
 In this light, it is interesting to do the following counterfactual exercise.
 15 Assume
+
 that the debt ratio in year
+
 t
+
 w
+
 as what it actually was, but that the primary balance was
+
 equal to zero from then on, so that debt in year
+
 t
+
+
 
 +
 
+
+
 n
+
 w
+
 as given by
+
 d
+
 t+n   =  (  ∏
+
 i=1  n
+
 1 +  r adj,t+i   _ 1 +  g t+i    )   d t   .
+
 Figures
+
 5 and 6 show what the evolution of the debt ratio would have been, starting
 at different dates in the past. For convenience, the ratio is normalized to 100 at
 each starting date. Figure 5 uses the non-tax adjusted rate, and Figure 6 uses the tax-adjusted interest rate.

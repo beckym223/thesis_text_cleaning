@@ -14,7 +14,9 @@ Carrying the idea further, if there were two or more one-stop agencies, both emp
 all licenses, so someone starting a business could choose one or the other for all his licensing
 needs, then competition between the agencies could drive the bribes down further, perhaps all
 the way to zero. I wonder if this is a practicable suggestion.
+
 IV. Enforcement of Contracts
+
 In the absence of some form of governance, contracts run into problems of prisoner's dilemmas.
 Some contracts require one party to act first, in anticipation of reciprocal action by the
 other. But when the time comes, the other party may be tempted to renege on its promise. The
@@ -28,6 +30,7 @@ no assurance the other will performe after; because the bonds of words are too w
 mens ambition, avarice, anger, and other Passions, without the feare of some coerceive Power."
 Oliver Williamson (1985) has labeled this the problem of opportunism and hold-up, and Greif
 (2006) calls it a one-sided prisoner's dilemma.
+
 In other situations the two parties act effectively simultaneously: a good or a service is
 exchanged for some form of payment. But in most instances the quality of the product is not
 immediately apparent, and the payment is only a promise, even if the delay is as little as 30 days
@@ -38,7 +41,9 @@ him [by supplying a low-quality animal]. But I know that he wants to cheat me [b
 payment]. Thus we need Peppe [the third-party mafioso] to make us agree. And we both pay
 Peppe a commission." Here we have the case for governance, and also one form of private governance,
 in a nutshell.
+
 A. Governance Using Social Preferences
+
 I classify methods of private governance of contracts into first-party, second-party, and third
 party systems. First-party systems operate on the potential cheater's own internal value system:
 either internal satisfaction or pleasure of behaving honorably, or an internalized sense of shame

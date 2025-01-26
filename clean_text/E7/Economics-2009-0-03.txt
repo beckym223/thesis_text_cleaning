@@ -3,6 +3,7 @@ EconLit shows only 5 mentions of the word governance in the 1970s; by the end of
 mentioned 33,177 times. The much more specific phrase "economic governance" has appeared
 192 times;1 its more popular cousin, "corporate governance," 9,717 times. My focus is on economic
 governance, but I also examine its relation to corporate governance.
+
 As with any buzzword, everyone understands the concept a little differently. This is unavoidable,
 so I will just give my definition for the purpose of this article, and leave it at that. By economic
 governance I mean the structure and functioning of the legal and social institutions that
@@ -11,17 +12,20 @@ contracts, and taking collective action to provide physical and organizational i
 Economic governance is important because markets, and economic activity and transactions
 more generally, cannot function well in its absence. Good governance is needed to secure three
 essential prerequisites of market economies:
+
 (1) Security of property rights: Without this, individuals will lack the incentives to save and
 invest, because they will fear that others will deprive them of the fruits of these activities. They
 will also forgo capital market trades to achieve efficient allocation of assets, because they will
 fear for the principal and not just the return on the capital they invest in others' enterprises. And
 Erica Field (2007) finds that security of capital improves the productive use of labor, as people
 no longer have to spend their time and effort guarding their property.
+
 (2) Enforcement of contracts: Economic transactions promise gains to all voluntary participants.
 But each party may lose if the other fails to fulfill its promised role in the transaction,
 but instead acts opportunistically. Fear of such counterparty cheating may prevent people from
 entering into the contracts, and mutual gains will go unrealized. Formally, this is a bad equilibrium
 in a prisoner's dilemma.
+
 (3) Collective action: Much private economic activity depends on an adequate provision of
 public goods and the control of public "bads." In this I include not just physical but also institutional
 and organizational infrastructure. Provision of social safety nets, facilitation of internal

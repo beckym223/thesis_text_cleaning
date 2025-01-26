@@ -1,6 +1,8 @@
 normal period 2000-2007 and compare that with the path they have taken since then
 in the aftermath of the world's recent financial crisis, 2007-2011.
+
 II. Historical Measures of Real Wages
+
 Our long-run conception of economic progress is based in our understanding of
 worker wages and welfare over long periods. For example, measuring worker wel
 fare before, during, and after the industrial revolution sets the background for our
@@ -8,11 +10,14 @@ understanding of the massive change in economic welfare that resulted. That, in
 turn, provides some perspective on how today's developing countries may evolve
 in the future. In the last decade a lively set of analyses by economic historians has
 shed some new light on these old questions.
+
 A. Before the Industrial Revolution
+
 Table 1 provides an example of the problems of constructing real wage measures
 and also some perspective on an early period prior to the Industrial Revolution.
 Comparing wage rates between Canton Province in China and London in England
 in 1704 provides a benchmark for more modern comparisons.
+
 The data for the calculations in the table are from the records of a member of
 the East India Company in the 18th century, and have been assembled by Allen
 (2004). Wages and prices are measured using the East India Company exchange

@@ -1,10 +1,12 @@
 or guilt in cheating others.6 If individuals have such preferences, opportunistic behavior can be
 reduced or eliminated at the source and governance simplified.
+
 It is important to recognize prosocial preferences, not merely because they exist, but also
 because the intrinsic incentives they generate can interact with the standard monetary or other
 extrinsic incentives (see Roland B?nabou and Jean Tir?le 2003). Reforms to improve incentives
 that are typically advocated can prove counterproductive if they destroy the existing benefits of
 prosocial preferences.
+
 The usual theory of prosocial preferences relies on an evolutionary mechanism of group selection.
 A society whose members have such preferences can take collective action that benefits the
 whole group in its competition with other groups. But this runs into a fundamental problem: can
@@ -19,6 +21,7 @@ Samuel Bowles, and Peter Richardson (2003) show that a cooperative equilibrium c
 by cultural group-selection for such "strong reciprocator" strategies. When the prevailing
 strategy in the population is one that reciprocates nice behavior but punishes selfish deviations,
 selfish mutants cannot flourish.
+
 Prosocial preferences are not merely exogenous and genetically transmitted. Societies go
 to great lengths to instill such preferences in children during their process of socialization in
 families, school, and religious establishments, and continue the process in adults. Growth of
@@ -36,6 +39,7 @@ Tir?le (2006) consider transmission of beliefs rather than preferences, and the 
 is the level of taxation determined through a political process. Later in the context of collective
 action, I offer a simple example of a political choice of education to instill prosocial preferences  in children.
 B. Integration and Corporate Governance
+
 First-party enforcement can be achieved between firms by merging the contracting parties
 into one entity with a common objective. Williamson's (1985, chap. 4, 5) transaction cost theory
 of vertical integration is the most prominent example of this. The merger of two firms does not

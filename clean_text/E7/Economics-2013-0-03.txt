@@ -3,14 +3,19 @@ level in dynamic general equilibrium were different from what they seemed in
 conventional models. They may also have seemed esoteric—they questioned con
 ventional analysis most strongly in policy configurations that in the 1990s seemed
 unlike any observed in rich economies in recent history.2
+
 This paper tries to bring FTPL down to earth. It begins by citing some results from
 FTPL analysis and showing how they apply to current policy discussions. It then
 presents a couple of simple models illustrating FTPL, using them to make clear how
 the results used earlier in the paper arise and to refute some of the objections to and
 fallacies concerning FTPL that still circulate among economists.
+
 II. Insights from FTPL and Their Application
+
 A. Monetary Policy Actions, to be Effective,
+
 Must Induce a Fiscal Policy Response
+
 This is easiest to understand in high-inflation, high nominal debt economies where
 fiscal policy is frozen by political deadlock or chicanery. In such an economy, the
 interest rate will be high, and with a high level of debt, the interest expense com
@@ -25,6 +30,7 @@ rate rise will have no contractionary effect. Indeed, it will increase the rate 
 tion rather than decrease it. The central bank, understanding this, may then forgo
 following the conventional policy prescription. In doing so, it is not accelerating the
 inflation, it is damping it.4
+
 In the 1990s, this may have seemed an analysis that applied at most to some mis
 managed Latin American economies, but consider the reasoning many economists
 (including me) have used to argue that the great expansion of the balance sheet of

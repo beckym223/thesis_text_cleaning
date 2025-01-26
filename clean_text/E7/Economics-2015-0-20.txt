@@ -7,17 +7,22 @@ restarts and two different platforms to test stability. The results were sensibl
 cases and will be discussed below. This paper presents the results primarily in graphical
 form. The numbers underlying the figures are contained in the online Appendix.
 C. Results for Stability and Participation
+
 The first remarkable result is that virtually every regime produces a stable coalition.
 (There are 6 unstable regimes out of 44. Results for these are averages of
+
 quasi-stable coalitions as explained below.) From a theoretical point of view, there is
 no obvious reason why the nonlinearities of participation would not lead to multiple
 quasi-stable coalitions. The intuition is that the trade sanctions are powerful enough
 to push countries into nonparticipation or participation.
+
 The second question is whether the penalty structure is sufficient to induce participation.
 In other words, how many of the 15 regions participate in the Climate
+
 Club? Figure 3 shows the number of participating regions for different tariff rates
 and different target carbon prices. The bars are arrayed from left to right by increasing
 tariff rates.
+
 The results are straightforward. No country joins the Climate Club without trade
 sanctions (i.e., at a zero tariff rate). This key result confirms theory and observation.
 For low target carbon prices, all or most countries join even for very low tariff rates.
@@ -25,15 +30,19 @@ For target carbon prices of $50 and $100 per ton, high penalty tariffs are requi
 to induce participation. With a $100 per ton target, full participation is not attained
 even with the highest tested tariff rates. The participation rate rises monotonically
 with the penalty tariff rate.
+
 D. Results for Actual Carbon Prices and Abatement
+
 The next question is the success of different arrangements in inducing abatement.
 Figure 4 shows the level of the globally averaged carbon price for different regimes.
 The results here are similar to those for participation but in effect weight the results
 by region size.
+
 For target carbon prices of $12.5 and $25, the treaty attains the goal of having the
 global carbon price equal the target price (which is equal to the global SCC) even
 at low tariff rates. For a $50 target carbon price, the target carbon price is almost
 reached with a 5 percent tariff.
+
 For a carbon price target of $100, the regime achieves no gain over a regime with
 a target price of $50 until the highest tariff rate. Indeed, at medium tariff rates, we
 see a Laffer-curve result as the actual global carbon price is lower with the $100

@@ -1,8 +1,12 @@
 A. Complete Markets and Survival
+
 In a finite-horizon setting, J. Michael Harrison and David M. Kreps (1979) showed that when
 there are complete markets, the stochastic discount factor
+
 ... ?k,(c,+.0O) /,(*>+il*0
+
 () m,+l P u[{cut{x')) f{xM\x')
+
 is unique. Here,/(xr+1 \xl) =f(xt+i \x\p) is a common physical conditional density parameterized
 by the vector p.8 Because offsetting differences in marginal utility functions and probabilities
 can leave the left side of (4) unaltered, the uniqueness of the stochastic discount factor allows
@@ -14,6 +18,7 @@ events.10 If fi(x?) =f(x?) for some /, then for an infinite horizon complete mar
 a Pareto optimal allocation, this survival result implies the rational expectations assumption,
 provided that agents have access to an infinite history of observations at time 0.
 B. Incomplete Markets
+
 Sanford J. Grossman and Robert J. Shiller (1981), Lars Peter Hansen and Kenneth J. Singleton
 (1983), and Hansen and Scott F. Richard (1987) wanted an econometric framework to apply to
 incomplete markets where Blume and Easley's complete markets survival argument doesn't hold
@@ -22,9 +27,13 @@ expectations and made enough stationarity assumptions to validate a Law of Large
 gives GMM or maximum likelihood estimators good asymptotic properties. Under the rational
 expectations assumption, (3) imposes testable restrictions on the empirical joint distribution of
 returns and either individual or aggregate consumption.
+
 C. An Empirical Reason to Allow for Belief Heterogeneity
+
 Many have followed Hansen and Singleton (1983) and Hansen and Richard (1987) by imposing
 rational expectations, letting u (c) = cl~y/(l - y), and defining the stochastic discount factor
 as the intertemporal marginal rate of substitution
+
 (5)  mt+l =
+
 u'(ct) '

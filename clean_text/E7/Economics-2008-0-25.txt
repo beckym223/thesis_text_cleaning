@@ -8,11 +8,13 @@ equilibria, namely, correlated equilibria or coarse correlated equilibria. Hart 
 (2003, 1834) observed that "It is thus interesting that Nash equilibrium, a notion that does not
 predicate coordinated behavior, cannot be guaranteed to be reached in an uncoupled way, while
 correlated equilibrium, a notion based on coordination, can."45
+
 Hart and Mas-Colell (2000, 2001, 2003) study adaptive schemes that are backward looking.
 For example, some of the most interesting ones have a player construct counterfactual historical
 payoffs that he would have received had he played other strategies, then compute a measure of
 regret, then adjust future play in directions that would have minimized regret. These schemes
 impute little or no theorizing and foresight to the players.
+
 For my present purposes, one of the most interesting contributions comes from part of the
 literature that attributes more sophistication to players, in particular, the work of Foster and
 Young (2003), which is also summarized in Young (2004, ch. 8).46 Their model has the following
@@ -27,6 +29,7 @@ the theoretical and empirical distributions. If he rejects his current model, he
 draws a new model from his set of models, then returns to step 2. If he accepts the model, he
 returns to step 3, waits a random number of periods, and then begins another data-collection
 period.
+
 With suitable assumptions about the lengths of testing periods and the tolerances of the hypothesis
 tests, Foster and Young (2003) show that behaviors eventually emerge that are often close to
 Nash equilibria. Their notion of hypothesis tests is sufficiently broad to include many plausible
@@ -35,5 +38,6 @@ actually approaches Nash equilibria, not something weaker like the coarse correl
 that the entirely backward-looking schemes mentioned above can approach. They avoid the
 conundrum of Hart and Mas-Colell partly by weakening the notion of convergence.
 B. From Commodity to Fiat Money
+
 A long process led to the ideas in the opening quote from David Ricardo, which in time led
 Keynes and others to propose a fiat currency.

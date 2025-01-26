@@ -4,6 +4,7 @@ reduced from 28 percent to 20 percent in 1981 (though raised back to 28 percent
 again in 1987 during the Reagan presidency). If the Laffer Curve epidemic had even
 a minor effect on these changes, it must have had tremendous impact on measures
 of output and prices.
+
 Figure 4 shows Google Ngrams results for several other examples of economic
 theories, though less appropriate for our purposes because they are not just narratives,
 they are more substantively original than the Laffer Curve. Still, even important
@@ -15,8 +16,11 @@ that can be produced by the Kermack-McKendrick model, as seen in Figure 2. In
 three of the cases, the epidemic first became visible more than a decade after the
 model was introduced, a phenomenon that is also explainable within the KermackMcKendrick
 framework, where epidemics may go unobserved for a while after they
+
 have just started from very small beginnings.
+
 VII. Feedback Variations: Multipliers and Bubbles
+
 To think of the events surrounding the explosion of the Laffer Curve as a social
 epidemic is to think about feedback. The original Kahn-Keynes multiplier model
 in macroeconomics (Kahn 1931, Keynes 1936), with its famous "multiple rounds
@@ -28,6 +32,7 @@ income. This individual, who then spends MPC of that income, generating income
 for yet another who spends MPC of that income, and so on, such that national
 income rises gradually, and eventually the result is an increase of national income
 of 70/(l - MPC).
+
 In practice, however, the purely Keynesian form of contagion is limited. The
 permanent income hypothesis suggests that Keynesian contagion may be very low
 if people do not believe that the spurt in income will be permanent. Some research
@@ -38,8 +43,11 @@ counterfactuals (what would you have done differently if you did not receive
 the tax rebate check) found that, at least at the time of their survey, the marginal
 propensity to consume may have been quite low, between one-quarter and one-third,
 suggesting a multiplier little different from one.
+
 A different special kind of epidemic model describes speculative bubbles.
+
 Speculative asset prices themselves would not generally be well modeled directly in
 terms of this model since the model yields smooth-through-time paths. Most speculative
 asset prices are nearly random walks on a day-to-day basis. The reason is
+
 obvious: if it were possible for smart money to predict the day-to-day p

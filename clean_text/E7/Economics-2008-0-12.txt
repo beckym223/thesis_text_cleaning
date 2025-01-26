@@ -1,22 +1,33 @@
 affect the data generating mechanism. It is different when people learning about an equilibrium
 are inside the model. Their learning affects decisions and alters the distribution of endogenous
 variables over time, making them aim at moving targets.
+
 Suppose that an adaptive learner begins with an initial estimate 0O at time 0 and uses a recursive
 least squares learning algorithm
+
 (16) 0t+x-0t = ee(0ny\v\t).
+
 As in the models of learning in games of Dean P. Foster and H. Peyton Young (2003) and Young
 (2004, ch. 8), we assume that decision makers mistakenly regard their time t model indexed by
 0, as permanent and form the sequence of decisions20
+
 d7) v(A)f = Af(x,|?/),
+
 where ht(xt\0) is the same function (13) that solves the original Phelps problem (12) under the
 model/(jx, vx 10). The joint density of (jx, vx, 0X) becomes
+
 d8) f(yx,v(hr,?-\p).
+
 The learning literature states restrictions on the estimator e and the densities/(-|0) and/(-|p)
 that imply that
+
 d9) 0t^0o,
+
 where convergence can be either almost surely or in distribution, depending on details of the
 estimator e in (16).21
+
 C. Applications of Adaptive Learning Models in Macroeconomics
+
 One important application of adaptive models in macroeconomics has been to select among
 multiple rational expectations equilibria (see Evans and Honkapohja (2001) for many useful
 examples). Another has been to choose among alternative representations of policy rules from

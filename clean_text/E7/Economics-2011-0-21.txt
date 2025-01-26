@@ -1,15 +1,22 @@
 and material balance at full employment:
+
 (12) c2 = f(jn9f(n9k0 - cx)).
+
 It's obvious that the only possible standard equilibrium with government trading
 occurs when the government trades at the equilibrium price for the economy without
 government trading, r > r*, in which case the government will not find any takers
 for its proposed trade.
+
 A government issuing currency with a return of r > r* is doing something fundamentally
 uneconomic that no private organization would do?it is overcompensat
+
 ing people who lend to it.
+
 The conclusion:
+
 PROPOSITION: In the presence of currency yielding more than the equilibrium
 real interest rate, the economy has no standard equilibrium.
+
 It is important to emphasize that this proposition says nothing about what mischief
 follows when the government goes ahead and offers to trade at a price above r*. As
 I noted above, consumers would value the opportunity to trade at any price different
@@ -17,19 +24,24 @@ from r*. They would line up outside the government office where they could sign 
 for the deal. Something would happen in that economy. The key question is what
 kind of non-standard equilibrium results from the government's offer to trade at the
 wrong price.
+
 Figure 15 also shows a line with a more negative slope than the dashed line corresponding
 to the equilibrium real interest rate. The household can trade along this
+
 line by holding currency and thus reach a superior indifference curve. The story
 behind that action is natural: The household finds it desirable to reduce first-period
 consumption and increase second-period consumption. Workers in the household
 are paid in currency, so all the household does is hold onto the currency rather than
 spend it on current consumption.
+
 The point on the superior indifference curve cannot be an equilibrium under any
 reasonable definition, because the economy is physically incapable of supplying
 that combination of cx and c2. On the other hand, the standard equilibrium is also not
 an equilibrium of the economy with high-yielding currency. Households will always
 break that equilibrium by hanging on to their currency.
+
 B. Low-Employment Equilibrium
+
 The Availability of Currency Breaks the Standard Equilibrium.?What then happens
 in this economy? This question goes to the heart of the issue. The government
 is causing a major problem in the economy by offering too good a deal. People try to

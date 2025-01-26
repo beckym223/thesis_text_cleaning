@@ -8,6 +8,7 @@ global coverage, and the global data in the World Values Survey is not available
 nor does it always use nationally representative samples. These deficiencies have been recently
 addressed by the Gallup organization, which has been running the Gallup World Poll annually
 since 2006.
+
 The World Poll (WP) aims to collect uniform data every year from a random sample of all
 of the people of the world. To this end, the WP has posed the same set of questions to ran
 domly selected national samples of adults from 154 countries; in most cases, the sample sizes
@@ -28,6 +29,7 @@ is frequently missing, and not too much weight should be placed on the nonmissin
 rather than calculate poverty lines, I work with the questions directly. It should be noted that the
 fact that the questions are identical in all countries does not imply that they are not interpreted
 differently in different countries.
+
 In Deaton (2008), I used the 2006 data to show that there was a close, and approximately
 linear, relationship between the national average value of the ladder and the logarithm of per
 capita GDP in international dollars, and Betsy Stevenson and Justin Wolfers (2008) subsequently

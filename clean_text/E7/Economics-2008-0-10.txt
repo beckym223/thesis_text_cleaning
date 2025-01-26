@@ -4,12 +4,15 @@ the maximum likelihood estimate 0. For different p's, simulate paths xT(p) for r
 from the economic model. Think of using these artificial data to evaluate the score function for
 the auxiliary model sT(xT(p),0) for each r. Gallant and Tauchen estimate p by setting the average
 score for the auxiliary model15
+
 (io) -h-?X(*T(p),?)
+
 as close to zero as possible when measured by a quadratic form of the type used in GMM. If the
 auxiliary model fits well, this method gives good estimates of the parameters p of the economic
 model. In particular, the indirect estimator is as efficient as maximum likelihood in the ideal
 case where the economic and auxiliary models are observationally equivalent.
 B. A Troublesome Possibility
+
 This ideal case raises the following question: what happens when macroeconomic policymakers
 incorrectly use what, from nature's point of view, is actually an auxiliary model? Data give
 the government no indication that it should abandon its model. Nevertheless, the government
@@ -18,6 +21,7 @@ that it has not chosen.16 The possibility that the government uses what, unbekno
 auxiliary model, not a structural one, sets the stage for the self-confirming equilibria that play
 an important role in the adaptive learning models of the following section and in the stories to  be told in Sections V and VI.
 IV. Adaptive Learning Models and Their Limiting Outcomes
+
 Section II described how a survival argument for equating objective and subjective distributions
 falls short in many economies. This section takes up where that discussion left off by
 describing transient and limiting outcomes in models in which agents make decisions by using
@@ -30,6 +34,8 @@ in which objective and subjective distributions are identical over frequently ob
 but not over rarely observed events. That causes problems for intelligent macroeconomic policy
 design. I shall use such adaptive systems to tell some stories in Section VI. I begin by defining
 population objects that suppose that agents have finished learning.
+
 A. Self-Confirming Equilibrium
+
 A true data-generating process and an approximating model, respectively, are
 (ID  /(/>? and /(y>"|0).

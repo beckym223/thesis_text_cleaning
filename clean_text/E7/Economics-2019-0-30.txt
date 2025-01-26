@@ -1,16 +1,22 @@
 above, the same argument applies to debt rollovers. The initial increase in utility
 may more than offset negative utility effects later on.37
+
 Going beyond the framework above, a standard argument for deficit finance in a
 country like the United States is its potential role in increasing demand and reducing the output gap when the economy is in recession. The financial crisis, and the role of both the initial fiscal expansion and the later turn to fiscal austerity, have led to a resurgence of research on the topic. Research has been active on four fronts.
 The first has revisited the size of fiscal multipliers. Larger multipliers imply a
 smaller increase in debt for a given increase in output. Looking at the Great Recession, two arguments have been made that multipliers were higher during that time. First, the lower ability to borrow by both households and firms implied a
 stronger ef
+
 fect of
+
 current income on spending, and thus a stronger multiplier. Second, at the effective lower bound, monetary authorities did not feel they should increase interest rates in response to the fiscal expansion.
 38
+
 The second front, explored by DeLong and Summers (2012) has revisited the
+
 effect of fiscal expansions on output and debt in the presence of hysteresis. They have shown that even a small hysteretic effect of a recession on later output might lead a fiscal expansion to actually reduce rather than increase debt in the long run, with the effect being stronger, the stronger the multipliers and the lower the safe interest rate.
 39 Note that this is a different argument from the argument developed
+
 in this paper: the proposition is that a fiscal expansion may not increase debt, while I argue that an increase in debt may have small fiscal and welfare costs. The two arguments are clearly complementary however.
 The third front has been that public investment has been too low, often being the
 main victim of fiscal consolidation, and that the marginal product of public capital is high. The relevant point here is that what should be compared is the risk-adjusted social rate of return on public investment to the risk-adjusted rate of return on pri-vate capital, i.e., the safe rate.

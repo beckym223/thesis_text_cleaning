@@ -1,8 +1,10 @@
 in consequence, increased as the rents from ownership decreased and because men
 were disproportionately the owners.
+
 The second change involves decreased costs to flexible employment in pharmacy.
 Pharmacists have become better substitutes for each other with the increased standardization
 of procedures and drugs. The extensive use of computer systems that
+
 track clients across pharmacies, insurance companies, and physicians mean that any
 licensed pharmacist knows a client's needs as well as any other. If a pharmacist is
 assisting a customer and takes a break, another can seamlessly step in. In consequence,
@@ -10,12 +12,14 @@ there is little change in productivity for short-hour workers and for those
 with labor force breaks. Other factors mentioned in the 0*Net section are also of
 importance. For example, there is less need for interdependent teams in pharmacy
 and for extensive contact with other employees.45
+
 Female pharmacists have fairly high labor force participation rates and only a
 small fraction have substantial interruptions from employment. Rather than taking
 off time, female pharmacists with children go on part-time schedules. In fact, more
 than 40 percent of female pharmacists with children work part-time from the time
 they are in their early thirties to about 50 years old. Male pharmacists work around
 45 hours a week, about nine hours more than the average female pharmacist.
+
 The position of pharmacist became among the most egalitarian of all professions
 today. The facts in Goldin and Katz (2013) are consistent with the labor market
 effects of changes in technology and in the structure of the industry. They are less
@@ -25,9 +29,12 @@ legislation or anti-discrimination policy or licensing requirements or regulatio
 specific to the pharmacy profession. Rather, a host of structural changes outside the
 realm of the labor market (e.g., increased economies of scale in pharmacies, standardization
 of drugs, computer use, linked records through insurers) increased the
+
 demand for pharmacists and reorganized work in ways that have made pharmacy a
 more family-friendly and female-welcoming profession.
+
 VI. What the Last Chapter Must Contain
+
 The reasoning of this essay is as follows. A gender gap in earnings exists today
 that greatly expands with age, to some point, and differs significantly by occupation.
 The gap is much lower than it had once been and the decline has been largely due to
@@ -37,6 +44,7 @@ college and beyond shifted to the more remunerative and career-oriented ones. Jo
 experience of women also expanded with increased labor force participation. The
 portion of the difference in earnings by gender that was once due to differences in
 productive characteristics has largely been eliminated.
+
 What, then, is the cause of the remaining pay gap? Quite simply the gap exists
 because hours of work in many occupations are worth more when given at particular
 moments and when the hours are more continuous. That is, in many occup

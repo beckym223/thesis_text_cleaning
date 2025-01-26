@@ -3,6 +3,7 @@ agent problem within one firm. Economic governance between distinct economic uni
 corporate governance within one unit. The costs of contract enforcement are part of transaction
 costs broadly defined; therefore, the choice between external and internal enforcement depends
 on the comparison of the two costs.
+
 Family-owned conglomerates in less-developed countries exemplify this choice. These firms
 often engage in activities that have no conceivable economic synergies or economies of scope
 that explain their integration. Rather, the firm provides an internal capital market, when external
@@ -10,11 +11,14 @@ flows of funds would be plagued by problems of weak governance. Of course, integ
 own cost: by compartmentalizing the capital market, it may preclude the reallocation of capital
 to its most productive use. This inefficiency has to be tolerated as a second best if the costs of
 external governance would be even higher.
+
 The possibility of second-party enforcement based on repeated interaction brings a third
 option into the mix. The firms can remain distinct, but contracts between them can be self
 enforcing as an equilibrium of their repeated game. Barak Richman (2004) discusses such three
 way choices.
+
 C. Bilateral and Multilateral Self-Enforcement
+
 In second-party institutions, I include not only repeated interaction between a given pair, but
 also multilateral enforcement among a community of traders. This sense of "second party" is
 different from that of Greif (2006, chap. 9); what I call multilateral second-party institutions, he
@@ -26,6 +30,7 @@ Bernstein (1992, 2001) studies two such industry-based institutions of governanc
 examples are the various rotating saving and credit associations of small groups of friends
 that underlie many systems of microcredit (see Timothy Besley, Stephen Coate, and Glenn Loury
 1993).
+
 Second-party governance, whether bilateral or multilateral, attempts to resolve prisoner's
 dilemmas by repetition. For one-sided dilemmas, this is essentially an "efficiency wage" idea:
 the second mover should get enough surplus from each stage game to exceed the annuity he
@@ -33,6 +38,7 @@ would get by investing the one-time gain from cheating. Then the resolution of t
 action dilemmas can be thought of as a two-sided efficiency wage: the total surplus
 available from mutual cooperation in each stage game must be divided in such a way that each
 player gets enough to offset the temptation to cheat.
+
 Enforcement on a multilateral basis brings further problems. If A cheats B in their current
 match-up, A may not expect to meet B sufficiently frequently in the future, but he expects to meet
 other members of the group, such as C, D..., and they will inflict the established punishment,

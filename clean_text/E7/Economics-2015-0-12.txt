@@ -3,6 +3,7 @@ different purpose. It is primarily designed to increase participation, not to re
 leakage or improve competitiveness. The rationale is that nonparticipants are damaging
 other countries because of their total emissions of greenhouse gases, not only
 from those embodied in traded goods.
+
 One objection to this approach is that a tariff on all imports is a major departure
 from the approaches authorized under national and international law. It would appear
 to collide with current treaties by imposing tariffs on processes and production methods
@@ -14,6 +15,7 @@ lead to a different set of equilibria. While there may be ambiguities as to whet
 esoteric exceptions can be used to justify the system of uniform, nonproportionate tariffs,
 trying to shoe-horn the proposed uniform-tariff mechanism into current law seems
 ill advised because it would raise questions of legitimacy and durability.
+
 For these reasons, an important aspect of the proposal will be a set of "climate
 amendments" to international-trade law, both internationally and domestically.
 The climate amendments would explicitly allow uniform tariffs on nonparticipants
@@ -21,17 +23,22 @@ within the confines of a climate treaty; it would also prohibit retaliation agai
 countries who invoke the mechanism. Requiring such amendments would emphasize
 that climate change is an especially grave threat, and that this approach should
 not be used for every worthy initiative.
+
 F. Tariffs as Internalization Devices
+
 We can interpret penalty tariffs as devices to internalize transnational externalities.
 Nations incur but a small fraction of the damages from climate change
+
 domestically - less than 10 percent of global costs on average. Just as taxes or regulations
 are needed to correct externalities within nations, some analogous mechanism
 is needed for global public goods.
+
 Tariffs on the trade of nonparticipants are a reasonable and realistic tool for internalizing
 the transnational externality. How well-targeted are penalty tariffs? Using
 the C-DICE model (which is described in the next section), I have examined the
 external effects of emissions of each region along with the impacts of the penalty
 tariff, and the results are shown in Figure 1.
+
 Here are the calculations. I began with a $25 per ton C02 global social cost of
 carbon. I then calculate each region's external SCC. This equals the global SCC
 minus the national SCC. In all cases, the external SCC is close to the global SCC.
@@ -41,5 +48,6 @@ cooperative and noncooperative emissions provides the externality, shown as the 
 bar in Figure 1. In this example, when the United States decides not to participate, it
 increases its annual emissions by about 800 million tons, and this produces $16 billion
 of additional external damages.
+
 I then calculate the cost from the penalty tariff that a country incurs by not participating
 in the Climate Club. The calculation labeled "Cost of

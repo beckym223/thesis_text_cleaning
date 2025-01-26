@@ -1,5 +1,6 @@
 envelope winners would be paid $2, but if the chip came from the Tails envelope
 they would win $3.
+
 Of course the optimal strategy in this game is to only circle numbers in the Tails
 row since those have a 50 percent higher expected payoff, but this strategy was not
 obvious to everyone. About half the subjects (MBA students at a top university)
@@ -7,12 +8,15 @@ adopted the correct strategy of circling only Tails, but the rest used what migh
 called an "inept mixed strategy," dividing their choices between Heads and Tails,
 with the most common allocation being three Tails and two Heads, matching the
 ratio of the payoffs.3
+
 The question that Kahneman and I were most interested in, however, was not
+
 these initial choices. This was an experiment about learning. So we had the subjects
 repeat the same task nine more times. Each time the subjects got feedback about the
 outcome of the coin toss and the number drawn, and the winning guessers were paid
 in cash immediately in plain view of the other subjects. Try to guess the results as a
 thought experiment.
+
 Of the subjects that did not figure out the "all Tails" strategy immediately, how
 many learned to use that strategy over the course of the nine additional trials? The
 answer is one. One subject switched at some point to an all Tails strategy, but that
@@ -20,6 +24,7 @@ subject was offset by another subject who had circled only Tails on the first tr
 then switched to the inept mixed strategy at some point during the "learning" phase.
 It is instructive to consider why there was essentially no learning in this experiment.
 We know from psychology that learning takes place when there is useful,
+
 immediate feedback. When learning to drive we quickly see how much pressure to
 use on the accelerator and brake pedals in order to start and stop smoothly. In the
 experiment, however, the subjects were first told the outcome of the coin flip, then
@@ -28,12 +33,15 @@ those who were including Heads in their portfolio were pleased to be still in th
 game (if only for another few seconds). Furthermore, every time that someone won
 some money from a Heads outcome, there was some reinforcement for continuing
 to include some of that "strategy" in the portfolio.
+
 The general point is that learning can be difficult even in a very simple environment.
 Those who teach an introductory course in economics know that many
+
 of the first principles that are basic to rational choice models (such as the notion
 of opportunity costs) are by no means intuitively obvious to the students. But our
 models assume they can understand much more difficult concepts such as backward
 induction.
+
 As for the argument that people will do better in experimental tasks if the stakes
 are raised, there is little or no evidence to support this hypothesis. The first empirical
 test of this idea was conducted by David Grether and Charles Plott (1979) in the

@@ -2,17 +2,20 @@ fiscal deficit. Were they displayed as fractions of the value of outstanding deb
 they became surprises in rates of return, they would be much larger. It is clearly not
 a good approximation to model the US economy as if debt were real, even though a
 considerable part of the literature on optimal fiscal policy does so.
+
 The southern countries in the euro area are now reckoning with the consequences
 of their having, by joining the euro, made their sovereign debt real. The 2008-2009
 crisis led to great expansion of their debts, and the nominal debt cushion is not avail
 able to them. Greece already has defaulted on its debt, and quite possibly before the
 crisis resolves other southern tier EMU members will as well.
+
 When only distorting taxes are available, there is a benefit to keeping tax rates
 stable. A highly variable time path of tax rates produces higher deadweight loss than
 a more stable path that delivers the same cumulative revenue. With nominal debt,
 flexible prices, and costless inflation, it is optimal to keep revenue very stable, allow
 ing inflation to absorb most of any fiscal shocks. While this result is well known,
 Siu (2004) and Schmidt-Grohé and Uribe (2001) have shown that when nominal
+
 rigidities are present, variation in inflation becomes costly, and that this leads to very
 little use of inflation to smooth tax rates except (as Siu shows) when fiscal distur
 bances are very large. The model in Section IIIC below argues that this conclusion is
@@ -20,6 +23,7 @@ sensitive to those papers having allowed only for one-period debt. With longer d
 the costs of tax smoothing via surprise inflation can be much lower. In any case,
 the economic situation in the southern-tier European countries probably reflects the
 "very large fiscal shock" case.
+
 Nominal Debt is (Almost) Non-Defaultable, Hence Important to the Lender of Last
 Resort.—By the usual indicators, the first two countries in Table 1 are not in notice
 ably worse shape than the last three. But the last three are selling their bonds at much

@@ -1,12 +1,17 @@
 of interviews are conducted. Programs host interviews at their own location, interviewing
 many candidates on the same day, and applicants travel to many interviews,
+
 paying their own way (and taking time off from medical school or from their current
 residency position). The increase in the number of interviews for residencies has grown in tandem with the increased number of applications, due in part to the advent of internet-based applications through the Electronic Residency Application Service (ERAS). There is increasing concern about the number of applications submitted and interviews conducted, both because of the time they take and their costs (see, e.g., Gruppuso and Adashi 2017). This concern is prompting discussions about ways to relieve congestion in the market by reducing the number of interviews.
 Possible ways to address this congestion might include limiting the number
+
 of applications each individual can make through ERAS, or limiting the number of interviews each residency or fellowship program can conduct. Either of these approaches might be combined with a signaling mechanism to help guide the matching for interviews. Each of these approaches raises open questions.
 61 Past
+
 experience suggests that addressing these practical problems will also lead to new theoretical understanding of the underlying market processes.
 62
+
 B. School Choice
+
 Another domain in which clearinghouses organized by the deferred acceptance
 algorithm now play a large role is in school choice. Atila Abdulkadiro˘ glu, Parag Pathak, and I helped New York City organize the clearinghouse they have used for high school admissions each year since it was introduced for students entering high school in the Fall of 2004 (Abdulkadiro˘ glu, Pathak, and Roth 2005, 2009). It replaced a congested, decentralized process in which schools made independent admissions decisions, and many students were assigned administratively to schools over which they had expressed no preference when the process ran out of time. The NYC school choice problem resembled those facing medical labor markets, with active strategic players on both sides of the market, because school principals in

@@ -1,5 +1,6 @@
 1 — a, which has the interpretation as the fraction of a Big Mac that is tradable,
 is about 0.6.10
+
 For the less developed countries there is a clear tendency for the PPP-adjusted
 McWage to be greater that the BMPH in Figure 6. There are many possible interpre
 tations of this, but one obvious possibility is that the Big Mac is a more expensive
@@ -7,12 +8,14 @@ tations of this, but one obvious possibility is that the Big Mac is a more expen
 very low-wage countries. On the other hand, it is worth noting that the BMPH does
 not depend on any exchange rate adjustment, so that distortions in exchange rates
 do not affect its calculation.
+
 Figure 8 provides a final comparison of McWages with output per man hour for
 countries where this is available. These variables are also highly correlated, but there
 is a very noticeable tendency for the McWage to be elevated relative to output per
 man hour in countries with high minimum wages. This is an important issue to con
 sider when using wage rates to provide indirect measures of aggregate productivity.
 Y. Comparisons of the Level of Real Wages
+
 Table 3 provides a basic cross-section of data for 2007 on prices and wages from
 McDonald's restaurants. In order to create a manageable, readable table I have
 aggregated the more than 60 countries for which there are data into a group of

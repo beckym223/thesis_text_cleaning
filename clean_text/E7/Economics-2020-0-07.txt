@@ -2,6 +2,7 @@ adding event days also adds noise from  nonmonetary news affecting asset prices.
 more direct solution to this identification problem is to try to control for the policy
 expectations of market participants, then to observe the effects on asset prices of the
 unexpected component of QE announcements.
+
 For traditional monetary policy, based on management of the  short-term interest
 rate, fed funds and Eurodollar futures markets provide useful estimates of policy
 expectations (Kuttner 2001), but no analogous markets exist for asset purchases
@@ -10,8 +11,10 @@ surveys and media reports to try to quantify those expectations. For example, in
 the European context, De Santis (2019) attempted to estimate the financial market
 effects of the ECB’s Asset Purchase Program, its first foray into  large-scale
 QE, announced in January 2015. ECB policymakers and media commentary had
+
 strongly foreshadowed the program, so its actual announcement—like the announcement
 of later rounds of QE in the United States—had only modest market effects,
+
 with the average ( GDP-weighted)  10-year sovereign debt yield in the euro area
 declining by about 10 basis points. To try to control for market expectations of
 ECB actions, De Santis counted the number of news stories on Bloomberg that
@@ -23,6 +26,7 @@ from September 2014 to October 2015. This reduction is economically significant
 and, when adjusted for the size of the program, comparable to estimates from event
 studies of early QE programs in the United States and the United Kingdom, even
 though in early 2015 European financial markets were functioning normally.
+
 A related empirical strategy for measuring the effects of QE relies on the fact that,
 even when the size of a QE program was well anticipated, market participants may
 have been unsure about the specific assets to be purchased. If the portfolio balance
@@ -37,6 +41,7 @@ the relative yields of individual securities. That led them to focus on announce
 about which securities would be targeted for purchase. To measure unexpected shifts
 in purchase plans, the authors used the Primary Dealer Survey and other sources.
 To illustrate their approach: On November 3, 2010, at 2:15 pm, the FOMC
+
 announced QE2, a plan to purchase $600 billion of Treasury securities. As already
 discussed, the program was largely anticipated, and the announcement accordingly
 had little effect on Treasury yields overall. However, at the same time as the FOMC

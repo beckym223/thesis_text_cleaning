@@ -1,6 +1,8 @@
 earnings gap.35 Individuals who work long hours in these occupations receive a disproportionate
 increase in earnings. That is, the elasticity of earnings with respect to
+
 hours worked is greater than one.
+
 In previous work, Katz and I (2008b) demonstrated that among Harvard College
 graduates, the penalty to time out of the labor market differs greatly by occupation.
 Among those who received their BAs around 1990, a 10 percent hiatus in employment
@@ -13,6 +15,7 @@ also found that MDs and PhDs took the shortest non-work spells after a birth and
 MBAs took the longest. That is, those with the greatest penalty to time out also took
 the most time out, largely because their jobs did not enable shorter or more flexible
 schedules.
+
 In this section I expand on these findings and explore the widening gender gap
 in pay with age and differences in the gender gap by occupation using data sets
 specific to occupations and degrees. I will demonstrate that some occupations have
@@ -22,6 +25,7 @@ penalties for time out and almost linear earnings with respect to hours worked. 
 the first group of occupations are individuals who have earned an MBA or a JD. In
 the second group - the occupations with lower penalties for time out and the more
 linear ones - is one in the health sector (pharmacy).
+
 The data sets I use are for fairly uniform groups of men and women who have
 received the same advanced degree or work in the same occupation. The information
 on job experience and time worked is highly detailed. The gender gap in annual earnings
@@ -33,6 +37,8 @@ seen. For the pharmacists, however, hours worked is also of importance in explai
 gender differences in pay but earnings are fairly linear in time worked and time
 out of the labor force is of less importance to contemporaneous pay. In fact, because
 part-time work is prevalent in pharmacy, women do not take off much time.
+
 A. Business (MBA): Nonlinear Occupations
+
 At the start of their careers, earnings by gender are almost identical among MBAs
 graduating from the University of Chicago Booth School from 1990 to

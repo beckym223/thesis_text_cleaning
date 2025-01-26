@@ -1,7 +1,9 @@
 effect is typically not pronounced. In effect, although their patterns of demand are different,
 international comparisons of poor households give much the same result as international com
 parisons of middle income households.
+
 III. Poverty Lines and Poverty Counts
+
 Most of the increase in the world poverty count with the revision in the ICP can be attributed
 to two main factors only one of which, the treatment of housing rental, is directly attributable
 to the ICP itself. Much more important was an increase in the global poverty line. Although
@@ -11,6 +13,7 @@ is a major concern for virtually all price index work and will be so for future 
 The procedure for calculating the global poverty line will also determine the future path of the
 global count, and in particular how the global line changes as countries get richer. I deal with  each issue in turn.
 A. Actual and Imputed Rent for Housing
+
 Housing rental, including imputed rental for owner occupiers, is a difficult ("comparison resis
 tant") area for the ICP; see Deaton and Heston (2010). For the African and Asian regions, the
 2005 ICP had to fall back on an imputation. Because the ICP is primarily focused on obtaining

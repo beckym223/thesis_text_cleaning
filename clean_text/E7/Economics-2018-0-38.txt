@@ -2,12 +2,15 @@ between informed adults if no negative externalities can be identified. But noti
 I say “adults.”122 Children, particularly when they are small, may need to be prevented
 from harming themselves, and paternalism (“parentalism?”) is an obligation of being a responsible parent. When might society have such responsibilities toward ordinarily competent adults? To put it another way, when does repugnance point to important issues left out of many economic models?
 123
+
 Black markets are often the result of banned markets. If we do decide that some
 markets are unacceptable, we need to better understand which markets can be banned effectively (like those for ozone-depleting chlorofluorocarbons), and which must
 just be accommodated or contained (like those for narcotics and prostitution). Two questions of a practical engineering sort are how should we best go about banning markets we can effectively prevent, and how should we limit the damage caused by repugnant markets we can’t prevent? For markets we can’t prevent, we need to understand when we should be regulating legal markets, and when we should be engaging in harm reduction in illegal markets, and to do this we need to understand in each case what we want, and what we can get.
 Aside from questions about market design generally, many particular design issues
 present themselves. Here are two that seem to me particularly worth mentioning.
 Refugee resettlement and large-scale human migration present some of the
+
 most pressing engineering problems facing market design. Although recent polit-ical upheavals around the world suggest that immigration may arouse considerable repugnance among some members of host populations, it is clear that resettlement of refugees and migrants is a matching problem. Refugees can’t simply choose where they wish to go, but neither can national and international authorities simply tell them where to settle (Roth 2015b). Once refugees have been granted asylum in a particular country, we need to figure out how to settle them in cities, and housing, and jobs in ways that will allow them to effectively integrate into the host country economy and society. This has a resemblance to school choice, but the differences are as important as the similarities (cf. Delacretaz, Kominers, and Teytelboym 2016; Andersson and Ehlers 2017; Andersson, Ehlers, and Martinello 2018; Bansak et al. 2018; and Jones and Teytelboym forthcoming).
 124 A more difficult problem may be
+
 matching refugees and migrants to host countries (cf. Moraga and Rapoport 2015a, b; and van Basshuysen 2017). What is clear is that our present methods for handling human migration leave a lot to be desired: we need to learn to do this better (espe-cially if sea level rises in the coming century

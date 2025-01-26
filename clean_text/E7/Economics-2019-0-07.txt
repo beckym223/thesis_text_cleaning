@@ -1,17 +1,21 @@
 Section VI concludes. To be clear, the purpose of the lecture is not to advocate
 for higher public debt, but to assess its costs. The hope is that this lecture leads to a
 richer discussion of fiscal policy than is currently the case.
+
 I. Inter est Rates, Growth Rates, and Debt Rollovers
+
 Interest rates on US bonds have been and are still unusually low, reflecting in
 part the after-effects of the 2008 financial crisis and quantitative easing. The current (December 2018) 1-year T-bill nominal rate is 2.6 percent, substantially below the most recent nominal growth rate, 4.8 percent (from 2018:II to 2018:III, at annual rates).
 The gap between the two is expected to narrow, but most forecasts and market
 signals have interest rates remaining below growth rates for a long time to come. Despite a strong fiscal expansion putting pressure on rates in an economy close to potential, the current 10-year nominal rate remains around 3 percent, while forecasts of nominal growth over the same period are around 4 percent. Looking at real rates instead, the current 10-year inflation-indexed rate is around 1 percent, while most forecasts of real growth over the same period range from 1.5 percent to 2.5 percent.
 2
+
 These forecasts come with substantial uncertainty.Some argue that these low rates reflect “secular stagnation” forces that are likely
 to remain relevant for the foreseeable future. They point to structurally high saving and low investment, leading to a low equilibrium marginal product of capital for a long time to come (for example, Summers 2015, Rachel and Summers 2018). Others point to an increased demand for safe assets, leading to a lower safe rate for a given marginal product (for example, Caballero, Farhi, and Gourinchas 2017a). An interesting attempt to identify the respective roles of marginal products, rents, and risk premia is given by Caballero, Farhi, and Gourinchas (2017b).
 Others point instead to factors such as aging in advanced economies, better social
 insurance or lower reserve accumulation in emerging markets, which may lead instead to higher rates in the future (for a discussion of the role of different factors, see for example Rachel and Smith 2015, Lunsford and West 2018)
 3.
+
 Interestingly and importantly however, historically, interest rates lower than
 growth rates have been more the rule than the exception, making the issue of what debt policy should be under this configuration of more than temporary interest.
 I shall limit myself here to looking at the United States since 1950, but the conclu-sion holds for a large number of countries, over long periods of time.

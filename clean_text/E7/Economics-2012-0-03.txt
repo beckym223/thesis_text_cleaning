@@ -6,6 +6,7 @@ of economic growth and output accounting (Prescott 1998; Hall and Jones 1999),
 to international trade and finance (Eaton and Kortum 2002; Trefler 1993; Rogoff
 1996), to the study of migration (Hendricks 2002; Rosenzweig 2010) and inequality
 (Deaton 2010), and to problems of political economy (Rodrik 1999).
+
 Despite their obvious usefulness, there is general agreement that the absence of
 comprehensive measures of real wage rates is one of the most serious gaps in our
 evolving system of economic measurement. One of the few efforts to remedy this
@@ -19,12 +20,14 @@ countries report data from differing national sources rather than conducting spe
 surveys to answer the ILO request." Their conclusion? "... the Inquiry data has so
 many problems that the survey is one of the least widely used sources of cross
 country data in the world."
+
 This situation stands m sharp contrast with the progress that has been made in
 comparing international prices through the International Comparison Project (ICP).
 The ICP was initially started by the United Nations Statistical Division with the
 University of Pennsylvania, but it is now housed in the World Bank. It seems appar
 ent that it is far past the time when similar progress should be made in the measure
 ment of wage data.
+
 In this paper I provide some preliminary analysis of my own attempt to measure
 wage rates for comparable workers doing the same tasks in different places and at
 different times. My goal is to show just how useful a credible, transparent measure
@@ -34,6 +37,7 @@ has done so for many decades using a known production technology. The workers
 are thus using identical skills, using identical technology, and producing the same
 product. I am, of course speaking of workers at McDonald's restaurants, and their
 famous product, the Big Mac.
+
 I begin by using some historical examples to show how important the measure
 ment of real wages is for our understanding of economic progress. I then provide
 the basic economic analysis that underlies the conceptual apparatus for the measure
@@ -43,5 +47,6 @@ decade. The discussion proceeds in three parts. First, I provide some detail on 
 the data are collected and how they compare to the data for a more limited set of
 countries that we have available from the ILO and the US Bureau of Labor Statistics
 (BLS). Second, I provide summary measures by broad economic regions of the
+
 level of wage rates worldwide in 2007, a year I take to be normal by comparison
 with the period since. Finally, I explore the path that wage rates have taken in the

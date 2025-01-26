@@ -2,6 +2,7 @@ But I have gotten ahead of myself. Let us first look at the evolution of gender 
 in earnings over the life-cycle and differences by occupation. These hold clues to
 what must be in the last chapter for it to be the finale of the grand gender convergence.
 A. In the Aggregate and over the Life-Cycle
+
 The ratio of (mean) annual earnings between male and female workers (full-time,
 full-year, 25 to 69 years) was 0.72 in 2010 and that of the medians was 0.77. The
 ratio of the medians for the same group was 0.74 in 2000 but 0.56 in 1980. 15 These
@@ -11,18 +12,24 @@ only at college graduates, for whom the ratios are lower - 0.65 in 2010 for the
 means and 0.72 for the medians, about the same as it was in 2000. Interestingly,
 across the past decade the gender pay gap has narrowed within almost all age groups
 even though the aggregate has not budged as much. How can that beThe
+
 answer concerns what happens to the gender gap over the life-cycle. The
+
 ratio of female to male earnings greatly decreases for some time as cohorts age. It
 is lower for individuals in their forties compared with the same individuals in their
 twenties. And because the baby boom is still working its way through the population,
 the aggregate ratio can be fairly stable even though the underlying components
 are actually increasing.
+
 One way to see change in the earnings gender gap by age is to construct synthetic
 birth cohorts, as shown in Figure 1, part A for college graduate men and
+
 women working full-time, full-year and in Figure 1, part B for college graduates
 with controls for hours, weeks, and further education.16 The data used are from the
 US Census and the American Community Survey (ACS) for the years from 1970
+
 to 2010.
+
 The most obvious and important findings from these depictions are that each
 cohort has a higher ratio of female to male earnings than the preceding one and that
 the ratio is closer to parity for younger individuals than it is for older individuals, at

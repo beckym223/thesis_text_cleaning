@@ -5,28 +5,46 @@ return new one-period debt in the amount B] — R0B0. Since this new government
 paper is worthless to the initial old, they attempt to sell it to the initial young, for
 grain. The price level at date t is the rate at which grain trades for newly issued gov
 ernment debt. This process repeats thereafter for t = 1,..., oo.
+
 Formally, the generation born at t maximizes its lifetime utility U(CU, C2j+ 0 sub
 ject to the constraints
+
 (1) C„ + S, + y = 1
+
 (2) c2,+1 = ^L + est
+
 rf+I
+
 (3) S, >0, B, > 0.
+
 Because the government is doing nothing but rolling over the debt each period, the
 market clearing condition is simply R,B, = Br+l. The government sets an arbitrary
 value for R, each period. The first-order conditions for an agent in generation t,
 assuming perfect foresight about next period's P, are
+
 (4) dCx: Dx U(CU, C2,t+1) = A,
+
 (5) c>C2: D2U(Cu, C2t+i) = n,+\
+
 (6) dB,: iffi;>0
+
 "t "t+1
+
 (7) dSX, = Q[i,+\, if S, > 0.
+
 The B and S first order conditions tell us, as we would expect, that if agents are stor
 ing grain and also buying debt, their returns must match, so that in that case
 (8) jr- = 9.
+
 rr+i
+
 In order to get easily computed solutions that give us some insight into how the
 model works, we assume R, is constant and
+
 U(cu, C2,,+1) = logic,,) + log(C2f+1).
+
 Then the Lagrange multipliers can be solved out to deliver
+
 (9) ifS;>0
+
 rt+1

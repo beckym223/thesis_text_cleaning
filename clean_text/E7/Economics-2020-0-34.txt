@@ -6,7 +6,9 @@ too low. The challenge for those central banks, perhaps in collaboration with th
 fiscal authorities, is to move inflation expectations closer to target. If that can be
 achieved, then monetary policy, augmented by the new policy tools, could regain
 much of its potency.
+
 III. Conclusions
+
 This lecture has reviewed the experience with, and the future potential of, the
 new monetary tools, especially quantitative easing and forward guidance. Although
 there are dissenting views, most research finds that QE has significant and persistent
@@ -31,11 +33,13 @@ about negative policy rates and consider yield curve control at shorter horizons
 a means of reinforcing forward guidance. However, although the new tools can be
 used with the knowledge that their costs and risks have generally proved moderate,
 vigilance against risks to financial stability remains essential.
+
 How much policy space can the new monetary tools provide? The answer depends
 on the level of the nominal neutral interest rate, the interest rate consistent with full
 employment and inflation at target in the long run. If that rate is in the range of 2 to
 3 percent or higher, consistent with most estimates for the United States, then simulations
 of the Fed’s FRB/ US model suggest that a combination of QE and forward
+
 guidance can largely compensate for the effects of the lower bound, providing about
 3 percentage points of additional policy space. In these circumstances, the use of new
 policy tools seems clearly preferable to raising the inflation target, a measure that may

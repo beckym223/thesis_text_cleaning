@@ -1,8 +1,10 @@
 Figure 1. Surprise Gain or Loss to US Debt Holders as Proportion of GDP
+
 surpluses, its debt will have non-zero real value. But if debt is real and the country
 finds itself unable to maintain primary surpluses above its predetermined real debt
 service commitment, it must default, even if in absolute terms it is running substan
 tial primary surpluses.
+
 Nominal Debt is a Cushion, Like Equity.—In a deterministic steady state, inves
 tors will insist on nominal interest rates high enough to compensate for inflation's
 effect on the real value of their debt holdings. Real returns on government debt will

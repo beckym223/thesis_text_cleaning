@@ -1,5 +1,6 @@
 London than in Canton. This, of course, suggests that real wage rates may not have
 been so different in the two places in 1704.
+
 The second and third columns of Table 1 provide estimates of the budget shares for
 expenditures on various goods for both London and Canton, respectively. Using the
 English budget shares suggests that nominal prices were about three times higher in
@@ -12,12 +13,15 @@ style would be more in London than in Canton. Of course, precisely the opposite 
 case from the point of view of a Londoner. An average of these two real wage measures,
 which is one version of an "ideal" index, implies that real wage rates were about the
 same in Canton and London before the industrial revolution in England.2
+
 It is my impression that this finding about the broad uniformity of real wage rates
 across space in the period before the industrial revolution is slowly being confirmed
 as a key fact in the history of economic development. Perhaps this accounts for the
 broad pessimism of the classical economists about the prospect for long-run growth
 in real wage rates.
+
 B. Wage Rates during and after the Industrial Revolution
+
 Douglas (1930) painstakingly constructed estimates of real wage rates in manu
 facturing in the United States from 1890-1914. Douglas's results had the surprising
 implication that, even though output per man hour increased in this period of indus
@@ -25,16 +29,20 @@ trial growth, real wage rates did not. The Douglas series for nominal wage rates
 displayed in Figure 1 along with an alternative series constructed many years later
 by Rees (1961) when he revisited this puzzle. Douglas's real wage index is dis
 played in Figure 3 and shows remarkable stability.
+
 Rees speculated that (i) an increased labor supply, caused either by the closing
 of the American frontier and an increase in immigration, or (ii) an increase in the
 return to capital, might explain the puzzle. But the evidence from the growth in real
 wage rates in the period after 1914 seemed inconsistent with either explanation.
 An alternative possibility was that either the nominal wage or the price series had
 missed some change in the key facts.
+
 Rees expanded his nominal wage series to provide increased coverage of non
+
 union wage rates, which Douglas had used less extensively. The two series on nomi
 nal wage rates are shown in Figure 1 and differ in an expected direction, but their
 trend turned out to be no different.
+
 With respect to his new price index, Rees undertook a serious attempt to include
 data on the prices of manufactured consumer products, which had been difficult
 for Douglas to capture. Rees's main innovation was the use of detailed prices and

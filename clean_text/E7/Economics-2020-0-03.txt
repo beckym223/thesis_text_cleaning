@@ -7,6 +7,7 @@ in sovereign debt markets.5 The stabilization of financial markets improves econ
 outcomes, of course, but  lender-of-last-resort programs are not useful outside
 of a crisis and thus should not be viewed as part of normal monetary policy.
 A. Central Bank Asset Purchases (QE)
+
 The Fed announced its first program of  large-scale asset purchases in November
 2008, when it made public its plans to buy  mortgage-backed securities (MBS) and
 debt issued by the  government-sponsored enterprises (GSEs), Fannie Mae and
@@ -29,6 +30,7 @@ trillion, approximately 22 percent of 2014 GDP. Most purchases were of  longer-t
 securities; between 2007 and late 2014 the average duration of the Fed’s portfolio
 increased from 1.6 years to 6.9 years (Engen, Laubach, and Reifschneider 2015).
 The Fed was by no means the only central bank to employ asset purchases as
+
 a monetary policy tool. The first to confront the lower bound, the Bank of Japan,
 adopted an asset purchase program in March 2001, but its focus was increasing
 the monetary base rather than reducing  longer-term rates by buying  longer-term

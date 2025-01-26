@@ -14,6 +14,7 @@ can't make money by turning them into Econs, who can? I suppose Della Vigna and
 Malmendier could have started a service convincing people to switch to paying by
 the visit, but I think they made a wise career choice in selecting academia over personal
 finance consulting.
+
 The same analysis applies to the recent financial crisis. Many homeowners took
 out mortgages with initial low "teaser rates." Once the rates reset, some homeowners
 found they were unable to pay their mortgage payments unless home prices continued
@@ -24,6 +25,7 @@ was painful to nearly everyone. Let's assume that at least some of these mortgag
 borrowers were fooled by fast-talking mortgage brokers.4 How would the market
 solve this problem? No one has ever gotten rich convincing people not to take out
 unwise mortgages.
+
 Similarly if people fail to follow the dictates of the life-cycle hypothesis and fail
 to save adequately for retirement, how is the market going to help them? Yes, there
 are firms selling mutual funds but they are competing with other firms selling fast
@@ -31,11 +33,14 @@ cars, big screen televisions, and exotic vacations. Who is going to win that bat
 bottom line is there is no magic market potion that miraculously turns Humans
 into Econs; in fact, the opposite pattern is more likely to occur, namely that markets
 will exacerbate behavioral biases by catering to those preferences.
+
 The conclusion one should reach from this section is that the explainawaytions
 are not a good excuse to presume that agents will behave as if they were Econs.
 Instead we need to follow Milton Friedman's advice and evaluate theories based on
 the quality of their predictions, and, if necessary, modify some of our theories.
 III. Financial Markets3
+
 A good place to start in an evaluation of the potential importance of
+
 less-than-fully-rational agents is financial markets. I say this because financial markets
 have the features that should make it hardest to find evidence of misb

@@ -7,6 +7,7 @@ by the change in the fraction of covered countries (about 0.25) before it is com
 increase in the actual variance of log GDP in 2005 of 0.370. So the reduction in the share of
 countries imputed cannot explain more than a small part of the increase in measured inequality.
 B. Comparisons between Rich and Poor Countries in the Ring
+
 The most important question for international comparisons of prices is how to make useful
 comparisons across widely different countries, in different regions of the world, with different
 levels of per capita GDP, and with different patterns of consumption and relative prices. The
@@ -16,6 +17,7 @@ Hong Kong and Nepal are both in Asia-Pacific in 2005, the widest disparities are
 To investigate this further, we need to look in some detail at the operation of the "ring" in the
 2005 ICP, the collection of more than 1,000 precisely specified identical items in eighteen coun
 tries distributed over the regions.
+
 Past rounds of the ICP have been criticized for not comparing like with like; a cotton shirt, a
 pair of sandals, or brain surgery in Cameroon or Senegal are plausibly of lower quality than the
 same items in Japan or Hong Kong, so that comparing the prices of such loosely defined items
@@ -32,6 +34,7 @@ the ring countries relative to the United Kingdom; this is defined as the ratio 
 currency per pound sterling divided by the market exchange rate of local currency per pound
 sterling. Numbers less than one indicate that a British tourist would find the value of exchange
 rate converted pounds worth more than in Britain.
+
 The log price levels are plotted against the logarithm of per capita GDP in Figure 4 which
 shows that Cameroon, Kenya, Senegal, and Zambia are outliers in having high price levels rela
 tive to their levels of per capita GDP; the regression line is fitted to the other 14 ring countries

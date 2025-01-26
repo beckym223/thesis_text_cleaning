@@ -16,6 +16,7 @@ inclined to disinflate But for a classical Phillips curve, the shift toward a ze
 the short-term tradeoff, making the authorities believe that inflation could be reduced at less
 cost in terms of unemployment Thus, a classically oriented policymaker was more inclined to  disinflate
 D Lessons about Inflation Targeting
+
 Each of our stones about post-WWII US inflation features a government loss function that
 weighs both unemployment and inflation, thereby taking seriously the "dual mandate" that the
 Full Employment Act of 1946 and the Full Employment and Balanced Growth Act of 1978
@@ -26,9 +27,11 @@ authority, all of the models would have the monetary authority always set target
 zero and be indifferent to the accompanying unemployment outcome Each of our three stones
 thus contains a justification for inflation targeting as a device that compensates for model
 misspecification 4I
+
 Inflation-unemployment outcomes after WWII have caused many countries to adjust what
 they expect from monetary policy by mandating inflation targeting That partly reflects extensive
 cross-country copying and partly a widespread belief that monetary authorities do not have good
 enough models to do more When we asked for more, we usually got less
+
 forgiving in still putting positive probability on those other models after the early 1970s data had come in, and that the  inflation problem of the 1970s would have been solved by driving a stake through those other models But no one has  the authority to drive stakes through models, and models with operating characteristics much like those two survive  today The dispute between the fallacious (according to Friedman and Anna J Schwartz (1963, 191)) real bills doctrine
 and the quantity theory of money is mottled with repeated episodes having one of these doctrines being disposed of in  favor of the other, then the other making a comeback The real bills doctrine rides high in times like these when the  Fed pegs a short term interest rate

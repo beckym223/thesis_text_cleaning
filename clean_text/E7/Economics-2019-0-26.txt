@@ -5,10 +5,13 @@ is small (equal initially to about 0.18 percent and decreasing over time), compa
 In the Cobb-Douglas case however, this positive effect is more than offset by the
 price effect, and while welfare still goes up for the first generation (by 2 percent), it is typically negative thereafter. In the case of successful debt rollovers, the average adverse welfare cost decreases as debt decreases over time. In the case of unsuccess-ful rollovers, the adjustment implies a larger welfare loss when it happens.
 29
+
 If we take the Cobb-Douglas example to be more representative, are these Ponzi
 gambles, as Ball, Elmendorf, and Mankiw (1998) have called them, worth it from a welfare viewpoint? This clearly depends on the relative weight the policymaker puts on the utility of different generations. If the social discount factor it uses is close to 1, then debt rollovers under the conditions underlying the Cobb-Douglas simulation are likely to be unappealing, and lead to a social welfare loss. If it is less than 1, the large initial increase in utility may well dominate the average utility loss later.
 30
+
 IV . Ear nings versus Marginal Products
+
 The argument developed in the previous two sections showed that the welfare
 effects of an intergenerational transfer, or an increase in debt, or a debt
 rollover, depend both on how low the average safe rate and how high the average marginal product of capital are relative to the growth rate. The higher the average marginal product of capital, for a given safe rate, the more adverse the effects of the transfer. In the simulations above (reiterating the caveats about how seriously one should take the quantitative implications of that model), the welfare effects of an average marginal product far above the growth rate typically dominated the effects of an average safe rate slightly below the growth rate, implying a negative effect of the transfer (or of debt) on welfare.

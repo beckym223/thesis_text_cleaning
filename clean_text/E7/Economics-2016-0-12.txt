@@ -4,6 +4,7 @@ selling that allows for the possibility that even if most investors are fools, t
 of "smart money" arbitrageurs can assure that markets behave "as if' everyone
 were smart. This is the intellectual underpinning of the efficient market hypothesis
 (EMH).
+
 The efficient market hypothesis really has two distinct components. The first,
 what I call the "no free lunch" provision, is that it is not possible to "beat the market"
 on a properly risk-adjusted basis. There is an enormous literature devoted to testing
@@ -24,6 +25,7 @@ measure of risk in the Capital Asset Pricing Model.) Still, while academics deba
 about the correct interpretation of these empirical results, one important fact first
 documented in Jensen's (1968) PhD thesis remains true: the active mutual fund
 industry on average does not beat the market.
+
 So from the point of view of an investor, this aspect of the efficient market hypothesis
 can safely be considered to be at least approximately true. Nevertheless, it is
 important not to misinterpret this finding. The lack of predictability in stock market
@@ -34,7 +36,9 @@ unpredictability implies rational prices is what Shiller (1984, p. 459) once cal
 because just as the path of a toddler running around on a playground might be completely
 unpredictable, the path is also not likely to be the result of maximizing some
 well-formed objective function (other than having fun).
+
 The price is right component of the EMH is, in my opinion, by far the more
+
 important of the two ingredients of the theory. It is important because if prices are
 "wrong" then capital markets are not doing an efficient job of allocating resources.6
 The problem has been to come up with a convincing test of this part of the theory

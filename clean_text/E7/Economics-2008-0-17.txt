@@ -13,6 +13,7 @@ by implementing a so-called constant gain algorithm. An escape is temporary beca
 dynamics that drive the system toward the SCE vector 0o are bound to reassert themselves and
 push inflation back toward the suboptimal SCE value of h(0o). If this is a good parable for the
 Volcker-Greenspan stabilization, we should be worried.
+
 Details.?Simulations of Sims (1988) generated sample paths that seemed promising for
 explaining a Volcker-like stabilization prompted by the government's ability to learn a good
 enough version of the natural rate hypothesis. However, formal econometric attempts to implement
@@ -34,6 +35,7 @@ food for thought for Fed watchers. The synthesized government beliefs succeed in
 inflation ex post as a response to these government beliefs, and the beliefs themselves do a good
 job of forecasting inflation, thus capturing what seems to have been a remarkably good record of
 inflation forecasting by the Fed (see Bernanke 2007).31
+
 The Best of All Possible Worlds??In the preceding story, government policy actions recurrently
 take values that are optimal under the correct model, but only temporarily because the
 mean dynamics push the government's beliefs back to the SCE. Thus, this story, at best, only

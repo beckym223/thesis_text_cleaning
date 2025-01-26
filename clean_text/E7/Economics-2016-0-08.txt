@@ -8,6 +8,7 @@ the critique was two-fold. First, if you raise the stakes people will take the q
 more seriously and choose in a manner more consistent with optimization. Second,
 if given a chance to learn, people will get it right. Often the same person would make
 both of these critiques, thinking that they reinforced one another.
+
 Of course there is no doubt that the ability to practice improves performance in
 most tasks. No one plays well in his first game of chess, or billiards for that matter.
 And most people eventually become at least competent at highly complex tasks such
@@ -17,6 +18,7 @@ pay more attention when buying a car than when deciding what to order for lunch.
 But rather than these two arguments working together, they actually go in opposite
 directions. The reason this is so is that, as a rule, the higher the stakes, the less often
 we get to do something.
+
 Consider the following list of economic activities: deciding how much milk to
 buy at the grocery store, choosing a sweater, buying a car, buying a home, selecting
 a career, choosing a spouse, saving for retirement. Most households have mastered
@@ -28,12 +30,16 @@ enough to get very good at it, and the really big decisions like careers, marria
 and retirement saving give very little room for learning. So critics can't have it both
 ways. Either the real world is mostly high stakes or it offers myriad opportunities to
 learn - not both.
+
 Even in domains where there are multiple opportunities to learn, people may not
 make the best of those situations. Daniel Kahneman and I ran an experiment years
 ago that illustrates this point. (We never published the results so the details will be
 sketchy.) Subjects were given forms that looked something like this:
+
 Heads: 1 2345 ... 18 19 20
+
 Tails: 1 2345 ... 18 1920
+
 They were then shown two large manila envelopes that were labeled Heads and
 Tails and were shown that each envelope contained 20 poker chips numbered from
 1 to 20. The experimenter said he would first flip a coin and then, depending on the

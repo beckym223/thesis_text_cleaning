@@ -8,6 +8,7 @@ policies intelligently. The other is an adaptive evolutionary process, modelled 
 illustrated both in Section V, about ideas and events that influenced Ricardo, and in Section VI,
 about struggles of the US monetary authorities in the 1970s to realize the promise for improvement
 held out by Ricardo.
+
 The rational expectations equilibrium concept equates all subjective distributions with an
 objective distribution. By equating subjective distributions for endogenous variables to an equilibrium
 distribution implied by a model, the rational expectations hypothesis makes agents'
@@ -15,6 +16,7 @@ beliefs disappear as extra components of a theory, and sets up the powerful theo
 and intelligent policy design exercises described in Section I. Section II describes theoretical and
 practical reasons for equating subjective distributions to an objective one and how it facilitates
 the rational expectations econometrics described in Section III.
+
 The assumption that agents share common beliefs underpins influential doctrines about
 whether inflation-unemployment dynamics can be exploited by policymakers, the time inconsistency
 of benevolent government policy, the capacity of reputation to substitute for commitment,

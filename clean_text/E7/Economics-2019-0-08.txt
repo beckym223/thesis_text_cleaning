@@ -1,8 +1,12 @@
 Figure 1 shows the evolution of the nominal GDP growth rate and the 1-year
+
 Treasury bill rate. Figure 2 shows the evolution of the nominal GDP growth rate and
 the 10-year Treasury bond rate. Together, they have two basic features:
+
 • On a
+
 verage, over the period, nominal interest rates have been lower than the
+
 nominal growth rate.5 The 1-year rate has averaged 4.7 percent, the 10-year rate
 has averaged 5.6 percent, while nominal GDP growth has averaged 6.3 percent.6
 • Both the 1-year rate and the 10-year rate were consistently below the growth

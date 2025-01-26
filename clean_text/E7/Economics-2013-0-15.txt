@@ -4,9 +4,12 @@ r — ~¡0p is differentiable, even at the initial date t = 0, but this leaves i
 both p and r jump discontinuously at t = 0, so long as the jumps satisfy Ar = *y9Ap.
 This makes the initial price level determinate. Using r$, pô to indicate the left limits
 of these variables at time 0 (i.e., their pre-jump values), we have
+
 (24) Ar0 = p - ro = oy6(p0 -pô) = 7&V0.
+
 This equation can be solved for a unique value of p0 (right limit of the log of the
 price level at time 0) as a function of p, rjj", and pô
+
 If the initial price level should be below this level, r and thus p would also be
 lower, which implies inflation tends to — oo at an exponential rate. The policy
 rule (21) cannot possibly be maintained on such a path, as it would require pushing
@@ -25,13 +28,20 @@ which then never are observed in equilibrium, implausible. But suppose we add a
 government budget constraint and fiscal policy, as did Leeper. The budget constraint,
 with real debt (not log of real debt) denoted as b and primary surplus denoted as r, is
 (25) b = (r — p)b — r.
+
 A version of what Leeper calls a passive fiscal policy is
+
 (26) r= -00 + (f>xb.
+
 Along a perfect foresight path, where r — p + p, this gives us
+
 (27) b = pb + (p0 — 4>x b.
+
 With 4>x > p, this is a stable equation in b. No matter what the equilibrium time path
 of p, real debt converges to 0o/(^i — p)- This equation can therefore play no role in
 determining the price level, and thus cannot resolve the indeterminacy.
+
 But what if we add to the right-hand side of (26) a positive response of the pri
 mary surplus to inflation, i.e., replace (26) with
+
 (28)  r= -4> o + <j>xb + 02vr?

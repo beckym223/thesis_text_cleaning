@@ -16,6 +16,7 @@ raising their carbon price to the level that equals the sum of their SCCs. Eithe
 is worse off by dropping out. The 2014 agreement between China and the United
 States to join forces in climate policy might be interpreted as an example of a small
 bottom-up coalition.
+
 Does it follow that, by increasing the number of countries in the treaty, this process
 would accumulate into a grand coalition of all countries with efficient abatement? That
 conclusion is generally wrong. The problem arises because, as more countries join, the
@@ -40,6 +41,8 @@ countries will group together in stable coalitions of size two, with the countri
 similar sizes grouped together in pairs (i.e., largest with second-largest, and so on).
 The key result is that bottom-up coalitions perform only slightly better than the
 noncooperative equilibrium.
+
 C. Modeling Results for Bottom-up Coalitions
+
 The coalition theories described above generally use highly stylized structures
 and assumptions, so it is useful to examine empirical models of climate-

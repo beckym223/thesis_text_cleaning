@@ -8,6 +8,7 @@ consumption on the item?see catering services in Zambia in Table 5. The Fisher i
 defined in this case, but the same general phenomenon occurs, with the budget share from the
 comparison rich country powering up the price level of a rarely consumed commodity in the
 poor country.
+
 At this point, it is necessary to ask what these indexes are trying to do, why it is a good idea to
 match goods so precisely, and why these sharply different budget shares are such a problem. On
 the latter, the theorems underlying superlative indexes, that they provide good approximations to
@@ -36,7 +37,9 @@ example?there is no noncontroversial way of quality-correcting price differences
 identical goods does not do the job if those goods are used in different ways in different coun
 tries, and the problem is intractable without some way of mapping (widely different) goods
 into common functionings.
+
 C. Tectonic Regional PPPs
+
 In practice, Table 5 overstates the influence of individual basic headings on the actual PPPs;
 pairwise price indexes are not multilateral price indexes, and, beyond that, the ICP uses the ring
 prices not country by country, but through equation (3), which averages by region the ratios of

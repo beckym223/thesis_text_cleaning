@@ -6,10 +6,15 @@ the other major advanced economies. The 10-year UK nominal rate is 1.3 percent, 
 real, 2 percent inflation) . The 10-year Euro nominal rate is 1.2 percent, compared to
 forecasts of 10-year nominal growth around 3.2 percent ( 1.5 percent real, 1.7 percent
 inflation) .
+
 1 The 10-year Japanese nominal rate is 0.1 percent, compared to forecasts
+
 of 10-year nominal growth around 1.4 percent ( 1.0 percent real, 0.4
+
 percent infl
+
 ation) .
+
 The question I ask in this lecture is what the implications of such low rates should
 be for government debt policy. It is an important question for at least two reasons. From a policy viewpoint, whether or not countries should reduce their debt, and by how much, is a central policy issue. From a theory viewpoint, one of the pillars of macroeconomics is the assumption that people, firms, and governments are subject to intertemporal budget constraints. If the interest rate paid by the government is less than the growth rate, then the intertemporal budget constraint facing the government no longer binds. What the government can and should do in this case is definitely worth exploring.
 The paper reaches strong, and, I expect, surprising, conclusions. Put (too) simply,

@@ -5,6 +5,7 @@ the dollar-a-day line is actually denominated in dollars. I shall argue below th
 the global line in dollars would be a good idea, but as long as it is an average of poor country
 lines, an ICP revision that makes the United States look richer relative to those lines can have no
 effect on the global poverty counts.
+
 As we saw in Section I, the ICP revision did indeed make the world look more unequal, and
 it reduced the size of poorer economies relative to richer economies. In that sense, judged from
 a rich country standpoint, the "developing world" does indeed appear to be poorer. However,
@@ -19,6 +20,7 @@ in 2005 prices if it had been indexed for the US CPI, is in fact only 92 cents i
 of $1.46 to 92c is a measure of the extent to which the ICP has revised upwards the price levels
 in poor relative to rich countries, which is the issue to which I now turn.
 IV. Quality and Inequality Around the World
+
 Understanding why the ICP has increased measured global inequality is more difficult than
 understanding why measured poverty has changed. Several different factors are at work, and it is
 not always clear how to assess the contribution of each. Any change from the 1993 ICP involves

@@ -2,19 +2,29 @@ In the linear case, the higher debt and lower capital accumulation have no effec
 on the risky rate, and a limited effect on the safe rate, and all paths show declining
 debt. Four periods out (100 years), all of them have lower debt than at the start.
 In the Cobb-Douglas case, with the same values of
+
 ER
+
 and
+
 E R
+
 f   absent debt, bad
+
 shocks, which lead to higher debt and lower capital accumulation, lead to increases in
 the risky rate, and by implication, larger increases in the safe rate. The result is that, for the same sequence of shocks, now 5 percent of paths, fail over the first 4 periods: 100 years, if we take a period to be 25 years. The failing paths are represented in red.
 Second, consider welfare effects. Relative to a pay-as-you-go scheme, debt rollovers
 are much less attractive. Remember the two effects of an intergenerational transfer. The first comes from the fact that people receive a rate of return of 1 on the transfer, a rate which is typically higher than
 R
+
 f  . In a debt rollover, they receive a rate
+
 of return of only
+
 R
+
 f  , which is typically less than 1. At the margin, they are indifferent
+
 to holding debt or capital. There is still an inframarginal effect, a consumer surplus
 (taking the form of a less risky portfolio, and thus less risky second period con-sumption), but the positive effect on welfare is smaller than in the straight transfer scheme. The second effect, due to the change in wages and rate of return on capital, is still present, so the net effect on welfare, while less persistent as debt decreases over time, is more likely to be negative.
 These effects are shown in Figures 13 and 14, which show the average welfare

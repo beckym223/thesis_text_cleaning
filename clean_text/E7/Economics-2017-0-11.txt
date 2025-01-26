@@ -6,6 +6,7 @@ number of infectives, people who have the disease and are actively spreading it;
 is the number of recovereds, who have had the disease and gotten over it and are no
 longer capable of catching the disease again or spreading it. The total population
 N = S + I + Ris assumed constant.
+
 The key idea of the Kermack-McKendrick mathematical theory of disease epidemics
 was that in a thoroughly mixing population the rate of increase of infectives
 in a disease epidemic is equal to a constant contagion rate c > 0 times the product
@@ -16,11 +17,17 @@ of time depends on the number of susceptible-infective pairs in the population. 
 recovery from the disease is assumed for simplicity to occur in an exponential decay
 fashion, instead of the more usual notion of a relatively fixed timetable for the course
 of the disease. The three-equation Kermack-McKendrick SIR model is
+
 = -cSI'
+
 dt
+
 % = cSI-ri,
+
 TT dt = rL
+
 TT dt
+
 The same SIR model can of course be used to describe the word-of-mouth transmission
 of an idea. Here, the contagion rate is the fraction of the time in an encounter
 that an infective, a person interested in and accepting of a story, effectively
@@ -35,9 +42,11 @@ contagion rates and removal rates are both constant through time, if they are in
 to the narrative. Inaccurate retellings of the narrative that leave out its essential
 interest value, because of transmission error, just don't survive; the parameter c
 refers to successful spread of the core interest value of a story.
+
 Even though direct face-to-face communications of ideas is less important in
 modern times because of the communications media, it still remains a workable
 model. The core model may apply no matter how people may connect with each
+
 other. A survey of individual investors shows that on average they talked to 20 people
 about a typical investment, and only 23 percent did any analysis themselves
 (Shiller and

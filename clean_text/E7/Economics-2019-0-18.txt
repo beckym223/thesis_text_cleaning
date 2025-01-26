@@ -2,33 +2,50 @@ Short of a much richer model, it is difficult to know how reliable these rough
 computations are as a guide to reality. The model surely overstates the degree of
 non-Ricardian equivalence: debt in this economy is (nearly fully) net wealth, even if
 R
+
 f   is greater than 1 and the government must levy taxes to pay the interest to keep
 the debt constant. The assumption that capital and labor are equally risky may not
 be right: holding claims to capital (i.e., shares) involves price risk, which is absent from the model as capital fully depreciates within a period; on the other hand, labor income, in the absence of insurance against unemployment, can also be very risky. Another restrictive assumption of the model is that the economy is closed: in an open economy, the effect on capital is likely to be smaller, with changes in public debt being partly reflected in increases in external debt. I return to the issue when discussing debt (rather than intertemporal transfers) later. Be this as it may, the anal-ysis suggests that the welfare effects of a transfer may not necessarily be adverse, or, if adverse, may not be very large.
 III. Simulations: T ransfers, Debt, and Debt Rollovers
+
 To get a more concrete picture, and turn to the effects of debt and debt rollovers
 requires going to simulations.23 Within the structure of the model above, I make the
 following specific assumptions (derivations and details of simulations are given in online Appendix C).
 I think of each of the two periods of life as equal to 25 years. Given the role of
 risk aversion in determining the gap between the average safe and risky rates, I want to separate the elasticity of substitution across the two periods of life and the degree of risk aversion. Thus, I assume that utility has an Epstein-Zin-Weil representation of the form (Epstein and Zin 2013, Weil 1990):
 
+
 The log-log specification implies that the intertemporal elasticity of substitution
 is equal to 1. The coefficient of relative risk aversion is given by
+
 γ
 
+
+
 .
+
 As the strength of the second effect above depends on the elasticity of substitution
 between capital and labor, I assume that production is characterized by a
+
 constant
+
 elasticity of substitution production function, with multiplicati
+
 ve uncertainty:
+
 Y
+
 t   =  A t     (b K  t−1  ρ   +  (1 − b)   N   ρ )    1/ρ  =  A t     (b K  t−1  ρ   +  (1 − b) )    1/ρ  ,
 where
+
 A
+
 t    is white noise and is distributed log normally, with  ln   A  t   ∼     (μ;  σ   2 )   and
 ρ
 
+
+
 =
+
 (η − 1) /η , where  η   is the elasticity of substitution. When  η  =  ∞, ρ  =  1   and
 the production function is linear.

@@ -1,6 +1,8 @@
 Figure 1. Price and Net Asset Value for CUBA Fund
+
 Note: On December 18, 2014, President Obama announced he was going to lift several restrictions against Cuba.
 Source: Bloomberg
+
 only to fall back to the long-term trend. Because of the various forms of leverage
 involved, this rise and fall in prices helped create the global Great Recession.
 The difference between the CUBA example and these much larger bubbles is that
@@ -15,6 +17,7 @@ factor of two is arbitrary, of course. Intuitively, though, it seems reasonable 
 in light of sources of uncertainty about value and the strength of the forces tending
 to cause price to return to value. By this definition, I think almost all markets are
 efficient almost all the time. 'Almost all' means at least 90 percent."
+
 One can quibble over various aspects of Black's definition but it seems about
 right to me, and had Black lived to see the tech bubble of the 90s he might have
 revised his number up to three. I would like to make two points about this. The first
@@ -23,6 +26,7 @@ concept in the history of research on financial markets. In fact, without the EM
 there would have been no benchmark with which to compare anomalous findings.
 The only danger created by the concept of the EMH is if people, especially policymakers,
 consider it to be true. If policymakers think that bubbles are impossible,
+
 then they may fail to take appropriate steps to dampen them. For example, I think it
 would have been appropriate to raise mortgage-lending requirements in cities where
 price to rental ratios seemed most frothy. Instead, this was a period in which lending

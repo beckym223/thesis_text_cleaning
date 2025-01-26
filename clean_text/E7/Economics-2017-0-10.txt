@@ -9,15 +9,19 @@ will have influence on decisions. It is also related to the Kahneman and Tversky
 (1973) representativeness heuristic, whereby people form their expectations based
 on similarity of circumstance to some idealized story or model, and tend to neglect
 base-rate probabilities.
+
 Psychologists have noted an affect heuristic, whereby people who are experiencing
 strong emotions, such as fear, tend to extend their feelings to unrelated happenings
 (Slovic et al. 2007). Sometimes people note strong emotions or fears about
+
 possibilities that they know logically are not real, suggesting that the brain has multiple
 systems for assessing risk, and the "risk as feelings" hypothesis that some
 primitive brain system more connected to palpable emotions has its own heuristic
 for assessing risk (Loewenstein et al. 2001.)
+
 In joint work with Goetzmann and Kim (2016), using data from a questionnaire
 survey I have been conducting with institutional investors and high-income
+
 Americans since 1989, we found that these people generally have exaggerated
 assessments of the risk of a stock market crash, and that these assessments are influenced
 by the news stories, especially front page stories, that they read. One intriguing
@@ -31,6 +35,7 @@ irrelevant events with narrative potential having effects on economic or politic
 outcomes: the effect of World Cup outcomes on economic confidence (Dohmen et
 al. 2006) and of background music in advertisements on viewers (Boltz, Schulkind,
 and Kantra 1991).
+
 The news media, for which the survival of any one organization is never assured
 in a competitive news marketplace, must become adept at managing the news to
 make narratives work in their favor. Moreover, news media embellish the emphasized
@@ -40,6 +45,9 @@ human interest stories, it seems clear that news media believe that covering suc
 events will result in increased sales and attention for their news products. However,
 little attention has been given to the impact of such news stories on other stories in
 the same publication.
+
 IV. Epidemic Models
+
 The Kermack-McKendrick (1927) mathematical theory of disease epidemics
+
 marked a revolution in medical thinking because it gave a reali

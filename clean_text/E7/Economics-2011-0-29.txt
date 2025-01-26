@@ -6,19 +6,30 @@ receives a flow of compensation equal to the worker's marginal revenue product.
 The cost of recruiting (holding a vacancy open) is 7 per period, taken to be constant
 in output terms. The zero-profit condition for recruiting equates the expected
 benefit of recruiting to its cost:
+
 (32) q(nt)Jt = py^.
+
 Thus unemployment rises if J falls. I take
+
 (33) Jt = J(mt),
+
 an increasing function of the marginal revenue product of labor, mn so that, in slack
 markets with high xt and thus lower mt, a worker pays less for a job. I solve for
 employment as a function of mt and take the function as constant-elastic:
+
 (34) n< = ~n\!%)
+
 where the elasticity ip is positive, m is the normal level of mt which I take to be its
 full-employment value,
+
 \ l-a
+
 (35) m = apyt
+
 Solving,
+
 (36) nt = nx^-^.
+
 The contraction in 7 when the marginal product of labor falls can be interpreted as
 wage stickiness, or, more accurately, compensation stickiness. If total compensation
 is sticky and the net benefit falls, then J must fall, because / is the present value of
@@ -26,8 +37,12 @@ the difference between the net benefit and the worker's actual compensation.
 The separation or turnover rate is a fraction v of employment, a constant. The cost
 of filling a vacancy, 7/g, is 14 percent of a quarter's earnings, according to Jose A.
 Silva and Manuel Toledo (2008).
+
 E. The Financial Market
+
 Only unconstrained households participate in asset markets on the margin. They
 price assets with returns measured in units of output by the discounter
+
 (37) ,t = ?- PjP-< (5<^~l/?
+
 Pc,t+l/PyJ

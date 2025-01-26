@@ -1,6 +1,7 @@
 to bargain and their lesser desire to compete.9 Still others blame it on differential
 employer promotion standards due to gender differences in the probability of
 leaving.10
+
 The existing explanations for the residual gender pay gap regarding how women
 compete and bargain relative to men have some merit. But they do not explain why
 different amounts of time out of the labor force and different numbers of hours
@@ -8,6 +9,7 @@ worked per day or per week have a large effect on the time-adjusted earnings in
 some occupations but not in others. They do not explicate why some positions have
 a highly nonlinear (convex) pay structure with regard to hours worked and some are
 almost perfectly linear. 1 1
+
 The alternative reasons for the residual gender pay gap do not help illuminate why
 earnings differences by sex expand so greatly with age. They also do not explain
 why women without children generally have higher earnings than women with children
@@ -15,6 +17,7 @@ and why the former's earnings are almost equal to those of comparable men.12
 A better answer, I will demonstrate, can be found in an application of personnel
 economics.13 The explanation will rely on labor market equilibrium with compensating
 differentials and endogenous job design.
+
 As women have increased their productivity enhancing characteristics and as
 they "look" more like men, the human capital part of the wage difference has been
 squeezed out. What remains is largely how firms reward individuals who differ in
@@ -25,6 +28,7 @@ worked, being "on call," providing "face time," being around for clients, group
 meetings, and the like. Because these idiosyncratic temporal demands are generally
 more important for the highly-educated workers, I will emphasize the college educated
 and occupations at the higher end of the earnings distribution.
+
 Jobs for which bargaining and competing matter the most, I will demonstrate, are
 also positions that have the greatest nonlinearities (meaning convexity) of pay with
 respect to time worked. Field and laboratory experiments often show that women

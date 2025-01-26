@@ -5,7 +5,9 @@ SCCs are proportional to national GDPs. This assumption is primarily for simplic
 and transparency but also because the national estimates are so poorly determined.
 However, sensitivity analyses discussed below and in the online Appendix indicate
 that alternative estimates lead to identical results on participation.
+
 The abatement costs combine global estimates from the DICE-2013R model
+
 with detailed regional estimates from an engineering model by McKinsey Company
 (2009). Abatement costs are largely determined by the carbon-intensity of a region,
 which are relatively reliable data. Aside from carbon-intensity, the differences among
@@ -24,16 +26,20 @@ I assume that the tariff function is quadratic with a maximum at the optimal
 tariff rates. The numerical parameters of the reduced-form tariff-impact function are
 derived from a model developed and provided by Ralph Ossa (2014). Details are
 provided in the online Appendix.
+
 Macroeconomic and emissions data are taken from standard sources. GDP and
+
 population are from the World Bank. CO2 emissions are from the Carbon Dioxide
 Information Action Center (CDIAC 2014). Note that I include all industrial C02 emissions
 but exclude land-use emissions as well as non-C02 greenhouse gas emissions or
 other sources of climate change. The interregional trade data are based on data from
 the United Nations Conference on Trade and Development (UNCTAD 2014).
+
 The model considers only one period, centered on 2011. It can be interpreted
 as a game with a single long period or as a repeated game with a constant payoff
 structure. As discussed above, the purpose is to find an efficient solution to the stage
 game that will also be an equilibrium of the repeated game.
+
 Countries are assumed to maximize their perceived national self-interests, and the
 welfare of the rest of the world is not counted in their interests. Their estimates may
 turn out to be right or wrong, but they are the basis of treaty negotiations. To avoid
@@ -41,5 +47,6 @@ stab-in-the-back instability, I assume that there are no side payments among cou
 Treaties are assumed to be stable in the sense of being coalition Nash equilibria,
 which means that they are stable as compared to all alternative sub-coalitions.
 B. Gains and Losses from Participation
+
 The noncooperative (NC) equilibrium is the starting point in international relations.
 Consider the decision of a single country whether to participat

@@ -1,15 +1,24 @@
 less than 1, the implicit transfer due to the change in input prices increases utility. If
 R
+
 t    is greater than 1, the implicit transfer decreases utility.
+
 The reason why it is the risky rate that matters is simple. Capital yields a rate of
 return
+
 R
+
 t+1   . The change in prices due to the decrease in capital represents an implicit
 transfer with rate of return   R
+
 t+1  / R t   . Thus, whether the implicit transfer increases or
+
 decreases utility depends on whether
+
 R
+
 t    is less or greater than 1.
+
 Putting the two sets of results together: if the safe rate is less than 1, and
 the risky rate is greater than 1 (the configuration that appears to be relevant
 today) the two terms now work in opposite directions. The first term implies that an
@@ -19,49 +28,91 @@ is likely to dominate, the following approximation is useful. Evaluate the two t
 
 
 
+
+
+
 sign
+
 [ (1 − E R    f  )  −  (1/η) αE R   f  (− dK/dD)  (ER − 1) ]
+
 where, from the accumulation equation, we ha
+
 ve the following approximation:21
+
 dK /dD  ≈  −    1 ___________   1 − βα (1/η) ER   .
+
 Note that, if the production is linear
+
 , and so
+
 η
+
+
 
 =
 
+
+
 ∞
+
 , the second term in equation
+
 (
+
 6) is equal to 0, and the only rate that matters is
+
 E
+
 R
+
 f  . Thus, if  E  R    f   is less than 1, a
+
 higher transfer increases welfare. As the elasticity of substitution becomes smaller,
 the price effect becomes stronger, and, eventually, the welfare effect changes sign and becomes negative.
 In the Cobb-Douglas case, using the fact that
+
 ER
 
+
+
 ≈
+
 (1 − α) / (αβ)  , (the approximation
+
 comes from ignoring Jensen’s inequality) the equation reduces to the simpler
 formula:
+
 (7)
+
 sign
+
 dU
+
+
 
 ≡
 
+
+
 sign
+
 [ (1 − E R    f   ER) ]  .
+
 Suppose that the average annual safe rate is 2 percent lower than the growth rate,
 so that
+
 E
+
 R
+
 f  , the gross rate of return over a unit period, say 25 years, is   0.98    25  = 0.6  ,
 then the welfare effect of a small increase in the transfer is positive if
+
 ER
 
+
+
 is less than
+
 1.66, or equivalently, if the average annual marginal product is less than 2 percent
 above the growth rat

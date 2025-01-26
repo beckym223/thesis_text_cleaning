@@ -4,19 +4,23 @@ model is just the special case in which beta is 1 .0. The beta-delta model is a 
 example of what Rabin (2013) calls PEEMs, which stands for "portable extensions
 of existing models." The ease with which economists can incorporate such models
 into an otherwise standard analysis has obvious appeal.
+
 Along with intertemporal choice, the important aspect of preferences that has
 received a lot of attention from behavioral economic theorists is "other-regarding
 preferences." These models were all stimulated by empirical findings showing that
 humans are not completely selfish, even to strangers. For example, in one-shot prisoners'
 dilemma games about 40-50 percent of subjects cooperate, both in laboratory
 experiments and even in a game show environment where the stakes are over
+
 £10,000 (van den Assem, van Dolder, and Thaler 2012). Similarly, people cooperate
 in public goods environments when the rational selfish strategy is to give nothing.
 The most prominent models in this space are by Rabin ( 1993) and Fehr and Schmidt
 (1999). The easiest way to summarize this literature is to say that Humans are nicer
 and more mannerly than Econs. Specifically, their first instinct is to cooperate as
 long as they expect others to do likewise.
+
 B. Behavioral Beliefs
+
 When people make choices they do so based on a set of expectations about the
 consequences of their choices and the many exogenous factors that can determine
 how the future will evolve. Traditionally, economists assume that such beliefs are
@@ -28,16 +32,19 @@ of rational expectations makes explicit an idea that is commonplace in economic
 theory, namely that agents act as if they understood the model (and state-of-the-art
 econometrics techniques as well). Whether this assumption is empirically valid is
 another question.
+
 Explicit tests of rational expectations per se are uncommon because we rarely
 observe or elicit actual expectations data. When we do, we often find that actual
 expectations diverge from what would reasonably be called rational. For example,
 Case, Shiller, and Thompson (2012) find that homeowners during the period
+
 of rapidly rising prices from 2000-2005 expected home prices to continue to rise
 at double-digit rates for the next decade. While one can't prove such expectations
 were irrational, they certainly seem excessively optimistic, both ex ante and ex post.
 Furthermore, in this domain and in many others, expectations seem to rely too much
 on extrapolation of recent trends. To a first approximation, people expect that what
 goes up will continue to go up.
+
 We also see violations of rational expectations in the predictions of stock market
 returns by chief financial officers studied by Ben-David, Graham, and Harvey
 (2013). The CFOs were asked to predict one-year rates of return on the S&P 500

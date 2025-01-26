@@ -1,87 +1,170 @@
 Note the following two implications of equations (1) and (2):
+
 •
+
 The sign of the tw
+
 o effects depends on
+
 R
+
+
 
 −
 
+
+
 1
+
 . If
+
 R
+
+
 
 <
 
+
+
 1
+
 , then a decrease in
+
 capital accumulation increases utility
+
 . In other words, if the marginal product is
+
 less than the growth rate (which here is equal to 0), an intergenerational transfer
 has a positive effect on welfare in steady state.
+
 •
+
 The strength of the second ef
+
 fect depends on the elasticity of substitution
+
+
 
 η
 
+
+
 . If
+
 for example  η
 
+
+
 =
+
+
 
 ∞
 
+
+
 so the production function is linear and capital accumulation
+
 has no effect on either wages or rates of return to capital, this second effect is equal to 0.
 So far, I just replicated the analysis in Diamond.
+
 19 Now I introduce uncertainty in
+
 production, so the marginal product of capital is uncertain. If people are risk averse, the average safe rate will be less than the average marginal product of capital. The basic question becomes: what is the relevant rate we should look at for welfare purposesPut
 loosely, is it the average marginal product of capital
+
 ER
+
 , or is it the a
+
 verage
+
 safe rate
+
 ER
+
 f  , or is it some other rate altogetherThe
+
 model is the same as before, except for the introduction of uncertainty.
+
 People born at time
+
 t
+
 ha
+
 ve expected utility given by (I now need time subscripts
+
 as the steady state is stochastic)
+
 U
+
 t   ≡  (1 − β) U ( C 1,t  )  + βEU  ( C 2,t+1  )  .
+
 Their budget constraints are given by
+
 C
+
 1t   =  W  t   −  K t   − D ;  C  2t+1   =  R t+1   K t   + D  .
+
 Production is given by a constant returns production function
+
 Y
+
 t   =  A t   F ( K t−1  , N)  ,
+
 where
+
 N
+
+
 
 =
 
+
+
 1
+
 and
+
 A
+
 t    is stochastic. (The capital at time  t   reflects the sa ving of the
+
 young at time
+
 t
+
+
 
 −
 
+
+
 1
+
 , thus the timing con
+
 vention.)
+
 At time
+
 t
+
 , the first-order condition for utility maximization is gi
+
 ven by
+
 (1 − β) U′ ( C 1,t  )  = β E  [ R t+1  U′ ( C 2,t+1  ) ]  .
+
 We can now define a shadow safe rate
-R
-t+1  f   , which must satisfy
 
 R
+
+t+1  f   , which must satisfy
+
+
+
+R
+
 t+1  f   E [U′ ( C 2,t+1  ) ]  = E  [ R t+1  U′ ( C 2,t+1  ) ]

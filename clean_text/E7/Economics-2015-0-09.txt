@@ -2,12 +2,15 @@ coalitions with more realistic assumptions. Several empirical studies have exami
 the structure of coalitions or international agreements using a variety of alternative
 cooperative structures and coalition assumptions. A brief description of key studies
 is contained in the online Appendix.
+
 The central results of existing studies reproduce the finding of the small coalition
 paradox. Without penalties on nonparticipants, stable coalitions tend to be small and
 have emissions reductions that are close to the noncooperative level. In addition,
 many studies find that coalitions tend to be unstable, particularly if transfers among
 regions are included.
+
 IV. Sanctions on Nonparticipants to Promote an Effective Climate Club
+
 As noted above, the syndrome of free-riding along with the international norm
 of voluntary participation appears to doom international climate agreements like the
 Kyoto Protocol. The suggestion in this paper is that a club structure - where external
@@ -16,6 +19,7 @@ I analyze in depth a specific model of sanctions (tariffs on nonparticipants),
 but the model illustrates the more general point that external sanctions are necessary
 to promote participation in effective agreements to provide global public goods.
 A. Stable Coalitions
+
 While it is easy to design potential international climate agreements, the reality
 is that it is difficult to construct ones that are effective and stable. Effective means
 abatement approaching the global optimum. The concept of stability used here is
@@ -36,6 +40,8 @@ I therefore focus on one-shot games that have efficient and unique equilibria. I
 these are then turned into a repeated game, each of the one-shot games will be a
 sub-game-perfect coalition Nash equilibrium, and the repeated game will have an
 efficient coalition-Nash equilibrium.
+
 B. Transfers Undermine Coalition Stability
+
 The present study assumes that there is no sharing of the gains from cooperation
 among members of the coalition. In some cases, particularly those with asymme

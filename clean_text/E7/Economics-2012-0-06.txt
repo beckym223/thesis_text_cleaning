@@ -1,5 +1,6 @@
 product descriptions from the Sears and Roebuck and Montgomery Ward catalogs—
 these were something like the Internet purchasing guides of their day.
+
 Figure 2 compares Douglas's and Rees's nominal pnce senes, and Figure 3 com
 pares the resulting real wage indexes. It is apparent that, unlike Douglas's series,
 Rees's price index remains stable in the face of increasing nominal wage rates.
@@ -8,6 +9,7 @@ did not. An important puzzle about real wage rates in the United States during t
 Industrial Revolution was not much of a puzzle at all. The lesson from this analysis
 is that an investment in careful data appraisal can generate a large return in eco
 nomic measurement.
+
 Finally, Table 2 provides some evidence comparing real wage rates in various parts
 of the world in 1914, the period when Rees concluded his measurement. In contrast
 with the data in Table 1, the data in Table 2 tell a remarkable story of a dramatic wid
@@ -19,6 +21,8 @@ so uneven that enormous gaps had opened up between what we now consider the rich
 and the poor countries, resulting in real wage rates that were four to five times higher in
 the rich countries. This raises the natural question of whether these gaps are likely to
 persist and, if they do not, how best to measure them as they close.
+
 III. Conceptual Real Wage Measures
+
 As Figure 3 indicates, sizeable changes in real wage rates have historically been
 accompanied by declines in normal hours of work. Indeed, the normal work week

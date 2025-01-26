@@ -3,6 +3,7 @@ but a much lower interest rate. Here, the interest rate has done its job to pres
 employment. For example, the collapse of house construction is offset by higher business
 investment and higher consumption of nondurables. Note that the story leaves the
 rest of the world out of the picture for simplicity.
+
 The real interest rate did not fall to ?2.5 percent in the Great Slump or in earlier
 slumps. Despite huge efforts in the Great Slump, the Federal Reserve could do
 no more than drive short-term rates to zero and try to get longer-term rates down
@@ -14,6 +15,7 @@ positive level. Figure 3 shows the simple implication of a real interest rate pi
 zero instead of falling to ?2.5 percent. At the rate of zero, there is excess supply of
 labor. That excess supply translates into unemployment. Much of the analysis here
 involves building models that describe that translation.
+
 I will proceed by documenting the conditions in the US economy after the crisis,
 at the beginning of the Great Slump. Then I will discuss the effects in general equilibrium
 of an excessive real interest rate, first in a two-period setting and then in an

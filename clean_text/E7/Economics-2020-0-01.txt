@@ -8,15 +8,19 @@ as the experience of Japan in recent decades has demonstrated, low inflation can
 become a  self-perpetuating trap, in which low inflation and low nominal interest
 rates make monetary policy less effective, which in turn allows low inflation or
 deflation to persist.
+
 In the United States and other advanced economies, the critical turning point was
 the global financial crisis of  2007–2009. The shock of the panic, and the subsequent
 sovereign debt crisis in Europe, drove the US and global economies into deep recession,
 well beyond what could be managed by traditional monetary policies. After
+
 cutting  short-term rates to zero (or nearly so), the Federal Reserve and other central
 banks turned to alternative policy tools to provide stimulus, including  large-scale
 purchases of financial assets (quantitative easing), increasingly explicit communication
 about the central bank’s outlook and policy plans (forward guidance), and,
+
 outside the United States, some other tools as well.
+
 We are now more than a decade from the crisis, and the US and global economies
 are in much better shape. But, looking forward, the Fed and other central banks are
 grappling with how best to manage monetary policy in a  twenty-first century context
@@ -27,6 +31,7 @@ result in  short-term rates being constrained by zero as much as  one-third of t
 with severe consequences for economic performance (Kiley and Roberts 2017). If
 monetary policy is to remain relevant, policymakers will have to adopt new tools,
 tactics, and frameworks.
+
 The subject of this lecture is the new tools of monetary policy, particularly
 those used in recent years by the Federal Reserve and other  advanced-economy
 central banks.1 I focus on quantitative easing and forward guidance, the principal
@@ -36,6 +41,7 @@ on a review of a large and growing literature, I argue that the new tools have p
 quite effective, providing substantial additional scope for monetary policy despite
 the lower bound on  short-term interest rates.2 In particular, although there are dissenting
 views, most research finds that central bank asset purchases meaningfully
+
 ease financial conditions, even when financial markets are not unusually stressed.
 Forward guidance has become increasingly valuable over time in helping the public
 understand how policy will respond to economic conditions and i

@@ -5,10 +5,12 @@ path may, depending on parameters, look similar to that in Figure 2 but approach
 a nonzero horizontal asymptote as time increases: the infectives never effectively
 disappear. The SIR model can also be modified so that an encounter between a susceptible
 and an infected leads to an increase in exposed E, a fourth compartment,
+
 who become infective later (the SEIR model). The model has also been modified to
 incorporate partial immunity after cure, birth of new susceptibles, the presence of
 superspreaders with very high contagiousness, geographical patterns of spread, etc.
 V. Applications of the Kermack-McKendrick to Social Epidemics
+
 In applying the compartmental model to social epidemics, to epidemics of ideas,
 certain changes seem natural. One thought is that the contagion rate should decline
 with time, as the idea becomes gradually less exciting. Another way of modeling
@@ -18,11 +20,14 @@ people might tend to become uninfectious after they meet another infectious pers
 or a recovered person, because they then think that many people now know the
 story, making it no longer new and exciting, and thus they choose not to spread the
 epidemic further.
+
 Bartholomew (1982) argued that when variations of the Kermack-McKendrick
+
 model are applied to the spread of ideas, we should not assume that ceasing to infect
 others and forgetting are the same thing. Human behavior might be influenced by an
 old idea not talked about much but still remembered. This has been called "behavioral
 residue" (Berger 2013).
+
 There is now a substantial economics literature on network models: see the recent
 Handbook of the Economics of Networks (Bramoullé, Galeotti, and Rogers 2016),
 though there appears to be little in the way of such behavioral models (the

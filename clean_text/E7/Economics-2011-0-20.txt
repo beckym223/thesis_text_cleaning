@@ -1,9 +1,11 @@
 It's obvious that r* is the unique equilibrium in this economy.
+
 But now suppose that the government issues a security with a guaranteed return
 that is higher than the equilibrium real interest rate. Rather than stay at the standard
 equilibrium, the big black dot, the household would like to hold that security and
 use it to trade along the arrow. This will take the household to a superior indifference
 curve.
+
 Now consider the same economy with the addition of currency. I take currency as
 nothing more than a government security that provides a fixed real return of r > r*.
 It has no convenience yield or other monetary properties. This assumption is reasonable
@@ -12,9 +14,13 @@ nominal interest rate is zero. Saturation was the Fed's policy in the Great Slum
 One unit of output converted to currency in the first period will buy 1 + r units of
 output in the second period, because the price level falls by the factor 1/(1 + f)
 from period 1 to period 2. Currency pays a real return of r.
+
 DEFINITION: A standard equilibrium in the two-period endowment economy with
 currency is a pair of consumption levels (ch c2) and an interest rate r satisfying the
 equality of marginal rate of substitution and marginal product of capital
+
 { ' ?u'(c2) dk2 + r'
+
 the condition for optimal trading with the government,
+
 (11)

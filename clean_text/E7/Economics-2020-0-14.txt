@@ -1,5 +1,6 @@
 signaling the likely path of policy rates; increasingly, central banks (notably the
 ECB) have made this connection explicit, for example, by promising no rate
+
 increases until well after the conclusion of asset purchase programs. Policymakers
 can also offer guidance about future asset purchases (Greenwood, Hanson, and
 Vayanos 2015) or even tie the trajectory of asset holdings to the level of rates, as
@@ -11,11 +12,13 @@ attempt at making that decomposition is the work of Swanson (2017), who extended
 the  event-study methods of Gürkaynak, Sack, and Swanson (2005) to the  post-crisis
 period. He showed that, during  2009–2015, movements in asset yields and prices
 during  30-minute windows around FOMC announcements were dominated by two
+
 factors: (i) changes in the expected path of the federal funds rate, which Swanson
 identified with forward guidance, and (ii) changes in the level of  long-term interest
 rates, which he identified with QE. With these identifying assumptions, he found
 that both forward guidance and QE significantly and persistently affected a range of
 asset prices, in a manner comparable to  pre-crisis policies.
+
 The Fed’s experience during the  post-crisis era illustrates the more general point
 that central banks, collectively, have been learning how to make better use of forward
 guidance. Like the Fed, the Bank of England moved from qualitative guidance
@@ -28,6 +31,7 @@ Altavilla et al. (2019) used a statistical analysis similar to that of Gürkayna
 and Swanson (2005) and Swanson (2017) to identify the key dimensions of ECB
 communication. Hubert and Labondance (2018) found that the ECB’s forward guidance
 persistently lowered rates over the entire term structure.
+
 Overall, the evolving evidence suggests that forward guidance can be a powerful
 policy tool, with the potential to shift the public’s expectations in a way that increases
 the degree of accommodation at the lower bound. Communication can also reduce
@@ -40,7 +44,9 @@ normal times, the general public does not pay much attention to central bank sta
 so robust policies should be designed to be effective even if they are followed
 closely only by financial market participants. Even sophisticated players can misunderstand,
 as in the taper tantrum, which means that policymakers must communicate
+
 consistently and intelligibly.
+
 Ensuring the credibility of forward guidance is also essential. The personal reputations
 and skills of policymakers matter for credibility, but since policymakers can
 bind neither themselves nor their successors, institutional reputation is important as

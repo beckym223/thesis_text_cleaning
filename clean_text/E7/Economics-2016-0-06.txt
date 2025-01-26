@@ -1,6 +1,7 @@
 the behavior of all economic agents, not just experts? The life-cycle hypothesis
 is intended to be a theory of how the typical citizen saves for retirement, not just
 those with MBAs.
+
 There is another problem with Friedman's defense, which is that even experts
 are unable to optimize when the problems are difficult. To illustrate, let's return to
 the game of chess. Since chess has no stochastic elements, it has long been known
@@ -12,6 +13,7 @@ in matches between grandmasters. Sometimes white (first player) wins, less often
 black wins, and there are many draws. This proves that even the best chess players
 in the world do not maximize. Of course one can argue that chess is a hard game,
 which is true. But, many economic decisions are difficult as well.
+
 A second line of defense is to concede that we don't all do everything like experts
 but argue that, if our errors are randomly distributed with mean zero, then they will
 wash out in the aggregate, leaving the predictions of the model unbiased on average.
@@ -21,9 +23,11 @@ the choices of a satisficer are not systematically different from an optimizer, 
 the models lead to identical average predictions (though satisficers will have more
 noise). This line of argument was refuted by the seminal work of Daniel Kahneman
 and Amos Tversky in the 1970s.
+
 In a brilliant series of experiments on what psychologists refer to as "judgment"
 and what economists might call "expectations" or "beliefs," Tversky and Kahneman
 (1974) showed that humans make judgments that are systematically biased.
+
 Furthermore, these errors were predictable based on a theory of human cognition.
 Kahneman and Tversky's hypothesis was that people often make judgments using
 some kind of rule of thumb or heuristic. An example is the "availability heuristic"
@@ -34,12 +38,16 @@ the heuristic will lead to predictable errors in those situations where frequenc
 ease of recall diverge. For example, when asked to estimate the ratio of gun deaths
 by homicide to gun deaths by suicide in the United States, most people think homicide
 gun deaths are more common, whereas there are in fact nearly twice as many
+
 gun-inflicted suicides as homicides. These are expectations that are not close to
 being "as if' rational - they are predictably biased.
+
 Kahneman and Tversky's second influential line of research was on decision
+
 making. In particular, in 1979 they published their paper on prospect theory, which
 was proposed as a "descriptive" (or what Milton Friedman would have called "positive"
 ) model of decision making under uncertainty. Prospect theory was intended
+
 to be a descriptive alternative to von Neumann and Morgenstern's (1947) expected
 utility theory, which is rightly considered by most economists to characterize how
 a rational agent should make risky choices. Kahneman and Tversky's research documented

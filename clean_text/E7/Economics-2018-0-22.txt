@@ -2,12 +2,16 @@ School districts in other cities have since adopted similar clearinghouses. Bost
 Public Schools, after lengthy study, also adopted a clearinghouse based on the
 deferred acceptance algorithm, for students entering in Fall of 2006 (Abdulkadiro˘ glu and Sönmez 2003; Abdulkadiro˘ glu et al. 2005, 2006). An important issue in Boston was how strategy-proofness “leveled the playing field” between families that were sophisticated about the way the school choice mechanism worked, and those who might simply submit their true preferences even when this was not their best course of action (Abdulkadiro˘ glu et al. 2005; Pathak and Sönmez 2008).
 65 Subsequently,
+
 my colleagues and I have collaborated on the design of school choice clearing-houses in Denver, Washington, DC, Newark, New Orleans, Camden, Indianapolis, and Chicago.
 66 In general, our goal is to enroll both district and charter schools in
+
 a unified enrollment system that will give a single best offer to each student. This is because a big cause of congestion in school assignment occurs when some students are admitted to multiple schools and others must wait for their decision before the unused places become available, and this happens when district schools and charter schools run independent admissions.
 67
+
 In many of these cities, the individual schools are not strategic players, and
 instead of using preference orderings of students compiled by school principals, the clearinghouse takes as input priority lists established by the school district to determine each student’s priority at each school.
 68 These priorities, and even the
+
 menu of schools to which students living in different parts of the city may apply, are subject to changes from time to time. This reflects the fact that which children attend which schools is an intense focus of city politics, and so the priorities that different groups of children have for different schools is part of the school choice process that is perhaps inevitably subject to change over time. I think effective school choice design should seek to put in place a mechanism that allows city politics to do its work of adjusting how school places are distributed among different constituencies, but allows the information provided each year by parents to be effectively elicited and used to place children in schools that will be good for them, with as efficient allocation of school places as possible.
 69

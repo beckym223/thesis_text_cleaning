@@ -8,9 +8,11 @@ Occupations with higher elasticities have more negative log earnings gender gaps
 The largest elasticities are for business occupations and the smallest are for technology,
 science and health occupations. In fact, almost half of the business occupations
 have a computed elasticity that exceeds one, as does law. The business
+
 occupation with the lowest elasticity is that of financial examiner, an occupation
 often found in the federal and state government settings. Only one of the science
 and technology occupations has an elasticity of earnings with respect to hours that
 exceeds one and it is that of actuary.
+
 As I will later demonstrate using data on occupations in business and law, the
 impact of hours on the gender gap is large and goes far to explain much of the

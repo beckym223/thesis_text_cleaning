@@ -1,7 +1,9 @@
 in 1935, Cole and Ohanian argue that the Roosevelt administration was able to keep
 the substance of the codes going anyway.
+
 Eichengreen (1996) and Eichengreen and Temin (2000) have argued that the persistence
 of the Great Depression has something to do with an unthinking national
+
 commitment to the gold standard, as if it were some kind of God-given virtue, despite
 changes in labor markets that made wages more downwardly rigid. They show that
 countries which abandoned the gold standard earlier showed better recoveries.
@@ -17,15 +19,18 @@ Friedman and Schwartz were really saying nothing more than that the Fed would
 have done better if they had offset these declines. Temin also observed that Friedman
 and Schwartz indicated no substantial correspondence between the bank runs and
 measures of economic activity.
+
 Once again, I argue that most likely a multiplicity of factors, whose confluence
 produced such severity, caused people to cut back substantially on their expenditures,
 and these factors in turn often have the form of epidemics of narratives.
+
 The first new narrative of the Great Depression was that of the stock market drop
 on October 28, 1929. This narrative was especially powerful, in its suddenness and
 severity, focusing public attention on a crash as never before in America. These were
 record one-day drops. But, beyond the record size, it is hard to say what made this
 crash narrative such a success. There was something timed very well about this story
 that caused an immediate and lasting public reaction.
+
 The narrative of the crash of 1929 was so strong that it persists today (see
 Figure 6), though more in books than in newspapers. The epidemic actually seems
 to have begun weakly in 1926, before the actual crash of 1929. In newspapers, there
@@ -37,8 +42,10 @@ drop, almost doubling the October 28, 1929 drop, though falling short of the
 two-day drop in 1929. It may seem odd that no other stock price movement merited
 being called a crash since 1929. Newspapers are very focused on records, presumably
 because they know their readers are, and 1987 was the only record one-day
+
 drop after 1929. Folklore suggests that the stock market epidemic had extremely
 high contagion in 1929.
+
 We know there was high contagion in 1987. In my own mail questionnaire survey
 in the days following October 19, 1987, 1 asked when the respondent learned of the
 1987 crash. Ninety-seven percent of respondents said they learned of it that day, and

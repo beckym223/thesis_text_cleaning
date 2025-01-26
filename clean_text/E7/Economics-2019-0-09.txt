@@ -3,32 +3,47 @@ rate for all decades except for the 1980s. The 10-year rate has been lower than 
 Given that my focus is on the implications of the joint evolution of interest rates
 and growth rates for debt dynamics, the next step is to construct a series for the rele-vant interest rate paid on public debt held by domestic private and foreign investors. I proceed in three steps, (i) taking into account the maturity composition of the debt, (ii) taking into account the tax payments on the interest received by the holders of public debt, and (iii) taking into account Jensen’s inequality. (Details of construction
 are given in online Appendix A.)
+
 7
+
 To take into account maturity, I use information on the average maturity of the
 debt held by private investors (that is excluding public institutions and the Fed). This average maturity went down from eight years and four months in 1950 to three years and four months in 1974, with a mild increase since then to five years today.
 8
+
 Given this series, I construct a maturity-weighted interest rate as a weighted average
 of the 1-year and the 10-year rates using
+
 i
+
 t   =  α t   ×  i 1,t   +  (1 −  α  t  )  ×  i 10,t    with
+
 α
+
 t   =  (10 − average maturity in years ) /9 .
+
 Man
+
 y, but not all, holders of government bonds pay taxes on the interest paid,
 so the interest cost of debt is actually lower than the interest rate itself. There is no direct measure of those taxes, and thus I proceed as follows.
 9,10
+
 I measure the tax rate of the marginal holder by looking at the difference between
 the yield on AAA municipal bonds (which are exempt from federal taxes) and the yield on a corresponding maturity Treasury bond, for both 1-year and 10-year bonds, denoted
 i
+
 mt1    and   i mt10    respectively. Assuming that the marginal investor is
 indifferent between holding the 2, the implicit tax rate on 1-year Treasuries is given by
 τ
+
 1t   = 1 −   i  mt1  / i 1t   , and the implicit tax rate on 10-year Treasuries is given by
 τ
+
 10t   = 1 −   i  mt10  / i 10t   .11 The tax rate on 1-year bonds peaks at about 50 percent in
 the late 1970s (as inflation and nominal rates are high, leading to high effective tax
 rates), then goes down close to 0 until the financial crisis, and has increased slightly since 2017. The tax rate on 10-year bonds follows a similar pattern, down from about 40 percent in the early 1980s to close to 0 until the financial crisis, with a small increase since 2016.
 12 Taking into account the maturity structure of the debt,
+
 I then construct an average tax rate in the same way as I constructed the interest rate above, by constructing
 τ
+
 t   =  α t   ×  τ 1,t   +  (1 −  α t  )  ×  τ 10,t

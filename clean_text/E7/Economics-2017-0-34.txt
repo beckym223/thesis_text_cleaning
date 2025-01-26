@@ -3,16 +3,19 @@ but without the demands of academic rigor. The impact of journalistic accounts
 of narratives may have been connected to aggressive forecasts which often proved
 wrong. But, the advent of big data and of better algorithms of semantic search might
 bring more credibility to the field.
+
 Research in economics is already on its way to finding better quantitative methods
 to understand the impact of narratives on the economy. Textual search is a small
 but expanding area in economic research. A search of the NBER Working Paper
 database finds less than 100 papers with the words "textual analysis." Textual analysis
 has been used by economists, for example, to document changes in party affiliation
 (Kuziemko and Washington 2015); political polarization (Gentzkow, Shapiro,
+
 and Taddy 2016); and news and speculative price movements (Roll 1988; Boudoukh
 et al. 2013). But much more could be done. The historical analysis could be carried
 further into databases of personal diaries, sermons, personal letters, psychiatrists'
 patient notes, and social media.
+
 There should be more serious efforts at collecting further time series data on
 narratives, going beyond the passive collection of others' words, toward experiments
 that reveal meaning and psychological significance. Since 1989, 1 have been
@@ -23,6 +26,7 @@ them, so that their responses can be analyzed in posterity. However, I would adv
 for there to be resources devoted to collecting data about narratives and public
 reactions and understandings of narratives on a serious scale. It could be done with
 focus groups and social media.
+
 But this research still today needs improvement in tracking and quantifying narratives.
 Researchers have trouble dealing with a set of often-conflicting narratives and
 gradations and superposition of them. Even the simplest epidemic model shows that
@@ -30,10 +34,12 @@ no narratives reach everyone, and whom a particular narrative reaches and whom i
 does not is largely random. The meanings of words depend on context and change
 through time. The real meaning of a story, which accounts for its virality, may also
 change through time and is hard to track in the long run.
+
 There are serious issues of inferring causality, distinguishing between narratives
 that are associated with economic behavior just because they are reporting on the
 behavior, and narratives that create changes in economic behavior. These issues are
 not insurmountable.34
+
 Researchers have to grapple with issues that have troubled literary theorists.
 Those theorists who, as noted above, try to list the basic stories in all of literature,
 have to try to distill what it is that defines these stories, what makes them contagious.

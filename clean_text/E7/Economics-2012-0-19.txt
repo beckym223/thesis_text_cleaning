@@ -3,12 +3,15 @@ mate TFP from wage-rate differences. Since the adjustment for capital/output rat
 plays such a small role in these calculations (see Hall and Jones 1999, Table 1), it is
 apparent that McWage ratios are, by themselves, good shorthand measures of TFP
 differences across countries.
+
 Figure 9 displays the relation between the TFP measures contained in Table 4. This
 figure shows where the wage-based measures of TFP are problematic. In countries
 with very high minimum wage rates, like Australia and much of Western Europe, the
 wage structure is altered and the McWage no longer serves as a measure of aggregate
 output differences.12 Monopoly in the product market or monopsony in the labor mar
 ket would also undermine the usefulness of wage rates for this purpose.13
+
 VI. Comparing Changes in Real Wages
+
 Table 5 and Figures 10,11, and 12 provide details on wage and pnce changes over
 the period 2000-2007. Data were collected for a much more limited set of countries

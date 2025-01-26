@@ -3,6 +3,7 @@ payoff loss P corresponding to the cost of the punishment Peppe can inflict, and
 the market altogether, getting 0 instead of C thereafter. Therefore, the condition for the customer's
 honesty is that the immediate net gain is less than the capitalized value of the future cost,
 W-H-P<(H-F) / r, or F < H - r(W - H - P).
+
 The right-hand side of this exceeds (by C + r P) the right-hand side of the corresponding
 inequality for the information service. Therefore, an enforcer Peppe can charge a higher fee.
 But this does not mean that all Peppes will become enforcers rather than information providers.
@@ -12,28 +13,35 @@ ing the probability of his survival. The higher profit from enforcement entails 
 for entry, and therefore a higher effective discount rate in that activity than in information provision.
 Therefore there can be an equilibrium where both types of services are provided, and the
 marginal Peppe is indifferent between entry into the two.
+
 E. The Downside of Private Order
+
 Thus far, I have discussed the positive aspects of informal or private institutions. However, in
 keeping with my theme that nothing is perfect, I should discuss negative aspects of private order,
 some of which were already mentioned.
+
 The most serious limitation of private order stems from its reliance on a good private communication
 network and on threats of expulsion from the group. Therefore, it becomes harder to
 maintain as the size of the group expands. It can sustain credible contract performance only in
 the small group. This fragments capital and even labor markets; highly productive opportunities
 for dealing with people outside the group go unfulfilled.
+
 If private order is maintained by a profit-motivated third-party enforcer, that party can use its
 power for extortion. Any member he fails to protect has a very poor outcome; he can use this
 threat to extract a high fee from each member for their service. As Gambetta (1993, 198) points
 out, "protectors, once enlisted, invariably overstay their welcome." Once a group gets trapped
 into this equilibrium, it will take some difficult collective action to get rid of the protector.
 V. Collective Action
+
 Numerous theoretical analyses and case studies exist to consider whether and how the problem
 of free-riding in multiperson prisoner's dilemmas of collective action can be resolved. Many of
 these studies, notably Elinor Ostrom (1990), come to similar conclusions.
+
 First, successful governance of collective action requires stability of composition of the group,
 and good local information about (1) who is and is not a member of the group, (2) what are the
 members' rights and duties (what is and what is not acceptable behavior), (3) consequences of
 misbehavior, and (4) history of individual members' behavior.
+
 Next, it is important that the rules specifying unacceptable behavior be compatible with the
 availability of information about the relevant actions; otherwise the norm cannot be enforced and  can become worse than useless because it can cause members to hold the whole institution in
 derision. For example, successfully managed fisheries often use methods such as restrictions on

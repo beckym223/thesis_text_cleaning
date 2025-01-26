@@ -1,9 +1,11 @@
 in the early part of this period, so that the number of comparisons is more limited
 for this period.
+
 The first, third, and fourth columns of Table 5 provide the ratio of the McWage,
 the price of a Big Mac, and the BMPH in 2007 to the value in 2000. These ratios
 provide measures of growth. In the second column the growth in a country's wage
 is expressed relative to the growth in the United States—a measure of the difference
 in growth from the United States.
+
 All these wage rates and pnces are expressed in US dollars at then-current exchange
 rates. If exchange rates fully reflect changes in the prices of tradables, as the PPP

@@ -1,9 +1,12 @@
 Figure 2 A. Gender Pay Gaps by Occupation: 2009 to 201 1
+
 Notes: Sample consists of full-time, full-year individuals 25 to 64 years old excluding those in  the military using trimmed annual earnings data (exceeding 1,400 hours x 0.5 x 2009 mini-  mum wage). Regression contains age in a quartic, race, log hours, log weeks, education lev-  els, census year, all occupations (469), and an interaction with female and occupation. Part A  contains all full-time, full-year workers (2,603,968 observations); part B has those who gradu-  ated (BA) college (964,705 observations); part C has the group < 45 years old among those  included in part A (1,333,013 observations). Each of the symbols in part A is an occupation  for which the mean annual income for males exceeds $60K (current $) and is limited to occu-  pations with at least 25 males and at least 25 females. For parts B and C the same occupations  are graphed.
 Source: American Community Survey 2009 to 201 1.
+
 in Figure 2. Each is for full-time, full-year workers. Part A gives the whole sample;
 part B is for only college graduates; and part C includes only "young" (less than
 45 years old) workers.
+
 The graphs give the coefficients for approximately the top 95 occupations ranked
 by male (wage and business) income. I have graphed only the top occupations
 because they are more easily grouped by occupation type.17 In addition, they include

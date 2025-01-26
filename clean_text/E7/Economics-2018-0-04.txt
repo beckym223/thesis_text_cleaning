@@ -3,12 +3,17 @@ the marketplace procedures and the commodities themselves. The Chicago Board of 
 Note that some marketplace centralization is needed even to achieve the full benefits
 of commoditization, both to standardize the commodities and to allow them to be efficiently traded. Centralization of trading might involve just a central location (in space or in cyberspace), with traders coming together to trade with one another directly. Or it might also involve a centralized clearinghouse of some sort, as in a centrally administered order book that keeps track of time-stamped bids, and asks and arranges transactions according to a set of marketplace rules.
 A commodity market must therefore employ particular marketplace technology
+
 and procedures, and the strategies available to participants may evolve along with the marketplace’s technologies, and their own. Open-outcry markets with gestic-ulating traders have largely been replaced by electronic trading, now often high speed algorithmic trading. These new technologies and the high-frequency trading strategies they enable may in turn make new market designs desirable (cf. Budish, Cramton, and Shim 2015).
 Many markets that are not quite commodity markets also work through price
+
 discovery, and trade among (almost) anonymous counterparties.
+
 7 Google search
+
 auctions, for example, determine which ads to show for each word that someone is searching for; i.e., they are an auction for eyeballs—for attention—with some eyeballs searching for more valuable things than others. Auctions for banner ads on websites may involve bids based on the cookies that reveal information about the previous web activity of the eyeballs being auctioned. The design of these auctions reflects that they have to be fast, so as not to lose the attention advertisers hope to gain with a winning bid.
 8
+
 Milgrom (2017) recounts the design of the incentive auction through which the
 US government brokered the purchase and resale of spectrum licenses owned by broadcasters so that they could be repurposed. He points out that the allocation of spectrum comes with many constraints, which makes the licenses very
 heterogeneo

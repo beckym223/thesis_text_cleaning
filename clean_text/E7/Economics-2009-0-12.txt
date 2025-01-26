@@ -1,5 +1,6 @@
 likely to meet in the future. In equilibrium there is a threshold of distance such that pairs located
 within this distance play honestly and those located farther apart cheat.
+
 If the circle is small enough, honesty may be achievable over all of it. The left-hand circle is of
 the critical size, where an agent located at O is just indifferent between honesty and cheating if
 he happens to be matched with P located diametrically opposite. The right-hand circle is slightly
@@ -13,7 +14,9 @@ cheating someone at equal distance OPx (or OP2) in the larger right circle.
 By continuity, O will also cheat people located slightly closer than Px (or P2). Enlargement
 of the circle beyond the critical size actually shrinks the distance over which honesty can be
 achieved!8
+
 D. Private External Enforcement
+
 In my classification, third-party institutions provide governance by outsiders who are not
 direct parties to this class of transactions. This works in several different ways: (1) private adjudication
 and enforcement under the shadow of formal law; (2) provision of information that then

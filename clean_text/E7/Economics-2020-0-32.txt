@@ -12,6 +12,7 @@ of the time at the lower bound, and with  longer-term interest rates frequently
 in negative territory, reflecting negative term premiums. For any given policy, these
 adverse outcomes are much less likely in the simulations when the neutral rate is in
 the  2–3 percent range.23
+
 A finding that  long-term rates are frequently negative in the simulations is a concern,
 for several reasons. First, as noted earlier, if bond market participants believe
 that the lower bound on  short-term rates is zero, then they may be unwilling to
@@ -24,6 +25,7 @@ time raise concerns about financial instability and other risks, as discussed ea
 Thus, although it remains true that the new monetary tools add policy space when
 the nominal neutral rate is below 2 percent or so, in that range none of the policy
 approaches considered here can be thought fully satisfactory.
+
 What is the best estimate of the nominal neutral rate? Sufficient conditions for the
 nominal neutral rate to be in the  2–3 percent range assumed here are that inflation
 expectations be close to the 2 percent target and that the real neutral rate be at least
@@ -37,6 +39,7 @@ forecasters and primary dealers provide similar values (Joergensen and Meldrum
 Williams (2003), reports a current estimate of the real neutral rate above 0.9 percent,
 implying a nominal neutral rate close to 3.0 percent. Alternatively, using estimates
 from the term structure model of Adrian, Crump, and Moench (2013), the New
+
 York Fed reports a  10-year average expected short rate, a proxy for the nominal
 neutral rate, of 2.8 percent. Combining macroeconomic and term structure data,
 Davis, Fuenzalida, and Taylor (2019) obtains estimates close to those of L

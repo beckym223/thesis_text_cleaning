@@ -1,12 +1,14 @@
 regions, allowing transfers may allow a more efficient treaty (see Barrett 2003,
 ch. 13). However, allowing transfers also increases the dimensionality of the strategy
 space and may increase the potential for coalition instability.
+
 Before discussing the strategic issues, a practical exception must be made for
 poor countries. We can hardly expect low-income countries struggling to provide
 clean water or engaged in civil conflict to make the same commitment as rich countries.
 So there might be a threshold for participation in terms of per capita income.
 But once countries graduate into the middle-income group, they would assume the
 obligations of club membership.
+
 What happens if surplus-sharing is included as part of country strategies? If there
 are no sharing constraints, then coalition instability is inevitable in what might be
 called the stab-in-the-back syndrome. This can be seen in the case of three regions.
@@ -18,6 +20,7 @@ B = ( 1 10, 1 10, 80), which would lead the first two countries to defect from p
 A to B. A little reflection will show that there is no stable coalition if the surplus can
 be divided arbitrarily. (For examples of how different sharing and voting rules lead
 to instability, see Meyerson 1991, ch. 9.)
+
 One difficulty with the use of differentiated emissions targets in the Kyoto Protocol
 was its stab-in-the-back instability. The initial allocation of permits across countries
 is a zero-sum distribution. It can generate the same instability as the example of
@@ -26,7 +29,9 @@ regime that focuses on carbon prices is that it can operate as a single-dimensio
 choice and thereby avoid stab-in-the-back instability. 1 A study of climate regimes
 by Weikard, Finus, and Altamirano-Cabrera (2006) confirms the potential for instability
 in climate agreements with transfers (see the online Appendix).
+
 C. Introducing Sanctions on Nonparticipants
+
 Both theory and history suggest that some form of sanctions on nonparticipants is
 required to induce countries to participate in agreements with high levels of abatement.
 It will be useful to define "sanctions" or "penalties" carefully. In their landmark
@@ -36,6 +41,7 @@ relationships. A key aspect of the sanctions analyzed here is that they benefit 
 and harm receivers. This pattern contrasts with most cases analyzed by Hufbauer,
 Schott, and Elliot, whose studies show that sanctions usually impose costs on senders
 as well as receivers and thereby raise issues of incentive-compatibility.
+
 The major potential instrument is sanctions on international trade. Whether and
 how to use international trade in connection with a climate treaty involves many
 issues - economic, environmental, legal, and diplomatic. I will e

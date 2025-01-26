@@ -1,4 +1,5 @@
 C. Product Prices and Real Wage Rates
+
 If real wage rates differ from place to place, then the prices of nontradable goods
 will also differ from place to place. Prices of nontradables must differ because local
 wage rates indicate the cost of a factor of production that is important in producing
@@ -11,17 +12,24 @@ production of tradable goods, then the prices of nontradable goods must differ t
 This results because the equality of wage rates between workers in the tradable and
 nontradable sectors within a country makes labor intensive goods more expensive to
 produce in high-productivity countries.
+
 Consider a product produced according to a Cobb-Douglas production function
 from a combination of both tradable goods and local labor that is paid wage w0i. The
 cost of producing such a good will be
+
 (3)
+
 „ ,A,a 1 -a
+
 Pni — w0 iP s
+
 where pni is the price of the quasi-tradable good, p is the (constant across places)
 price of tradable goods, and 0 < a < 1 is the fraction of the cost of production that
 is due to local labor. Equation (3) describes the price of the quasi-tradable good as a
 concave function of the local wage. A real wage defined as
+
 (4)  Woi/Pni = (Wqí/pY a,
+
 is a purchasing-power-panty price adjusted wage, where the weights in the purchas
 ing power basket are allocated in the proportion a and 1 — a to nontradables and
 tradables. This index is a concave function of the wage rate measured in the tradable
@@ -33,7 +41,9 @@ goods. It is this wage rate that should be linked to the marginal product of lab
 TFP. Likewise, it is natural to think of the quasi-tradable goods-based wage rate, w0l
 /pni, as more closely related to the welfare of workers as represented by a constant
 utility real wage index.
+
 IV. Measuring McWages
+
 To demonstrate how a well-defined real wage rate may be used, I have been col
 lecting data on wages (and prices) from McDonald's restaurants since 1998. Perhaps
 the most famous statement of the identical nature of the items McDonald's sells

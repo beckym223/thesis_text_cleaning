@@ -1,21 +1,26 @@
 be somewhat greater in today's world than in decades past, since established news
 media are in upheaval after the relatively recent advent of modem information technology
 and social media. But in past decades we can also observe that narratives
+
 with no factual basis were widely disseminated and believed. For instance, until
 modern times, it was asserted that women were not capable of learning men's occupations
 (Goldin 2014). Similarly, it was argued that some racial or ethnic groups
+
 were not really capable of integrating into civilized society (Myrdal 1974). How
 people could believe these views in the past seems hard to imagine today because
 we are no longer immersed in their narratives.
+
 Disturbingly, Oxford Dictionaries in 2016 gave post-truth as "international word
 of the year."2 Are narratives becoming increasingly based on false ideas? This possibility
 is something we ought to try to understand better. Among normal people,
+
 narratives are often somewhat dishonest and manipulative. In a competitive market
 where competitors manipulate customers and profit margins have been competed
 away to normal levels, no one company can choose not to engage in similar manipulations.
 If they tried, they might be forced into bankruptcy. A phishing equilibrium
 with a certain equilibrium acceptable level of dishonesty in narrative is established
 (Akerlof and Shiller 2015).
+
 I. The Role of Narratives Broadly, in the Social Sciences and the Humanities
 When we as economists want to understand the most significant economic events
 in our history, such as the Great Depression of the 1930s, or subsequent recessions,
@@ -24,12 +29,15 @@ that accompanied them. We have lagged behind other disciplines in attending to t
 importance of narratives (Figure 1), and while all disciplines use narratives more
 since 2010, economics (and finance) remain laggards. This is despite calls for economists'
 attention to social dynamics and popular models (Shiller 1984); to a new
+
 culturomics (Michel et al. 2005); or humanomics (McCloskey 2016); or for more
 narrativeness in economics (Morson and Schapiro 2017). We see little use of enormous
 databases of written word that might be used to study narratives.
+
 Some would say that the field of history has always had an appreciation for narratives.
 However, historians need also to be reminded sometimes that a deep understanding
 of history requires imputing what was on the minds of those people who
+
 made history, what their narratives were, as historian Ramsay MacMullen implored
 in his book, Feelings in History: Ancient and Modern (2003). He does not literally
 stress the concept of narratives: he has told me he would prefer a word conveying
@@ -37,6 +45,7 @@ stress the concept of narratives: he has told me he would prefer a word conveyin
 if we try to understand people's actions, we will need to replicate in ourselves as
 best we can the feelings they themselves experienced, and his book describes many
 of the narratives that in history communicated such feelings.
+
 In the social sciences, the last half-century saw the blossoming of schools of
 thought that emphasized study of popular narratives, a study that has been variously
 named as narrative psychology (Sarbin 1986); storytelling socio

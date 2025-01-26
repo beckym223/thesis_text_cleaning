@@ -1,122 +1,235 @@
 The first-order condition for utility maximization is given by
+
 (1 − β) U′ ( C 1  )  = β RU′  ( C 2  )  .
+
 The effect of a small increase in the transfer
+
 D
+
 on utility is gi
+
 ven by
+
 dU
 
+
+
 =
+
 [−  (1 − β) U′ ( C 1  )  + βU′  ( C 2  ) ] dD +  [ (1 − β) U′ ( C 1  ) dW + βKU′ ( C 2  ) dR]  .
 The first term in brackets, call it
+
 d
+
 U
+
 a   , represents the partial equilibrium, direct,
+
 effect of the transfer. The second term, call it
+
 d
+
 U
+
 b   , represents the general equilibrium
+
 effect of the transfer through the induced change in wages and rates of return.
 Consider the first term, the effect of debt on utility given labor and capital prices.
 Using the first-order condition gives
+
 (1)
+
 d
+
 U
+
 a   =  [β (− RU′ ( C 2  )  + U′ ( C 2  ) ) ] dD = β (1 − R) U′ ( C 2  )  dD .
 So, if
+
 R
+
+
 
 <
 
+
+
 1
+
+
 
 (the case known as “dynamic inefficiency”), then, ignoring the
+
 other term, a small increase in the transfer increases welfare. The explanation is
 straightforward. If
+
 R
+
+
 
 <
 
+
+
 1
+
 , the transfer gi
+
 ves a higher rate of return to savers than
+
 does capital.
+
 Take the second term, the effect of debt on utility through the changes in
+
 W
+
+
 
 and
 
+
+
 R
+
 .
+
 An increase in debt decreases capital and thus decreases the wage and increases
 the rate of return on capital. What is the effect on welfareUsing
+
 the factor price frontier relation
+
 dW
+
 /dR
 
+
+
 =
+
+
 
 −K/N
 
+
+
 , or equivalently
+
+
 
 dW
 
+
+
 =
+
+
 
 −K
 
+
+
 dR
 
+
+
 (given that
+
 N
+
+
 
 =
 
+
+
 1
+
 )
+
 , rewrite this second term as
+
 d
+
 U
+
 b   = −   [ (1 − β) U′ ( C 1  )  − βU′  ( C 2  ) ] K dR .
+
 Using the first-order condition for utility maximization gi
+
 ves
+
 d
+
 U
+
 b   = −   [β (R − 1) U′ ( C 2  ) ] K dR .
+
 So, if
+
 R
+
+
 
 <
 
+
+
 1
+
 then, just lik
+
 e the first term, a small increase in the transfer increases
+
 welfare (as the lower capital stock leads to an increase in the interest rate). The
 explanation is again straightforward: given the factor price frontier relation, the decrease in the capital leads to an equal decrease in income in the first period and increase in income in the second period. If
 R
 
+
+
 <
 
+
+
 1
+
 , this is more attracti
+
 ve than what
+
 capital provides, and thus increases welfare.
+
 Using the definition of the elasticity of substitution
+
 η
 
+
+
 ≡
+
 ( F K    F N  ) / F KN  F , the definition
+
 of the share of labor,
+
 α
 
+
+
 =
+
 F
+
 N  /F , and the relation between second deri vatives
+
 of the production function,
+
 F
+
 NK   = −  K  F  KK   , this second term can be rewritten as
+
 (2)
+
 d
+
 U
+
 b   =  [β (1/η) α]  [ (R − 1) U′ ( C 2  ) ] R dK .

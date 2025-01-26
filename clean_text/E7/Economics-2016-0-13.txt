@@ -2,6 +2,7 @@ of Apple, we can say for sure that odd-numbered share certificates (if such thin
 still exist) should sell for the same price as even-numbered shares. I have explored
 several such examples in work with Owen Lamont,7 and he recently told me about
 another one that I will describe here.
+
 One type of security that has provided a fruitful source of tests of the law of one
 price is closed-end mutual funds. Unlike their open-ended cousins, which accept
 new investments that are valued at the net asset value of the securities held by the
@@ -13,6 +14,7 @@ closed-end funds, noted early on by Graham (1949) among others, is that the pric
 of the shares is not always equal to the net asset value of the underlying securities.
 Funds typically sell at discounts of 10-15 percent, but sometimes sell at substantial
 premia. This is the story of one such fund.
+
 The particular fund I want to highlight here happens to have the ticker symbol
 CUBA. Founded in 1994, its official name is the Herzfeld Caribbean Basin Fund,
 which has 69 percent of its holdings in US stocks with the rest in foreign stocks,
@@ -22,10 +24,12 @@ since 1960 (although that may change at some point). The legal proviso, plus the
 fact that there are no traded securities in Cuba, means that the fund has no financial
 interest in the country with which it shares a name. Historically, the CUBA fund
 traded at a 10-15 percent discount to Net Asset Value.
+
 Figure 1 plots both the share price and net asset value for the CUBA fund for a
 time period beginning in September 2014. For the first few months we can see that
 the share price is trading in the normal 10-15 percent discount range. Then something
 abruptly happens on December 18, 2014. Although the net asset value of the
+
 fund barely moves, the price of the shares jumped to a 70 percent premium. Whereas
 it had previously been possible to buy $100 worth of Caribbean assets for just $90,
 the next day those assets cost $170! As readers have probably guessed, this price
@@ -33,10 +37,12 @@ jump coincided with President Obama's announcement of his intention to relax the
 United States' diplomatic relations with Cuba. Although the value of the assets in
 the fund remained stable, the substantial premium lasted for several months, finally
 disappearing about a year later.
+
 This example and others like it show that prices can diverge significantly from
 intrinsic value, even when intrinsic value is easily measured and reported daily. What
 then should we think about broader market indices? Can they also get out of whackCertainly,
 the run-up of technology stocks in the late 1990s looked like a bubble at
+
 the time, with stocks selling for very high multiples of earnings (or sales for those
 without profits), and it was followed by a decline in prices of more than two thirds
 in the NASDAQ index. We experienced a similar pattern in the housing boom in the

@@ -3,17 +3,23 @@ financial claims and high valuations of others, notably claims on the US governm
 These valuation effects soon stabilized, but financial intermediaries were left thinly
 capitalized. They responded with tightened lending standards and higher interest
 charges to borrowers relative to their own borrowing costs.
+
 My topic is the aftermath of the crisis. Three adverse forces gripped the economy
 in the aftermath:
+
 1. The overhang of housing and consumer durables resulting from the building
 and buying frenzy of the decade of the 2000s,
+
 2. High consumer commitments to debt service, and
+
 3. Financial frictions from the crisis.
+
 These adverse forces were so destructive because the economy was unable to lower
 its interest rate to stimulate other kinds of spending to replace house construction
 and other affected components of spending. The result was the long and deep slump.
 Unemployment is a leading symptom of the poor performance of the economy. It
 lingered near 10 percent three years into the slump.
+
 My discussion invokes a sequence of models to explain the central point about the
 failure of the interest rate to preserve full employment. Figure 2 is the starting point of
 the most stripped-down model. In this version, the real interest rate is completely flexible

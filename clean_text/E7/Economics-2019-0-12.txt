@@ -2,7 +2,10 @@
 of bad shocks, such as happened in the 1980s, can increase the debt ratio to higher levels for a while.
 Figure 6, which I believe is the more appropriate one, gives an even more optimistic
 picture, where the debt ratio rarely would have increased, even in the
+
 1980s: the
+
+
 
 reason being the higher tax revenues associated with inflation during that period.
 What these figures show is that, historically, debt rollovers would have been feasible.
@@ -10,8 +13,13 @@ Put another way, it shows that the fiscal cost of higher debt would have been sm
 The fact that debt rollovers may be feasible (i.e., that they may not have a fiscal
 cost) does not imply however that they are desirable (that they have no welfare cost). This is the topic taken up in the next two sections.Figure 6. Debt Dynamics, with Zero Primary Balance, Starting in Year  t , Using the Tax-Adjusted RateFigure 5. Debt Dynamics, with Zero Primary Balance, Starting in Year
 t , Using the Non-T
+
 ax Adjusted
+
 Rate406080100120140Index
+
 1950 1960 1970 1980 1990 2000 2010 2020
+
 20406080100Index
+
 1950 1960 1970 1980 1990 2000 2010

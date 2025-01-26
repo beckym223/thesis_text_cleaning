@@ -10,6 +10,7 @@ adjust the denomination structure of coins to suit coin holders' preferences by 
 meit coins of a denomination they wanted less of, then take the metal to the mint to buy coins
 of the denomination they wanted.47 In the ideal system, a metal meit point equaled a metal mint
 point, denomination by denomination.
+
 In practice, two imperfections hampered this system: (1) it was costly to produce coins; and (2)
 coins depreciated through wear and tear and sweating and clipping. The first imperfection gave
 rise to nonempty intervals between meit and mint points for gold or silver coins of each denomination?
@@ -20,23 +21,27 @@ denomination coin. Unless the government were to subsidize the mint for producin
 coins, the spread between minting and melting points would be proportionately wider for
 low denomination coins. The second imperfection allowed underweight coins to circulate along
 side full weight coins.
+
 A nonempty interval between melting and minting points allowed coins to circulate by tale
 (i.e., by what is written on the coin rather than by weight) at an exchange value that exceeded
 their value by weight. Indeed, in the presence of costs of producing coins, the money supply
 mechanism provided incentives for people to purchase new coins from the mint only when their
 value in exchange exceeded their value by weight by enough to cover the mint's brassage and
 seigniorage fees (Adam Smith 1789, book I, ch. 5).
+
 Nonempty intervals with proportionately wider widths for lower denomination coins and a
 consequent exchange rate indeterminacy allowed the intervals to shift over time and eventually
 to become so misaligned that they recurrently provided incentives to meit small denomination
 coins. That created the recurring shortages of small coins documented by Carlo Cipolla (1956,
 1982).48
+
 Cipolla (1956) described a temporary practical remedy for these shortages. The authorities
 debased small denomination coins, thereby shifting their mint-melt intervals in a direction that
 motivated citizens to purchase new coins from the mint. Monetary authorities throughout Europe
 used this method for hundreds of years. There were repeated debasements in small denomination
 silver coins and secular declines in rates of exchange of small denomination for large denomination
 coins.
+
 Many experiments, some inadvertent, others purposeful, were performed, and numerous theoretical
 tracts were written and disputed before what Cipolla (1956) called the "standard formula"
 for issuing token small denomination coins was put into practice in the mid-nineteenth century.49

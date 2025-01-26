@@ -3,11 +3,13 @@ will succeed in enforcing the law. The government's legitimacy is important for 
 to translate into effective order (Avner Greif 2006, 147-50), but more may be needed. In situations
 like traffic, where the good equilibrium entails concerted choices, it also requires common
 knowledge that others will abide by the law.
+
 Not only may the government's laws remain ineffective; governments and their agents may
 violate private property rights, violate contracts, and renege on promises. They expropriate assets
 without compensation, make surprise changes in tax rates and regulations, and extort bribes for
 licenses, in situations where the applicant has a valid claim to a license as well as in ones where
 a license has to be granted in contravention of the laws and regulations.
+
 Extortion by the government or its agents is, in many ways, similar to a tax, and deters economic
 activity just as a tax does. But the uncertainty created by changing and arbitrary policies
 can be worse than stable high tax rates. It is possible to achieve much despite high stable tax
@@ -17,6 +19,7 @@ too badly. It is also possible to progress economically to a point, despite corr
 and uncertain policies. Countries can reach middle-income levels despite some corruption, but
 further growth requires much better institutions (William Easterly 2001, 234-35, 245-48; Dani
 Rodrik 2003, 16-17).
+
 Less-developed countries and transition economies often have weak formal governance.
 This is to be expected. These countries have not faced the need to govern property and transactions
 in large volumes?over large geographic and social distances, and for a sufficiently
@@ -26,6 +29,7 @@ economies. After all, these latter economies also needed long periods of time, m
 decades or even centuries, to reach the level of formal governance they have today. The difference
 is that today's emerging market economies are under much greater time pressure to
 achieve comparable progress.
+
 Even in advanced market economies, governments do not provide all governance. Many private
 institutions exist to serve similar purposes. Sometimes they work in niches where the government
 cannot or does not operate, for example, when the transaction is in violation of laws
@@ -39,6 +43,7 @@ institutions of private order are among the best known. Courts recognize the adv
 arrangements, and adopt the attitude of forbearance: if the losing party in a dispute refuses to
 abide by the verdict of a recognized arbitration tribunal, the court will not rehear the case, but
 merely stand ready to enforce the arbitrators' judgment.
+
 The fact that informal governance, including such basic concepts as trust, remains important
 even in advanced market economies has been recognized and emphasized by Alan Greenspan
 (2007, 256): "in a free society governed by the rights and responsibilities of its citizens, the

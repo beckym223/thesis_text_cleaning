@@ -1,4 +1,5 @@
 Both Delphic and Odyssean guidance have potentially important roles when
+
 policymakers confront the lower bound on rates. Delphic guidance that helps the
 public better understand the central bank’s reaction function may be valuable at the
 lower bound since—given the “history dependence” of optimal monetary policy
@@ -9,6 +10,7 @@ because optimal monetary policy in those circumstances may be at least somewhat
 time-inconsistent, in the sense of Kydland and Prescott (1977)—that is, at the lower
 bound, monetary policymakers may want to commit to  interest-rate paths or to other
 actions from which they will have incentives to deviate in the future.
+
 For example, when  short-term rates cannot be reduced further, policymakers
 may want to put downward pressure on  longer-term rates by persuading market
 participants that they intend to keep the policy rate at the lower bound for an
@@ -19,6 +21,7 @@ in which policymakers promise to compensate for protracted undershoots of their
 inflation or employment goals by a period of overshoot (Yellen 2018). Odyssean
 guidance can make such commitments clear and create a reputational stake for the
 central bank to follow through.
+
 In the immediate aftermath of the financial crisis, most examples of forward guidance
 were qualitative, using language similar to Greenspan’s “considerable period”
 rather than precisely specifying the future path of rates or the conditions under which
@@ -39,6 +42,7 @@ understood the FOMC’s  lower-for-longer message. Supporting the critics’ vie
 is that, despite the Fed’s efforts to talk down rates, the  two-year Treasury yield—
 an indicator of  near-term monetary policy expectations—remained near 1 percent
 through the spring of 2010, declining only gradually after that.
+
 Over time, the FOMC pushed back against the excessively hawkish expectations
 of market participants with more precise and aggressive forward guidance. In
 August 2011, the FOMC for the first time explicitly tied its guidance to a date, indicating

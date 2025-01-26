@@ -7,6 +7,7 @@ viral, so much so that it is now commemorated. A napkin with the Laffer Curve ca
 be seen at the National Museum of American History, and a reenactment video of
 the restaurant-napkin event depicting Laffer drawing his curve on a napkin is available
 on Bloomberg.
+
 Why did this story go viral? It is always hard to explain these things. Laffer
 himself said after the Wanniski story exploded that he could not even remember
 the event, which had taken place four years earlier.10 But Wanniski was a journalist
@@ -20,6 +21,7 @@ this means that for any feasible tax revenue except one at the very top of the L
 Curve, there are two tax rates that will generate this U shape, one at the left with a
 high-income level and low tax rates, the other at the right with a low-income level
 and high tax rates.
+
 Here is a notion of economic efficiency easy enough for anyone to understand.
 Wanniski suggested, without any data, that we are on the inefficient side of the
 Laffer Curve. Laffer's genius was in narratives, not data collection. The drawing of
@@ -34,9 +36,11 @@ Years later Laffer did refer broadly to the apparent effects of historic tax cut
 2004); but in 1978 the narrative dominated. To tell the story really well one must
 set the scene at the fancy restaurant, with the powerful Washington people and the
 napkin.
+
 Another fad, associated with multiple narratives, appeared around the same time
 as the Laffer Curve: "Rubik's Cube." Rubik's Cube was bigger than Laffer Curve on
 ProQuest News and Newspapers, but smaller than Laffer Curve on Google Ngrams.
 They both show similar hump-shaped paths through time.
+
 The Laffer Curve epidemic was followed during the Reagan presidency (198 1-
 1989) by a reduction in the top US federal income tax bracket from 70 perc

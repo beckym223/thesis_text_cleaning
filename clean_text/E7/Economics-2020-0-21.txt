@@ -8,6 +8,7 @@ noting that the United States seriously lags many other countries in the develop
 of macroprudential tools; for example, the United Kingdom, Canada, and several
 Asian countries are well ahead in their ability to address dangerous credit booms,
 particularly real estate credit booms.
+
 A narrower but still important question is whether the new monetary tools pose
 greater stability risks than traditional policies or, for that matter, than the generally
 low rate environment expected to persist even when monetary policies are at a neutral
@@ -26,15 +27,20 @@ mentioned, the new tools are most likely to be used when the economy is depresse
 and increased  risk-taking is desirable. For example,  Chodorow-Reich (2014) found
 that, in the  post-crisis period, monetary easing had beneficial effects on banks and
 life insurance companies without inducing excessive  risk-taking.
+
 II. Macroeconomic Effects of the New Monetary Tools
+
 So far, I have argued that the new monetary tools, including QE and forward
 guidance, can materially affect financial conditions, in much the same way traditional
 monetary policies do when rates are away from the lower bound. The more
+
 important question, of course, is whether using these new tools near the lower bound
 can lead to significantly better economic outcomes, similar to what traditional policies
 can deliver away from the lower bound. That question occupies the remainder
 of this lecture.
+
 A. The New Monetary Tools and the Great Recession
+
 Our only historical experience involving extensive application of the new monetary
 tools is the recovery from the Great Recession. As I’ve discussed, the Federal
 Reserve and other major central banks, including the Bank of England, the ECB,
