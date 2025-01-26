@@ -1,38 +1,37 @@
-16 THE AMERICAN ECONOMIC REVIEW MARCH 1981 
- APPENDIX TABLE 2- (Continued) 
- Percentage of Persons Living in "Poverty" 
- 1965 1968 1972 1976 
- Pretransfer 
- (22) Official measure 21.3 18.2 19.2 21.0 
- (23) Adjusted.official measure - 18.0 18.2 21.1 
- (24) Relative measure 21.3 19.7 22.2 24.1 
- Posttransfer 
- (25) Official measure 15.6 12.8 11.9 11.8 
- (26) Adjusted official measure - 10.1 6.2 6.5 
- (27) Relative measure 15.6 14.5 15.7 15.4 
- Sources: Lines (1) Economic Report of the President, (Report), January 1980, Table B-2, col. (1) (1979, rev.) and Table 
- B-27, col. (2) + col. (4); (2) Report, Tables B-27, col. (2) +col. (4) and Table B-26; (3) Report, Tables B-2 and B-26; 
- (4) Report, Table B-22, col. (4); (5) Report, Table B-22, col. (3) deflated by CPI, Table B49, col. (1); (6) Report, 
- Table B-22, col. (1) less Table B-20, col. (14), divided by population, Table B-26 and PCE deflator, Table B-3, col. 
- (2); (7) See line (6), except CPI deflator, Table 49, col. (1); (8) Disposable personal income less transfers current $, 
- as in line (6) less "other labor income," Report, Table 20, col. (8) and deflated for population and prices as in line 
- (6); (9) See line (8), except CPI deflator as in line (7); (10) and (11) Surve of Current Business: A Supplement, The 
- National Income and Product Accounts of the United States, 1929-1965, Tables 6.1 and 6.4 and corresponding Tables 
- for SCB, July 1977 and 1979, deflated by PCE and CPI, respectively; (12) and (13) Survey of Current Business, 
- 1929-65, Table 6.5 and corresponding tables in SCB, July 1977 and 1979; (14) U.S. Bureau of the Census, Current 
- Population Reports, Series P-60, with PCE deflator, as in line (6), above; (15) Same, with CPI deflator, as in line (5), 
- above; (16)-(19) Same, Series P-60, No. 120, Table 14, with PCE or CPI deflators, as indicated, (20) and (21) 
- Current Population Reports, Series P-60, No. 120, Table 3, deflated as in lines (16) to (19), except 1948 from Report 
- January 1980, Table B-25, converted to 1972 dollars; and (22)-(27) Robert Plotnick and Timothy Smeeding, 
- "Poverty and Income Transfers: Past Trends and Future Prospects," Public Policy, 27, No. 3 (Summer, 1979), Table 
- 1. The official measures count the number of persons living below constant real (that is, inflation-adjusted) poverty 
- lines defined for households with different characteristics. The adjusted figures correct the official figures for 
- underreporting of income and, in the posttransfer estimates, for direct taxes and for receipts of transfers in kind. To 
- obtain the relative measures, the authors "set the relative poverty lines equal to the federal ones [in 1965]. In 
- succeeding years, the relative lines are increased at the same rate as the median income" (p. 258). 
- Notes: PCE=implicit GNP deflator for personal consumption expenditure; CPI-Bureau of Labor Statistics 
- Consumer Price Index, all items. 
- al973-78  bl 973-77  CAverage 1947 and 1950 to 1965 
- d1955-65 
- "Other labor income" includes "employers contributions to private pension, health, unemployment, and welfare 
- funds; compensation for injuries; director's fees, pay of the military reserve; and a few other minor items."
+APPENDIX TABLE 2- (Continued)
+Percentage of Persons Living in "Poverty"
+1965 1968 1972 1976
+Pretransfer
+(22) Official measure 21.3 18.2 19.2 21.0
+(23) Adjusted.official measure - 18.0 18.2 21.1
+(24) Relative measure 21.3 19.7 22.2 24.1
+Posttransfer
+(25) Official measure 15.6 12.8 11.9 11.8
+(26) Adjusted official measure - 10.1 6.2 6.5
+(27) Relative measure 15.6 14.5 15.7 15.4
+Sources: Lines (1) Economic Report of the President, (Report), January 1980, Table B-2, col. (1) (1979, rev.) and Table
+B-27, col. (2) + col. (4); (2) Report, Tables B-27, col. (2) +col. (4) and Table B-26; (3) Report, Tables B-2 and B-26;
+(4) Report, Table B-22, col. (4); (5) Report, Table B-22, col. (3) deflated by CPI, Table B49, col. (1); (6) Report,
+Table B-22, col. (1) less Table B-20, col. (14), divided by population, Table B-26 and PCE deflator, Table B-3, col.
+(2); (7) See line (6), except CPI deflator, Table 49, col. (1); (8) Disposable personal income less transfers current $,
+as in line (6) less "other labor income," Report, Table 20, col. (8) and deflated for population and prices as in line
+(6); (9) See line (8), except CPI deflator as in line (7); (10) and (11) Surve of Current Business: A Supplement, The
+National Income and Product Accounts of the United States, 1929-1965, Tables 6.1 and 6.4 and corresponding Tables
+for SCB, July 1977 and 1979, deflated by PCE and CPI, respectively; (12) and (13) Survey of Current Business,
+1929-65, Table 6.5 and corresponding tables in SCB, July 1977 and 1979; (14) U.S. Bureau of the Census, Current
+Population Reports, Series P-60, with PCE deflator, as in line (6), above; (15) Same, with CPI deflator, as in line (5),
+above; (16)-(19) Same, Series P-60, No. 120, Table 14, with PCE or CPI deflators, as indicated, (20) and (21)
+Current Population Reports, Series P-60, No. 120, Table 3, deflated as in lines (16) to (19), except 1948 from Report
+January 1980, Table B-25, converted to 1972 dollars; and (22)-(27) Robert Plotnick and Timothy Smeeding,
+"Poverty and Income Transfers: Past Trends and Future Prospects," Public Policy, 27, No. 3 (Summer, 1979), Table
+1. The official measures count the number of persons living below constant real (that is, inflation-adjusted) poverty
+lines defined for households with different characteristics. The adjusted figures correct the official figures for
+underreporting of income and, in the posttransfer estimates, for direct taxes and for receipts of transfers in kind. To
+obtain the relative measures, the authors "set the relative poverty lines equal to the federal ones [in 1965]. In
+succeeding years, the relative lines are increased at the same rate as the median income" (p. 258).
+Notes: PCE=implicit GNP deflator for personal consumption expenditure; CPI-Bureau of Labor Statistics
+Consumer Price Index, all items.
+al973-78  bl 973-77  CAverage 1947 and 1950 to 1965
+d1955-65
+"Other labor income" includes "employers contributions to private pension, health, unemployment, and welfare
+funds; compensation for injuries; director's fees, pay of the military reserve; and a few other minor items."
