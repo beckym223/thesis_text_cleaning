@@ -3,15 +3,15 @@ markets are the most efficient of all markets. They are the only markets where
 it is generally possible to cheaply sell short, an essential feature if we expect prices
 to be "right." Yet if financial markets can be off by a factor of two, how much confidence
 should we have that prices in other markets are good measures of value,
-where there are no realistic arbitrage opportunities?
-To give just one example, consider labor markets. There has been considerable
+where there are no realistic arbitrage opportunitiesTo
+give just one example, consider labor markets. There has been considerable
 attention paid in recent years to the growing inequality in incomes and wealth
 around the world (Piketty 2014; Atkinson, Piketty, and Saez 2011). Although there
 has been much debate about the cause of this trend, most of the discussion within
 economics is based on the presumption that differences in income reflect differences
 in productivity. Is that presumption warranted? If stock prices can be off by a factor
-of two, might not that be true for workers, from hamburger flippers to CEOs?
-There is reason for skepticism about that presumption from the bottom to the
+of two, might not that be true for workers, from hamburger flippers to CEOsThere
+is reason for skepticism about that presumption from the bottom to the
 top of the income ladder. At the lower end of the wage distribution there has been
 a long literature begun by Slichter (1950) documenting odd inter-industry wage
 differentials. Simply put, some industries pay more than others, and this applies to
@@ -29,15 +29,15 @@ worker has skyrocketed in the past few decades. In 1965 for large firms based in
 United States this ratio was 20; by 2014 it was over 300, more than twice the ratio
 in any other country (Mishel and Davis 2015). Of course some economists argue
 that this rise simply reflects the growing productivity of the CEOs (e.g., Kaplan,
-Klebanov, and Sorensen 2012) but how confident should we be in this assessment?
-CEO pay is usually set by the compensation committees of boards of directors that
+Klebanov, and Sorensen 2012) but how confident should we be in this assessmentCEO
+pay is usually set by the compensation committees of boards of directors that
 rely on consultants who base their recommendations in part on the pay of other
 CEOs. This kind of recursive, self-fulfilling process is not one that generates high
 confidence that pay and performance are highly correlated. Of course there is no
 way to settle this argument. Rather, I just want to repeat my question. If stock prices
 can be off by a factor of two, why should we be confident that other markets do not
-diverge by that much, or more?
-IV. One Theory, Two Tasks
+diverge by that much, or moreIV.
+One Theory, Two Tasks
 The conclusion I reach from research in behavioral finance is that even these most
 efficient of markets often lead to empirical results that are inconsistent with theories
 based on rational investors making choices in markets with tiny transaction costs. In

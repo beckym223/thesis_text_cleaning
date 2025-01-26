@@ -22,15 +22,15 @@ calls "collectivist." Examples of my usage thus include Greifs Maghribi traders 
 also industry associations and Better Business Bureaus that monitor their members' conduct,
 investigate complaints and arbitrate disputes, impose sanctions where appropriate, and publicize
 miscreants' names so others can ostracize them, or at least be on guard when dealing with them.
-Bernstein (1992, 2001) studies two such industry-based institutions of governance. Other promi?
-nent examples are the various rotating saving and credit associations of small groups of friends
+Bernstein (1992, 2001) studies two such industry-based institutions of governance. Other prominent
+examples are the various rotating saving and credit associations of small groups of friends
 that underlie many systems of microcredit (see Timothy Besley, Stephen Coate, and Glenn Loury
 1993).
 Second-party governance, whether bilateral or multilateral, attempts to resolve prisoner's
 dilemmas by repetition. For one-sided dilemmas, this is essentially an "efficiency wage" idea:
 the second mover should get enough surplus from each stage game to exceed the annuity he
-would get by investing the one-time gain from cheating. Then the resolution of two-sided simul?
-taneous-action dilemmas can be thought of as a two-sided efficiency wage: the total surplus
+would get by investing the one-time gain from cheating. Then the resolution of two-sided simultaneous-
+action dilemmas can be thought of as a two-sided efficiency wage: the total surplus
 available from mutual cooperation in each stage game must be divided in such a way that each
 player gets enough to offset the temptation to cheat.
 Enforcement on a multilateral basis brings further problems. If A cheats B in their current
@@ -39,8 +39,8 @@ other members of the group, such as C, D..., and they will inflict the establish
 be it mere withholding of future trades, or more serious sanctions such as fines and ostracism.
 This prospect can keep A honest in his dealings with B. But this process has its difficulties. It
 requires a stable community with many ongoing interactions, and good information flows about
-members' behavior. It is not enough to know that cheating occurred; the cheater must be identi?
-fied. Otherwise the punishment cannot be targeted, and blunt punishments may be insufficient
+members' behavior. It is not enough to know that cheating occurred; the cheater must be identified.
+Otherwise the punishment cannot be targeted, and blunt punishments may be insufficient
 to deter specific cheaters. Also, C, D... may have to incur some private cost to punish A on
 B's behalf. Then participation in punishment becomes a public good, and individuals have the
 temptation to free-ride just as in any other context of private provision of a public good. "Second

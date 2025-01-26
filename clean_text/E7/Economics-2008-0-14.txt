@@ -1,15 +1,15 @@
 A. From Commodity to Token to Fiat Money
 Appendix B describes a 700-year process of theorizing and experimenting that transformed
 a European commodity money system with many nominal anchors?mint-melt price pairs (i.e.,
-gold or silver points) for full-bodied coins of all denominations?to a one nominal anchor sys?
-tem that retained gold points for only one standard full-bodied coin and used government-issued
-convertible token coins and notes for other denominations.23 After another 100 years, govern?
-ments abolished the gold points for the standard coin, too, leaving the nominal anchor to be the
+gold or silver points) for full-bodied coins of all denominations?to a one nominal anchor system
+that retained gold points for only one standard full-bodied coin and used government-issued
+convertible token coins and notes for other denominations.23 After another 100 years, governments
+abolished the gold points for the standard coin, too, leaving the nominal anchor to be the
 monetary authorities' knowledge of the quantity theory of money and their good intentions.
 Appendix B notes how commodity money concealed the quantity theory of money by making
 the price level be a low variance exogenous variable and the money supply be a low variance
-endogenous variable. I see a self-confirming equilibrium working here. Eventually, some atypi?
-cal policy experiments generated data with sufficient variance in price levels and money supplies
+endogenous variable. I see a self-confirming equilibrium working here. Eventually, some atypical
+policy experiments generated data with sufficient variance in price levels and money supplies
 to reveal the quantity theory to empiricists, a theory that led to Ricardo's proposal and ultimately
 induced monetary experts like Keynes to advocate a well-managed fiat system.
 B. Two Threats to a Well-Managed Fiat Money System
@@ -25,12 +25,12 @@ papers both select among rational equilibria and modify their outcomes enough to
 big inflations in Latin America. In the remainder of this paper, I focus on statistical models that
 feature monetary authorities' struggles with Friedman's obstacle (ii).
 VI. Learning Inflation-Unemployment Dynamics
-This section describes three stories about how the US monetary authorities learned about infla?
-tion-unemployment dynamics after World War II. These stories assume that a monetary author?
-ity can control inflation if it wants.24 Then why did the US monetary authority allow inflation to
+This section describes three stories about how the US monetary authorities learned about inflation-
+unemployment dynamics after World War II. These stories assume that a monetary authority
+can control inflation if it wants.24 Then why did the US monetary authority allow inflation to
 rise in the late 1960s and 1970s, and why did it bring inflation down in the 1980s and 1990s? If
-we assume that its purposes did not change, and that it always disliked inflation and unemploy?
-ment, then it is natural to focus on changes over time in the monetary authority's understanding
+we assume that its purposes did not change, and that it always disliked inflation and unemployment,
+then it is natural to focus on changes over time in the monetary authority's understanding
 of inflation-unemployment dynamics. I describe three stories associated with empirical models
 that feature either temporary or permanent discrepancies between a government's model and a
 true data-generating mechanism.25

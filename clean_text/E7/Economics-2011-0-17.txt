@@ -5,8 +5,8 @@ The concept of the non-accelerating-inflation rate of unemployment or NAIRU
 has had a firm grip since Milton Friedman (1968) formulated the concept, though
 he called it the natural rate. The idea is that there is a critical unemployment rate
 such that inflation will become greater and greater if unemployment is below the
-rate. Today, the relevant version is the non-decelerating-inflation rate of unemploy?
-ment. By the theory underlying the concept, the rate of change of prices should fall
+rate. Today, the relevant version is the non-decelerating-inflation rate of unemployment.
+By the theory underlying the concept, the rate of change of prices should fall
 more and more if the unemployment rate is above the critical rate. Generally the
 NAIRU is found to be around 6 percent. By this influential body of thought, month
 after month of unemployment over 6 percent should bring more and more deflation.
@@ -19,15 +19,15 @@ inflation as the difference between the current unemployment rate and the lowest
 experienced in the previous 11 quarters. Thus, once a slump has lasted 11 quarters at,
 say, the same rate, no matter how high, unemployment loses its deflationary effect.
 That is exactly the opposite of the NAIRU theory. The finding is plainly consistent
-with the data in Figure 12. It's also plainly the case that any negative effect of unem?
-ployment on inflation is small even during the time when it has any effect.
+with the data in Figure 12. It's also plainly the case that any negative effect of unemployment
+on inflation is small even during the time when it has any effect.
 The limited response of inflation applies at the level of components of output.
-Figure 13 shows annual rates of change of output and price for a number of com?
-ponents of GDP, over the two-year period from 2007:IV to 2009:IV. The points lie
-along a line with a slightly positive slope?the line connecting the left-most obser?
-vation to the right-most has a slope of 0.22 percentage points of price change per
-point of output decline. The most informative observation is for residential construc?
-tion, where output declined at a 17 percent annual rate but price declined by only
+Figure 13 shows annual rates of change of output and price for a number of components
+of GDP, over the two-year period from 2007:IV to 2009:IV. The points lie
+along a line with a slightly positive slope?the line connecting the left-most observation
+to the right-most has a slope of 0.22 percentage points of price change per
+point of output decline. The most informative observation is for residential construction,
+where output declined at a 17 percent annual rate but price declined by only
 3.4 percent per year. Construction is a good test case, because existing theories of
 sticky prices do not seem to apply to this component.
 An adverse shift in the terms of trade may be an influence favoring unresponsive
@@ -41,7 +41,7 @@ Most economic models of pricing derive a reasonably stable markup of price over
 cost. The dominant model of inflation embedded in practical macro models today
 hypothesizes that firms would like to set prices according to a markup theory, but
 only do so at random times. These models are inconsistent with the evidence above,
-because they imply that the NAIRU principle holds. They cannot explain the stabili?
-zation of inflation at positive rates in the presence of long-lasting slack.
+because they imply that the NAIRU principle holds. They cannot explain the stabilization
+of inflation at positive rates in the presence of long-lasting slack.
 The remarkable stability of the rates of change of price indexes conceals the high
 volatility and dramatic variations in trends of the prices of individual products. The

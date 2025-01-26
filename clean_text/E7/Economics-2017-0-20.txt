@@ -17,8 +17,8 @@ severity, influenced the fledgling National Bureau of Economic Research (NBER)
 toward a research program emphasizing the study and dating of business cycles.
 Surprisingly, the online NBER Working Paper Series, almost a hundred years
 later, when searched, has virtually nothing to say about what caused this spectacular
-depression. Why, after all, did it happen?
-Milton Friedman and Anna J. Schwartz, in their Monetary History of the United
+depression. Why, after all, did it happenMilton
+Friedman and Anna J. Schwartz, in their Monetary History of the United
 States , have given the most influential account. According to them, the 1920-1921
 contraction has a single identifiable cause: an error made by the fledgling Federal
 Reserve to raise the discount rate to trim out-of-bounds inflation in 1919 caused

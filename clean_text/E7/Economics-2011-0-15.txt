@@ -3,13 +3,13 @@ normal times. In particular, slumps are not times of high volatility in asset ma
 or elsewhere in the economy.
 The real rate is a basic price that clears the current labor and output markets. If
 the nominal rate is pinned at zero (rn = 0), the real rate is minus the rate of inflation:
-The hypothesis of a given, unresponsive rate of inflation achieves a crucial sim?
-plification of macro modeling. The hypothesis makes sense only in an economy that
+The hypothesis of a given, unresponsive rate of inflation achieves a crucial simplification
+of macro modeling. The hypothesis makes sense only in an economy that
 had adapted to stable low inflation for many years. And it's only an approximation.
 The US entered the slump with a history of low and stable inflation. Cost-of-living
 increases were concentrated in a narrow band around 2 percent per year since the
-mid-1990s and were not much higher from the mid-1980s to 1990. An immedi?
-ate issue following the sharp contraction in the last quarter of 2008 was whether
+mid-1990s and were not much higher from the mid-1980s to 1990. An immediate
+issue following the sharp contraction in the last quarter of 2008 was whether
 inflation would fall and even turn into deflation as a result of the extreme slack that
 developed quickly. The answer, luckily, was no.
 The Great Slump brought slacker product markets to the US economy than had

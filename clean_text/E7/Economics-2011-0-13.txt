@@ -1,9 +1,9 @@
 Figure 10 provides further confirmation of a substantial and persistent increase
 in household rationing from the financial crisis. It shows an index from Google
 Insights of queries for the term "withdrawal penalty." The logic is that households
-suffering from income interruptions, who might normally have borrowing oppor?
-tunities or other ways to deal with the need to fund continuing normal consump?
-tion, turn to expensive alternatives such as 40IK withdrawals that are subject to a
+suffering from income interruptions, who might normally have borrowing opportunities
+or other ways to deal with the need to fund continuing normal consumption,
+turn to expensive alternatives such as 40IK withdrawals that are subject to a
 penalty tax. The index measures, in arbitrary units, the share of all search queries
 on Google for this term. The index jumped up in late 2008 and has remained high
 ever since.
@@ -12,11 +12,11 @@ same way as agency frictions. Borrowers behave as if credit were more costly tha
 the interest rate they pay for the amounts they are actually allowed to borrow. The
 data in Figure 6 through Figure 10 suggest that agency frictions, default costs,
 and rationing all worsened during the crisis and have remained at levels close to
-their peaks during the crisis. I combine all of these factors into the wedge dis?
-cussed earlier. Although the evidence seems strong that the wedge increased and
+their peaks during the crisis. I combine all of these factors into the wedge discussed
+earlier. Although the evidence seems strong that the wedge increased and
 has remained high, I have not found a basis for quantifying its rate. Rather, I will
-demonstrate that rates in a reasonable range have powerful negative effects on out?
-put and employment.
+demonstrate that rates in a reasonable range have powerful negative effects on output
+and employment.
 V. Nominal Interest Rate Pinned at Zero
-Currency is a safe asset paying zero return. Currency becomes financially attrac?
-tive if other safe assets pay negative returns. The Fed will always pay out currency
+Currency is a safe asset paying zero return. Currency becomes financially attractive
+if other safe assets pay negative returns. The Fed will always pay out currency

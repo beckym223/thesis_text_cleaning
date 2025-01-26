@@ -1,15 +1,15 @@
 return that households earn from savings and the rate at which businesses and
 households borrow.
 The economy in the model lasts for many years and households last as long as
-the economy. Households consume nondurable goods and services and the ser?
-vices of durables, including housing. Output is divided among three uses: non
+the economy. Households consume nondurable goods and services and the services
+of durables, including housing. Output is divided among three uses: non
 durables consumption, investment in new durables and housing, and investment
 in business capital. The length of a period is a calendar quarter. Because the real
 interest rate is bounded by the negative of the rate of inflation, a low-employment
-equilibrium may occur in the product market in any quarter. Both types of invest?
-ment incur standard quadratic adjustment costs, captured by Tobin's model of
-investment. As before, household preferences have constant intertemporal elastic?
-ity of substitution.
+equilibrium may occur in the product market in any quarter. Both types of investment
+incur standard quadratic adjustment costs, captured by Tobin's model of
+investment. As before, household preferences have constant intertemporal elasticity
+of substitution.
 Uncertainty is not an important element in the model. In particular, the model
 lacks any second-moment effects. Decision-makers have perfect foresight. I don't
 regard this as a realistic assumption, but experience has shown that perfect-foresight
@@ -18,8 +18,8 @@ a major surprise becomes known.
 I solve in two phases. First, for the model when the interest-rate bound does not
 bind, I find the consumption function C(z), where z is a vector of endogenous and
 exogenous state variables. The elements of z are the two types of capital, business
-capital (plant and equipment) k and household capital (houses and consumer dura?
-bles) d, the level of committed debt service s, and the level of the financial friction/.
+capital (plant and equipment) k and household capital (houses and consumer durables)
+d, the level of committed debt service s, and the level of the financial friction/.
 To find the function, I solve the model for many different values of the vector z and
 fit an interpolation function. The online Appendix reports the function and explains
 its derivation.
@@ -29,8 +29,8 @@ of all variables in all of the binding periods. Thus I treat all the values of a
 the variables as one big vector of 5T-8 unknowns and solve that many nonlinear
 equations jointly for their exact values. The model requires that the last value of
 consumption match the consumption function C(z) for that period's values of the
-state variables z. The online Appendix supplies more information about the solu?
-tion process.
+state variables z. The online Appendix supplies more information about the solution
+process.
 A. Technology, Adjustment Costs, Rental Prices, and Capital Demand
 The technology for producing output y is Cobb-Douglas with labor elasticity a:
 (18) yt = n?{xtkt_xy-?.

@@ -1,25 +1,25 @@
-This essay is about some ideas and experiences that shaped Ricardo's proposal to banish pre?
-cious metals as money, and other ideas that emerged from the struggles of academic econo?
-mists and policymakers to implement and refine what they had learned from Ricardo. I focus
-on two sources of prevailing ideas in macroeconomics. One is a collection of powerful theo?
-retical results and empirical methods described in Sections I, II, and III, which apply the ratio?
-nal expectations equilibrium concept to estimate models and design optimal macroeconomic
+This essay is about some ideas and experiences that shaped Ricardo's proposal to banish precious
+metals as money, and other ideas that emerged from the struggles of academic economists
+and policymakers to implement and refine what they had learned from Ricardo. I focus
+on two sources of prevailing ideas in macroeconomics. One is a collection of powerful theoretical
+results and empirical methods described in Sections I, II, and III, which apply the rational
+expectations equilibrium concept to estimate models and design optimal macroeconomic
 policies intelligently. The other is an adaptive evolutionary process, modelled in Section IV and
 illustrated both in Section V, about ideas and events that influenced Ricardo, and in Section VI,
-about struggles of the US monetary authorities in the 1970s to realize the promise for improve?
-ment held out by Ricardo.
+about struggles of the US monetary authorities in the 1970s to realize the promise for improvement
+held out by Ricardo.
 The rational expectations equilibrium concept equates all subjective distributions with an
-objective distribution. By equating subjective distributions for endogenous variables to an equi?
-librium distribution implied by a model, the rational expectations hypothesis makes agents'
+objective distribution. By equating subjective distributions for endogenous variables to an equilibrium
+distribution implied by a model, the rational expectations hypothesis makes agents'
 beliefs disappear as extra components of a theory, and sets up the powerful theoretical results
 and intelligent policy design exercises described in Section I. Section II describes theoretical and
 practical reasons for equating subjective distributions to an objective one and how it facilitates
 the rational expectations econometrics described in Section III.
 The assumption that agents share common beliefs underpins influential doctrines about
-whether inflation-unemployment dynamics can be exploited by policymakers, the time inconsis?
-tency of benevolent government policy, the capacity of reputation to substitute for commitment,
-the incentives for one type of policymaker to emulate another, and the wisdom of making infor?
-mation public. The common beliefs assumption is especially stressed in those modern theories of
+whether inflation-unemployment dynamics can be exploited by policymakers, the time inconsistency
+of benevolent government policy, the capacity of reputation to substitute for commitment,
+the incentives for one type of policymaker to emulate another, and the wisdom of making information
+public. The common beliefs assumption is especially stressed in those modern theories of
 optimal macroeconomic policy that focus on how a benevolent government shapes expectations
-optimally. This intelligent design approach to macroeconomic policy perfects an older econo?
-metric policy evaluation method that Robert E. Lucas, Jr. (1976) criticized because it imputed
+optimally. This intelligent design approach to macroeconomic policy perfects an older econometric
+policy evaluation method that Robert E. Lucas, Jr. (1976) criticized because it imputed

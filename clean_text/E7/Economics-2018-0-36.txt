@@ -9,8 +9,8 @@ VI. Open Questions , Engineering Challenges, and Opportunities
 Markets and marketplaces, broadly understood, are woven into the fabric of the
 human environment, so opportunities to build new ones are ubiquitous, and there are still many unresolved scientific and engineering questions about how they work, and what makes them work well.
 I’ve already mentioned open questions in the context of the particular markets
-I’ve discussed. More generally, what are the roles of marketplaces in markets? What properties of transactions, in addition to prices, do marketplaces help determine?
-Which markets are adequately organized without a coordinated marketplace (coordinated in time, or space, or both)? For which markets is a centralized marketplace
+I’ve discussed. More generally, what are the roles of marketplaces in markets? What properties of transactions, in addition to prices, do marketplaces help determineWhich
+markets are adequately organized without a coordinated marketplace (coordinated in time, or space, or both)? For which markets is a centralized marketplace
 desirable? For which markets does a centralized clearinghouse (possibly
 computer
 -assisted) offer additional benefits? Understanding what well-designed

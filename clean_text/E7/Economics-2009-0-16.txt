@@ -2,8 +2,8 @@ and similarly for other individuals. In the case of large n, if <f> > 2/3 we hav
 with positive public effort:
 (3) JC--2- r-3^-2 v - A(t> ?_ 0(4-3^)
 2-0' 7* (2-0)2' ,_ (2-0)2 '
-As 0 increases from 2/3 to 1, the solution in (3) moves monotonically from the purely self?
-ish Nash equilibrium (1) to the purely cooperative optimum (2). A higher <j> in this range raises
+As 0 increases from 2/3 to 1, the solution in (3) moves monotonically from the purely selfish
+Nash equilibrium (1) to the purely cooperative optimum (2). A higher <j> in this range raises
 everyone's private utility.
 Next, suppose there is a succession of generations. Each individual has one child, whose selfish
 utility is denoted by u^ defined similarly to the ut above. The parent has private family utility
@@ -11,8 +11,8 @@ f = ut + 6 w;c.
 Education can instill a social utility with parameter (j) into each child. The cost of this per
 capita is t given by
 Although each parent cares only about the family utility, he/she recognizes that instilling
-sufficient prosocial preference in all children will increase the child's private utility. Each gen?
-eration votes on a tax t per capita to finance education. Since there is no heterogeneity, the t that
+sufficient prosocial preference in all children will increase the child's private utility. Each generation
+votes on a tax t per capita to finance education. Since there is no heterogeneity, the t that
 maximizes the parent's net private family utility f ? t will emerge as the Condorcet winner.
 Calculation shows that if S > 36 k, the optimum choice of <\> is given by
 , 2(1-0) u A fk^3  x - v ; where 0 - ' K
@@ -20,19 +20,19 @@ Y 2-0 \6
 When ? is at its lower limit, 5 = 36 k, we have 8 = 0.305, and then 0 = 0.82. At the other extreme,
 when k is very small compared to <5, 0 is close to 0 and (j) is close to 1.
 The interesting aspect here is the double dimension of other-regarding preferences?toward
-one's own children and toward strangers?and their interaction. The former is present in a natu?
-ral way, and in this context it is served by instilling the latter.
+one's own children and toward strangers?and their interaction. The former is present in a natural
+way, and in this context it is served by instilling the latter.
 This "starter" example can be generalized into a full-fledged model in many ways. The most
 important feature to introduce is heterogeneity. People in a given society differ in the extent
 of their selfish or prosocial behavior, and societies and cultures around the world differ in this
-respect; see Camerer (2003, 63-75). To model this, we can have a genetically determined distri?
-bution of 4> in the population, and education can shift this distribution to the right in the sense of
+respect; see Camerer (2003, 63-75). To model this, we can have a genetically determined distribution
+of 4> in the population, and education can shift this distribution to the right in the sense of
 first-order stochastic dominance. Individuals can differ in their patience; those with high ? will
 vote for a higher amount of social spending t per capita on education, and the median voter's
 most preferred t will be implemented.
 VI. Evolution and Reform of Governance Institutions
-In the discussion of theories and case studies above, we identified many characteristics of insti?
-tutions that are conducive to good economic governance and therefore to the proper underpin?
-ning of well-functioning markets. Of course, these are only necessary conditions, not sufficient
+In the discussion of theories and case studies above, we identified many characteristics of institutions
+that are conducive to good economic governance and therefore to the proper underpinning
+of well-functioning markets. Of course, these are only necessary conditions, not sufficient
 ones. Other institutions and policies?a stable macroeconomic environment, a broadly open
 regime for trade and investment flows, and many other dimensions of good policies?are also

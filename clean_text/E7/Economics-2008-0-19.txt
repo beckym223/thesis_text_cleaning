@@ -1,7 +1,7 @@
 Notes: Evolution of policy-maker's beliefs about: (a) the natural rate of unemployment; (b)  the persistence of inflation in the Phillips curve; and (c) the slope of the Phillips curve in  King and Watson's Keynesian direction. Shaded areas are where the government (a) underes?  timates the natural rate of unemployment, (b) underestimates the persistence of inflation, and  (c) thinks that the sacrifice ratio is very large.
 Source: I have modified a figure of Primiceri (2006, p. 882).
-estimates of the evolution of the Fed's estimates of the natural rate of unemployment, the persis?
-tence of inflation, and the slope of the Phillips curve. Primiceri's Phelps problem attributes the
+estimates of the evolution of the Fed's estimates of the natural rate of unemployment, the persistence
+of inflation, and the slope of the Phillips curve. Primiceri's Phelps problem attributes the
 acceleration of inflation to the monetary authority's initial underestimates of both the natural
 rate and the persistence of inflation. A low estimated persistence of inflation indicates to the
 government that mean reverting inflation will evaporate soon enough on its own, making a less

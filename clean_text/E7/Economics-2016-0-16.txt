@@ -1,6 +1,6 @@
 that such models will make good predictions in other markets where arbitrage is
-impossible. So what should happen to economic theory?
-The problem is that we are asking our theories to do two different tasks. The first
+impossible. So what should happen to economic theoryThe
+problem is that we are asking our theories to do two different tasks. The first
 is to solve for optimal solutions to problems, the other is to describe how Humans
 actually choose. Of course in a world consisting only of Econs there would be no
 need for two different kinds of models. Economic agents would have the courtesy to

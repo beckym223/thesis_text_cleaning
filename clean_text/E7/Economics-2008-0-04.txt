@@ -5,8 +5,8 @@ normative economics. Thus, Robert J. Barro (1979), Lucas and Nancy L. Stokey (19
 Rao Aiyagari et al. (2002) use normative theories to understand observed time series properties
 of government debt and taxes. It is also true that some policy advisors have enough faith that
 evolution produces good outcomes to recommend copying best practices (for example, see John
-Maynard Keynes 1913). If only good things survive the tests of time and practice, evolution pro?
-duces intelligent design.
+Maynard Keynes 1913). If only good things survive the tests of time and practice, evolution produces
+intelligent design.
 Theories of out-of-equilibrium learning tell us not always to expect that. An observational
 equivalence possibility that emerges from the rational expectations econometrics of Section III
 sets the stage for Section IV, which describes how a system of adaptive agents converges to a
@@ -14,12 +14,12 @@ self-confirming equilibrium in which all agents have correct forecasting distrib
 observed often along an equilibrium path, but possibly incorrect views about events that are rarely
 observed. This matters because intelligent design of rational expectations equilibria hinges on
 the government's expectations about events that will not be observed. Self-confirming equilibria
-allow wrong models that match historical data to survive and to influence policy. Section V men?
-tions examples from a millennium of monetary history that culminated in the ideas expressed by
+allow wrong models that match historical data to survive and to influence policy. Section V mentions
+examples from a millennium of monetary history that culminated in the ideas expressed by
 Ricardo. To tell stories about the emergence of US inflation in the 1970s and its conquest under
-Volcker and Greenspan, Section VI uses adaptive models in which the government solves intel?
-ligent design problems with probability models that are misspecified, either permanently or tem?
-porarily. While these stories differ in many interesting details, they all suggest that choices of
+Volcker and Greenspan, Section VI uses adaptive models in which the government solves intelligent
+design problems with probability models that are misspecified, either permanently or temporarily.
+While these stories differ in many interesting details, they all suggest that choices of
 the monetary authorities were affected by misunderstandings that do not occur within a rational
 expectations equilibrium.1 These "misspecification stories" also provide a backhanded defense
 for inflation targeting.
@@ -28,8 +28,8 @@ What I call intelligent design is to solve a Pareto problem for a model in which
 inside the model optimizes in light of information and incentive constraints and a common
 probability model. Intelligent design is a coherent response to Lucas's (1976) indictment of pre
 rational expectations macroeconomic policy design procedures. Lucas rejected those procedures
-because they incorporated private agents' decision rules that were not best responses to govern?
-ment policy under the equilibrium probability measure. The cross-equation restrictions imposed
+because they incorporated private agents' decision rules that were not best responses to government
+policy under the equilibrium probability measure. The cross-equation restrictions imposed
 by a common belief assumption fix that problem.
 Let/denote a probability density and xt a history xt,xt-i,,..,x0. Partition xt = [y? v,]', where
 vt is a vector of decisions taken by a government and yt is a vector of all other variables. Let

@@ -1,17 +1,17 @@
-It is natural to impute popular contemporary models to the government. The "revisionist his?
-tory" of the US Phillips curve by Robert G. King and Mark W. Watson (1994) provides a good
+It is natural to impute popular contemporary models to the government. The "revisionist history"
+of the US Phillips curve by Robert G. King and Mark W. Watson (1994) provides a good
 source for these. King and Watson studied how econometric directions of fit (i.e., should one
 regress inflation on unemployment or unemployment on inflation?) affect government decisions.
 To make contact with studies from the 1970s, King and Watson call regressions of inflation on
-unemployment the Keynesian direction of fit and unemployment on inflation the classical direc?
-tion.26 I impute simplified versions of more completely articulated models to the government.27
+unemployment the Keynesian direction of fit and unemployment on inflation the classical direction.
+26 I impute simplified versions of more completely articulated models to the government.27
 These simple models capture the substantially different operating characteristics that drive our
 stories.
 The three stories have monetary authorities solve adaptive intelligent design problems that
-induce them to make decisions that are influenced by their erroneous views about the conse?
-quences of actions not taken. The stories differ in the nature of those misunderstandings. In
-the first story, the monetary authority's misspecified model misses a chain of causation link?
-ing its decisions first to the private sector's expectations of inflation and then to the position of
+induce them to make decisions that are influenced by their erroneous views about the consequences
+of actions not taken. The stories differ in the nature of those misunderstandings. In
+the first story, the monetary authority's misspecified model misses a chain of causation linking
+its decisions first to the private sector's expectations of inflation and then to the position of
 an unemployment-inflation trade-off. In the second story, there exists a parameter vector 0o =
 p that aligns the monetary authority's model with the data-generating mechanism on and off
 the chosen stochastic monetary policy path, but except in the limit as t ?? ??, the government's
@@ -20,11 +20,11 @@ it chooses not to implement. In the third story, the government mixes across sub
 operating characteristics that give very different readings about the consequences of following a
 no-feedback low-inflation policy.
 A. The (Temporary) Conquest of US Inflation
-This story is about generating sufficient variation in the data to allow a government's misspec?
-ified model to detect that there is no exploitable trade-off between inflation and unemployment.
+This story is about generating sufficient variation in the data to allow a government's misspecified
+model to detect that there is no exploitable trade-off between inflation and unemployment.
 The only way the government's model lets it discover that there truly is no exploitable trade-off
-is for it falsely to infer that there is no trade-off whatsoever. That imperfection dooms stabiliza?
-tions of inflation to be temporary.
+is for it falsely to infer that there is no trade-off whatsoever. That imperfection dooms stabilizations
+of inflation to be temporary.
 This story uses specifications f{ycc,vcc\p) "?f(yx,v?\0) to capture the idea that a monetary
 authority misunderstands how its decisions affect private agents' expectations about inflation
 and, therefore, the joint distribution of unemployment and inflation. I illustrate the forces at work
@@ -33,6 +33,6 @@ and Sargent (2002), and Sargent and Williams (2005) studied and that Heetaik Chu
 Sargent (1999), and Sargent, Williams, and Zha (2006b) fit to US data. The true model is
 (20) U = p0 - Pip3w2 + p2Wi ;
 (21) 77 = v + p3w2,
-where U is the unemployment rate, rr is the rate of inflation, v is the systematic part of the infla?
-tion rate chosen by the monetary authority, w is a 2 X 1 Gaussian random vector with mean zero
+where U is the unemployment rate, rr is the rate of inflation, v is the systematic part of the inflation
+rate chosen by the monetary authority, w is a 2 X 1 Gaussian random vector with mean zero
 stability and performance of alternative monetary policy rules See Timothy Cogley (2005) and Monika Piazzesi and  Martin Schneider (2007) for applications to the yield curve

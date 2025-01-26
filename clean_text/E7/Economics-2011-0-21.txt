@@ -4,8 +4,8 @@ It's obvious that the only possible standard equilibrium with government trading
 occurs when the government trades at the equilibrium price for the economy without
 government trading, r > r*, in which case the government will not find any takers
 for its proposed trade.
-A government issuing currency with a return of r > r* is doing something funda?
-mentally uneconomic that no private organization would do?it is overcompensat
+A government issuing currency with a return of r > r* is doing something fundamentally
+uneconomic that no private organization would do?it is overcompensat
 ing people who lend to it.
 The conclusion:
 PROPOSITION: In the presence of currency yielding more than the equilibrium
@@ -17,8 +17,8 @@ from r*. They would line up outside the government office where they could sign 
 for the deal. Something would happen in that economy. The key question is what
 kind of non-standard equilibrium results from the government's offer to trade at the
 wrong price.
-Figure 15 also shows a line with a more negative slope than the dashed line cor?
-responding to the equilibrium real interest rate. The household can trade along this
+Figure 15 also shows a line with a more negative slope than the dashed line corresponding
+to the equilibrium real interest rate. The household can trade along this
 line by holding currency and thus reach a superior indifference curve. The story
 behind that action is natural: The household finds it desirable to reduce first-period
 consumption and increase second-period consumption. Workers in the household
@@ -30,12 +30,12 @@ that combination of cx and c2. On the other hand, the standard equilibrium is al
 an equilibrium of the economy with high-yielding currency. Households will always
 break that equilibrium by hanging on to their currency.
 B. Low-Employment Equilibrium
-The Availability of Currency Breaks the Standard Equilibrium.?What then hap?
-pens in this economy? This question goes to the heart of the issue. The government
+The Availability of Currency Breaks the Standard Equilibrium.?What then happens
+in this economy? This question goes to the heart of the issue. The government
 is causing a major problem in the economy by offering too good a deal. People try to
 hold onto any currency that falls into their hands, rather than spending it right away.
-Economies in slumps with interest rates pinned at zero have excess unemploy?
-ment. That was true in the Great Depression, it's been true in Japan for a while, and
+Economies in slumps with interest rates pinned at zero have excess unemployment.
+That was true in the Great Depression, it's been true in Japan for a while, and
 it's true now in the US. So it seems appropriate that a model generate some kind
 of a low-employment equilibrium. Earlier work on this branch of macro model
 building including Paul R. Krugman (1998), Gauti B. Eggertsson and Michael

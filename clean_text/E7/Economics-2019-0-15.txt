@@ -35,15 +35,15 @@ so the production function is linear and capital accumulation
 has no effect on either wages or rates of return to capital, this second effect is equal to 0.
 So far, I just replicated the analysis in Diamond.
 19 Now I introduce uncertainty in
-production, so the marginal product of capital is uncertain. If people are risk averse, the average safe rate will be less than the average marginal product of capital. The basic question becomes: what is the relevant rate we should look at for welfare purposes?
-Put loosely, is it the average marginal product of capital
+production, so the marginal product of capital is uncertain. If people are risk averse, the average safe rate will be less than the average marginal product of capital. The basic question becomes: what is the relevant rate we should look at for welfare purposesPut
+loosely, is it the average marginal product of capital
 ER
 , or is it the a
 verage
 safe rate
 ER
-f  , or is it some other rate altogether?
-The model is the same as before, except for the introduction of uncertainty.
+f  , or is it some other rate altogetherThe
+model is the same as before, except for the introduction of uncertainty.
 People born at time
 t
 ha
