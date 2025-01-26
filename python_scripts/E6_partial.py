@@ -185,7 +185,7 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 if __name__ == "__main__":
     import sys
     if len(sys.argv) != 5:
-        print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
+        print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>") #type: ignore
         sys.exit(1)
 
     source_dir = sys.argv[1]
