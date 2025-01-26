@@ -47,9 +47,12 @@ i' -.Ot5 i g . -.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~015
 o .2 04 .6 .8 t
 Percentile ot Value Added Percentile of Value Added
 U0S. Manuaotausp 1948-85 32 Sectors
-L 015 Rate oa  Growth
+L 015 Rate oa
+Growth
 v _ ~~~~~~~~~~~~~~~~~.0063
-Cum Suo --r-- .0055  Real  Reduction
+Cum Suo --r-- .0055
+Real
+Reduction
 FIGURE 3. TF GROWTHPROFILESFORUS.MANUFACTUR015
 0 2 .4 .6 .8 t
 Percentl,e of Value Added

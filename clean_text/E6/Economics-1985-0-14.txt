@@ -95,7 +95,8 @@ forth above with respect to wages, holds for prices.
 Without auction markets or some surrogate for the
 Walrasian auctioneer, the external nature of the gains
 from price changes would tend to negate the force of the
-Barro argument.  1 Since the macroeconomic effects of their own wage
+Barro argument.
+1 Since the macroeconomic effects of their own wage
 and price decisions do not enter into economic agents'
 objective functions, the Akerlof-Yellen conclusions
 about the small size of losses from "near-rational"

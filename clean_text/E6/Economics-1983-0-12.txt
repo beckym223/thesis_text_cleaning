@@ -93,7 +93,8 @@ inputs; but production is scattered among noncommunicating
 islands, using capital that is immobile and
 labor that is randomly mobile (between periods), while
 increments of money are distributed stochastically
-among the separated markets from period to period.  This schema permits changes in money to create fluctuations
+among the separated markets from period to period.
+This schema permits changes in money to create fluctuations
 of real output (of capital goods); but it is not at all
 clear (to me) why or how the postulated source of such
 "cycles" bears any relationship to the cycles of the "real

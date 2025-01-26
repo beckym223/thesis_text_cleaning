@@ -1,8 +1,11 @@
 TABLE 2-JUDGMENT AND THE FORMATION OF PERCEPTIONS AND BELIEFS
 Effect Description
-Anchoring Judgments are influenced by quantitative cues contained in the decision task  Context/framing History and framing of the decision task influence perception and motivation  Endowment/reference point Status quo is a "safe" known alternative: "The devil you know is better than the devil
+Anchoring Judgments are influenced by quantitative cues contained in the decision task
+Context/framing History and framing of the decision task influence perception and motivation
+Endowment/reference point Status quo is a "safe" known alternative: "The devil you know is better than the devil
 you don't"
-Extension Representative rates are more available than integrated experience  Prominence/order The format or order of decision tasks influences the weight given to different aspects
+Extension Representative rates are more available than integrated experience
+Prominence/order The format or order of decision tasks influences the weight given to different aspects
 Prospect Probability calculus is inconsistent; asymmetry in gains and losses
 Regression Causal structure attributed to fluctuations; failure to anticipate regression to mean
 Representativeness Frequency neglect in exemplars
@@ -43,7 +46,8 @@ the utility of an experience will be the subjective
 time integral of the sensations involved.
 Perceptions and beliefs are influenced by the
 way we process information (see Table 2).
-Memory plays a role, e.g., selective memory is  implicated in regression and representativeness
+Memory plays a role, e.g., selective memory is
+implicated in regression and representativeness
 effects. We overemphasize recent, available experience
 in forming beliefs, and depend heavily
 on readily available cues to construct our perceptions

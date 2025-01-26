@@ -3,7 +3,8 @@ will enter their utility function. In each case, we
 shall see that such views will nullify the respective
 neutrality result. Indeed, we shall also see
 that in each case there will be a natural norm
-broadly consistent with Keynesians' views of  economic behavior.21
+broadly consistent with Keynesians' views of
+economic behavior.21
 IV. Ricardian Equivalence
 We shall begin our detailed discussion with
 Ricardian equivalence. It was chronologically
@@ -25,9 +26,11 @@ in period 2.
 The parent's utility function can be expressed
 simply as U,(cl, U2(c2)), where c1 is the consumption
 of the parent, C2 is the consumption of
-the child, U, is the utility of the parent, and U2  is the utility of the child. The parent chooses her
+the child, U, is the utility of the parent, and U2
+is the utility of the child. The parent chooses her
 consumption in period 1 to maximize her utility.
-Whatever wealth remains, she bequeaths to her  child.
+Whatever wealth remains, she bequeaths to her
+child.
 Ricardian equivalence takes the following form
 in this model. Suppose that the government
 gives a transfer, which we shall call a social

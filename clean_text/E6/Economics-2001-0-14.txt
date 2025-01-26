@@ -89,12 +89,14 @@ input for the U.S. economy from 1948 to 1999.
 These incorporate individual data from the Censuses
 of Population for 1970, 1980, and 1990,
 as well as the annual Current Population Surveys.
-Constant quality indexes for the price and  25 See, for example, Jorgenson et al. (1987 pp. 40-49)
+Constant quality indexes for the price and
+25 See, for example, Jorgenson et al. (1987 pp. 40-49)
 and Jorgenson and Griliches (1996).
 26 Jorgenson and Stiroh (2000b Table B4 pp. 196-97)
 give the depreciation rates employed in this study. Barbara
 M. Fraumeni (1997) describes depreciation rates used in the
-NIPA. Jorgenson (2000) surveys empirical studies of depre-  ciation.
+NIPA. Jorgenson (2000) surveys empirical studies of depre-
+ciation.
 27 See Jorgenson and Yun (2001). Diewert and Denis A.
 Lawrence (2000) survey measures of the price and quantity
 of capital input.

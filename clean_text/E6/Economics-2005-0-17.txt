@@ -50,7 +50,8 @@ wealth. The net effect of Social Security on
 saving therefore depends on the balance between
 the positive induced retirement effect and
 the negative wealth displacement effect, an issue
-that could be settled only empirically.  My initial time series analysis (Feldstein, 1974)
+that could be settled only empirically.
+My initial time series analysis (Feldstein, 1974)
 implied that Social Security "wealth," the present
 actuarial value of future Social Security benefits,
 significantly reduced personal saving. Reestimating

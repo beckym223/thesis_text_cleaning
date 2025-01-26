@@ -80,7 +80,8 @@ surprising that health economists are unable
 to reach agreement. The state of knowledge
 about the links between genes and disease is
 the same as for the health economists' policy-value questions
-(0.77).  " For a discussion of alternative conceptions of justice,
+(0.77).
+" For a discussion of alternative conceptions of justice,
 see Amartya Sen (1987).
 32 In Essays in Positive Economics, Friedman (1953)
 wrote "Differences about economic policy among disinterested

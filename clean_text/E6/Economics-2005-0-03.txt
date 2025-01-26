@@ -44,7 +44,8 @@ Social insurance may appear to be redistributing
 income to the poor because benefits are
 paid to those who are temporarily poor due to
 the event that triggered the payment of benefits.
-This ignores the permanent or lifetime income  of these recipients. It also ignores the effect of
+This ignores the permanent or lifetime income
+of these recipients. It also ignores the effect of
 the social insurance on the incentive to accumulate
 funds for these rainy days. Social Security
 benefits that replace 50 percent or more of
@@ -96,5 +97,6 @@ general equilibrium effects of Social Security
 tilt the pretax distribution of income toward
 higher income individuals by reducing capital
 accumulation, which in turn lowers real wages
-and raises the return to capital.  2 See Robert A. Moffitt (2003) for detailed studies of a
+and raises the return to capital.
+2 See Robert A. Moffitt (2003) for detailed studies of a
 variety of welfare programs.

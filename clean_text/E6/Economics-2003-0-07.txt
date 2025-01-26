@@ -46,7 +46,11 @@ resulted in output variability that was about 84
 percent of actual variability.9 In a complementary
 study, S. Rao Aiyagari (1994) arrived at an
 estimate of 79 percent for the contribution of
-9 Questions of measurement errors are discussed in the  paper and by Summers (1986) in the same volume. In  Prescott (1986b), estimates of 0.5 to 0.75 for the contribu-  tion of technology shocks to output variance are proposed.  technology shocks, based on comovements of
+9 Questions of measurement errors are discussed in the
+paper and by Summers (1986) in the same volume. In
+Prescott (1986b), estimates of 0.5 to 0.75 for the contribu-
+tion of technology shocks to output variance are proposed.
+technology shocks, based on comovements of
 production and labor input over the cycle.
 Shapiro and Watson find that at most 30
 percent of cyclical output variability can be
@@ -88,7 +92,9 @@ return on capital is around 0.05, so the fact that
 p must be positive requires that y in (6) be at
 most 2.5. Moreover, a value as high as 2.5
 would imply much larger interest rate differenlO
-For example, Shapiro and Watson attribute a large  share of output variance to a shock which they call "labor  supply" [and which I would call "household technology,"
+For example, Shapiro and Watson attribute a large
+share of output variance to a shock which they call "labor
+supply" [and which I would call "household technology,"
 following Jess Benhabib et al. (1991) and Jeremy
 Greenwood and Zvi Hercowitz (1991)].
 6

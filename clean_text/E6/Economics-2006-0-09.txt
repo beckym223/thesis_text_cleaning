@@ -34,7 +34,8 @@ What we store and retrieve from memory
 is affected by mood and emotion. Laura
 Carstensen (Susan M. Charles et al., 2003;
 James J. Gross et al., 1997) finds that advertisements
-are remembered better, and influence  choice more, when the affective content of the
+are remembered better, and influence
+choice more, when the affective content of the
 ad matches the mood of the consumer. George
 Loewenstein (1996) finds that emotional sensations
 are more easily remembered than nonemotional

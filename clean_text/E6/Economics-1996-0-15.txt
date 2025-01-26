@@ -53,5 +53,6 @@ R 2 0.279 0.166 0.114 0.145 0.182
 Adjusted R2 0.146 0.004 -0.068 0.096 0.122
 F 2.10 1.02 0.63 3.00 3.02*
 Notes: Standard error in parentheses.
-Health economist is the excluded class (ET = economic theorists and PP = practicing physicians).  * Significant at p < 0.05.
+Health economist is the excluded class (ET = economic theorists and PP = practicing physicians).
+* Significant at p < 0.05.
 ** Significant at p < 0.01.

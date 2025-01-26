@@ -74,7 +74,8 @@ also: see Griliches (1990) for more detail and W.
 Fellner (1970), who worried about the rising real cost
 of R&D as an indicator of diminishing returns.
 10This follows from the nonrival nature of inventions
-(see Kenneth Arrow, 1962; Paul Romer, 1990).  "Assume an aggregate inventions "production function"
+(see Kenneth Arrow, 1962; Paul Romer, 1990).
+"Assume an aggregate inventions "production function"
 of the form N = RYZ, where R is a measure of
 current R&D inputs and Z represents all other shifters
 of this function: the accumulation of one's own past
@@ -85,8 +86,10 @@ given the current "state of the art" Z. To the
 extent that endogenous (and exogenous) forces "recharge"
 the pool (in Evenson's [1991] terminology) and
 change Z as the result of the direct and indirect
-additions to the overall stock of knowledge, there need  not be diminishing returns to R in the long run. If R is
-chosen so as to equate the value of its marginal prod-  uct, V(yN/R), to the marginal real cost of R, C, and if
+additions to the overall stock of knowledge, there need
+not be diminishing returns to R in the long run. If R is
+chosen so as to equate the value of its marginal prod-
+uct, V(yN/R), to the marginal real cost of R, C, and if
 V is the expected present value of an invention, one
 can rewrite the first-order condition as N/R = C/yV,
 which yields the major conclusion that the ratio of

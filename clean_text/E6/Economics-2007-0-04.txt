@@ -94,5 +94,9 @@ dependent on cash flow, in violation of
 Modigliani-Miller;
 * A realistic norm will make wages and prices
 dependent on nominal considerations and
-thus violate natural rate theory;  6 Of course, it took some time for the implications of  these neutrality results to be fully appreciated. For example,  life-cycle consumption and Modigliani-Miller were initially  considered as nothing more than useful codicils to Keynesian
+thus violate natural rate theory;
+6 Of course, it took some time for the implications of
+these neutrality results to be fully appreciated. For example,
+life-cycle consumption and Modigliani-Miller were initially
+considered as nothing more than useful codicils to Keynesian
 thinking.

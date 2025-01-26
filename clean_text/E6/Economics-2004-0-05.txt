@@ -51,7 +51,8 @@ Interest in the description of behavior that
 deviates from that in the Arrow-Debreu model
 has grown enormously lately. Long before behavioral
 economics became a hot topic, public
-policies reflected recognition that the model of  homo economicus, while very useful, is not a
+policies reflected recognition that the model of
+homo economicus, while very useful, is not a
 fully adequate basis for the design of all policies.
 For example, federal legislation introduced
 a "cooling-off' period during which contracts
@@ -69,7 +70,8 @@ workers retire too soon for their own good.
 These issues of poor choices in the presence of
 available opportunities are in addition to insurance
 market limitations that come from
-market incompleteness and from asymmetric  information.
+market incompleteness and from asymmetric
+information.
 Inadequate attention to the future in general
 and its stochastic structure in particular implies
 some form of time inconsistency. Normative
@@ -91,8 +93,17 @@ too literally, failing to recognize the tight links
 between the different selves who are the same
 person at somewhat different ages, is failing to
 address adequately the underlying issues.'? And
-9 The growth of two-career families has altered the na-  ture of this concern and presumably the most sensible  design for the system, but has not made the problem go  away. There is a tension in social security systems, just as  there is in income taxation, between treatment of individu-  als and treatment of the family. Diversity in the way resources
+9 The growth of two-career families has altered the na-
+ture of this concern and presumably the most sensible
+design for the system, but has not made the problem go
+away. There is a tension in social security systems, just as
+there is in income taxation, between treatment of individu-
+als and treatment of the family. Diversity in the way resources
 are allocated within different families affects the
-evaluation of different benefit designs.  10 More generally, there is a difference between taking a  model literally and taking it seriously-which involves  learning from models in order to think about a reality that is  more complex than is captured in any model-indeed that is
+evaluation of different benefit designs.
+10 More generally, there is a difference between taking a
+model literally and taking it seriously-which involves
+learning from models in order to think about a reality that is
+more complex than is captured in any model-indeed that is
 4
 MARCH 2004

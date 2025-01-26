@@ -5,13 +5,16 @@ Real Cost Grot
 Reduction Growth
 .08862
 .05
-0 .5 1  Percentile of Initial Value Added
+0 .5 1
+Percentile of Initial Value Added
 A. 1970-1981
 I.. . ...... ........................ ............... . ........................ ....... ......................... _ . ........
 .08
 Cum. Sum Cum.
 Real Cost Rate of
-Reduction TFP  Growth  .06
+Reduction TFP
+Growth
+.06
 .04
 ... ... ... ... . ...... ...... . .................... . . ... .0241.................... .............48...........
 0

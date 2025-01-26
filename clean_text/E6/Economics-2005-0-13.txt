@@ -44,7 +44,8 @@ programs that are more narrowly focused on
 individuals who demonstrate that they have low
 income or assets. Although I doubt the desirability
 of the myriad of existing in-kind programs
-like food stamps and housing subsidies  (Moffitt, 2003), I have no doubt about the appropriateness
+like food stamps and housing subsidies
+(Moffitt, 2003), I have no doubt about the appropriateness
 of transferring income to the very
 poor.
 There is, moreover, a clear case for being
@@ -96,4 +97,7 @@ investment-based accounts: unemployment insurance
 savings accounts (UISAs) backed up by a
 government line of credit, personal retirement accounts
 (PRAs) that supplement ordinary pay-asyou-
-go Social Security benefits, and personal  15 Alternative plans could achieve the transition without  any rise in taxes by allowing the Social Security Trust Fund  to borrow for a temporary period.
+go Social Security benefits, and personal
+15 Alternative plans could achieve the transition without
+any rise in taxes by allowing the Social Security Trust Fund
+to borrow for a temporary period.

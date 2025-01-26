@@ -5,7 +5,8 @@ elapsed since the publication of ModiglianiMiller.
 According to Zorn, when it first appeared,
 it did not describe the investment
 decision of large corporations. Now, quite possibly,
-changes in corporate decision-making  since that time make it more realistic.65
+changes in corporate decision-making
+since that time make it more realistic.65
 C. Summary
 The investment decision demonstrates once
 again that the respective neutrality result depends
@@ -34,7 +35,8 @@ is above it.
 As we shall see, such spirals occur because,
 at high levels of demand, the representative firm
 will wish to set the price of its product relative
-to the price of other firms' products-which we  call its real price-in excess of unity. A standard
+to the price of other firms' products-which we
+call its real price-in excess of unity. A standard
 natural rate model illustrates why this occurs. That
 model assumes that in each period the typical firm
 sets a desired real price for the following period;

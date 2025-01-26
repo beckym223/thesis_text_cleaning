@@ -54,33 +54,51 @@ the variables for successive periods of
 considerable duration; high serial correlation
 and lags reduce the usefulness of data
 reflecting yearly changes.24 Emphasis will
-22 However, the base in relation to which the pro-  ductivity-increase is measured is somewhat inflated as a  result of the fact that the private sector includes some
+22 However, the base in relation to which the pro-
+ductivity-increase is measured is somewhat inflated as a
+result of the fact that the private sector includes some
 activities for which no productivity-increase can be
 measured (such as the activities of private nonprofit
 organizations, and paid household work); and it includes
 some activities for which the output indices
 actually used do not measure productivity-increases
-adequately. A minor terminological awkwardness to be  noted here is that government-enterprise, in contrast to
+adequately. A minor terminological awkwardness to be
+noted here is that government-enterprise, in contrast to
 general government, belongs in the "private" sector
 See also fn. 33.
-23 Kendrick (pp. 182-186) has found a statistically  significant correlation between the increase in his total
-factor productivity and the "R & D-intensity" of  specific industry groups. His discussion of this problem  is based partly on his own research and partly on that of
+23 Kendrick (pp. 182-186) has found a statistically
+significant correlation between the increase in his total
+factor productivity and the "R & D-intensity" of
+specific industry groups. His discussion of this problem
+is based partly on his own research and partly on that of
 Nestor Terlecky.
 Jora Minasian in his May 1969 article, and in his
-earlier work there quoted, reports on a positive re-  lationship between R & D and productivity-increase in
+earlier work there quoted, reports on a positive re-
+lationship between R & D and productivity-increase in
 a cross-section of chemical firms. He regressed Value
 Added on labor, capital and R & D. His estimate of the
-rates of return from R & D disregards a substantial  proportion of the progress-costs with which we shall be  concerned in this paper, but what matters here is the
+rates of return from R & D disregards a substantial
+proportion of the progress-costs with which we shall be
+concerned in this paper, but what matters here is the
 existence of a positive relationship between R & D and
 productivity-increase. However, the fact that on the
-cost-side merely R & D enters into Minasian's analysis  when he estimates rates of return may provide part of
+cost-side merely R & D enters into Minasian's analysis
+when he estimates rates of return may provide part of
 the explanation why these rates are hard to reconcile
 with the results of a survey (questionnaire study) on
 which Edwin Mansfield reported also in the May 1969
 Papers and Proceedings. Firms must be acutely aware
 of the changeover costs and of various other costs to
 be considered in our analysis.
-24 This, however, is not all "black and white." For  example, regression analysis based on yearly data is not  useless when it comes to examining the question whether  in the United States the rate of increase of productivity
-has been rising.  Testing the upward tendency of the rate of produc-  tivity increases (semi-logarithmic nonlinearity) with  yearly data is of interest only for the period following
+24 This, however, is not all "black and white." For
+example, regression analysis based on yearly data is not
+useless when it comes to examining the question whether
+in the United States the rate of increase of productivity
+has been rising.
+Testing the upward tendency of the rate of produc-
+tivity increases (semi-logarithmic nonlinearity) with
+yearly data is of interest only for the period following
 1919 (or conceivably for a period ending in 1919).
-Kendrick has shown conclusively that if one decides to  limit oneself to semi-logarithmically linear relations of  productivity to time (i.e., of the logarithm of produc-
+Kendrick has shown conclusively that if one decides to
+limit oneself to semi-logarithmically linear relations of
+productivity to time (i.e., of the logarithm of produc-

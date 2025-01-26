@@ -68,7 +68,8 @@ distinguishing between current and capital
 5If government services are viewed as intermediate
 product purchased by business with other than indirect
 business taxes, there is a corresponding reduction in
-national income.  6Discrepancies between theory and measure of national
+national income.
+6Discrepancies between theory and measure of national
 income are not unique to U.S. accounts. They
 arise as well with the accounts of other nations. Foreign
 accounts, however, do usually include government capital
@@ -78,7 +79,8 @@ that receive much attention. Hayashi (1986, p. 151)
 attributes 3 to 5- percentage points in the difference
 between Japanese and U.S. reported national saving
 rates (as ratios of NNP) to the Japanese inclusion of net
-government capital formation.  7It should be sobering to recall (see Robert Chirinko,
+government capital formation.
+7It should be sobering to recall (see Robert Chirinko,
 1987) the profusion of alarms about the decline in "net
 investment" before the Department of Commerce (1981)
 revised its figures dramatically upward, with increases
@@ -96,5 +98,6 @@ as investment, and to recognize it generally in analyses
 of capital formation, is perhaps the more remarkable in
 view of the fact that already one of the seminal authors
 is a Nobel Laureate and both are past Presidents of this
-Association.  9The sum of federal, state, and local government
+Association.
+9The sum of federal, state, and local government
 surpluses, in the United States.

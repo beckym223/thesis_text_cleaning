@@ -43,9 +43,12 @@ implications for economic policy. On the one
 hand, central banks should avoid very low targets
 for inflation. On the other hand, they should
 avoid high inflation, where the trade-offs between
-inflation and unemployment may be  reversed.  VIII. Rational Expectations Theory
+inflation and unemployment may be
+reversed.
+VIII. Rational Expectations Theory
 Our discussion of rational expectations piggybacks
-on our previous discussion of the nat-  ural rate.
+on our previous discussion of the nat-
+ural rate.
 According to rational expectations theory, insofar
 as the central bank changes the money
 supply systematically in response to employment

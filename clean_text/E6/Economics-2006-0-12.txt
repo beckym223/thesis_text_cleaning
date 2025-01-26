@@ -9,9 +9,11 @@ auction is then K - J, which has mean K(N -
 K)IN and variance K2(N - K)/N2.
 In the experiment, the expected volume is
 86.25, with a standard deviation of 6.56. The
-actual market-clearing price was vK+ 1 = K =  35, and the number of market-clearing transactions
+actual market-clearing price was vK+ 1 = K =
+35, and the number of market-clearing transactions
 was 32. Under the hypothesis of no endowment
-effect, the probability of 32 or fewer  transactions is on the order of 10-16. The median
+effect, the probability of 32 or fewer
+transactions is on the order of 10-16. The median
 offer to buy was 10 cents and the median
 offer to sell was 100 cents. A runs test confirms
 (T = 12.5) that buyers and sellers do not have

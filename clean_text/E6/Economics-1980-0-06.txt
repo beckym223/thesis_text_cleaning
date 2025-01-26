@@ -97,7 +97,9 @@ by a real-wage reduction of 2 percent, or
 even less, that is, by foregoing one year's
 normal productivity increase, than I could
 imagine that the labor market might easily
-'Neither Pigou nor Keynes invoked Kaldor's notion  that prices can be expected to fall faster than wages in  a recession with the resulting rise in real wages providing
+'Neither Pigou nor Keynes invoked Kaldor's notion
+that prices can be expected to fall faster than wages in
+a recession with the resulting rise in real wages providing
 the force for recovery from the demand side,
 through a distributional shift toward wage incomes
 which generate more spending per dollar than other

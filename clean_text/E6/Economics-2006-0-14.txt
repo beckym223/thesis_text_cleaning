@@ -38,13 +38,15 @@ policies. An objection to such copycat
 behavior is that it fails to take account of the
 individual's idiosyncratic tastes, and correcting
 this quickly gets the individual back into
-the computational difficulties that imitation  was intended to circumvent. But if tastes as well
+the computational difficulties that imitation
+was intended to circumvent. But if tastes as well
 as perceptions are modified socially, the relevance
 and value of the lessons from others
 increases.
 Economic demographer Hans Peter Kohler
 (2001) has investigated the effect of word-ofmouth
-communication from friends on choice  of contraceptive. He studies Korean peasant
+communication from friends on choice
+of contraceptive. He studies Korean peasant
 women, who have access to relatively little public
 information on efficacy, costs, and side effects
 of new contraceptives. Choices within
@@ -71,7 +73,8 @@ but also for its design.
 In addition to providing information, social
 networks may discipline the behavior of members
 through consensus on social norms, accountability
-for choices, and sanctions for  behavior that violates norms.3 The individual
+for choices, and sanctions for
+behavior that violates norms.3 The individual
 gains from affiliation with such networks if
 imitation and conformity save energy, if the
 "expectation that one will be called upon to
@@ -89,4 +92,5 @@ of tightly packed riders in a bicycle race,
 with riders tightly clustered and constrained
 in order to save energy in preparation for
 "breakaways."
-3 See Gary S. Becker (1976), Francis Bloch et al. (2005),  Alan P. Hamlin (1991), and Matthijs Poppe (2005).
+3 See Gary S. Becker (1976), Francis Bloch et al. (2005),
+Alan P. Hamlin (1991), and Matthijs Poppe (2005).

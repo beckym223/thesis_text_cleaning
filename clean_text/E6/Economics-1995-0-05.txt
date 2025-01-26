@@ -91,7 +91,8 @@ some individual preferences over (x, z) of nonmembers
 of G1. Take that case, and combine this social ranking
 (that z is at least as good as x) with the social
 preference for x over y (a consequence of the decisiveness
-of G and the fact that everyone in G prefers x to  y). By transitivity, z is socially preferred to y. But only
+of G and the fact that everyone in G prefers x to
+y). By transitivity, z is socially preferred to y. But only
 G2 members definitely prefer z to y. Thus G2 is
 decisive over this pair (z,y). Thus, from the FieldExpansion
 Lemma, G2 is decisive. So either G1 or G2

@@ -88,7 +88,8 @@ the same variable, such as of monthly output
 from the sales and inventory data of the Department of
 Commerce and from the Federal Reserve index of industrial
 production, reported by Jeffrey Miron and
-Stephen Zeldes (1988).  2Part of the change is attributable to the increasing
+Stephen Zeldes (1988).
+2Part of the change is attributable to the increasing
 share of investment in equipment as opposed to structures.
 In some cases there has been a change in the
 nature of equipment, as from railroad cars, assumed to

@@ -67,4 +67,5 @@ Phasesb Developmentb Differencesc Differences
 -1948/73 -2.3 - 79.3
 Sources: 1899-1941, Kendrick (1961, Table A-XXII); 1948-79, see fn. 8.
 'Shown in percent per year.
-bTerminal years of phases are NBER business cycle peaks, except 1965.  cShown in percentage points.
+bTerminal years of phases are NBER business cycle peaks, except 1965.
+cShown in percentage points.

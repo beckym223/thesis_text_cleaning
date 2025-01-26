@@ -31,7 +31,9 @@ obtain the relative measures, the authors "set the relative poverty lines equal 
 succeeding years, the relative lines are increased at the same rate as the median income" (p. 258).
 Notes: PCE=implicit GNP deflator for personal consumption expenditure; CPI-Bureau of Labor Statistics
 Consumer Price Index, all items.
-al973-78  bl 973-77  CAverage 1947 and 1950 to 1965
+al973-78
+bl 973-77
+CAverage 1947 and 1950 to 1965
 d1955-65
 "Other labor income" includes "employers contributions to private pension, health, unemployment, and welfare
 funds; compensation for injuries; director's fees, pay of the military reserve; and a few other minor items."

@@ -19,8 +19,10 @@ any alternative, the status quo was given extra
 value, independent of its level. It appears that
 the hedonic treadmill is at work, with people
 habituating to their current state, and viewing
-changes with distaste.  A dramatic illustration of the endowment effect
-is the now-classic cup experiment of Jack  L. Knetsch (1989), in which a random assignment
+changes with distaste.
+A dramatic illustration of the endowment effect
+is the now-classic cup experiment of Jack
+L. Knetsch (1989), in which a random assignment
 of coffee cups in a class, followed by an
 opportunity to trade, produced a large gap between
 WTP and WTA, with far less trading than

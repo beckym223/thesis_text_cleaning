@@ -77,7 +77,8 @@ and equity judgments, see Sen (1982a, 1992a),
 John Roemer (1986), Martha Nussbaum (1988),
 Richard Arneson (1989), G. A. Cohen (1989), Arrow
 (1991), Elster and Roemer (1991), and Nussbaum and
-Sen (1993).  22On the other hand, Arrow's impossibility theorem
+Sen (1993).
+22On the other hand, Arrow's impossibility theorem
 can be generalized to accommodate cardinality of utilities
 without interpersonal comparisons; see Theorem
 8.2 in Sen (1970).

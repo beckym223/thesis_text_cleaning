@@ -41,7 +41,8 @@ a small fraction having a high present
 value, such a crowding out could raise
 average values significantly, though the
 required rate is rather on the high
-side.12  It is also likely that the threshold for what
+side.12
+It is also likely that the threshold for what
 is patentable has risen, given the large influx
 of foreign patent applications into the
 U.S. system all impinging on a relatively

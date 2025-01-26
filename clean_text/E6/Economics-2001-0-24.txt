@@ -95,4 +95,5 @@ Sichel (2000).
 35 Dulberger (1993), Triplett (1996), and Oliner and
 Sichel (2000) present models of the relationships between
 computer and semiconductor industries. These are special
-cases of the Evsey Domar (1961) aggregation scheme.  36 See Jorgenson et al. (1987 pp. 63-66, 301-22).
+cases of the Evsey Domar (1961) aggregation scheme.
+36 See Jorgenson et al. (1987 pp. 63-66, 301-22).

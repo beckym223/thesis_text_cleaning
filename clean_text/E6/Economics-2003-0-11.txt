@@ -45,8 +45,12 @@ increases from 0.6 of a percent to 2.5 as y is
 increased from 2 to 4.
 Two features of the theory interact to bring
 this about.22 First, and most crucial, is a differ-
-20 See Satyajit Chatterjee and Dean Corbae (2000).  21 Based on Exhibits 2 and A.3.1.
-22 Storesletten et al. do a good job of breaking the  differences into intelligible pieces. I also found the example  explicitly solved in Krebs (2002) very helpful in this regard.  ence in the way reductions in the variance of
+20 See Satyajit Chatterjee and Dean Corbae (2000).
+21 Based on Exhibits 2 and A.3.1.
+22 Storesletten et al. do a good job of breaking the
+differences into intelligible pieces. I also found the example
+explicitly solved in Krebs (2002) very helpful in this regard.
+ence in the way reductions in the variance of
 aggregate shocks affect risks faced at the individual
 level. In the Storesletten et al. simulations,
 a bad realization of the aggregate

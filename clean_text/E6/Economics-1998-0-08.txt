@@ -10,7 +10,8 @@ Reduction
 100 1
 100* _
 0 ____
-, | | , , ~~~~~~~~~~~~~~~~~PercentFieof Initial Value Added  0 Percentile of Initial Value Added
+, | | , , ~~~~~~~~~~~~~~~~~PercentFieof Initial Value Added
+0 Percentile of Initial Value Added
 A. 1970-1975 B. 1975 -1980
 150 - 150
 127 - E
@@ -19,7 +20,8 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 0 0 _ _ _ _ _ _
 Percentite
 Percentile of Rest
 of Restaos
-Cost ~~~~~~~~~~~~~~Reduction  Reduxtion
+Cost ~~~~~~~~~~~~~~Reduction
+Reduxtion
 0 _ _ _ _ _ __0 _ __ _
 0 Percentile of Initial Vatue Added 10 Percentite of Initial Vatun Added
 C. 1980-1985 D. 1985-1990

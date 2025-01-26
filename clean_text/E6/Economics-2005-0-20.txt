@@ -37,7 +37,8 @@ The issue of risk is an important consideration
 in both the pay-as-you-go and investment-based
 systems. Although pay-as-you-go programs do
 not have asset price risk, they have the political
-risk that future taxpayers may not be willing to  raise taxes when demographic or economic
+risk that future taxpayers may not be willing to
+raise taxes when demographic or economic
 changes would make it necessary to do so in order
 to finance promised benefits. The United States
 enacted benefit cuts in 1983 by increasing the age

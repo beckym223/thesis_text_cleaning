@@ -68,7 +68,8 @@ lst decile -44 -16
 10th decile + 3 + 2
 Top 5 Percent +4 +3
 Top 1 Percent + 5 + 5
-Source: Brookings MERGE file.  aThe classification is by a comprehensive definition
+Source: Brookings MERGE file.
+aThe classification is by a comprehensive definition
 of income, including imputed rent and corporate earnings
 allocated to stockholders, whether distributed or
 not. 'Assumes the corporate tax is on capital in general.
@@ -91,6 +92,8 @@ why the income tax tends to be in disrepute
 is the discrimination against capital income
 inherent in a nominal income tax. An inflation
 adjustment of asset prices should be
-40For a detailed analysis of a comprehensive income  tax base, see Pechman (1977). Estimates of the revenue
-effects of specific changes in the tax base needed to  reach the comprehensive base are given in Congressional
+40For a detailed analysis of a comprehensive income
+tax base, see Pechman (1977). Estimates of the revenue
+effects of specific changes in the tax base needed to
+reach the comprehensive base are given in Congressional
 Budget Office (1989).

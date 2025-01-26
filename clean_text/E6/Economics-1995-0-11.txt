@@ -84,11 +84,14 @@ used in practice).30 Other types of
 voting rules have also been shown to have
 different desirable properties.3'
 a somewhat exaggerated title: "The General Irrelevance
-of the General Possibility Theorem") and in a  definitive paper by Jean-Michel Grandmont (1978).  Fine discussions of the issues involved in the different
+of the General Possibility Theorem") and in a
+definitive paper by Jean-Michel Grandmont (1978).
+Fine discussions of the issues involved in the different
 types of domain conditions can be found in Gaertner
 (1979) and Arrow and Herve Raynaud (1986).
 28The ubiquitous presence of voting cycles in majority
-rule has been extensively studied by R. D.  McKelvey (1979) and Norman Schofield (1983).
+rule has been extensively studied by R. D.
+McKelvey (1979) and Norman Schofield (1983).
 29Even individual social welfare judgments (and
 more generally, individual views of social appropriateness)
 presumably have some influence on political preferences.

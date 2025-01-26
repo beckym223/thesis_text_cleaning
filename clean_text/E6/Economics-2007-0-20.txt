@@ -42,7 +42,8 @@ If inflationary expectations are formed as a simple
 lag of past inflation, estimates of Phillips curves
 should find that the coefficients on past inflation
 sum to one. Many Phillips curve estimates fail to
-reject that this sum is equal to one.66' 67 The stan-  dard errors of such estimates are quite large; thus,
+reject that this sum is equal to one.66' 67 The stan-
+dard errors of such estimates are quite large; thus,
 they also fail to reject sums whose departure from
 one is of sufficient size to result in departures of
 economically significant magnitude from natural
@@ -72,7 +73,31 @@ relative to the respective neutrality? Natural
 rate theory is based on the assumption that
 wages and prices are set only with real considerations
 in mind. "Excess sensitivity" here
-66 See, for example, Robert J. Gordon (1977, table 3,  lines 6 and 7, 260).  67 Given the importance of such findings, it is remark-  able that their robustness to specifications of time period,  data, and exact specification of the Phillips curve has never  been subjected to tough tests-even though everything else  about the Phillips curve, including the natural rate of un-  employment itself, is considered to be estimated with great  imprecision. Akerlof, William T. Dickens, and George L.  Perry (2000) show a range of estimates for both wage and  price equations with many different specifications. These  estimates, particularly when made for periods of low infla-  tion, show considerable variation in the sum of the coefficients
-on lagged inflation, dependent on the specification.  Another bit of evidence that suggests such estimates will be  sensitive to specification comes from the high standard  errors on the natural rate itself (Douglas Staiger, James H.  Stock, and Mark W. Watson 1997); it would be surprising  that the sum of lagged coefficients could be estimated  precisely if another component of the Phillips curve, the  natural rate, could be estimated only with very low preci-  sion. Gordon's own estimates show very different values for  this sum of coefficients. Of course, there is a theoretical
-reason why estimates of such a sum should not be robust.  With rational expectations, rather than a simple mechanical  theory of formation of inflationary expectations, Sargent  (1971) shows that there is no theoretical reason that they
+66 See, for example, Robert J. Gordon (1977, table 3,
+lines 6 and 7, 260).
+67 Given the importance of such findings, it is remark-
+able that their robustness to specifications of time period,
+data, and exact specification of the Phillips curve has never
+been subjected to tough tests-even though everything else
+about the Phillips curve, including the natural rate of un-
+employment itself, is considered to be estimated with great
+imprecision. Akerlof, William T. Dickens, and George L.
+Perry (2000) show a range of estimates for both wage and
+price equations with many different specifications. These
+estimates, particularly when made for periods of low infla-
+tion, show considerable variation in the sum of the coefficients
+on lagged inflation, dependent on the specification.
+Another bit of evidence that suggests such estimates will be
+sensitive to specification comes from the high standard
+errors on the natural rate itself (Douglas Staiger, James H.
+Stock, and Mark W. Watson 1997); it would be surprising
+that the sum of lagged coefficients could be estimated
+precisely if another component of the Phillips curve, the
+natural rate, could be estimated only with very low preci-
+sion. Gordon's own estimates show very different values for
+this sum of coefficients. Of course, there is a theoretical
+reason why estimates of such a sum should not be robust.
+With rational expectations, rather than a simple mechanical
+theory of formation of inflationary expectations, Sargent
+(1971) shows that there is no theoretical reason that they
 should sum to one.

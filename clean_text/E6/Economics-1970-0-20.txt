@@ -63,7 +63,8 @@ build much on this figure.
 obsolescence-cost of progress would be
 obtained by charging to progress the
 entire capital-consumption-i.e., about 12
-percent of private GNP-and by adding 2  38 From 1919 to 1955 Kuznets' capital consumption
+percent of private GNP-and by adding 2
+38 From 1919 to 1955 Kuznets' capital consumption
 allowances move in the range from 10.9 to 15.1 in relation
 to GNP (constant prices); at the beginning and
 also at the end of the period the figure was almost precisely
@@ -90,4 +91,10 @@ sector as well as general government. I was using
 the Capital Stock Study's straight-line depreciation
 estimates and was using them on "Cost 1" basis. This
 cost-basis makes the method of deflating comparable to
-that applied to the Commerce estimates of the GNP.  39 Any hypothesis of this kind has the realistic impli-  cation that in a progressive economy the "representa-  tive" physical asset is produced in such a way as to be  in some sense "too durable." This has several reasons,  one of which presumably is that lack of durability is  not the only unfavorable property of a "flimsy object."
+that applied to the Commerce estimates of the GNP.
+39 Any hypothesis of this kind has the realistic impli-
+cation that in a progressive economy the "representa-
+tive" physical asset is produced in such a way as to be
+in some sense "too durable." This has several reasons,
+one of which presumably is that lack of durability is
+not the only unfavorable property of a "flimsy object."

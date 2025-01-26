@@ -11,7 +11,8 @@ real size of the bequest and the date of death.
 This action contrasts with simply leaving unspent
 funds to one's heirs, a strategy that leaves
 an amount dependent on the history of consumption
-relative to the income earned on  assets.20
+relative to the income earned on
+assets.20
 In other words, the government's choice between
 providing retirement benefits as annuities
 or as lump sums can be considered as a choice

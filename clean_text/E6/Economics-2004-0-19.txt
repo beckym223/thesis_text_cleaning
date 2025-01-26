@@ -7,7 +7,8 @@ the added year is in worse fiscal shape
 than the average of years before. Indeed of the
 current 75-year actuarial deficit of 1.9 percent
 of taxable payroll, a full 1.1 percent is due to the
-fact that the projection now goes 20 years fur-  ther into the future than it did in 1983.
+fact that the projection now goes 20 years fur-
+ther into the future than it did in 1983.
 The 1983 legislation included future decreases
 in benefits by increasing the age for full
 benefits. At the time of the 1983 legislation,
@@ -50,7 +51,8 @@ trading unfolds. Time-inconsistent individual
 behavior does not interfere with the ability to
 describe outcomes in this way, although it will
 generally interfere with the efficiency properties
-of equilibrium.  Most social security systems lack the completeness
+of equilibrium.
+Most social security systems lack the completeness
 that is needed to specify outcomes
 solely in terms of underlying economic variables
 (and the stochastic structure of states of
@@ -91,6 +93,17 @@ well as election outcomes (R. Douglas Arnold,
 1990). It is not that this is unknowable in principle,
 but that we are a long way from a genu-
 63 Some of the income tax revenue from the taxation of
-benefits goes to Social Security as well. This revenue is  dependent on future income tax rates.  64 In the list of reasons why members of the Panel on  Privatization of Social Security of the National Academy of  Social Insurance disagreed on the advantages of individual  accounts, a central element was the divergence of views on  the political implications of accounts-particularly the sus-  tainability both of rules for the accounts and of the structure  of traditional benefits (Diamond, 1999).  65 The legislative process can also change what is com-  pletely specified, but at least we can analyze what happens  if there are not any changes.
+benefits goes to Social Security as well. This revenue is
+dependent on future income tax rates.
+64 In the list of reasons why members of the Panel on
+Privatization of Social Security of the National Academy of
+Social Insurance disagreed on the advantages of individual
+accounts, a central element was the divergence of views on
+the political implications of accounts-particularly the sus-
+tainability both of rules for the accounts and of the structure
+of traditional benefits (Diamond, 1999).
+65 The legislative process can also change what is com-
+pletely specified, but at least we can analyze what happens
+if there are not any changes.
 18
 MARCH 2004

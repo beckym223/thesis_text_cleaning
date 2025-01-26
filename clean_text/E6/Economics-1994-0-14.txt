@@ -29,7 +29,8 @@ Plus consumer and government
 purchases as percentage of all
 computer (OCAM) purchases 67.7 77.6 77.0
 Notes: OCAM = office, computing, and accounting machinery.
-Source: Unpublished BEA tabulations.  aConstruction, trade, F.I.R.E., and other services.
+Source: Unpublished BEA tabulations.
+aConstruction, trade, F.I.R.E., and other services.
 1991; Donald Siegel and Griliches, 1992;
 Erik Brynjolfson and Lorin Hitt, 1993; Igal
 Hendel, 1993). Some of the gains from computers
