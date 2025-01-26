@@ -79,4 +79,4 @@ Economists often find it useful to think of
 the quantities of a commodity supplied to a
 competitive market as consisting of a supply
 from current production plus a possible
-supply from inventory; and the market de-
+supply from inventory; and the market demand,

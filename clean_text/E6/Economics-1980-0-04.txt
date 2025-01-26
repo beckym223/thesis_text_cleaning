@@ -1,4 +1,4 @@
-cessor was written almost entirely in terms
+was written almost entirely in terms
 of the real wage. The general macro-theoretic
 framework, in which the discussion of
 the labor market is embedded, clearly has

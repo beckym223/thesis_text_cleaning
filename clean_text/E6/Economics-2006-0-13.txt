@@ -1,4 +1,4 @@
-TABLE 3-DECISION CALCULATION AND PROCESSING DESCRIPTION
+3-DECISION CALCULATION AND PROCESSING DESCRIPTION
 Effect Description
 Awareness Recognition of choices, subjective definition of choice set  Construal/constructive Cognitive task misconstrued, preferences constructed endogenously
 Disjunction Failure to reason through or accept the logical consequences of choices

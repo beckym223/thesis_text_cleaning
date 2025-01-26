@@ -60,4 +60,4 @@ to 22 , and in the region extending from
 3ym to infinity. That is, everywhere beyonc
 3y' the industry's total cost function is linearly
 homogeneous. In this case, then, we
-have three regions of local linear homogene-
+have three regions of local linear homogeneINDUSTRY

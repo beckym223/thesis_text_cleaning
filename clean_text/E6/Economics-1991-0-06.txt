@@ -98,4 +98,4 @@ the pairs of commodity points indifferent
 to each other are now assumed to
 form a smooth (hyper)surface. As another
 instance of the generality permitted by abstraction,
-consider the notion of a commod-
+consider the notion of a commodity,

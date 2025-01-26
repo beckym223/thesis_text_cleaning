@@ -1,4 +1,4 @@
-mal, long-term, market-clearing level, taking
+long-term, market-clearing level, taking
 account of storage costs and interest, and
 appropriately discounted for uncertainty. Indeed,
 it was precisely in the context of reasoning

@@ -84,4 +84,4 @@ services. This is the first stage. At a higher
 stage, there is further disaggregation into
 types of durables, nondurables, and services
 such as food, cars, medical services, etc.
-The detail that is introduced for consump-
+The detail that is introduced for consumption

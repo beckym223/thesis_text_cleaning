@@ -83,4 +83,4 @@ be considered in our analysis.
 24 This, however, is not all "black and white." For  example, regression analysis based on yearly data is not  useless when it comes to examining the question whether  in the United States the rate of increase of productivity
 has been rising.  Testing the upward tendency of the rate of produc-  tivity increases (semi-logarithmic nonlinearity) with  yearly data is of interest only for the period following
 1919 (or conceivably for a period ending in 1919).
-Kendrick has shown conclusively that if one decides to  limit oneself to semi-logarithmically linear relations of  productivity to time (i.e., of the logarithm of produc-
+Kendrick has shown conclusively that if one decides to  limit oneself to semi-logarithmically linear relations of  productivity to time (i.e., of the logarithm of productherefore
