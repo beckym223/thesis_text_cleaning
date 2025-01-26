@@ -18,43 +18,43 @@ indexing, by freezing real wages, produces
 real wage results that are not optimal for the
 firm. Given the probability that nominal and
 real shocks are both likely to occur, Gray
-shows that partial indexing will be an opti-
-mal choice. Moreover, even nominal shocks
+shows that partial indexing will be an optimal
+choice. Moreover, even nominal shocks
 are likely, during the transition to a new
 equilibrium, to have nonneutral effects; the
 firm's product price and the Consumer Price
-Index may not move in parallel. As a conse-
-quence, indexing would have unwanted real
+Index may not move in parallel. As a consequence,
+indexing would have unwanted real
 effects even in the face of monetary shocks.
 While we have seen that some degree of real
 wage stickiness is optimal, the absence of full
 indexing even in multiyear union contracts
-indicates that the opposite extreme- auto-
-matic guarantees of a fixed real wage over
+indicates that the opposite extreme- automatic
+guarantees of a fixed real wage over
 several years-is not a workable approach.
-Within-year indexing is virtually nonex-
-istent in annual union contracts and in the
+Within-year indexing is virtually nonexistent
+in annual union contracts and in the
 annual wage adjustment cycle followed by
-the vast bulk of nonunion firms. Under im-
-plicit contracts, changes in the path of aver-
-age wages and prices in the economy as a
-whole or in relevant submarkets are com-
-monly agreed to constitute a major element
+the vast bulk of nonunion firms. Under implicit
+contracts, changes in the path of average
+wages and prices in the economy as a
+whole or in relevant submarkets are commonly
+agreed to constitute a major element
 in determining the size of those annual wage
 adjustments. But, in the United States, it is
 almost universally the practice not to make
-the relationship to the price level or to aver-
-age wages an explicit and automatic one,
+the relationship to the price level or to average
+wages an explicit and automatic one,
 either within the year or over longer periods.
 And, as noted earlier, in those multiyear
 union contracts where indexing is found, that
 indexing is almost always less than complete.
 Haggling costs are apparently minimized by
-making periodic wage adjustments that si-
-multaneously take into account nominal, real,
+making periodic wage adjustments that simultaneously
+take into account nominal, real,
 and relative factors, rather than by fixing the
-nominal relationship in a formula and sep-
-arately adjusting for changes in real and
+nominal relationship in a formula and separately
+adjusting for changes in real and
 relative conditions.
 In any event, even if wages were fully
 indexed to prices, they would not produce
@@ -62,34 +62,34 @@ highly flexible nominal wages in response to
 aggregate demand shocks. The cumulative
 costs of wage indexing, in the face of real
 shocks and the transitional nonneutrality of
-nominal shocks, would be severely ex-
-acerbated if the indexing were instantaneous.
-As a consequence, the indexing we do ob-
-serve-except in countries which have devel-
-oped extremely rapid and sustained inflation
--typically involves a substantial lag be-
-tween observed price changes and wage ad-
-justments. Such indexing only guarantees a
-gradual response of wages to aggregate de-
-mand shocks in proportion as prices them-
-selves are flexible in the face of constant
-wages. Even if prices were competitively de-
-termined, the economy would still have to
-work its way through a series of price-wage-
-price reactions in each one of which prices
-fell, relative to wages, by an amount depend-
-ing on the slope of the marginal cost curves.
+nominal shocks, would be severely exacerbated
+if the indexing were instantaneous.
+As a consequence, the indexing we do observe-
+except in countries which have developed
+extremely rapid and sustained inflation
+-typically involves a substantial lag between
+observed price changes and wage adjustments.
+Such indexing only guarantees a
+gradual response of wages to aggregate demand
+shocks in proportion as prices themselves
+are flexible in the face of constant
+wages. Even if prices were competitively determined,
+the economy would still have to
+work its way through a series of price-wageprice
+reactions in each one of which prices
+fell, relative to wages, by an amount depending
+on the slope of the marginal cost curves.
 And prices do not move with such frequency
-or flexibility. Arthur Okun (1981) has care-
-fully elaborated the reasons why, in the
+or flexibility. Arthur Okun (1981) has carefully
+elaborated the reasons why, in the
 customer markets which predominate in
 modern economies, prices are not likely to
 move quickly and easily up and down a
 marginal cost curve. Robert Gordon (1981)
 has elaborated how the highly articulated
-input-output relationships of modern econo-
-mies tend to slow the price reaction to ag-
-gregate demand shocks. And George Akerlof
+input-output relationships of modern economies
+tend to slow the price reaction to aggregate
+demand shocks. And George Akerlof
 and Janet Yellen (1984) have recently shown
 that in less than perfectly competitive markets
 inertial price-setting behavior in response to
@@ -99,6 +99,6 @@ though the macro result may be first-order
 losses for the economy.8 Everything else
 8Technically the Akerlof-Yellen proposition applies
 to situations in which agents' objective functions are
-differentiable in their own prices and wages-a condi-
-tion that is not met in the competitive model, but is met
+differentiable in their own prices and wages-a condition
+that is not met in the competitive model, but is met
 in a wide range of other market models.

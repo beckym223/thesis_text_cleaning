@@ -26,10 +26,10 @@ w ~~~~~~~~~~~~~~~~~~~~0
 01
 Percentile of initial value added
 FIGURE 2. ILLUSTRATIVE TFP GROWTH PROFILES (SUNRISE-SUNSET DIAGRAMS)
-C, and D. First, we order the industries in de-
-scending order, according to their rates of TFP
-increase in the period. Then we calculate cu-
-mulative real cost reduction (a real dollar
+C, and D. First, we order the industries in descending
+order, according to their rates of TFP
+increase in the period. Then we calculate cumulative
+real cost reduction (a real dollar
 amount) and plot it against cumulative initial
 real value added. Then we scale the vertical
 axis so as to comply with whatever metric we
@@ -37,8 +37,8 @@ have decided upon for the TFP growth rate (in
 the example, a 30-degree line representing a
 1-percent annual TFP growth rate), and the
 horizontal axis so as to add up to 100 percent.
-In the lower panel of Figure 2 1 give ex-
-amples to show how these diagrams cope with
+In the lower panel of Figure 2 1 give examples
+to show how these diagrams cope with
 the problems of a low TFP growth rate (the
 overshoot for the case of 0.25-percent growth
 would show up peaking at over 400 percent in

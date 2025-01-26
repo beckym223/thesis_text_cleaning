@@ -7,12 +7,12 @@ major plea of the early institutionalists.
 Veblen asked long ago, in the title of one
 of his papers, "Why Is Economics Not
 an Evolutionary Science?," and Wesley
-Mitchell urged the need for a comprehen-
-sive theory of economic behavior that
-takes the cumulative change of institu-
-tions as its chief concern. The institutional-
-ists themselves did not develop such a com-
-prehensive and evolutionary theory. While
+Mitchell urged the need for a comprehensive
+theory of economic behavior that
+takes the cumulative change of institutions
+as its chief concern. The institutionalists
+themselves did not develop such a comprehensive
+and evolutionary theory. While
 the classical writers did have the elements
 of a dynamic system-what Baumol
 once referred to as the "magnificent
@@ -25,21 +25,21 @@ which they uncritically idealized and from
 which they uncritically generalized" (1947,
 p. 75).
 As for contemporary economists in the
-neoclassical tradition, they, like their pre-
-decessors, seem to be afraid to ask the
+neoclassical tradition, they, like their predecessors,
+seem to be afraid to ask the
 really big questions about the economic
-aspects of society questions which, be-
-cause they are big, must be concerned with
-the changing institutional fabric. Some ex-
-ception to this generalization should be
+aspects of society questions which, because
+they are big, must be concerned with
+the changing institutional fabric. Some exception
+to this generalization should be
 made for the considerable effort that has
 gone into the study of the underdeveloped
 parts of the world. Here economists have
 not been able to ignore the interaction of
-the institutional environment and eco-
-nomic behavior, and increasing attention
-has come to be paid to the conditions nec-
-essary for one or another kind of change
+the institutional environment and economic
+behavior, and increasing attention
+has come to be paid to the conditions necessary
+for one or another kind of change
 in that environment. I might add here that
 I continue to be impressed by the fact that
 in general economists in the advanced
@@ -48,39 +48,39 @@ institutional in dealing with other parts of
 the world than they are in studying the
 particular societies in which they live and
 do most of their work.20
-Might the following conceptual frame-
-work provide a basis for a more systematic
-study of the dynamic interaction of eco-
-nomic behavior and the institutional
-framework? At the most basic level, a so-
-ciety is composed of individual human
+Might the following conceptual framework
+provide a basis for a more systematic
+study of the dynamic interaction of economic
+behavior and the institutional
+framework? At the most basic level, a society
+is composed of individual human
 beings. These individuals are members of
 households. The larger number of them
-sell the factor services they control to pro-
-ducing units ("firms" for short); and those
+sell the factor services they control to producing
+units ("firms" for short); and those
 who sell labor services must physically
 participate in the production process. A
 flow of newly produced goods and services
 results. The distribution of these goods and
-services among potential claimants de-
-pends on much more than the operation
+services among potential claimants depends
+on much more than the operation
 of "impersonal market forces." It reflects a
 complex of institutional arrangements,
-which include, among other things, the dis-
-tribution of power among different groups
-to influence particular commodity and fac-
-tor markets, both directly and through
+which include, among other things, the distribution
+of power among different groups
+to influence particular commodity and factor
+markets, both directly and through
 government, how the ownership of wealth
 is distributed and for whose benefit it is
 used, the tax structure and network of
 government regulations that emerge from
-the political process, and the total and dis-
-tribution of net claims by the rest of the
+the political process, and the total and distribution
+of net claims by the rest of the
 world against domestic output.
 Individuals not only are members of
 households and suppliers of input services
-to producing units (which may be govern-
-mental as well as private), but they are also
+to producing units (which may be governmental
+as well as private), but they are also
 part of a political process which, while
 20 Lance Davis and Douglass North have recently set  forth a tentative and limited "theory of institutional  change" and have applied the resulting modcl to show  how a range of economic needs and opportunities have  led to new institutional arrangements in the American  economy. They are frank in setting forth some of the
 limitations of their model, and Lhere is a good deal in  their approach with which I should quarrel; but their  work is clearly a step in the right direction. Incidentally,  this particular approach to economic history tends to  run counter to the recent quantitative emphasis in that  field. Clearly we need to have both types of historical  work.

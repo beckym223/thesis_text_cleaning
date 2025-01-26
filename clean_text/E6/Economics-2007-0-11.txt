@@ -5,9 +5,9 @@ own consumption). It enters the utility function
 as a separate term.
 What, then, could account for a "warm glow"?
 Parent-to-child bequests are a form of gift. If there
-is any type of economic transaction that is gov-
-erned by norms, it is the giving of gifts.33 Parent-
-to-child bequests also occur within families.
+is any type of economic transaction that is governed
+by norms, it is the giving of gifts.33 Parentto-
+child bequests also occur within families.
 Therefore, they should also be affected by the
 norms of family life. We have already seen one
 example of such norms (Friedan's portrait of the
@@ -19,13 +19,13 @@ the ideal bequest. Actual bequests have changed in
 tandem. For example, the ideal sixteenth century
 Anglo-Saxon family was dynastic. The lineage
 passed from father to oldest son.34 Fathers then  left the bulk of their estates to their oldest sons. In
-the twenty-first century, in the ideal family, sib-
-lings are equal. Most bequests are now evenly  divided between them.35
+the twenty-first century, in the ideal family, siblings
+are equal. Most bequests are now evenly  divided between them.35
 Summary.-Economic outcomes, such as the
 consumption of the parent and the utility of the
-child, are one determinant of bequests. But an-
-other possible determinant is parents' views re-
-garding how they should behave toward their
+child, are one determinant of bequests. But another
+possible determinant is parents' views regarding
+how they should behave toward their
 children. Just as Friedan's suburban housewives
 waxed their floors, because they thought that is  what housewives should do, parents who leave
 bequests derive a warm glow from bequests
@@ -35,31 +35,31 @@ illustrates how odd neutralities can occur in
 models that fail to take such norms into account.
 A comment by David Romer (2001, 539)
 tells us where we should venture next. He has
-remarked that "quantitatively important" viola-
-tions of Ricardian equivalence and of the per-
-manent income/life-cycle hypothesis occur for
+remarked that "quantitatively important" violations
+of Ricardian equivalence and of the permanent
+income/life-cycle hypothesis occur for
 the same reasons. Ricardian equivalence is not
-important for us as an empirical aspect of mac-
-roeconomics. There are so many reasons other
+important for us as an empirical aspect of macroeconomics.
+There are so many reasons other
 than the role of norms for its violation. But it
 does give us an initial window on the type of
-motivation missing in classical macroeconom-
-ics. Inclusion of such motivation will give us a
+motivation missing in classical macroeconomics.
+Inclusion of such motivation will give us a
 new perspective on the consumption function. It
-allows us to return to a view in which consump-
-tion will depend on current income, just as its
+allows us to return to a view in which consumption
+will depend on current income, just as its
 inclusion makes it natural to believe that social
-security transfers will affect savings and con-
-sumption, even in a world without frictions.
+security transfers will affect savings and consumption,
+even in a world without frictions.
 V. Consumption and Current Income
-This takes us to the second neutrality. Ac-
-cording to this result, other than its contribution
+This takes us to the second neutrality. According
+to this result, other than its contribution
 to a consumer's wealth, current income has no
 independent effect on the consumption of a
 utility-maximizing consumer.
 Milton Friedman (1957) derived such
-consumption-income neutrality in the two-
-period model of Irving Fisher. In this model, the
+consumption-income neutrality in the twoperiod
+model of Irving Fisher. In this model, the
 consumer chooses her consumption between
 two periods. She maximizes her intertemporal
 utility function, given by the function U(cl, C2):
@@ -68,9 +68,9 @@ period; c2 denotes consumption in the second
 period.36 If she maximizes U(c1, c2), a dollar of
 income earned today will have the same effect
 on her current consumption as a discounted
-dollar earned in the next period. Thus, her con-
-sumption will depend only on the discounted
+dollar earned in the next period. Thus, her consumption
+will depend only on the discounted
 value of her current and future income and the
 rate of interest. This proposition is easy to
-prove. It generalizes to many different com-
-modities and to many different time periods,
+prove. It generalizes to many different commodities
+and to many different time periods,

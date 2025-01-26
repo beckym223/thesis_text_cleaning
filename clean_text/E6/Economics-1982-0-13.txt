@@ -9,13 +9,13 @@ which is identical with that of the individual
 firm, the larger region abcd, and the infinite
 region aleph beth....
 Before showing why this is so we must
-pause to note the implications of the ex-
-ercise. For it means that even a relatively
+pause to note the implications of the exercise.
+For it means that even a relatively
 small region of flatness in the A C curve of
-the individual firm, that is, of linear homo-
-geneity in its total cost function, eliminates
-the bulk of the existence problem for oligop-
-oly equilibrium in a contestable market. The
+the individual firm, that is, of linear homogeneity
+in its total cost function, eliminates
+the bulk of the existence problem for oligopoly
+equilibrium in a contestable market. The
 problem does not arise for outputs nearer to
 the origin than Ym because such outputs are
 supplied most efficiently by a monopoly
@@ -23,21 +23,21 @@ which is not required to price at marginal
 cost in a contestable market equilibrium. The
 problem also does not arise for any industry
 output greater than 3ym in this case, because
-everywhere beyond that marginal cost pric-
-ing yields zero profits. There are two rela-
-tively narrow regions in which no equi-
-librium is, indeed, possible, but here we may
-conjecture that the vicissitudes of disequi-
-librium will cause shifts in the demand rela-
-tionships as changing prices and changing
+everywhere beyond that marginal cost pricing
+yields zero profits. There are two relatively
+narrow regions in which no equilibrium
+is, indeed, possible, but here we may
+conjecture that the vicissitudes of disequilibrium
+will cause shifts in the demand relationships
+as changing prices and changing
 consumption patterns affect tastes, and so
 the industry will ultimately happen upon an
 equilibrium position and remain there until
 exogenous disturbances move it away. Thus
 we end up with an oligopoly equilibrium
 whose prices, profits, and other attributes are
-determined without benefit of the conjec-
-tural variation, reaction functions, and the
+determined without benefit of the conjectural
+variation, reaction functions, and the
 other paraphernalia of standard oligopoly
 analysis.
 To complete this discussion of oligopoly
@@ -49,8 +49,8 @@ answer is straightforward. Let C(y) be the
 firm's total cost function for which we have
 assumed for expository simplicity that in the
 interval from ym to I lym along each and
-every ray, total cost grows exactly pro-
-portionately with output. Then two firms can
+every ray, total cost grows exactly proportionately
+with output. Then two firms can
 produce 2ym at the same unit cost, and three
 firms can produce 3ym at that same unit cost
 for the given output bundle, etc. But by

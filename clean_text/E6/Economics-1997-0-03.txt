@@ -5,54 +5,54 @@ process.
 A number of interesting questions arise
 about this change in thought and policy.
 How could it happen that a profession, for
-which the principle of comparative advan-
-tage was one of its key tenets, embraced such
-protectionist policies? What was the contri-
-bution of economic research to the sea
+which the principle of comparative advantage
+was one of its key tenets, embraced such
+protectionist policies? What was the contribution
+of economic research to the sea
 change in thinking, policy prescriptions, and
 politicians' acceptance of the need for policy
 reform? What sorts of economic research
-best informed the policy process? In a nut-
-shell, how did we learn? And what was the
-contribution of economists and their re-
-search to the process?
+best informed the policy process? In a nutshell,
+how did we learn? And what was the
+contribution of economists and their research
+to the process?
 Attempting to answer these questions is
 the subject of this lecture. Even with a focus
 limited to trade and development, analysis of
 the role of research and its usefulness is at
-least somewhat conjectural. The issue, how-
-ever, of what types of research inform good
+least somewhat conjectural. The issue, however,
+of what types of research inform good
 policy is an important one. I suspect that the
-tentative conclusions I draw here may be rel-
-evant for other areas of research-informing
-policy, but leave that to others to demon-
-strate or refute.3
-In what follows, I first sketch the initial ap-
-proach to trade policy in early development
+tentative conclusions I draw here may be relevant
+for other areas of research-informing
+policy, but leave that to others to demonstrate
+or refute.3
+In what follows, I first sketch the initial approach
+to trade policy in early development
 research and thought. Next, consideration is
 given to the evolution of thought, research,
-and experience with respect to trade and de-
-velopment over the next several decades, and
+and experience with respect to trade and development
+over the next several decades, and
 to the "conventional wisdom" of the 1990's.
 Thereafter, I consider the role of research and
 the sorts of research that proved most fruitful
 in guiding policy and changing the consensus.
-Before proceeding, two caveats are neces-
-sary. First, it is very difficult to disentangle
+Before proceeding, two caveats are necessary.
+First, it is very difficult to disentangle
 views of the proper role for trade policy in
 development from views about the appropriate
 role for the state. Partly as a legacy of the
 Great Depression, partly because of the belief
-that the Soviet Union had succeeded in its de-
-velopmental and industrial aspirations through
-central planning, and partly because of the per-
-ceived success of wartime controls, there was
-widespread agreement- in developed and de-
-veloping countries alike-that the state should
+that the Soviet Union had succeeded in its developmental
+and industrial aspirations through
+central planning, and partly because of the perceived
+success of wartime controls, there was
+widespread agreement- in developed and developing
+countries alike-that the state should
 play a major role in economic activity, not
 only in affecting aggregate demand, but also
-in regulating private markets and indeed aug-
-menting or supplanting them with state-owned
+in regulating private markets and indeed augmenting
+or supplanting them with state-owned
 enterprise production of manufactured and
 other goods. Quite clearly, early views about
 the necessity for a leading role for the state in
@@ -63,20 +63,20 @@ evolution of both views is well beyond the
 scope of this paper, and focus here is confined
 to trade policy.
 Second, to focus on research that influenced
-thinking about economic policy is not to deni-
-grate the importance of research that does not
+thinking about economic policy is not to denigrate
+the importance of research that does not
 appear to have had immediate policy relevance.
 First of all, basic research often informs more
-applied research. Second, in some cases of re-
-search that provided little of lasting value, that
-outcome could not be known at the time. Per-
-haps some of that research served to demonstrate
+applied research. Second, in some cases of research
+that provided little of lasting value, that
+outcome could not be known at the time. Perhaps
+some of that research served to demonstrate
 the infeasibility of certain policy paths,4 or to
 demonstrate the futility of further explorations.
 Nonetheless, ex post it is clear that some
 lines of research served to hasten the day
-when policy makers would accept the desir-
-ability of removing high walls of protection,
+when policy makers would accept the desirability
+of removing high walls of protection,
 while others were irrelevant or served largely
 to reinforce prejudices and perpetuate the "old
 wisdom." Perhaps that is inevitable in the

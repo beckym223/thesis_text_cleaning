@@ -1,10 +1,10 @@
 THE AMERICAN ECONOMIC REVIEW
-would be more severe in the absence of a pro-
-gram. These different shortcomings in prepara-
-tion for retirement relate to different issues-
-inadequate overall provision for retirement
-relates to having a mandatory program, inade-
-quate annuitization relates to providing benefits
+would be more severe in the absence of a program.
+These different shortcomings in preparation
+for retirement relate to different issuesinadequate
+overall provision for retirement
+relates to having a mandatory program, inadequate
+annuitization relates to providing benefits
 in annuitized form, inadequate protection of
 family members relates to providing benefits for
 surviving spouses and young children. I start
@@ -13,21 +13,21 @@ overt move to end the mandatory nature of
 Social Security as a whole. But there are calls
 for decreasing the role of annuities in Social
 Security.
-But first a word on the Arrow-Debreu frame-
-work. I have referred to it above as a way to
-describe the properties of a Pareto-optimal al-
-location. I think that when economists quickly
-consider economic issues outside their own sub-
-disciplines, they frequently think implicitly in
-terms of the Arrow-Debreu model with its con-
-nection to first-best outcomes (also incorporat-
-ing overlapping generations for some issues). In
+But first a word on the Arrow-Debreu framework.
+I have referred to it above as a way to
+describe the properties of a Pareto-optimal allocation.
+I think that when economists quickly
+consider economic issues outside their own subdisciplines,
+they frequently think implicitly in
+terms of the Arrow-Debreu model with its connection
+to first-best outcomes (also incorporating
+overlapping generations for some issues). In
 contrast, economists thinking about issues in
 their subdisciplines often share a framework
 that is more complex and are more inclined to
-do second-best analyses, which are more di-
-rectly policy-relevant. As in other subdisci-
-plines, analysts of Social Security are well
+do second-best analyses, which are more directly
+policy-relevant. As in other subdisciplines,
+analysts of Social Security are well
 aware of the issues I have identified, although
 the issues are not present in all analyses by any
 means. The Arrow-Debreu model tends to start
@@ -49,35 +49,35 @@ Pigouvian taxation to correct externalities as
 distortive by ignoring the externalities.
 Interest in the description of behavior that
 deviates from that in the Arrow-Debreu model
-has grown enormously lately. Long before be-
-havioral economics became a hot topic, public
+has grown enormously lately. Long before behavioral
+economics became a hot topic, public
 policies reflected recognition that the model of  homo economicus, while very useful, is not a
-fully adequate basis for the design of all poli-
-cies. For example, federal legislation introduced
+fully adequate basis for the design of all policies.
+For example, federal legislation introduced
 a "cooling-off' period during which contracts
-with door-to-door salespeople could be can-
-celled without penalty precisely because of de-
-viations from homo economicus. And social
-security discussions have long recognized inad-
-equate savings for retirement by many workers
-and inadequate annuitization by most. In addi-
-tion, social security systems have been con-
-cerned about protection of the family and not
+with door-to-door salespeople could be cancelled
+without penalty precisely because of deviations
+from homo economicus. And social
+security discussions have long recognized inadequate
+savings for retirement by many workers
+and inadequate annuitization by most. In addition,
+social security systems have been concerned
+about protection of the family and not
 just the worker.9 Also possibly relevant, but not
 much studied, is whether significant numbers of
 workers retire too soon for their own good.
 These issues of poor choices in the presence of
-available opportunities are in addition to in-
-surance market limitations that come from
+available opportunities are in addition to insurance
+market limitations that come from
 market incompleteness and from asymmetric  information.
 Inadequate attention to the future in general
 and its stochastic structure in particular implies
 some form of time inconsistency. Normative
 criteria for evaluating institutions become more
-complicated without time consistency through-
-out the population. Insofar as individuals are not
-time-consistent, it seems essential to do norma-
-tive evaluations in terms of shorter periods (e.g.,
+complicated without time consistency throughout
+the population. Insofar as individuals are not
+time-consistent, it seems essential to do normative
+evaluations in terms of shorter periods (e.g.,
 years) as well as in terms of lifetimes. We care
 about actual consumption levels as well as the
 levels of lifetime resources.
@@ -85,8 +85,8 @@ This requires more than just a positive theory
 of how people determine consumption but also
 normative criteria for evaluating consumption
 at different times. The vocabulary of someone
-being different selves at different times is sug-
-gestive, although I am concerned that taking it
+being different selves at different times is suggestive,
+although I am concerned that taking it
 too literally, failing to recognize the tight links
 between the different selves who are the same
 person at somewhat different ages, is failing to

@@ -1,7 +1,7 @@
-count the once and for all costs of move-
-ment. These calculations are like those of
-the planner, but witlh an important differ-
-ence. An individual does not initernalize
+count the once and for all costs of movement.
+These calculations are like those of
+the planner, but witlh an important difference.
+An individual does not initernalize
 all the considerations the planner takes
 into account. The external effects are the
 familiar ones of congestion theory. A
@@ -10,25 +10,25 @@ in one consi(lers the probabilities of getting
 a job, but not the effects of his decision on
 the probabilities that others face. He
 lowers those probabilities for people in
-the queue he joins and raises them for per-
-sons waiting for the kind of job he vacates
+the queue he joins and raises them for persons
+waiting for the kind of job he vacates
 or turns (lown. tI0oo many persons are
 unemployed waiting for good jobs, while
-less desirable ones go begging. How-
-ever, externial effects also occur in the
+less desirable ones go begging. However,
+externial effects also occur in the
 (lecisions of employers whether to fill a
 vacancy with the applicant at hand or to
 wait for someone more qualified. It is not
-obvious, at least to me, whether the mar-
-ket is biased toward excessive or inadle-
-quate search. But it is doubtful that it
+obvious, at least to me, whether the market
+is biased toward excessive or inadlequate
+search. But it is doubtful that it
 produces the optimal amounit.
 Empirically the proposition that in the
 United States the zero-inflation rate of
-unemployment reflects voluntary and effi-
-cienit job-seeking activity strains credulity.
-If there were a natural rate of unemploy-
-ment in the United States, what would it
+unemployment reflects voluntary and efficienit
+job-seeking activity strains credulity.
+If there were a natural rate of unemployment
+in the United States, what would it
 be? It is hard to say because virtually all
 econometric Phillips curves allow for a
 whole menu of steady inflation rates. But
@@ -37,57 +37,57 @@ long-run Phillips curve suggest a natural
 rate between 5 and 6 percent of the labor
 force.3
 So let us consider some of the features of
-an overall unemployment rate of 5 to 6 per-
-cent. First, about 40 percent of accessions
+an overall unemployment rate of 5 to 6 percent.
+First, about 40 percent of accessions
 in manufacturing are rehires rather than
 new hires. Temporarily laid off by their
-employers, these workers had been await-
-ing recall and were scarcely engaged in
-voluntary search activity. Their unem-
-ployment is as much a deadweight loss as
+employers, these workers had been awaiting
+recall and were scarcely engaged in
+voluntary search activity. Their unemployment
+is as much a deadweight loss as
 the disguised unemployment of redundant
 workers oni payrolls. This number declines
 to 25-30 percent when unemployment is
 4 percent or below. Likewise, a 5-6 perceint
 unemployment rate means that voluntary
 quits amount only to about a third of
-separations, layoffs to two-thir(-ds. The pro-
-portions are rever-sed at low unemploy-
-ment rates.
+separations, layoffs to two-thir(-ds. The proportions
+are rever-sed at low unemployment
+rates.
 Second, the unemployment statistic is
 not an exhaustive count of those with time
 and inceintive to search. An additional
-3 percent of the labor force are involun-
-tarily confinedI to part-time work, atid an-
-other 3 4 of t percent are out of the labor
+3 percent of the labor force are involuntarily
+confinedI to part-time work, atid another
+3 4 of t percent are out of the labor
 force because they "could not find job" or
 "think no work available"---discouraged
 by market con(litions rather than personal
 incapacities.
-Third, with unemployment of 5-6 per-
-cent the number of reported vacancies is
-less than 1/ 2 of 1 percent. Vacancies ap-
-pear to be understated relative to unem-
-ployment, but they rise to l2 percent when
-the unemployment rate is below 4 per-
-cent. At 5-6 percent unemployment, the
+Third, with unemployment of 5-6 percent
+the number of reported vacancies is
+less than 1/ 2 of 1 percent. Vacancies appear
+to be understated relative to unemployment,
+but they rise to l2 percent when
+the unemployment rate is below 4 percent.
+At 5-6 percent unemployment, the
 economy is clearly capable of generating
-many more jobs with marginal produc-
-tivity high enough so that people prefer
+many more jobs with marginal productivity
+high enough so that people prefer
 them to leisure. TI he capital stock is Ino
-limitation, siince 5-6 percent unemploy-
-ment has beeni associated with more than
+limitation, siince 5-6 percent unemployment
+has beeni associated with more than
 20 percent excess capacity. Mioreover,
 when more jobs are createdI by expansion
 of demand, with or without inflation, labor
 force participation increases; this would
 hardly occur if the aclditional jobs were low
 in quality and productivity. As the parable
-of the central employment plannier indi-
-cates, there will be excessive waiting for
+of the central employment plannier indicates,
+there will be excessive waiting for
 jobs if the roster of jobs an(d the meniu of
 vacancies are suboptimal.
-In summary, labor markets charac-
-terized by 5-6 percent unemployment do
-not display the symptoms one would ex-
-I See Lucas and Rapping, pp. 257-305, in Phelps et al.
+In summary, labor markets characterized
+by 5-6 percent unemployment do
+not display the symptoms one would exI
+See Lucas and Rapping, pp. 257-305, in Phelps et al.

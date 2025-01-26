@@ -8,53 +8,53 @@ over other-related-menus), it can be
 shown that some arbitrariness of power
 would still survive.16 But the methodological
 critique of James Buchanan would still
-apply forcefully, as reformulated in the fol-
-lowing way: why should any restriction
+apply forcefully, as reformulated in the following
+way: why should any restriction
 whatever be placed a priori on the choice
 function for the society? Why should not
 the decisions emerging from agreed social
 mechanisms be acceptable without having
 to check them against some preconceived
-idea of how choices made in different situa-
-tions should relate to each other?
-What happens, then, to Arrow's impossi-
-bility problem if no restrictions whatever
-are placed on the so-called "internal consis-
-tency" of the choice function for the soci-
-ety? Would the conditions relating individ-
-ual preferences to social choice (i.e., the
-Pareto principle, nondictatorship, and inde-
-pendence) then be consistent with each
+idea of how choices made in different situations
+should relate to each other?
+What happens, then, to Arrow's impossibility
+problem if no restrictions whatever
+are placed on the so-called "internal consistency"
+of the choice function for the society?
+Would the conditions relating individual
+preferences to social choice (i.e., the
+Pareto principle, nondictatorship, and independence)
+then be consistent with each
 other? The answer, in fact, is no, not so. If
 the Pareto principle and the conditions of
-nondictatorship and independence are re-
-defined to take full note of the fact that
+nondictatorship and independence are redefined
+to take full note of the fact that
 they must relate to social choices, not to any
 prior notion of social preference, then a very
-similar impossibility reemerges (see Theo-
-rem 3 in Sen [1993]).
+similar impossibility reemerges (see Theorem
+3 in Sen [1993]).
 How does this "general choice-functional
-impossibility theorem" work? The underly-
-ing intuition is this. Each of the conditions
-relating individual preferences to social de-
-cisions eliminates-either on its own or in
+impossibility theorem" work? The underlying
+intuition is this. Each of the conditions
+relating individual preferences to social decisions
+eliminates-either on its own or in
 the presence of the other conditions-the
 possibility of choosing some alternatives.
 And the conjunction of these conditions can
-lead to an empty choice set, making it "im-
-possible" to choose anything.
+lead to an empty choice set, making it "impossible"
+to choose anything.
 For example, the Pareto principle is just
 such a condition, and the object of this
 condition in a choice context, surely, is to
-avoid the selection of a Pareto-inferior al-
-ternative. Therefore this condition can be
-sensibly redefined to demand that if every-
-one prefers x to y, then the social decision
+avoid the selection of a Pareto-inferior alternative.
+Therefore this condition can be
+sensibly redefined to demand that if everyone
+prefers x to y, then the social decision
 mechanism should be such that y should
 not get chosen if x is available.17 Indeed, to
-eliminate any possibility that we are implic-
-itly or indirectly using any intermenu consis-
-tency condition for social choice, we can
+eliminate any possibility that we are implicitly
+or indirectly using any intermenu consistency
+condition for social choice, we can
 define all the conditions for only one given
 menu (or opportunity set) S; that is, we can
 consider the choice problem exclusively over
@@ -75,9 +75,9 @@ decisive for x against y if and only if,
 whenever all members of this group prefer
 any x to any y in this set S, then y is not to
 be chosen from S. Independence would now
-demand that any group's power of decisive-
-ness over a pair (x, y) be completely inde-
-pendent of individual preferences over pairs
+demand that any group's power of decisiveness
+over a pair (x, y) be completely independent
+of individual preferences over pairs
 other than (x, y). It can be shown that there
-is no way of going from individual prefer-
-ences to social choice satisfying these
+is no way of going from individual preferences
+to social choice satisfying these

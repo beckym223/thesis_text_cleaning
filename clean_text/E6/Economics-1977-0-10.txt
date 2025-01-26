@@ -1,33 +1,33 @@
 reduce relative wages to eliminate the excess
 supply is moderated by the effect that such a
-reduction would have on quits and costly turn-
-over, even when the resulting vacancies can be
+reduction would have on quits and costly turnover,
+even when the resulting vacancies can be
 readily filled from the ranks of the unemployed.
 Equally relevant are the consequences in terms
-of loss of morale and good will, in part for rea-
-sons which have been elaborated by the literature
+of loss of morale and good will, in part for reasons
+which have been elaborated by the literature
 on implicit contracts (see Robert Gordon).
 Thus, while there will be some tendency for the
 rate of change of wages to fall, the more so the
-larger the unemployment-at least in an eco-
-nomy like the United States where there are no
-overpowering centralized unions-that ten-
-dency is severely damped.
+larger the unemployment-at least in an economy
+like the United States where there are no
+overpowering centralized unions-that tendency
+is severely damped.
 And whether, given an unemployment rate
-significantly and persistently above the noninfla-
-tionary level, the rate of change of wages would,
+significantly and persistently above the noninflationary
+level, the rate of change of wages would,
 eventually, tend to turn negative and decline
 without bound or whether it would tend to an
 asymptote is a question that I doubt the empirical
 evidence will ever answer. The one experiment
 we have had the Great Depression suggests
 the answer is negative, and while I admit that,
-for a variety of reasons, that evidence is mud-
-died, I hope that we will never have the oppor-
-tunity for a second, clean experiment.
+for a variety of reasons, that evidence is muddied,
+I hope that we will never have the opportunity
+for a second, clean experiment.
 In any event, what is really important for
-practical purposes is not the long-run equilib-
-rium relation as such, but the speed with which it
+practical purposes is not the long-run equilibrium
+relation as such, but the speed with which it
 is approached. Both the model sketched out and
 the empirical evidence suggest that the process
 of acceleration or deceleration of wages when
@@ -46,52 +46,52 @@ The Evidence from Econometric Models
 There remains to consider the monetarists'
 initial criticism of Keynesianism, to wit, that
 even without high wage flexibility, the system's
-response to demand shocks is small and short-
-lived, thanks to the power of the Hicksian mech-
-anism. Here it must be acknowledged that every
+response to demand shocks is small and shortlived,
+thanks to the power of the Hicksian mechanism.
+Here it must be acknowledged that every
 one of the monetarists' criticisms of early,
 simpleminded Keynesianism has proved in
 considerable measure correct.
-With regard to the interest elasticity of de-
-mand for money, post-Keynesian developments
+With regard to the interest elasticity of demand
+for money, post-Keynesian developments
 in the theory of money, and in particular, the
 theoretical contributions of William Baumol,
 James Tobin, Merton Miller, and Daniel Orr,
 point to a modest value of around one-half to
-one-third, and empirical studies (see for exam-
-ple, Stephen Goldfeld) are largely consistent
-with this prediction (at least until 1975!). Simi-
-larly, the dependence of consumption on long-
-run, or life cycle, income and on wealth,
+one-third, and empirical studies (see for example,
+Stephen Goldfeld) are largely consistent
+with this prediction (at least until 1975!). Similarly,
+the dependence of consumption on longrun,
+or life cycle, income and on wealth,
 together with the high marginal tax rates of the
 postwar period, especially the corporate tax,
 and leakages through imports, lead to a rather
 low estimate of the multiplier.
-Last but not least, both theoretical and empir-
-ical work, reflected in part in econometric mod-
-els, have largely vindicated the monetarist
+Last but not least, both theoretical and empirical
+work, reflected in part in econometric models,
+have largely vindicated the monetarist
 contention that interest effects on demand are
-pervasive and substantial. Thus, in the construc-
-tion and estimation of the MIT-Penn-Social
+pervasive and substantial. Thus, in the construction
+and estimation of the MIT-Penn-Social
 Science Research Council (MPS) econometric
 model of the United States, we found evidence
-of effects, at least modest, on nearly every com-
-ponent of aggregate demand. One response to
-money supply changes that is especially impor-
-tant in the MPS, if somewhat controversial, is
+of effects, at least modest, on nearly every component
+of aggregate demand. One response to
+money supply changes that is especially important
+in the MPS, if somewhat controversial, is
 via interest rates on the market value of all assets
 and thus on consumption.
 There is, therefore, substantial agreement that
 in the United States the Hicksian mechanism is
 fairly effective in limiting the effect of shocks,
 and that the response of wages and prices to
-excess demand or supply will also work gradu-
-ally toward eliminating largely, if not totally,
+excess demand or supply will also work gradually
+toward eliminating largely, if not totally,
 any effect on employment. But in the view of
 nonmonetarists, the evidence overwhelmingly
 supports the conclusion that the interim response
-is still of significant magnitude and of consider-
-able duration, basically because the wheels of
+is still of significant magnitude and of considerable
+duration, basically because the wheels of
 the offsetting mechanism grind slowly. To be
 sure, the first link of the mechanism, the rise in
 short-term rates, gets promptly into play and

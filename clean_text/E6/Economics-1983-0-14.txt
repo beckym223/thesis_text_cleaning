@@ -1,12 +1,12 @@
-I remind you of Martin Feldstein's com-
-plex analyses of the interaction of tax laws
+I remind you of Martin Feldstein's complex
+analyses of the interaction of tax laws
 and inflation as affecting the profitability
 of investment. Alternatively, there is Dale
-Jorgenson's "neoclassical" investment the-
-ory, which carefully models the relationship
+Jorgenson's "neoclassical" investment theory,
+which carefully models the relationship
 among all of the prices and quantities that
-enter into dynamic profit-maximizing invest-
-ment decisions.'8
+enter into dynamic profit-maximizing investment
+decisions.'8
 As a third example, there is James Tobin's
 theory, suggested by Keynes, that focuses on
 the relationship between the aggregate market
@@ -28,25 +28,25 @@ replacement cost of their assets. The market
 value of enterprises includes the value both
 of equities and debts, as currently priced in
 security markets; the replacement cost of
-their assets is the reproduction cost of exist-
-ing plant, equipment, and inventories at cur-
-rent price levels."9
+their assets is the reproduction cost of existing
+plant, equipment, and inventories at current
+price levels."9
 However formulated in detail, the q theory
-of course employs much of the same infor-
-mation that is used in other macroeconomic
+of course employs much of the same information
+that is used in other macroeconomic
 theories of investment. For example, most
-investment theories incorporate a bond-
-market interest yield, presumably to repre-
-sent the cost of borrowed long-term funds,
+investment theories incorporate a bondmarket
+interest yield, presumably to represent
+the cost of borrowed long-term funds,
 or the alternate return on owned funds. Some
-investment theories may use short-term in-
-terest rates, as well, to represent the cost of
+investment theories may use short-term interest
+rates, as well, to represent the cost of
 (or the alternative return on) funds borrowed
 to finance inventories or other working
 capital, or to finance the purchase of capital
 goods while awaiting more favorable rates in
-the long-term market. The q theory incorpo-
-rates interest rates as they affect the value of
+the long-term market. The q theory incorporates
+interest rates as they affect the value of
 marketable debt claims against enterprises.
 This use of interest rates in the q theory is
 thus conventional in investment theory.
@@ -56,28 +56,28 @@ value of stocks: the price level of ownership
 of corporations. This can be thought of as an
 indirect measure of the cost (or opportunity
 cost) of equity funds.20 Given the typical
-volatility of share prices, medium-run move-
-ments of q are often or perhaps ordinarily
+volatility of share prices, medium-run movements
+of q are often or perhaps ordinarily
 dominated by changes in the prices and thus
 the market value of outstanding shares.
 With that in mind, let me recall to you my
 earlier discussion of the speculative demand
-for and supply of storable commodi-
-ties-gold was the specific example. You
+for and supply of storable commodities-
+gold was the specific example. You
 recall my borrowing Keynes' parable of the
 beauty contest to describe such markets. You
 also recall that this parable was, in fact,
 Keynes' analogy for the price determination
 of equities.
-In recent years, economists have been pay-
-ing greatly increased attention to stock
-prices-a subject largely avoided by econo-
-mists after the debacle, in and after 1929,
-both of share prices and of economists' fore-
-casts of share prices. The revival of
+In recent years, economists have been paying
+greatly increased attention to stock
+prices-a subject largely avoided by economists
+after the debacle, in and after 1929,
+both of share prices and of economists' forecasts
+of share prices. The revival of
 economists' interest in stocks has involved
 the development and application of the
 "capital asset pricing model" and associated
 "portfolio theories," and, most recently, the
-attempted application of rational expec-
-tations theory to stock prices.
+attempted application of rational expectations
+theory to stock prices.

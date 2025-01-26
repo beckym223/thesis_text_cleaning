@@ -9,12 +9,12 @@ major source of this failure. This point will
 be made not to provide us with an alibi, but
 rather to temper the pretentiousness of
 some of our pronouncements and to urge us
-toward the more mundane task of observa-
-tion and measurement.
+toward the more mundane task of observation
+and measurement.
 Why don't we know more after all these
 years? Our data have always been less than
-perfect. What is it about the recent situa-
-tion that has made matters worse?
+perfect. What is it about the recent situation
+that has made matters worse?
 The brief answer is that the economy has
 changed and that our data-collection efforts
 have not kept pace with it. "Real" national
@@ -22,32 +22,32 @@ income accounts were designed in an earlier
 era, when the economy was simpler and had
 a large agricultural sector and a growing
 manufacturing sector. Even then, a number
-of compromises had to be made to get mea-
-surement off the ground. In large sectors of
+of compromises had to be made to get measurement
+off the ground. In large sectors of
 the economy, such as construction and most
-of the services, government, and other pub-
-lic institutions, there were no real output
-measures or relevant price deflators. Imag-
-ine a "degrees of measurability" scale, with
+of the services, government, and other public
+institutions, there were no real output
+measures or relevant price deflators. Imagine
+a "degrees of measurability" scale, with
 wheat production at one end and lawyer
 services at the other. One can draw a rough
 dividing line on this scale between what I
 shall call "reasonably measurable" sectors
 and the rest, where the situation is not
-much better today than it was at the begin-
-ning of the national income accounts. Table
+much better today than it was at the beginning
+of the national income accounts. Table
 2 shows the distribution of nominal GDP by
-major industrial sector. In the early post-
-World War II period, the situation was not
-all that bad: about half of the overall econ-
-omy was "measurable" in this sense. By
+major industrial sector. In the early postWorld
+War II period, the situation was not
+all that bad: about half of the overall economy
+was "measurable" in this sense. By
 1990, however, the fraction of the economy
 for which the productivity numbers are half
 reasonable had fallen to below one-third.
-Figure 6 tells the same story with employ-
-ment numbers. Measurement problems have
-indeed become worse. Our ability to inter-
-pret changes in aggregate total factor pro-
-ductivity has declined, and major portions
+Figure 6 tells the same story with employment
+numbers. Measurement problems have
+indeed become worse. Our ability to interpret
+changes in aggregate total factor productivity
+has declined, and major portions
 of actual technical change have eluded our
 measurement framework entirely.15

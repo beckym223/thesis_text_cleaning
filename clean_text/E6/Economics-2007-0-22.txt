@@ -1,49 +1,49 @@
 direct evidence that such a norm exists and is
 responsible for wage stickiness. His extensive
-open-ended interviews sought to elicit why em-
-ployers failed to cut money wages in the Con-
-necticut recession of 1991-1992. Bewley
+open-ended interviews sought to elicit why employers
+failed to cut money wages in the Connecticut
+recession of 1991-1992. Bewley
 concludes that, even though substitute labor was
 easily available, employers were reluctant to cut
 wages because of the negative effects of such
 cuts on morale. He says that managers were
 afraid that cuts in money wages would cause
-workers no longer to "identify" with their com-
-panies.74 There might be no immediate conse-
-quences during the recession. But employers
+workers no longer to "identify" with their companies.
+74 There might be no immediate consequences
+during the recession. But employers
 thought that such cuts would cause workers to
 shirk after the recession had ended. They also
 feared that their best workers would be more
-likely to quit. These stories indicate that work-
-ers are not thinking about their wages only in
+likely to quit. These stories indicate that workers
+are not thinking about their wages only in
 real terms, relative to the price level or the
 wages received by others. They also have a
 special aversion to cuts in wages below their  current nominal levels.75
-Norms about Wage Increases.-The motiva-
-tion underlying resistance to money wage cuts
-is so obvious, and the facts are so unexception-
-able, that most macroeconomists accept the pos-
-sibility that money wages are sticky. Even so,
+Norms about Wage Increases.-The motivation
+underlying resistance to money wage cuts
+is so obvious, and the facts are so unexceptionable,
+that most macroeconomists accept the possibility
+that money wages are sticky. Even so,
 they rarely appreciate the broader implications
 of such violation of the assumptions of natural
 rate theory. Their adjusted model is that price
 and wage decisions are made only with real con-  siderations in mind, but desired wage changes
 will be truncated insofar as they entail money
-wage decreases. To my mind, such a view en-
-tails a theoretical error. As we have seen, the
-existence of money wage rigidity occurs be-
-cause workers have a norm, which affects their
+wage decreases. To my mind, such a view entails
+a theoretical error. As we have seen, the
+existence of money wage rigidity occurs because
+workers have a norm, which affects their
 utility function, that their employers should not
 make such cuts. The message of this finding is
 that norms in the utility function yield at least
 one clear violation of natural rate theory. That
 suggests the further empirical possibility that
 workers (and also employers and customers)
-may also have other norms regarding what nom-
-inal wages (and prices) should be. All such
+may also have other norms regarding what nominal
+wages (and prices) should be. All such
 violations are exceptions to natural rate theory,
-and yield reasons for long-run trade-offs be-
-tween inflation and unemployment.
+and yield reasons for long-run trade-offs between
+inflation and unemployment.
 Money wage rigidity is then potentially only
 the tip of an iceberg. If there is one way in
 which nominal wages enter utility functions,
@@ -61,21 +61,21 @@ nominal raise.
 There is little research on the existence of
 such norms. The two questionnaire studies that
 have investigated it obtain strong and mutually
-reinforcing results. Eldar Shafir, Peter Dia-
-mond, and Tversky (1997) asked respondents to
+reinforcing results. Eldar Shafir, Peter Diamond,
+and Tversky (1997) asked respondents to
 comment on a vignette about two young women
 who take their first jobs with the same initial
 income. Specifically they asked respondents
 who will be better off: Barbara, who receives a
-5-percent raise in the presence of 4-percent in-
-flation; or Ann, who receives a 2-percent raise
-when inflation is zero; 79 percent of respon-
-dents correctly said that Barbara would be
+5-percent raise in the presence of 4-percent inflation;
+or Ann, who receives a 2-percent raise
+when inflation is zero; 79 percent of respondents
+correctly said that Barbara would be
 worse off than Ann economically. Nevertheless,
 64 percent of respondents also said that Barbara
-would be happier.76 Such responses are con-
-trary to the natural rate hypothesis that em-
-ployees only care about real returns. But an
+would be happier.76 Such responses are contrary
+to the natural rate hypothesis that employees
+only care about real returns. But an
 easy explanation for this phenomenon occurs if  74 In more detail, Bewley (1999, 1-2) summarizes his  findings: "Other theories fail in part because they are based  on unrealistic psychological assumptions that people's abil-  ities do not depend on their state of mind and that they are  rational in the simplistic sense that they maximize a utility  that depends only on their consumption and working con-  ditions, not on the welfare of others. Wage rigidity is the  product of more complicated employee behavior, in the face  of which manager reluctance to cut pay is rational. Worker  behavior, however, is not always rational and completely  understandable. A model that captures the essence of wage  rigidity must take into account the capacity of employees to  identify with their firm and to internalize its objectives. This  internalization and workers' mood have a strong impact on
 job performance and call for material, moral, and symbolic  reciprocation from company leadership."
 75 Following the argument by Raj Chetty and Adam  Szeidl (2006), some employers may have been concerned  with the fact that their employees had fixed mortgages that  they would find difficult to pay with cuts in nominal wages.  This puts the violation of natural rate theory in another  place: why were these financial contracts in nominal rather  than in real terms?  76 Shafir, Diamond, and Tversky (1997, 351-52).

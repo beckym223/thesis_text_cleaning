@@ -9,16 +9,16 @@ we are doing better: the residual is smaller.
 But that is the bad news, not the good. It is
 smaller not because we have succeeded in
 providing a substantively fuller explanation
-of output growth, but rather because mea-
-sured output growth declined, leaving some
+of output growth, but rather because measured
+output growth declined, leaving some
 of these explanations in the dust. But we
 are also doing better substantively. We know
 much more about the components of growth
 and where our measures are lacking. After
-decades of work and contributions by Deni-
-son, Jorgenson, Kendrick, and many others,
-the conceptual and measurement underpin-
-nings of the growth accounts are in much
+decades of work and contributions by Denison,
+Jorgenson, Kendrick, and many others,
+the conceptual and measurement underpinnings
+of the growth accounts are in much
 better shape today. We now have extensive
 micro data on firms, their productivity, their
 R&D expenditures, and other variables. We
@@ -27,17 +27,17 @@ education and training, and we also have
 more asset detail on capital formation. More
 international data are now available, with
 the OECD both collecting R&D data and
-computing TFP numbers for many coun-
-tries, and with Summers and Heston (1991)
+computing TFP numbers for many countries,
+and with Summers and Heston (1991)
 providing comparable real GNP numbers
 for many countries. Finally, we have much
-more computing power and better econo-
-metric techniques and frameworks for at-
-tacking many of the problems that arise in
+more computing power and better econometric
+techniques and frameworks for attacking
+many of the problems that arise in
 the analysis of such data. So what is still
 missing?
-We are caught up in a mixture of unmea-
-surement, mismeasurement, and unrealistic
+We are caught up in a mixture of unmeasurement,
+mismeasurement, and unrealistic
 expectations. The productivity situation is
 both better than we think and also worse. It
 is likely that there have been significant
@@ -47,51 +47,51 @@ Baily and Gordon, 1988). Moreover, rising
 R&D investment rates in the mid-1980's
 and the recent rise in the number of patent
 applications augur well for the future. Also,
-productivity growth rates are probably un-
-derestimated even in the "measurable" sec-
-tors because they are based on "book value"
+productivity growth rates are probably underestimated
+even in the "measurable" sectors
+because they are based on "book value"
 estimates of physical- and human-capital
 stocks and do not reflect the capital losses
 -the obsolescence that occurred, first as
 the result of the various energy-price shocks,
-and later as the result of increased interna-
-tional competition and the melting away of
+and later as the result of increased international
+competition and the melting away of
 much of the previously existing monopoly
-rents to both types of capital. That is actu-
-ally bad news. We are not as wealthy as we
+rents to both types of capital. That is actually
+bad news. We are not as wealthy as we
 thought, but productivity growth, based on
-the lower remaining levels of input, is prob-
-ably higher than we have measured it.
+the lower remaining levels of input, is probably
+higher than we have measured it.
 A cautionary remark needs to be added
 here: productivity growth contributes to the
 potential for welfare, but it is not the same
 thing. Welfare can move in the opposite
-direction if the resources released by pro-
-ductivity growth do not find adequate em-
-ployment in other, economically valuable,
-activities (including leisure). Also the physi-
-cal, economic, and political environments
+direction if the resources released by productivity
+growth do not find adequate employment
+in other, economically valuable,
+activities (including leisure). Also the physical,
+economic, and political environments
 can change, both positively and negatively,
 overwhelming the productivity story.23 So
 even though I have been focusing on it here
 tonight, it is not the be-all of economic
 welfare. But as George Bernard Shaw used
-to say when he was accused of money-grub-
-bing: "Yes, I know that money is not happi-
-ness, but it is a pretty good substitute."
-Nevertheless, the issues I have been dis-
-cussing here tonight are important. Much
+to say when he was accused of money-grubbing:
+"Yes, I know that money is not happiness,
+but it is a pretty good substitute."
+Nevertheless, the issues I have been discussing
+here tonight are important. Much
 depends on whether the "truth" is closer to
 the upper ("measurable") line in Figure 1,
 or the lower one. The country's mood is
-affected by bad data and incorrect percep-
-tions. Are we really not much better off
+affected by bad data and incorrect perceptions.
+Are we really not much better off
 than we were in the 1960's? Would we
-really like to exchange the commodity as-
-sortment we have today for that of
+really like to exchange the commodity assortment
+we have today for that of
 yesteryear? Our health system, warts and
-all? The air pollution? The civil-rights situa-
-tion? The fear of nuclear war? These are
+all? The air pollution? The civil-rights situation?
+The fear of nuclear war? These are
 23Between 1970 and 1989, average hours of work
 per worker went down by 7 percent, air pollution went
 down significantly, and the crime rate came close to

@@ -1,10 +1,10 @@
 the professionalization of the securities
-business. Very likely this tends to ho-
-mogenize views, increasing the herd in-
-stinct among bulls and bears, respec-
-tively. The rewards/penalties system
-for professionals works in that direc-
-tion. It is dangerous to be wrong in
+business. Very likely this tends to homogenize
+views, increasing the herd instinct
+among bulls and bears, respectively.
+The rewards/penalties system
+for professionals works in that direction.
+It is dangerous to be wrong in
 support of an unpopular cause....
 Professionals have made the market
 efficient, in the narrow sense that there
@@ -12,8 +12,8 @@ is nothing of predictive value to be
 learned from the past data of the
 market. It is far from clear that they
 have made it rational. There may be
-something to be learned from the his-
-tory of mass delusions in the market
+something to be learned from the history
+of mass delusions in the market
 after all. [p. 38]
 Modigliani and Cohn's suggestion may be
 one such systematic mass delusion.
@@ -22,22 +22,22 @@ quite a number of us (I suspect) who have
 left most of our retirement resources tied up
 in CREF, I would of course, be pleased if
 stock prices should return closer to their
-average past relationship to earnings or divi-
-dends. But I would not, I confess, find it a
+average past relationship to earnings or dividends.
+But I would not, I confess, find it a
 confirmation of the rationality of my own
 expectations. Personally, I long ago decided
 that being an economist was not merely no
 advantage, but probably a disadvantage in
-the security markets; and I have never per-
-sonally participated in them. I have been
+the security markets; and I have never personally
+participated in them. I have been
 fearful, I suppose, of succumbing, myself, to
 the herd instincts that I seem to observe
 there. The broker who tells his customers
 that Joe Granville is stupid, but that they
 must pay attention to him because others
 will, both assumes and encourages behavior
-only one level removed from that of lem-
-mings.
+only one level removed from that of lemmings.
+
 Because stock prices are not fully rational,
 either in the large or even in the small,
 sharp-eyed members of several generations
@@ -47,33 +47,33 @@ comfort by playing on trivial systematic
 anomalies that they had found in share price
 movements. They succeeded, presumably, by
 acting exactly as others do, but a trifle sooner.
-Indeed, the lemming instinct affects par-
-ticipants in other markets. One current ex-
-ample is that of the international bankers,
+Indeed, the lemming instinct affects participants
+in other markets. One current example
+is that of the international bankers,
 whose loans to particular LDCs were safe
-because-but only so long as-other inter-
-national bankers recognized exactly the same
+because-but only so long as-other international
+bankers recognized exactly the same
 source of safety.
-Whether one describes investment deci-
-sions in terms of the q formulation or in
+Whether one describes investment decisions
+in terms of the q formulation or in
 some other way, prices in security markets
 necessarily affect the volume of aggregate
 investment. And, because such prices are
 clearly not fully rational, investment is a
-potential and actual source of exogenous dis-
-turbance of macroeconomic equilibrium; and
+potential and actual source of exogenous disturbance
+of macroeconomic equilibrium; and
 successful government stabilization policies
 are not, by definition, precluded.
-Our stroll along the border between micro-
-and macroeconomics comes to an end. What
+Our stroll along the border between microand
+macroeconomics comes to an end. What
 can we conclude? I conclude that the rational
 expectations model of economic behavior
 adequately describes an important range
 of economic activities, where prices adjust
 smoothly and efficiently to clear markets and
 to stabilize production and consumption over
-time. But rational expectations do not ade-
-quately explain other kinds of markets, where
+time. But rational expectations do not adequately
+explain other kinds of markets, where
 speculative prices may systematically tend to
 overshoot changing equilibrium levels: nor
 yet another kind-including most labor
@@ -85,18 +85,18 @@ efficient long-term contracts, the existence of
 bilateral monopoly, or merely because of the
 rapid pace of unpredictable technological,
 institutional, or other exogenous change. All
-of the resulting aberrant forms of microeco-
-nomic behavior may in some sense be indi-
-vidually "rational"; yet their macroeconomic
+of the resulting aberrant forms of microeconomic
+behavior may in some sense be individually
+"rational"; yet their macroeconomic
 effects are often perverse.
 Nevertheless, we economists do our best
 to understand our world, and to discover
 those dependable regularities of behavior
--whether or not fully rational-that pro-
-vide the basis for economics theories, which
+-whether or not fully rational-that provide
+the basis for economics theories, which
 we can then use to prescribe policies, whether
-these policies are of laissez-faire or of selec-
-tive intervention. All forms of dependably
+these policies are of laissez-faire or of selective
+intervention. All forms of dependably
 regular behavior that we seek to discover and
 to describe-and not merely those that are
 fully rational-are equally important parts

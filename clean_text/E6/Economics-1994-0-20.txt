@@ -4,11 +4,11 @@ future.
 Returning to the topic of technical
 change, our expectations of what economics
 can deliver here may also be excessive. It is
-unlikely that we can have a fully "endoge-
-nous" theory of technical change. Yes, both
+unlikely that we can have a fully "endogenous"
+theory of technical change. Yes, both
 the rate and direction of inventive activity
-are subject to economic influences and anal-
-ysis. So also is the diffusion of innovations.
+are subject to economic influences and analysis.
+So also is the diffusion of innovations.
 But the outcome of inventive activity is not
 really predictable. True "innovation" is an
 innovation. If it were knowable in advance

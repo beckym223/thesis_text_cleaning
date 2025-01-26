@@ -1,62 +1,62 @@
 velopment (R&D), and of what we might call
 technical innovations. On the other hand, TFP
 improvement, once purged of the changes in
-the quality of labor and/or the direct contri-
-butions of human capital, makes one think of
+the quality of labor and/or the direct contributions
+of human capital, makes one think of
 externalities of different kinds -economies of
-scale, spillovers, and systematic complemen-
-tarities. And finally, real cost reduction, to my
+scale, spillovers, and systematic complementarities.
+And finally, real cost reduction, to my
 mind, makes one think like an entrepreneur or
 a CEO, or a production manager.
-I think it would be perfectly fair to char-
-acterize my presentation today as a paean in
+I think it would be perfectly fair to characterize
+my presentation today as a paean in
 praise of "real cost reduction" as a standard
-label for R'. Labels do not change the un-
-derlying reality, but they may change the
+label for R'. Labels do not change the underlying
+reality, but they may change the
 way we look at it and the way we think about
-it. They also can lead us to understand it bet-
-ter. Thinking in terms of real cost reduction
+it. They also can lead us to understand it better.
+Thinking in terms of real cost reduction
 has certainly done all this for me, as I have
-tried to sort out the many puzzles and com-
-plexities that surround the process of eco-
-nomic growth.
-Let me try to take you down the path I trav-
-eled. In the first place, real cost reduction
-(RCR) is probably on the mind of most busi-
-ness executives, production managers, etc., at
+tried to sort out the many puzzles and complexities
+that surround the process of economic
+growth.
+Let me try to take you down the path I traveled.
+In the first place, real cost reduction
+(RCR) is probably on the mind of most business
+executives, production managers, etc., at
 some point or another in any given week, let
 alone in any given month or year. It is a major
-path to profit in good times, and a major de-
-fense against adversity in bad times. Most U.S.
+path to profit in good times, and a major defense
+against adversity in bad times. Most U.S.
 firms that have downsized in recent years did
 so with RCR in mind. So, too, did the firms
-that computerized their payrolls and other ac-
-counts. And so also did those who shifted to
-what they considered more modern manage-
-ment techniques. I recall going through a
+that computerized their payrolls and other accounts.
+And so also did those who shifted to
+what they considered more modern management
+techniques. I recall going through a
 clothing plant in Central America, where the
 owner informed me of a 20-percent reduction
 in real costs, following upon his installation of
-background music that played as the seam-
-stresses worked. And then there is the story of
+background music that played as the seamstresses
+worked. And then there is the story of
 two Chilean refrigerator firms that ended up as
 parts of a single conglomerate at one point.
 The new management reduced the number of
 models from something like 24 to two, making
-agreements to import other models while ex-
-porting these two. The end result was that out-
-put more than doubled, while the labor force
+agreements to import other models while exporting
+these two. The end result was that output
+more than doubled, while the labor force
 was cut to less than half, and even the capital
 stock (at replacement cost) was significantly
-reduced. This sounds like (alnd is really) econ-
-omies of scale, but they would not be detected
+reduced. This sounds like (alnd is really) economies
+of scale, but they would not be detected
 by our usual measures, as both labor force and
 capital stock went down. And we all have seen
 cases where, say, an office's real costs were
-reduced when a martinet of a manager was re-
-placed by someone more reasonable. But we
-have also seen cases where real costs were re-
-duced when a very lax manager was replaced
+reduced when a martinet of a manager was replaced
+by someone more reasonable. But we
+have also seen cases where real costs were reduced
+when a very lax manager was replaced
 by someone more strict.
 It has long been my song that there are at
 least 1001 ways to reduce real costs and that
@@ -66,41 +66,41 @@ over any plausible period (say, a decade).
 Once one accepts this proposition as true, the
 question then arises: Why would anybody try
 to settle on just one underlying cause of real
-cost reduction? The answer, I think, is mind-
-set-the framework in which one is thinking
-at the moment. The pioneer writings of the re-
-cent endogenous growth literature can, I think,
-be said to reflect a kind of annoyance at some-
-thing like R or R' being considered exogenous.
+cost reduction? The answer, I think, is mindset-
+the framework in which one is thinking
+at the moment. The pioneer writings of the recent
+endogenous growth literature can, I think,
+be said to reflect a kind of annoyance at something
+like R or R' being considered exogenous.
 There was an urge to surmount that inelegance
 by somehow making the residual endogenous.
-And in a simple growth model that meant gen-
-erating a feedback from the rest of the model
+And in a simple growth model that meant generating
+a feedback from the rest of the model
 to the residual. A 1001 feedbacks would be out
 of the question, but one feedback would work
 just fine. Thus Paul Romer (1986) focused on
 a feedback through "knowledge," with the
-stock of knowledge shifting production func-
-tions all over the economy; Robert E. Lucas,
+stock of knowledge shifting production functions
+all over the economy; Robert E. Lucas,
 Jr. (1988) focused on "human capital," not
 on its direct and remunerated productivity, but
 on the externalities that each increase in the
-stock of human capital were presumed to gen-
-erate. These single feedbacks achieved the
+stock of human capital were presumed to generate.
+These single feedbacks achieved the
 limited purpose of endogenizing R or R'
-within a specified model, but they did not rep-
-resent very well the multifaceted nature of real
+within a specified model, but they did not represent
+very well the multifaceted nature of real
 cost reduction as we observe it in actuality.
 And, in point of fact, both the cited authors in
-their more recent writings display a deep rec-
-ognition of the subtlety and complexity of the
+their more recent writings display a deep recognition
+of the subtlety and complexity of the
 growth process, not really capable of being
-captured through a simple feedback mecha-
-nism. (See Romer, 1990, 1994a, b; Lucas,
+captured through a simple feedback mechanism.
+(See Romer, 1990, 1994a, b; Lucas,
 1993.)
 So, real cost reduction is multifaceted and
 everywhere around us. Where does that get us?
 Or how can we get anywhere in the face of
 such complexity? The next step is to recognize
-that in spite of its complexity, real cost reduc-
-tion can be reduced to a single metric, and can
+that in spite of its complexity, real cost reduction
+can be reduced to a single metric, and can

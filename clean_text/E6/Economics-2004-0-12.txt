@@ -1,16 +1,16 @@
 DIAMOND: SOCIAL SECURITY
 In sum, mandating benefits for the families of
 workers is important, along with mandating
-savings and mandating annuitization-the in-
-clusion of family benefits in Social Security
+savings and mandating annuitization-the inclusion
+of family benefits in Social Security
 makes sense. There is good reason to think that
 the current rules can be improved, but research
 difficulties and political hurdles will need to be
 overcome if we are to make improvements.
 IV. Income Distribution, Insurance, and Labor
 Supply38
-In determining retirement benefits, Social Se-
-curity first averages the best 35 wage-indexed
+In determining retirement benefits, Social Security
+first averages the best 35 wage-indexed
 annual earnings,39 then it uses a progressive
 benefit formula to determine what real benefits
 would be if first claimed at the age for full
@@ -22,42 +22,42 @@ which retirement benefits can be claimed) and
 the age for full benefits (which is in transition
 from 65 to 67), benefits are only paid if earnings
 are low enough, referred to as an earnings or
-retirement test. Each of these steps in determin-
-ing benefits affects income distribution, insur-
-ance, and labor supply. I will skip over
+retirement test. Each of these steps in determining
+benefits affects income distribution, insurance,
+and labor supply. I will skip over
 implications of using 35 years (as opposed to
 more or fewer years or all of lifetime earnings
 subject to tax)41 and of using a wage index to
-weight the earnings in different years in de-
-termining benefits (as opposed to using an
+weight the earnings in different years in determining
+benefits (as opposed to using an
 interest rate)42 and concentrate on the effects
 38 For a discussion of the links among tax theory, incom-  plete market theory, and social security, see Diamond  (2002).
 39 Earnings after age 60 enter in nominal terms, not in  indexed form. This should be changed to have labor incen-  tives not vary this way with inflation.  40 Such progressivity is missing in Europe, where in-  come distribution issues are addressed more fully in other  parts of retirement income provision.  41 Depending on the nature of the underlying stochastic  process of wage rates, both underweighting early years  (relative to the use of interest rates) and not counting some  low years may or may not help with insuring lifetime  earnings-this is not an area that has received much re-  search attention.
-42 We can contrast the earnings incentives between ben-  efit formulas that accumulate earnings with a wage index  and those that accumulate with a (presumably higher on  average) interest rate. This is most readily done in a break-  even comparison, assuming the same level of resources for  of a progressive benefit formula and a retire-
-ment test.43
+42 We can contrast the earnings incentives between ben-  efit formulas that accumulate earnings with a wage index  and those that accumulate with a (presumably higher on  average) interest rate. This is most readily done in a break-  even comparison, assuming the same level of resources for  of a progressive benefit formula and a retirement
+test.43
 Consider the stochastic process of earnings
-opportunities. Individual workers face consider-
-able risks that are only partially correlated with
-the economywide average earnings used in in-
-dexing. Wages move differently by industry and
-firm and region and some individuals have ca-
-reer opportunities strongly affected by industry
+opportunities. Individual workers face considerable
+risks that are only partially correlated with
+the economywide average earnings used in indexing.
+Wages move differently by industry and
+firm and region and some individuals have career
+opportunities strongly affected by industry
 and firm and region developments. We do not
 have trading in the type of indexes Robert J.
 Shiller (1993) has proposed in order to give
 workers the ability to hedge these aspects of
-their risks.44 Even if we managed to have trad-
-ing in such indices, it is beyond credibility that
+their risks.44 Even if we managed to have trading
+in such indices, it is beyond credibility that
 most workers would take appropriate advantage
 of these opportunities. When many workers can
-not sort out the basics of portfolio diversifica-
-tion in their 401(k)s, there is no reason to an-
-ticipate successful execution of far more
-complex financial strategies. By having replace-
-ment rates that are higher for lower levels of
+not sort out the basics of portfolio diversification
+in their 401(k)s, there is no reason to anticipate
+successful execution of far more
+complex financial strategies. By having replacement
+rates that are higher for lower levels of
 lifetime earnings, a social security system that
-a cohort in each case. Using a wage index gives less weight  to the earlier years and more weight to the later years than  does use of an interest rate. Thus, use of a wage index would  be implicit taxation on younger workers and implicit sub-
-sidization of older workers and would be a distortion in a
+a cohort in each case. Using a wage index gives less weight  to the earlier years and more weight to the later years than  does use of an interest rate. Thus, use of a wage index would  be implicit taxation on younger workers and implicit subsidization
+of older workers and would be a distortion in a
 first-best world. However, the annual income tax is progres-  sive, so that an upward-sloping age-real earnings profile  implies that on average older workers have higher marginal  income tax rates than younger workers. Thus, the sum of the  marginal income tax plus the implicit Social Security tax is  smoother across ages with a wage index than with weight-  ing by interest rate. Also, preferences are not intertempo-  rally additive. The standard of living to which retirees have  become accustomed is more affected by earnings later in  life than earlier in life. While the effect of introducing a  standard-of-living effect into annual utility has been ex-  plored in simulations of the value of annuities (Davidoff et  al., 2003), no similar analysis has been done for the weight-  ing given earnings in different years.  43 I do not discuss the issues behind the choice of 62 as
 the earliest age of eligibility for retirement benefits (EEA).  Increasing the EEA helps those who would otherwise retire  too early for their own good and hurts those who are right  in their early retirement decision and are hurt by the illi-  quidity from benefit nonavailability until the EEA. Measur-  ing the size of the two groups would be very hard and only  a little has been done in identifying people who are affected.  Increasing the EEA would have little effect on long-run  Social Security financing as explained below. Similarly, it  would be hard to design a good method for automatically  indexing the EEA.  44Robert C. Merton (1983) has examined the role of  Social Security in sharing aggregate earnings risks more
 widely.

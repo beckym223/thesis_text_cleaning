@@ -1,9 +1,9 @@
-(local construction, etc.) in which the tech-
-nology is embedded. The difference in cost
+(local construction, etc.) in which the technology
+is embedded. The difference in cost
 is at least an order of magnitude. While the
 developed countries are feeling their way
-into some common attack on their own car-
-bon emissions, a tangible expression of their
+into some common attack on their own carbon
+emissions, a tangible expression of their
 interest and an effective first step would be
 to establish a permanent means of funding
 technical aid and technology transfer for
@@ -14,14 +14,14 @@ countries. Eventually the rural Chinese
 household may cook more efficiently with
 nuclear-powered electricity, but for another
 generation or two what is important is less
-carbon-wasteful ways of cooking and heat-
-ing.
+carbon-wasteful ways of cooking and heating.
+
 Maybe there is a role here for the carbon
 tax. Western Europe, North America, and
 Japan will be burning 3 or 4 billion tons of
 carbon per year for the next decade. Taxing
-themselves, that is, contributing in propor-
-tion to the carbon they consume, at one,
+themselves, that is, contributing in proportion
+to the carbon they consume, at one,
 two, or three dollars per ton, they could
 contribute to a fund that might begin at $3
 billion per year and grow to $10 billion. The

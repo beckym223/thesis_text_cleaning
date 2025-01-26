@@ -6,22 +6,22 @@ I I I I__ _ _ _ _ _ _
 O yr 2ym 3ym 4ym y
 FIGURE 2
 size of industry output increases. This is
-shown in Figure 2 which is a standard dia-
-gram giving the firm's and the industry's AC
+shown in Figure 2 which is a standard diagram
+giving the firm's and the industry's AC
 curves when the former is U shaped. As a
 result, the deviations between average cost
 and marginal cost will decline as industry
 output increases and so the minimum size of
-the entry cost required to preserve equi-
-librium declines correspondingly.
+the entry cost required to preserve equilibrium
+declines correspondingly.
 However, here I want to describe another
 approach offered in our book to the problem
 of existence which I have just described- the
 difficulty of satisfying simultaneously the
 zero-profit requirement and the requirement
 of marginal cost pricing. This second avenue
-relies on the apparently unanimous conclu-
-sion of empirical investigators of the cost
+relies on the apparently unanimous conclusion
+of empirical investigators of the cost
 function of the firm, that AC curves are not,
 in fact, characterized by a unique minimum
 point as they would be if they had a smooth
@@ -36,16 +36,16 @@ once more. An A C curve of this variety is
 shown in Figure 3. Obviously, such a flat
 segment of the A C curves does help matters
 because there is now a range of outputs over
-which MC pricing yields zero profits. More-
-over, the longer the flat-bottomed segment
-the better matters are for existence of equi-
-librium. Indeed, it is easy to show that if the
+which MC pricing yields zero profits. Moreover,
+the longer the flat-bottomed segment
+the better matters are for existence of equilibrium.
+Indeed, it is easy to show that if the
 left-hand end of the flat segment occurs at
 output y' and the right-hand end occurs at
 kym, then if k is greater than or equal to 2 the
-existence problem disappears altogether, be-
-cause the industry's AC curves will be hori-
-zontal for any output greater than Ym, That
+existence problem disappears altogether, because
+the industry's AC curves will be horizontal
+for any output greater than Ym, That
 FIRM'S
 AVERAGE
 COST
@@ -54,14 +54,14 @@ O ym kym y
 FIGURE 3
 is, in any contestable market in which two or
 more firms operate the industry AC curve
-will be horizontal and MC pricing will al-
-ways yield zero profits. To confirm that this
+will be horizontal and MC pricing will always
+yield zero profits. To confirm that this
 is so, note that if, for example, the flat
 segment for the firm extends from y = 1,000
 to y 2,000, then any industry output of,
 say, 9,000 + Ay where 0< A y < 9,000 can be
-produced by nine firms, each of them turn-
-ing out more than 1,000 but less than 2,000
+produced by nine firms, each of them turning
+out more than 1,000 but less than 2,000
 units. Hence, each of them will operate along
 the horizontal portion of its AC curve, as
 equilibrium requires.
@@ -75,9 +75,9 @@ k is quite close to unity? Such a case is
 shown in our diagram where for illustration I
 have taken k =4/3.
 I should like to take advantage of your
-patience by dealing here not with the sim-
-plest case-that of the single product in-
-dustry-but with the multiproduct problem.
+patience by dealing here not with the simplest
+case-that of the single product industry-
+but with the multiproduct problem.
 I do this partly to offer you some feeling of
 the way in which the multiproduct analysis,
 which is one of the hallmarks of our study,
@@ -87,7 +87,7 @@ one can measure average cost for all output
 combinations in the multiproduct case, I will
 deal exclusively with the total cost function.
 Figure 4 shows such a total cost function for
-the single firm, which is taken to manufac-
-ture two products, boots and shoes.
+the single firm, which is taken to manufacture
+two products, boots and shoes.
 Let us pause briefly to examine its shape.
 Along any ray such as OR, which keeps

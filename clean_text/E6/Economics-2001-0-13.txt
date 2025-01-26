@@ -7,8 +7,8 @@ the U.S. economy for the period 1948 to 1999.20
 These begin with BEA investment data; the
 perpetual inventory method generates estimates
 of capital stocks and these are aggregated, using
-service prices as weights. This approach, origi-
-nated by Jorgenson and Zvi Griliches (1996), is
+service prices as weights. This approach, originated
+by Jorgenson and Zvi Griliches (1996), is
 based on the identification of service prices with
 marginal products of different types of capital.
 The service price estimates incorporate the cost
@@ -18,8 +18,8 @@ that transforms the price of an asset into the
 price of the corresponding capital input.22 This
 includes the nominal rate of return, the rate of
 depreciation, and the rate of capital loss due to
-declining prices. The cost of capital is an essen-
-tial concept for the economics of information
+declining prices. The cost of capital is an essential
+concept for the economics of information
 technology,23 due to the astonishing decline of
 IT prices given in Table 1.
 The cost of capital is important in many areas
@@ -27,8 +27,8 @@ of economics, especially in modeling producer
 behavior, productivity measurement, and the
 economics of taxation.24 Many of the important
 issues in measuring the cost of capital have been
-debated for decades. The first of these is incor-
-poration of the rate of decline of asset prices
-into the cost of capital. The assumption of per-
-fect foresight or rational expectations quickly
+debated for decades. The first of these is incorporation
+of the rate of decline of asset prices
+into the cost of capital. The assumption of perfect
+foresight or rational expectations quickly
 emerged as the most appropriate formulation

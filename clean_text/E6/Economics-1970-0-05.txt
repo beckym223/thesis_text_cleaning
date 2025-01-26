@@ -8,23 +8,23 @@ changeover-costs belong among the costs
 of progress, and they are quantitatively
 significanit though they are frequently
 overlooked when benefits are weighed
-against costs. The costs of progress so con-
-ceived are the costs of those inputs which
-in this paper are referred to as "progress-
-generating." These inputs become com-
-bined with hiuman talent which is no easier
+against costs. The costs of progress so conceived
+are the costs of those inputs which
+in this paper are referred to as "progressgenerating.
+" These inputs become combined
+with hiuman talent which is no easier
 to define and is certainly no less essential
-than are the Ricardian "original" and "in-
-destructible" powers of the soil.
+than are the Ricardian "original" and "indestructible"
+powers of the soil.
 We may express, as a proportion of the
 value of a year's output, the cost of the
-goods and services representing the prog-
-ress-generating input for the year; and on
+goods and services representing the progress-
+generating input for the year; and on
 the benefit-side, we may set against this
 cost the proportion in which technological
-progress increases the output flow an-
-nually.3 On specific simplifying assump-
-tions, the progress-induced proportionate
+progress increases the output flow annually.
+3 On specific simplifying assumptions,
+the progress-induced proportionate
 addition to output will remain permanent
 and independent of the output-base. With
 a deduction on the productivity-side to
@@ -39,15 +39,15 @@ average social rate of return from the
 progress-generating activities of the period
 in question.6 Such a concept of an average
 rate of return can not, of course, guide us
-to the core of the ultimately relevant prob-
-lems of resource-allocation, but the con-
-cept will nevertheless be found useful.
+to the core of the ultimately relevant problems
+of resource-allocation, but the concept
+will nevertheless be found useful.
 Even on assumptions assuring constant
 proportionate additions to the output-flow
 the delayed start of the benefit stream will
 subsequently require allowances in the
-nature of discounts, yet for reasons ex-
-plained in Appendix A and in Section VI,
+nature of discounts, yet for reasons explained
+in Appendix A and in Section VI,
 this difficulty will not prove critical.6 We
 will also have to try to get rid of the effect
 of cyclical and erratic forces on our yearly
@@ -58,18 +58,18 @@ terms of constant proportionate additions
 to output are indeed specific. But analysis
 based on these assumptions has led to
 reasonably realistic results in a good many
-other respects. I shall make these assump-
-tions which should assure at least rough
+other respects. I shall make these assumptions
+which should assure at least rough
 comparability of the benefit-cost ratios so
 obtained with analogous ratios for physical
 capital formation on a more-or-less given
 level of technological knowledge.7 The
 "stepping up" of the absolute contribution
-of technological progress when future in-
-puts (other than progress-generating ones)
+of technological progress when future inputs
+(other than progress-generating ones)
 raise the output-base must not be allowed
-to destroy the comparability of progress-
-returns with the returns from investment
+to destroy the comparability of progressreturns
+with the returns from investment
 in the usual sense. This must be watched
 in formulating the assumptions needed for
 the justification of such comparisons.

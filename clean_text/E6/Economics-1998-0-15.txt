@@ -28,24 +28,24 @@ Growth .- e ............... ....... -.0059
 -.06RE SC. TPRW PRIEFRL -Percentile of lnitiaNH(aluE Addd
 FIGURE 5C. TFP GROWTH PROFILES FOR SLOW-GROWING BRANCHES (MEXICAN MANUFACTURING, 1984-1994)
 complement (32 percent) would represent
-the initial value added associated with neg-
-ative TFP performance during the period.
-If, then, all the information could be gen-
-erated by a properly designed frequency dis-
-tribution of rates of TFP growth, could it not
-all be the result of chance alone-more spe-
-cifically, of errors of measurements? I really
+the initial value added associated with negative
+TFP performance during the period.
+If, then, all the information could be generated
+by a properly designed frequency distribution
+of rates of TFP growth, could it not
+all be the result of chance alone-more specifically,
+of errors of measurements? I really
 think not-my favorite quip on this is that
 "white noise does not sing a tune." That is, if
 we can rationalize what we see in terms of an
-analytical framework which embodies well-
-established economic principles and sensible
+analytical framework which embodies wellestablished
+economic principles and sensible
 presumptions about underlying relationships
 and facts, this is itself strong evidence against
 the white noise hypothesis.
 Nonetheless, we have to face the fact that
-errors of observation of some magnitude cer-
-tainly do exist, and we must recognize that
+errors of observation of some magnitude certainly
+do exist, and we must recognize that
 they can cloud our perceptions and bias our
 results. What I am going to do here is consider
 frequency distributions of firms. TFP is mea-

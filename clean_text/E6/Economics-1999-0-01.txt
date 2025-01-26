@@ -1,26 +1,26 @@
 In his Presidential Address five years ago,
-Zvi Griliches ( 1994) called attention to the se-
-vere difficulties that beset current attempts to
+Zvi Griliches ( 1994) called attention to the severe
+difficulties that beset current attempts to
 measure the growth of labor productivity in
-the American economy. Because of these dif-
-ficulties, it is likely that the true rate of eco-
-nomic growth is substantially underestimated.
+the American economy. Because of these difficulties,
+it is likely that the true rate of economic
+growth is substantially underestimated.
 The root of the problem is the difficulty in
 measuring output in the service sector which
 now represents two-thirds of the economy. In
 such sectors as health care and information
 services, the contribution to gross domestic
 product (GDP) is measured by inputs rather
-than outputs, a procedure that makes it impos-
-sible to gauge accurately improvements in the
-quality of output. Thus, in the case of com-
-puters, which are transforming American so-
-ciety, economists have been unable, so far, to
+than outputs, a procedure that makes it impossible
+to gauge accurately improvements in the
+quality of output. Thus, in the case of computers,
+which are transforming American society,
+economists have been unable, so far, to
 find a measurable contribution of computers to
 the rise in labor productivity-an astonishing
 paradox.
-I want to follow up on this problem of mis-
-measurements. My thesis is that the profession
+I want to follow up on this problem of mismeasurements.
+My thesis is that the profession
 is lagging behind the economy more than it
 has to. We are, to some extent, entangled in
 concepts of the economy and in analytical
@@ -31,8 +31,8 @@ the discipline did not expand greatly during
 the middle decades of the century, due partly
 to a concentration on the reformulation of the
 previous analytical concepts and techniques in
-more sophisticated and more general mathe-
-matical models. Although the dividends from
+more sophisticated and more general mathematical
+models. Although the dividends from
 these efforts were high and have contributed
 to the flexibility and capacity of economics,
 they did not encourage a reconsideration of
@@ -42,28 +42,28 @@ has been a significant broadening of the scope
 of economics during recent decades, with the
 emergence of such fields as the new household
 economics, the new institutional economics,
-the economics of aging, and medical econom-
-ics, but much remains to be done.
+the economics of aging, and medical economics,
+but much remains to be done.
 The balance of this address is divided into
 four sections. I begin with the inadequate
-attention to the accelerating rate of techno-
-logical change, the implications of this accel-
-eration for the restructuring of the economy,
+attention to the accelerating rate of technological
+change, the implications of this acceleration
+for the restructuring of the economy,
 and its transforming effect on human beings.
 I then consider the neglect of the nonmarket
 sector of the economy, the implication of that
 neglect for the measurement of consumption,
 and for the analysis of economic growth. The
 third section deals with the need to shift the
-focus of economic analysis from cross-
-sectional to life-cycle and intergenerational
-data sets, especially in connection with fore-
-casting. The final section points to the impact
-of cultural lag in the treatment of material in-
-equality, and the neglect of the more severe
+focus of economic analysis from crosssectional
+to life-cycle and intergenerational
+data sets, especially in connection with forecasting.
+The final section points to the impact
+of cultural lag in the treatment of material inequality,
+and the neglect of the more severe
 problem of spiritual inequality. I use the word
-spiritual not in its religious sense but as a ref-
-erence to commodities that lack material form.
+spiritual not in its religious sense but as a reference
+to commodities that lack material form.
 Spiritual or immaterial commodities make up
 most of consumption in the United States and
 other rich countries today.

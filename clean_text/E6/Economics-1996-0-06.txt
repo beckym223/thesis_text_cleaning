@@ -1,71 +1,71 @@
-Times. The U.S. Surgeon General, the U.S. Pre-
-ventive Services Task Force, and the American
+Times. The U.S. Surgeon General, the U.S. Preventive
+Services Task Force, and the American
 College of Physicians supported this position,
 and many individual physicians changed their
 practice accordingly. Intense opposition came
 from the American College of Obstetricians and
-Gynecologists and the American Society of Cy-
-tology. The contending groups finally negotiated
+Gynecologists and the American Society of Cytology.
+The contending groups finally negotiated
 a compromise along the following lines: "Pap
 smears should be done annually; after two or
 more negative examinations the frequency can
 be decreased." 16
-The economist's distinction between move-
-ment along a function and a shift in the function
+The economist's distinction between movement
+along a function and a shift in the function
 is a very useful one. It is particularly applicable
 in discussing the relationship between medical
 care and health. At any given time in developed
 countries the effects of additional medical care
-on health are usually small, but over time ad-
-vances in medical science have had significant
+on health are usually small, but over time advances
+in medical science have had significant
 effects on health."7 Or consider the relationship
 between infant mortality and per capita income.
 At any given time income is a good predictor of
-infant mortality, especially post-neonatal mor-
-tality (28 days to one year). In log-log regres-
-sions across the 48 states in 1937 and 1965, the
+infant mortality, especially post-neonatal mortality
+(28 days to one year). In log-log regressions
+across the 48 states in 1937 and 1965, the
 income elasticity of post-neonatal mortality was
 -0.53 (0.11) and -0.49 (0.12) respectively.18
 The decline in post-neonatal mortality between
 1937 and 1965, however, was consistent with an
 elasticity of -2.00. There was undoubtedly a
-shift in the function associated with the intro-
-duction of antibiotics and other advances in
+shift in the function associated with the introduction
+of antibiotics and other advances in
 medical science (Fuchs, 1974b). In 1991 the
 elasticity was -0.73 (0.12) but the change from
 1965 to 1991 was consistent with an elasticity
-of -1.08, suggesting a further shift in the func-
-tion, but not nearly so large as the shift between
+of -1.08, suggesting a further shift in the function,
+but not nearly so large as the shift between
 1937 and 1965.
 Economists have much to contribute to the
 health field. What can they expect in exchange?
-The most immediate benefit to me was the pres-
-sure to make my lectures and research results
+The most immediate benefit to me was the pressure
+to make my lectures and research results
 accessible, relevant, and credible to intelligent
-but untutored and often unsympathetic audi-
-ences. I was obliged to write clearly and simply
+but untutored and often unsympathetic audiences.
+I was obliged to write clearly and simply
 and to reconsider assumptions and conclusions
-in economics that I might otherwise have ac-
-cepted too readily. My experience was in accord
+in economics that I might otherwise have accepted
+too readily. My experience was in accord
 with that of Thomas Henry Huxley (1863) who
 wrote, "Some experience with popular lecturing
 has convinced me that the necessity of making
 things plain to uninstructed people was one of
 the very best means of clearing up the obscure
 corners in one's own mind."
-For example, one of the questions that trou-
-bled me for a long time is why there is such
+For example, one of the questions that troubled
+me for a long time is why there is such
 a strong correlation between health and years
 of schooling. I originally believed that this
-was another manifestation of the productivity-
-enhancing effect of education. Schooling could
+was another manifestation of the productivityenhancing
+effect of education. Schooling could
 increase an individual's knowledge about the
 health effects of personal behavior and medical
 care options or could enable a person to better
 process and act upon information about health
-(Grossman, 1975). Or schooling could in-
-crease an individual's ability to develop strat-
-egies of self control (Richard A. Thaler and
+(Grossman, 1975). Or schooling could increase
+an individual's ability to develop strategies
+of self control (Richard A. Thaler and
 H. M. Shefrin, 1981). I began to doubt the
 schooling-causes-health hypothesis, however,
 when it was observed that the favorable effect
@@ -75,11 +75,11 @@ schooling. It is just as strong for those with
 more than a high school education as for those
 with less and continues right through graduate
 school on up to the doctoral level (Grossman,
-1975).19 I began to suspect that perhaps the cor-
-relation was the result of some underlying dif-
-ference among individuals that affects both
+1975).19 I began to suspect that perhaps the correlation
+was the result of some underlying difference
+among individuals that affects both
 schooling and health.
-To explore this question I examined sur-
-vey data on smoking behavior collected
-by colleagues in the Stanford Heart Dis-
-ease Prevention Program as part of a health
+To explore this question I examined survey
+data on smoking behavior collected
+by colleagues in the Stanford Heart Disease
+Prevention Program as part of a health

@@ -2,10 +2,10 @@ a Lorenz-type diagram) and of negative TFP
 growth (where it is hard to even conceptualize
 a Lorenz-type picture).
 I first presented these diagrams before a
-large audience at the Western Economic As-
-sociation meetings in Seattle (July 1997), and
-for that presentation coined the label of "sun-
-rise diagrams" on their analogy with the sun
+large audience at the Western Economic Association
+meetings in Seattle (July 1997), and
+for that presentation coined the label of "sunrise
+diagrams" on their analogy with the sun
 rising over a hill. That same evening Yoram
 Barzel suggested that where the aggregate
 slope is negative, we apply the term "sunset
@@ -16,8 +16,8 @@ diagrams based on Jorgenson et al. (1987 pp.
 (their 35 minus Agriculture, Trade, and
 Government Enterprises). I think the utility
 of sunrise-sunset diagrams needs no further
-championing once these pictures are exam-
-ined and digested. Practically all variants are
+championing once these pictures are examined
+and digested. Practically all variants are
 represented in these real-world cases: low
 TFP growth with a huge overshoot (1953-
 1957 and 1969-1973); negative growth
@@ -29,8 +29,8 @@ One striking fact that emerges from this set
 of pictures is how variable across periods is
 the negative contribution of the losers. If the
 losers had only contributed zero change in
-TFP, we would have had cumulative TFP con-
-tributions of about 0.8 percent per annum in
+TFP, we would have had cumulative TFP contributions
+of about 0.8 percent per annum in
 1948-1953, in 1957-1960, and in 1960-
 1966. And the other periods would not have
 been much different: about 0.7 percent in
@@ -43,8 +43,8 @@ distribution that goes from -0.9 percent in
 1953-1957 and 1969-1973 to over 0.5
 percent in 1960-1966 and 1979-1985.
 Does this not suggest that we make a major
-research push trying to improve our under-
-standing of the phenomenon of negative TFP
+research push trying to improve our understanding
+of the phenomenon of negative TFP
 growth? What syndromes characterize the firms
 and industries experiencing it? How much of it
 stems from external shocks like international
@@ -60,8 +60,8 @@ IL. Yeast versus Mushrooms: Part II
 I hope that in the previous section I have
 made a convincing case concerning: (a) the
 usefulness of sunrise-sunset diagrams, (b) the
-aptness of the "yeast versus mushrooms" di-
-chotomy, and (c) the pervasiveness with
+aptness of the "yeast versus mushrooms" dichotomy,
+and (c) the pervasiveness with
 which the mushroom side of that dichotomy
 seems to come out ahead when the GDP is
 broken down into industries or industrial
@@ -71,20 +71,20 @@ and from just about all the other industry
 breakdowns that I recall having seen, is that:
 (i) a small-to-modest fraction of industries
 can account for 100 percent of aggregate real
-cost reduction in a period; (ii) the comple-
-mentary fraction of industries contains win-
-ners and losers, the TFP contributions of
+cost reduction in a period; (ii) the complementary
+fraction of industries contains winners
+and losers, the TFP contributions of
 which cancel each other; (iii) the losers are
 a very important part of the picture most of
-the time, and contribute greatly to the varia-
-tions we observe in aggregate TFP perfor-
-mance; and (iv) there is little evidence of
-persistence from period to period of the lead-
-ers in TFP performance.
-The above results are, I think, very in-
-teresting (in the sense of piquing our curi-
-osity), very strong (in terms of their impli-
-cations about the nature of the growth
+the time, and contribute greatly to the variations
+we observe in aggregate TFP performance;
+and (iv) there is little evidence of
+persistence from period to period of the leaders
+in TFP performance.
+The above results are, I think, very interesting
+(in the sense of piquing our curiosity)
+, very strong (in terms of their implications
+about the nature of the growth
 process), and very robust (in the sense that
 they have wide applicability over different
 data sets analyzed by different authors using

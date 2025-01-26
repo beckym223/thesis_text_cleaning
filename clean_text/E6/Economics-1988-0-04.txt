@@ -4,8 +4,8 @@ Speculations of Mr. Godwin, M. Condorcet,
 and Other Writers," begins with an objection
 to the conclusion of these writers that the
 economic position of mankind will continue
-to improve over time. In the process of re-
-butting their arguments, Malthus develops
+to improve over time. In the process of rebutting
+their arguments, Malthus develops
 his famous theory of population growth and
 reaches much more pessimistic conclusions
 about the long-term economic prospects of
@@ -24,11 +24,11 @@ and interest rates.
 The response of fertility and mortality to
 changes in income determine the Malthusian
 supply of population. Population grows more
-slowly when wages are low because the aver-
-age person marries later and thereby has
+slowly when wages are low because the average
+person marries later and thereby has
 fewer children (the preventive check on
-population), and also because deaths in-
-crease when families are poorer (the positive
+population), and also because deaths increase
+when families are poorer (the positive
 check). Historical studies indicate that the
 effect of the economy on age at marriage was
 considerably greater, at least in Europe, than
@@ -40,41 +40,41 @@ number of children.
 The long-run equilibrium wage rate is
 found at the point on the positively inclined
 population supply curve where the average
-family has two children. The economy's pro-
-duction function then determines the sta-
-tionary level of population that is consistent
+family has two children. The economy's production
+function then determines the stationary
+level of population that is consistent
 with this long-run wage rate. There is no
 presumption that this equilibrium wage is at
-the subsistence level, especially if the posi-
-tive check through death rates is not im-
-portant. In this model tastes for marriage
-and children, not vague notions of sub-
-sistence, determine long-run wages.
-The long-run wage is stable in the Mal-
-thusian model when shocks push the system
-out of equilibrium. For example, if an infec-
-tious disease destroys much of the popula-
-tion, as the Black Death destroyed perhaps
+the subsistence level, especially if the positive
+check through death rates is not important.
+In this model tastes for marriage
+and children, not vague notions of subsistence,
+determine long-run wages.
+The long-run wage is stable in the Malthusian
+model when shocks push the system
+out of equilibrium. For example, if an infectious
+disease destroys much of the population,
+as the Black Death destroyed perhaps
 25 percent of certain European populations
 during the fourteenth century, the decline in
 population raises the marginal productivity
-of labor. The resulting rise in wages encour-
-ages families to marry earlier and have more
+of labor. The resulting rise in wages encourages
+families to marry earlier and have more
 children. Population begins to grow and its
 increase over time lowers wage rates back
-toward equilibrium. Ultimately, this dy-
-namic process restores both the wage rate
+toward equilibrium. Ultimately, this dynamic
+process restores both the wage rate
 and the level of population to their long-run
 levels.
 If the amount of usable land increases,
 wages rise and that stimulates higher birth
-rates. Again, the growth in population con-
-tinues to lower wage rates until eventually
+rates. Again, the growth in population continues
+to lower wage rates until eventually
 the long-run wage is restored. However,
 population is permanently higher because
 the amount of land is greater.
-This example brings out that the equi-
-librium wage is more immune to shocks in
+This example brings out that the equilibrium
+wage is more immune to shocks in
 the Malthusian system than is the level of
 population. Indeed, if tastes are stable over
 time-the Malthusian model, along with
@@ -89,8 +89,8 @@ explaining very long-term changes in
 European wage rates prior to the nineteenth
 century (Lee, 1987b, gives a good analysis of
 the evidence). People evidently married
-earlier when wages were above the equi-
-librium level and married later when they
+earlier when wages were above the equilibrium
+level and married later when they
 were below.
 It is ironic that Malthus's first essay on
 population was published in 1798 at the
@@ -98,7 +98,7 @@ close of the eighteenth century. Although his
 system was accepted by many leading
 economists of the nineteenth century (see
 John Stuart Mill, 1848, Book I, ch. X), events
-after publication were not kind to the the-
-ory. Fertility eventually fell sharply rather
-than rose as wage rates and per capita in-
-comes continued to advance during much of
+after publication were not kind to the theory.
+Fertility eventually fell sharply rather
+than rose as wage rates and per capita incomes
+continued to advance during much of

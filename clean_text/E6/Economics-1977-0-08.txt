@@ -1,7 +1,7 @@
 tively to the wage-unit that the rate of
 interest would fall to a level compatible
-with full employment, we should, in ef-
-fect, have monetary management by the
+with full employment, we should, in effect,
+have monetary management by the
 Trade Unions, aimed at full employment,
 instead of by the banking systems.
 [p. 2671
@@ -20,50 +20,50 @@ A. The Monetarist Model of Wage
 Price Behavior
 In setting out the counterattack it is convenient
 to start with the monetarists' model of price and
-wage behavior. Here one must distinguish be-
-tween the model as such and a specific implica-
-tion of that model, namely that the long-run
+wage behavior. Here one must distinguish between
+the model as such and a specific implication
+of that model, namely that the long-run
 Phillips curve is vertical, or, in substance, that,
-in the long run, money is neutral. That conclu-
-sion, by now, does not meet serious objection
+in the long run, money is neutral. That conclusion,
+by now, does not meet serious objection
 from nonmonetarists, at least as a first
 approximation.
 But the proposition that other things equal,
-and given time enough, the economy will even-
-tually adjust to any indefinitely maintained stock
-of money, or nth derivative thereof, can be de-
-rived from a variety of models and, in any event,
+and given time enough, the economy will eventually
+adjust to any indefinitely maintained stock
+of money, or nth derivative thereof, can be derived
+from a variety of models and, in any event,
 is of very little practical relevance, as I will argue
-below. What is unacceptable, because incon-
-sistent with both micro and macro evidence, is
+below. What is unacceptable, because inconsistent
+with both micro and macro evidence, is
 the specific monetarist model set out above and
-its implication that all unemployment is a volun-
-tary, fleeting response to transitory mis-
-perceptions.
+its implication that all unemployment is a voluntary,
+fleeting response to transitory misperceptions.
+
 One may usefully begin with a criticism of the
 Macro Rational Expectations model and why
 Keynes' "if" should not be replaced by
-"since." At the logical level, Benjamin Fried-
-man has called attention to the omission from
+"since." At the logical level, Benjamin Friedman
+has called attention to the omission from
 MREH of an explicit learning model, and has
-suggested that, as a result, it can only be inter-
-preted as a description not of short-run but of
+suggested that, as a result, it can only be interpreted
+as a description not of short-run but of
 long-run equilibrium in which no agent would
 wish to recontract. But then the implications of
 MREH are clearly far from startling, and their
-policy relevance is almost nil. At the institu-
-tional level, Stanley Fischer has shown that the
-mere recognition of long-term contracts is suf-
-ficient to generate wage rigidity and a substantial
+policy relevance is almost nil. At the institutional
+level, Stanley Fischer has shown that the
+mere recognition of long-term contracts is sufficient
+to generate wage rigidity and a substantial
 scope for stabilization policies. But the most
 glaring flaw of MREH is its inconsistency with
-the evidence: if it were valid, deviations of un-
-employment from the natural rate would be
-small and transitory in which case The Gen-
-eral Theory would not have been written and
+the evidence: if it were valid, deviations of unemployment
+from the natural rate would be
+small and transitory in which case The General
+Theory would not have been written and
 neither would this paper. Sargent (1976) has
-attempted to remedy this fatal flaw by hypothe-
-sizing that the persistent and large fluctuations
+attempted to remedy this fatal flaw by hypothesizing
+that the persistent and large fluctuations
 in unemployment reflect merely corresponding
 swings in the natural rate itself. In other words,
 what happened to the United States in the 1930's
@@ -71,10 +71,10 @@ was a severe attack of contagious laziness! I can
 only say that, despite Sargent's ingenuity,
 neither I nor, I expect, most others at least of
 the nonmonetarists' persuasion are quite ready
-yet to turn over the field of economic fluctua-
-tions to the social psychologist!
-Equally serious objections apply to Fried-
-man's modeling of the commodity market as a
+yet to turn over the field of economic fluctuations
+to the social psychologist!
+Equally serious objections apply to Friedman'
+s modeling of the commodity market as a
 perfectly competitive one-so that the real wage
 rate is continuously equated to the short-run
 marginal product of labor-and to his treatment
@@ -86,8 +86,8 @@ this model as a useful formalization of present
 day Western economies are so numerous that
 only a few of the major ones can be mentioned
 here.
-Friedman's view of unemployment as a vol-
-untary reduction in labor supply could at best
+Friedman's view of unemployment as a voluntary
+reduction in labor supply could at best
 provide an explanation of variations in labor
 force-and then only under the questionable
 assumption that the supply function has a sig-

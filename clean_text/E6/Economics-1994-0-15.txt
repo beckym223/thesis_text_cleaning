@@ -1,5 +1,5 @@
-integrate them more efficiently into the ex-
-isting production structures (Paul David,
+integrate them more efficiently into the existing
+production structures (Paul David,
 1991).
 Similar arguments, can be (and have been)
 made about the difficulties in measuring the
@@ -12,13 +12,13 @@ form of weapons and space equipment, and
 its direct productivity effects do not show up
 in the data at all. Private R&D investment
 is also likely to have followed the economy
-and shifted its targets toward the faster-
-growing sectors, with more invention and
+and shifted its targets toward the fastergrowing
+sectors, with more invention and
 technical change occurring exactly where we
 have more trouble in measuring them.
 Not only has the economy shifted into
-uncharted waters, but even in the "mea-
-surable" sectors accelerating rates of change
+uncharted waters, but even in the "measurable"
+sectors accelerating rates of change
 have destroyed the basis for some of the
 older compromises. Currently, new goods
 are introduced into the various official price
@@ -35,17 +35,17 @@ by treating every version of a product sold
 to a different type of customer as a separate
 commodity, as is currently the predominant
 official practice, creates its own problems.
-By linking out the decline in prices experi-
-enced by consumers in their shift to super-
-markets, discount stores, and mail-order
+By linking out the decline in prices experienced
+by consumers in their shift to supermarkets,
+discount stores, and mail-order
 purchases, it underestimates significantly not
 only the output of se;rvices, but also the
 output of some of the more "standard"
-manufacturing industries (Marshall Reins-
-dorf, 1993). A prime example of that is the
+manufacturing industries (Marshall Reinsdorf,
+1993). A prime example of that is the
 treatment of generics in the pharmaceutical
-price indexes. The stylized facts are as fol-
-lows:
+price indexes. The stylized facts are as follows:
+
 (i) Generics are introduced at roughly half
 the price of the original brand.
 (ii) The brand price, however, does not,
@@ -62,39 +62,39 @@ index does not fall, and since the value
 of shipments declines as the market
 shifts to generics (and to hospital and
 HMO formularies), so does measured
-"output" in this industry and the asso-
-ciated productivity measures (Griliches
+"output" in this industry and the associated
+productivity measures (Griliches
 and lain Cockburn, 1993).
 This might explain the rather strange
-fact that during the last decade pharma-
-ceuticals, an industry with one of the high-
-est R&D-sales ratios, had a rather dismal
+fact that during the last decade pharmaceuticals,
+an industry with one of the highest
+R&D-sales ratios, had a rather dismal
 productivity-growth performance. This was
 the period with an increasing penetration of
-generics, which should have reduced mea-
-sured prices in this industry but did not.
-The measurement environment has dete-
-riorated also in other ways. There is less
-willingness on the part of firms and con-
-sumers to respond to detailed questions,
-and our government has done little to em-
-phasize the importance of good economic
+generics, which should have reduced measured
+prices in this industry but did not.
+The measurement environment has deteriorated
+also in other ways. There is less
+willingness on the part of firms and consumers
+to respond to detailed questions,
+and our government has done little to emphasize
+the importance of good economic
 data to its own functioning or the overall
-understanding of our economy. The conse-
-quence of such deterioration can be illus-
-trated by the uncertainty about the level of
+understanding of our economy. The consequence
+of such deterioration can be illustrated
+by the uncertainty about the level of
 industrial investment in basic research, an
 investment which many think is crucial to
 our long-run economic performance
 (Griliches, 1986a). Because the question that
-asks about the allocation of total R&D ex-
-penditures by the "character of work" is not
+asks about the allocation of total R&D expenditures
+by the "character of work" is not
 mandatory and is also not an easy one to
-answer, less than half of all the firms sur-
-veyed in 1988 answered it. As a result of
+answer, less than half of all the firms surveyed
+in 1988 answered it. As a result of
 such nonresponse, the best that can be done
-is to produce a "reasonable" range of esti-
-mates, based on alternative imputation al-
-gorithms, from $2.5 to $8.2 billion (and a
+is to produce a "reasonable" range of estimates,
+based on alternative imputation algorithms,
+from $2.5 to $8.2 billion (and a
 "central" guess of $3.9 billion), which leaves
 us really in the dark as to what has hap-

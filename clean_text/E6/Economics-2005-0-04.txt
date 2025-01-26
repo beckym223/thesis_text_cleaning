@@ -1,6 +1,6 @@
-Unemployment insurance also does not redis-
-tribute to the poor. In Massachusetts, a state con-
-sidered to have a very generous UI program, the
+Unemployment insurance also does not redistribute
+to the poor. In Massachusetts, a state considered
+to have a very generous UI program, the
 UI benefits were financed in 2003 by a payroll tax
 on only the first $10,800 of earnings (with a zero
 marginal tax rate above that level), while basic
@@ -10,49 +10,49 @@ An individual who earns $50,000 a year pays
 the same tax as someone who earns $11,000 a
 year but would receive benefits that are nearly
 five times as high.3 Taken by itself this would
-mean a substantial redistribution from low-
-wage earners to higher-wage earners. Moreover,
+mean a substantial redistribution from lowwage
+earners to higher-wage earners. Moreover,
 since benefits are paid only to individuals who
 have earned some minimum amount during the
-past year, those with long spells of unemploy-
-ment may not be eligible for any benefits at all.
+past year, those with long spells of unemployment
+may not be eligible for any benefits at all.
 Although the same Medicare rules apply to
 everyone over age 65, higher-income seniors
 often get substantially more benefits than those
 with lower incomes. Mark McClellan and
-Jonathan Skinner (1997) concluded that Medi-
-care produced net transfers from the poor to the
-wealthy as a result of the higher annual expen-
-ditures and longer survival times of wealthier
-Medicare beneficiaries. In the same spirit, Skin-
-ner and Weiping Zhou (2004) found greater use
-of mammography screening, diabetic eye ex-
-ams, and other indicators of good care among
+Jonathan Skinner (1997) concluded that Medicare
+produced net transfers from the poor to the
+wealthy as a result of the higher annual expenditures
+and longer survival times of wealthier
+Medicare beneficiaries. In the same spirit, Skinner
+and Weiping Zhou (2004) found greater use
+of mammography screening, diabetic eye exams,
+and other indicators of good care among
 high-income Medicare groups than among
 those with lower incomes.
-The very high level of spending on the mid-
-dle class social insurance programs hurts the
-low-income population in another way: by put-
-ting a drain on the government budget in a way
+The very high level of spending on the middle
+class social insurance programs hurts the
+low-income population in another way: by putting
+a drain on the government budget in a way
 that reduces the funds available for helping the
-poor. Social insurance programs cost $800 bil-
-lion in 2003, while federal spending on all
+poor. Social insurance programs cost $800 billion
+in 2003, while federal spending on all
 means-tested programs, except Medicaid, was
-less than $150 billion.4 Over the past four de-
-cades, the spending on means-tested programs
-(except Medicaid) has remained relatively con-
-stant (rising from 1.0 percent of GDP to 1.3
+less than $150 billion.4 Over the past four decades,
+the spending on means-tested programs
+(except Medicaid) has remained relatively constant
+(rising from 1.0 percent of GDP to 1.3
 percent of GDP) while the social insurance pro-  grams that are not means tested rose from 2.7
 percent of GDP to 7.4 percent of GDP.
-The negative effect of social insurance spend-
-ing on means-tested programs is not only an
+The negative effect of social insurance spending
+on means-tested programs is not only an
 observed fact but is also what optimal tax theory
 implies. The deadweight burden of an extra
 dollar of taxes increases with the share of income
 taken in taxes. The high level of taxes that is
 needed to finance middle-class social insurance
-programs therefore increases the deadweight bur-
-den of any incremental taxes that would be used to
+programs therefore increases the deadweight burden
+of any incremental taxes that would be used to
 finance means-tested poverty programs. The large
 social insurance programs thus reduce the optimal
 size of means-tested poverty programs.
@@ -60,8 +60,8 @@ II. Why Social Insurance?
 Some writers see social insurance in broad
 philosophical terms, reflecting their specific
 views of the appropriate role of government in
-society. One such view, more common in Eu-
-rope than in the United States, is that social
+society. One such view, more common in Europe
+than in the United States, is that social
 insurance should be judged by its contribution
 to social solidarity, i.e., to the sense that all of
 the individuals in the nation are, in effect,
@@ -70,19 +70,19 @@ This leads to the principle of uniform health care
 for all, although this is more often an asserted
 political goal than a practical reality. Similarly,
 they may reject any role for company-based
-private pensions in order that all workers par-
-ticipate in a common pay-as-you-go state plan.
+private pensions in order that all workers participate
+in a common pay-as-you-go state plan.
 The opposite philosophical view is that the
 provision of health care or retirement income is
 not a legitimate role for government because it
 forces individuals to participate in a common
-program rather than taking personal responsi-
-bility and making decisions that reflect their
+program rather than taking personal responsibility
+and making decisions that reflect their
 own preferences. Milton Friedman's Capitalism
 and Freedom (1962) is the classic statement of
 this view that social insurance programs are
-inappropriate because they infringe upon indi-
-vidual liberty.
+inappropriate because they infringe upon individual
+liberty.
 The social solidarity view is often combined
 with the statement that individuals are incapable
 of making the complex decisions required to
@@ -90,7 +90,7 @@ plan for retirement income or to choose health
 insurance or health care. The opposite view
 emphasizes that individuals differ in their tastes
 and are better able than governments to judge  what is in their own best interest.
-I believe in the diversity of individual pref-
-erences and the ability of most individuals to act  3 The unemployment tax is technically levied on the  employer but the incidence is likely to be primarily on the
+I believe in the diversity of individual preferences
+and the ability of most individuals to act  3 The unemployment tax is technically levied on the  employer but the incidence is likely to be primarily on the
 employee.  4 Although Medicaid is a means-tested program, more  than half of its outlays are for nursing home care for the  very aged rather than care for those with low lifetime
 incomes.

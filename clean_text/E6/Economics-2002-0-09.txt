@@ -10,14 +10,14 @@ FIGURE 2. TIME-SERIES EFFECTS
 innovations that extend the quality range of
 goods tend to reduce the real costs of services
 and reduce living costs for those who buy them.
-Productivity-improving quality changes gen-
-erally reduce the real prices of goods. Prices and
+Productivity-improving quality changes generally
+reduce the real prices of goods. Prices and
 available qualities are always changing. Some
 sellers are innovating and attempting to increase
 profits by extending the desirable characteristics
 in their goods and reducing prices below those
-of competitors. The prototypical example ap-
-pears in Figure 2. The first-period equilibrium is
+of competitors. The prototypical example appears
+in Figure 2. The first-period equilibrium is
 the same as before, where goods are labeled zll
 and Zh I and equilibria are found at points A and
 B. In the second period the attributes of goods
@@ -30,29 +30,29 @@ price indexes require measuring the distance
 between the two price-quality loci, shown in
 Figure 2 as the curve that connects A and B and
 the one that connects D and E. The distance
-between F and D is a measure of the quality-
-adjusted change in price at quality level z,12
+between F and D is a measure of the qualityadjusted
+change in price at quality level z,12
 When technical change is so large that z could
 not be produced in period 1 (a 32-bit computer
 chip did not exist in 1980) shown, for example,
-by Zh2', direct price comparisons of the im-
-proved product are impossible. In principle this
+by Zh2', direct price comparisons of the improved
+product are impossible. In principle this
 can be overcome with sufficient structural
 knowledge of bid functions. In this case, the
 requirement amounts to knowing the exact
 shape of 02( z) and of 02'( z), which represents
-different indifference curves for the same con-
-sumer. The conceptually appropriate measure of
+different indifference curves for the same consumer.
+The conceptually appropriate measure of
 distance is the difference between actual price
 in period 2 and what type 2 buyers would have
 been willing to pay for Zh2' in period 1 had it
-been available, shown in Figure 2 as the dis-
-tance between G and H. Generally such detailed
+been available, shown in Figure 2 as the distance
+between G and H. Generally such detailed
 structural knowledge is unavailable, so distance
-must be measured by using overlapping variet-
-ies whose quality is more or less comparable
-across adjacent periods. For example, top-of-
-the-line goods in period 1 might be compared
+must be measured by using overlapping varieties
+whose quality is more or less comparable
+across adjacent periods. For example, top-ofthe-
+line goods in period 1 might be compared
 with bottom-of-the-line goods in period 2.
 Longer period comparisons are made by linking
 or chaining indexes with common components
@@ -71,26 +71,26 @@ available. Note that there is a consumer whose
 bid function, in this case 03( z), reflects higher
 satisfaction at (Zh2', Ph2') than at any other
 available (z, p) combination.
-This example is transparent, but very rele-
-vant. Until a few years ago, the National Income
+This example is transparent, but very relevant.
+Until a few years ago, the National Income
 and Product Accounts priced computers by the
-box-by the package in which producers deliv-
-ered them. In the early years of the computer
+box-by the package in which producers delivered
+them. In the early years of the computer
 revolution boxes were getting bigger and more
 powerful, and their prices were increasing. It
 was as if soap were suddenly produced in bigger
 bars and the index used the price per bar, not the
-price per unit volume or weight. Computer pro-
-ductivity was grossly distorted in the official
+price per unit volume or weight. Computer productivity
+was grossly distorted in the official
 indexes, though the aggregate consequences of
 the error were limited because investment in
 computers was not such a large share of total
 investment as is true today. But even when box
 prices were falling, as has been true for many
-years, unadjusted price indexes distort produc-
-tivity. Prices are really falling much faster than
+years, unadjusted price indexes distort productivity.
+Prices are really falling much faster than
 appears because products are improving so
 much. The mainframe of yesterday is the laptop
 of today. Considering that computers currently
-make up almost half of gross business invest-
-ment, eliminating these biases is important for
+make up almost half of gross business investment,
+eliminating these biases is important for

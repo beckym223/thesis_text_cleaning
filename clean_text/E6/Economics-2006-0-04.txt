@@ -2,11 +2,11 @@ excessive fees and overselling. However, the
 sweep of decentralization and privatization is, I
 believe, widely viewed by economists as an
 almost universal success, with the failures
-due to correctable flaws in market design. Ro-
-mantics of the economic right would carry the
+due to correctable flaws in market design. Romantics
+of the economic right would carry the
 concepts of self-interested consumers and
-free markets even further, embracing a wither-
-ing of authority and a nirvana of Hayekian
+free markets even further, embracing a withering
+of authority and a nirvana of Hayekian
 self-reliance.
 Most reasoned discussions of privatization
 among economists concentrate on information
@@ -15,32 +15,32 @@ and scope, risk management, and the relative
 efficiency and sustainability of alternative
 forms of market organization. There are serious
 economic questions as to whether, for example,
-the technologies of network industries inevita-
-bly lead to concentration, with an attendant loss
-of choice and efficiency. There are serious ques-
-tions as to whether adverse selection will defeat
-the efficiency gains from competition in multi-
-ple-payer privatized insurance markets. It is a
-worthy scientific enterprise to study these is-
-sues, and look to the historical record of privat-
-ization for answers, but not one that I will take
+the technologies of network industries inevitably
+lead to concentration, with an attendant loss
+of choice and efficiency. There are serious questions
+as to whether adverse selection will defeat
+the efficiency gains from competition in multiple-
+payer privatized insurance markets. It is a
+worthy scientific enterprise to study these issues,
+and look to the historical record of privatization
+for answers, but not one that I will take
 up in this paper. I will concentrate, instead, on
 the decision-making of consumers, the market
-outcomes they achieve as a result, and the in-
-fluence of these outcomes on their attitudes
+outcomes they achieve as a result, and the influence
+of these outcomes on their attitudes
 toward markets.
-In the general public we see widespread un-
-ease about market solutions. Free trade and
+In the general public we see widespread unease
+about market solutions. Free trade and
 globalization, privatization of social insurance,
 and deregulation of energy markets all elicit
 opposition from many consumers, sometimes
 reasoned but often inchoate. It is no coincidence
 that support for market solutions is concentrated
-among the economically successful, and oppo-
-sition among the less successful. Free choice
+among the economically successful, and opposition
+among the less successful. Free choice
 has moral appeal, but moral fiber is strongest
-when not cut by self-interest. Market mecha-
-nisms have to compete for votes with alternative
+when not cut by self-interest. Market mechanisms
+have to compete for votes with alternative
 resource allocation schemes more favorable to
 the underdogs; and in this competition, fairness
 to me is my primary concern, efficiency is
@@ -50,50 +50,50 @@ the liberal orthodoxy, markets are dominated by
 the powerful and rapacious, and the motives of
 government bureaucrats are purer than those of  private bureaucrats. In this ideology, the process
 of privatization often serves the interests of the
-politically connected. The Enrons and Halibur-
-tons of this world reinforce these views. How-
-ever, ideologies themselves are woven from
-human sentiments, and antipathy to market so-
-lutions is more than just doctrine.
+politically connected. The Enrons and Haliburtons
+of this world reinforce these views. However,
+ideologies themselves are woven from
+human sentiments, and antipathy to market solutions
+is more than just doctrine.
 My concern in this paper is that it is not
 enough to find ways to handle information and
 technology issues in privatization if consumers
-are not up to the task of functioning satisfacto-
-rily in such markets. The argument is not that
+are not up to the task of functioning satisfactorily
+in such markets. The argument is not that
 consumers should be coddled; they may need to
-see the stick to get the incentives for self-
-reliance right. However, the efficiency and sta-
-bility of an economy requires that all consumers
-be part of the franchise, in reality and in per-
-ception, so that good economic policies, includ-
-ing privatization and free markets when they
-make sense, receive broad support. I will dis-
-cuss these issues at two levels. First, I will give
+see the stick to get the incentives for selfreliance
+right. However, the efficiency and stability
+of an economy requires that all consumers
+be part of the franchise, in reality and in perception,
+so that good economic policies, including
+privatization and free markets when they
+make sense, receive broad support. I will discuss
+these issues at two levels. First, I will give
 a selective review of the behavioral evidence on
-consumer decision-making, and how this influ-
-ences market outcomes and attitudes toward
+consumer decision-making, and how this influences
+market outcomes and attitudes toward
 markets. Second, I will summarize results that
 my research group has obtained on a current,
 concrete privatization issue, the new Medicare
-Part D prescription drug program, which is of-
-fering market choices within a social insurance
+Part D prescription drug program, which is offering
+market choices within a social insurance
 program. I will ask whether consumers are, in
 fact, able to manage their choices adequately in
 this new market, and whether they will, in fact,
-gain from the added choice offered by privat-
-ization. The following fundamental questions,
+gain from the added choice offered by privatization.
+The following fundamental questions,
 explored in pioneering papers by James J. Choi
 et al. (2003) and Richard H. Thaler and Cass R.
-Sunstein (2003), comprise an important scien-
-tific agenda:
-* Are consumers sufficiently consistent in ad-
-vancing their self-interest in specific markets
-to achieve the levels of efficiency and well-
-being that privatization promises?
+Sunstein (2003), comprise an important scientific
+agenda:
+* Are consumers sufficiently consistent in advancing
+their self-interest in specific markets
+to achieve the levels of efficiency and wellbeing
+that privatization promises?
 * What can be done as part of the design of
-privatization, such as information, instruc-
-tion, and support structures, to help consum-
-ers satisfactorily pursue their self-interest?
-* When privatization is in consumers' self-
-interest, how can they be enlightened and
+privatization, such as information, instruction,
+and support structures, to help consumers
+satisfactorily pursue their self-interest?
+* When privatization is in consumers' selfinterest,
+how can they be enlightened and
 convinced to support the change?

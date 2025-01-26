@@ -4,60 +4,60 @@ now called "organization theory," and this
 is now a field in the better business schools;
 but not much of this has seeped into the
 mainstream of economic theory.
-Some economic theorists today are be-
-ginning to pay serious attention to the be-
-ginnings of a theory of information, and
-increasing attention is being paid to prob-
-lems of decision making under uncertainty.
+Some economic theorists today are beginning
+to pay serious attention to the beginnings
+of a theory of information, and
+increasing attention is being paid to problems
+of decision making under uncertainty.
 But here again too little attention tends
 to be paid to the changing conditions under
-which information is collected and pro-
-cessed, and the manner in which institu-
-tional arrangements affect the way in
+which information is collected and processed,
+and the manner in which institutional
+arrangements affect the way in
 which the future is viewed and attitudes
 toward uncertainty change.
 There is another and indeed startling
-respect in which pure micro-economic the-
-ory tends to ignore the changing institu-
-tional environment. This has to do with
+respect in which pure micro-economic theory
+tends to ignore the changing institutional
+environment. This has to do with
 the steadily increasing role of government
-in the functioning of markets. In neo-
-classical general equilibrium theory, there
+in the functioning of markets. In neoclassical
+general equilibrium theory, there
 is no place for any kind of public authority.
 Of course, we have the field of public
 finance, which on the theoretical side and
-at the micro level does borrow from neo-
-classical theory; and, as Walter Heller re-
-minded us last year, cost-benefit analysis
+at the micro level does borrow from neoclassical
+theory; and, as Walter Heller reminded
+us last year, cost-benefit analysis
 and tax-incidence theory have helped
 economists to develop a rationale for many
 types of government decision making.
 There is also a growing literature on the
 economics of government decision making
-in a range of problem areas-from pollu-
-tion to military spending to housing and
+in a range of problem areas-from pollution
+to military spending to housing and
 education. But the pure micro theorist
 finds no role for a public authority in his
 analysis of the determinants of general
 equilibrium. (See Bent Hansen, p. 92.)
-Here we encounter an important differ-
-ence between micro and macro theory.
+Here we encounter an important difference
+between micro and macro theory.
 Much of macro theory (but by no means
 all) tends to be policy oriented and to have
-a strong normative orientation. It is con-
-cerned both with policy variables and with
+a strong normative orientation. It is concerned
+both with policy variables and with
 variables that can be, directly or indirectly,
 influenced by policy. While there is a good
 deal of macro theory in which the possible
 role of government is ignored, much of
 theoretical macroeconomics does, either
-explicitly or by implication, leave an im-
-portant role for government.
+explicitly or by implication, leave an important
+role for government.
 Although macro-economic theory does
 not ignore the role of government, we can
 still find plenty of examples of the failure
-of macro theory to reflect the changing in-
-stitutional environment. One of the most
+of macro theory to reflect the changing institutional
+environment. One of the most
 striking examples undoubtedly involves
 what little we have in the way of a theory
 of inflation. The problem is most acute
@@ -72,9 +72,9 @@ changing institutional structure. It tends
 to ignore the sources and nature of the
 pressures, operating through government,
 which lead to changes in the supply of
-money. An increasing number of econo-
-mists, monetarists and Keynesians, em-
-phasize the existence of a natural rate of
+money. An increasing number of economists,
+monetarists and Keynesians, emphasize
+the existence of a natural rate of
 unemployment, with the implication that
 government policies to expand aggregate
 demand, by pushing unemployment to or
@@ -84,8 +84,8 @@ hypothesis have little to say about why the
 natural rate, if it exists, is what it is today,
 and how and why it has changed over the
 years. Much of the work in this area tends
-to be done in an institutional vacuum, in-
-cluding the recent work on the formation
+to be done in an institutional vacuum, including
+the recent work on the formation
 of price expectations.
 I think it is fair to say that we still lack
 a general theory with a significant time

@@ -1,33 +1,33 @@
 The accumulation of historical and current
-biomedical studies on the trends in health, lon-
-gevity, and human physiology, combined with
+biomedical studies on the trends in health, longevity,
+and human physiology, combined with
 controlled studies of animal populations, are
 leading some evolutionary biologists to place
-increasing emphasis on plasticity in human ag-
-ing (Michael R. Rose, 1991; Caleb E. Finch,
-1997; Hillard Kaplan, 1997). The term "plas-
-ticity" refers to the widely varying pattern of
+increasing emphasis on plasticity in human aging
+(Michael R. Rose, 1991; Caleb E. Finch,
+1997; Hillard Kaplan, 1997). The term "plasticity"
+refers to the widely varying pattern of
 aging within species and the ability of the
-length of the life span to be affected by envi-
-ronmental factors, some of which may operate
+length of the life span to be affected by environmental
+factors, some of which may operate
 over several generations (cf., Kenneth W.
 Wachter and Finch, 1997).
-The search for better ways to forecast long-
-term trends in health-care costs and in pension
+The search for better ways to forecast longterm
+trends in health-care costs and in pension
 costs has made it essential for economists to
-understand the underlying physiological, nu-
-tritional, and epidemiological factors that af-
-fect the changing demand for health care and
+understand the underlying physiological, nutritional,
+and epidemiological factors that affect
+the changing demand for health care and
 retirement. Forecasts about health-care costs
 are obviously related to assumptions about
-changes in both life expectancy and age-
-specific morbidity rates. If current morbidity
-rates at older ages are presumed to remain con-
-stant or to increase over the next 30 to 50
+changes in both life expectancy and agespecific
+morbidity rates. If current morbidity
+rates at older ages are presumed to remain constant
+or to increase over the next 30 to 50
 years, and if life expectancy is also presumed
-to increase, then national health-care costs be-
-come astronomic. However, if one takes ac-
-count of the recent declines in age-specific
+to increase, then national health-care costs become
+astronomic. However, if one takes account
+of the recent declines in age-specific
 disability rates, then the share of health-care
 costs in GDP might remain constant (Kenneth
 G. Manton et al., 1997b; Manton et al., 1998),
@@ -37,50 +37,50 @@ however, the income elasticity of the demand
 for health is greater than one, then as income
 increases, the share of income that is spent on
 health care could increase even if disability
-rates decline (see Fogel, 1997). It is quite pos-
-sible for the demand for medical interventions
-to increase, even though age-specific morbid-
-ity rates decline, for one or more of the fol-
-lowing reasons: shifts in the age structure of
-the population toward ages with high morbid-
-ity rates; improvements in inedical interven-
-tions for a wide range of chronic conditions
+rates decline (see Fogel, 1997). It is quite possible
+for the demand for medical interventions
+to increase, even though age-specific morbidity
+rates decline, for one or more of the following
+reasons: shifts in the age structure of
+the population toward ages with high morbidity
+rates; improvements in inedical interventions
+for a wide range of chronic conditions
 which alleviate symptoms but do not cure; the
 replacement of current disease-specific standards
-of care by new ones based on improved tech-
-nologies that are much more expensive than
-those replaced; the elimination of current age re-
-strictions on such expensive procedures as organ
+of care by new ones based on improved technologies
+that are much more expensive than
+those replaced; the elimination of current age restrictions
+on such expensive procedures as organ
 replacements (cf., David M. Cutler and Ellen
 Meara, 1998; Alan M. Garber et al., 1998).
 The complexity of the underlying issues in
 the economics and biodemography of aging
-has led to a significant shift away from cross-
-sectional data sets and to a concentration on
+has led to a significant shift away from crosssectional
+data sets and to a concentration on
 longitudinal data sets. The earliest of the major
 longitudinal studies sponsored by the National
 Institutes of Health (NIH), the Framingham
 Heart Study, began in 1950 and was focused
 on the causes and treatment of coronary heart
-disease rather than on the economics and bio-
-demography of aging. The Retirement History
+disease rather than on the economics and biodemography
+of aging. The Retirement History
 Survey (RHS) followed a cohort of men and
 women aged 58 to 63 from 1969 to 1979 and
 then was suspended. Although not initially
 planned as a longitudinal study, it became the
 mainstay of retirement research during the
 1980's. Linked to the social security file on
-covered earnings, it provided important in-
-sights into the labor-force and retirement be-
-havior of older workers.
+covered earnings, it provided important insights
+into the labor-force and retirement behavior
+of older workers.
 In 1990, the National Institute of Aging
 launched a new Health and Retirement Survey
 (HRS) focused on the cohort born between
 1931 and 1941, and aimed at collecting a much
 wider set of variables than covered by the
 older RHS. The new HRS collected numerous
-measures of health (including cognitive abil-
-ity), taxable earnings, job characteristics,
-hours of work, job turnover, family character-
-istics, pensions, health insurance, and owner-
-ship of an array of assets including real estate,
+measures of health (including cognitive ability)
+, taxable earnings, job characteristics,
+hours of work, job turnover, family characteristics,
+pensions, health insurance, and ownership
+of an array of assets including real estate,

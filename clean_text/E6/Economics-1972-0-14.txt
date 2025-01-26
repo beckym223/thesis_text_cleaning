@@ -3,11 +3,11 @@ reflect money illusion in some sense. Such
 an assertion would have to be based on an
 extension of the domain of well-defined
 rational behavior to cover responses to
-change, adjustment speeds, costs of in-
-formation, costs of organizing and operat-
-ing markets, and a host of other problems
-in dynamic theory. These theoretical ex-
-tensions are in their infancy, although
+change, adjustment speeds, costs of information,
+costs of organizing and operating
+markets, and a host of other problems
+in dynamic theory. These theoretical extensions
+are in their infancy, although
 much work of interest and promise is being
 done. Meanwhile, I doubt that significant
 restrictions on disequilibrium adjustment
@@ -21,14 +21,14 @@ some explicit or implicit commitments in
 putting a worker on the payroll in the
 first place. The employee expects that his
 wages and terms of employment will
-steadily improve, certainly never retro-
-gress. He expects that the employer will
+steadily improve, certainly never retrogress.
+He expects that the employer will
 pay him the rate prevailing for persons of
 comparable skill, occupation, experience,
-and seniority. He expects such commit-
-ments in return for his own investments in
-the job; arrangements for residence, trans-
-portation, and personal life involve set-up
+and seniority. He expects such commitments
+in return for his own investments in
+the job; arrangements for residence, transportation,
+and personal life involve set-up
 costs which will be wasted if the job turns
 sour. The market for labor services is not
 like a market for fresh produce where the
@@ -36,12 +36,12 @@ entire current supply is auctioned daily.
 It is more like a rental housing market,
 in which most existing tenancies are the
 continuations of long-term relationships
-governed by contracts or less formal under-
-standings.
+governed by contracts or less formal understandings.
+
 Employers and workers alike regard the
 wages of comparable labor elsewhere as a
-standard, but what determines those refer-
-ence wages? There is not even an auction
+standard, but what determines those reference
+wages? There is not even an auction
 where workers and employers unbound by
 existing relationships and commitments
 meet and determine a market-clearing
@@ -51,35 +51,35 @@ for negotiated and administered wages,
 just as stock exchange prices are reference
 points for stock transactions elsewhere.
 In labor markets the reverse is closer to
-the truth. Wage rates for existing em-
-ployees set the standards for new em-
-ployees, too.
+the truth. Wage rates for existing employees
+set the standards for new employees,
+too.
 The equilibrium components of wage
 increases, it has been argued, depend on
-past wage increases throughout the econ-
-omy. In those theoretical and econo-
-metric models of inflation where labor
+past wage increases throughout the economy.
+In those theoretical and econometric
+models of inflation where labor
 markets are aggregated into a single
 market, this relationship is expressed as
-an autoregressive equation of fixed struc-
-ture: current wage increase depends on
+an autoregressive equation of fixed structure:
+current wage increase depends on
 past wage increases. The same description
-applies when past wage increases enter in-
-directly, mediated by price inflation and
-productivity change. The process of mu-
-tual interdependence of market wages is a
-good deal more complex and less mechani-
-cal than these aggregated models suggest.
+applies when past wage increases enter indirectly,
+mediated by price inflation and
+productivity change. The process of mutual
+interdependence of market wages is a
+good deal more complex and less mechanical
+than these aggregated models suggest.
 Reference standards for wages differ
 from market to market. The equilibrium
 wage increase in each market will be some
 function of past wages in all markets, and
-perhaps of past prices too. But the func-
-tion need not be the same in every market.
+perhaps of past prices too. But the function
+need not be the same in every market.
 Wages of workers contiguous in geography
 industry, and skill will be heavily weighted.
-Imagine a wage pattern matrix of co-
-efficients describing the dependence of the
+Imagine a wage pattern matrix of coefficients
+describing the dependence of the
 percentage equilibrium wage increase in
 each market on the past increases in all
 other markets. The coefficients in each row
@@ -89,8 +89,8 @@ will differ from row to row.
 Consider the properties of such a system
 in the absence of disequilibrium inputs.
 First, the system has the "natural rate"
-property that its steady state is indetermi-
-nate. Any rate of wage increase that has
+property that its steady state is indeterminate.
+Any rate of wage increase that has
 been occurring in all markets for a long
 enough time will continue. Second, from
 irregular initial conditions the system will

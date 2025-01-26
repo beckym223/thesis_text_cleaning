@@ -1,10 +1,10 @@
 mand, similarly, as consisting of a demand
-for current use or consumption plus a possi-
-ble demand for additions to inventory. Any
+for current use or consumption plus a possible
+demand for additions to inventory. Any
 market-participant's demand for additions to
 inventory clearly should be based upon an
-expectation that the price will increase suffi-
-ciently over some future period, at least to
+expectation that the price will increase sufficiently
+over some future period, at least to
 cover costs of storage plus interest for that
 period. Any market-participant's willingness
 to supply goods from inventory should be
@@ -12,15 +12,15 @@ based on an expectation that the price will
 rise insufficiently over any future period to
 cover costs of storage and interest for that
 period. Since expectations of future prices
-are never certain, the expected prices de-
-scribed should include discounts to reflect
+are never certain, the expected prices described
+should include discounts to reflect
 risk aversion, or premiums to reflect the
 pleasures of risk assumption.
-Given the conditions that permit or re-
-quire the holding of inventories, inventories
-may have either a stabilizing or a destabi-
-lizing effect on the commodity's price, pro-
-duction, and consumption. Traditionally,
+Given the conditions that permit or require
+the holding of inventories, inventories
+may have either a stabilizing or a destabilizing
+effect on the commodity's price, production,
+and consumption. Traditionally,
 however, economists have assumed that the
 effect of inventories is to stabilize each of
 these. We think of the wheat market, for
@@ -30,34 +30,34 @@ available in a relatively short period of time.
 Were the holding of inventories of wheat (or
 wheat products) impossible, the market price
 would have to fall low enough during the
-harvest period to assure immediate consump-
-tion of the entire crop. The price would then
+harvest period to assure immediate consumption
+of the entire crop. The price would then
 rise high enough during the remainder of the
 year to cut off all consumption-or else high
 enough to make profitable the production
 of wheat in greenhouses, and to reduce its
 off-season consumption to the quantity so
 produced. However, given the possibility of
-storage of wheat or wheat products-by pro-
-ducers, dealers, or intermediate or final con-
-sumers-the price would normally fall only
+storage of wheat or wheat products-by producers,
+dealers, or intermediate or final consumers-
+the price would normally fall only
 enough during the harvest period to induce
-the appropriate amount of inventory accu-
-mulation. The price would then rise, during
+the appropriate amount of inventory accumulation.
+The price would then rise, during
 the remainder of the year, as inventories
 were drawn down, sufficiently to cover at all
 times the costs of storage, interest, and the
 assumption of risk from holding inventories.
-Such seasonal price and inventory move-
-ments often are approximately observable.
+Such seasonal price and inventory movements
+often are approximately observable.
 The recognition that not only seasonal but
 also year-to-year variations may occur in the
 harvest as a result of weather conditions or
-civil disturbance, and that year-to-year varia-
-tions may also occur in the demand for
+civil disturbance, and that year-to-year variations
+may also occur in the demand for
 wheat, reflecting, say, the "business cycle,"
-will induce some or many market par-
-ticipants to carry over inventories of wheat
+will induce some or many market participants
+to carry over inventories of wheat
 (or of its products) from one crop year to the
 next (or to reduce stocks previously carried
 over). Stocks held will increase or decrease as
@@ -67,38 +67,38 @@ or "long-run equilibrium" price: the price
 that would exactly balance normal annual
 new supply and normal annual consumption.
 Through this process, not only seasonal
-fluctuations but also year-to-year fluctua-
-tions of market price and of consumption are
+fluctuations but also year-to-year fluctuations
+of market price and of consumption are
 reduced, even in the presence of substantial
-year-to-year changes in production or in fi-
-nal demand. Through changes in inventories,
+year-to-year changes in production or in final
+demand. Through changes in inventories,
 supply or demand in any particular year, in
 effect, may thus borrow from past and/or
 from future years' supply or demand.
-As, and to the extent, that market par-
-ticipants learn of new "events" affecting or
-likely to affect either future normal produc-
-tion or future normal demand, the rate of
+As, and to the extent, that market participants
+learn of new "events" affecting or
+likely to affect either future normal production
+or future normal demand, the rate of
 inventory accumulation or decumulation will
 be varied so as to produce a new time path
 of price and current consumption, associated
 with an expected new equilibrium of prices
-and quantities. Needless to add, this behav-
-ior is stabilizing with respect both to prices
+and quantities. Needless to add, this behavior
+is stabilizing with respect both to prices
 and quantities: at least as compared to what
 would have happened if inventories could
 not exist, or if storage costs-or the interest
 rate-were higher. And this activity clearly
 increases economic welfare.
-These activities of course reflect the behav-
-ior now described as based upon "rational
+These activities of course reflect the behavior
+now described as based upon "rational
 expectations." Market participants have in
 their heads a "model" of how supply and
 demand affect market price over time; on
-the basis of that model, and of all avail-
-able information-including all new infor-
-mation-about present and future produc-
-tion and demand and the size of existing
-inventories, agents buy for or sell from in-
-ventories in ways that cause the market price
+the basis of that model, and of all available
+information-including all new information-
+about present and future production
+and demand and the size of existing
+inventories, agents buy for or sell from inventories
+in ways that cause the market price
 to move continuously toward its current nor-

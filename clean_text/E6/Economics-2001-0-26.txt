@@ -16,22 +16,22 @@ rose by only 0.24 percent, and TFP accelerated by
 rapid capital deepening and growth in TFP offset
 slower improvement in labor quality. Growth in
 hours worked accelerated as unemployment fell to
-a 30-year low. Labor markets have tightened con-
-siderably, even as labor-force participation rates
+a 30-year low. Labor markets have tightened considerably,
+even as labor-force participation rates
 increased.37
 The contribution of capital input reflects the
-investment boom of the late 1990's as busi-
-nesses, households, and governments poured
+investment boom of the late 1990's as businesses,
+households, and governments poured
 resources into plant and equipment, especially
 computers, software, and communications
-equipment. The contribution of capital, predom-
-inantly IT, is considerably more important than
+equipment. The contribution of capital, predominantly
+IT, is considerably more important than
 the contribution of labor. The contribution of IT
 capital services has grown steadily throughout
 the period 1948-1999, but Figure 9 reflects the
 impact of the accelerating decline in IT prices.
-After maintaining an average rate of 0.25 per-
-cent for the period 1973-1990, TFP growth fell to
+After maintaining an average rate of 0.25 percent
+for the period 1973-1990, TFP growth fell to
 0.24 percent for 1990-1995 and then vaulted to
 0.75 percent per year for 1995-1999. This is a
 major source of growth in output and ALP for the
@@ -39,8 +39,8 @@ U.S. economy (Figures 11 and 12). While TFP
 growth for 1995-1999 is lower than the rate of
 1948-1973, the U.S. economy is recuperating
 from the anemic productivity growth of the past
-two decades. Although only half of the accelera-
-tion in TFP from 1990-1995 to 1995-1999 can be
+two decades. Although only half of the acceleration
+in TFP from 1990-1995 to 1995-1999 can be
 attributed to IT production, this is far greater than
 the 4.26 percent share of IT in the GDP.
 G. Average Labor Productivity
@@ -51,8 +51,8 @@ ALP for the same periods as in Table 6. For the
 period 1948-1999, ALP growth predominated
 in output growth, increasing just over 2 percent
 per year for 1948-1999, while hours increased
-about 1.4 percent per year. As shown in equa-
-tion (3), ALP growth depends on capital deep-
-ening, a labor-quality effect, and TFP growth.
-37 Katz and Krueger (1999) analyze the recent perfor-
-mance of the U.S. labor market.
+about 1.4 percent per year. As shown in equation
+(3), ALP growth depends on capital deepening,
+a labor-quality effect, and TFP growth.
+37 Katz and Krueger (1999) analyze the recent performance
+of the U.S. labor market.

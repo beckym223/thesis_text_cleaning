@@ -1,20 +1,20 @@
-The other is the market; here, the aggre-
-gate of individual decisions is acknowl-
-edged, and the terms of trade adjusted un-
-til the decisions of the individuals are
+The other is the market; here, the aggregate
+of individual decisions is acknowledged,
+and the terms of trade adjusted until
+the decisions of the individuals are
 mutually consistent in the aggregate, i.e.,
 supply equals demand.
 The neoclassical theory, especially in its
 competitive form, can be and has been
-given a rich formal development. Paren-
-thetically, one cause for the persistence of
+given a rich formal development. Parenthetically,
+one cause for the persistence of
 neoclassical theory in the face of its long
 line of critics is precisely that for some
-reason of mathematical structure, the neo-
-classical theory is highly manipulable and
+reason of mathematical structure, the neoclassical
+theory is highly manipulable and
 flexible; when faced with a specific issue,
-it can yield meaningful implications rela-
-tively easily. Although I intend to air
+it can yield meaningful implications relatively
+easily. Although I intend to air
 complaints and desires for change today,
 I must express my unabashed admiration
 for the accomplishments of the neoclassical
@@ -29,45 +29,45 @@ medical costs risen so rapidly relative to
 other prices since 1967? The upward shift
 in demand due to Medicare and Medicaid
 with a price-inelastic supply of physicians
-and hospitals provides a simple straight-
-forward answer; I cannot really imagine
+and hospitals provides a simple straightforward
+answer; I cannot really imagine
 how a Marxian or a neo-Ricardian would
-even approach the question, though I sup-
-pose they might dismiss it as unimportant.
-The explanation of environmental prob-
-lems as due to the nonexistence of markets
+even approach the question, though I suppose
+they might dismiss it as unimportant.
+The explanation of environmental problems
+as due to the nonexistence of markets
 is similarly an insight of purely neoclassical
 origin. The now-demonstrated fact that
 flexible exchange rates are a feasible way
 of conducting international finance is a
-triumph of theoretical insights over prac-
-tical men's convictions. More broadly, the
+triumph of theoretical insights over practical
+men's convictions. More broadly, the
 shifts in long-run resource allocation as
 motivated by returns and, in particular,
-the absence of a secular trend in techno-
-logical unemployment to the perpetual
+the absence of a secular trend in technological
+unemployment to the perpetual
 surprise of the layman fit in well with the
 neoclassical formulation but have no ready
 explanation in alternate models.
-Of course, the implications of neoclassi-
-cal theory have also been conspicuously
+Of course, the implications of neoclassical
+theory have also been conspicuously
 falsified in important ways. Most notably,
 the recurrent periods of unemployment
 which have characterized the history of
 capitalism are scarcely compatible with a
 neoclassical model of market equilibrium.
-A post-Keynesian world in which unem-
-ployment is avoided or kept at tolerable
+A post-Keynesian world in which unemployment
+is avoided or kept at tolerable
 levels by recurrent alterations in fiscal or
 monetary policy is no more explicable by
-neoclassical axioms, though the falsifica-
-tion is not as conspicuous.
+neoclassical axioms, though the falsification
+is not as conspicuous.
 Inequality in economic development
 among countries and among groups and
 regions within a country provides a second,
-somewhat complicated difficulty for neo-
-classical theory. A purely neoclassical an-
-swer would explain differences in per
+somewhat complicated difficulty for neoclassical
+theory. A purely neoclassical answer
+would explain differences in per
 capita income by differences in physical
 and human assets per capita. This of
 course raises the further question, how
@@ -76,18 +76,18 @@ require a fully dynamic model to answer;
 but I think the more compelling problem
 is that the differences in income seem
 much too vast to be explained by factor
-differences. Indeed, in the presence of in-
-ternational trade and especially interna-
-tional capital movements, wage differences
+differences. Indeed, in the presence of international
+trade and especially international
+capital movements, wage differences
 should be very strongly reduced compared
 with what would occur in autarchic states
-where domestic capital is the limiting fac-
-tor. Hence, we come immediately to the
+where domestic capital is the limiting factor.
+Hence, we come immediately to the
 explanation that there are differences in
 the production possibility sets of the
 different countries. This conclusion is a
-legitimate and important use of neoclassi-
-cal analysis; but obviously it raises new
+legitimate and important use of neoclassical
+analysis; but obviously it raises new
 questions, to which we will return.
 I pass by the whole tangle of questions
 relating to the holding of money and the

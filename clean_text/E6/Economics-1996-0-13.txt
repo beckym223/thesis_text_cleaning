@@ -21,12 +21,12 @@ a National health insurance index is based on answers to survey questions 3, 7, 
 t Significant at p < 0.02.
 ** Significant atp < 0.01.
 is a significant difference between the groups in
-the extent of support for the actuariai model in-
-dex. The economic theorists have a value of
-0.61, compared with 0.46 for the health econo-
-mists and 0.44 for the practicing physicians. The
-theorists are as supportive of national health in-
-surance as are the other groups, but if insurance
+the extent of support for the actuariai model index.
+The economic theorists have a value of
+0.61, compared with 0.46 for the health economists
+and 0.44 for the practicing physicians. The
+theorists are as supportive of national health insurance
+as are the other groups, but if insurance
 is to be provided through the private market, the
 theorists are more inclined than the other two
 groups to have premiums reflect expected loss.
@@ -35,39 +35,39 @@ the theorists give more weight to the efficiency
 aspects of the actuarial model, whereas the
 health economists and the practicing physicians
 give more weight to the distributional aspects.
-Is there a close relationship between the re-
-spondents' scores on the indexes and their
-responses to the positive questions? The corre-
-lation coefficients presented in Table 4 show
-that the answer is overwhelmingly in the nega-
-tive. For the national health insurance index
+Is there a close relationship between the respondents'
+scores on the indexes and their
+responses to the positive questions? The correlation
+coefficients presented in Table 4 show
+that the answer is overwhelmingly in the negative.
+For the national health insurance index
 there is only one positive question (10) for one
-group (the health economists) that reaches sta-
-tistical significance with p < 0.05. For the ac-
-tuarial model index, only questions 9 and 10
+group (the health economists) that reaches statistical
+significance with p < 0.05. For the actuarial
+model index, only questions 9 and 10
 show a significant relationship for the health
 economists, and questions 10 and 12 for all
-groups taken together. Whatever it is that is de-
-termining the respondents' positions with regard
-to national health insurance or the actuarial ap-
-proach, it is not their views on the seven positive
+groups taken together. Whatever it is that is determining
+the respondents' positions with regard
+to national health insurance or the actuarial approach,
+it is not their views on the seven positive
 questions.
 Correlations between the indexes and the six
 policy-value questions not utilized in their
 construction also are typically low, with one
 striking exception. Respondents agreeing with
-question 5, which calls for national standard-
-ized health insurance benefit packages, also
+question 5, which calls for national standardized
+health insurance benefit packages, also
 support national health insurance and just as
 clearly reject the actuarial approach for private
 insurance underwriting. The actuarial model
-index is also negatively correlated with agree-
-ment with question 1.
+index is also negatively correlated with agreement
+with question 1.
 The weak relationship between the positive
 questions and the two indexes is also revealed
-in Table 5, which presents the results of re-
-gressing the indexes on the positive ques-
-tions.38 In the national health insurance
+in Table 5, which presents the results of regressing
+the indexes on the positive questions.
+38 In the national health insurance
 38 The reliability of the OLS regressions was checked
 in several ways: values for each respondent were predicted
 from each regression and found to be always between 0

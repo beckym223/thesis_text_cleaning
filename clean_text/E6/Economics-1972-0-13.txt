@@ -1,35 +1,35 @@
 pound of productivity increase and price
 inflation-is the same as the trend in
-wages. But in some markets the equilib-
-rium wage will be rising faster, and in
+wages. But in some markets the equilibrium
+wage will be rising faster, and in
 others slower, than the economy-wide
 wage trend.
 A "natural rate" result follows if actual
-wage increases feed fully into the equilib-
-rium components of future wage increases.
+wage increases feed fully into the equilibrium
+components of future wage increases.
 There will be acceleration whenever the
 non-linear disequilibrium effects are on
 average positive, and steady inflation, that
 is stochastically steady inflation, only at
 unemployment rates high enough to make
-the disequilibrium effects wash out. Phil-
-lips tradeoffs exist in the short run, and
+the disequilibrium effects wash out. Phillips
+tradeoffs exist in the short run, and
 the time it takes for them to evaporate
 depends on the lengths of the lags with
 which today's actual wage gains become
 tomorrow's standards.
-A rather minor modification may pre-
-serve Phillips tradeoffs in the long run.
+A rather minor modification may preserve
+Phillips tradeoffs in the long run.
 Suppose there is a floor on wage change in
 excess supply markets, independent of the
 amount of excess supply and of the past
 history of wages and prices. Suppose, for
-example, that wage change is never nega-
-tive; it is either zero or what the response
+example, that wage change is never negative;
+it is either zero or what the response
 function says, whichever is algebraically
 larger. So long as there are markets where
-this floor is effective, there can be determi-
-nate rates of economy-wide wage inflation
+this floor is effective, there can be determinate
+rates of economy-wide wage inflation
 for various levels of aggregate demand.
 Markets at the floor do not increase their
 contributions to aggregate wage inflation
@@ -39,8 +39,8 @@ experience. But the frequency of such
 markets diminishes, it is true, both with
 overall demand and with inflation. The
 floor phenomenon can preserve a Phillips
-tradeoff within limits, but one that be-
-comes ever more fragile and vanishes as
+tradeoff within limits, but one that becomes
+ever more fragile and vanishes as
 greater demand pressure removes markets
 from contact with the zero floor. The
 model implies a long-run Phillips curve
@@ -50,18 +50,18 @@ rate of unemployment.
 These implications seem plausible and
 even realistic. It will be objected, however,
 that any permanent floor independent of
-general wage and price history and ex-
-pectation must indicate money illusion.
+general wage and price history and expectation
+must indicate money illusion.
 The answer is that the floor need not be
 permanent in any single market. It could
 give way to wage reduction when enough
 unemployment has persisted long enough.
 But with stochastic intersectoral shifts of
 demand, markets are always exchanging
-roles, and there can always be some mar-
-kets, not always the same ones, at the floor.
-This model avoids the empirically ques-
-tionable implication of the usual natural
+roles, and there can always be some markets,
+not always the same ones, at the floor.
+This model avoids the empirically questionable
+implication of the usual natural
 rate hypothesis that unemployment rates
 only slightly higher than the critical rate
 will trigger ever-accelerating deflation.
@@ -72,16 +72,16 @@ were slow to give way even in the face of
 massive unemployment and substantial
 deflation in consumer prices. Finally in
 1932 and 1933 money wage rates fell more
-sharply, in response to prolonged unem-
-ployment, layoffs, shutdowns, and to
+sharply, in response to prolonged unemployment,
+layoffs, shutdowns, and to
 threats and fears of more of the same.
 I have gone through this example to
 make the point that irrationality, in the
 sense that meaningless differences in
 money values permanently affect individual
 behavior, is not logically necessary for
-the existence of a long-run Phillips trade-
-off. In full long-run equilibrium in all
+the existence of a long-run Phillips tradeoff.
+In full long-run equilibrium in all
 markets, employment and unemployment
 would be independent of the levels and
 rates of change of money wage rates and

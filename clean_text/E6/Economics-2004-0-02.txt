@@ -2,13 +2,13 @@ Social Securityt
 By PETER DIAMOND*
 I frequently find economists who express a
 view of the system that is very far from mine.
-For example, many young economists and eco-
-nomics students say that they expect to get no
-benefits at all from Social Security. This expec-
-tation does not seem sensible to me. If there is
+For example, many young economists and economics
+students say that they expect to get no
+benefits at all from Social Security. This expectation
+does not seem sensible to me. If there is
 no legislation changing Social Security, trust
-fund assets and payroll tax revenue (and reve-
-nue from the taxation of benefits) are projected
+fund assets and payroll tax revenue (and revenue
+from the taxation of benefits) are projected
 to be sufficient to pay all the benefits scheduled
 under current law until 2042 (Board of Trustees
 of Social Security and Medicare, 2003). After
@@ -16,24 +16,24 @@ the trust fund assets are exhausted the payroll
 tax revenue would continue to be available to
 pay benefits, with the flow of revenues at that
 time sufficient to pay roughly three-quarters of
-the benefits scheduled in current law. The esti-
-mate for the end of the 75-year projection pe-
-riod shows enough revenue to pay roughly
+the benefits scheduled in current law. The estimate
+for the end of the 75-year projection period
+shows enough revenue to pay roughly
 two-thirds of scheduled benefits. With initial
-benefits indexed to earnings, average real ben-
-efits would be higher than today, although re-
-placement rates would only be roughly 60
+benefits indexed to earnings, average real benefits
+would be higher than today, although replacement
+rates would only be roughly 60
 percent of current levels for the medium
 worker. This projection is a far cry from no
 benefits.
 Moreover, I anticipate that Congress will act
 before the trust fund is exhausted, both lowering
-t Presidential Address delivered at the one hundred fif-
-teenth meeting of the American Economic Association,  January 4, 2004, San Diego, CA.
+t Presidential Address delivered at the one hundred fifteenth
+meeting of the American Economic Association,  January 4, 2004, San Diego, CA.
 * Department of Economics, E52-344, Massachusetts In-  stitute of Technology, 50 Memorial Drive, Cambridge, MA  02142 (e-mail: pdiamond@MIT.EDU). I am grateful to  Robert Hall for suggesting a framework for approaching  Social Security for this address and to him and Henry  Aaron, Alan Auerbach, Abhijit Banerjee, Nicholas Barr,  Olivier Blanchard, Jeffrey Brown, Courtney Coile, Dora  Costa, Thomas Davidoff, Esther Duflo, Jonathan Gruber,  David Laibson, Jeffrey Liebman, Assar Lindbeck, Alicia  Munnell, Peter Orszag, James Poterba, Virginia Reno, Ber-  nard Saffran, Eytan Sheshinski, Robert Solow, and Peter  Temin for valuable comments on previous drafts, and to the  National Science Foundation for financial support under  Grant No. SES0239380. The address draws heavily on the  thinking behind and the content of my book with Peter R.  Orszag (2004). I have greatly enjoyed and profited from the
 collaboration on this and earlier work.
-benefits relative to those scheduled under cur-
-rent law and providing additional revenues to
+benefits relative to those scheduled under current
+law and providing additional revenues to
 finance higher benefits than are payable after
 2042. After all, the financial problem of Social
 Security is not so very large (unlike the larger
@@ -55,8 +55,8 @@ with a mix of benefit reductions and revenue
 increases does not require large changes, nor
 does it require a fundamental restructuring of
 the program.
-It is not just in the perception of the projec-
-tions and the forecast of politics that I find
+It is not just in the perception of the projections
+and the forecast of politics that I find
 myself in disagreement with opinions that I
 often hear. More generally, I think the system
 works better than many economists think. I

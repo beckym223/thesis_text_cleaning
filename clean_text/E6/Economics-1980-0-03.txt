@@ -1,73 +1,73 @@
-change in the right direction or is not re-
-sponding to the signals it receives. My own
-belief in this case lies with the market-
-failure side. That is to say, I believe that
+change in the right direction or is not responding
+to the signals it receives. My own
+belief in this case lies with the marketfailure
+side. That is to say, I believe that
 what looks like involuntary unemployment
 is involuntary unemployment.
 Of course that conclusion only leads to
 another question. If the labor market often
 fails to clear, we had better figure out why.
-There is no shortage of candidate hypothe-
-ses. Here I think it is worthwhile to insist on
+There is no shortage of candidate hypotheses.
+Here I think it is worthwhile to insist on
 a commonplace: although it is natural for
 academic people to seek a single weighty
-Answer to a weighty Question, if only be-
-cause it is so satisfying to find one, it is
-quite likely that many of the candidate hy-
-potheses are true, each contributing a little
+Answer to a weighty Question, if only because
+it is so satisfying to find one, it is
+quite likely that many of the candidate hypotheses
+are true, each contributing a little
 to the explanation of labor-market failure.
 Now the second general point I want to
 make is one that I am surprised to hear
 myself making. While I find several of the
 candidate hypotheses entirely believable, I
 am inclined to emphasize some that might
-be described as noneconomic. More pre-
-cisely, I suspect that the labor market is a
+be described as noneconomic. More precisely,
+I suspect that the labor market is a
 little different from other markets, in the
 sense that the objectives of the participants
 are not always the ones we normally impute
-to economic agents, and some of the con-
-straints by which they feel themselves
-bound are not always the conventional con-
-straints. In other words, I think that among
+to economic agents, and some of the constraints
+by which they feel themselves
+bound are not always the conventional constraints.
+In other words, I think that among
 the reasons why market-clearing wage rates
 do not establish themselves easily and adjust
 quickly to changing conditions are some
-that could be described as social conven-
-tions, or principles of appropriate behavior,
+that could be described as social conventions,
+or principles of appropriate behavior,
 whose source is not entirely individualistic.
-I said that I am a little surprised at my-
-self. That is because I am generally stodgy
+I said that I am a little surprised at myself.
+That is because I am generally stodgy
 about assumptions, and like to stay as close
-to the mainstream framework as the prob-
-lem at hand will allow. In any case, I think
+to the mainstream framework as the problem
+at hand will allow. In any case, I think
 that the unconventional elements in what I
 have to say are only part of the story. And I
 assure you that I am not about to peddle
 amateur sociology to a captive audience. All
-I do mean to suggest is that we may predis-
-pose ourselves to misunderstand important
+I do mean to suggest is that we may predispose
+ourselves to misunderstand important
 aspects of unemployment if we insist on
 modelling the buying and selling of labor
 within a set of background assumptions
 whose main merit is that they are very well
 adapted to models of the buying and selling
 of cloth. Far from advocating that we all
-practice sociology, I am pleasantly im-
-pressed at how much mileage you can get
+practice sociology, I am pleasantly impressed
+at how much mileage you can get
 from the methods of conventional economic
 analysis if only you are willing to broaden
 the assumptions a little.
 I
 It might be interesting to have a history of
-the evolution of economic ideas about un-
-employment, and their relation both to the
+the evolution of economic ideas about unemployment,
+and their relation both to the
 internal logic of the subject and to the
 parallel evolution of the institutions of the
 labor market. I am not sufficiently well read
 to provide that kind of survey. To make my
-point about the persistence of the market-
-efficiency market-failure tension, I took a
+point about the persistence of the marketefficiency
+market-failure tension, I took a
 short cut. I went back to reread Pigou's
 Lapses from Full Employment, a little book I
 remember having been assigned to read as a
@@ -78,15 +78,15 @@ The Theory of Unemployment is dated April
 1933, after a decade of poor performance
 and relatively high unemployment in Great
 Britain, well into the Great Depression, and
-before the publication of the General The-
-ory. The Preface to Lapses from Full Em-
-ployment (another example of a revealing
+before the publication of the General Theory.
+The Preface to Lapses from Full Employment
+(another example of a revealing
 vocabulary) is dated November 1944, after
 five years of the war that put an end to the
 depression, and well after the appearance of
 the General Theory. That seemed like an
-interesting approach to the historical ques-
-tion, because current controversies in
+interesting approach to the historical question,
+because current controversies in
 macro-economic theory are often described
 as a debate between "Keynesians" and
 others- "monetarists," "Classicals," or
@@ -94,8 +94,8 @@ others- "monetarists," "Classicals," or
 Pigou, besides being a great economist, was
 in particular the embodiment of the
 Marshallian tradition, the leading figure in
-the "classical economics" that the Keynes-
-ian revolution was explicitly intended to
+the "classical economics" that the Keynesian
+revolution was explicitly intended to
 overthrow.
-Lapses makes interesting rereading. It em-
-phasizes the money wage, whereas its prede-
+Lapses makes interesting rereading. It emphasizes
+the money wage, whereas its prede-

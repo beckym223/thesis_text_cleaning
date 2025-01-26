@@ -1,10 +1,10 @@
 B. Reciprocity and Altruism
-Reciprocity is a simple form of social in-
-teraction, present in economic trade and ex-
-plained by self-interest. Reciprocity is easy to
-establish when it is synchronous, as in bilat-
-eral barter. Asynchronous reciprocity, how-
-ever, requires reputation and trust. Norms for
+Reciprocity is a simple form of social interaction,
+present in economic trade and explained
+by self-interest. Reciprocity is easy to
+establish when it is synchronous, as in bilateral
+barter. Asynchronous reciprocity, however,
+requires reputation and trust. Norms for
 fair practice, and sanctions for bad behavior,
 may evolve in social networks to facilitate
 asynchronous reciprocity, and individuals
@@ -12,16 +12,16 @@ may by habit or internalization conform to
 these norms even in novel situations where
 the normal cycle of approval and reputation is
 suspended (see Fehr and Klaus M. Schmidt,
-1999; Laetitia B. Mulder et al., 2005). Con-
-sider the single-shot ultimatum game with
-anonymous players. Player 1 proposes a divi-
-sion of a prize of 100 units. If Player 2
+1999; Laetitia B. Mulder et al., 2005). Consider
+the single-shot ultimatum game with
+anonymous players. Player 1 proposes a division
+of a prize of 100 units. If Player 2
 accepts, the players get the proposed shares;
 otherwise, they get nothing. It is rational for
 Player 2 to accept any positive amount, and
-thus rational for Player 1 to offer the mini-
-mum positive amount. If, however, the prob-
-ability of acceptance a(s) by Player 2 is less
+thus rational for Player 1 to offer the minimum
+positive amount. If, however, the probability
+of acceptance a(s) by Player 2 is less
 than one when the share s offered by Player 1
 is low, then Player l's optimal strategy is to
 maximize a(s) vg (1 - s). Students in a cross  section of developed countries play similarly.
@@ -38,39 +38,39 @@ isolated societies whose ways of life provide
 natural experiments on the influence of cultural
 norms (see Joseph Henrich et al., 2001, 2004).
 The findings overall are that cultures where
-cooperative activity is important, and particu-
-larly where people are exposed to markets, in-
-duce offers in the ultimatum game that are more
+cooperative activity is important, and particularly
+where people are exposed to markets, induce
+offers in the ultimatum game that are more
 equitable.
 Genetic altruism is the phenomenon of
 self-sacrifice for the good of your family or
 kinship group. Genetic altruism appears to
 explain cooperation in most species, and
-seems to have a convincing evolutionary ba-
-sis. It has been a central theme of socio-
-biologists in the past four decades, but the
+seems to have a convincing evolutionary basis.
+It has been a central theme of sociobiologists
+in the past four decades, but the
 concept itself is as old as the concept of
 self-interest, as in a quote from Adam Smith
 (1759):
-Every man feels [after himself, the plea-
-sures and pains] of the members of his
+Every man feels [after himself, the pleasures
+and pains] of the members of his
 own family. Those who usually live in the
-same house with him, his parents, his  children, his brothers and sisters, are nat-
-urally the objects of his warmest affec-
-tions. They are naturally and usually the
-persons upon whose happiness or mis-
-ery his conduct must have the greatest
+same house with him, his parents, his  children, his brothers and sisters, are naturally
+the objects of his warmest affections.
+They are naturally and usually the
+persons upon whose happiness or misery
+his conduct must have the greatest
 influence.
-Despite its recognized importance, particu-
-larly in economic models of the family and
-of intergenerational transfers, genetic altru-
-ism has not been systematically studied as a
-determinant of economic behavior. The oper-
-ation of genetic selection could be very indi-
-rect. Thus, the acquisition of language, the
+Despite its recognized importance, particularly
+in economic models of the family and
+of intergenerational transfers, genetic altruism
+has not been systematically studied as a
+determinant of economic behavior. The operation
+of genetic selection could be very indirect.
+Thus, the acquisition of language, the
 exploitation of comparative advantage, the
-formation of successful defenses against ma-
-rauders and disease, and a disposition to "fair
+formation of successful defenses against marauders
+and disease, and a disposition to "fair
 play" that reduces interpersonal conflict may
 all arise from the selective advantage of group
 traits that promote sociality. Then altruistic
@@ -78,9 +78,9 @@ behavior, including pure altruism with gifts
 to unrelated individuals with no possibility
 of personal gain, might be explained as an
 indirect consequence of genetic self-interest,
-as might the "warm glow" most humans ex-
-perience when placed in a supportive, coop-
-erative environment, the distaste people have
+as might the "warm glow" most humans experience
+when placed in a supportive, cooperative
+environment, the distaste people have
 for aggressive, greedy traders, the potlatch
 pride of being more generous than your
 neighbors.
@@ -88,11 +88,11 @@ Summarizing, physiological, behavioral, and
 sociological evidence indicate strongly that
 consumers will often fail to promote their
 self-interest reliably when choices involve risk,
-ambiguity, integration of experience, and per-
-ceptions of remote and/or unlikely events. Con-
-sumers' failures will loom large, and this may
-generate agoraphobia. Market-oriented eco-
-nomic policy needs to take into account how
+ambiguity, integration of experience, and perceptions
+of remote and/or unlikely events. Consumers'
+failures will loom large, and this may
+generate agoraphobia. Market-oriented economic
+policy needs to take into account how
 consumers' market experiences and outcomes
 will influence well-being and acceptance of
 market solutions.

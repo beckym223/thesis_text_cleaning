@@ -2,91 +2,91 @@ THE AMERICAN ECONOMIC REVIEW
 the realized net cash balance of Social Security
 is added to the trust fund and another year is
 added at the end of the 75-year horizon. With a
-constant tax rate and the current benefit for-
-mula, the added year is in worse fiscal shape
+constant tax rate and the current benefit formula,
+the added year is in worse fiscal shape
 than the average of years before. Indeed of the
 current 75-year actuarial deficit of 1.9 percent
 of taxable payroll, a full 1.1 percent is due to the
 fact that the projection now goes 20 years fur-  ther into the future than it did in 1983.
-The 1983 legislation included future de-
-creases in benefits by increasing the age for full
+The 1983 legislation included future decreases
+in benefits by increasing the age for full
 benefits. At the time of the 1983 legislation,
 there was still a tax rate increase on the books.
 That was kept and took effect in 1990. Indeed
 from the initiation of the program in 1935 until
 1990, there was always a future tax rate increase
 on the books. Given the political ease of raising
-benefits or cutting taxes, and the political diffi-
-culty of raising taxes or cutting benefits, having
-future tax rate increases and future benefit de-
-creases on the books lowers the political cost of
+benefits or cutting taxes, and the political difficulty
+of raising taxes or cutting benefits, having
+future tax rate increases and future benefit decreases
+on the books lowers the political cost of
 preserving balance, since it is easier to legislate
-future pain than current pain. Avoiding a recur-
-rence of actuarial imbalance a short time after
+future pain than current pain. Avoiding a recurrence
+of actuarial imbalance a short time after
 reform requires a substantial trust fund at the
 end of the projection period, so that it can fall
 for awhile without triggering imbalance,
 and/or a change in the time shape of taxes and
-benefits. A changed time shape can be legis-
-lated directly (as we legislated an increase in
-the full benefit age in 1983 and have legis-
-lated future tax increases) or could be ex-
-pected from the adoption of further automatic
+benefits. A changed time shape can be legislated
+directly (as we legislated an increase in
+the full benefit age in 1983 and have legislated
+future tax increases) or could be expected
+from the adoption of further automatic
 adjustments (for example, by including an
 adjustment for life expectancy).
-Before considering the choice between legis-
-lated changes and automatic adjustment, let us
+Before considering the choice between legislated
+changes and automatic adjustment, let us
 consider the allocation in a complete-market
-Arrow-Debreu equilibrium. In the model, out-
-comes are fully specified. Given subjective be-
-liefs about the probability structure of the states
-of nature, one can express the value of equilib-
-rium for an individual. Also fully specified is
+Arrow-Debreu equilibrium. In the model, outcomes
+are fully specified. Given subjective beliefs
+about the probability structure of the states
+of nature, one can express the value of equilibrium
+for an individual. Also fully specified is
 standard modeling of incomplete markets,
-which replaces complete market auctioneer-
-announced future allocations by accurate pre-
-dictions of future market equilibria as repeated
+which replaces complete market auctioneerannounced
+future allocations by accurate predictions
+of future market equilibria as repeated
 trading unfolds. Time-inconsistent individual
 behavior does not interfere with the ability to
 describe outcomes in this way, although it will
 generally interfere with the efficiency properties
-of equilibrium.  Most social security systems lack the com-
-pleteness that is needed to specify outcomes
-solely in terms of underlying economic vari-
-ables (and the stochastic structure of states of
+of equilibrium.  Most social security systems lack the completeness
+that is needed to specify outcomes
+solely in terms of underlying economic variables
+(and the stochastic structure of states of
 nature). U.S. legislation determines the payroll
 tax rate for each year into the indefinite future.
 The level of earnings that are subject to tax each
 year is automatically indexed-thereby relating
-taxable earnings to economic outcomes.63 Leg-
-islation also sets down the rules for benefit
-payments in terms of individual earnings histo-
-ries and price and wage indices. While each part
+taxable earnings to economic outcomes.63 Legislation
+also sets down the rules for benefit
+payments in terms of individual earnings histories
+and price and wage indices. While each part
 is fully specified, no mechanism ensures that the
 Social Security budget constraint is satisfied.
 Thus, there is the expectation that sooner or
 later something will have to be changed. That is,
 in order to model future labor and consumption,
 we need to model future legislative outcomes.
-This is hard.64 In some exercises, the Congres-
-sional Budget Office has been instructed by law
+This is hard.64 In some exercises, the Congressional
+Budget Office has been instructed by law
 to ignore some possible future legislation (such
 as extensions of sunsets of income tax changes).
-But this is not a satisfactory solution for aca-
-demic analysts, nor for individuals who are
+But this is not a satisfactory solution for academic
+analysts, nor for individuals who are
 making lifetime plans.
 We have a theory using incomplete contracts
 as part of the theory of the firm. In that theory
 agents have well-defined property rights and
-well-specified behaviors that determine the out-
-comes not covered by the contracts, With in-
-complete legislation, the future legislative
-process plays a key role in determining out-
-comes that are incompletely specified.6 Ana-
-lyzing an equilibrium that includes a legislative
-process is difficult-requiring modeling the in-
-teraction of the personal preferences of elected
+well-specified behaviors that determine the outcomes
+not covered by the contracts, With incomplete
+legislation, the future legislative
+process plays a key role in determining outcomes
+that are incompletely specified.6 Analyzing
+an equilibrium that includes a legislative
+process is difficult-requiring modeling the interaction
+of the personal preferences of elected
 officials with their concerns about reelection, as
 well as election outcomes (R. Douglas Arnold,
-1990). It is not that this is unknowable in prin-
-ciple, but that w
+1990). It is not that this is unknowable in principle,
+but that w

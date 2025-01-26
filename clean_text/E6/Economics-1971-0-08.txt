@@ -3,30 +3,30 @@ with large sets of variables was to reduce
 their number by averaging them out or
 what is essentially the same, combining
 them into broad aggregates; now we can
-manipulate complicated analytical sys-
-tems without suppressing the identity of
+manipulate complicated analytical systems
+without suppressing the identity of
 their individual elements. There is a
 certain irony in the fact that, next to the
 fast-growing service industries, the areas
-whose coverage by the Census is par-
-ticularly deficient are the operations of
+whose coverage by the Census is particularly
+deficient are the operations of
 government agencies, both federal and
 local.
-To place all or even the major responsi-
-bility for the collection of economic data
+To place all or even the major responsibility
+for the collection of economic data
 in the hands of one central organization
-would be a mistake. The prevailing de-
-centralized approach that permits and
+would be a mistake. The prevailing decentralized
+approach that permits and
 encourages a great number of government
-agencies, non-profit institutions and pri-
-vate businesses engaged in data gathering
+agencies, non-profit institutions and private
+businesses engaged in data gathering
 activities acquitted itself very well. Better
-information means more detailed informa-
-tion and detailed specialized information
+information means more detailed information
+and detailed specialized information
 can be best collected by those immediately
 concerned with a particular field. What is,
-however, urgently needed is the establish-
-ment, maintenance and enforcement of
+however, urgently needed is the establishment,
+maintenance and enforcement of
 coordinated uniform classification systems
 by all agencies, private as well as public,
 involved in this work. Incompatible data
@@ -37,31 +37,31 @@ by the fact that because of differences in
 classification, domestic output data cannot
 be compared, for many goods, with the
 corresponding export and import figures.
-Neither can the official employment sta-
-tistics be related without laborious adjust-
-ments to output data, industry by in-
-dustry. An unreasonably high proportion
-of material and intellectual resources de-
-voted to statistical work is now spent not
+Neither can the official employment statistics
+be related without laborious adjustments
+to output data, industry by industry.
+An unreasonably high proportion
+of material and intellectual resources devoted
+to statistical work is now spent not
 on the collection of primary information
-but on a frustrating and wasteful struggle  with incongruous definitions and irreconcil-
-able classifications.
-Without invoking a misplaced methodo-
-logical analogy, the task of securing a
+but on a frustrating and wasteful struggle  with incongruous definitions and irreconcilable
+classifications.
+Without invoking a misplaced methodological
+analogy, the task of securing a
 massive flow of primary economic data can
 be compared to that of providing the high
-energy physicists with a gigantic acceler-
-ator. The scientists have their machines
+energy physicists with a gigantic accelerator.
+The scientists have their machines
 while the economists are still waiting for
 their data. In our case not only must the
 society be willing to provide year after
 year the millions of dollars required for
 maintenance of a vast statistical machine,
-but a large number of citizens must be pre-
-pared to play, at least, a passive and oc-
-casionally even an active part in actual
-fact-finding operations. It is as if the elec-
-trons and protons had to be persuaded to
+but a large number of citizens must be prepared
+to play, at least, a passive and occasionally
+even an active part in actual
+fact-finding operations. It is as if the electrons
+and protons had to be persuaded to
 cooperate with the physicist.
 The average American does not seem to
 object to being interviewed, polled, and
@@ -77,17 +77,17 @@ know can't hurt you" and that knowledge
 might be dangerous: it may generate a
 desire to tinker with the system. The
 experience of these years seems, however,
-to have convinced not only most econo-
-mists-with a few notable exceptions-but
+to have convinced not only most economists-
+with a few notable exceptions-but
 also the public at large that a lack of
 economic knowledge can hurt badly. Our
 free enterprise system has rightly been
 compared to a gigantic computing machine
-capable of solving its own problems auto-
-matically. But any one who has had some
+capable of solving its own problems automatically.
+But any one who has had some
 practical experience with large computers
 knows that they do break down and can't
-operate unattended. To keep the auto-
-matic, or rather the semi-automatic, engine
+operate unattended. To keep the automatic,
+or rather the semi-automatic, engine
 of our economy in good working order we
 must not only understand the general

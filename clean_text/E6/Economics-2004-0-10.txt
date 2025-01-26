@@ -1,37 +1,37 @@
 DIAMOND: SOCIAL SECURITY
 B. Labor Incentives
 The implicitly uniform-price annuitization in
-Social Security also affects labor market incen-
-tives. The use of uniform annuity pricing (over-
-all or within still heterogeneous risk classes)
-violates the conditions for first-best optimiza-
-tion. Compared to first-best pricing, the deci-
-sion that would be distorted is that of labor
+Social Security also affects labor market incentives.
+The use of uniform annuity pricing (overall
+or within still heterogeneous risk classes)
+violates the conditions for first-best optimization.
+Compared to first-best pricing, the decision
+that would be distorted is that of labor
 supply. If annuity pricing is breakeven, then
 some are being taxed on work while others are
 being subsidized compared to a system where
-annuities are priced for individual life expec-
-tancies. An alternative counterfactual would be
-a failure to annuitize at all. Without annuitiza-
-tion, we would have more accurate labor market
+annuities are priced for individual life expectancies.
+An alternative counterfactual would be
+a failure to annuitize at all. Without annuitization,
+we would have more accurate labor market
 incentives person-by-person, but earnings would
-finance less satisfactory consumption trajecto-
-ries. We would fail to insure not only life ex-
-pectancy realizations but also changes in life
+finance less satisfactory consumption trajectories.
+We would fail to insure not only life expectancy
+realizations but also changes in life
 expectancy as information accrues. That is,
-even unfair annuities can raise individual wel-
-fare if the alternative is no annuities.
+even unfair annuities can raise individual welfare
+if the alternative is no annuities.
 I conclude that having a mandated retirement
-income program provide its benefits as annu-
-ities is sensible.
+income program provide its benefits as annuities
+is sensible.
 III. Workers and Families: Young Child,
 Spouse, and Survivor Benefits
-Social Security provides more than just re-
-tirement benefits for workers. It provides bene-
-fits for disabled workers and their families, for
+Social Security provides more than just retirement
+benefits for workers. It provides benefits
+for disabled workers and their families, for
 young children of a deceased worker, and for
-elderly spouses and surviving spouses. In addi-
-tion, a divorced spouse may be eligible for the
+elderly spouses and surviving spouses. In addition,
+a divorced spouse may be eligible for the
 same benefits as a spouse if the marriage lasted
 at least ten years.31 Benefits other than worker
 benefits are referred to as auxiliary benefits.
@@ -51,8 +51,8 @@ the larger benefit.32 A central design feature is
 that these auxiliary benefits are not paid for on
 an individual basis-workers with the same
 earnings history receive the same retired worker
-benefits whether or not they have family mem-
-bers or ex-spouses collecting auxiliary benefits.
+benefits whether or not they have family members
+or ex-spouses collecting auxiliary benefits.
 Auxiliary benefits raise four questions. Does
 it make sense to mandate benefits for family
 members and ex-spouses? Does it make sense to
@@ -61,35 +61,35 @@ sense to finance all of the auxiliary benefits
 from the program as a whole rather than in part  or in full from the benefits of the retired worker?
 Are the details of benefit determination rules as
 well-designed as might be?
-Let me start with the first, most basic ques-
-tion. It makes sense to provide auxiliary benefits
+Let me start with the first, most basic question.
+It makes sense to provide auxiliary benefits
 since studies suggest that significant numbers of
 workers do not insure their lives adequately and
-would not make good choices between single-
-and joint-life annuities. More generally we are
+would not make good choices between singleand
+joint-life annuities. More generally we are
 learning more about the ways in which the
 allocation of resources within the family does
 not conform to a single maximization with a
 single budget constraint. Since the government
 cares about the different family members (and
 not just the worker), direct allocations to family
-members matter since they will change the al-
-location of resources within the family. Protect-
-ing family members is a role governments have
+members matter since they will change the allocation
+of resources within the family. Protecting
+family members is a role governments have
 recognized for centuries.
 The other questions are more complex and
 need more detailed analyses. Two issues are
-central here. These are the positive and norma-
-tive issues of how consumption is actually al-
-located within families and how to combine
-evaluations and rules that affect both individu-
-als and families. Research on the determination
+central here. These are the positive and normative
+issues of how consumption is actually allocated
+within families and how to combine
+evaluations and rules that affect both individuals
+and families. Research on the determination
 of allocations within the family is still in an
 early stage of development. And normative
-analysis has not progressed much beyond iden-
-tification of the dilemma in recognizing both
+analysis has not progressed much beyond identification
+of the dilemma in recognizing both
 32 If the spouse or survivor benefit is larger, the person is  referred to as having dual eligibility. In 2002, 38 percent of  elderly women received only a worker benefit, 34 percent  received only an auxiliary benefit and 28 percent were  "dually entitled." These fractions are expected to change as
-more and more women with substantial careers reach retire-
-ment age.
+more and more women with substantial careers reach retirement
+age.
 VOL. 94 NO. 1
 9

@@ -1,40 +1,40 @@
 Interest in health economics has soared over
-the past three decades, stimulated by intellec-
-tual innovations, greater availability of data,
+the past three decades, stimulated by intellectual
+innovations, greater availability of data,
 and, most importantly, a surge in health care
 spending from 6 to 14 percent of GDP.' An
 11 -fold increase2 in the number of Ph.D.s has
-enabled many professional schools, govern-
-ment agencies,3 and research institutes to add
+enabled many professional schools, government
+agencies,3 and research institutes to add
 health economists to their staffs. Nevertheless,
 the health care debate of 1993-1994 benefited
 much less than it could have from the results
 of their research.
 In this lecture I identify the primary sources
-of modern health economics and describe in-
-teractions between the discipline and the field
-of health, drawing heavily on my personal ex-
-perience. I then turn to the question of why
+of modern health economics and describe interactions
+between the discipline and the field
+of health, drawing heavily on my personal experience.
+I then turn to the question of why
 economists did not have more impact on
 health care reform. I report and analyze the
-answers of health economists, economic the-
-orists, and practicing physicians to a survey I
+answers of health economists, economic theorists,
+and practicing physicians to a survey I
 conducted in 1995. My principal conclusion is
 that value differences among economists, as
-well as among all Americans, are a major bar-
-rier to effective policy-making. I discuss the
+well as among all Americans, are a major barrier
+to effective policy-making. I discuss the
 implications of the importance of values for
 economics and conclude the lecture with my
-recommendations for health care reform-
-recommendations based on my values as well
+recommendations for health care reformrecommendations
+based on my values as well
 as my understanding of health economics.
 I. The Past
 In 1963 a seminal paper by Kenneth Arrow
-discussed risk aversion, moral hazard, asym-
-metrical information, philanthropic externali-
-ties, and numerous other topics that have since
-played major roles in health economics re-
-search.4 He saw that uncertainty about health
+discussed risk aversion, moral hazard, asymmetrical
+information, philanthropic externalities,
+and numerous other topics that have since
+played major roles in health economics research.
+4 He saw that uncertainty about health
 status and about the consequences of care was
 the key to understanding the health sector from
 both positive and normative perspectives. As
@@ -42,18 +42,18 @@ Arrow wrote, "Recovery from disease is as
 unpredictable as its incidence" ( 1963 p. 951 ).
 At the same time that Arrow was depicting
 the theoretical landscape, Martin Feldstein
-was pioneering in the application of quantita-
-tive methods such as 2-stage least squares,
-principal component analysis, and linear pro-
-gramming to the estimation of production
-functions and other important economic as-
-pects of medical care. His numerous papers
+was pioneering in the application of quantitative
+methods such as 2-stage least squares,
+principal component analysis, and linear programming
+to the estimation of production
+functions and other important economic aspects
+of medical care. His numerous papers
 analyzing the British National Health Service
 formed the basis for his Ph.D. thesis at Oxford
 University (Feldstein, 1967).
-A third line of work that has had a signif-
-icant influence on health economics also be-
-gan in the early 1960's with the National
+A third line of work that has had a significant
+influence on health economics also began
+in the early 1960's with the National
 Bureau of Economic Research Conference
 on Investment in Human Beings (1962) and
 Gary S. Becker's treatise on human capital

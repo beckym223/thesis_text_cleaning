@@ -1,17 +1,17 @@
-and that potential entrants find it ap-
-propriate to evaluate the profitability of en-
-try in terms of the incumbent firms' pre-entry
-prices. In short, it is a requirement of con-
-testability that there be no cost discrimina-
-tion against entrants. Absolute freedom of
+and that potential entrants find it appropriate
+to evaluate the profitability of entry
+in terms of the incumbent firms' pre-entry
+prices. In short, it is a requirement of contestability
+that there be no cost discrimination
+against entrants. Absolute freedom of
 exit, to us, is one way to guarantee freedom
 of entry. By this we mean that any firm can
 leave without impediment, and in the process
 of departure can recoup any costs incurred
 in the entry process. If all capital is salable
-or reusable without loss other than that cor-
-responding to normal user cost and deprecia-
-tion, then any risk of entry is eliminated.
+or reusable without loss other than that corresponding
+to normal user cost and depreciation,
+then any risk of entry is eliminated.
 Thus, contestable markets may share at
 most one attribute with perfect competition.
 Their firms need not be small or numerous
@@ -27,10 +27,10 @@ can go in, and, before prices change, collect
 his gains and then depart without cost, should
 the climate grow hostile.
 Shortage of time forces me to deal rather
-briefly with two of the most important prop-
-erties of contestable markets-their welfare
-attributes and the way in which they de-
-termine industry structure. I deal with these
+briefly with two of the most important properties
+of contestable markets-their welfare
+attributes and the way in which they determine
+industry structure. I deal with these
 briefly because an intuitive view of the logic
 of these parts of the analysis is not difficult
 to provide. Then I can devote a bit more
@@ -39,49 +39,49 @@ intertemporal models.
 A. Perfect Contestability and Welfare
 The welfare properties of contestable
 markets follow almost directly from their
-definition and their vulnerability to hit-and-
-run incursions. Let me list some of these
+definition and their vulnerability to hit-andrun
+incursions. Let me list some of these
 properties and discuss them succinctly.
 First, a contestable market never offers
-more than a normal rate of profit-its eco-
-nomic profits must be zero or negative, even
+more than a normal rate of profit-its economic
+profits must be zero or negative, even
 if it is oligopolistic or monopolistic. The
 reason is simple. Any positive profit means
 that a transient entrant can set up business,
 replicate a profit-making incumbent's output
-at the same cost as his, undercut the in-
-cumbent's prices slightly and still earn a
-profit. That is, continuity and the opportun-
-ity for costless entry and exit guarantee that
+at the same cost as his, undercut the incumbent'
+s prices slightly and still earn a
+profit. That is, continuity and the opportunity
+for costless entry and exit guarantee that
 an entrant who is content to accept a slightly
 lower economic profit can do so by selecting
 prices a bit lower than the incumbent's.
 In sum, in a perfectly contestable market
 any economic profit earned by an incumbent
-automatically constitutes an earnings oppor-
-tunity for an entrant who will hit and, if
+automatically constitutes an earnings opportunity
+for an entrant who will hit and, if
 necessary, run (counting his temporary but
 supernormal profits on the way to the bank).
 Consequently, in contestable markets, zero
 profits must characterize any equilibrium,
 even under monopoly and oligopoly.
-The second welfare characteristic of a con-
-testable market follows from the same argu-
-ment as the first. This second attribute of
+The second welfare characteristic of a contestable
+market follows from the same argument
+as the first. This second attribute of
 any contestable market is the absence of any
 sort of inefficiency in production in industry
 equilibrium. This is true alike of inefficiency
-of allocation of inputs, X-inefficiency, ineffi-
-cient operation of the firm, or inefficient
-organization of the industry. For any unnec-
-essary cost, like any abnormal profit, con-
-stitutes an invitation to entry. Of course, in
-the short run, as is true under perfect compe-
-tition, both profits and waste may be pres-
-ent. But in the long run, these simply cannot
+of allocation of inputs, X-inefficiency, inefficient
+operation of the firm, or inefficient
+organization of the industry. For any unnecessary
+cost, like any abnormal profit, constitutes
+an invitation to entry. Of course, in
+the short run, as is true under perfect competition,
+both profits and waste may be present.
+But in the long run, these simply cannot
 withstand the threat brandished by potential
-entrants who have nothing to lose by grab-
-bing at any opportunity for profit, however
+entrants who have nothing to lose by grabbing
+at any opportunity for profit, however
 transient it may be.
 A third welfare attribute of any long-run
 equilibrium in a contestable market is that
@@ -98,5 +98,5 @@ p must yield a total profit X + A7r which is
 greater than the profit, va, that can be earned
 by selling only y units of output at that price.
 Therefore, there must exist a price just
-slightly lower than p which enables the en-
-trant to undercut the incumbent and yet to
+slightly lower than p which enables the entrant
+to undercut the incumbent and yet to

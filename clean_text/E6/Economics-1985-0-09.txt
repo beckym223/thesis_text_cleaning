@@ -1,48 +1,48 @@
 ments which we call implicit contracts must
 provide for adjustments in wages that move
-towards market clearing in response to un-
-foreseeable permanent changes in relative
+towards market clearing in response to unforeseeable
+permanent changes in relative
 economic conditions. Finally, however, the
 substantial penalties which can be suffered if
-firms and workers respond to erroneous sig-
-nals by prematurely severing association call
+firms and workers respond to erroneous signals
+by prematurely severing association call
 for informal arrangements and agreements
-that produce a very slow and cautious ad-
-justment of wages even to what ultimately
+that produce a very slow and cautious adjustment
+of wages even to what ultimately
 turn out to be permanent changes in relative
 conditions.7
 It is not surprising, given the large social
 returns to continuity of association and the
-very great difficulty of distinguishing tem-
-porary from permanent changes in economic
-circumstances, that society should have de-
-veloped social conventions and informal
-agreements that minimize the sending of pre-
-mature signals for a reallocation of re-
-sources.
+very great difficulty of distinguishing temporary
+from permanent changes in economic
+circumstances, that society should have developed
+social conventions and informal
+agreements that minimize the sending of premature
+signals for a reallocation of resources.
+
 III. Response to Aggregate Demand Shocks
 So far we have considered a world in
-which only relative or local changes are per-
-mitted, a world in which the nominal and
+which only relative or local changes are permitted,
+a world in which the nominal and
 real value of the general wage level, or the
-wage "norm," was fixed. Now impose ag-
-gregate demand shocks on such a world,
+wage "norm," was fixed. Now impose aggregate
+demand shocks on such a world,
 optimal adjustment to which requires a
 change in the path of average prices and
 wages. (For simplicity of exposition we will
 be considering only aggregate demand
 shocks, and exclude aggregate shocks to the
-supply curve, like those arising from OPEC-
-imposed oil price increases or from crop
-shortages. We can thus assume that the equi-
-librium solution will not call for changes in
+supply curve, like those arising from OPECimposed
+oil price increases or from crop
+shortages. We can thus assume that the equilibrium
+solution will not call for changes in
 aggregate real wages.) An efficient system of
 implicit contracts must obviously provide for
-adjustments in the nominal wages of individ-
-ual firms when changes occur in the average
+adjustments in the nominal wages of individual
+firms when changes occur in the average
 level of nominal wages, W. Under the social
-conventions and understandings which gov-
-ern wage determination, there is a rebuttable
+conventions and understandings which govern
+wage determination, there is a rebuttable
 presumption that-barring the existence of
 circumstances which call for changes in real
 and relative wages-nominal wages in each
@@ -59,25 +59,25 @@ average, aggregate nominal wage flexibility
 will not be a characteristic of the system.
 And, as discussed below, this is also true, but
 to a somewhat lesser degree, of the wage
-response to price changes. Given the sub-
-stantial costs of sticky nominal wages to
+response to price changes. Given the substantial
+costs of sticky nominal wages to
 society as a whole and to individual firms
 and their workers, is there not some other
-adjustment mechanism which would gener-
-ate a prompt and flexible nominal wage re-
-sponse, preserving relative wages but produc-
-ing the desired nominal flexibility?
+adjustment mechanism which would generate
+a prompt and flexible nominal wage response,
+preserving relative wages but producing
+the desired nominal flexibility?
 Several lines of inquiry suggest themselves.
 First, why are not nominal wages explicitly
-indexed to some aggregate nominal indica-
-tor, producing the appropriate change in W
+indexed to some aggregate nominal indicator,
+producing the appropriate change in W
 in response to aggregate demand shocks?
 Second, even with relative wage stickiness,
 would not rational firms and their workers
 forecast the ultimate equilibrium change in
-W and promptly set individual wages ac-
-cordingly? And, finally, if that is not feasi-
-ble, why do implicit contracts not permit
+W and promptly set individual wages accordingly?
+And, finally, if that is not feasible,
+why do implicit contracts not permit
 swifter and larger nominal wage adjustments
-by individual firms under the force of ag-
-gregate nominal shocks?
+by individual firms under the force of aggregate
+nominal shocks?

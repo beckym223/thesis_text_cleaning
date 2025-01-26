@@ -1,59 +1,59 @@
-tion is repeated in business investment de-
-mand, housing demand, public expendi-
-tures, exports, and imports. Elaboration
-essentially means taking a closer look at de-
-mand side components by types of demand.
-The mainstream model of macro eco-
-nomic thought has thus become a detailed
+tion is repeated in business investment demand,
+housing demand, public expenditures,
+exports, and imports. Elaboration
+essentially means taking a closer look at demand
+side components by types of demand.
+The mainstream model of macro economic
+thought has thus become a detailed
 system of demand analysis, but if it is to be
 a closed system, it will also have to include
 corresponding detail on the national income
 side of the social accounts. If this is done
 fully, there will have to be analyses of factor
-rewards, factor use, and pricing. The devel-
-opment of factor demand goes beyond capi-
-tal formation, which appears as a demand
+rewards, factor use, and pricing. The development
+of factor demand goes beyond capital
+formation, which appears as a demand
 for final goods in the GNP, and takes up
-an explanation of wage income. An ade-
-quate explanation of wage income cannot
+an explanation of wage income. An adequate
+explanation of wage income cannot
 avoid the explicit treatment of physical
 production involving labor input as well as
 capital input. The demand for labor, like
-the demand for capital, is supply side analy-
-sis. While the demand for capital enters di-
-rectly as a component of total demand, the
-demand for labor, together with wage for-
-mation, enters national income, and only
+the demand for capital, is supply side analysis.
+While the demand for capital enters directly
+as a component of total demand, the
+demand for labor, together with wage formation,
+enters national income, and only
 after expenditure does it enter final demand
-for GNP. To the extent that labor produc-
-tivity affects wage determination and also
+for GNP. To the extent that labor productivity
+affects wage determination and also
 price formation, we find supply-side factors
 influencing inflation and consequently the
 overall performance of the economy. Labor
-demand can also be associated with train-
-ing. The training component is, in fact,
+demand can also be associated with training.
+The training component is, in fact,
 investment in human rather than fixed
-capital. Looked at in this way, factor de-
-mand for labor and factor demand for fixed
+capital. Looked at in this way, factor demand
+for labor and factor demand for fixed
 capital are simply different, but related,
 aspects of total investment.
-Behind the IS-LM diagram or other sim-
-plified renditions of the aggregate demand
+Behind the IS-LM diagram or other simplified
+renditions of the aggregate demand
 model lie many supply-side relationships.
-Not only is the supply side in the back-
-ground, but it also plays a more essential
+Not only is the supply side in the background,
+but it also plays a more essential
 role once it is recognized that the simplified
 model is actually incomplete. If we were to
 assume the existence of money illusion, it
 would be possible to consider the IS-LM
 system as a closed system of relationships
 depending on nominal income and nominal
-interest rates. I find this approach theoreti-
-cally unsatisfactory. That simple system
-exists only as an aggregative approxima-
-tion for a given price level. If we assume no
-money illusion and, more properly, I be-
-lieve, the need to determine the aggregate
+interest rates. I find this approach theoretically
+unsatisfactory. That simple system
+exists only as an aggregative approximation
+for a given price level. If we assume no
+money illusion and, more properly, I believe,
+the need to determine the aggregate
 price level, then the IS-LM diagram does
 not provide a closed system analysis, and
 we must extend the system to include the
@@ -61,29 +61,29 @@ whole supply-side apparatus of production
 relationships, factor demand, and factor
 supply.
 It is well known that Keynes included
-the aggregate supply function in the Gen-
-eral Theory, but it was introduced in his
-chapter on "The Principle of Effective De-
-mand." That part of his analysis dealing
+the aggregate supply function in the General
+Theory, but it was introduced in his
+chapter on "The Principle of Effective Demand.
+" That part of his analysis dealing
 with supply has been largely played down
-by the profession at large-not by all stu-
-dents of macroeconomics.' Also, by way of
+by the profession at large-not by all students
+of macroeconomics.' Also, by way of
 side comment, Keynes probably confused
-the issues by making labor supply depen-
-dent on the nominal wage rate, assuming
+the issues by making labor supply dependent
+on the nominal wage rate, assuming
 the existence of money illusion, and by not
 treating the stock of capital as an explicit
 variable.
 If the demand relationships explaining
-the components of the GNP are disaggre-
-gated into a highly detailed set, it does not
+the components of the GNP are disaggregated
+into a highly detailed set, it does not
 necessarily mean that the supply side must
 be equally disaggregated to a similar extent,
 as long as the total flow of income and
 purchasing power to be directed towards
 the expenditure flow can be generated. The
-detailed expenditure flow will, however, in-
-volve price relatives. That is a consequence
+detailed expenditure flow will, however, involve
+price relatives. That is a consequence
 of disaggregation. An aggregate supply-side
 explanation that generates only an average
 price level for output as a whole can be
@@ -99,5 +99,5 @@ more revealing, to explain the whole set of
 prices, one by one, on the basis of costs
 in individual sectors. These sector prices, on
 the side of production, are then combined
-with input weights into the several final de-
-ISee Sidney Weintraub (1956, 1957).
+with input weights into the several final deISee
+Sidney Weintraub (1956, 1957).

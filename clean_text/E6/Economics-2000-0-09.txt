@@ -1,21 +1,21 @@
 As the twentieth century ends, both the share
-and the absolute amount of the world's re-
-sources devoted to the development of new
-knowledge are vastly greater than at the begin-
-ning of the century. Equally important is that
-the share of resources devoted to the wide dis-
-tribution of that knowledge has also increased
+and the absolute amount of the world's resources
+devoted to the development of new
+knowledge are vastly greater than at the beginning
+of the century. Equally important is that
+the share of resources devoted to the wide distribution
+of that knowledge has also increased
 greatly.
 VII. Population Growth-Roles of Fertility
 and Mortality
 My third point is that population growth in
-the developed countries in the nineteenth cen-
-tury and in the developing countries in the twen-
-tieth century was due almost entirely to
+the developed countries in the nineteenth century
+and in the developing countries in the twentieth
+century was due almost entirely to
 mortality declines and not to fertility increases.
 In other words, the response of men and women
-to improved circumstances-improved nutri-
-tion and higher incomes-was not to increase
+to improved circumstances-improved nutrition
+and higher incomes-was not to increase
 fertility significantly. For the nineteenth century
 the picture is clear. For the three European
 countries, both fertility and mortality declined.
@@ -33,8 +33,8 @@ The total fertility rate (average number of
 children per woman) for Sweden increased from
 4.21 in 1750 to 4.68 in 1800 but then declined
 continuously throughout the nineteenth century,
-reaching a level of 1.90 in 1990 (Massimo Livi-
-Bacci, 1992 p. 122). Life expectancy in the last
+reaching a level of 1.90 in 1990 (Massimo LiviBacci,
+1992 p. 122). Life expectancy in the last
 20 years of the eighteenth century was 34 years,
 increasing to 39 years by 1835 and to 54 years
 in the first decade of the twentieth century
@@ -43,11 +43,11 @@ in the first decade of the twentieth century
 Total fertility rates for England increased
 from 5.28 in 1750 to 5.87 in 1775 and then
 declined to 1.96 in 1900 (Livi-Bacci, 1989 p.
-122). In the early period of the Industrial Rev-
-olution there seems to have been a small posi-
-tive response in fertility to the improved
-circumstances that lasted less than half a cen-
-tury and had only a modest effect on the rate of
+122). In the early period of the Industrial Revolution
+there seems to have been a small positive
+response in fertility to the improved
+circumstances that lasted less than half a century
+and had only a modest effect on the rate of
 population growth. In England life expectancy
 was 32 years in the last fifth of the seventeenth
 century and remained at that level in the years
@@ -56,9 +56,9 @@ of the eighteenth century and to 41 years by the
 middle of the nineteenth century (Wrigley and
 Schofield, 1981 pp. 528-29) and continued to
 increase thereafter. In France the fertility and
-mortality trends are very clear-the total fertil-
-ity rate was low in 1825 at 3.42 and fell con-
-tinuously reaching 2.14 in 1900 (Livi-Bacci,
+mortality trends are very clear-the total fertility
+rate was low in 1825 at 3.42 and fell continuously
+reaching 2.14 in 1900 (Livi-Bacci,
 1992 p. 122). Life expectancy increased from
 about 28 years in 1760 to 40 years in 1840 and
 to 46 years at the end of the century (Wrigley,
@@ -69,9 +69,9 @@ that the source of the rapid population growth in
 these countries was the decline in mortality
 rather than an increase in fertility. In fact, both
 mortality and fertility fell much more rapidly in
-the developing countries in the twentieth cen-
-tury than in the developed countries in the nine-
-teenth century prior to 1875.7 Excluding China,
+the developing countries in the twentieth century
+than in the developed countries in the nineteenth
+century prior to 1875.7 Excluding China,
 which has had coercive restraints on fertility,
 the decline in fertility in the 31 lowest-income
 countries from 1960 to 1995 was 38 percent

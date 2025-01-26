@@ -1,16 +1,16 @@
 is reduced only if the same prices apply to all
 persons.
-The implausibility of invariance in any mar-
-ket equilibrium is transparent in the goods mar-
-ket. Is it possible that the marginal value of a
+The implausibility of invariance in any market
+equilibrium is transparent in the goods market.
+Is it possible that the marginal value of a
 unit of comfort in an automobile should be the
 same as a unit of comfort in an easy chair? Not
 at all. These commodities represent different,
 imperfectly substitutable services that cannot be
 unbundled into such components. We do not see
 easy chairs in autos and bucket seats in living
-rooms. No "arbitrage" opportunities are avail-
-able for trading comfort in one kind of good
+rooms. No "arbitrage" opportunities are available
+for trading comfort in one kind of good
 with comfort in an entirely different class of
 goods, because those characteristics cannot be
 untied from the larger bundle of attributes for
@@ -24,40 +24,40 @@ unit of strength to, say, an accountant be the
 same as its value to an athlete? It would be the
 same if there were aggregate markets for such
 things as strength and intelligence and if a unit
-of "accounting strength" was a perfect substi-
-tute for units of "athletic strength" in all pro-
-ductive activities. The images of accountants on
-the 50-yard line and linemen running interfer-
-ence against the IRS is not, however, reassuring
-in this regard. Once again the bundling of per-
-sonal productivity characteristics and the im-
-possibility of untying bundles and repackaging
-them into something else is crucial. The mar-
-ginal products of underlying factors vary across
-activities-strength is more important to profes-
-sional athletes than to accountants-and the
-shadow prices of these factors vary across ac-
-tivities as well. Thus, athletes are stronger than
-accountants and accountants have more quanti-
-tative skills than athletes. This is another impor-
-tant manifestation of sorting and stratification in
+of "accounting strength" was a perfect substitute
+for units of "athletic strength" in all productive
+activities. The images of accountants on
+the 50-yard line and linemen running interference
+against the IRS is not, however, reassuring
+in this regard. Once again the bundling of personal
+productivity characteristics and the impossibility
+of untying bundles and repackaging
+them into something else is crucial. The marginal
+products of underlying factors vary across
+activities-strength is more important to professional
+athletes than to accountants-and the
+shadow prices of these factors vary across activities
+as well. Thus, athletes are stronger than
+accountants and accountants have more quantitative
+skills than athletes. This is another important
+manifestation of sorting and stratification in
 spatial equilibria.
 Activity-specific prices generate comparative
 advantage. Just as differences in the relative
 abundance of sunshine to rainfall in Portugal
 and England give each country its comparative
 advantage in wine or cloth, so too does strength
-give people who have it a comparative advan-
-tage in some forms of athletics, while arithmetic
+give people who have it a comparative advantage
+in some forms of athletics, while arithmetic
 skills and attention to detail give other people
-comparative advantage in accounting. Compar-
-ative advantage has interesting consequences.
+comparative advantage in accounting. Comparative
+advantage has interesting consequences.
 For one, people observed in various job and
 educational categories tend to be selected and
 stratified by the personal attributes that give
 them a competitive edge in a specific field. A
-person's financial self-interest is served by se-
-lecting the occupation that maximizes expected
+person's financial self-interest is served by selecting
+the occupation that maximizes expected
 earnings. If this is a major consideration in
 occupational choice (though certainly not the
 only one), observed earnings of individuals who
@@ -71,34 +71,34 @@ is more subtle in other important applications,
 for instance in interpreting income differences
 between people with more and less education.
 As seen above, if all people were identical, the
-education-earnings premium would be sus-
-tained by the supply conditions that pay must
-compensate for incurring the costs of invest-
-ment to equalize net advantages across trades.
-When people differ, things are more compli-
-cated. Those who expect the largest returns on
+education-earnings premium would be sustained
+by the supply conditions that pay must
+compensate for incurring the costs of investment
+to equalize net advantages across trades.
+When people differ, things are more complicated.
+Those who expect the largest returns on
 their educational investments are more likely to
 make them. Ability rents persist in equilibrium.
 There are two main reasons why rates of
 return to human-capital investments and human
-wealth differ among people. First, natural tal-
-ents complement occupation-specific human-
-capital investments in different ways. Verbal
-ability is indispensable for lawyers and quanti-
-tative ability for engineers and scientists, for
+wealth differ among people. First, natural talents
+complement occupation-specific humancapital
+investments in different ways. Verbal
+ability is indispensable for lawyers and quantitative
+ability for engineers and scientists, for
 example. People with greater endowments of
 such traits have better prospects for success in
 those activities. Another way of saying it is that
 there are "ability" rents in occupational choices.
 Wage differences are not fully equalizing on the
-costs of acquiring skills because natural endow-
-ments and premarket investments cause these
+costs of acquiring skills because natural endowments
+and premarket investments cause these
 costs to differ among people. Second, there are
-substantial financial barriers to educational in-
-vestments because human capital is not legal
-collateral for investment loans. The main man-
-ifestation of this is traditionally seen in high
-stratification of educational attainments of chil-
-dren according to parental wealth. Financing
+substantial financial barriers to educational investments
+because human capital is not legal
+collateral for investment loans. The main manifestation
+of this is traditionally seen in high
+stratification of educational attainments of children
+according to parental wealth. Financing
 difficulties cause inefficiencies and inequities in
 human-capital investment decisions because

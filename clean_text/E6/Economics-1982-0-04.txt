@@ -1,99 +1,99 @@
 We, no less than other writers, owe a heavy
 debt to predecessors from Bertrand to Bain,
 from Cournot to Demsetz. Nevertheless, it
-must surely be acknowledged that the follow-
-ing characterization of the general tenor of
-the literature as it appeared until fairly re-
-cently is essentially accurate.
-First, in the received analysis perfect com-
-petition serves as the one standard of wel-
-fare- maximizing structure and behavior.
+must surely be acknowledged that the following
+characterization of the general tenor of
+the literature as it appeared until fairly recently
+is essentially accurate.
+First, in the received analysis perfect competition
+serves as the one standard of welfare-
+maximizing structure and behavior.
 There is no similar form corresponding to
 industries in which efficiency calls for a very
 limited number of firms (though the earlier
 writings on workable competition did move
 in that direction in a manner less formal
 than ours).
-Our analysis, in contrast, provides a gener-
-alization of the concept of the perfectly com-
-petitive market, one which we call a "per-
-fectly contestable market." It is, generally,
+Our analysis, in contrast, provides a generalization
+of the concept of the perfectly competitive
+market, one which we call a "perfectly
+contestable market." It is, generally,
 characterized by optimal behavior and yet
-applies to the full range of industry struc-
-tures including even monopoly and oligop-
-oly. In saying this, it must be made clear that
-perfectly contestable markets do not popu-
-late the world of reality any more than per-
-fectly competitive markets do, though there
-are a number of industries which un-
-doubtedly approximate contestability even if
+applies to the full range of industry structures
+including even monopoly and oligopoly.
+In saying this, it must be made clear that
+perfectly contestable markets do not populate
+the world of reality any more than perfectly
+competitive markets do, though there
+are a number of industries which undoubtedly
+approximate contestability even if
 they are far from perfectly competitive. In
 our analysis, perfect contestability, then,
-serves not primarily as a description of real-
-ity, but as a benchmark for desirable
+serves not primarily as a description of reality,
+but as a benchmark for desirable
 industrial organization which is far more
 flexible and is applicable far more widely
 than the one that was available to us before.
 Second, in the standard analysis (including
-that of many of our fellow rebels), the prop-
-erties of oligopoly models are heavily depen-
-dent on the assumed expectations and reac-
-tion patterns characterizing the firms that
+that of many of our fellow rebels), the properties
+of oligopoly models are heavily dependent
+on the assumed expectations and reaction
+patterns characterizing the firms that
 are involved. When there is a change in the
-assumed nature of these expectations or re-
-actions, the implied behavior of the oligopo-
-listic industry may change drastically.
+assumed nature of these expectations or reactions,
+the implied behavior of the oligopolistic
+industry may change drastically.
 In our analysis, in the limiting case of
 perfect contestability, oligopolistic structure
 and behavior are freed entirely from their
-previous dependence on the conjectural vari-
-ations of incumbents and, instead, these are
+previous dependence on the conjectural variations
+of incumbents and, instead, these are
 generally determined uniquely and, in a
 manner that is tractable analytically, by the
 pressures of potential competition to which
 Bain directed our attention so tellingly.
 Third, the standard analysis leaves us with
-the impression that there is a rough con-
-tinuum, in terms of desirability of industry
+the impression that there is a rough continuum,
+in terms of desirability of industry
 performance, ranging from unregulated pure
 monopoly as the pessimal arrangement to
 perfect competition as the ideal, with relative
 efficiency in resource allocation increasing
-monotonically as the number of firms ex-
-pands.
-I will show that, in contrast, in perfect-
-ly contestable markets behavior is sharply
+monotonically as the number of firms expands.
+
+I will show that, in contrast, in perfectly
+contestable markets behavior is sharply
 discontinuous in its welfare attributes. A
-contestable monopoly offers us some pre-
-sumption, but no guarantee, of behavior con-
-sistent with a second best optimum, subject
+contestable monopoly offers us some presumption,
+but no guarantee, of behavior consistent
+with a second best optimum, subject
 to the constraint that the firm be viable
 financially despite the presence of scale
-economies which render marginal cost pric-
-ing financially infeasible. That is, a contest-
-able monopoly has some reason to adopt the
+economies which render marginal cost pricing
+financially infeasible. That is, a contestable
+monopoly has some reason to adopt the
 Ramsey optimal price-output vector, but it
 may have other choices open to it. (For the
 analysis of contestable monopoly, see my
-article with Elizabeth Bailey and Willig, Pan-
-zar and Willig's article, and my book with
+article with Elizabeth Bailey and Willig, Panzar
+and Willig's article, and my book with
 Panzar and Willig, chs. 7 and 8.)
 But once each product obtains a second
 producer, that is, once we enter the domain
 of duopoly or oligopoly for each and every
-good, such choice disappears. The contest-
-able oligopoly which achieves an equilibrium
+good, such choice disappears. The contestable
+oligopoly which achieves an equilibrium
 that immunizes it from the incursions of
 entrants has only one pricing option-it must
 set its price exactly equal to marginal cost
 and do all of the things required for a first
 best optimum! In short, once we leave the
-world of pure or partial monopoly, any con-
-testable market must behave ideally in every
-respect. Optimality is not approached gradu-
-ally as the number of firms supplying a
-commodity grows. As has long been sug-
-gested in Chicago, two firms can be enough
+world of pure or partial monopoly, any contestable
+market must behave ideally in every
+respect. Optimality is not approached gradually
+as the number of firms supplying a
+commodity grows. As has long been suggested
+in Chicago, two firms can be enough
 to guarantee optimality (see, for example,
 Eugene Fama and Arthur Laffer).
 Thus, the analysis extends enormously the

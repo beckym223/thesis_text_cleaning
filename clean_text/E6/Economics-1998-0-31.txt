@@ -1,5 +1,5 @@
-I consider the strongest argumnent for the two-
-deflator approach.
+I consider the strongest argumnent for the twodeflator
+approach.
 But there are other pluses as well. First, at
 the aggregate economy level, the two-deflator
 approach comes very close to the traditional
@@ -7,13 +7,13 @@ approach. In rate-of-growth terms, we have
 (R */y) = gy S- skgk * SL gL *, compared with
 (Rly) =g - Skgk -SLgN, where g refers to
 growth rate, and y to GDP. K* differs from K
-in being built up from gross investment de-
-flated by the GDP deflator, while K is built up
-from gross investment deflated by the invest-
-ment deflator of GDP. L * is in principle much
+in being built up from gross investment deflated
+by the GDP deflator, while K is built up
+from gross investment deflated by the investment
+deflator of GDP. L * is in principle much
 more refined than N (number of workers), but
-its measurement can be influenced by a wid-
-ening or narrowing skill premium. (R */y)
+its measurement can be influenced by a widening
+or narrowing skill premium. (R */y)
 likewise differs from Jorgenson's residual
 (R'/y) = gy - Yjskjgkj - 1ise gf mainly in his
 use of different capital deflators for different
@@ -24,12 +24,12 @@ contend with the possibilities of widening or
 narrowing skill premiums -at least not
 among the labor categories he works with,
 which are typically broken down by gender,
-age, education, occupation, industry, and em-
-ploymnent status.)
-The bottom line is that when Beyer com-
-pares his two-deflator results, at the national
-aggregate level, with those of others using dif-
-ferent methods, he finds on the whole only
+age, education, occupation, industry, and employmnent
+status.)
+The bottom line is that when Beyer compares
+his two-deflator results, at the national
+aggregate level, with those of others using different
+methods, he finds on the whole only
 modest differences. [See Beyer (1996);
 Harberger (1998).]
 When one uses the two-deflator method at
@@ -37,14 +37,14 @@ the industry level, one often has the possibility
 to adjust the quantity variable so as to make it
 correspond with that of the more traditional
 approach. Thus, we may start by using dy)e (=
-pjdyj + yjdpj) as the quantity variable, and cal-
-culate a residual Rj* using that concept. Then
+pjdyj + yjdpj) as the quantity variable, and calculate
+a residual Rj* using that concept. Then
 we may get an adjusted residual by taking
 R yjdpj. This is easy to do so long as we
 have decent data on dpj, the relative price of
 j, which we often do at the branch or industry
-level. When Jorgenson's residuals are com-
-pared with the two-deflator residuals, with and
+level. When Jorgenson's residuals are compared
+with the two-deflator residuals, with and
 without price adjustment, I find the differences
 without adjustment to be small enough to be
 quite acceptable. With adjustment, the degree
@@ -55,17 +55,17 @@ growth). [See Robles ( 1997); Ilarberger
 (1998).]
 When one gets down to the firm level, the
 two-deflator method is in its element. Rarely
-do we have decent time series on the price in-
-dex of a firm' s output. Treating many firrns in
+do we have decent time series on the price index
+of a firm' s output. Treating many firrns in
 one industry, one might then give all of them
 the same price index-that of the industry. At
-that point the distribution of adjusted TFP re-
-siduals among the firms would end up differ-
-ing from the original two-deflator distribution
-only by a constant. When expressed in percent-
-age terms we vould have (R)' ly)) = g4i -
-*kj j ge*, for each fim j without adjust-
-ment, while with adjustment we would have
+that point the distribution of adjusted TFP residuals
+among the firms would end up differing
+from the original two-deflator distribution
+only by a constant. When expressed in percentage
+terms we vould have (R)' ly)) = g4i -
+*kj j ge*, for each fim j without adjustment,
+while with adjustment we would have
 R]*Iy1 = the same expression minus go, the
 rate of growth of the industry's relative ptice
 index (the same for all firms).
@@ -76,7 +76,7 @@ level. The consolation is that the residual
 terms of individual firms, calculated for the
 whole economy, add up to a residual term
 for the aggregate-in the sense that outputs
-sum to GDP, the L]* sum to L * for the econ-
-omy, the Kj* to K* for the economy, etc. For
+sum to GDP, the L]* sum to L * for the economy,
+the Kj* to K* for the economy, etc. For
 more details on methodology, see Harberger
 (1998).

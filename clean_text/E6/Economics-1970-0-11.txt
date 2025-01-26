@@ -1,10 +1,10 @@
 additional knowledge-distribution because
 even insofar as the neoclassical approach
 attributes a growth-component to mere
-factor-substitution-i.e., insofar as physi-
-cal investment exceeds the equivalent of
-mere "widening"-such investment pre-
-supposes the invention of new equipment
+factor-substitution-i.e., insofar as physical
+investment exceeds the equivalent of
+mere "widening"-such investment presupposes
+the invention of new equipment
 of lesser labor-intensity.'9 Practically all
 long-run increase of output per man-hour
 (and even the prevention of some decrease
@@ -13,24 +13,24 @@ least some amount of additional per capita
 knowledge which may or may not express
 itself in the production of new types of
 equipment20; the reverse proposition that
-making use of new ideas requires new capi-
-tal goods is hazy because new capital goods
+making use of new ideas requires new capital
+goods is hazy because new capital goods
 result from new ideas applied to already
 existing types of equipment. If one wanted
-to follow through consistently the implica-
-tions of the conception that all long-run
-increase in man-hour output reflects tech-
-nological progress, one would arrive at even
+to follow through consistently the implications
+of the conception that all long-run
+increase in man-hour output reflects technological
+progress, one would arrive at even
 higher productivity-gains than those which
 we shall assume (though at more costly
-ones); the progress-generated productiv-
-ity-gains so defined would show a rising
-tendency, as will ours; and these progress-
-gains too would point to high but some-
-what declining rates of social return, simi-
-lar to ours.2' We will not follow through all
-the implications of this "inclusive" con-
-ception of progress though one of its several
+ones); the progress-generated productivity-
+gains so defined would show a rising
+tendency, as will ours; and these progressgains
+too would point to high but somewhat
+declining rates of social return, similar
+to ours.2' We will not follow through all
+the implications of this "inclusive" conception
+of progress though one of its several
 implications will be carried over into the
 framework I am using because in mine, too,
 economies of scale will become merged
@@ -40,19 +40,19 @@ the most inclusive conception is that some
 possible ways of increasing man-hour
 output require new ideas only in a very
 modest sense of this term, i.e., require
-merely somewhat trivial new ideas (re-
-sulting in slow changes of the physical
+merely somewhat trivial new ideas (resulting
+in slow changes of the physical
 composition of the capital stock). Thisis
-what in my appraisal justifies the "neo-
-classical" procedure of attributing part of
+what in my appraisal justifies the "neoclassical"
+procedure of attributing part of
 the increase in output per man-hour to
 changes in input-proportions aside from
 technological progress. But this way of
 looking at the problem still leaves one with
 a preference for principles that lead to
-higher progress-estimates than do the prin-
-ciples suggested in some other contribu-
-tions to growth theory.
+higher progress-estimates than do the principles
+suggested in some other contributions
+to growth theory.
 My analysis will rely on the method of
 the Residual as it is employed by John
 Kendrick for measuring the proportionate
@@ -61,8 +61,8 @@ productivity-increase I will derive the
 magnitude I consider the benefit resulting
 from the progress-generating costs.
 As is well known, the method of the
-Residual attributes to technological ad-
-vance that increase in output which is not
+Residual attributes to technological advance
+that increase in output which is not
 attributed to the increase in physical
 inputs given their base-period productivities.
 The measurement of productivity assumes

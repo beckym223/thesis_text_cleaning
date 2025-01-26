@@ -1,51 +1,51 @@
 Keynes attacked what he called the
-classical presumption that persistent un-
-employment is voluntary unemployment.
+classical presumption that persistent unemployment
+is voluntary unemployment.
 The presumption he challenged is that in
-competitive labor markets actual em-
-ployment and unemployment reveal work-
-ers' true preferences between work and
+competitive labor markets actual employment
+and unemployment reveal workers'
+true preferences between work and
 alternative uses of time, the presumption
-that no one is fully or partially unem-
-ployed whose real wage per hour exceeds
+that no one is fully or partially unemployed
+whose real wage per hour exceeds
 his marginal valuation of an hour of free
-time. Orthodox economists found the ob-
-served stickiness of money wages to be
+time. Orthodox economists found the observed
+stickiness of money wages to be
 persuasive evidence that unemployment,
-even in the Great Depression, was volun-
-tary. Keynes found decisive evidence
+even in the Great Depression, was voluntary.
+Keynes found decisive evidence
 against this inference in the willingness of
-workers to accept a larger volume of em-
-ployment at a lower real wage resulting
+workers to accept a larger volume of employment
+at a lower real wage resulting
 from an increase of prices.
-Whenever unemployment could be re-
-duced by expansion of aggregate demand,
-Keynes regarded it as involuntary. He ex-
-pected expansion to raise prices and lower
+Whenever unemployment could be reduced
+by expansion of aggregate demand,
+Keynes regarded it as involuntary. He expected
+expansion to raise prices and lower
 real wages, but this expectation is not
-crucial to his argument. Indeed, if it is pos-
-sible to raise employment without reduction
-in the real wage, his case for calling the un-
-employment involuntary is strengthened.
+crucial to his argument. Indeed, if it is possible
+to raise employment without reduction
+in the real wage, his case for calling the unemployment
+involuntary is strengthened.
 But why is the money wage so stubborn
 if more labor is willingly available at the
 same or lower real wage5? Consider first
 some answers Keynes did not give. He did
 not appeal to trade union monopolies or
-minimum wage laws. He was anxious, per-
-haps over-anxious, to meet his putative
+minimum wage laws. He was anxious, perhaps
+over-anxious, to meet his putative
 classical opponents on their home field,
 the competitive economy\ He did not rely
 on any failure of workers to perceive what
-a rise in prices does to real wages. The un-
-employed take new jobs, the employed
+a rise in prices does to real wages. The unemployed
+take new jobs, the employed
 hold old ones, with eyes open. Otherwise
 the new situation would be transient.
-Instead, Keynes emphasized the insti-
-tutional fact that wages are bargained
+Instead, Keynes emphasized the institutional
+fact that wages are bargained
 and set in the monetary unit of account.
-Money wage rates are, to use an unKeynes-
-ian term, "administered prices." I'hat is,
+Money wage rates are, to use an unKeynesian
+term, "administered prices." I'hat is,
 they are not set and reset in daily auctions
 but posted and fixed for finite periods of
 time. This observation led Keynes to his
@@ -60,19 +60,19 @@ are decentralized, and there is no way
 money wages can fall in any one market
 without impairing the relative status of
 the workers there. A general rise in prices
-is a neutral and universal method of re-
-ducing real wages, the only method in a
+is a neutral and universal method of reducing
+real wages, the only method in a
 decentralized and uncontrolled economy.
 Inflation would not be needed, we may
-infer, if by government compulsion, econ-
-omy-wide bargaining, or social compact,
+infer, if by government compulsion, economy-
+wide bargaining, or social compact,
 all money wage rates could be scaled down
 together.
 Keynes apparently meant that relative
 wages are the arguments in labor supply
 functions. But Alchian (pp. 27-52 in Phelps
-et al.) and other theorists of search ac-
-tivity have offered a somewhat different
+et al.) and other theorists of search activity
+have offered a somewhat different
 interpretation, namely that workers whose
 money wages are reduced will quit their
 jobs to seek employment in other markets
@@ -81,9 +81,9 @@ that wages remain high.
 Keynes's explanation of money wage
 stickiness is plausible and realistic. But two
 related analytical issues have obscured the
-message. Can there be involuntary unem-
-ployment in an equilibrium, a proper, full-
-fledged neoclassical equilibrium? Does the
+message. Can there be involuntary unemployment
+in an equilibrium, a proper, fullfledged
+neoclassical equilibrium? Does the
 labor supply behavior described by Keynes
 betray "money illusion"? Keynes gave a
 loud yes in answer to the first question,

@@ -1,57 +1,57 @@
 ways in which social welfare judgments can
 be made using richer information than in
 the Arrow framework.
-This applies also to procedures specifi-
-cally aimed at making social welfare judg-
-ments and other aggregative evaluations,
+This applies also to procedures specifically
+aimed at making social welfare judgments
+and other aggregative evaluations,
 based on institutionally accepted ways of
-making interpersonal comparisons: for ex-
-ample, in using indexes of income inequality
+making interpersonal comparisons: for example,
+in using indexes of income inequality
 (see Serge Kolm's [1969] and Anthony
 Atkinson's [1970] pioneering work on this),
-or in aggregate measures of distribution-
-corrected real national income (Sen, 1976a),
+or in aggregate measures of distributioncorrected
+real national income (Sen, 1976a),
 or of aggregate poverty (Sen, 1976b).5 This
 links the theory of social choice to some of
-the most intensely practical debates on eco-
-nomic policy.26 While Arrow's impossibility
+the most intensely practical debates on economic
+policy.26 While Arrow's impossibility
 theorem is a negative result, the challenge it
 provided has led, dialectically, to a great
 many constructive developments.
 V. On Social Decision Mechanisms
-Moving from the exercise of making so-
-cial judgments to that of choosing social
-decision mechanisms, there are other dif-
-ficulties to be faced. While systematic inter-
-personal comparisons of utilities (and other
+Moving from the exercise of making social
+judgments to that of choosing social
+decision mechanisms, there are other difficulties
+to be faced. While systematic interpersonal
+comparisons of utilities (and other
 ways of seeing individual advantage) can be
 used by a person making social welfare
 judgment, or in agreed procedures for social
 judgments (based on interpreting available
-statistics to arrive at, say, orderings of ag-
-gregate poverty or inequality or distribu-
-tion-corrected real national income), this is
+statistics to arrive at, say, orderings of aggregate
+poverty or inequality or distribution-
+corrected real national income), this is
 not an easy thing to do in social-decision
-mechanisms which must rely on some stan-
-dard expressions of individual preference
+mechanisms which must rely on some standard
+expressions of individual preference
 (such as voting), which do not readily lend
 themselves to interpersonal comparisons.
 The impossibility problem, thus, has
 greater resilience here. While it is also the
 case that the critique of James Buchanan
-(and others) of the idea of "social rational-
-ity" and the concept of "social preference"
+(and others) of the idea of "social rationality"
+and the concept of "social preference"
 applies particularly in this case (that of
-judging social decision mechanisms), the im-
-possibility problem does indeed survive, as
+judging social decision mechanisms), the impossibility
+problem does indeed survive, as
 we have seen, even when the concept of
 social preference is eschewed and the idea
 of social rationality in the Arrovian form is
 dropped altogether (Section III). How, then,
 can we respond to the challenge in this
 case?
-We may begin by noting that the condi-
-tions formulated and used by Arrow, while
+We may begin by noting that the conditions
+formulated and used by Arrow, while
 appealing enough, are not beyond criticism.
 First, not every conceivable combination of
 individual preferences need be considered
@@ -59,16 +59,16 @@ in devising a social decision procedure, since
 only some would come up in practice. As
 Arrow had himself noted, if the condition of
 unrestricted domain is relaxed, we can find
-decision rules that satisfy all the other con-
-ditions (and many other demands) over sub-
-stantial domains of individual preference
+decision rules that satisfy all the other conditions
+(and many other demands) over substantial
+domains of individual preference
 profiles. Arrow (1951), along with Duncan
 Black, had particularly explored the case of
 "single-peaked preferences," but it can be
 shown (Sen, 1966) that this condition can be
 far extended and generalized to a much less
-demanding restriction called "value restric-
-tion."27
+demanding restriction called "value restriction.
+"27
 25The literature on such measures is now quite
 large. Different types of exercises are illustrated by Sen
 (1973), Frank Cowell (1977), Blackorby and Donaldson
@@ -81,22 +81,22 @@ Le Breton and Alain Trannoy (1987), W. Eichhorn
 (1994), among many other contributions.
 26The policy discussions include those surrounding
 the influential Human Development Reports, produced
-by the United Nations Development Programme. An-
-other strong force in that direction has been the se-
-quence of UNICEF reports on The State of the World's
+by the United Nations Development Programme. Another
+strong force in that direction has been the sequence
+of UNICEF reports on The State of the World's
 Children. Policy issues related to such social judgments
 have been discussed by Paul Streeten et al. (1981),
 Nanak Kakwani (1986), Jean Dreze and Sen (1989),
 Alan Hamlin and Philip Pettit (1989), Keith Griffin and
 John Knight (1990), Anand and Ravallion (1993),
 Partha Dasgupta (1993), and Meghnad Desai (1995).  27,, Value restriction" turns out to be necessary and
-sufficient for this class of domain conditions for consis-
-tent majority rule when individual preferences are lin-
-ear orderings, though the conditions are more complex
+sufficient for this class of domain conditions for consistent
+majority rule when individual preferences are linear
+orderings, though the conditions are more complex
 in the general case of weak orderings (see Sen and
 Prasanta Pattanaik, 1969; see also Ken-ichi Inada, 1969,
 1970). These relations can be generalized to all
-Arrovian social welfare functions and for nonmanipu-
-lable voting procedures (on which see Maskin [1976]
+Arrovian social welfare functions and for nonmanipulable
+voting procedures (on which see Maskin [1976]
 and E. Kalai and E. Muller [1977]). Other types of
 conditions have been proposed by Tullock (1967) (with

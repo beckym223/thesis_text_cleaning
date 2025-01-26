@@ -13,34 +13,34 @@ commodities, were clearly crucial to improved
 understanding of the relationship of trade to
 development.
 For that reason, high marks must go to the
-analytical research that pointed to measure-
-ment techniques such as effective protection
+analytical research that pointed to measurement
+techniques such as effective protection
 and cost benefit, which enabled policy makers
-and their analysts to obtain empirical quan-
-tification, however rough, of the relevant
+and their analysts to obtain empirical quantification,
+however rough, of the relevant
 magnitudes.47
 In like manner, the empirical demonstration
-of the similarity of policy responses across de-
-veloping countries, and of the wide and largely
-irrational variation in incentives for import-
-competing industries, increased understanding
+of the similarity of policy responses across developing
+countries, and of the wide and largely
+irrational variation in incentives for importcompeting
+industries, increased understanding
 of what was wrong with existing policies.
-Overturning, or more accurately interpret-
-ing, the accepted stylized facts, therefore, was
-a first prerequisite for developing a better the-
-ory of trade policy for development. But the-
-ory was important in many ways, in addition
+Overturning, or more accurately interpreting,
+the accepted stylized facts, therefore, was
+a first prerequisite for developing a better theory
+of trade policy for development. But theory
+was important in many ways, in addition
 to pointing to appropriate measurement tools.
-First of all, good policy-relevant theory pro-
-vided blueprints for those windows of oppor-
-tunity in which governments genuinely sought
+First of all, good policy-relevant theory provided
+blueprints for those windows of opportunity
+in which governments genuinely sought
 to improve economic performance, as was the
 case in Taiwan and Korea in the early 1960's,
-and in Chile, Mexico, and India in later de-
-cades, to name just a few.48 Having the "blue-
-prints" on hand from good theory is obviously
-a major contribution. As already noted, how-
-ever, that theory is often relatively dull -such
+and in Chile, Mexico, and India in later decades,
+to name just a few.48 Having the "blueprints"
+on hand from good theory is obviously
+a major contribution. As already noted, however,
+that theory is often relatively dull -such
 as comparative advantage-rather than the
 more exciting and refined results of complex
 models.
@@ -54,15 +54,15 @@ mean developing countries would specialize in
 the production of primary commodities, and
 with the infant industry argument.
 These considerations suggest that research
-results, in order to be most likely to be ame-
-nable to policy relevance, should be interpret-
-able into phenomena that are observable,
+results, in order to be most likely to be amenable
+to policy relevance, should be interpretable
+into phenomena that are observable,
 hopefully quantifiable, and recognizable by
 the policy maker. A negative result, such as
 that theory does not always tell us, can be
-counterproductive precisely because the pol-
-icy maker is informed only that a certain gen-
-eralization (such as comparative advantage
+counterproductive precisely because the policy
+maker is informed only that a certain generalization
+(such as comparative advantage
 and the value of free trade) is not without
 exception; the generalization can then be
 ignored.
@@ -72,31 +72,31 @@ propositions are "not generally true" would
 encompass all of that theory which is cast in
 terms of "anything can happen." While it is
 certainly true that there are conditions under
-which a wide range of outcomes (Pareto-
-inferior, a bad equilibrium, Pareto-superior,
-etc.) are possible from the same policy instru-
-ment, it would have challenged the skills of
-even the most superb theorist to attempt to de-
-velop a case for the sorts of chaotic policies
+which a wide range of outcomes (Paretoinferior,
+a bad equilibrium, Pareto-superior,
+etc.) are possible from the same policy instrument,
+it would have challenged the skills of
+even the most superb theorist to attempt to develop
+a case for the sorts of chaotic policies
 prevalent in Turkey in 1957, in Ghana in 1983,
 and in Argentina in the late 1980's. It is far
 too easy for analysts to ignore the fact that "an
 exception" does not rationalize all possible
 policy alternatives to free trade.
-There is a criterion for efficient resource al-
-location, equating domestic and international
+There is a criterion for efficient resource allocation,
+equating domestic and international
 marginal rates of transformation. Even if there
 are "dynamic" factors which contravene part
 of the static efficiency criterion, they too are
 measurable. Yet the "anything can happen"
 theories do not provide guides as to how the
 4 There is another example from a related field. As is
-well known, multilateral negotiations with regard to ag-
-ricultural protection were completely stalled until the
+well known, multilateral negotiations with regard to agricultural
+protection were completely stalled until the
 1980's. In the 1980's, economists at the OECD proposed
 the use of a "producer subsidy equivalent" to measure
-the degree of government intervention in various agricul-
-tural commodities across countries. That tool permitted
+the degree of government intervention in various agricultural
+commodities across countries. That tool permitted
 negotiations to begin restricting and dismantling agricul-  tural protection.
 48 See Arnold C. Harberger (1993) for a discussion of
 the roles played by economists in some key policy reform

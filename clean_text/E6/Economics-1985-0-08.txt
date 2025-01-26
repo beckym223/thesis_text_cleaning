@@ -4,13 +4,13 @@ While the large magnitude of rents for
 experienced workers tends to provide some
 room for errors, workers are presumably
 arranged along a spectrum with respect to
-their own evaluation of potential opportuni-
-ties elsewhere. As a consequence, the losses
+their own evaluation of potential opportunities
+elsewhere. As a consequence, the losses
 from the errors will be a continuous positive
 function of the size of the errors. Errors of
 the opposite type-failing to introduce a
-contract change to meet a permanent alter-
-ation in the climate-can be reversed at a
+contract change to meet a permanent alteration
+in the climate-can be reversed at a
 much smaller cost. Some workers will have
 remained too long with a particular firm,
 while a smaller group will have lost income
@@ -23,20 +23,20 @@ Thus, given Knightian uncertainty about
 economic conditions over the long length of
 job tenures, implicit contracts must allow for
 the possibility of relative wage changes in the
-face of climatic changes in external condi-
-tions. But the interest of both firms and
+face of climatic changes in external conditions.
+But the interest of both firms and
 workers dictates that those changes occur
 only after enough information has been
 accumulated to warrant a high probability
 forecast that the change is permanent. To
 justify a substantial wage adjustment, it is
 not sufficient that the firm act on unbiased
-forecasts-they must also acquire some con-
-fidence in the accuracy of the forecasts.
+forecasts-they must also acquire some confidence
+in the accuracy of the forecasts.
 One might object to this line of reasoning
 on grounds that failure to adjust wages
-quickly enough while the evidence is accu-
-mulating that the change in circumstances is
+quickly enough while the evidence is accumulating
+that the change in circumstances is
 permanent, is itself likely to send out wrong
 signals. If, for example, wages are slow to
 adjust downward when the demand for labor
@@ -49,16 +49,16 @@ why this objection is not valid. First, a change
 in wages is known immediately, while it takes
 some time to begin to realize that an actual
 change in employment reflects a shift in the
-long-term distribution of employment prob-
-abilities. Second, the common practice of
+long-term distribution of employment probabilities.
+Second, the common practice of
 layoffs subject to recall is a way for a firm to
 signal that the lower employment is expected
-to be temporary. Third, significant down-
-ward changes in relative wages are not lightly
+to be temporary. Third, significant downward
+changes in relative wages are not lightly
 made. Given the inability of workers easily to
 assess the magnitude of the available rents,
-firms are deterred from exploiting the bi-
-lateral monopoly relationship through the
+firms are deterred from exploiting the bilateral
+monopoly relationship through the
 damage they might do to their "reputations"
 and the future increases in employment costs
 thereby imposed. Since reputation is a fragile
@@ -89,8 +89,8 @@ scarce reputation capital, thereby reducing
 the probability of long-tenure associations.
 These considerations argue that significant
 relative wage adjustments to meet perceived
-permanent changes in condition be an infre-
-quent occurrence and not lightly changed
+permanent changes in condition be an infrequent
+occurrence and not lightly changed
 once made.
 In sum, modern contract theory concludes
 that relative wages will tend to be quite

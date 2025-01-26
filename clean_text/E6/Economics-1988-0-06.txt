@@ -2,17 +2,17 @@ by other motives. Presumably, the altruism
 per child is negatively related to the number
 of children, so that an additional child lowers
 the utility per child to parents in the same
-way as (please excuse the analogy) an ad-
-ditional car lowers the utility per car.
+way as (please excuse the analogy) an additional
+car lowers the utility per car.
 Such altruism is easily grafted onto the
-neoclassical utility function by letting par-
-ents' utility depend on their own life-cycle
+neoclassical utility function by letting parents'
+utility depend on their own life-cycle
 consumption and separately on their degree
 of altruism per child, the number of children,
-and the utility of each child. This formula-
-tion has the important implication that pref-
-erence for parents' relative to children's con-
-sumption (so-called time preference) is not
+and the utility of each child. This formulation
+has the important implication that preference
+for parents' relative to children's consumption
+(so-called time preference) is not
 exogenous but rises as the number of children
 increases.
 The resources available to parents from
@@ -24,54 +24,54 @@ child rearing is time intensive, the cost of
 rearing children is positively related to the
 value of parents' time. Income per capita
 would rise between the parents' and the
-child's generations if the total capital be-
-queathed to each child exceeds the capital
+child's generations if the total capital bequeathed
+to each child exceeds the capital
 inherited by each parent.
 Parents choose optimal values of their own
 consumption, the number of children, and
 capital transferred to each child while taking
 into account the cost of rearing children and
 the dependence of their utility on the utility
-of children. This analysis has many implica-
-tions for the behavior of fertility that Robert
+of children. This analysis has many implications
+for the behavior of fertility that Robert
 Barro and I explore elsewhere (see 1987 and
 1988). Here I concentrate on a few that alter
 implications of the neoclassical model about
 capital accumulation and growth.
 If the number of children demanded by
 the typical family is positively related to the
-income of parents (the Malthusian assump-
-tions), or at least if it is not strongly nega-
-tively related, then this model also has stable
+income of parents (the Malthusian assumptions)
+, or at least if it is not strongly negatively
+related, then this model also has stable
 steady-state levels of the capital-labor ratio
 and per capita income. But these steady
 states depend on variables that change the
 demand for children.
 One example is the consequences of an
 extended but temporary decline in income
-and productivity-perhaps due to the dis-
-organization induced by a lengthy depres-
-sion. In the neoclassical model this has no
-long-run effect on either per capita or ag-
-gregate income. In our modified model an
-extended decline in productivity can perma-
-nently lower aggregate income because birth
+and productivity-perhaps due to the disorganization
+induced by a lengthy depression.
+In the neoclassical model this has no
+long-run effect on either per capita or aggregate
+income. In our modified model an
+extended decline in productivity can permanently
+lower aggregate income because birth
 rates may fall when productivity, wages, and
 interest rates fall. Recall the sharp decline in
 birth rates during the Great Depression.
 Just over a decade age, Barro (1974)
 showed that a dose of family economics
 radically alters traditional conclusions about
-the effects of budget deficits on private sav-
-ings. For example, deficits to finance Social
+the effects of budget deficits on private savings.
+For example, deficits to finance Social
 Security payments tax future generations to
 support the elderly. Altruistic parents who
 leave bequests to their children do not seek
 an intergeneration redistribution of incomes,
 so they would increase their bequests to offset
 the effect on children of future taxes. If these
-families are common, Social Security pay-
-ments and other public expenditures financed
+families are common, Social Security payments
+and other public expenditures financed
 by taxes on future generations would not
 have much effect on private savings. This is
 the so-called Ricardian equivalence theorem.
@@ -81,8 +81,8 @@ but also has more conventional implications
 for the relation between Social Security and
 savings. Various comments on Ricardian
 equivalence emphasize that some families do
-not leave bequests; I will discuss these fami-
-lies in Section IV. Development economists
+not leave bequests; I will discuss these families
+in Section IV. Development economists
 have long recognized that parents value
 children who provide support during old age.
 A Social Security system that replaces child
