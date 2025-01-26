@@ -66,15 +66,3 @@ maintain price stability. Failure to appreciate this
 realistic possibility again may be another case in
 which the absence of norms from utility functions
 has unduly blinkered macroeconomic thinking.79
-77 Shiller (1997, 37).  78 Bankruptcy and financial considerations become es-
-pecially important when inflation is very high. It is also  worth noting, at least parenthetically, that high levels of  bankruptcy at times of high inflation are themselves a symp-  tom of money illusion. Such bankruptcies reflect the non-  indexation of financial contracts.
-79 In addition to the two questionnaire studies I have  mentioned, indexed contracts give another indicator for the  existence of nominal notions concerning what wage in-
-creases should or should not be. Economists are often sur-
-prised at the small fraction of union contracts that are
-indexed at all. (Louis N. Christofides and Amy Chen Peng  2004, for example, analyzed a sample of almost 12,000
-Canadian union contracts from 1976 to 2000. The mean
-length of these contracts was slightly more than two years  (25 months). Only 19 percent of these contracts were in-  dexed.) But even when such indexation occurs, their form
-violates the condition that they were struck with only real  considerations in mind. For an imperfect index such as the  CPI, which reflects both supply shocks and demand shocks,  the optimal COLA adjustment will be less than one, but it  will always be (almost) symmetric for positive and negative  deviations of inflation from a threshold. (See Jo Anna Gray  1978, Ronald G. Ehrenberg, Leif Danziger, and Gee San  1983, and David Card 1986 for the derivation of optimal  indexation.) But COLA adjustments are only positive. (Card  1986, S146, has expressed this in terms of a formula: w(t) =
-w"(t) + max{0, a[p(t) - p1}, where w(t) is the nominal  wage, wn(t) is the nominal target, p(t) is the actual price  level, and p' is the threshold.) Thus, the form of the contract
-violates optimality. In practice, this violation is also biting.  For example, in roughly one-third of a large Canadian  sample of indexed contracts, inflation was always below the  threshold (see Christofides and Peng 2004, 11, fn. 19). Thus,
-the form of indexed contracts, when they exist, shows that  union wage negotiators think that COLA adjustments  should never be negative. The form of indexed contracts  gives another robust indicator that, indeed, wage setters

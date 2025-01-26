@@ -83,21 +83,3 @@ is not devoid of other merits (and is fre-
 quently used in practice).30 Other types of
 voting rules have also been shown to have
 different desirable properties.3'
-a somewhat exaggerated title: "The General Irrele-
-vance of the General Possibility Theorem") and in a  definitive paper by Jean-Michel Grandmont (1978).  Fine discussions of the issues involved in the different
-types of domain conditions can be found in Gaertner
-(1979) and Arrow and Herve Raynaud (1986).
-28The ubiquitous presence of voting cycles in ma-
-jority rule has been extensively studied by R. D.  McKelvey (1979) and Norman Schofield (1983).
-29Even individual social welfare judgments (and
-more generally, individual views of social appropriate-
-ness) presumably have some influence on political pref-
-erences.
-30Positional rules of other kinds have been studied
-extensively by Peter Gardenfors (1973) and Ben Fine
-and Kit Fine (1974a,b). On different versions of the
-Borda rule, see Sen (1977a, 1982a pp. 186-87).
-31For example, Andrew Caplin and Barry Nalebuff
-(1988) provide a case for 64-percent majority rule. Also
-see the symposium on voting procedures led by
-Jonathan Levin and Nalebuff (1995).

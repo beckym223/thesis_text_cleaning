@@ -63,11 +63,4 @@ the public; (f) growth of the economy in excess
 of the interest rate, allowing steady debt issu-
 ance; (g) lack of foresight regarding the effect
 of social security on future taxes; (h) foreign
-ownership of debt; (i) tax distortions;26, 27, 28 (j)  Phelps. He has summarized for me the content of that talk
-in an e-mail.  21 For each of the five neutralities we see that the inclu-
-sion of broader preferences, inclusive of norms, will bring  Keynesian behaviors back to life. But, of course, that does
-not mean that the competitive forces and the maximizing  behaviors responsible for the five neutralities are not im-  portant as well.  22 That appreciation is of course due to Barro (1974).  23 This model is quite close to Ricardo's original discus-  sion. It is a considerable simplification of Barro's model.  His model had a sequence of overlapping generations, each  of which lived for two periods. Barro's contribution was not
-only to show Ricardian equivalence in the two-generation  model, but also its extension to a sequence of generations  when parents' utility depended only on their own utility and  the utility of their own children. Ricardo's discussion,  which is close to the two-generation model here, was then  subsequently rediscovered. There is no uncertainty, and all  taxes are lump-sum. This proposition may be generalized,  for example, following Barro, to a model with m overlap-  ping generations, each of which has different consumption  when young and old. Each parent derives utility from his  own consumption and the utility of his child.  24 The tax and the transfer are both lump-sum.  25 The conventional wisdom is, of course, that social
-security will affect aggregate savings. Martin Feldstein  (1974) and Feldstein and Anthony Pellechio (1979) act as if  increases in social security of the current generation will  result in increased consumption, so that the next generation  will have a lower capital stock.
-26 I take this list mainly from the review article by John  J. Seater (1993).
-27 Barro (1989) also gives a careful review of the frictional  reasons why Ricardian equivalence may not in fact occur.  28 In the case of strategic bequests, the bequest is an  unusual form of incentive payment for a service rendered.
+ownership of debt; (i) tax distortions;26, 27, 28 (j)

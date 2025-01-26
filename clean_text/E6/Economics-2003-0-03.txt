@@ -45,10 +45,8 @@ the 1980's, a number of economists used ver-
 sions of neoclassical growth theory to examine
 the effects of taxation on the total stock of
 capital, not just the composition of that stock.2
-The models used in these studies differ in their
-' Lucas (2000). My estimates are based on the money
-demand estimates in Allan H. Meltzer (1963).  2 For example, William A. Brock and Stephen J.
-Tumovsky (1981), Christophe P. Chamley (1981), Law-
+The models used in t
+ophe P. Chamley (1981), Law-
 details, but all were variations on a one-good
 growth model in which consumers (either an
 infinitely lived dynasty or a succession of gen-
@@ -95,7 +93,4 @@ to a 20-percent increase in consumption with no
 increase in work effort!
 The gain from reducing French taxes to U.S.
 levels can in part be viewed as the gain from
-adopting a flat tax on incomes,3 but it is doubt-
-rence H. Summers (1981), Alan J. Auerbach and Laurence  J. Kotlikoff (1987), and Kenneth L. Judd (1987).  3 See also Robert E. Hall and Alvin Rabushka (1995).
-2
-MARCH 2003
+adopting a flat tax 

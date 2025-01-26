@@ -1,15 +1,3 @@
-.06
-Cum. Sum Cum.
-Real Rate of
-Cost TFP
-Reduction Growth
-.03 -
-0 ~~~~~~~~~~~~~~~~~0
--.03
-. - --II ' I -I
-0 .2 .4 .6 .8 1
-Percentile of Initial Value Added
-FIGURE 4. TFP GROWTH PROFILE IN MEXICAN MANUFACTURING SECTOR (1892 ESTABLISHMENTS, 1984- 1994)
 luck in the technological draw, side by side
 with highly diverse experience between indus-
 tries because the distribution of technical ad-

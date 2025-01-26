@@ -76,27 +76,3 @@ ability distribution known at the time the
 contract is entered, and those stemming from
 developments to which no basis could be
 found for assigning probabilities.
-l I take the threefold categorization from the summary
-of wage contracting literature by Robert Flanagan
-(1984). See also Costas Azariadis and Joseph Stiglitz
-(1983).
-2See Martin Baily (1974), Azariadis (1975), Donald
-Gordon (1974), Sanford Grossman and Oliver Hart
-(1981) and Bengt Holmstrom (1983).
-3See Benjamin Klein (1984), Klein, Robert Crawford,
-and Armen Alchian (1978), David Mayer and Richard
-Thaler (1979), Michael Wachter and Oliver Williamson
-(1978).
-4See Carl Shapiro and Stiglitz (1984), Edward Lazear
-(1981), and Janet Yellen (1984).
-5In some of the efficiency wage models, the firm
-attempts to pay more than the going wage, creating a
-penalty for workers who shirk and are fired. When all
-firms do this, aggregate unemployment is created and a
-shirking penalty still exists. No implicit contracts are
-needed. Both Victor Goldberg (1982) and Lazear, how-
-ever, postulate a positively shaped earnings profile (new
-workers earn less than their marginal product) as a way  of getting employees to post a performance bond thereby
-creating shirking penalties. This version does require
-implicit contracts enforced on the firm by fear of rep-
-utation loss.

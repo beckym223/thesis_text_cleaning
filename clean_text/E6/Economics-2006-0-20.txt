@@ -1,18 +1,3 @@
-TABLE 8-ENROLLMENT INTENTIONS
-Intended
-choice
-Action that minimizes EPV of OPC
-Enroll Delay Total
-Enroll 63.3% 19.4% 82.7%
-Delay 10.0% 7.3% 17.3%
-Total 73.4% 26.6% 100.0%
-TABLE 9-PLAN CHOICE
-Min EPV
-Alternative Choice of OPC
-Standard 46.9% 45.5%
-Guaranteed Benefit 27.1% 3.3%
-Major Cost Protection 6.0% 0.0%
-No Copay 20.0% 51.2%
 bills in 2006. About 72.5 percent of the Medi-
 care population meet this condition. For those
 with lower bills, there is an annual pharmacy

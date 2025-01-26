@@ -86,15 +86,3 @@ of national health insurance with an index value
 of 0. Not surprisingly, there is a negative cor-
 relation between the national health insurance
 index and the actuarial model index. But there
-35 For a comprehensive review of the role of uncer-
-tainty in decision-making see C. F. Camerer and M. Weber
-(1992).  36 The physicians also differed from the health econo-
-mists, choosing "no opinion" more often for the positive
-than for the policy-value questions (15 percent versus 9
-percent).
-" In actuarially-based insurance it is presumed that
-premiums will be determined (to the extent feasible) by
-expected loss. Health insurance did not begin with that
-assumption; the early Blue Cross/Blue Shield premiums
-were typically "community rated," with healthy individ-
-uals paying the same premiums as those who were ill.

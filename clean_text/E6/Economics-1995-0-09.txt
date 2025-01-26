@@ -71,32 +71,3 @@ lar when people are compared in terms of
 some other feature, such as real income,
 holdings of primary goods, or capabilities to
 function. There are, thus, whole varieties of
-210n different types of interpersonal comparisons,
-and the relevance of distinct "spaces" in making effi-
-ciency and equity judgments, see Sen (1982a, 1992a),
-John Roemer (1986), Martha Nussbaum (1988),
-Richard Arneson (1989), G. A. Cohen (1989), Arrow
-(1991), Elster and Roemer (1991), and Nussbaum and
-Sen (1993).  22On the other hand, Arrow's impossibility theorem
-can be generalized to accommodate cardinality of utili-
-ties without interpersonal comparisons; see Theorem
-8.2 in Sen (1970).
-23Maximin gives complete priority to the interest of
-the worst off. It was proposed by John Rawls (1963), as
-a part of his "difference principle" (though the com-
-parisons that he uses are not of utilities, but of hold-
-ings of primary goods). Lexicographic maximin, some-
-times called "leximin," was proposed in Sen (1970) to
-make the Rawlsian approach consistent with the strong
-Pareto principle, and it has been endorsed and used in
-his Theory of Justice by Rawls (1971). Axiomatic deriva-
-tions of leximin were pioneered by Peter J. Hammond
-(1976), and Claude d'Aspremont and Gevers (1977),
-among others. See also Edmund Phelps (1973).
-24See Harsanyi (1955), Patrick Suppes (1966), Sen
-(1970, 1977b), Phelps (1973), Hammond (1976, 1985),
-Arrow (1977), d'Aspremont and Gevers (1977), Gevers
-(1979), Eric Maskin (1978, 1979), Roberts (1980a,b),
-Roger B. Myerson (1981), James Mirrlees (1982),
-Suzumura (1983), Blackorby et al. (1984), d'Aspremont
-(1985), and Kelsey (1987), among others.
