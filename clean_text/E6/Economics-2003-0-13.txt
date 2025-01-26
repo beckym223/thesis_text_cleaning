@@ -1,21 +1,21 @@
-THE AMERICAN ECONOMIC REVIEW 
- him, a purely static theory of general equilib- 
- rium. Fluctuations in production and employ- 
- ment, due to monetary disturbances or to shocks 
- of any other kind, were viewed as inducing 
- disequilibrium adjustments, unrelated to any- 
- one's purposeful behavior, modeled with vast 
- numbers of free parameters. For us, today, value 
- theory refers to models of dynamic economies 
- subject to unpredictable shocks, populated by 
- agents who are good at processing information 
- and making choices over time. The macroeco- 
- nomic research I have discussed today makes 
- essential use of value theory in this modem 
- sense: formulating explicit models, computing 
- solutions, comparing their behavior quantita- 
- tively to observed time series and other data 
- sets. As a result, we are able to form a much 
- sharper quantitative view of the potential of 
- changes in policy to improve peoples' lives than 
- was possible a generation ago.
+THE AMERICAN ECONOMIC REVIEW
+him, a purely static theory of general equilib-
+rium. Fluctuations in production and employ-
+ment, due to monetary disturbances or to shocks
+of any other kind, were viewed as inducing
+disequilibrium adjustments, unrelated to any-
+one's purposeful behavior, modeled with vast
+numbers of free parameters. For us, today, value
+theory refers to models of dynamic economies
+subject to unpredictable shocks, populated by
+agents who are good at processing information
+and making choices over time. The macroeco-
+nomic research I have discussed today makes
+essential use of value theory in this modem
+sense: formulating explicit models, computing
+solutions, comparing their behavior quantita-
+tively to observed time series and other data
+sets. As a result, we are able to form a much
+sharper quantitative view of the potential of
+changes in policy to improve peoples' lives than
+was possible a generation ago.
