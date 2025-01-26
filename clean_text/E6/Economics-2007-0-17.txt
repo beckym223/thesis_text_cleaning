@@ -70,9 +70,3 @@ case of investment, economists are already
 aware of a fundamental reason why investment
 will depend on current cash flow. Modigliani-
 Miller and q-theory both assume that managers
-57 See Andrew B. Abel (1979), Lawrence H. Summers  (1981), and Fumio Hayashi (1982).  58 This should not be a surprise, because the assumptions  of this version of q-theory are in accord with Modigliani-  Miller: competitive financial markets and investment that  maximizes shareholder value. Thus, the firm's current fi-
-nancial position should play no role in investment. In q-  theory, current profits are just one component of the stream  of current and future profits that determine the value of q. In  this sense, they play no special role in the determination of  investment. This de-emphasis of current cash flow (and thus  current profits) in investment is analogous to the denial of  any special role of current income in the permanent income
-hypothesis.  59 See, for example, Fazzari, Hubbard, and Petersen  (1988). Stewart C. Myers and Nicholas S. Majluf (1984)  also argued that cash flow would affect investment when  managers had information not available to investors.
-60 An examination of the investment spending of firms  with cash windfalls from winning or settling lawsuits sup-  ports this finding (Olivier J. Blanchard and Florencio
-Lopez-de-Silanes 1993). These firms had no problems re-
-garding credit constraints; yet they invested in projects they  would not have otherwise pursued. Another striking finding  also shows excess sensitivity of investment to cash flow. In  1986, when the price of oil declined dramatically, non-oil  subsidiaries of oil companies cut their investment relative to  the median in their industry (Owen Lamont 1997). But  because this study examines the investment implications of  afall, rather than of a rise, in the price of oil, it is not useful  in resolving the role of credit constraint.

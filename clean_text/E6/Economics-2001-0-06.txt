@@ -1,16 +1,3 @@
-100,000.0
-10,000.0
-1,000.0
-_0E
-i 100.0
-0
-1.0
-0.1
-0.0
-1959 1964 1969 1974 1979 1984 1989 1994 1999
--u-Computers - Memory- Logic
-FIGURE 1. RELATIVE PRICES OF COMPUTERS AND SEMICONDUCTORS, 1959-1999
-Note: All price indexes are divided by the output price index.
 C. Constant Quality Price Indexes
 The behavior of semiconductor prices is a
 severe test for the methods used in the official
@@ -57,4 +44,3 @@ capacity. A constant quality price index isolates
 the price change by holding these characteristics
 of semiconductors fixed.
 Beginning in 1997, the U.S. Bureau of Labor
-" See J. Steven Landefeld and Robert P. Parker (1997).

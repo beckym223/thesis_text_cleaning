@@ -64,12 +64,4 @@ from a money wage decline. Sticky money
 wages then result, as the bargains between em-
 ployers and employees reflect the presence of
 this ideal in the utility function.
-Indeed, the study by Bewley (1999) gives  68 These distributions have accumulations at zero, and
-they are also asymmetric: there are more wage changes  above zero than below zero. This suggests that the accumu-  lations at zero do not occur just because there is a menu cost  for changing wages.  69 The following studies have all found significant signs  of nominal wage rigidity: Truman Bewley (1999), David  Card and Dean Hyslop (1997), Shulamit Kahn (1997),  David E. Lebow, Raven E. Saks, and Beth Anne Wilson
-(1999), and Joseph G. Altonji and Paul J. Devereux (1999)  for the United States; Pierre Fortin (1996) for Canada;
-Vincenzo Cassino (1995) and Simon Chapple (1996) for  New Zealand; Jacqueline Dwyer and Kenneth Leong (2000)  for Australia; Sara G. Castellanos, Rodrigo Garcia-Verdii,  and David Kaplan (2004) for Mexico; Sachiko Kuroda and  Isamu Yamamoto (2003a, b, c) and Takeshi Kimura and
-Kazuo Ueda (2001) for Japan; Ernst Fehr and Lorenz Goette  (2003) for Switzerland; Thomas Bauer, Holger Bonin, and  Uwe Sunde (2003) and Christoph Knoppik and Thomas  Beissinger (2003) for Germany; Stephen Nickell and  Glenda Quintini (2001) for the United Kingdom; and Jonas
-Agell and Per Lundborg (2003) for Sweden.  70 See, for example, Anthony P. O'Brien (1989) and  Christopher Hanes (2000).  71 See Janet L. Yellen and Akerlof (2006, 12).  72 There are other possible reasons for this failure of the
-standard predictions from natural rate theory. Inflationary  expectations may not have been adaptive; the failure of  deflation to accelerate could be due to expectations that the  price level would return to some normal level. In the United
-States, the National Recovery Act, which encouraged firms  to increase prices, and unionization, which gave a fillip to  wages, could also have affected the trade-off between in-  flation and unemployment. But since unemployment was so  very high for so very long, and since the absence of accel-  erating deflation was so universal across countries, this still
-seems to be a dog that did not bark. It seems to point to a  problem with natural rate theory.  73 See Akerlof, Dickens, and Perry (1996, table 4).
+Indeed, the study by Bewley (1999) gives

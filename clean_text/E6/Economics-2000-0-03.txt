@@ -86,16 +86,4 @@ dent in fewer famines, increased caloric intakes,
 reduced child and infant mortality, increased
 life expectancy, great reductions in time
 worked, and greatly increased percentage of the
-population that is literate.  1 I have an enormous intellectual debt to many people for
-the ideas that I have tried to put together in this paper.
-Rather than interrupt the flow of the text with the numerous
-citations that could be made, I wish to specify the individ-
-uals and publications that have had the greatest influence:
-Theodore W. Schultz (1964), Simon Kuznets (1966, 1979),
-Paul M. Romer (1986, 1990), Paul Bairoch (1988), Zvi
-Griliches (1988, 1998), Robert E. Lucas, Jr. (1988, 1993),
-Gary S. Becker (1991), Malthus (1992), and Robert W.
-Fogel (1996, 1999). I have not provided a full list of papers
-that have influenced my thinking but only the one or two
-that had the most influence. My debts to many others for
-data are indicated at the appropriate points.
+population that is literate.

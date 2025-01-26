@@ -35,21 +35,8 @@ labor. The procedure increases the share of lei-
 sure in consumption in both 1875 and 1995.
 While leisure (volwork) remains a relatively
 small share of expanded consumption in 1875,
-TABLE 4-THE LONG-TERM TREND IN THE STRUCTURE
-OF EXPANDED CONSUMPTION AND THE IMPLIED INCOME
-ELASTICITIES OF SEVERAL CONSUMPTION CAT'EGORIES
-(Percent)
-Distribution of
-expanded Long-term
-Consumption consumption ncome
-class c. 1875 c. 1995 elasticities
-Food 49 5 0.2
-Clothing 12 2 0.3
-Shelter 14 5 0.7
-Health care 1 9 1.6
-Education 1 5 1.6
-Other 6 7 1.1
-Leisure 18 67 1.4
+
+
 it accounts for two-thirds of expanded con-
 sumption in 1995.'
 The failure to include the value of volwork
@@ -77,20 +64,4 @@ I1I. Shifting to Life-Cycle Data Sets for
 Successive Cohorts and to Intergenerational
 Data Sets
 It is no secret that cross-sectional data sets
-are cheaper to construct and more abundant  6 "Other" consists mainly of expenditures on utilities  and transportation, and of purchases of the supplies, fur-
-nishings, equipment, and services involved in the opera-
-tion of households.
-7 The elasticities are not adjusted for prices. Since their
-prices declined, the price-adjusted income elasticities are
-lower than shown for the first three expenditure categories
-and the last one. Since the prices of the other three expen-
-diture categories rose, their price-adjusted income elasti-
-cities are higher than shown.
-x I have also excluded savings and taxes. Nordhaus
-(1997) points out that when account is taken of the in-
-crease in health and other forms of human capital, the
-savings rate has not declined.
-' This procedure was previously followed by Simon
-Kuznets ( 1952) and others who corrected the national in-
-come and product accounts for the omission of volwork.
-See Robert Eisner (1988).
+are cheaper to construct and more abundant

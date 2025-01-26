@@ -86,7 +86,3 @@ output Y to hours worked H, and k = KIH is
 the ratio of capital services K to hours worked:
 (3) A Iny== VKA Ink
 + VL(A InL - A In H) + A In A.
-3' Karl Whelan (1999) also employs Solow's concept of
-embodiment.
-32 See, for example, John Y. Campbell and Robert J.
-Shiller (1998).

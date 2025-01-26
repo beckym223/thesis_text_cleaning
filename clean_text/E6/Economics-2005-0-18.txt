@@ -94,5 +94,4 @@ ployment rates that we see in Europe. The U.S.
 experience shows that this problem can be elim-
 inated within the pay-as-you-go system. It
 would, of course, also be eliminated in an
-investment-based system in which retirement  17 For an explicit derivation of the neutrality result and an  examination of the implication of capital income taxes and of  other discount rates, see Feldstein and Liebman (2002a).  18 For example, with a per capita growth rate of two
-percent and an elasticity of the marginal utility function of  two percent per year, the rate of decline of the marginal  utility of consumption would be 4 percent.
+investment-based system in which retirement

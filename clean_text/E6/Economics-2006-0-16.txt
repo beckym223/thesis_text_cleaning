@@ -42,8 +42,8 @@ issue.4 In the Medicare population, people with
 prescription drug coverage average 1.1 more
 prescriptions than those without. If the 26 per-
 cent of the population who currently pay all
-4 See Peter Adams et al. (2003), Dana P. Goldman et al.  (2004), Anne E. Hall (2004), Haiden A. Huskamp et al.  (2004, 2005), John R. Moran and Kosali I. Simon (2005),
-and Z. Yang et al. (2004).  their pharmacy bills enroll in Part D, experience
+
+their pharmacy bills enroll in Part D, experience
 this increase in number of prescriptions, and
 face the current average monthly cost of a new
 prescription, $66, then this increases the cost of

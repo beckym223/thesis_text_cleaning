@@ -40,31 +40,3 @@ his amiable weakness for the nonstop
 sentence. At the close of a long critique of
 the American welfare state, which is the
 mixed economy I have been talking about,
-APPENDIX TABLE 1 -GROWrH RATES OF PRODUCTIVITY (OUT-PUT PER HOUR) IN THE PRIvATE SECTOR:
-MEASURES ACROSS PHASES OF DEPRESSION OR STAGNATION,
-AND PHASES OF PROSPEROUS DEVELOPMENT, 1892-1979
-Deviations of Cross-Stagnation Rates
-Growth Rates of Productivitya from Neighboring Phases of Development
-Across Depression Across Phases
-or Stagnation of Prosperous Absolute Percentage
-Phasesb Developmentb Differencesc Differences
-1892-99 1.47 1892/99
--1899/1907 -0.55 - 27.2
-1899-1907 2.02
-1907/13
-1907-13 1.26 -1899/1907 -0.76 -37.6
-1920-29 2.76 1929/37
--1920/29 -1.11 -40.2
-1929-37 1.65
-1929/41
-1929-41 2.51 -1920/29 -0.25 -9.1
-1948-65 3.2 1965/79
--1948/65 - 1.6 -50.0
-1948-73 2.9
-1965-79 1.6 1973/79
--1948/65 -2.6 -81.2
-1973-79 0.6 1973/79
--1948/73 -2.3 - 79.3
-Sources: 1899-1941, Kendrick (1961, Table A-XXII); 1948-79, see fn. 8.
-'Shown in percent per year.
-bTerminal years of phases are NBER business cycle peaks, except 1965.  cShown in percentage points.

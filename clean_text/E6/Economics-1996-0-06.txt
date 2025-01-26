@@ -82,18 +82,4 @@ schooling and health.
 To explore this question I examined sur-
 vey data on smoking behavior collected
 by colleagues in the Stanford Heart Dis-
-ease Prevention Program as part of a health  16 Eddy's analysis focuses on the incremental benefit
-and cost of more services to all the patients in a population.
-Another important example of margin is the cost and ben-
-efit of extending a (usually) once-in-a-lifetime service
-such as- coronary bypass surgery to more and more  patients.
-Antibiotics, drugs for hypertension, surgery for
-trauma, and care of infants born prematurely are examples
-of outstanding successes.
-18 Standard errors of the regression coefficients shown
-in parentheses. Mortality rates are 3-year averages cen-
-tered on the years shown. Regressions are weighted by
-state population.  '" This is in sharp contrast to the effects of income and
-medical care on health-their marginal products diminish
-rapidly over, the ranges usually found in high-income
-countries.
+ease Prevention Program as part of a health

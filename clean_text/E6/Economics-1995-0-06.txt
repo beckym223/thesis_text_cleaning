@@ -73,24 +73,3 @@ social preference itself. All that is needed
 from the point of view of choice is that the
 decision mechanisms determine a "choice
 function" for the society, which identifies
-11On some analytical problems involved in deriving
-"the revealed preference of a government" by observ-
-ing its choices, see Kaushik Basu (1980).  12 Binariness requires a combination of two types of
-choice consistency: basic "contraction consistency" (a)
-and basic "expansion consistency" (y). These condi-
-tions are quite exacting, and they have to be further
-strengthened to get transitivity and other additional
-properties (on this, see Sen [1971, 1977a], Rajat Deb
-[1983], and Isaac Levi [1986]).
-13On this, see Harsanyi (1955 p. 310): "Of course,
-when I speak of preferences 'from a social standpoint,'
-often abbreviated to 'social' preferences and the like, I
-always mean preferences based on a given individual's
-value judgments concerning 'social welfare."'
-14This has been established in a sequence of results,
-presented by Gibbard, Hansson, Andreu Mas-Colell,
-Hugo Sonnenschein, Donald Brown, Georges Bordes,
-Kelly, Suzumura, Douglas Blair, Robert Pollak, Julian
-Blau, Deb, David Kelsey, and others; for critical
-overviews, see Blair and Pollak (1982), Suzumura
-(1983), and Sen (1986a).

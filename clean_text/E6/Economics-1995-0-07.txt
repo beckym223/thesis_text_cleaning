@@ -81,22 +81,3 @@ pendent of individual preferences over pairs
 other than (x, y). It can be shown that there
 is no way of going from individual prefer-
 ences to social choice satisfying these
-15The pioneering work on choice-functional formu-
-lations came from Hansson (1968, 1969), Thomas
-Schwartz (1972, 1985), Fishburn (1973), and Plott
-(1973). Mark Aizerman and his colleagues at the Insti-
-tute of Control Sciences in Moscow provided a series
-of penetrating investigations of the general choice-
-functional features of moving from individual-choice
-functions to social-choice functions (see Aizerman,
-1985; Aizerman and Fuad Aleskerov, 1986). On related
-matters see also Aizerman and A. V. Malishevski
-(1981).
-16A sequence of contributions on this and related
-issues has come from Plott, Fishburn, Hansson, Donald
-Campbell, Bordes, Blair, Kelly, Suzumura, Deb, R. R.
-Parks, John Ferejohn, D. M. Grether, Kelsey, V. Deni-
-colo, and Yasumi Matsumoto, among others. For gen-
-eral overviews and critiques, see Blair et al. (1976),
-Suzumura (1983), and Sen (1986a).
-17See also Buchanan and Tullock (1962).

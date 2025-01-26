@@ -101,4 +101,3 @@ natural. That application requires the set of
 agents to be large-larger than the set of
 integers. Treating the set of the agents of an
 economy as the rich collection of the points
-1See the preface in Robinson (1966).

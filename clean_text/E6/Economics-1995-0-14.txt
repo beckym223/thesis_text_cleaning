@@ -74,29 +74,3 @@ last is an important subject on its own (quite
 independently of any use it might have
 as an attempt to resolve the impossibility),
 and I shall presently consider it. But as has
-37Utilities can be defined in terms of choices made,
-desires entertained, or satisfactions received, but the
-point at issue applies to each of these interpretations.
-Utilitarian welfare economics has tended traditionally
-to focus on satisfactions, partly because individual
-choices do not immediately yield any basis for interper-
-sonal comparisons unless some elaborately hypotheti-
-cal choices are considered, on which see Harsanyi
-[1955]), but also because "satisfaction" had appeared
-to utilitarian economists as providing a more solid basis
-for judging individual welfare. For example, this was
-the reason given by A. C. Pigou (1951 pp. 288-89):
-Some economists ... have employed the term
-'utility' indifferently for satisfactions and for
-desiredness. I shall employ it here to mean
-satisfactions, so that we may say that a man's
-economic welfare is made up of his utilities.
-38The idea of "personal domains" and "protected
-spheres" goes back to Mill (see Riley, 1987), and more
-recently has found strong and eloquent expression in
-the writings of Friedrich Hayek (1960).
-39For general accounts of the literature, see Kelly
-(1978), Suzumura (1983, 1991), Wriglesworth (1985),
-Paul Seabright (1989), and Pattanaik and Suzumura
-(1994a, b). For public-choice critiques, see Sugden
-(1981, 1993) and Rowley (1993).

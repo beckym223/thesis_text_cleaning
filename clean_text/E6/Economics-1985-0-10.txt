@@ -97,8 +97,3 @@ a shock may impose only second-order losses
 on the firms who follow such behavior, even
 though the macro result may be first-order
 losses for the economy.8 Everything else
-8Technically the Akerlof-Yellen proposition applies
-to situations in which agents' objective functions are
-differentiable in their own prices and wages-a condi-
-tion that is not met in the competitive model, but is met
-in a wide range of other market models.

@@ -85,10 +85,4 @@ opens up a large number of dimensions of
 potential improvement. In another study
 I found strong indications that the results
 of learning-by-doing are significantly in-
-fluenced by differences in the available  28 See Zvi Griliches and Dale Jorgensen.
-29 Looking at the matter in this fashion is of course
-compatible with using models that represent progress
-as the "augmentation" of inputs. Indeed, models of
-this sort usually draw a sharp distinction between "in-
-puts measured in physical units" and "inputs measured
-in (augmented) efficiency units."
+fluenced by differences in the available

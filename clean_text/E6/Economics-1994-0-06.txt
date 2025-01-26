@@ -77,10 +77,3 @@ computer industry and its deflator are han-
 dled in the analysis.5 At the same time, the
 stock market's valuation of R&D fell signif-
 icantly, both in terms of ex post returns to
-4This literature has been surveyed in Griliches (1979,
-1991), Jacques Mairesse and Mohamed Sassenou  (1991), Wallace Huffman and Evenson (1993), and M. I.
-Nadiri (1993).
-5As reported in Griliches (1986a), I found no signif-  icant decline in the relevant coefficients through the
-mid-1970's. Frank Lichtenberg and Donald Siegel  (1991) replicated and extended this work to the early  1980's and found increases in the relevant coefficients  through 1985. B. Hall (1993) updated and extended the  Griliches and Mairesse (1984) study of publicly traded  U.S. manufacturing firms to the end of the 1980's and  found that the R&D coefficients came close to disap-  pearing in the 1970's and early 1980's but recovered in  the late 1980's to about half or more of their original  size. Her result is very sensitive, however, to the partic-  ular deflators used in constructing the output measure.  When separate industry-level deflators are used, in-  cluding the newly revised deflator for the output of the  computer industry, there is no evidence of a decline in  the "potency" of R&D at all; the estimated coefficients  rise rather than fall. See also Englander et al. (1988)
-Pari Patel and Luc Soete (1988), Sveikauskas (1990),
-and Scherer (1993).

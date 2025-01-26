@@ -1,4 +1,3 @@
-THE AMERICAN ECONOMIC REVIEW
 indifferent between the deterministic stream
 and the compensated, risky stream. That is, A is
 chosen to solve
@@ -42,7 +41,8 @@ from fiscal and monetary policy changes that I
 cited above, this estimate seems trivially small:
 more than an order of magnitude smaller than
 the gain from ending a 10-percent inflation!
-5 The comparable figure using a Hodrick-Prescott trend  with the smoothing parameter 400 is 0.022.  Even if we do not know exactly how much
+
+Even if we do not know exactly how much
 consumption risk would be removed by an op-
 timal monetary and fiscal policy, it is clear that
 it would fall far short of the removal of all
@@ -85,5 +85,3 @@ worked, a log real GDP measure, and the cor-
 responding implicit price deflator. To these
 three rates of change are added an ex post real
 interest rate (the three-month Treasury bill rate
-4
-MARCH 2003

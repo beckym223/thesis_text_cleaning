@@ -39,25 +39,7 @@ equality that has occurred during the 1980s
 because very high incomes have been in-
 creasing much faster than the incomes in the
 lower part of the distribution.5 This can be
-TABLE 1-BEFORE-TAX INCOME SHARES, CENSUS DATA,
-SELECTED YEARS, 1948-1988, PERCENT.
-Top 5 percent Top 20 percent
-Year of families of families
-1948 17.1 42.4
-1952 17.4 41.5
-1957 15.6 40.4
-1962 15.7 41.3
-1967 15.2 40.4
-1972 15.9 41.4
-1977 15.7 41.5
-1981 15.4 41.9
-1987 16.9 43.7
-1988 17.2 44.0
-Source: Bureau of the Census. Income includes transfer
-payments (for example, Social Security benefits, unem-
-ployment compensation, welfare payments, etc.) but
-excludes capital gains. Distribution includes only fami-
-lies and excludes single persons living alone.
+
 seen by examining changes in the shares of
 the top income recipients reported in the
 annual Statistics of Income published by the
@@ -83,14 +65,3 @@ realized capital gains that accompanied the
 bull market of the 1980s. But salaries and
 other incomes of the top units have also
 been increasing faster than average.7 In fact,
-4See Musgrave (1989) for a statement of similar  views.
-5Using Pareto distributions based on income tax
-data to approximate the upper tail of the U.S. distribu-
-tion, Rudy Fichtenbaum and Hushang Shahidi (1988)
-calculated that the CPS underestimation of the Gini
-coefficient rose from 1.7 percent in 1967 to 7.6 percent
-in 1984.
-6For the method of calculation, see Pechman (1989),  ch. 1.
-7According to Statistics of Income, the shares of ad-
-justed gross income other than capital gains increased
-from 6.59 percent in 1981 to 7.64 percent in 1986 for

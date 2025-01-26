@@ -1,32 +1,3 @@
-MexAcan Manufacturing: Soft Drinks [66 Establishments]
-.06 -
-Cum.
-Rate .03- _ .0302
-of TFP -.0204
-Growth 0
--.03
--.06 -
-0 .2 .4 .6 .8 1
-Percentile of Initial Value Added
-Mexican Manufacturing: Cement [79 Establishments]
-.06 - Cum.
-Rate ______________ _- .0337
-of TFP-03 -
-Growth .0159
-0 '- 0
--.03
--.06
-Percentile of Initial Value Added
-Mexdcan Manufacturing: Other Wood Prods. [43 Establishments]
-I I I I ~ ~~~~~~~ I
-.06 - Cum. Rate
-of TFP.03 - .0179
-Growth - = =. . 0026
-O- ~ ~ ~ ~ ~~ ___________ .002
--.03
--.06 5A. T T L F W N E A R 8
-6 .2 ~Percentile of InitalIau AddA
-FIGURE, 5A. TFP GROWTH PROFILES FOR FAST-GROWING BRANCHES (MEXICAN MANUFACTURING, 1984- 1994)
 economy-rampant overshooting of sunrise-
 sunset diagrams, great influence of firms with
 negative TFP growth in determining the TFP

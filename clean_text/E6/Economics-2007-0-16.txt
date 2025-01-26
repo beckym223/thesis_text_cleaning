@@ -79,5 +79,4 @@ special place for current variables, such as cash
 flow and liquid asset holdings in the investment
 decision. In the original version of the theory,
 James Tobin (1969) suggested that a firm's op-
-timal investment strategy arbitrages between  52 Shefrin and Thaler (1988, 619-20).  53 Shefrin and Thaler (1988, 622-24).
-54 Shefrin and Thaler (1988, 626-27). Especially, they  say that there would be vast undersaving in the absence of  social security and forced private pensions to prevent it.  There is some ambiguity regarding whether there is under-  saving in the presence of these institutions to counteract it.  55 Shefrin and Thaler (1988, 633).  56 See, especially, John R. Meyer and Edwin Kuh  (1957).
+timal investment strategy arbitrages between

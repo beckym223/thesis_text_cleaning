@@ -80,14 +80,3 @@ equalization resulted because of the erosion
 of the base of the individual and corporate
 income taxes and because of increases in the
 payroll tax for Social Security.33 According
-the second, then
-Si = WI - Ci
-C2 = w2 + (1 + r )s
-cl(l + r) +c2 =(1 + r)(wi-sl) + w2+ (1 + r)sl
-cl(1+ r)+c2= (1+ r)w + w2.
-31See Hall and Rabushka (1985), Bradford (1986),  ch. 14, and McLure, Mutti, Thuroni, and Zodrow (1988),  ch. 9.  32For a discussion of these problems and possible
-solutions, see Aaron and Galper (1985), pp. 78-79 and
-99-103, and U.S. Department of the Treasury (1977),
-chaps. 4 and 6.
-33The combined employer-employee payroll tax rose
-from 6 percent in 1960 to 12.26 percent in 1985 and

@@ -1,13 +1,3 @@
-TABLE 1-GROWTH BREAKDOWN TREATING REAL COST REDUCTION As ADDITIVE
-TFP growth Absolute amount
-over period of real cost
-(1.0 = 100 reduction Cum. sum Initial value Cum. sum
-Industry percent) [(1) X (4)] of (2) added of (4)
-(1) (2) (3) (4) (5)
-1 0.800 $80b. $80b. $100b. $100b.
-2 0.600 $120b. $200b. $200b. $300b.
-3 0.500 $150b. $350b. $300b. $600b.
-All the rest 0.107 $150b. $500b. $1,400b. $2,000b.
 be made additive. For a quick appreciation of
 this, assume that total factor productivity grew
 by 80 percent in one industry over a decade,

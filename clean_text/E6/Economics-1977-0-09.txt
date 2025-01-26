@@ -75,23 +75,3 @@ ducing wages to generate enough quits, but by
 firing or, when possible, by layoffs which insure
 access to a trained labor force when demand
 recovers. More generally, the inducement to
-'Thus, in a logarithmic regression of private nonfarm
-hourly compensation deflated by the private nonfarimi
-deflator on output per man-hour, time, and private nonfarm
-employment, after correcting for first-order serial correla-
-tion, the latter variable has a coefficient of . 17 and a t-ratio
-of 5. Similar though less significant results were found for
-manufacturing. If employment is replaced by the change in
-nominal compensation, its coefficient is .40 with a t-ratio of
-6.5. Finally, if the change in compensation is replaced by
-the change in price, despite the negative bias from error
-of measurement of price, the coefficient of this variable is
-only - .09 with an entirely insignificant t-ratio of .7. The
-period after 1 973 has been omitted from the tests as irrelevant  for our purposes, since the inflation was driven primnarily by
-an exogenous price shock rather than by excess demand. As a
-result of the shock, prices, and to some extent wages, rose
-rapidly while employment and real wages fell. Thus, the
-addition of the last two years tends to increase spuriously the
-positive association between real wages and employment,
-and to decrease that between real wages and the change in
-inominal wages or prices.

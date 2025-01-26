@@ -1,17 +1,3 @@
-24-
-20-
-16-
-U
-or a,~~~~~~~~~~~
-m~
-LL 1
-6
-4
--6 -4.5 -3 -1.5 0 1.5 3 4.5 6
-TFP Growth Rate
-FIGURE 6B. MAXIMUM AVERAGE ANNUAL TFP GROWTH RATE (MAX. ORDINATE OF TFP PROFILE):
-MEXICAN MANUFACTURING, 1984-1994
-FREQUENcy DISTRIBUTION, 44 INDUSTRIAL BRANCHES
 value added as his quantity variable, this sug-
 gests that, if anything, the substitution of the
 "true quantity variable" q for observed value

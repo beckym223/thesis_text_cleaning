@@ -1,25 +1,3 @@
-TABLE 3-INDEXES OF SUPPORT FOR NATIONAL HEALTH INSURANCEa AND FOR AN ACTUARIAL MODEL
-OF PRIVATE INSURANCE UNDERWRITINGb
-Health, Economic Practicing
-economists theorists physicians All
-National health insurance index:
-Mean 0.48 0.48 0.49 0.48
-Standard error of the mean 0.05 0.05 0.05 0.03
-Coefficient of variation (percent) 71 70 67 69
-Percentage with index = 1 15 9 14 13
-Percentage with index = 0 13 18 14 15
-Actuarial model index:
-Mean 0.46 0.61 0.44 0.50
-Standard error of the mean 0.05 0.04 0.04 0.03
-Coefficient of variation (percent) 71 42 64 60
-Percentage with index = 1 7 16 7 10
-Percentage with index = 0 22 5 14 14
-Coefficient of correlation between
-the two indexes -0.37t -0.34t -0.37t _0.35**
-a National health insurance index is based on answers to survey questions 3, 7, 14 and 15.
-'Actuarial model index is based on answers to survey questions 8, 17 and 20.
-t Significant at p < 0.02.
-** Significant atp < 0.01.
 is a significant difference between the groups in
 the extent of support for the actuariai model in-
 dex. The economic theorists have a value of
@@ -68,7 +46,3 @@ questions and the two indexes is also revealed
 in Table 5, which presents the results of re-
 gressing the indexes on the positive ques-
 tions.38 In the national health insurance
-38 The reliability of the OLS regressions was checked
-in several ways: values for each respondent were predicted
-from each regression and found to be always between 0
-and 1; regressions run with the dependent variable trans-

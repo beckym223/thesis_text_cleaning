@@ -87,12 +87,3 @@ cline are weighted by ratios of the outputs of IT
 products to the GDP. Table 7 reports details of this
 TFP decomposition for 1948-1999; the IT and
 non-IT contributions are presented in Figure
-33 Bosworth and Triplett (2000) compare the results of
-Jorgenson and Stiroh (2000b) with those of Oliner and
-Sichel (2000).
-34 The dual approach is presented by Jorgenson et al.
-(1987 pp. 53-63).
-35 Dulberger (1993), Triplett (1996), and Oliner and
-Sichel (2000) present models of the relationships between
-computer and semiconductor industries. These are special
-cases of the Evsey Domar (1961) aggregation scheme.  36 See Jorgenson et al. (1987 pp. 63-66, 301-22).

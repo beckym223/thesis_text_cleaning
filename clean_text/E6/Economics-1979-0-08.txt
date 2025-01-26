@@ -1,24 +1,3 @@
-TABLE 2-ESTIMATED FEEDBACK FROM
-CURTAILED GROWTH OF ENERGY USE TO GNP,
-1975-2010, UNITED STATES
-Reduction out of
-the Base Case in
-Dis-
-counteda Price
-Energy Sum of Elasticity
-Use in GNP of Demand
-Policies 2010 1975-2010 for Energy
-(1) Bounds on
-Specific Up to 20% 1 to 2% -.25
-Tech- or -.4
-nologies
-(2) Zero
-Energy 600 { to 2% -.5
-Growth ' up to 30% -.25  through
-Conserva-
-tion Tax
-Source: MRG report, Tables 111.22 and 111.23.
-aDiscount Rate: 6 percent per annum.
 -.25. I shall come back.later to the estima-
 tion of the elasticity parameters found to
 have been very important.

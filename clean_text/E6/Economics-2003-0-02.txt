@@ -1,5 +1,3 @@
-Macroeconomic Prioritiest
-By ROBERT E. LUCAS, JR.*
 Macroeconomics was born as a distinct field
 in the 1940's, as a part of the intellectual re-
 sponse to the Great Depression. The term then
@@ -35,11 +33,8 @@ Section II describes a thought-experiment in
 which a single consumer is magically relieved
 of all consumption variability about trend. How
 much average consumption would he be willing
-t Presidential Address delivered at the one-hundred fif-  teenth meeting of the American Economic Association,  January 4, 2003, Washington, DC.  * Department of Economics, University of Chicago,  1126 East 59th Street, Chicago, IL 60637. I am grateful for  discussions with Fernando Alvarez, Gadi Barlevy, Lars
-Hansen, Per Krusell, Ellen McGrattan, Chris Phelan,  Edward Prescott, Esteban Rossi-Hansberg, Tom Sargent,
-Matthew Shapiro, Tony Smith, Nancy Stokey, Kjetil Stores-
-letten, and Tom Tallarini, and for the able assistance of
-Adrian Kats and Mikhail Golosov.  to give up in return? About one-half of one-
+t
+o give up in return? About one-half of one-
 tenth of a percent, I calculate. I will defend this
 estimate as giving the right order of magnitude
 of the potential gain to society from improved
@@ -81,4 +76,3 @@ effects of policy change on many different con-
 sumers, we can calculate welfare gains (perhaps
 losses, for some) for all of them, one at a time,
 and add the needed compensations to obtain the
-1

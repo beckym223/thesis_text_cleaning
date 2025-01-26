@@ -56,23 +56,4 @@ from the productivity-increase the favor-
 able effect of Kendrick's intergroup shifts,
 we obtain somewhat smaller productivity
 increases but broadly similar trends for
-these, except that some further accelera-  tivity to time itself), then the slope is distinctly steeper  for the period starting in the late part of this century's
-second decade than for the period preceding that
-"break." However, Kendrick did not discuss the ques-  tion of the quality of the linear fit for the pre-1919 or the
-post-1919 span. The nonlinearity observable for the
-post-1919 is a matter of importance for the present  study.
-As for the period 1919-66, the upward creep of the
-semi-logarithmic slope, presently to be illustrated in
-the text with reliance on benchmark years, does ex-
-press itself also in the statistical significance of the  positive coefficient of a second-degree term. This state-
-ment concerning "significance" implies the use of  yearly data, and the diagnosis based on such regressions
-(rather than on benchmark years) becomes somewhat
-complicated by the fact that if a third-degree term is  also introduced, statistical significance is found for the  negative coefficient of that term too. The iliflexion point  so obtained lies in the past. Yet the date of the inflexion  point and inspection of the plots suggest that this results
-from the exceptional productivity-increases during  World War II: i.e., the inflexion point reflects the slope's
-war-time peak which, despite the consistency of the  slope's rising tendency for successive periods of longer
-duration, has not been reached again. One would of  course not rely on such equations for projection into the
-future, since the future course of productivity-in-  creases will be strongly influenced by the course of the
-progress-generating inputs; but at any rate one would  try to smooth out, rather than to emphasize, the effect of the  depression of the 'thirties' and the effect of World War II.  For 1919-66 I used merely forty-one yearly data for
-each variable (instead of forty-eight) because, as will  be explained in the text, I used preliminary revised esti-  mates for several recent years and consistency had to be  observed in linking these to earlier years. It should be
-added that serial correlation is very high in this ma-  terial. On the whole, I prefer to make use of the bench-
-mark-year data of the text-i.e., of typical values for  periods of reasonable duration-rather than of regres-  sions computed from yearly data. The procedure used  in the text is no more "arbitrary" than the decision to  disregard the third-degree term in the regressions just  discussed.
+these, except that some further accelera-

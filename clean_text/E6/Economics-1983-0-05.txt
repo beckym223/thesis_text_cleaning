@@ -71,28 +71,3 @@ able as an addition to the market supply
 from new production-at prices deemed suf-
 ficiently above equilibrium. Gold is currently
 produced; and its rate of production does
-' Muth's 1961 article is, of course, now a classic.
-However, an excellent much-earlier statement of the
-way in which information and expectations affect the  wheat price appears (of course!) in Alfred Marshall. The
-accompanying marginal note reads "Nearly all dealings  in commodities that are not very perishable, are affected
-by calculation of the future" (pp. 337-38). Marshall  perhaps failed to close his argument by stating explicitly
-that expected prices enter into today's production deci-
-sions, although that is clearly implied.  21t was in precisely the context of inventories-and
-by explicit analogy with the wheat market-that I once
-explained Keynes' theory of the "speculative demand"  for money (or bonds). In my Macroeconomic Theory (pp.
-175-76), I argued that, in the bond market-as in the
-wheat market-speculation on future bond prices, in  the presence of large outstanding stocks of bonds and of
-money, by agents who form expectations of "normal"
-market-clearing prices, tends to stabilize bond prices at
-or close to their normal level-thereby preventing inter-
-est rate fluctuations from stabilizing aggregate demand
-for goods and services in the short run against exoge-
-nous variations in saving or investment propensities.
-Although the term rational expectations had not yet
-been invented, I was arguing that rational expectations
-explained an interest-elastic (or bond-price-elastic) de-
-mand for money.
-31t is therefore somewhat anomalous that, although
-Muth thus demolished the previous theory of the "corn-
-hog cycle," it is my impression that traces of such
-price-quantity behavior still persist.

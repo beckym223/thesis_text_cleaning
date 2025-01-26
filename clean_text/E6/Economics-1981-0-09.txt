@@ -76,22 +76,3 @@ hazards of possible future changes in regula-
 tory requirements. Finally, there are the
 manifold effects of erratic and accelerating
 inflation.
-12Some representative references which illustrate the
-variety and uncertainty of the results obtained by dif-
-ferent investigators are: Edward Denison, especially ch.
-9; J. R. Norsworthy, Michael Harper, and Kent Kunze,
-pp. 387-421, and the accompanying discussion and
-reports by Peter Clark, Martin Baily, Denison, and
-Michael Wachter; Laurits Christainsen and Haveman;
-Robert Coen and Bert Hickman; Kendrick (1980); M.
-Ishaq Nadiri.  13See Economic Report of the President (1980, Table
-B-72).  14See James Tobin, Lecture III.  '3The large effect shown in Feldstein's original,
-much-noticed time-series analysis (1974) has been
-thrown into doubt by the discovery of a flaw in his
-computer program. In a forthcoming NBER working  paper, he now finds a smaller but still significant effect.  Such time-series estimates remain uncertain because it
-is hard to measure expected Social Security benefits
-and hard to separate the effects of Social Security  wealth on saving from those of other variables during  periods of relative stability, as in samples covering the
-postwar years alone. The conclusion that Social Secur-
-ity benefits work to reduce saving, however, is sup-  ported by other studies, based on samples of individual
-households and on cross-country evidence, to which
-Feldstein refers in his new working paper.

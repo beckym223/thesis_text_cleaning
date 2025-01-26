@@ -82,26 +82,3 @@ give us a clear picture of lots of winners and
 lots of losers, with the losers being strongly
 characterized by falling real value added and/
 or by falling real rates of return.4
-4 Of Torre's observations with negative TFP growth,
-over three-fourths had negative growth in real value
-added, and over one-half had falling real rates of return.
-Less than 15 percent showed increases both in real value
-added and in their real rate of return. Many of Torre's
-"anomalies" of negative TFP improvement together with
-positive real output growth stem from very high rates of
-return (p) being imputed to the observed increases (AK)
-in the capital stock.
-This points to a problem that extends to all (or nearly
-all) growth-accounting frameworks. Implicitly, they as-
-sign to new investment a marginal product based on the
-average observed gross rate of return (p + 6) or average
-observed capital share Sk. This makes little sense in cases
-where the observed p is far above or far below the going
-market rates. Firms earning 50 percent real return in their
-historical investments are very unlikely to be "requiring"
-such a high expected yield on new investments. Similarly,
-firms going through periods of actual accounting losses
-may often still be investing, but it is absurd to think they
-are expecting (or typically getting) negative returns on
-their new investments (AK). There are, I think, good rea-
-sons for us to experiment with alternative ways of select-

@@ -69,34 +69,3 @@ shown (Sen, 1966) that this condition can be
 far extended and generalized to a much less
 demanding restriction called "value restric-
 tion."27
-25The literature on such measures is now quite
-large. Different types of exercises are illustrated by Sen
-(1973), Frank Cowell (1977), Blackorby and Donaldson
-(1978,1980), Siddiq Osmani (1982), Sudhir Anand
-(1983), Atkinson (1983, 1989), S. R. Chakravarty (1983),
-Anthony Shorrocks (1983), Suzumura (1983), James E.
-Foster (1984, 1985), Ravi Kanbur (1984), Michel
-Le Breton and Alain Trannoy (1987), W. Eichhorn
-(1988), Peter J. Lambert (1989), and Martin Ravallion
-(1994), among many other contributions.
-26The policy discussions include those surrounding
-the influential Human Development Reports, produced
-by the United Nations Development Programme. An-
-other strong force in that direction has been the se-
-quence of UNICEF reports on The State of the World's
-Children. Policy issues related to such social judgments
-have been discussed by Paul Streeten et al. (1981),
-Nanak Kakwani (1986), Jean Dreze and Sen (1989),
-Alan Hamlin and Philip Pettit (1989), Keith Griffin and
-John Knight (1990), Anand and Ravallion (1993),
-Partha Dasgupta (1993), and Meghnad Desai (1995).  27,, Value restriction" turns out to be necessary and
-sufficient for this class of domain conditions for consis-
-tent majority rule when individual preferences are lin-
-ear orderings, though the conditions are more complex
-in the general case of weak orderings (see Sen and
-Prasanta Pattanaik, 1969; see also Ken-ichi Inada, 1969,
-1970). These relations can be generalized to all
-Arrovian social welfare functions and for nonmanipu-
-lable voting procedures (on which see Maskin [1976]
-and E. Kalai and E. Muller [1977]). Other types of
-conditions have been proposed by Tullock (1967) (with

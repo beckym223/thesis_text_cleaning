@@ -74,29 +74,3 @@ A tax that omits saving from the tax base
 can be shown to be the same as a tax apply-
 ing only to labor income and exempting all
 property income.30 Several expenditure tax
-25For analyses of the relative merits of the iitiome
-and expenditure taxes, see Kaldor (1955), Misgave
-(1976), Pechman (1980), Aaron and Galper (194$)jnd
-Bradford (1986).
-26The identity of lifetime incomes and expenditures
-holds when there are gifts to others and beu ts,
-provided the gifts and bequests are counted as dendi-
-tures. Aaron and Galper (1985) defined such a taks a  "lifetime" income tax, arguing that "there is nrdigical
-reason why a particular astronomical regularitp31iAild
-be enshrined in the tax law" (pp. 21-22). 9)
-27  27See Bradford (1980), pp. 106-9, Bradford (1986 p.
-315, and Musgrave (1976), pp. 11-12. Bradfordhi8lds
-this view while Musgrave does not.
-28For an excellent discussion of the lifetime vs. the
-short-run perspective as a basis for taxation, see Goode
-(1980).
-29See, for example, Feldstein (1978), Atkinson and
-Sandmo (1980), Atkinson and Stiglitz (1980), Auerbach
-and Kotlikoff (1987), ch. 5, Rosen (1988), p. 469, and
-Gravelle (1988 and 1989).
-30Like the equality between a consumption and an
-income tax in present value terms, this assumes that tax
-and interest rates remain constant over a lifetime and
-there are no gifts and bequests. Let s = saving, w =
-wages, c = consumption, r = the interest rate, and as-
-sume that saving in the first period is consumed during

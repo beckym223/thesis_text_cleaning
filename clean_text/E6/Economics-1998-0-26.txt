@@ -1,34 +1,3 @@
-TABLE 3-GROWTH RATES, RATES OF RETURN, AND RATES OF TFP IMPROVEMENT
-(SELECTED FROM A SAMPLE OF 32 COUNTRIES, 1971-1991)
-Ten fastest- GDP Rate of Capital cont. TFP
-growing countries growth rate return to growth rate growth rate
-Taiwan 8.83 15.0 3.81 3.68
-Korea 8.47 13.2 4.30 2.38
-Thailand 7.65 12.5 3.68 2.96
-Hong Kong 7.91 20.0 3.56 2.28
-Ecuador 5.58 14.0 2.70 0.36
-Cyprus 5.12 10.6 2.99 1.92
-Zimbabwe 4.62 13.6 2.42 0.97
-Colombia 4.43 11.3 1.99 0.74
-Iceland 4.35 9.4 1.95 1.77
-Ireland 4.12 6.7 1.70 0.36
-Median 5.35 12.85 2.84 1.83
-Mean 6.10 12.63 2.91 1.74
-Ten slowest- GDP Rate of Capital cont. TFP
-growing countries growth rate return to growth rate growth rate
-Austria 2.87 5.1 1.13 1.29
-France 2.80 6.1 1.21 (.99
-Germany 2.60 6.3 0.97 1.29
-Belgium 2.56 6.8 1.06 1.60
-Netherlands 2.52 7.0 1.12 0.83
-United States 2.52 9.1 1.20 0.23
-South Africa 2.16 7.5 1.58 -0.97
-Denmark 2.15 7.5 1.01 0.82
-United Kingdom 2.12 9.6 0.95 0.22
-Sweden 1.84 4.3 0.66 0.24
-Median 2.52 6.90 1.09 0.825
-Mean 2.41 6.93 1.09 0.661
-Source: Beyer (1996), Tables 111.1.1 through 111.1.32; also Appendix I for rates of return.
 This is all the more interesting because in the
 calculation of TFP a higher level of the rate of
 return operates to reduce the calculated TFP
@@ -40,10 +9,3 @@ should presumably be negatively correlated
 with R'). What we are seeing here, in my
 opinion, is a genuine syndrome in which all
 sorts of good things go together. Strong real
-3 The standard expression for the residual, R = pdy -
-iwIdL - (p + 5)dK has a "dual" representation, which is:
-R - Ldw + Kd(p + 6) - y-dp. T'his form simply says
-that the fruits of real cost reduction have to go some-
-where-either to workers (Ldw) or to owners of capital
-[Kd(p + 6)] or, in the form of lower prices to the activ-
-ity's customers (-y7dp).

@@ -1,15 +1,3 @@
-1.00
-0.80.II IE
-0.60
-0.40
-0.20
-0.00
--0.20 --
-1948-i3 197340 1990405 1995-99
-ONon-IT P cMl arT Produ
-FIGURE 10. CONTRIBUTIONS OF INFORMATION TEcHNoLoGY To TOTAL FACTOR PRODucTIviTy GRowTH
-Note: Contributions are average annual (percentage) relative price changes, weighted by average nominal output shares from
-Table 7.
 percentage points, the contribution of labor input
 rose by only 0.24 percent, and TFP accelerated by
 0.51 percent. Growth in ALP rose 0.92 as more
@@ -54,5 +42,3 @@ per year for 1948-1999, while hours increased
 about 1.4 percent per year. As shown in equa-
 tion (3), ALP growth depends on capital deep-
 ening, a labor-quality effect, and TFP growth.
-37 Katz and Krueger (1999) analyze the recent perfor-
-mance of the U.S. labor market.

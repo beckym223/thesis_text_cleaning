@@ -63,31 +63,4 @@ build much on this figure.
 obsolescence-cost of progress would be
 obtained by charging to progress the
 entire capital-consumption-i.e., about 12
-percent of private GNP-and by adding 2  38 From 1919 to 1955 Kuznets' capital consumption
-allowances move in the range from 10.9 to 15.1 in rela-
-tion to GNP (constant prices); at the beginning and
-also at the end of the period the figure was almost pre-
-cisely in the middle of the range. This implies Kuznets'
-Variant III of output. Using other Variants of Kuznets,
-wider ranges are found for movements of the deprecia-
-tion ratio in the region above 10 percent. See Kuznets'
-Appendix A, Table R-2, p. 487.
-The capital-consumption ratio implied in the Capital
-Stock Study of the U.S. Department of Commerce,
-Office of Business Economics seems to be somewhat
-smaller than Kuznets', but also typically somewhat
-higher than 10 percent. See for this e.g. Robert C. Was-
-son's articles in the Survey of Current Business, particu-
-larly in the December 1966 and in the February 1969
-issue. However, proper interpretation of the relation-
-ships here considered requires also use of computer
-output available from Mr. Wasson's office. My evalua-
-tion implies a reasonable "blowing up" of the Commerce
-Capital Stock Study depreciation figures, in view of the
-fact that the figures of the Study relate only to the
-business sector including farms, i.e., exclude the resi-
-dential sector as well as general government. I was using
-the Capital Stock Study's straight-line depreciation
-estimates and was using them on "Cost 1" basis. This
-cost-basis makes the method of deflating comparable to
-that applied to the Commerce estimates of the GNP.  39 Any hypothesis of this kind has the realistic impli-  cation that in a progressive economy the "representa-  tive" physical asset is produced in such a way as to be  in some sense "too durable." This has several reasons,  one of which presumably is that lack of durability is  not the only unfavorable property of a "flimsy object."
+percent of private GNP-and by adding 2

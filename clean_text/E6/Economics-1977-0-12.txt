@@ -86,9 +86,3 @@ this test with equations estimated through the
 first half of the postwar period, and the results
 are, if anything, even more one-sided.
 The moral of the story is pretty clear. First,
-2For the purpose of the test, coefficients were scaled
-down by one-third to allow for certain major biases in
-measured government expenditure for present purposes
-(mainly the treatment of military procurement on a delivery
-rather than work progress basis, and the inclusion of direct
-military expenditure abroad).

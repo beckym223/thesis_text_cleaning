@@ -81,15 +81,3 @@ not (50, 50). I am not arguing here that
 (50,50) must necessarily be taken to be the
 best, but it is absurd that we are not even
 permitted to consider (50,50) as a claimant
-18For exact statements of the conditions and a proof
-of the theorem, see Sen (1993).  19On this issue, see Sen (1977b, 1982a).
-20Formally, person 2 is "almost decisive" over the
-first pair (in the sense of winning against opposition by
-all others-in this case, person 1), and an alternative
-version of the Field-Expansion Lemma shows that he
-will be almost decisive (indeed fully decisive) over all
-other pairs as well (see Lemma 3a in Sen [1970 pp.
-43-44]). Note that "field expansion" is based inter alia
-on the use of the condition of "unrestricted domain,"
-allowing the possibility that the individuals involved
-could have had other preferences as well.
