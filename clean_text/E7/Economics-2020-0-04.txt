@@ -1,47 +1,49 @@
-its total purchases in response to economic developments. The European Central
-Bank faced political and legal opposition to asset purchases and undertook its first
-large QE program in pursuit of monetary policy objectives only in January 2015.
-Variants of QE have been employed by smaller economies, including Sweden and
+947
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+its total purchases in response to economic developments. The European Central 
+Bank faced political and legal opposition to asset purchases and undertook its first 
+large QE program in pursuit of monetary policy objectives only in January 2015. 
+Variants of QE have been employed by smaller economies, including Sweden and 
 Switzerland.
-The types of assets purchased varied considerably by central bank. Facing tighter
-legal constraints than most of its peers, the Fed was able to purchase only Treasury
-securities and securities issued by the GSEs, which by late 2008 were fully backed
-by the federal government. Other central banks had wider authorities, and to varying
-degrees bought not only government debt but also corporate bonds, covered bonds
+The types of assets purchased varied considerably by central bank. Facing tighter 
+legal constraints than most of its peers, the Fed was able to purchase only Treasury 
+securities and securities issued by the GSEs, which by late 2008 were fully backed 
+by the federal government. Other central banks had wider authorities, and to varying 
+degrees bought not only government debt but also corporate bonds, covered bonds 
 issued by banks, and even equities.
-In the immediate aftermath of the financial crisis, the relative lack of experience
-with QE created substantial uncertainty about how effective asset purchases would
-be in easing financial conditions, if they would help at all. Indeed, some benchmark
-models predict that asset purchases will have no or at best transient effects on asset
-prices (Eggertsson and Woodford 2003). The positive case for QE rested on two
-arguments. First, if investors have “preferred habitats” because of specialized expertise,
-transaction costs, regulations, liquidity preference, or other factors, then changing
-the net supplies of different securities or classes of securities should affect their
-relative prices. This portfolio balance effect was modeled formally by Vayanos and
-Vila (2009), who showed that, generally, the effect will not be undone by the efforts
-of arbitrageurs. US policymakers saw QE as working in part by removing duration
-risk from the Treasury market, pushing investors to bid up the values of both
-remaining  longer-term Treasuries and close substitutes, such as  mortgage-backed
-securities and corporate bonds. In addition, MBS purchases were expected to reduce
+In the immediate aftermath of the financial crisis, the relative lack of experience 
+with QE created substantial uncertainty about how effective asset purchases would 
+be in easing financial conditions, if they would help at all. Indeed, some benchmark 
+models predict that asset purchases will have no or at best transient effects on asset 
+prices (Eggertsson and Woodford 2003). The positive case for QE rested on two 
+arguments. First, if investors have “preferred habitats” because of specialized exper -
+tise, transaction costs, regulations, liquidity preference, or other factors, then chang-
+ing the net supplies of different securities or classes of securities should affect their 
+relative prices. This portfolio balance effect was modeled formally by Vayanos and 
+Vila (2009), who showed that, generally, the effect will not be undone by the efforts 
+of arbitrageurs. US policymakers saw QE as working in part by removing dura-
+tion risk from the Treasury market, pushing investors to bid up the values of both 
+remaining  longer-term Treasuries and close substitutes, such as  mortgage-backed 
+securities and corporate bonds. In addition, MBS purchases were expected to reduce 
 the spread between Treasury yields and mortgage rates.
-Second, QE may have a signaling effect if it serves as a commitment mechanism,
-or perhaps as a signal of seriousness, leading investors to believe that policymakers
-intend to keep  short-term policy rates low for an extended period. Although
-several channels have been proposed for how this might work, in practice much of
-the signaling effect appears tied to investors’ beliefs about the likely sequencing of
-policies. With encouragement from policymakers, market participants are typically
-confident that central banks will not raise  short-term interest rates so long as asset
-purchases are continuing. Since QE announcements typically include information
-about the likely duration of purchases, which may be measured in quarters or years,
-and since QE programs are rarely terminated prematurely (because of the likely
-costs to policymakers’ credibility), the initiation or extension of a QE program often
-pushes out the expected date of the first  short-term rate increase. Observing this
+Second, QE may have a signaling effect if it serves as a commitment mechanism, 
+or perhaps as a signal of seriousness, leading investors to believe that policymak-
+ers intend to keep  short-term policy rates low for an extended period. Although 
+several channels have been proposed for how this might work, in practice much of 
+the signaling effect appears tied to investors’ beliefs about the likely sequencing of 
+policies. With encouragement from policymakers, market participants are typically 
+confident that central banks will not raise  short-term interest rates so long as asset 
+purchases are continuing. Since QE announcements typically include information 
+about the likely duration of purchases, which may be measured in quarters or years, 
+and since QE programs are rarely terminated prematurely (because of the likely 
+costs to policymakers’ credibility), the initiation or extension of a QE program often 
+pushes out the expected date of the first  short-term rate increase. Observing this 
 signal that short rates will be kept low, investors bid down  longer-term rates as well.
-Longer-term yields can be conceptually divided into (i) the average expected
-short rate over the life of the security, and (ii) the difference between the total yield
-and the average expected short rate, known as the term premium. To a first approximation,
-portfolio balance effects work by affecting the term premium, while the
-signaling effect works by influencing expectations of future short rates. Using that
-approximation to distinguish the portfolio balance and signaling channels is not
-straightforward, however, because term premiums and expected future short rates are
-not directly observable. There are also indirect effects to account for: for
+ Longer-term yields can be conceptually divided into (i) the average expected 
+short rate over the life of the security, and (ii) the difference between the total yield 
+and the average expected short rate, known as the term premium. To a first approx-
+imation, portfolio balance effects work by affecting the term premium, while the 
+signaling effect works by influencing expectations of future short rates. Using that 
+approximation to distinguish the portfolio balance and signaling channels is not 
+straightforward, however, because term premiums and expected future short rates are 
+not directly observable. There are also indirect effects to account for: for  example, 

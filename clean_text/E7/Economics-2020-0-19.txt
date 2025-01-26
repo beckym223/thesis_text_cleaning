@@ -1,34 +1,51 @@
-Distributional Considerations.—FOMC participants did not often discuss distributional
-considerations—mainly, the effects of low interest rates on savers and
-the purported tendency of the new monetary tools to increase inequality—nor were
-these concerns included in the internal 2013 FOMC survey about potential costs.
-However, these issues were (and remain) prominent in the political debate in the
-United States and several other countries. Most policymakers believe that monetary
-policies that promote economic recovery have broadly felt benefits, including higher
-employment, wages, profits, capital investment, and tax revenues; lower borrowing
-costs; and reduced risk of unwanted disinflation or even a deflationary trap. Given
-these benefits, it would be unwise to avoid accommodative monetary policies even
-if they did have some adverse distributional implications. In any case, the research
-literature is close to unanimous in its finding that the distributional effects of expansionary
-monetary policies are small, once all channels are considered, and may even
-work in a progressive direction, for example by promoting a “hot” labor market.14
-Inequality is primarily structural and slowly evolving rather than cyclical, and as
-such should be addressed by the fiscal authorities and other policymakers, not central
-banks.
-Capital Losses.—The large, unhedged holdings of  longer-term securities associated
-with asset purchase programs risked substantial capital losses if interest
-rates had risen unexpectedly, losses which in turn could have ultimately reduced
-the Federal Reserve’s remittances of profits to the Treasury.15 The social costs of
-any such losses would probably have been small: they would not have affected the
-ability of the Fed to operate normally, and—even ignoring offsetting gains to investors—
-government revenue gains from a stronger economy would have more than
-compensated for reduced remittances. Nevertheless, FOMC participants worried
-about the political fallout and threats to Fed independence that large losses could
+962
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+Distributional Considerations.—FOMC participants did not often discuss dis-
+tributional considerations—mainly, the effects of low interest rates on savers and 
+the purported tendency of the new monetary tools to increase inequality—nor were 
+these concerns included in the internal 2013 FOMC survey about potential costs. 
+However, these issues were (and remain) prominent in the political debate in the 
+United States and several other countries. Most policymakers believe that monetary 
+policies that promote economic recovery have broadly felt benefits, including higher 
+employment, wages, profits, capital investment, and tax revenues; lower borrowing 
+costs; and reduced risk of unwanted disinflation or even a deflationary trap. Given 
+these benefits, it would be unwise to avoid accommodative monetary policies even 
+if they did have some adverse distributional implications. In any case, the research 
+literature is close to unanimous in its finding that the distributional effects of expan-
+sionary monetary policies are small, once all channels are considered, and may even 
+work in a progressive direction, for example by promoting a “hot” labor market.14 
+Inequality is primarily structural and slowly evolving rather than cyclical, and as 
+such should be addressed by the fiscal authorities and other policymakers, not cen-
+tral banks.
+Capital Losses.—The large, unhedged holdings of  longer-term securities asso-
+ciated with asset purchase programs risked substantial capital losses if interest 
+rates had risen unexpectedly, losses which in turn could have ultimately reduced 
+the Federal Reserve’s remittances of profits to the Treasury.15 The social costs of 
+any such losses would probably have been small: they would not have affected the 
+ability of the Fed to operate normally, and—even ignoring offsetting gains to inves-
+tors—government revenue gains from a stronger economy would have more than 
+compensated for reduced remittances. Nevertheless, FOMC participants worried 
+about the political fallout and threats to Fed independence that large losses could 
 have produced.16
-Several factors mitigated but did not eliminate this risk. First, a significant portion
-of the Fed’s liabilities—namely currency—pays no interest, providing some
-cushion to the Fed’s ability to make payments to the Treasury. Additional cushion
-is provided by securities owned by the Fed prior to the introduction of QE, which
-enjoyed capital gains when yields fell. Second, since the Fed earns the  long-term
-interest rate on its holdings of bonds but pays the  short-term interest rate on bank
-reserves, it earns a net positive return when the yield curve has its norm
+Several factors mitigated but did not eliminate this risk. First, a significant por -
+tion of the Fed’s liabilities—namely currency—pays no interest, providing some 
+cushion to the Fed’s ability to make payments to the Treasury. Additional cushion 
+is provided by securities owned by the Fed prior to the introduction of QE, which 
+enjoyed capital gains when yields fell. Second, since the Fed earns the  long-term 
+interest rate on its holdings of bonds but pays the  short-term interest rate on bank 
+reserves, it earns a net positive return when the yield curve has its normal upward 
+14 On the distributional effects of monetary policy, see, for example, Bivens (2015) for the United States, 
+Ampudia et al. (2018) for the euro area, and Bunn, Pugh, and Yeates (2018) for the United Kingdom. Aaronson et 
+al. (2019) documents the benefits to  lower-wage workers of a “hot” labor market. The argument that easy money 
+increases wealth inequality is slightly more plausible than that it increases income inequality, because of its effects 
+on asset prices. Note though that the benefits to asset holders of higher asset prices are partially offset by the lower 
+returns they can earn on their wealth.
+15 Assuming that securities are held to maturity, the effect on remittances would be indirect, arising only at the 
+point that the  short-term rate paid by the Fed on reserves rises sufficiently relative to the returns on its portfolio. See 
+Bonis, Fiesthumel, and Noonan (2018). Cavallo et al. (2018) discusses the fiscal implications of the Fed’s balance 
+sheet under various scenarios.
+16 In the United Kingdom, the central bank was backstopped by the Treasury, but there were no such arrange-
+ments in the United States or, to my knowledge, in other major economies. Such arrangements avoid direct capital 
+losses on the central bank’s balance sheet but have the downside of possibly compromising the independence of 
+monetary policy. Also, a Treasury backstop does not necessarily avoid adverse political consequences since the 
+taxpayer still bears the ultimate costs if losses occur.

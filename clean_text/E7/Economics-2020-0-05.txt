@@ -1,29 +1,46 @@
-changes in term premiums arising from the portfolio balance channel, if they influence
-the economic outlook, will also affect expectations of future short rates.
-If QE successfully reduces  longer-term interest rates, through either portfolio balance
-or signaling channels, then the presumption is that the economy will respond
-much in the same way that it does to conventional monetary easing, as a lower cost
-of capital, higher wealth, a weaker currency, and stronger balance sheets increase
+948
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+changes in term premiums arising from the portfolio balance channel, if they influ-
+ence the economic outlook, will also affect expectations of future short rates.
+If QE successfully reduces  longer-term interest rates, through either portfolio bal-
+ance or signaling channels, then the presumption is that the economy will respond 
+much in the same way that it does to conventional monetary easing, as a lower cost 
+of capital, higher wealth, a weaker currency, and stronger balance sheets increase 
 spending on domestic goods and services.
-QE Event Studies: Some Initial Evidence.—Did  post-crisis QE work, in the sense
-of meaningfully affecting broad financial conditions? Early QE announcements, at
-least, appeared to have substantial market impacts across a wide range of financial
-assets. This fact is  well documented by event studies, which look at asset price
+QE Event Studies: Some Initial Evidence.—Did  post-crisis QE work, in the sense 
+of meaningfully affecting broad financial conditions? Early QE announcements, at 
+least, appeared to have substantial market impacts across a wide range of financial 
+assets. This fact is  well documented by event studies, which look at asset price 
 changes in narrow time windows around QE announcements.
-An illustrative event study for the Fed’s QE1 program is shown in Table 1, which
-reports the changes in key asset prices and yields summed over five days, identified
-by Gagnon et al. (2011), on which important information bearing on QE1 became
-public.6 Evidently, QE1 had powerful announcement effects, including a full percentage
-point decline in the yield on  10-year Treasuries and more than a percentage
-point decline in the yields on  mortgage-backed securities. Qualitatively, these
-results hold up well for different choices of event days or for shorter or longer event
-windows. Similar  event-study results are obtained for the introduction of QE, at
+An illustrative event study for the Fed’s QE1 program is shown in Table 1, which 
+reports the changes in key asset prices and yields summed over five days, identified 
+by Gagnon et al. (2011), on which important information bearing on QE1 became 
+public.6 Evidently, QE1 had powerful announcement effects, including a full per -
+centage point decline in the yield on  10-year Treasuries and more than a percent-
+age point decline in the yields on  mortgage-backed securities. Qualitatively, these 
+results hold up well for different choices of event days or for shorter or longer event 
+windows. Similar  event-study results are obtained for the introduction of QE, at 
 about the same time, by the Bank of England (Joyce et al. 2011).
-The strong market reactions to the initial rounds of QE encouraged policymakers
-at the time, and they should refute strong claims that central bank asset purchases
-are neutral. However, critics have made two rejoinders to the  event-study evidence.7
-First, in contrast to the results shown in Table  1 for QE1, event studies of later
-rounds of quantitative easing have tended to find much less dramatic effects. For
-example, Krishnamurthy and  Vissing-Jorgenson (2011) looked at the market reactions
-associated with the introduction of QE2, the second round of US quantitative
-easing. Using two identified announcement days and  one-day event windo
+The strong market reactions to the initial rounds of QE encouraged policymakers 
+at the time, and they should refute strong claims that central bank asset purchases 
+are neutral. However, critics have made two rejoinders to the  event-study evidence.7 
+First, in contrast to the results shown in Table  1 for QE1, event studies of later 
+rounds of quantitative easing have tended to find much less dramatic effects. For 
+example, Krishnamurthy and  Vissing-Jorgenson (2011) looked at the market reac-
+tions associated with the introduction of QE2, the second round of US quantitative 
+easing. Using two identified announcement days and  one-day event windows, they 
+6 Gagnon et al. (2011) also considered a larger set of eight announcement days. Using the larger set leaves the 
+results of Table 1 essentially unchanged.
+7 See, e.g., Greenlaw et al. (2018). The reply to their paper by Gagnon (2018) anticipates some points I make 
+here.Table 1—Responses of Asset Prices and Yields  
+to QE1 Announcements
+ 2-year Treasuries −57
+ 10-year Treasuries −100
+ 30-year Treasuries −58
+ Mortgage-backed securities −129
+AAA corporate bonds −89
+SP500 index2.30
+Notes:  One-day responses, summed over five announcement dates identi-
+fied by Gagnon et al. (2011). Yield changes are in basis points, stock price 
+changes are in percentage points.
+Source: Author’s calculations

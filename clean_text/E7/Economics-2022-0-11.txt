@@ -1,26 +1,50 @@
-end of the labor market, firms respond to  wage-setting choices by their competitors
-(Derenoncourt et al. 2021). It therefore seems necessary to move beyond the “no
-strategic interactions” case considered in several recent studies. Berger, Herkenhoff,
+1086
+THE AMERICAN ECONOMIC REVIEW APRIL 2022
+end of the labor market, firms respond to  wage-setting choices by their competitors 
+(Derenoncourt et al. 2021). It therefore seems necessary to move beyond the “no 
+strategic interactions” case considered in several recent studies. Berger, Herkenhoff, 
 and Mongey (2021) have made some initial progress in this direction.
-B. Who Should Study Wage SettingOnce
-we accept that firms set wages, the analysis of wage setting becomes a part
-of labor economics, just like the analysis of price setting is a part of IO. Right now,
-much of the practical discussion of wage setting is done by  noneconomists. Human
-resources departments at large corporations are often staffed by people with primary
-training in social psychology or sociology. Most business schools have almost no
+B. Who Should Study Wage Setting?
+Once we accept that firms set wages, the analysis of wage setting becomes a part 
+of labor economics, just like the analysis of price setting is a part of IO. Right now, 
+much of the practical discussion of wage setting is done by  noneconomists. Human 
+resources departments at large corporations are often staffed by people with primary 
+training in social psychology or sociology. Most business schools have almost no 
 courses on wage setting, and few if any that feature standard economic ideas.
-By insisting that “markets set wages,” labor economists ceded the field, and had
-very little to say about questions like the design of online labor markets, or the
-effects of  no-solicitation or  no-poaching agreements—other than that they should
-not matter. We also distanced ourselves from other economists—particularly those
-in IO—who were busy developing useful models of market power and strategic
+By insisting that “markets set wages,” labor economists ceded the field, and had 
+very little to say about questions like the design of online labor markets, or the 
+effects of  no-solicitation or  no-poaching agreements—other than that they should 
+not matter. We also distanced ourselves from other economists—particularly those 
+in IO—who were busy developing useful models of market power and strategic 
 decision making.
-One of the most exciting developments in the field today is the evidence of labor
-economists taking questions about wage setting seriously. This effort began with
-Manning’s (2003) landmark book: I hope that the growing body of work since
-then finds its way into the classroom and into the textbooks soon. I also expect this
-work to lead to some  rethinking on policies such as minimum wages, the regulation
-of trade unions, and  anti-trust (see Langella and Manning 2021, and Naidu and
-Posner 2021). Perhaps we may even see a  reevaluation of the widespread belief that
-excessive wages are the root cause of many economic problems. After all, if your
+One of the most exciting developments in the field today is the evidence of labor 
+economists taking questions about wage setting seriously. This effort began with 
+Manning’s (2003) landmark book: I hope that the growing body of work since 
+then finds its way into the classroom and into the textbooks soon. I also expect this 
+work to lead to some  rethinking on policies such as minimum wages, the regulation 
+of trade unions, and  anti-trust (see Langella and Manning 2021, and Naidu and 
+Posner 2021). Perhaps we may even see a  reevaluation of the widespread belief that 
+excessive wages are the root cause of many economic problems. After all, if your 
 employer set your wage, it’s hard to believe that it’s too high.
+REFERENCES
+Abowd, John M., Francis Kramarz, and David N. Margolis. 1999. “High Wage Workers and High 
+Wage Firms.” Econometrica 67 (2): 251–333.
+Altonji, Joseph G., Anthony A. Smith Jr., and Ivan Vidangos. 2013. “Modeling Earnings Dynamics.” 
+Econometrica 81 (4): 1395–454.
+Anderson, Simon, Andre de Palma, and Jacques Thisse. 1978. “A Representative Consumer Theory of 
+the Logit Model.” International Economic Review 29 (3): 461–66.
+Arnold, David. 2020. “Mergers and Acquisitions, Local Labor Market Concentration, and Worker Out-
+comes.” Unpublished.
+Ashenfelter, Orley. 1972. “Racial Discrimination and Trade Unionism.” Journal of Political Economy 
+80 (3): 435–64.
+Ashenfelter, Orley, David Card, Henry S. Farber, and Michael R. Ransom.  Forthcoming. “Monop-
+sony in the Labor Market: New Empirical Results and New Public Policies.” Journal of Human 
+Resources.
+Ashenfelter, Orley, and Alan B. Krueger. 2021. “Theory and Evidence on Employer Collusion in the 
+Franchise Sector.” Journal of Human Resources. DOI:10.3368/jhr.monopsony.1019-10483. 
+Aslanbeigui, Nahid, and Guy Oakes. 2009. The Provocative Joan Robinson: The Making of a 
+ Cambridge Economist. Durham, NC: Duke University Press. 
+Atkeson, Andrew, and Ariel Burstein. 2008. “Pricing-to-Market, Trade Costs, and International 
+ Relative Prices.” American Economic Review 98 (5): 1998–2031.
+Azar, Jose, Steven T. Berry, and Ioana Marinescu. 2019. “Estimating Labor Market Power.” SSRN 
+3456277. 

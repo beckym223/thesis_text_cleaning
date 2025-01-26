@@ -1,42 +1,47 @@
-slope. Third, the taxpayer is hedged against Fed capital losses in the sense that a rise
-in  longer-term yields is more likely to occur when the economy is strengthening,
-which increases tax revenues. (However, some FOMC participants worried about a
-sudden, spontaneous rise in long rates—the bursting of the “bond bubble.”) In fact,
-the Fed’s asset purchase programs proved hugely profitable, with net profits resulting
-in remittances to the Treasury totaling about $800 billion between 2009 and
-2018, about triple  pre-crisis rates. Such an outcome, though likely, was not guaranteed,
-and the risk of capital losses is likely to remain a concern for policymakers
+963
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+slope. Third, the taxpayer is hedged against Fed capital losses in the sense that a rise 
+in  longer-term yields is more likely to occur when the economy is strengthening, 
+which increases tax revenues. (However, some FOMC participants worried about a 
+sudden, spontaneous rise in long rates—the bursting of the “bond bubble.”) In fact, 
+the Fed’s asset purchase programs proved hugely profitable, with net profits result-
+ing in remittances to the Treasury totaling about $800 billion between 2009 and 
+2018, about triple  pre-crisis rates. Such an outcome, though likely, was not guar -
+anteed, and the risk of capital losses is likely to remain a concern for policymakers 
 involved in large  asset-purchase programs.17
-Financial Instability.—FOMC participants worried that  post-crisis monetary policies
-raised risks of financial instability—a natural concern, given the recentness and
-largely unpredicted nature of the global financial crisis. Many mechanisms linking
-monetary policy to stability risks were suggested, including but not limited to the
-creation of asset bubbles; incentivizing “reach for yield” and excessive  risk-taking
-by investors; the promotion of excessive leverage or maturity transformation; and
-the destabilization of the business models of insurance companies and pension
-funds, which rely on receiving adequate  long-run returns, and of banks, whose profits
-depend in part on their ability to earn positive net interest margins. US central
-bankers also heard frequently from their foreign counterparts, especially in emerging
-markets, about the “spillover effects” of Fed policies on financial conditions
+Financial Instability.—FOMC participants worried that  post-crisis monetary pol-
+icies raised risks of financial instability—a natural concern, given the recentness and 
+largely unpredicted nature of the global financial crisis. Many mechanisms linking 
+monetary policy to stability risks were suggested, including but not limited to the 
+creation of asset bubbles; incentivizing “reach for yield” and excessive  risk-taking 
+by investors; the promotion of excessive leverage or maturity transformation; and 
+the destabilization of the business models of insurance companies and pension 
+funds, which rely on receiving adequate  long-run returns, and of banks, whose prof-
+its depend in part on their ability to earn positive net interest margins. US central 
+bankers also heard frequently from their foreign counterparts, especially in emerg-
+ing markets, about the “spillover effects” of Fed policies on financial conditions 
 abroad (Rey 2013).
-We are far from a full understanding of the links between monetary policy and
-financial stability. A good bit of evidence suggests that monetary easing works in
-part by encouraging private actors to take risks—the  so-called  risk-taking channel
-(Borio and Zhu 2012). Easy money increases  risk-taking through several mechanisms:
-it improves the overall economic outlook and reduces downside risks; it
-strengthens bank and borrower balance sheets, which increases the willingness of
-lenders to extend credit; and it reduces the cost of liquidity, which complements
-risk-taking by banks (Drechsler, Savov, and Schnabl 2018). Increased  risk-taking
-is by no means always a bad thing, of course: encouraging banks, borrowers, and
-investors to take reasonable risks, rather than hoarding cash and hunkering down, is
-a desirable goal for policies aimed at ending a recession or crisis and restoring normal
-growth. However,  risk-taking may become excessive if investors and lenders are
-less than perfectly rational about trading off risk and return, if institutional arrangements
-distort incentives for  risk-taking, or if there are externalities associated with
-increased leverage or illiquidity (Stein 2013). So these concerns can hardly be dismissed;
-indeed, given the economic damage that a financial crisis can cause, we
+We are far from a full understanding of the links between monetary policy and 
+financial stability. A good bit of evidence suggests that monetary easing works in 
+part by encouraging private actors to take risks—the  so-called  risk-taking channel 
+(Borio and Zhu 2012). Easy money increases  risk-taking through several mech-
+anisms: it improves the overall economic outlook and reduces downside risks; it 
+strengthens bank and borrower balance sheets, which increases the willingness of 
+lenders to extend credit; and it reduces the cost of liquidity, which complements 
+ risk-taking by banks (Drechsler, Savov, and Schnabl 2018). Increased  risk-taking 
+is by no means always a bad thing, of course: encouraging banks, borrowers, and 
+investors to take reasonable risks, rather than hoarding cash and hunkering down, is 
+a desirable goal for policies aimed at ending a recession or crisis and restoring nor -
+mal growth. However,  risk-taking may become excessive if investors and lenders are 
+less than perfectly rational about trading off risk and return, if institutional arrange-
+ments distort incentives for  risk-taking, or if there are externalities associated with 
+increased leverage or illiquidity (Stein 2013). So these concerns can hardly be dis-
+missed; indeed, given the economic damage that a financial crisis can cause, we 
 must be humble about our understanding and remain vigilant for building risks.
-There is a lively debate, which I will not try to resolve here, about the extent
-to which monetary policymakers should take financial stability considerations into
-account when setting interest rates (Svensson 2016; Gourio, Kashyap, and Sim
-2017; Adrian and Liang 2018). Most participants in that debate agree
+There is a lively debate, which I will not try to resolve here, about the extent 
+to which monetary policymakers should take financial stability considerations into 
+account when setting interest rates (Svensson 2016; Gourio, Kashyap, and Sim 
+2017; Adrian and Liang 2018). Most participants in that debate agree that the first 
+17 The fiscal gains from asset purchases has occasionally led to the opposite critique, that by buying government 
+debt and remitting profits, central banks are “enabling” irresponsible fiscal policymakers. The Fed’s view—which I 
+believe is appropriate—is that it is not the central bank’s job to dictate fiscal choices to elected legislators.

@@ -1,42 +1,49 @@
-A deeper response to this argument turns on the distinction between two views
-of how QE works, the  so-called stock and flow views. The standard portfolio balance
-channel of QE, recall, holds that policymakers can affect  longer-term yields by
-changing the relative supplies—that is, the stocks outstanding—of various financial
-assets. In this stock view of QE, the effect of asset purchases on yields at each point
-in time depends on the accumulated stock of central bank purchases and (because
-asset markets are  forward-looking) on expected stocks of central bank holdings at
-all future dates. The alternative flow view holds that the current pace of purchases is
-the critical determinant of asset prices and yields. This view implicitly underlies the
-argument that the effectiveness of QE can be evaluated by looking at the behavior of
-longer-term yields during periods of active  central-bank purchases. The flow view
-would be correct if QE affected asset prices and yields primarily through  short-run
+953
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+A deeper response to this argument turns on the distinction between two views 
+of how QE works, the  so-called stock and flow views. The standard portfolio bal-
+ance channel of QE, recall, holds that policymakers can affect  longer-term yields by 
+changing the relative supplies—that is, the stocks outstanding—of various financial 
+assets. In this stock view of QE, the effect of asset purchases on yields at each point 
+in time depends on the accumulated stock of central bank purchases and (because 
+asset markets are  forward-looking) on expected stocks of central bank holdings at 
+all future dates. The alternative flow view holds that the current pace of purchases is 
+the critical determinant of asset prices and yields. This view implicitly underlies the 
+argument that the effectiveness of QE can be evaluated by looking at the behavior of 
+ longer-term yields during periods of active  central-bank purchases. The flow view 
+would be correct if QE affected asset prices and yields primarily through  short-run 
 liquidity effects.
-However, the stock view conforms better to the underlying theory and has better
-empirical support (D’Amico and King 2013). Substantial research has tried to
-quantify the dynamic relationship between yields and the relative supplies of securities
-under the stock view. In an important article, Ihrig et al. (2018) estimated
-an  arbitrage-free model of the term structure of Treasury yields, in which current
-and expected holdings of securities by the Fed are allowed to influence yields.11
-They carefully modeled the evolution of the Fed’s balance sheet, given its purchases
-and the maturing of existing securities, and they developed reasonable measures of
-market expectations of future purchases. They also incorporated estimates of new
-Treasury debt issuance, which partially offset the effects of the Fed’s purchases on
+However, the stock view conforms better to the underlying theory and has bet-
+ter empirical support (D’Amico and King 2013). Substantial research has tried to 
+quantify the dynamic relationship between yields and the relative supplies of secu-
+rities under the stock view. In an important article, Ihrig et al. (2018) estimated 
+an  arbitrage-free model of the term structure of Treasury yields, in which current 
+and expected holdings of securities by the Fed are allowed to influence yields.11 
+They carefully modeled the evolution of the Fed’s balance sheet, given its purchases 
+and the maturing of existing securities, and they developed reasonable measures of 
+market expectations of future purchases. They also incorporated estimates of new 
+Treasury debt issuance, which partially offset the effects of the Fed’s purchases on 
 the net supply of government debt (Greenwood et al. 2014).
-Putting these elements together, Ihrig et al. (2018) found significant effects of
-the Fed’s asset purchase programs on Treasury yields. For example, their estimates
-suggest that, at inception, QE1 reduced the  10-year term premium by 34 basis
-points, the Maturity Extension Program reduced term premiums by an additional
-28 basis points, and QE3 reduced term premiums yet more, by 31 basis points on
-announcement and more over time. This finding is consistent with other papers that
-show no reduction in the effectiveness of later programs relative to the earliest ones.
-Their results also imply substantial persistence: although the effect of any given
-QE program decayed over time, as securities matured and ran off the Fed’s balance
-sheet, Ihrig et al. (2018) estimated that the cumulative effect of the purchases on
-the  10-year yield exceeded 120 basis points when net purchases ended in October
-2014 and was still about 100 basis points as of the end of 2015. In related work, Wu
-(2014) found quite similar results, crediting Fed asset purchases with more than half
-of the 217 basis point decline in  10-year Treasury yields between the Lehman failure
-and the taper tantrum. Altavilla, Carboni, and Motto (2015) and Eser et al. (2019)
-estimated related models for the euro area, likewise finding that ECB purchases had
-sizable and persistent impacts on asset prices—notwithstanding, once again, that the
-ECB’s program was announced at a time of low financial dis
+Putting these elements together, Ihrig et al. (2018) found significant effects of 
+the Fed’s asset purchase programs on Treasury yields. For example, their estimates 
+suggest that, at inception, QE1 reduced the  10-year term premium by 34 basis 
+points, the Maturity Extension Program reduced term premiums by an additional 
+28 basis points, and QE3 reduced term premiums yet more, by 31 basis points on 
+announcement and more over time. This finding is consistent with other papers that 
+show no reduction in the effectiveness of later programs relative to the earliest ones. 
+Their results also imply substantial persistence: although the effect of any given 
+QE program decayed over time, as securities matured and ran off the Fed’s balance 
+sheet, Ihrig et al. (2018) estimated that the cumulative effect of the purchases on 
+the  10-year yield exceeded 120 basis points when net purchases ended in October 
+2014 and was still about 100 basis points as of the end of 2015. In related work, Wu 
+(2014) found quite similar results, crediting Fed asset purchases with more than half 
+of the 217 basis point decline in  10-year Treasury yields between the Lehman failure 
+and the taper tantrum. Altavilla, Carboni, and Motto (2015) and Eser et al. (2019) 
+estimated related models for the euro area, likewise finding that ECB purchases had 
+sizable and persistent impacts on asset prices—notwithstanding, once again, that the 
+ECB’s program was announced at a time of low financial distress.
+11 For a summary of this approach and its findings, see Bonis, Ihrig, and Wei (2017). This work builds on Li and 
+Wei (2013) and Hamilton and Wu (2012), the latter of whom find somewhat weaker effects of asset purchases. A 
+number of papers use regression methods to assess the effects of bond supply on term premiums, e.g., Gagnon et 
+al. (2011); the line of research typified by Ihrig et al. (2018) can be seen as an attempt to impose greater structure 
+(including the  no-arbitrage condition) on this approach. See also Greenwood and Vayanos (2014).

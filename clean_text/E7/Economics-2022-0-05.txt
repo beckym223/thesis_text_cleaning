@@ -1,38 +1,45 @@
-In addressing the closely related problem of optimal turnover in a model with
-a fixed (but unknown) match component, Jovanovich (1979) showed that an equilibrium
-contract pays the worker the expected value of her  match-specific productivity,
-and allows her to quit when the option value of the current job falls below
-the option value of a fresh job.9 Jovanovich’s model has features of the canonical
-Diamond-Mortensen-Pissarides search model, but incorporates  job-to-job mobility,
-leading to something like a “ worker-specific job ladder” as jobs that are revealed
-to be worse matches (and therefore have lower pay) are terminated.10 Topel and
-Ward (1992) interpreted the patterns of wages and turnover for young male workers
-as evidence of this process, but they did not have rich enough data to tell whether
-wages include a  match-specific component (as in Jovanovich 1979) or whether
-later-career jobs pay higher wages to all workers (as in the  BM model). In my view,
-the simple event studies developed by Card, Heining, and Kline (2013) and the
-surprisingly small job match component uncovered in that paper (and many later
-studies) suggest that workers tend to move up the same job ladder (as in Abowd,
+1080
+THE AMERICAN ECONOMIC REVIEW APRIL 2022
+In addressing the closely related problem of optimal turnover in a model with 
+a fixed (but unknown) match component, Jovanovich (1979) showed that an equi-
+librium contract pays the worker the expected value of her  match-specific produc-
+tivity, and allows her to quit when the option value of the current job falls below 
+the option value of a fresh job.9 Jovanovich’s model has features of the canonical 
+ Diamond-Mortensen-Pissarides search model, but incorporates  job-to-job mobility, 
+leading to something like a “ worker-specific job ladder” as jobs that are revealed 
+to be worse matches (and therefore have lower pay) are terminated.10 Topel and 
+Ward (1992) interpreted the patterns of wages and turnover for young male workers 
+as evidence of this process, but they did not have rich enough data to tell whether 
+wages include a  match-specific component (as in Jovanovich 1979) or whether 
+ later-career jobs pay higher wages to all workers (as in the  BM model). In my view, 
+the simple event studies developed by Card, Heining, and Kline (2013) and the 
+surprisingly small job match component uncovered in that paper (and many later 
+studies) suggest that workers tend to move up the same job ladder (as in Abowd, 
 Kramarz, and Margolis 1999).
-Finally, there were a few studies of specific institutional settings where firm wage
-setting power seemed possible. Sullivan (1989), for example, showed that increases
-in the number of nurses were correlated with  hospital-specific wage increases,
-suggesting that employers were facing  upward-sloping supply curves for nursing
-labor. Ransom (1993) used university payroll data to show that wages of professors
+Finally, there were a few studies of specific institutional settings where firm wage 
+setting power seemed possible. Sullivan (1989), for example, showed that increases 
+in the number of nurses were correlated with  hospital-specific wage increases, 
+suggesting that employers were facing  upward-sloping supply curves for nursing 
+labor. Ransom (1993) used university payroll data to show that wages of professors 
 decline with tenure—a pattern he attributed to monopsonistic wage discrimination.
-IV . What Happened in the 1990sFour
-new types of evidence have accumulated in the past 25 years that suggest
-employer  wage-setting power is  nonnegligible: evidence on quit and recruiting
-responses to wages, evidence on the relationship between wages and firm productivity,
-evidence on the concentration of employment in small numbers of employers,
-and evidence of conspiracies and other forms of firm behavior targeted at suppressing
-firm-to-firm mobility and wage growth.
+IV . What Happened in the 1990s?
+Four new types of evidence have accumulated in the past 25 years that suggest 
+employer  wage-setting power is  nonnegligible: evidence on quit and recruiting 
+responses to wages, evidence on the relationship between wages and firm produc-
+tivity, evidence on the concentration of employment in small numbers of employers, 
+and evidence of conspiracies and other forms of firm behavior targeted at suppress-
+ing  firm-to-firm mobility and wage growth.
 A. Quit, Recruiting, and Application Elasticities
-Though many economists acknowledge that quit and recruitment rates vary with
-wages, the connection between these responses and the elasticity of supply that is
-relevant for a monopsonistic wage setter does not seem to have been fully appreciated
-until the seminal paper by BM (which circulated for many years prior to its
-publication). Card and Krueger (1995) noted that in any steady state, the elasticity
-of labor supply is just the sum of the absolute values of the elasticities of recruiting
-and quitting. Manning (2003) showed that in a simple job ladder model the
-two are equal: thus, an analyst can estimate one or the other and doubl
+Though many economists acknowledge that quit and recruitment rates vary with 
+wages, the connection between these responses and the elasticity of supply that is 
+relevant for a monopsonistic wage setter does not seem to have been fully appre-
+ciated until the seminal paper by BM (which circulated for many years prior to its 
+publication). Card and Krueger (1995) noted that in any steady state, the elasticity 
+of labor supply is just the sum of the absolute values of the elasticities of recruit-
+ing and quitting. Manning (2003) showed that in a simple job ladder model the 
+two are equal: thus, an analyst can estimate one or the other and double it to yield 
+9 If  match-specific productivity requires upfront investment, the solution is to have workers pay for the invest-
+ment and then follow the Jovanovich rule. This is solution proposed by Crawford (1988). Discussions of such 
+“bonding” contracts were widespread when I joined the Chicago faculty in 1982.
+10 Subsequent studies by Miller (1984) and McCall (1990) used the  multi-arm bandit setup of Gittins and Jones 
+(1974) to incorporate learning over an  occupation-specific match component as well as a  job-specific component.

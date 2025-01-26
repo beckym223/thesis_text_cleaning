@@ -1,47 +1,49 @@
-signaling the likely path of policy rates; increasingly, central banks (notably the
-ECB) have made this connection explicit, for example, by promising no rate
-increases until well after the conclusion of asset purchase programs. Policymakers
-can also offer guidance about future asset purchases (Greenwood, Hanson, and
-Vayanos 2015) or even tie the trajectory of asset holdings to the level of rates, as
-when the FOMC indicated that it would begin to pare down its balance sheet only
-after the policy rate had moved sufficiently above zero. And both asset purchases
-and forward guidance affect asset prices in complicated ways, making it difficult to
-separate the effects of the two tools (Eberly, Stock, and Wright 2019). An interesting
-attempt at making that decomposition is the work of Swanson (2017), who extended
-the  event-study methods of Gürkaynak, Sack, and Swanson (2005) to the  post-crisis
-period. He showed that, during  2009–2015, movements in asset yields and prices
-during  30-minute windows around FOMC announcements were dominated by two
-factors: (i) changes in the expected path of the federal funds rate, which Swanson
-identified with forward guidance, and (ii) changes in the level of  long-term interest
-rates, which he identified with QE. With these identifying assumptions, he found
-that both forward guidance and QE significantly and persistently affected a range of
+957
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+signaling the likely path of policy rates; increasingly, central banks (notably the 
+ECB) have made this connection explicit, for example, by promising no rate 
+increases until well after the conclusion of asset purchase programs. Policymakers 
+can also offer guidance about future asset purchases (Greenwood, Hanson, and 
+Vayanos 2015) or even tie the trajectory of asset holdings to the level of rates, as 
+when the FOMC indicated that it would begin to pare down its balance sheet only 
+after the policy rate had moved sufficiently above zero. And both asset purchases 
+and forward guidance affect asset prices in complicated ways, making it difficult to 
+separate the effects of the two tools (Eberly, Stock, and Wright 2019). An interesting 
+attempt at making that decomposition is the work of Swanson (2017), who extended 
+the  event-study methods of Gürkaynak, Sack, and Swanson (2005) to the  post-crisis 
+period. He showed that, during  2009–2015, movements in asset yields and prices 
+during  30-minute windows around FOMC announcements were dominated by two 
+factors: (i) changes in the expected path of the federal funds rate, which Swanson 
+identified with forward guidance, and (ii) changes in the level of  long-term interest 
+rates, which he identified with QE. With these identifying assumptions, he found 
+that both forward guidance and QE significantly and persistently affected a range of 
 asset prices, in a manner comparable to  pre-crisis policies.
-The Fed’s experience during the  post-crisis era illustrates the more general point
-that central banks, collectively, have been learning how to make better use of forward
-guidance. Like the Fed, the Bank of England moved from qualitative guidance
-to explicit,  state-contingent guidance. The Bank of Japan has used increasingly
-aggressive guidance, both  state-contingent and calendar. The ECB has employed
-statements and press conferences effectively to guide expectations about how it will
-deploy its complex mix of policy tools. Charbonneau and Rennison (2015) provides
-a chronology and a review of the evidence on  post-crisis forward guidance.
-Altavilla et al. (2019) used a statistical analysis similar to that of Gürkaynak, Sack,
-and Swanson (2005) and Swanson (2017) to identify the key dimensions of ECB
-communication. Hubert and Labondance (2018) found that the ECB’s forward guidance
-persistently lowered rates over the entire term structure.
-Overall, the evolving evidence suggests that forward guidance can be a powerful
-policy tool, with the potential to shift the public’s expectations in a way that increases
-the degree of accommodation at the lower bound. Communication can also reduce
-perceived uncertainty and, through this channel, lower risk premiums on bonds and
-other assets ( Bundick, Herriford, and Smith 2017) . And, like Draghi’s famous “whatever
-it takes” statement in July 2012, timely communication can reduce perceived
-tail risks, promoting confidence ( Hattori, Schrimpf, and Sushko 2016) . The limits to
-forward guidance depend on what the public understands, and what it believes. In
-normal times, the general public does not pay much attention to central bank statements,
-so robust policies should be designed to be effective even if they are followed
-closely only by financial market participants. Even sophisticated players can misunderstand,
-as in the taper tantrum, which means that policymakers must communicate
+The Fed’s experience during the  post-crisis era illustrates the more general point 
+that central banks, collectively, have been learning how to make better use of for -
+ward guidance. Like the Fed, the Bank of England moved from qualitative guid-
+ance to explicit,  state-contingent guidance. The Bank of Japan has used increasingly 
+aggressive guidance, both  state-contingent and calendar. The ECB has employed 
+statements and press conferences effectively to guide expectations about how it will 
+deploy its complex mix of policy tools. Charbonneau and Rennison (2015) pro-
+vides a chronology and a review of the evidence on  post-crisis forward guidance. 
+Altavilla et al. (2019) used a statistical analysis similar to that of Gürkaynak, Sack, 
+and Swanson (2005) and Swanson (2017) to identify the key dimensions of ECB 
+communication. Hubert and Labondance (2018) found that the ECB’s forward guid-
+ance persistently lowered rates over the entire term structure.
+Overall, the evolving evidence suggests that forward guidance can be a powerful 
+policy tool, with the potential to shift the public’s expectations in a way that increases 
+the degree of accommodation at the lower bound. Communication can also reduce 
+perceived uncertainty and, through this channel, lower risk premiums on bonds and 
+other assets ( Bundick, Herriford, and Smith 2017) . And, like Draghi’s famous “what-
+ever it takes” statement in July 2012, timely communication can reduce perceived 
+tail risks, promoting confidence ( Hattori, Schrimpf, and Sushko 2016) . The limits to 
+forward guidance depend on what the public understands, and what it believes. In 
+normal times, the general public does not pay much attention to central bank state-
+ments, so robust policies should be designed to be effective even if they are followed 
+closely only by financial market participants. Even sophisticated players can misun-
+derstand, as in the taper tantrum, which means that policymakers must communicate 
 consistently and intelligibly.
-Ensuring the credibility of forward guidance is also essential. The personal reputations
-and skills of policymakers matter for credibility, but since policymakers can
-bind neither themselves nor their successors, institutional reputation is important as
-well. Policymakers have an incentive to follow through on earlier pr
+Ensuring the credibility of forward guidance is also essential. The personal repu-
+tations and skills of policymakers matter for credibility, but since policymakers can 
+bind neither themselves nor their successors, institutional reputation is important as 
+well. Policymakers have an incentive to follow through on earlier promises because 

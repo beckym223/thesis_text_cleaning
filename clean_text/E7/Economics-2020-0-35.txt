@@ -1,21 +1,53 @@
-valuable policy space—can no longer fully compensate for the effects of the lower
-bound. Moreover, in that case, any monetary policy approach, with or without the
-new tools, is likely to involve extended periods of short rates at the lower bound, as
-well as  longer-term yields that are often very low or negative, which may pose risks
-to financial stability or impose other costs. Should the neutral rate ultimately prove
-to be that low, then additional measures to increase policy space, including a moderate
-increase in the inflation target or significantly greater reliance on active fiscal
-policy for economic stabilization, might become necessary. For now, though, major
-changes seem premature. A reasonable interim approach could involve working to
-increase the countercyclicality of fiscal policy, for example, through increased use
-of automatic stabilizers. And, of course, in any case, the Fed must work to keep
-inflation expectations from falling below target, which would bring down the neutral
+978
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+valuable policy space—can no longer fully compensate for the effects of the lower 
+bound. Moreover, in that case, any monetary policy approach, with or without the 
+new tools, is likely to involve extended periods of short rates at the lower bound, as 
+well as  longer-term yields that are often very low or negative, which may pose risks 
+to financial stability or impose other costs. Should the neutral rate ultimately prove 
+to be that low, then additional measures to increase policy space, including a mod-
+erate increase in the inflation target or significantly greater reliance on active fiscal 
+policy for economic stabilization, might become necessary. For now, though, major 
+changes seem premature. A reasonable interim approach could involve working to 
+increase the countercyclicality of fiscal policy, for example, through increased use 
+of automatic stabilizers. And, of course, in any case, the Fed must work to keep 
+inflation expectations from falling below target, which would bring down the neutral 
 interest rate and limit policy space.
-I began this lecture by referring to the victory over inflation under Fed chairs
-V olcker and Greenspan, an experience that promoted the view among central bankers
-that lower inflation is always better. We have come almost full circle: in a world
-in which low nominal neutral rates threaten the capacity of central banks to respond
-to recessions,  too-low inflation can be dangerous. Consistent with their declared
-“symmetric” inflation targets, the Federal Reserve and other central banks should
-defend against inflation that is too low as least as vigorously as they resist inflation
-that is too h
+I began this lecture by referring to the victory over inflation under Fed chairs 
+V olcker and Greenspan, an experience that promoted the view among central bank-
+ers that lower inflation is always better. We have come almost full circle: in a world 
+in which low nominal neutral rates threaten the capacity of central banks to respond 
+to recessions,  too-low inflation can be dangerous. Consistent with their declared 
+“symmetric” inflation targets, the Federal Reserve and other central banks should 
+defend against inflation that is too low as least as vigorously as they resist inflation 
+that is too high.
+REFERENCES
+Aaronson, Stephanie, Mary Daly, William Wascher, and David Wilcox. 2019. “Okun Revisited: Who 
+Benefits Most from a Strong Economy?” Brookings Papers on Economic Activity 50 (Spring): 
+333–404.
+Adrian, Tobias, Richard K. Crump, and Emanuel Moench. 2013. “Pricing the Term Structure with 
+Linear Regressions.” Journal of Financial Economics 110 (1): 110–38.
+Adrian, Tobias, and Nellie Liang. 2018. “Monetary Policy, Financial Conditions, and Financial Stabil-
+ity.” International Journal of Central Banking January: 73–131.
+Altavilla, Carlo, Luca Brugnolini, Refet Gürkaynak, Roberto Motto, and Giuseppe Ragusa. 2019. 
+“Monetary Policy in Action: Multiple Dimensions of ECB Policy Communication and Their Finan-
+cial Market Effects.” Center for Economic Policy Research, VOX .
+Altavilla, Carlo, Giacomo Carboni, and Roberto Motto. 2015. “Asset Purchase Programmes and 
+Financial Markets: Lessons from the Euro Area.” European Central Bank Working Paper 1864.
+Altavilla, Carlo, and Domenico Giannone. 2015. “The Effectiveness of Nonstandard Monetary Pol-
+icy Measures: Evidence from Survey Data.” Federal Reserve Bank of New York Staff Report 752.
+Ampudia, Miguel, Dimitris Georgarakos, Jiri Slacalek, Oreste Tristani, Philip Vermeulen, and 
+Giovanni Violante. 2018. “Monetary Policy and Household Inequality.” European Central Bank 
+Working Paper 2170.
+Andrade, Philippe, Christophe Cahn, Henri Fraisse, and Jean-Stéphane Mésonnier. 2019. “Can the 
+Provision of Long-Term Liquidity Help to Avoid a Credit Crunch? Evidence from the Eurosystem’s 
+LTRO.” Journal of the European Economic Association 17 (4): 1070–1106.
+Arteta, Carlos, M. Ayhan Kose, Marc Stocker, and Temel Taskin. 2018. “Implications of Negative 
+Interest Rate Policies: An Early Assessment.” Pacific Economic Review 23 (1): 8–26.
+Bauer, Michael, and Glenn Rudebusch. 2014. “The Signaling Channel for Federal Reserve Bond Pur -
+chases.” International Journal of Central Banking 10 (3): 233–89.
+Bauer, Michael, and Glenn Rudebusch. 2017. “Interest Rates Under Falling Stars.” Federal Reserve 
+Bank of San Francisco Working Paper 2017-16. 
+Bernanke, Ben S. 2020. “Data and code for: The New Tools of Monetary Policy.” American Economic 
+Review [publisher], Inter-university Consortium for Political and Social Research [distributor]. 
+http://doi.org/10.3886/E117206V1.

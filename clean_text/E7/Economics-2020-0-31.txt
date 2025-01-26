@@ -1,46 +1,48 @@
-bound. For example, for   r   ∗   = 1, the combination of a 2 percent inflation threshold
-for forward guidance and the QE(C) program produces a lower average loss than
-the baseline policy with a 5 percent inflation target; and the same forward guidance
-combined with QE(D) implies a lower loss than even the unconstrained baseline
-policy. For   r   ∗   = 0, the combination of a 2 percent inflation threshold and the QE(D)
-policy yields a lower loss than the baseline policy with a 5 percent inflation target,
-and an only slightly greater loss than that of the (hypothetical) unconstrained baseline
-policy. None of these combination policies implies unreasonably high average
-durations of  lower-bound episodes or peak asset  central-bank accumulations
-outside historical experience. In contrast to the baseline rules, these policies also
-produce inflation rates near target, consistent with inflation expectations remaining
+974
+THE AMERICAN ECONOMIC REVIEW APRIL 2020
+bound. For example, for   r   ∗   = 1, the combination of a 2 percent inflation threshold 
+for forward guidance and the QE(C) program produces a lower average loss than 
+the baseline policy with a 5 percent inflation target; and the same forward guidance 
+combined with QE(D) implies a lower loss than even the unconstrained baseline 
+policy. For   r   ∗   = 0, the combination of a 2 percent inflation threshold and the QE(D) 
+policy yields a lower loss than the baseline policy with a 5 percent inflation target, 
+and an only slightly greater loss than that of the (hypothetical) unconstrained base-
+line policy. None of these combination policies implies unreasonably high aver -
+age durations of  lower-bound episodes or peak asset  central-bank accumulations 
+outside historical experience. In contrast to the baseline rules, these policies also 
+produce inflation rates near target, consistent with inflation expectations remaining 
 well anchored.
-The finding that, with an inflation target of 2 percent, a plausible combination of
-new policy tools performs as well as traditional policies with an effective inflation
-target of 5 percent, yields two implications. First, it suggests that, when the nominal
-neutral rate is in the range of  2–3 percent, the new monetary tools are capable
-of adding about 3 percentage points worth of policy space, relative to traditional
-policies. That is, when the nominal neutral rate is in the range of  2–3 percent, the
-use of the new tools allows policymakers to achieve economic outcomes similar to
-those that could be attained by traditional policies if the nominal neutral rate were
-3 percentage points higher, which in turn are close to the outcomes traditional policies
-could achieve in the absence of any constraint on  short-term rates. Second, the
-finding significantly weakens the argument for raising the inflation target to create
-more policy space. Unless the direct costs of low nominal interest rates, in terms
-of increased financial stability risks for example, exceed the costs of reaching and
-maintaining 5 percent inflation, the use of new policy tools is preferable to a higher
+The finding that, with an inflation target of 2 percent, a plausible combination of 
+new policy tools performs as well as traditional policies with an effective inflation 
+target of 5 percent, yields two implications. First, it suggests that, when the nomi-
+nal neutral rate is in the range of  2–3 percent, the new monetary tools are capable 
+of adding about 3 percentage points worth of policy space, relative to traditional 
+policies. That is, when the nominal neutral rate is in the range of  2–3 percent, the 
+use of the new tools allows policymakers to achieve economic outcomes similar to 
+those that could be attained by traditional policies if the nominal neutral rate were 
+3 percentage points higher, which in turn are close to the outcomes traditional poli-
+cies could achieve in the absence of any constraint on  short-term rates. Second, the 
+finding significantly weakens the argument for raising the inflation target to create 
+more policy space. Unless the direct costs of low nominal interest rates, in terms 
+of increased financial stability risks for example, exceed the costs of reaching and 
+maintaining 5 percent inflation, the use of new policy tools is preferable to a higher 
 inflation target.
-Obviously, there are qualifications. Tables 3 and 4 include no standard errors, but
-in reality, the uncertainty surrounding the reported estimates is high. Reasonable
-people can disagree about the precise effects of asset purchases on financial conditions,
-the credibility of forward guidance, or the effects of changes in financial
-conditions on growth and inflation. And whatever its strengths, FRB/US is just one,
-imperfect model of the US economy. On the other hand, the reported simulations
-may in some ways understate the potential of new monetary tools. For example, I
-have ruled out the use of negative  short-term rates,  funding-for-lending programs,
-and other tools that might provide additional policy space. I have also excluded
-MBS purchases, which could reduce the spread between mortgage rates and
-Treasury yields. A policy framework that made inflation thresholds a condition for
-raising rates from the lower bound, if it led market participants to expect that policy
-response even in advance of rates hitting the bound, would be more powerful than
-the  threshold-based guidance in the simulations. And FRB/US does not include all
-of the new tools’ potential channels of effect, such as the possible impacts of asset
+Obviously, there are qualifications. Tables 3 and 4 include no standard errors, but 
+in reality, the uncertainty surrounding the reported estimates is high. Reasonable 
+people can disagree about the precise effects of asset purchases on financial con-
+ditions, the credibility of forward guidance, or the effects of changes in financial 
+conditions on growth and inflation. And whatever its strengths, FRB/US is just one, 
+imperfect model of the US economy. On the other hand, the reported simulations 
+may in some ways understate the potential of new monetary tools. For example, I 
+have ruled out the use of negative  short-term rates,  funding-for-lending programs, 
+and other tools that might provide additional policy space. I have also excluded 
+MBS purchases, which could reduce the spread between mortgage rates and 
+Treasury yields. A policy framework that made inflation thresholds a condition for 
+raising rates from the lower bound, if it led market participants to expect that policy 
+response even in advance of rates hitting the bound, would be more powerful than 
+the  threshold-based guidance in the simulations. And FRB/US does not include all 
+of the new tools’ potential channels of effect, such as the possible impacts of asset 
 purchases on bank lending (Rodnyansky and Darmouni 2017).
-The Role of the Neutral Interest Rate:  An especially important qualification to
-my results is the uncertainty about the level of the neutral interest rate. As I have discussed,
-if the nominal neutral rate is in the range of  2–3 percent or higher,
+The Role of the Neutral Interest Rate:  An especially important qualification to 
+my results is the uncertainty about the level of the neutral interest rate. As I have dis-
+cussed, if the nominal neutral rate is in the range of  2–3 percent or higher, the use of 

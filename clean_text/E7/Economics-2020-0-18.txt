@@ -1,38 +1,46 @@
-of these policies, especially QE, that most concerned US policymakers in real time.
-My principal sources are FOMC minutes and transcripts, and a survey of FOMC
-participants about the costs and risks of asset purchases that they discussed at their
-December 2013 meeting. In retrospect, most of the costs and risks that concerned
-policymakers and outside observers have not proved significant.12 The possible
+961
+BERNANKE: THE NEW TOOLS OF MONETARY POLICY VOL. 110 NO. 4
+of these policies, especially QE, that most concerned US policymakers in real time. 
+My principal sources are FOMC minutes and transcripts, and a survey of FOMC 
+participants about the costs and risks of asset purchases that they discussed at their 
+December 2013 meeting. In retrospect, most of the costs and risks that concerned 
+policymakers and outside observers have not proved significant.12 The possible 
 exception is the risk of financial instability, which I leave to last.
-Impairment of Market Functioning.—Central banks using QE have tried to
-ensure that securities markets continue to function well, for example, by putting
-limits on the fraction of individual issues eligible for  asset-purchase programs. The
-JGB market in Japan has at times had very low activity outside of central bank purchases.
-In the other major economies however there has been only limited evidence
-of poor market functioning, absence of  two-way trade, or loss of price discovery.
-Asset purchases likely improved market functioning during the global financial crisis
-and during the European sovereign debt crisis, by adding liquidity, promoting
+Impairment of Market Functioning.—Central banks using QE have tried to 
+ensure that securities markets continue to function well, for example, by putting 
+limits on the fraction of individual issues eligible for  asset-purchase programs. The 
+JGB market in Japan has at times had very low activity outside of central bank pur -
+chases. In the other major economies however there has been only limited evidence 
+of poor market functioning, absence of  two-way trade, or loss of price discovery. 
+Asset purchases likely improved market functioning during the global financial cri-
+sis and during the European sovereign debt crisis, by adding liquidity, promoting 
 confidence, and strengthening the balance sheets of financial institutions.
-High Inflation.—FOMC participants were appropriately skeptical of the crude
-monetarism sometimes espoused in the early days of QE, which held that the large
-increases in the monetary base associated with asset purchases—which are financed
-by crediting banks’ reserve accounts at the central bank—would lead to runaway
-inflation. Fed policymakers and staff understood that, with  short-term interest rates
-near zero, the demand for bank reserves would be highly elastic and the velocity of
-base money could be expected to fall sharply.13 However, some FOMC participants
-did express concern about the possibility that the combination of extraordinary monetary
-measures and large fiscal deficits could  unanchor inflationary expectations, the
-determinants of which are poorly understood. This was a minority view and, of
+High Inflation.—FOMC participants were appropriately skeptical of the crude 
+monetarism sometimes espoused in the early days of QE, which held that the large 
+increases in the monetary base associated with asset purchases—which are financed 
+by crediting banks’ reserve accounts at the central bank—would lead to runaway 
+inflation. Fed policymakers and staff understood that, with  short-term interest rates 
+near zero, the demand for bank reserves would be highly elastic and the velocity of 
+base money could be expected to fall sharply.13 However, some FOMC participants 
+did express concern about the possibility that the combination of extraordinary mon-
+etary measures and large fiscal deficits could  unanchor inflationary expectations, the 
+determinants of which are poorly understood. This was a minority view and, of 
 course, inflation and inflation expectations remained low—often frustratingly so—
 in all major jurisdictions despite the use of QE and other new tools.
-Managing Exit.—FOMC participants worried about whether the expansion of the
-Fed’s balance sheet could ultimately be reversed without disrupting markets, and
-about how (in a mechanical sense)  short-term interest rates could be raised when the
-time came to do so if banks remained inundated with reserves. The taper tantrum of
-2013 would show that the communication around ending or reversing growth in the
-central bank balance sheet can indeed be delicate. To bolster confidence both inside
-and outside the Fed, Board staff and FOMC participants worked to develop methods
-for raising the policy rate at the appropriate time—including the payment of interest
-on bank reserves, which would ultimately become the key tool. These efforts largely
-succeeded, as the Fed’s balance sheet has neared its new  steady-state level and rates
-were raised from zero with only occasional and relatively minor disruptions thus
+Managing Exit.—FOMC participants worried about whether the expansion of the 
+Fed’s balance sheet could ultimately be reversed without disrupting markets, and 
+about how (in a mechanical sense)  short-term interest rates could be raised when the 
+time came to do so if banks remained inundated with reserves. The taper tantrum of 
+2013 would show that the communication around ending or reversing growth in the 
+central bank balance sheet can indeed be delicate. To bolster confidence both inside 
+and outside the Fed, Board staff and FOMC participants worked to develop methods 
+for raising the policy rate at the appropriate time—including the payment of interest 
+on bank reserves, which would ultimately become the key tool. These efforts largely 
+succeeded, as the Fed’s balance sheet has neared its new  steady-state level and rates 
+were raised from zero with only occasional and relatively minor disruptions thus far.
+12 Beyond the costs and risks discussed here, policymakers feared Knightian uncertainty—the possibility that 
+using relatively untested tools would have unanticipated side effects. In the December 2013 survey, five participants 
+assessed “unanticipated/unknown” costs of QE as being of moderate concern, and one designated them as being 
+of high concern.
+13 The velocity of base money can be decomposed into the money multiplier (money in circulation, such as M1, 
+divided by base money) and the velocity of money in circulation. Both fell significantly as reserves rose.
