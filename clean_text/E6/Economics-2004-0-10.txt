@@ -45,7 +45,9 @@ worker benefit. He or she is also eligible for a
 spouse benefit if married to a retired worker
 beneficiary. But the total amount of benefit is
 equal to the maximum of the two benefits. Sim-
-31 There is a family maximum that proportionally re-  duces all benefits except those of the worker if it binds.  ilarly, someone eligible for a worker benefit and
+31 There is a family maximum that proportionally re-
+duces all benefits except those of the worker if it binds.
+ilarly, someone eligible for a worker benefit and
 also eligible for a survivor benefit receives only
 the larger benefit.32 A central design feature is
 that these auxiliary benefits are not paid for on
@@ -58,7 +60,8 @@ it make sense to mandate benefits for family
 members and ex-spouses? Does it make sense to
 base benefits on a maximum rule? Does it make
 sense to finance all of the auxiliary benefits
-from the program as a whole rather than in part  or in full from the benefits of the retired worker?
+from the program as a whole rather than in part
+or in full from the benefits of the retired worker?
 Are the details of benefit determination rules as
 well-designed as might be?
 Let me start with the first, most basic question.
@@ -88,7 +91,11 @@ of allocations within the family is still in an
 early stage of development. And normative
 analysis has not progressed much beyond identification
 of the dilemma in recognizing both
-32 If the spouse or survivor benefit is larger, the person is  referred to as having dual eligibility. In 2002, 38 percent of  elderly women received only a worker benefit, 34 percent  received only an auxiliary benefit and 28 percent were  "dually entitled." These fractions are expected to change as
+32 If the spouse or survivor benefit is larger, the person is
+referred to as having dual eligibility. In 2002, 38 percent of
+elderly women received only a worker benefit, 34 percent
+received only an auxiliary benefit and 28 percent were
+"dually entitled." These fractions are expected to change as
 more and more women with substantial careers reach retirement
 age.
 VOL. 94 NO. 1

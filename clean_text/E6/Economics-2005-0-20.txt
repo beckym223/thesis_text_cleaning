@@ -37,7 +37,8 @@ The issue of risk is an important consideration
 in both the pay-as-you-go and investment-based
 systems. Although pay-as-you-go programs do
 not have asset price risk, they have the political
-risk that future taxpayers may not be willing to  raise taxes when demographic or economic
+risk that future taxpayers may not be willing to
+raise taxes when demographic or economic
 changes would make it necessary to do so in order
 to finance promised benefits. The United States
 enacted benefit cuts in 1983 by increasing the age
@@ -84,8 +85,20 @@ system does very little redistribution and leaves
 some 10 percent of seniors with incomes below
 the poverty line. Women who were never married,
 widows, and particularly those who were
-widowed or divorced at a relatively early age  22 Feldstein and Liebman (2002a, section 7.1.3) used an
-overlapping generation model to show how such a debt  financed transition could raise the present value of con-  sumption. The rise in saving does not happen in the first  period but begins after that. The debt service on the initial  borrowing cannot be financed by additional borrowing  alone; the growth of the debt must be less than the growth  of the economy.  23 See Shoven (2000) for several discussions of admin-  istrative issues. The chapter by Fred T. Goldberg, Jr., and  Michael J. Graetz (2000) shows how administrative costs  can be reduced while maintaining the individual account
-structure.  24 See John McHale (2001) for more evidence on this
+widowed or divorced at a relatively early age
+22 Feldstein and Liebman (2002a, section 7.1.3) used an
+overlapping generation model to show how such a debt
+financed transition could raise the present value of con-
+sumption. The rise in saving does not happen in the first
+period but begins after that. The debt service on the initial
+borrowing cannot be financed by additional borrowing
+alone; the growth of the debt must be less than the growth
+of the economy.
+23 See Shoven (2000) for several discussions of admin-
+istrative issues. The chapter by Fred T. Goldberg, Jr., and
+Michael J. Graetz (2000) shows how administrative costs
+can be reduced while maintaining the individual account
+structure.
+24 See John McHale (2001) for more evidence on this
 point. 25 See Feldstein (2005a, 2005b) for a more extensive
 discussion of the risk issue.

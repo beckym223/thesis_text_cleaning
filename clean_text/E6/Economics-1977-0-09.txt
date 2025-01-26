@@ -87,7 +87,8 @@ nominal compensation, its coefficient is .40 with a t-ratio of
 the change in price, despite the negative bias from error
 of measurement of price, the coefficient of this variable is
 only - .09 with an entirely insignificant t-ratio of .7. The
-period after 1 973 has been omitted from the tests as irrelevant  for our purposes, since the inflation was driven primnarily by
+period after 1 973 has been omitted from the tests as irrelevant
+for our purposes, since the inflation was driven primnarily by
 an exogenous price shock rather than by excess demand. As a
 result of the shock, prices, and to some extent wages, rose
 rapidly while employment and real wages fell. Thus, the

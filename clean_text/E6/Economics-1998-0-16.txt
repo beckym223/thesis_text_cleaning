@@ -8,7 +8,8 @@ conveniently think in terms of logarithms, so
 let:
 V = observed value added of firm;
 pj = estimated firm-level price index;
-y, = v, - p, = estimated output;  Vj = Tj + ej [Tj =true value added];
+y, = v, - p, = estimated output;
+Vj = Tj + ej [Tj =true value added];
 p= = 7rj + Uj [7r, = true price index]; and
 qj = T- 7r, [true output of firm].
 We would like to have data on cj and its

@@ -61,13 +61,16 @@ being as much of an outlier and with the
 whole period showing much higher (social)
 returns to R&D. That this is indeed the
 case can be seen in Figure 3, where only
-three such adjustments are made, but be-  6The total-factor-productivity numbers come from
+three such adjustments are made, but be-
+6The total-factor-productivity numbers come from
 the National Bureau of Economic Research data base
 (Wayne Gray, 1992). The R&D numbers come from
 Scherer (1984), updated to 1984 using 2.5-digit-level
-information from National Science Foundation (1992).  'Updating the Griliches and Lichtenberg (1984) results
+information from National Science Foundation (1992).
+'Updating the Griliches and Lichtenberg (1984) results
 for 28 2.5-digit SIC industries and using a possibly
 more appropriate R&D-by-product-field measure yields
 essentially similar results, as does a parallel computation
 at the more aggregated two-digit SIC level using
-unpublished Bureau of Labor' Statistics data on total  (five-factor) productivity.
+unpublished Bureau of Labor' Statistics data on total
+(five-factor) productivity.

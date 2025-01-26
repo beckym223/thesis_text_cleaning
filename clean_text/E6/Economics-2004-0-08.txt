@@ -12,7 +12,8 @@ real size of the bequest and the date of death.
 This action contrasts with simply leaving unspent
 funds to one's heirs, a strategy that leaves
 an amount dependent on the history of consumption
-relative to the income earned on  assets.20
+relative to the income earned on
+assets.20
 In other words, the government's choice between
 providing retirement benefits as annuities
 or as lump sums can be considered as a choice
@@ -38,7 +39,20 @@ premia used for administrative costs and profit.
 The private market is more expensive and does
 not do a better job of delivering annuity products
 that people need.21 This is one reason to
-20 The timing of the purchase of both life insurance and  annuities is important for obtaining insurance. Waiting to  insure passes up insurance opportunities. The effects of  waiting depend on the extent of risk classification in the  pricing of insurance.  21 With any commodity, selling costs could be avoided  by mandating payment for government provision. What  distinguishes retirement annuities from most other products  are the similarity of needs of different workers (compared  with the diversity of tastes for different commodities) and  the reasons why a retirement income mandate is needed.  These reasons suggest that public provision is not blocking  an otherwise creative dynamic product development. The  have government provision rather than a mandate
+20 The timing of the purchase of both life insurance and
+annuities is important for obtaining insurance. Waiting to
+insure passes up insurance opportunities. The effects of
+waiting depend on the extent of risk classification in the
+pricing of insurance.
+21 With any commodity, selling costs could be avoided
+by mandating payment for government provision. What
+distinguishes retirement annuities from most other products
+are the similarity of needs of different workers (compared
+with the diversity of tastes for different commodities) and
+the reasons why a retirement income mandate is needed.
+These reasons suggest that public provision is not blocking
+an otherwise creative dynamic product development. The
+have government provision rather than a mandate
 to purchase an annuity in the private market.
 22 As with many other settings, we expect
 individuals to undo little of what is provided.23
@@ -56,11 +70,42 @@ is an annuity in some form.24
 A. Lifetime Income Distribution
 Mandated annuitization affects lifetime
 income distribution.25 Suppose one were
-nature of the cash-in, cash-out annuity product also suggests  that we are not missing cost improvements that would  otherwise come. The small size of replacement provided by  Social Security leaves lots of room for such private devel-  opments if they did represent a significant opportunity.  22 With mandated private purchase, if allowed, we would  get risk classification and separate pricing, as has happened  in the United Kingdom. Separate risk classification has  advantages and disadvantages, and it is unclear whether it
+nature of the cash-in, cash-out annuity product also suggests
+that we are not missing cost improvements that would
+otherwise come. The small size of replacement provided by
+Social Security leaves lots of room for such private devel-
+opments if they did represent a significant opportunity.
+22 With mandated private purchase, if allowed, we would
+get risk classification and separate pricing, as has happened
+in the United Kingdom. Separate risk classification has
+advantages and disadvantages, and it is unclear whether it
 would be better.
-23 While many of the elderly have life insurance policies,  these appear to arise mostly from coverage for funeral  arrangements, small old policies that were not terminated,  and tax avoidance among the wealthy, rather than from a  conscious attempt to undo annuitization.  24 Mandatory annuitization in a social security program  raises the interesting question of how monthly benefit  should vary over time-with prices, wages, and possibly
+23 While many of the elderly have life insurance policies,
+these appear to arise mostly from coverage for funeral
+arrangements, small old policies that were not terminated,
+and tax avoidance among the wealthy, rather than from a
+conscious attempt to undo annuitization.
+24 Mandatory annuitization in a social security program
+raises the interesting question of how monthly benefit
+should vary over time-with prices, wages, and possibly
 other variables such as rates of return. Relevant for this
-issue are the age structure of optimized expenditures, the  relative importance of both real and relative consumption,  and the allocation of risk bearing between the elderly and  the rest of the population. Currently, benefits in force are  increased for inflation as measured by the CPI. While this is  a reasonable solution, I suspect it would be better, on a  revenue neutral basis, to have lower initial benefits that then
-grew faster (for example as a weighted average of prices  and wages). This would help the longer-lived more than the  shorter-lived, but the effect on expected lifetime income  distribution could be partially adjusted by changing the benefit  formula. But this issue has not received detailed analysis.  25 A full analysis of the income distribution effects of  Social Security should consider the disability program along  with the retirement income program since there is a negative  correlation between life expectancy and the likelihood of  collecting disability benefits and dying young enough to  leave children who collect young survivor benefits.
+issue are the age structure of optimized expenditures, the
+relative importance of both real and relative consumption,
+and the allocation of risk bearing between the elderly and
+the rest of the population. Currently, benefits in force are
+increased for inflation as measured by the CPI. While this is
+a reasonable solution, I suspect it would be better, on a
+revenue neutral basis, to have lower initial benefits that then
+grew faster (for example as a weighted average of prices
+and wages). This would help the longer-lived more than the
+shorter-lived, but the effect on expected lifetime income
+distribution could be partially adjusted by changing the benefit
+formula. But this issue has not received detailed analysis.
+25 A full analysis of the income distribution effects of
+Social Security should consider the disability program along
+with the retirement income program since there is a negative
+correlation between life expectancy and the likelihood of
+collecting disability benefits and dying young enough to
+leave children who collect young survivor benefits.
 7
 VOL. 94 NO. I

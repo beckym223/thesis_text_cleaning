@@ -46,6 +46,8 @@ of DWDM equipment, beginning in
 1997, has doubled the transmission capacity of
 fiber-optic cables every 6-12 months.'6
 15 A general reference on the Internet is Soon-Yong Choi
-and Andrew B. Whinston (2000). On Internet indicators,  see: http://www.internetindicators.com/.  16 Rick Rashad (2000) characterizes this as the "demise"
+and Andrew B. Whinston (2000). On Internet indicators,
+see: http://www.internetindicators.com/.
+16 Rick Rashad (2000) characterizes this as the "demise"
 of Moore's Law. Jeff Hecht (1999) describes DWDM technology
 and provides a general reference on fiber optics.

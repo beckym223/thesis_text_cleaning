@@ -48,7 +48,8 @@ economy in which monetary fluctuations induce
 real inefficiencies-indeed, any economy in
 which money has value-must be one that operates
 under missing markets and nominal rigidities
-that make changes in money into  something other than mere units changes. Then
+that make changes in money into
+something other than mere units changes. Then
 it must also be the case that these same rigidities
 prevent the economy from responding efficiently
 to real shocks, raising the possibility that

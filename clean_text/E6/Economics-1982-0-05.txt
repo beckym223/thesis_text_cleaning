@@ -97,4 +97,5 @@ example, an oligopoly. The entry conditions were studied
 only to show how the assumed market structure could
 constitute an equilibrium state. Many recent writings
 have gone more explicitly into the determination of
-industry structure, though their approaches generally  differ from ours.
+industry structure, though their approaches generally
+differ from ours.

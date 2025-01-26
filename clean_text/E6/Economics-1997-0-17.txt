@@ -96,4 +96,5 @@ classic analysis of domestic content regulations
 and their effects.
 " However, those advocating import substitution
 seized upon the infeasibility of first-best policy as a defense
-for following the policies they wished in any event  to follow.
+for following the policies they wished in any event
+to follow.

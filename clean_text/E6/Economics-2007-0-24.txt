@@ -9,7 +9,8 @@ between output and inflation.
 Indeed, models by Katsuhito Iwai (1981),
 Julio J. Rotemberg (1982), and Andrew S. Caplin
 and John Leahy (1991) all have long-run
-trade-offs between inflation and unemployment.  Each of these models assumes that there are real
+trade-offs between inflation and unemployment.
+Each of these models assumes that there are real
 costs to nominal price changes. If, instead, there
 were real costs to real price changes, the assumptions
 of natural rate theory would still be
@@ -40,7 +41,8 @@ and aggregate demand.
 Just as sticky money wages indicated that
 employees have norms regarding wage change,
 similarly, sticky prices indicate that customers
-have norms regarding price change. Thus, the  extensive evidence on price stickiness reveals
+have norms regarding price change. Thus, the
+extensive evidence on price stickiness reveals
 violation of the assumptions of natural rate theory,
 and also the existence of norms regarding
 price change. Like wage changes, price changes
@@ -78,11 +80,26 @@ Thus, by buying a particular brand, or
 patronizing a particular store, consumers are
 putting themselves in a position where they can
 be exploited. Their loyalty puts the firm in a
-have notions regarding what nominal wage increases should  or should not be. This, of course, is just one of many
+have notions regarding what nominal wage increases should
+or should not be. This, of course, is just one of many
 anomalies in the form of indexed contracts.
-80oMarika Karanassou, Hector Sala, and Dennis J.  Snower (2003) find considerable long-run trade-off between  inflation and unemployment in a model with nominal price  staggering and money growth.  81 See also Blinder and Don Choi (1990) and Blinder et
-al. (1998).  82 The meaning of customer markets was especially explored
-by Arthur Okun (1978).  83 derive this result from Kackmeister's data in the
-following way. He finds that in the nineteenth century, only  5 percent of items changed their prices per month. This  means that the average spell of constant prices would have  been 20 months (the inverse). But that is a biased statistic
-for the average length of time between price changes for an  item on the shelf. The difference between the average spell  of employment or unemployment and the average spell  being experienced by an individual suggests a rule of thumb  ratio for four to one. Using this ratio as a rule of thumb  suggests that the spell between price changes averaged over
+80oMarika Karanassou, Hector Sala, and Dennis J.
+Snower (2003) find considerable long-run trade-off between
+inflation and unemployment in a model with nominal price
+staggering and money growth.
+81 See also Blinder and Don Choi (1990) and Blinder et
+al. (1998).
+82 The meaning of customer markets was especially explored
+by Arthur Okun (1978).
+83 derive this result from Kackmeister's data in the
+following way. He finds that in the nineteenth century, only
+5 percent of items changed their prices per month. This
+means that the average spell of constant prices would have
+been 20 months (the inverse). But that is a biased statistic
+for the average length of time between price changes for an
+item on the shelf. The difference between the average spell
+of employment or unemployment and the average spell
+being experienced by an individual suggests a rule of thumb
+ratio for four to one. Using this ratio as a rule of thumb
+suggests that the spell between price changes averaged over
 the individual items on the shelf would be 80 months.

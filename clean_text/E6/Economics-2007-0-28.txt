@@ -44,7 +44,8 @@ Regarding the natural rate hypothesis and
 also the rational expectations hypothesis, we
 saw that they will no longer hold if norms of
 price and wage setting have nominal components.
-Regarding prices and wages, the most  powerful evidence in favor of norms comes
+Regarding prices and wages, the most
+powerful evidence in favor of norms comes
 from employees' resistance to money wage
 cuts and customers' resistance to nominal
 price increases. As long as inflation is low, it
@@ -88,4 +89,7 @@ facts of experience." They used their intuitions
 regarding the norms of how consumers, investors,
 and wage and price setters thought they
 88 This lecture has been very much influenced by the
-insights of the Ph.D. thesis of Robert Akerlof (2006) on  preferences for beliefs. His thinking on this subject has  influenced many of the sections of this paper, especially on  consumption and the endogeneity of norms.
+insights of the Ph.D. thesis of Robert Akerlof (2006) on
+preferences for beliefs. His thinking on this subject has
+influenced many of the sections of this paper, especially on
+consumption and the endogeneity of norms.

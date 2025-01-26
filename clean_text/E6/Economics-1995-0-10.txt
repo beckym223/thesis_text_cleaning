@@ -89,7 +89,8 @@ have been discussed by Paul Streeten et al. (1981),
 Nanak Kakwani (1986), Jean Dreze and Sen (1989),
 Alan Hamlin and Philip Pettit (1989), Keith Griffin and
 John Knight (1990), Anand and Ravallion (1993),
-Partha Dasgupta (1993), and Meghnad Desai (1995).  27,, Value restriction" turns out to be necessary and
+Partha Dasgupta (1993), and Meghnad Desai (1995).
+27,, Value restriction" turns out to be necessary and
 sufficient for this class of domain conditions for consistent
 majority rule when individual preferences are linear
 orderings, though the conditions are more complex

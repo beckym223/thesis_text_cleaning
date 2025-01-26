@@ -31,9 +31,27 @@ subject to tax)41 and of using a wage index to
 weight the earnings in different years in determining
 benefits (as opposed to using an
 interest rate)42 and concentrate on the effects
-38 For a discussion of the links among tax theory, incom-  plete market theory, and social security, see Diamond  (2002).
-39 Earnings after age 60 enter in nominal terms, not in  indexed form. This should be changed to have labor incen-  tives not vary this way with inflation.  40 Such progressivity is missing in Europe, where in-  come distribution issues are addressed more fully in other  parts of retirement income provision.  41 Depending on the nature of the underlying stochastic  process of wage rates, both underweighting early years  (relative to the use of interest rates) and not counting some  low years may or may not help with insuring lifetime  earnings-this is not an area that has received much re-  search attention.
-42 We can contrast the earnings incentives between ben-  efit formulas that accumulate earnings with a wage index  and those that accumulate with a (presumably higher on  average) interest rate. This is most readily done in a break-  even comparison, assuming the same level of resources for  of a progressive benefit formula and a retirement
+38 For a discussion of the links among tax theory, incom-
+plete market theory, and social security, see Diamond
+(2002).
+39 Earnings after age 60 enter in nominal terms, not in
+indexed form. This should be changed to have labor incen-
+tives not vary this way with inflation.
+40 Such progressivity is missing in Europe, where in-
+come distribution issues are addressed more fully in other
+parts of retirement income provision.
+41 Depending on the nature of the underlying stochastic
+process of wage rates, both underweighting early years
+(relative to the use of interest rates) and not counting some
+low years may or may not help with insuring lifetime
+earnings-this is not an area that has received much re-
+search attention.
+42 We can contrast the earnings incentives between ben-
+efit formulas that accumulate earnings with a wage index
+and those that accumulate with a (presumably higher on
+average) interest rate. This is most readily done in a break-
+even comparison, assuming the same level of resources for
+of a progressive benefit formula and a retirement
 test.43
 Consider the stochastic process of earnings
 opportunities. Individual workers face considerable
@@ -56,10 +74,39 @@ successful execution of far more
 complex financial strategies. By having replacement
 rates that are higher for lower levels of
 lifetime earnings, a social security system that
-a cohort in each case. Using a wage index gives less weight  to the earlier years and more weight to the later years than  does use of an interest rate. Thus, use of a wage index would  be implicit taxation on younger workers and implicit subsidization
+a cohort in each case. Using a wage index gives less weight
+to the earlier years and more weight to the later years than
+does use of an interest rate. Thus, use of a wage index would
+be implicit taxation on younger workers and implicit subsidization
 of older workers and would be a distortion in a
-first-best world. However, the annual income tax is progres-  sive, so that an upward-sloping age-real earnings profile  implies that on average older workers have higher marginal  income tax rates than younger workers. Thus, the sum of the  marginal income tax plus the implicit Social Security tax is  smoother across ages with a wage index than with weight-  ing by interest rate. Also, preferences are not intertempo-  rally additive. The standard of living to which retirees have  become accustomed is more affected by earnings later in  life than earlier in life. While the effect of introducing a  standard-of-living effect into annual utility has been ex-  plored in simulations of the value of annuities (Davidoff et  al., 2003), no similar analysis has been done for the weight-  ing given earnings in different years.  43 I do not discuss the issues behind the choice of 62 as
-the earliest age of eligibility for retirement benefits (EEA).  Increasing the EEA helps those who would otherwise retire  too early for their own good and hurts those who are right  in their early retirement decision and are hurt by the illi-  quidity from benefit nonavailability until the EEA. Measur-  ing the size of the two groups would be very hard and only  a little has been done in identifying people who are affected.  Increasing the EEA would have little effect on long-run  Social Security financing as explained below. Similarly, it  would be hard to design a good method for automatically  indexing the EEA.  44Robert C. Merton (1983) has examined the role of  Social Security in sharing aggregate earnings risks more
+first-best world. However, the annual income tax is progres-
+sive, so that an upward-sloping age-real earnings profile
+implies that on average older workers have higher marginal
+income tax rates than younger workers. Thus, the sum of the
+marginal income tax plus the implicit Social Security tax is
+smoother across ages with a wage index than with weight-
+ing by interest rate. Also, preferences are not intertempo-
+rally additive. The standard of living to which retirees have
+become accustomed is more affected by earnings later in
+life than earlier in life. While the effect of introducing a
+standard-of-living effect into annual utility has been ex-
+plored in simulations of the value of annuities (Davidoff et
+al., 2003), no similar analysis has been done for the weight-
+ing given earnings in different years.
+43 I do not discuss the issues behind the choice of 62 as
+the earliest age of eligibility for retirement benefits (EEA).
+Increasing the EEA helps those who would otherwise retire
+too early for their own good and hurts those who are right
+in their early retirement decision and are hurt by the illi-
+quidity from benefit nonavailability until the EEA. Measur-
+ing the size of the two groups would be very hard and only
+a little has been done in identifying people who are affected.
+Increasing the EEA would have little effect on long-run
+Social Security financing as explained below. Similarly, it
+would be hard to design a good method for automatically
+indexing the EEA.
+44Robert C. Merton (1983) has examined the role of
+Social Security in sharing aggregate earnings risks more
 widely.
 VOL. 94 NO. I
 11

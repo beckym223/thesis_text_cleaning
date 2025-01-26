@@ -15,7 +15,8 @@ Government 8.6 10.2 12.6 12.5 12.2
 Note: Numbers before 1977 are not strictly comparable, since the latest revision was
 carried back only to 1977.
 Source: Tables 6.1 and 6.2 of the National Income and Products Accounts (1928-1982)
-and Survey of Current Business (May 1993).  aAgriculture, mining, manufacturing, and transportation and utilities.
+and Survey of Current Business (May 1993).
+aAgriculture, mining, manufacturing, and transportation and utilities.
 An example of the consequences of this
 shift is what has come to be known as the
 "computer paradox." We have made major

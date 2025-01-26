@@ -35,11 +35,18 @@ Section II describes a thought-experiment in
 which a single consumer is magically relieved
 of all consumption variability about trend. How
 much average consumption would he be willing
-t Presidential Address delivered at the one-hundred fif-  teenth meeting of the American Economic Association,  January 4, 2003, Washington, DC.  * Department of Economics, University of Chicago,  1126 East 59th Street, Chicago, IL 60637. I am grateful for  discussions with Fernando Alvarez, Gadi Barlevy, Lars
-Hansen, Per Krusell, Ellen McGrattan, Chris Phelan,  Edward Prescott, Esteban Rossi-Hansberg, Tom Sargent,
+t Presidential Address delivered at the one-hundred fif-
+teenth meeting of the American Economic Association,
+January 4, 2003, Washington, DC.
+* Department of Economics, University of Chicago,
+1126 East 59th Street, Chicago, IL 60637. I am grateful for
+discussions with Fernando Alvarez, Gadi Barlevy, Lars
+Hansen, Per Krusell, Ellen McGrattan, Chris Phelan,
+Edward Prescott, Esteban Rossi-Hansberg, Tom Sargent,
 Matthew Shapiro, Tony Smith, Nancy Stokey, Kjetil Storesletten,
 and Tom Tallarini, and for the able assistance of
-Adrian Kats and Mikhail Golosov.  to give up in return? About one-half of onetenth
+Adrian Kats and Mikhail Golosov.
+to give up in return? About one-half of onetenth
 of a percent, I calculate. I will defend this
 estimate as giving the right order of magnitude
 of the potential gain to society from improved

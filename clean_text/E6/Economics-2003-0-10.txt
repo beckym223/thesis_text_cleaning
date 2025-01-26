@@ -43,7 +43,9 @@ y = (a + c)E(z) + *1.
 Not only is the direct effect of the productivity
 shock z removed but also the indirect effects of
 z on the individual employment shocks e.18 In
-18 This is a linear illustration of the more generally  defined procedure described in Krusell and Smith (1999).  this particular application, removing the variance
+18 This is a linear illustration of the more generally
+defined procedure described in Krusell and Smith (1999).
+this particular application, removing the variance
 of the aggregate shock is estimated to
 reduce the standard deviation of the individual
 employment shocks by 16 percent.19

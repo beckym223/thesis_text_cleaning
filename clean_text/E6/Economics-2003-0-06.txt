@@ -44,8 +44,14 @@ identification seems to me questionable, and in
 any case it is of an entirely different nature from
 the neutrality of nominal shocks. I will just
 lump the effects of the real shocks together, as
-6 To remove any doubt on the latter point, they quote  from Milton Friedman's (1968) Presidential Address.
-7 A similar, and similarly motivated, identification pro-  cedure was used in Olivier J. Blanchard and Danny Quah  (1989). Thomas J. Sargent and Christopher A. Sims (1977)  is a predecessor in spirit, if not in detail.  TABLE 1-PERCENTAGE OF VARIANCE DUE TO NOMINAL  SHOCKS AT DIFFERENT FORECAST HORIZONS
+6 To remove any doubt on the latter point, they quote
+from Milton Friedman's (1968) Presidential Address.
+7 A similar, and similarly motivated, identification pro-
+cedure was used in Olivier J. Blanchard and Danny Quah
+(1989). Thomas J. Sargent and Christopher A. Sims (1977)
+is a predecessor in spirit, if not in detail.
+TABLE 1-PERCENTAGE OF VARIANCE DUE TO NOMINAL
+SHOCKS AT DIFFERENT FORECAST HORIZONS
 Quarter Output Hours Inflation Interest rate
 1 28 36 89 83
 4 28 40 82 71

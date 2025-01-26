@@ -48,7 +48,8 @@ adjustment cost that makes an erratic path of
 investment in knowledge less effective than a
 smooth path at the same average level. In such
 a setting, reducing shock variability can lead to
-higher growth even without an effect on the  average level of investment. He obtains welfare
+higher growth even without an effect on the
+average level of investment. He obtains welfare
 gains as large as 7 percent of consumption in
 models based on this idea, but everything
 hinges on a curvature parameter on which there

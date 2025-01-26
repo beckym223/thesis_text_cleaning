@@ -56,7 +56,8 @@ not distort savings. That is, Social Security certainly
 affects savings and so national capital.
 But the term distortion is usually reserved for an
 intervention that would prevent Pareto optimality
-in an economy that would otherwise satisfy  the conditions of the Fundamental Welfare Theorem.
+in an economy that would otherwise satisfy
+the conditions of the Fundamental Welfare Theorem.
 To examine this meaning of distort (as
 opposed to merely change) we need to consider
 the impact of Social Security on the marginal

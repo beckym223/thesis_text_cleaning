@@ -33,7 +33,8 @@ III. The Missing Motivation: Norms'2
 Each of the neutralities is based on the assumption
 that the respective decision makers
 are utility maximizers. But in each case the
-utility functions of the decision makers have  been very narrowly described. They depend
+utility functions of the decision makers have
+been very narrowly described. They depend
 only on real outcomes. For example, in the
 consumption-neutrality models, utility depends
 on consumption and leisure; in ModiglianiMiller,
@@ -51,7 +52,8 @@ norms, and they may be individual14 as well as
 social. The role of norms can be easily represented
 in people's preferences by modifying the
 utility function to include losses in utility insofar
-as they, or others, fail to live up to their  standards.
+as they, or others, fail to live up to their
+standards.
 Sociology has a further concept that gives an
 easy and natural way to add those norms to the
 utility function. Sociologists say that people
@@ -70,11 +72,27 @@ should a Christian behave? "His life and conversation
 ought to be worthy of the Gospel of
 Christ [emphasis added]."'" How is a good
 Christian supposed to feel when she has not
-lived up to her conception of that ideal?  Ashamed.16
-10 See Lucas (1972), Thomas J. Sargent (1973), and  Lucas and Sargent (1979).  11 See Robert J. Barro (1974) for the modem reincarnation
-of these ideas, first discovered by Ricardo.  12 This section, including much of its exact wording, has
-been taken from a joint manuscript with Rachel Kranton  (Akerlof and Kranton 2006). I should emphasize that these  insights have been developed jointly. The initial instigation  of our project is wholly due to Kranton. It is impossible for  me to say which ideas or wordings are mine and which are
+lived up to her conception of that ideal?
+Ashamed.16
+10 See Lucas (1972), Thomas J. Sargent (1973), and
+Lucas and Sargent (1979).
+11 See Robert J. Barro (1974) for the modem reincarnation
+of these ideas, first discovered by Ricardo.
+12 This section, including much of its exact wording, has
+been taken from a joint manuscript with Rachel Kranton
+(Akerlof and Kranton 2006). I should emphasize that these
+insights have been developed jointly. The initial instigation
+of our project is wholly due to Kranton. It is impossible for
+me to say which ideas or wordings are mine and which are
 hers. 13 See Pareto (1920). George C. Homans and Charles P.
-Curtis (1934) give an excellent summary of Pareto that is  fully consistent with the emphasis here. Jon Elster (1989)  also presents a similar conception of norms.  14 For example, the protagonist of the novel Rice Mother  (Rani Manicka 2002) did not believe she should wear red  with black.
+Curtis (1934) give an excellent summary of Pareto that is
+fully consistent with the emphasis here. Jon Elster (1989)
+also presents a similar conception of norms.
+14 For example, the protagonist of the novel Rice Mother
+(Rani Manicka 2002) did not believe she should wear red
+with black.
 15 See http://www.orthodoxytoday.org/articles/StBasilBehavior.
-php.  16 Of course, there are many interpretations of the Gos-  pel, and some of them are even contradictory. But that does  not affect whether the person should be ashamed or not. She
+php.
+16 Of course, there are many interpretations of the Gos-
+pel, and some of them are even contradictory. But that does
+not affect whether the person should be ashamed or not. She

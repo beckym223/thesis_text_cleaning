@@ -42,7 +42,8 @@ from fiscal and monetary policy changes that I
 cited above, this estimate seems trivially small:
 more than an order of magnitude smaller than
 the gain from en
-ing parameter 400 is 0.022.  Even if we do not know exactly how much
+ing parameter 400 is 0.022.
+Even if we do not know exactly how much
 consumption risk would be removed by an optimal
 monetary and fiscal policy, it is clear that
 it would fall far short of the removal of all

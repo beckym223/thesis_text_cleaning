@@ -14,7 +14,8 @@ DOLLARS, UNITED STATES, 1948-1990)
 Notes: Measurable sectors are agriculture, mining, manufacturing, transportation,
 communications, and public utilities; unmeasurable sectors are construction, trade,
 finance, other services, and government. Values for 1977-1987 are based on 1987
-weights; values for 1948-1976 are based on 1982 weights (the series are linked at  1977).
+weights; values for 1948-1976 are based on 1982 weights (the series are linked at
+1977).
 One could also see a continuous and worrisome
 decline in the number of patents received
 per corporate R&D dollar (see below)
@@ -55,5 +56,6 @@ R&D, resulted in a persistent de-
 productivity declined between the 1960's and the 1970's
 by 4.5 percent in Japan, 3.3 percent in France, and
 "only" 2 percent in the United States (see Organization
-for Economic Cooperation and Development,  1993).
+for Economic Cooperation and Development,
+1993).
 3See Griliches (1990) for more details on this story.

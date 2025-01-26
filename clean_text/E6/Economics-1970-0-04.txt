@@ -47,7 +47,8 @@ LA(n), KA(n))L4(n)K$(n)
 LR, KR = research-type inputs, in the broad sense.
 LE(n), KE(n) = education (knowledge-distribution)
 inputs which were applied in the past, or are being applied
-in period n, to the labor force of period n, expressed  per capita of this labor force.
+in period n, to the labor force of period n, expressed
+per capita of this labor force.
 LA(n), KA(n) =inputs required for changing over to
 improved industrial methods (mainly the obsolescencecomponent
 of capital-replacement)..
@@ -62,9 +63,12 @@ and habits of the population; policies other than those
 expressing themselves in the R and E inputs; various
 inputs in foreign economies; the relative weight of that
 part of the old knowledge which remains useful when
-new knowledge is acquired, etc. It will be seen later  that the convenient definition of the rate of technological  progress here is d In F/dt.
+new knowledge is acquired, etc. It will be seen later
+that the convenient definition of the rate of technological
+progress here is d In F/dt.
 In this model avoidance of the implication of economies
-of scale would require (3<1-a, instead of the  conventional (3=1 -a, but it may be preferable to face
+of scale would require (3<1-a, instead of the
+conventional (3=1 -a, but it may be preferable to face
 the problem of such economies as one giving rise to the
 qualifications discussed in the opening paragraph of
 Section III.
@@ -84,14 +88,16 @@ one of the magnitudes representing a progressinput
 (increased per capita education) could turn out
 to be negative, and avoidance of this awkwardness
 would then call for some adjustments of terminology,
-but in our context this may be disregarded.  If the methods of measuring progress call for limiting
+but in our context this may be disregarded.
+If the methods of measuring progress call for limiting
 Q to the private sector (usually including governmentowned
 enterprise), then Lc and Kc should also be so
 limited, but the argument of F should nevertheless include
 also the public-sector inputs of the type specified
 in the lines under the equation.
 The larger cost-base to be defined in Section II involves
-"charging" to the progress generated in a period  all progress-generating inputs for the period; the smaller
+"charging" to the progress generated in a period
+all progress-generating inputs for the period; the smaller
 cost-base to be defined in Section II involves charging
 merely the "profit-oriented" progress-inputs, which in
 turn implies that the costs of the other progress-inputs

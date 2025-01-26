@@ -43,7 +43,8 @@ high earners relative to male low earners,
 female high earners relative to female low
 earners. A progre
 labor
-market incentives.  used to offset the systematic variation in life
+market incentives.
+used to offset the systematic variation in life
 expectancy with earnings within genders.
 For this or any income distribution comparison,
 we must have a counterfactual, preferably

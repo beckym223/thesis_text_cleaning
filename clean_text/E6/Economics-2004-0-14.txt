@@ -1,7 +1,8 @@
 DIAMOND: SOCIAL SECURITY
 second is the extent to which additional work,
 and so additional payroll taxes, increase the
-measure of lifetime earnings and so add to  benefits.
+measure of lifetime earnings and so add to
+benefits.
 For an average worker at ages 62 and 63,
 Social Security had a roughly zero marginal tax
 for the average worker when the age for full
@@ -12,7 +13,8 @@ larger above the age for full benefits, the retirement
 test has been eliminated for those ages.
 With differences in life expectancy, a zero tax
 on an average worker implies that some workers
-are taxed and some are subsidized by the pres-  ence of the retirement test.50
+are taxed and some are subsidized by the pres-
+ence of the retirement test.50
 The retirement test has two effects. One is to
 raise (delayed) monthly benefits for those continuing
 to work. To the extent that a worker
@@ -33,13 +35,25 @@ expectancy. Empirical estimates find that the
 overall labor supply effect is modest, suggesting
 that the increase in monthly benefits effect is
 more important. The retirement test also helps
-49 Courtney Coile and Jonathan Gruber (2001). The mar-  ginal tax reflects the loss of a year of benefits, the increase  in benefits thereafter, the payment of the payroll tax, and the  increase in benefits from an increase in AIME, since
-earnings in a late year are likely to be among the top 35.  For example, of the Health and Retirement Survey sam-  ple of those born in 1931, over one-third of men and  four-fifths of women had fewer than 35 years of positive  earnings when entering the year in which they turned 61.  Without a tax on continued work, increasing the age at
+49 Courtney Coile and Jonathan Gruber (2001). The mar-
+ginal tax reflects the loss of a year of benefits, the increase
+in benefits thereafter, the payment of the payroll tax, and the
+increase in benefits from an increase in AIME, since
+earnings in a late year are likely to be among the top 35.
+For example, of the Health and Retirement Survey sam-
+ple of those born in 1931, over one-third of men and
+four-fifths of women had fewer than 35 years of positive
+earnings when entering the year in which they turned 61.
+Without a tax on continued work, increasing the age at
 which benefits can first be claimed, without other
-changes, would not save money for Social Security on a  permanent basis.  50 Of course, these earnings are also subject to the annual
+changes, would not save money for Social Security on a
+permanent basis.
+50 Of course, these earnings are also subject to the annual
 income tax.
-51 Also valuable is that the higher monthly benefits come  as an annuity while savings from benefits would not provide
-this insurance.  with the risk in earnings trajectories that comes
+51 Also valuable is that the higher monthly benefits come
+as an annuity while savings from benefits would not provide
+this insurance.
+with the risk in earnings trajectories that comes
 from how opportunities to earn (and disutilities)
 develop toward the end of a career. The retirement
 test addresses that risk to the extent that
@@ -76,8 +90,19 @@ age often gather information on the workings
 of the system and seek advice on the
 advantages of different timing of retirement,
 younger workers are not well informed.53 Some
-52 1 note that in a model with homogeneous life expect-  ancy, if we have fully rational workers and if the increase in  benefits implies an implicit tax, there is an increase in  insurance insofar as early retirement is a consequence of an  adverse realization of opportunities. This is a familiar optimal
+52 1 note that in a model with homogeneous life expect-
+ancy, if we have fully rational workers and if the increase in
+benefits implies an implicit tax, there is an increase in
+insurance insofar as early retirement is a consequence of an
+adverse realization of opportunities. This is a familiar optimal
 insurance result-that one taxes observable variables in
-the states where they signal a lower marginal utility of  consumption.  53 Information is also supplied in annual statements  which give individual benefit levels for different retirement  ages. Someone anticipating no benefits at all might see no  link (although inconsistent anticipations about the future are  common). Presumably that would change with a reform that  was widely perceived as restoring long-run sustainability.
+the states where they signal a lower marginal utility of
+consumption.
+53 Information is also supplied in annual statements
+which give individual benefit levels for different retirement
+ages. Someone anticipating no benefits at all might see no
+link (although inconsistent anticipations about the future are
+common). Presumably that would change with a reform that
+was widely perceived as restoring long-run sustainability.
 VOL. 94 NO. 1
 13

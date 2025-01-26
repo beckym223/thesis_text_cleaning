@@ -30,8 +30,11 @@ Figure 2 gives the thresholds we obtain using
 this approximation; these apply to people who
 do not receive means-tested premium reductions.
 There are four factors that may modify
-5 Some plans offer reduced or zero premiums, and may  be attractive to the healthy. However, most appear to be  available only to those who meet a low-income means test
-or enroll in bundled HMO services.  this calculation for an individual. First, additional
+5 Some plans offer reduced or zero premiums, and may
+be attractive to the healthy. However, most appear to be
+available only to those who meet a low-income means test
+or enroll in bundled HMO services.
+this calculation for an individual. First, additional
 information on health that will be revealed
 in the future, and decisions contingent on
 this information, give delay some added option

@@ -85,7 +85,10 @@ Si = WI - Ci
 C2 = w2 + (1 + r )s
 cl(l + r) +c2 =(1 + r)(wi-sl) + w2+ (1 + r)sl
 cl(1+ r)+c2= (1+ r)w + w2.
-31See Hall and Rabushka (1985), Bradford (1986),  ch. 14, and McLure, Mutti, Thuroni, and Zodrow (1988),  ch. 9.  32For a discussion of these problems and possible
+31See Hall and Rabushka (1985), Bradford (1986),
+ch. 14, and McLure, Mutti, Thuroni, and Zodrow (1988),
+ch. 9.
+32For a discussion of these problems and possible
 solutions, see Aaron and Galper (1985), pp. 78-79 and
 99-103, and U.S. Department of the Treasury (1977),
 chaps. 4 and 6.

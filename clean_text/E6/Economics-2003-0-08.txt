@@ -43,8 +43,14 @@ aversion is left free to account for the equity
 premium perfectly.13 Tallarini estimates a welfare
 cost of aggregate consumption risk of 10
 percent of consumption, comparable to some
-11 See also Lars Peter Hansen and Kenneth J. Singleton  (1983).  12 Two especially informative surveys are John H.  Cochrane and Hansen (1992) and Narayana R. Kocherlakota
-(1996).  13 Similar results, obtained in a closely related context,  were reported by Hansen et al. (1999).  of the supply-side gains cited in Section I, and
+11 See also Lars Peter Hansen and Kenneth J. Singleton
+(1983).
+12 Two especially informative surveys are John H.
+Cochrane and Hansen (1992) and Narayana R. Kocherlakota
+(1996).
+13 Similar results, obtained in a closely related context,
+were reported by Hansen et al. (1999).
+of the supply-side gains cited in Section I, and
 two orders of magnitude larger than the estimate
 I proposed in Section II.14 As Maurice Obstfeld
 (1994) shows, this result is basically the formula
@@ -82,8 +88,20 @@ premium, and can be compared to Tallarini's
 estimate of 10 percent. But the gain from removing
 risk at what Alvarez and Jermann call
 business-cycle frequencies-cycles of eight
-14 James Dolmas (1998) uses still another preference  family, obtaining much higher cost estimates than mine.  Like Tallarini, Christopher Otrok (1999) develops and analyzes
-a complete real-business-cycle model. He uses a  preference family proposed by John Heaton (1995). His cost  estimates are close to mine. A recent paper by Anne
-Epaulard and Aude Pommeret (2001) contains further  results along this line, and provides a very useful quantita-  tive comparison to earlier findings.  15 Alvarez and Jermann offer many estimates in their  Tables 2A-2D. My summary is based on Table 2D, which  uses postwar (1954-1997) data and requires that consump-  tion and dividends be cointegrated. From this table, I follow  the authors and cite averages over the columns headed "8  years" and "inf."
+14 James Dolmas (1998) uses still another preference
+family, obtaining much higher cost estimates than mine.
+Like Tallarini, Christopher Otrok (1999) develops and analyzes
+a complete real-business-cycle model. He uses a
+preference family proposed by John Heaton (1995). His cost
+estimates are close to mine. A recent paper by Anne
+Epaulard and Aude Pommeret (2001) contains further
+results along this line, and provides a very useful quantita-
+tive comparison to earlier findings.
+15 Alvarez and Jermann offer many estimates in their
+Tables 2A-2D. My summary is based on Table 2D, which
+uses postwar (1954-1997) data and requires that consump-
+tion and dividends be cointegrated. From this table, I follow
+the authors and cite averages over the columns headed "8
+years" and "inf."
 VOL. 93 NO. 1
 7

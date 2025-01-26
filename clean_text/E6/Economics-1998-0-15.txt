@@ -1,7 +1,8 @@
 MexAcan Manufacturing: Spinning (87 Establishments]
 .06 -
 Cum.
-Rate 03  of TFP
+Rate 03
+of TFP
 Growth .. ... L .006
 0- 0
 -.03- .= -.0395
@@ -10,7 +11,8 @@ Mexcan Manufacturing: Wearing Apparel [90 Establishments]
 .06 -
 Cum.
 Rate .03-
-of TFP .0086  Growth
+of TFP .0086
+Growth
 0 0
 -.03
 -.038

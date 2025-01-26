@@ -75,7 +75,8 @@ decision mechanisms determine a "choice
 function" for the society, which identifies
 11On some analytical problems involved in deriving
 "the revealed preference of a government" by observing
-its choices, see Kaushik Basu (1980).  12 Binariness requires a combination of two types of
+its choices, see Kaushik Basu (1980).
+12 Binariness requires a combination of two types of
 choice consistency: basic "contraction consistency" (a)
 and basic "expansion consistency" (y). These conditions
 are quite exacting, and they have to be further

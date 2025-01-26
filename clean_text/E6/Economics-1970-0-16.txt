@@ -85,7 +85,8 @@ opens up a large number of dimensions of
 potential improvement. In another study
 I found strong indications that the results
 of learning-by-doing are significantly influenced
-by differences in the available  28 See Zvi Griliches and Dale Jorgensen.
+by differences in the available
+28 See Zvi Griliches and Dale Jorgensen.
 29 Looking at the matter in this fashion is of course
 compatible with using models that represent progress
 as the "augmentation" of inputs. Indeed, models of

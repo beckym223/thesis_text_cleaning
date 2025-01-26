@@ -22,7 +22,8 @@ households and the equilibrium industry response
 we would expect in the presence of
 sensible demands. The extremely limited options
 available for annuitization seem to reflect
-the natural response of the supply of insurance  to the nature of demand.17
+the natural response of the supply of insurance
+to the nature of demand.17
 Some have tried to explain this limited use of
 annuities by the degree of annuitization that
 already exists in government programs. But voluntary
@@ -33,7 +34,9 @@ become extensive if the programs were removed.
 Asymmetric information is another candidate
 for explaining this situation, and it does
 cause an adverse sele
-date of the  first payment.  would discourage some individuals from annuitizing.
+date of the
+first payment.
+would discourage some individuals from annuitizing.
 While large systematic differences in
 life expectancy do exist, much of the difference
 is readily attributed to easily measured factors,

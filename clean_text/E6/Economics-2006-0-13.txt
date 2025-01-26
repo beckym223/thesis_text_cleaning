@@ -1,9 +1,12 @@
 TABLE 3-DECISION CALCULATION AND PROCESSING DESCRIPTION
 Effect Description
-Awareness Recognition of choices, subjective definition of choice set  Construal/constructive Cognitive task misconstrued, preferences constructed endogenously
+Awareness Recognition of choices, subjective definition of choice set
+Construal/constructive Cognitive task misconstrued, preferences constructed endogenously
 Disjunction Failure to reason through or accept the logical consequences of choices
 Engagement Limited attention to and engagement in the cognitive task
-Innumeracy Limited capacity to "run the numbers"  Suspicion/superstition Mistrust of offers and questioning of motives of others in unfamiliar situations; avoidance  of choices that "tempt fate"
+Innumeracy Limited capacity to "run the numbers"
+Suspicion/superstition Mistrust of offers and questioning of motives of others in unfamiliar situations; avoidance
+of choices that "tempt fate"
 cause we are adapted to trade, and because we
 are good at copying successful behavior. Nevertheless,
 such processing deficiencies as disjunction
@@ -42,7 +45,8 @@ and say that if they have not educated themselves
 sufficiently to look after their own interests
 in markets, the consequences are on their
 shoulders. The economically unsuccessful can
-vote, however, and they demonstrably have  used the vote at various times and places to pick
+vote, however, and they demonstrably have
+used the vote at various times and places to pick
 bad governments and bad economic policies.
 The argument against "sink or swim" is that
 when designing market mechanisms, it is in

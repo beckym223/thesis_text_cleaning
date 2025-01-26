@@ -24,7 +24,8 @@ was too simplistic and naive. But they
 could have drawn another conclusion from this
 surprise. In this view, Ricardian equivalence is
 a telltale: we do not believe, even in the presence
-of perfect foresight and perfect certainty,  that the parent will make an equal and opposite
+of perfect foresight and perfect certainty,
+that the parent will make an equal and opposite
 offset of her social security transfer in terms of
 an increased bequest to her child. Something
 must be missing from the motivation in Barro's
@@ -65,13 +66,42 @@ about this additional motivation. But this segment
 of the utility function is, in fact, very
 different from economists' usual characterization
 of motivation. We know that the "warm
-glow" does not come from the utility the parent  This argument suggests that a "bequest" is not really what it
-seems. This is an argument where the preferences of the  parent do play a role, but quite different from the type of  reason that I think would have surprised the Keynesians. I  want to show that parents who make bequests for the  conventional reasons, because they care about the welfare of  their children, will still routinely violate Ricardian equiva-  lence, even in the absence of most of the commonplace  frictions that almost surely invalidate exact Ricardian equivalence.
+glow" does not come from the utility the parent
+This argument suggests that a "bequest" is not really what it
+seems. This is an argument where the preferences of the
+parent do play a role, but quite different from the type of
+reason that I think would have surprised the Keynesians. I
+want to show that parents who make bequests for the
+conventional reasons, because they care about the welfare of
+their children, will still routinely violate Ricardian equiva-
+lence, even in the absence of most of the commonplace
+frictions that almost surely invalidate exact Ricardian equivalence.
 29 This was Ricardo's own reason for dismissal of the
 argument. He said that the parent would alter her bequest
 because she would not take into account the added tax
-payments of the child (see Gerald P. O'Driscoll Jr. 1977).  Uncertainty regarding the size of the future tax payments is  different from such myopia, in which the payment is altogether
-ignored. But, with quadratic utility and expected  utility maximization, uncertainty regarding the child's fu-  ture tax payments will have no effect on the size of the  parent's bequest.  30 For example, Feldstein (1974) and Feldstein and Pel-  lechio (1979) engage in no theoretical soul-searching regarding
-the negative effects of social security on current  savings. There is a voluminous literature (see Roberto Ric-  ciuti 2003) examining the empirical validity of Ricardian  equivalence. Largely because of the problem of endogene-  ity, it is difficult to come to firm conclusions regarding its  empirical validity. There are studies with findings both for  and against such crowding out.  31 See also John Laitner (2002), Laitner and Henry Ohls-  son (2001), Alan S. Blinder (1975) and Michael D. Hurd  (1989), who have also modeled the bequest motive as coming
-from the utility of the parent from giving the bequest.  32 Formally, she trades off the marginal utility of her  own consumption against the marginal utility from gift-  giving and the marginal utility she gets from her child's  consumption. In making this trade-off, she takes due ac-  count of the fact that one unit of consumption today is
+payments of the child (see Gerald P. O'Driscoll Jr. 1977).
+Uncertainty regarding the size of the future tax payments is
+different from such myopia, in which the payment is altogether
+ignored. But, with quadratic utility and expected
+utility maximization, uncertainty regarding the child's fu-
+ture tax payments will have no effect on the size of the
+parent's bequest.
+30 For example, Feldstein (1974) and Feldstein and Pel-
+lechio (1979) engage in no theoretical soul-searching regarding
+the negative effects of social security on current
+savings. There is a voluminous literature (see Roberto Ric-
+ciuti 2003) examining the empirical validity of Ricardian
+equivalence. Largely because of the problem of endogene-
+ity, it is difficult to come to firm conclusions regarding its
+empirical validity. There are studies with findings both for
+and against such crowding out.
+31 See also John Laitner (2002), Laitner and Henry Ohls-
+son (2001), Alan S. Blinder (1975) and Michael D. Hurd
+(1989), who have also modeled the bequest motive as coming
+from the utility of the parent from giving the bequest.
+32 Formally, she trades off the marginal utility of her
+own consumption against the marginal utility from gift-
+giving and the marginal utility she gets from her child's
+consumption. In making this trade-off, she takes due ac-
+count of the fact that one unit of consumption today is
 traded off against (1 + r) units of consumption next period.

@@ -6,7 +6,8 @@ C !
 a -50- .,LEGEND
 co - - - -
 X, L,taxes (Variant lc)
-? : f ........~~~~~~~~~~~~~~~~---------  transfers
+? : f ........~~~~~~~~~~~~~~~~---------
+transfers
 .~~~~~~~~~~~~~~~~~~~~~~~ .............
 taxes mnus
 -100* transfers
@@ -49,7 +50,8 @@ mainly because of transfers, not taxes.
 What we are doing in the United States is
 financing redistributive transfers with taxes
 that are roughly proportional to incomes.
-Moreover, the tax system has been getting  12The income distributions used in the Brookings
+Moreover, the tax system has been getting
+12The income distributions used in the Brookings
 MERGE file for 1966 were prepared on the basis of
 incomes including transfer payments. After so many
 years, it is impractical to reclassify the income and tax

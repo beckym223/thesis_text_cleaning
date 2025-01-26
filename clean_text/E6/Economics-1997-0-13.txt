@@ -97,4 +97,5 @@ to lower, rather than higher, welfare in the presence of
 monopoly power in trade. Yet, in practice, many policy
 makers have been misled into thinking that they could
 defend very high tariffs (sometimes even on goods that
-their countries import in small quantities) on optimum tar-  iff grounds.
+their countries import in small quantities) on optimum tar-
+iff grounds.

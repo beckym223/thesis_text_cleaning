@@ -76,12 +76,15 @@ to the capital stock by the share of reproducible
 capital in income, points to less than 10 percent. See
 Section II.
 47 The published corporate profit rates (which are
-related to the book value of equity) are of course private  rather than social rates. This would not make too much
+related to the book value of equity) are of course private
+rather than social rates. This would not make too much
 difference if the private rates were rates "at a given
 level of technological knowledge" but in reality they
-are earned partly on private progress-generating inputs  which do not enter into the book value. Also, in contrast
+are earned partly on private progress-generating inputs
+which do not enter into the book value. Also, in contrast
 to our "real" rates these corporate rates are money
-rates earned in large part on equity such as has been  paid up or accumulated in much earlier years than those
+rates earned in large part on equity such as has been
+paid up or accumulated in much earlier years than those
 in which the profits were earned. There are several
 further reasons for noncomparability. On balance there
 exists a strong presumption that the corporate rates on
@@ -91,6 +94,7 @@ rate on the book value of American manufacturing
 corporations as a whole has of late been about 20 percent,
 and even this is less than the rates of progressreturn
 to which our calculations in the text point.
-Again with no claim to comparability, it may be added  that the earnings-rate on the market value of Standard
+Again with no claim to comparability, it may be added
+that the earnings-rate on the market value of Standard
 and Poor's common-stock sample (not wholly limited
 to manufacturing) is in the neighborhood of 6 percent,

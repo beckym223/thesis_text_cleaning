@@ -48,7 +48,8 @@ at a physiological level. Brain measurements
 include maps of energy consumption,
 observed under experimental treatments that alter
 electrochemistry and cognitive task. These
-measurements fall short of Edgeworth's wistful  call in 1881 for a hedinometer to record pleasure,
+measurements fall short of Edgeworth's wistful
+call in 1881 for a hedinometer to record pleasure,
 but they provide some insight into the
 sensations that economists call utility.
 The early biologists observed that as the human

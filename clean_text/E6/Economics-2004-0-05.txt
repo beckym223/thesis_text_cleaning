@@ -51,7 +51,8 @@ Interest in the description of behavior that
 deviates from that in the Arrow-Debreu model
 has grown enormously lately. Long before behavioral
 economics became a hot topic, public
-policies reflected recognition that the model of  homo economicus, while very useful, is not a
+policies reflected recognition that the model of
+homo economicus, while very useful, is not a
 fully adequate basis for the design of all policies.
 For example, federal legislation introduced
 a "cooling-off' period during which contracts
@@ -69,7 +70,8 @@ workers retire too soon for their own good.
 These issues of poor choices in the presence of
 available opportunities are in addition to insurance
 market limitations that come from
-market incompleteness and from asymmetric  information.
+market incompleteness and from asymmetric
+information.
 Inadequate attention to the future in general
 and its stochastic structure in particular implies
 some form of time inconsistency. Normative

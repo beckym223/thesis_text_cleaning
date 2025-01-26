@@ -7,7 +7,8 @@ the added year is in worse fiscal shape
 than the average of years before. Indeed of the
 current 75-year actuarial deficit of 1.9 percent
 of taxable payroll, a full 1.1 percent is due to the
-fact that the projection now goes 20 years fur-  ther into the future than it did in 1983.
+fact that the projection now goes 20 years fur-
+ther into the future than it did in 1983.
 The 1983 legislation included future decreases
 in benefits by increasing the age for full
 benefits. At the time of the 1983 legislation,
@@ -50,7 +51,8 @@ trading unfolds. Time-inconsistent individual
 behavior does not interfere with the ability to
 describe outcomes in this way, although it will
 generally interfere with the efficiency properties
-of equilibrium.  Most social security systems lack the completeness
+of equilibrium.
+Most social security systems lack the completeness
 that is needed to specify outcomes
 solely in terms of underlying economic variables
 (and the stochastic structure of states of

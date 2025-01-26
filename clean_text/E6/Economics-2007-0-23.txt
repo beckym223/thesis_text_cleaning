@@ -46,7 +46,8 @@ trade-off between inflation and employment
 is upward sloping. These answers were elicited
 in the United States and thus are reflective of
 respondents' views in an environment where
-inflation has been low. But if inflation is very  high and therefore also very salient, the answers
+inflation has been low. But if inflation is very
+high and therefore also very salient, the answers
 to such questionnaires could be very different.
 And they could impart a very different shape to
 the trade-off between macroeconomic demand

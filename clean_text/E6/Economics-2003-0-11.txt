@@ -45,7 +45,8 @@ increases from 0.6 of a percent to 2.5 as y is
 increased from 2 to 4.
 Two features of the theory interact to bring
 this about.22 First, an
-ery helpful in this regard.  ence in the way reductions in the variance of
+ery helpful in this regard.
+ence in the way reductions in the variance of
 aggregate shocks affect risks faced at the individual
 level. In the Storesletten et al. simulations,
 a bad realization of the aggregate

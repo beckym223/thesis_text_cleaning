@@ -33,8 +33,28 @@ choice of tax rates and benefit formulas. Thus
 the redistribution has affected labor supplies as
 well as savings decisions. In the early days, the
 generous benefit formulas (in effect or antici-
-59 That has shown up in the assets in the trust fund-  currently over $1.5 trillion or roughly 2.8 times annual  expenditures. This ratio of trust fund to expenditures is  projected to peak at 4.7 in 2016.  60 Note that the analysis needs to be done in terms of  taxes and benefits, the causes of changes in the trust fund.  The question of the impact of the trust fund on national  capital requires a distinction among different ways in which  trust fund size can be changed.  61 There has been a relatively short time during which  there is a plausible linkage between Social Security and the  rest of the budget. Moreover, specific pieces of legislation  imply different time shapes of revenue changes and spend-  ing changes over subsequent years. Thus, there is no simple  link between deficits and lagged deficits (or between unified  deficits and Social Security surpluses) that could reliably be  discovered by time-series analysis. In particular, it is not  credible to believe that econometric analysis could uncover  the counterfactual pattern of taxes and spending that would  have occurred if the 1983 Social Security legislation had
-involved lower tax rates.  pated in the future) subsidized labor, just as the
+59 That has shown up in the assets in the trust fund-
+currently over $1.5 trillion or roughly 2.8 times annual
+expenditures. This ratio of trust fund to expenditures is
+projected to peak at 4.7 in 2016.
+60 Note that the analysis needs to be done in terms of
+taxes and benefits, the causes of changes in the trust fund.
+The question of the impact of the trust fund on national
+capital requires a distinction among different ways in which
+trust fund size can be changed.
+61 There has been a relatively short time during which
+there is a plausible linkage between Social Security and the
+rest of the budget. Moreover, specific pieces of legislation
+imply different time shapes of revenue changes and spend-
+ing changes over subsequent years. Thus, there is no simple
+link between deficits and lagged deficits (or between unified
+deficits and Social Security surpluses) that could reliably be
+discovered by time-series analysis. In particular, it is not
+credible to believe that econometric analysis could uncover
+the counterfactual pattern of taxes and spending that would
+have occurred if the 1983 Social Security legislation had
+involved lower tax rates.
+pated in the future) subsidized labor, just as the
 lower benefits relative to taxes for younger
 workers today taxes labor.62 This is similar to
 the role of the progressive benefit formula discussed
@@ -68,7 +88,8 @@ seem to me to be too bad. Of course one could
 argue, with hindsight, that Congress should
 have looked further into the future than 75
 years, although it was hard enough to reach
-agreement on legislation even with that target.  Current discussions have extended the notion
+agreement on legislation even with that target.
+Current discussions have extended the notion
 of actuarial balance to include "sustainability"-
 that the ratio of the trust fund to annual expenditures
 not decline at the end of the horizon.
@@ -79,5 +100,9 @@ quickly (although the trust fund exhaustion date
 was distant). Projected deficits returned quickly
 because of what is called the terminal year
 problem, or the cliff problem. That is, each year,
-62 The effects of benefit increases of the already retired  (through 1972) affect labor supply insofar as they were  anticipated earlier. A similar issue arises for benefit in-  creases at different times during a career.
-VOL. 94 NO. 1  17
+62 The effects of benefit increases of the already retired
+(through 1972) affect labor supply insofar as they were
+anticipated earlier. A similar issue arises for benefit in-
+creases at different times during a career.
+VOL. 94 NO. 1
+17

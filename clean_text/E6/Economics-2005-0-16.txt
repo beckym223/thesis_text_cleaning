@@ -22,7 +22,8 @@ funds in the UISA as their own money. For
 someone who expects to have a positive balance
 in his account until retirement, the UISA plan
 would provide the same income protection as
-the current UI system, but without any  distortion.
+the current UI system, but without any
+distortion.
 What about individuals who experience so
 much unemployment that they use up the funds
 in their UISA? Such individuals would be able
@@ -49,7 +50,8 @@ The extent of the gain from introducing unemployment
 insurance savings accounts therefore depends
 on the proportion of the unemployed who
 expect to retire with negative balances and on the
-sensitivity of unemployment to the change in in-  centives. Dan Altman and I did some preliminary
+sensitivity of unemployment to the change in in-
+centives. Dan Altman and I did some preliminary
 empirical analysis of this approach using a sample
 of men in the National Longitudinal Survey. We
 found that, even with no favorable behavioral response
@@ -91,6 +93,10 @@ most of the payroll taxes collected in each
 year are used to pay concurrent benefits. There
 is not the kind of asset accumulation and financial
 investment that there would be in a private
-16 Feldstein and Liebman (2002a) provides a survey for  the Handbook of Public Economics of the large theoretical  and empirical literature on Social Security. See also my Ely
-Lecture to the American Economic Association (Feldstein,  1996a) and a forthcoming article in the Journal of Economic  Perspectives (Feldstein, 2005b) that deals with the current
+16 Feldstein and Liebman (2002a) provides a survey for
+the Handbook of Public Economics of the large theoretical
+and empirical literature on Social Security. See also my Ely
+Lecture to the American Economic Association (Feldstein,
+1996a) and a forthcoming article in the Journal of Economic
+Perspectives (Feldstein, 2005b) that deals with the current
 reform debate in more detail.

@@ -1,6 +1,12 @@
 TABLE 1-FACTUAL AND AFFECTIVE MEMORY
 Effect Description
-Affective attenuation Affective memories are recalled/anticipated with diminished intensity  Availability Memory reconstruction is tilted toward the most available and salient information  Primacy/recency Initial and recent experiences are the most available  Reconstructed memory Imperfect memories are rebuilt using contemporary cues and context, historical exemplars,  customary search protocols  Selective memory Coincidences are more available than noncoincidences  Subjective time History is compressed and attenuated, duration neglected
+Affective attenuation Affective memories are recalled/anticipated with diminished intensity
+Availability Memory reconstruction is tilted toward the most available and salient information
+Primacy/recency Initial and recent experiences are the most available
+Reconstructed memory Imperfect memories are rebuilt using contemporary cues and context, historical exemplars,
+customary search protocols
+Selective memory Coincidences are more available than noncoincidences
+Subjective time History is compressed and attenuated, duration neglected
 examples. Some consumers are slow learners,
 however, and many markets are inconsistent
 teachers, providing more irritation than illumination,
@@ -37,7 +43,8 @@ What we store and retrieve from memory
 is affected by mood and emotion. Laura
 Carstensen (Susan M. Charles et al., 2003;
 James J. Gross et al., 1997) finds that advertisements
-are remembered better, and influence  choice more, when the affective content of the
+are remembered better, and influence
+choice more, when the affective content of the
 ad matches the mood of the consumer. George
 Loewenstein (1996) finds that emotional sensations
 are more easily remembered than nonemotional

@@ -48,7 +48,8 @@ whether such exogeneity is a correct assumption
 or not. The incorporation of such
 endogeneity is the next step-not the first
 step-in the study of the effect of norms on
-macroeconomics, especially since such endoge-  neity may sometimes dampen, but will rarely
+macroeconomics, especially since such endoge-
+neity may sometimes dampen, but will rarely
 nullify, the conclusions of this lecture.
 II. The Five Neutrality Results
 For clarity, this section will now give an
@@ -72,11 +73,13 @@ says that a firm's investment strategy is
 totally independent of its liquidity position.8
 Thus, for example, a corporation with an unexpected
 windfall will not spend any additional
-investment dollars. Instead, it will pass the  windfall on to shareholders or seek other financial
+investment dollars. Instead, it will pass the
+windfall on to shareholders or seek other financial
 investments, since it will make only those
 investments whose risk-adjusted rate of return
 exceeds the rate of return on capital.
-Changes in the firm's finances will thus be  neutral in their effect on current investment.
+Changes in the firm's finances will thus be
+neutral in their effect on current investment.
 C. Natural Rate Theory
 According to Natural Rate Theory, there is
 some single rate of unemployment that is the

@@ -91,6 +91,9 @@ would require a negligible correction of the kind described
 in the text. But if we consider a very long sequence
 of periods with technological progress and assume,
 say a 2 percent yearly increase in per capita output
-then, with a 10 percent discount rate, roughly  four-fifths (or a shade less) of the cost-item entered for
-increased per capita education should be deducted on  the benefit-side. I will in fact deduct about four-fifths,
-with some rounding where this is called for (see fn. 40,  for the calculation of the 1966 and the 1953 yield).
+then, with a 10 percent discount rate, roughly
+four-fifths (or a shade less) of the cost-item entered for
+increased per capita education should be deducted on
+the benefit-side. I will in fact deduct about four-fifths,
+with some rounding where this is called for (see fn. 40,
+for the calculation of the 1966 and the 1953 yield).

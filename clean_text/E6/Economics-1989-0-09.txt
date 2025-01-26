@@ -87,7 +87,8 @@ become clear, and with that an explanation
 of some of the well-known difficulties in
 empirical implementation of the q-theory
 approach.19
-18See Eisner (1989), Table D.I.  19Further difficulties in giving flesh to investment
+18See Eisner (1989), Table D.I.
+19Further difficulties in giving flesh to investment
 and production theory may well stem from problems in
 getting sound measures of real output. These depend
 considerably on the quality of our price deflators, too

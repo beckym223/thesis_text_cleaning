@@ -46,7 +46,8 @@ resulted in output variability that was about 84
 percent of actual variability.9 In a complementary
 study, S. Rao Aiyagari (1994) arrived at an
 estimate of 79 per
-tput variance are proposed.  technology shocks, based on comovements of
+tput variance are proposed.
+technology shocks, based on comovements of
 production and labor input over the cycle.
 Shapiro and Watson find that at most 30
 percent of cyclical output variability can be

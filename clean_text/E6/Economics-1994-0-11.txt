@@ -41,7 +41,8 @@ a small fraction having a high present
 value, such a crowding out could raise
 average values significantly, though the
 required rate is rather on the high
-side.12  It is also likely that the threshold for what
+side.12
+It is also likely that the threshold for what
 is patentable has risen, given the large influx
 of foreign patent applications into the
 U.S. system all impinging on a relatively
@@ -75,14 +76,16 @@ The latter, for example, rose at about 2.5 percent per
 year between 1970 and 1990. That is about right for
 this period but far too low for the 6+ percent earlier.
 On the other hand, Cabellero and Jaffe (1993), using
-citation data, find that the average "size" of a patent  did not grow during the last 20 years.
+citation data, find that the average "size" of a patent
+did not grow during the last 20 years.
 13There is some evidence that such crowding-out
 may have occurred. Between 1966-1969 and 1981-1985
 the "yield ratio" for domestic patent applications in
 terms of grants received fell by about 15 percent (from
 0.68 to 0.58) before recovering somewhat in the late
 1980's (to 0.62). See Griliches (1990) for a survey of
-these issues and citations to the relevant literature.  'A similar story is also told by other scattered
+these issues and citations to the relevant literature.
+'A similar story is also told by other scattered
 invention "output" indicators. In their study of innovations
 in the chemical, textile, and machinery-tools industries,
 Baily and Chakrabarti (1988) found a decline

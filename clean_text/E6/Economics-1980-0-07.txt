@@ -89,14 +89,16 @@ difference from other work appears to rest on allowing
 wage changes to operate with a lag different from other
 factor prices. According to their results the lag of
 employment behind wage changes is quite short; it is
-complete in about two quarters.  3Just after writing those words, I received a working
+complete in about two quarters.
+3Just after writing those words, I received a working
 paper by Robert Hall which (a) concludes that the
 elasticity of supply of labor required to make the intertemporal-
 substitution hypothesis work is actually in the
 ballpark suggested by other facts, but (b) rejects the
 whole theory on other empirical grounds. I have done
 some further experimentation on Halls data (with the
-help of Mr. Sunil Sanghvi) with results that cast doubt  on the reliability of even the first conclusion. On reflection,
+help of Mr. Sunil Sanghvi) with results that cast doubt
+on the reliability of even the first conclusion. On reflection,
 I stand by the words in the text.
 4I have tried to phrase that carefully. For some
 direct evidence, see "Jobs and Want Ads: A Look

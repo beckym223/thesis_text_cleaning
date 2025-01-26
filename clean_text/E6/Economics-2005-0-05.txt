@@ -50,7 +50,8 @@ a downward spiral in the demand for
 annuities that is limited only when, at some
 point, the risk-reducing value of annuitizing
 outweighs the less than actuarially fair pricing
-of individual annuities.  A mandatory social insurance program like traditional
+of individual annuities.
+A mandatory social insurance program like traditional
 Social Security circumvents this asymmetry
 of information by providing everyone with a
 retirement annuity rather than a lump sum at retirement
