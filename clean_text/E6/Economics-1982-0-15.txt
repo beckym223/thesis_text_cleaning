@@ -88,6 +88,3 @@ immediately
 P2(Y2-y) K(y2- yi)
 or
 (3) p2 > K(Y2-Y1Y)/(AY2-Yj),
-4That is, if pI, p*, represent the undiscounted prices,
-PI = P, P2= p*/(l + r), where r is the rate of interest,
-etc.

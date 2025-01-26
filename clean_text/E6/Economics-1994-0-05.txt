@@ -1,20 +1,3 @@
-0.030
-0.025 -,,"
-"Measurable" ,"
-g*% /
-,.020 Total
-0.020 -^~^
-"Unmeasurable"
-0.015 ,_5 ,, ,,l
-0.010t-
-0.005 l6 ... 66 ... 67 ... l7. 1l8' 1l85 .. l llllll
-1950 1955 1960 1965 1970 1975 1980 1985 1990
-FIGURE 1. GROSS DOMESTIC PRODUCT PER MAN-HOUR (THOUSANDS OF 1982
-DOLLARS, UNITED STATES, 1948-1990)
-Notes: Measurable sectors are agriculture, mining, manufacturing, transportation,
-communications, and public utilities; unmeasurable sectors are construction, trade,
-finance, other services, and government. Values for 1977-1987 are based on 1987
-weights; values for 1948-1976 are based on 1982 weights (the series are linked at  1977).
 One could also see a continuous and worri-
 some decline in the number of patents re-
 ceived per corporate R&D dollar (see be-
@@ -51,9 +34,3 @@ riod, but also it did not grow. The latter
 fact, coupled with a continuous upward
 growth in the absolute level of company-
 financed R&D, resulted in a persistent de-
-2For example, the rate of growth in total factor
-productivity declined between the 1960's and the 1970's
-by 4.5 percent in Japan, 3.3 percent in France, and
-"only" 2 percent in the United States (see Organiza-
-tion for Economic Cooperation and Development,  1993).
-3See Griliches (1990) for more details on this story.

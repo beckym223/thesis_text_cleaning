@@ -1,10 +1,3 @@
-RAY
-AVERAGE
-COST
-RAC
-I I ~~~~~R
-0 SHOES
-FIGURE 1
 industry's output vector. The industry may
 be a natural monopoly with one output vec-
 tor, a natural duopoly with another, and

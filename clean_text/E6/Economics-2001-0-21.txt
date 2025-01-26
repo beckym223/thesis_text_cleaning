@@ -1,26 +1,3 @@
-TABLE 6-SOURCES OF GROSS DOMESTIC PRODUCT GROWTH
-1948-1999 1948-1973 1973-1990 1990-1995 1995-1999
-Outputs
-Gross domestic product 3.46 3.99 2.86 2.36 4.08
-Contribution of information technology 0.40 0.20 0.46 0.57 1.18
-Computers 0.12 0.04 0.16 0.18 0.36
-Software 0.08 0.02 0.09 0.15 0.39
-Communications equipment 0.10 0.08 0.10 0.10 0.17
-Information technology services 0.10 0.06 0.10 0.15 0.25
-Contribution of noninformation technology 3.06 3.79 2.40 1.79 2.91
-Contribution of noninformation technology investment 0.72 1.06 0.34 0.23 0.83
-Contribution of noninformation technology consumption 2.34 2.73 2.06 1.56 2.08
-Inputs
-Gross domestic income 2.84 3.07 2.61 2.13 3.33
-Contribution of information technology capital services 0.34 0.16 0.40 0.48 0.99
-Computers 0.15 0.04 0.20 0.22 0.55
-Software 0.07 0.02 0.08 0.16 0.29
-Communications equipment 0.11 0.10 0.12 0.10 0.14
-Contribution of noninformation technology capital services 1.36 1.77 1.05 0.61 1.07
-Contribution of labor services 1.14 1.13 1.16 1.03 1.27
-Total factor productivity 0.61 0.92 0.25 0.24 0.75
-Notes: Average annual percentage rates of growth. The contribution of an output or input is the rate of growth, multiplied by
-the value share.
 Equation (3) allocates ALP growth among three
 sources. The first is capital deepening, the
 growth in capital input per hour worked, and

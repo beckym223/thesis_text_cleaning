@@ -1,10 +1,3 @@
-INDUSTRY
-AVERAGE
-COST
-AC(ym) -_-
-I I I I__ _ _ _ _ _ _
-O yr 2ym 3ym 4ym y
-FIGURE 2
 size of industry output increases. This is
 shown in Figure 2 which is a standard dia-
 gram giving the firm's and the industry's AC
@@ -46,12 +39,7 @@ kym, then if k is greater than or equal to 2 the
 existence problem disappears altogether, be-
 cause the industry's AC curves will be hori-
 zontal for any output greater than Ym, That
-FIRM'S
-AVERAGE
-COST
-.. I I .
-O ym kym y
-FIGURE 3
+
 is, in any contestable market in which two or
 more firms operate the industry AC curve
 will be horizontal and MC pricing will al-

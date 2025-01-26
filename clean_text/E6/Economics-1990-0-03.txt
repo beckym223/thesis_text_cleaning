@@ -1,17 +1,3 @@
-TABLE 2-BEFORE-TAX INCOME SHARES, TAX DATA, SELECTED YEARS,
-1948-1986, PERCENT
-Top 1 percent Top 2 percent Top 5 percent Top 10 percent Top 15 percent
-Year of Tax Units of Tax Units of Tax Units of Tax Units of Tax Units
-1948 9.8 13.4 20.2 27.9 34.3
-1952 8.7 12.1 18.7 26.7 33.4
-1963 8.8 12.3 19.4 28.2 35.5
-1967 8.8 12.3 19.6 28.3 35.5
-1972 8.0 11.4 18.7 27.8 35.4
-1977 7.8 11.3 18.9 28.3 36.1
-1981 8.1 11.5 19.0 28.6 36.5
-1986 14.7 18.2 26.6 36.8 45.1
-Source: Statistics of Income. Income excludes transfer payments, but includes realized
-capital gains in full.
 the movement toward inequality must have
 been even greater than the tax data show
 because they do not include the large
@@ -74,11 +60,3 @@ tax-exempt bonds, and tax shelters were also
 major factors in the reduction of the tax
 burdens in the top part of the income distri-
 bution. The reduction in the corporate tax
-the top one percent of tax units, from 17.31 to 18.77
-percent for the top 5 percent, and from 35.11 to 36.56
-percent for the top 15 percent.
-8See, for example, Frank Levy (1988) and Sheldon
-Danziger, Peter Gottschalk, and Eugene Smolensky
-(1989).
-9See Pechman and Benjamin Okner (1974) and Pech-
-man (1985).

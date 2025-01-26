@@ -66,33 +66,3 @@ in the rate of technological change. This
 leaves us, however, more or less where we
 started, with the productivity slowdown
 largely unexplained.
-12There is scattered evidence on the rising "quality"
-of patents from patent renewal data (see Mark
-Schankerman and Ariel Pakes, 1986; Pakes and Mar-
-garet Simpson, 1989) and from the rising number of
-claims per patent (see X. Tong and J. D. Frame, 1992).
-The latter, for example, rose at about 2.5 percent per
-year between 1970 and 1990. That is about right for
-this period but far too low for the 6+ percent earlier.
-On the other hand, Cabellero and Jaffe (1993), using
-citation data, find that the average "size" of a patent  did not grow during the last 20 years.
-13There is some evidence that such crowding-out
-may have occurred. Between 1966-1969 and 1981-1985
-the "yield ratio" for domestic patent applications in
-terms of grants received fell by about 15 percent (from
-0.68 to 0.58) before recovering somewhat in the late
-1980's (to 0.62). See Griliches (1990) for a survey of
-these issues and citations to the relevant literature.  'A similar story is also told by other scattered
-invention "output" indicators. In their study of innova-
-tions in the chemical, textile, and machinery-tools in-
-dustries, Baily and Chakrabarti (1988) found a decline
-in the number of innovations in the 1970's in two out
-of these three industries, and some recovery thereafter.
-Similar patterns were observed in a study of British
-industrial innovations (see the figure in Gerhard
-Mensch et al. [1991]). In both cases the timing is not
-right for an explanation of the slowdown in the 1970's.
-The impact on productivity is too fast. Rather, it is
-likely to reflect the impact of the slowdown in the
-growth of aggregate demand and the recessions of the
-1970's. In both cases there is an upturn in the 1980's.

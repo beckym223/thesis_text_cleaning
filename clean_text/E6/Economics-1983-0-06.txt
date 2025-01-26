@@ -97,10 +97,3 @@ is surely much of that in the gold market.
 Presumably, pure gambling has little net ef-
 fect on the price, although it does raise the
 incomes or employment of brokers.4
-4There is one modest qualification. To the extent that
-gold prices may move contracyclically vis-a-vis share
-prices (for example), and are thus held in mixed port-
-folios with shares in order to reduce risk, the expected
-return on gold alone might be zero, yet gold might be
-rationally held (assuming that no other contracyclical
-asset exists with a positive return.)

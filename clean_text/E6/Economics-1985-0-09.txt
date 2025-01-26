@@ -81,21 +81,3 @@ ble, why do implicit contracts not permit
 swifter and larger nominal wage adjustments
 by individual firms under the force of ag-
 gregate nominal shocks?
-7Ian McDonald and Solow (1981) have examined
-union wage bargaining, in which the bargain determines
-both employment (for example, via work rules) and
-wages. They assume symmetric information and show  that under a number of different bargaining conventions
--including one which preserves for the parties "fair
-shares" in net revenues-shocks to the firm's demand
-curves may produce small or zero change in wages, so
-long as W is constant. Some strands of implicit contract
-literature also model the contracts as specifying certain
-aspects of the employment decision. Employers do tend
-to hoard labor during downturns. The implicit contract
-can thus be viewed as specifying a wage and, for a
-known distribution of future conditions, a probability of
-suffering unemployment. Applying the McDonald-Solow
-analysis to this arrangement, one could conclude that
-even unforeseen "climatic" changes in circumstances
-facing the firm would more likely result in a change in
-the unemployment probability than in the wage.

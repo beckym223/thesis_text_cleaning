@@ -28,10 +28,7 @@ worker. This projection is a far cry from no
 benefits.
 Moreover, I anticipate that Congress will act
 before the trust fund is exhausted, both lowering
-t Presidential Address delivered at the one hundred fif-
-teenth meeting of the American Economic Association,  January 4, 2004, San Diego, CA.
-* Department of Economics, E52-344, Massachusetts In-  stitute of Technology, 50 Memorial Drive, Cambridge, MA  02142 (e-mail: pdiamond@MIT.EDU). I am grateful to  Robert Hall for suggesting a framework for approaching  Social Security for this address and to him and Henry  Aaron, Alan Auerbach, Abhijit Banerjee, Nicholas Barr,  Olivier Blanchard, Jeffrey Brown, Courtney Coile, Dora  Costa, Thomas Davidoff, Esther Duflo, Jonathan Gruber,  David Laibson, Jeffrey Liebman, Assar Lindbeck, Alicia  Munnell, Peter Orszag, James Poterba, Virginia Reno, Ber-  nard Saffran, Eytan Sheshinski, Robert Solow, and Peter  Temin for valuable comments on previous drafts, and to the  National Science Foundation for financial support under  Grant No. SES0239380. The address draws heavily on the  thinking behind and the content of my book with Peter R.  Orszag (2004). I have greatly enjoyed and profited from the
-collaboration on this and earlier work.
+
 benefits relative to those scheduled under cur-
 rent law and providing additional revenues to
 finance higher benefits than are payable after
@@ -69,5 +66,3 @@ makes sense to mandate that retirement benefits
 be paid as an annuity; that it makes sense to
 mandate protection for family members, both
 young children and surviving spouses; that it
-I also note that the financial problems of Social Secu-  rity are smaller than the problems in many other countries,  a comparison that seems to surprise some people.  2 To put this change in historic context: Spending on  public education when the baby boomers were children  increased by 2.8 percent of GDP over 25 years; defense  spending during the Cold War increased by 2.5 percent of  GDP in 2 years; defense spending in the 1980's increased  by 1.5 percent of GDP in 6 years; defense spending in the  1990's decreased by 2.6 percent of GDP in 10 years.
-1
