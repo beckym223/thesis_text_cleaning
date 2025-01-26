@@ -146,6 +146,13 @@ def handle_covers_and_references(dest_dir:str,commit_changes:bool)->None:
         raise
     logging.info("Successfully deleted")
 
+def fix_extra_long_lines(dest_dir:str,commit_changes:bool):
+    def correct(text:str)->str:
+        return re.sub("  ","\n",text)
+    apply_func_to_txt_dir(dest_dir,dest_dir,correct)
+    if commit_changes:
+        git_commit(dest_dir,"Turned big spaces into line breaks")
+    
 
 
 def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
@@ -161,6 +168,8 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
     apply_splits_to_pages(dest_dir,E6_SPLIT_RANGES,commit_changes)
 
     fix_dash_errors_in_dir(dest_dir,commit_changes)
+
+    fix_extra_long_lines(dest_dir,commit_changes)
 
     handle_line_breaks_across_pages(dest_dir,commit_changes)
 
