@@ -47,7 +47,8 @@ by the wage wi . Average quality can be
 measured by Q, = iwi Lil i L,, and the contribution
 of change in quality to Ay, between
 t and t + 1 can be calculated as Liw( i(A Q, + I /
-Qt). Thus, the contribution of quality change  is already built into the first summation in (2),
+Qt). Thus, the contribution of quality change
+is already built into the first summation in (2),
 but can be separately identified if we so
 choose.
 A focus on human capital could lead us to

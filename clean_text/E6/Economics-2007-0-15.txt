@@ -74,10 +74,12 @@ utility.51 Corresponding to Shefrin and Thaler's
 assumptions regarding the nature of these costs,
 as consumption rises, consumers will first finance
 it wholly from current income; then,
-from current assets; and, finally, from future  income and retirement wealth.
+from current assets; and, finally, from future
+income and retirement wealth.
 As we discussed earlier, it should be no surprise
 that there is an exact translation of such a
-model into one with norms regarding entitle-  ments to consume. The rules of mental accounting
+model into one with norms regarding entitle-
+ments to consume. The rules of mental accounting
 become the norms regarding how money
 should be spent. The basic norm is that consumption
 should come from current income.

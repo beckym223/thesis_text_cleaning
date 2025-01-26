@@ -36,7 +36,8 @@ increases each year by taxes paid and a notional
 interest rate.68 At retirement, this balance
 is converted into an annuity based on the
 
-life expectancy of that cohort and the same  notional interest rate.69 The notional interest
+life expectancy of that cohort and the same
+notional interest rate.69 The notional interest
 rate is set administratively (with automatic
 adjustment), not by returns realized on assets
 held. In this way an NDC system mimics a

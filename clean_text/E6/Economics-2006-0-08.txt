@@ -14,11 +14,15 @@ What information consumes is rather obvious:
 it consumes the attention of its
 recipients. Hence a wealth of information
 creates a poverty of attention, and a need
-to allocate that attention efficiently among  the overabundance of information sources
-that might consume it.  Herbert Simon, 1971
+to allocate that attention efficiently among
+the overabundance of information sources
+that might consume it.
+Herbert Simon, 1971
 A large literature from behavioral economics
-and psychology finds that people  often make inconsistent choices, fail to
-learn from experience, exhibit reluctance  to trade, base their own satisfaction on
+and psychology finds that people
+often make inconsistent choices, fail to
+learn from experience, exhibit reluctance
+to trade, base their own satisfaction on
 how their situation compares with others',
 and in other ways depart from the standard
 model of the rational economic
@@ -38,7 +42,8 @@ follows and supports behavioral evidence from
 cognitive psychology and experimental economics
 showing that humans are, well, all too
 human in the ways they retrieve and evaluate
-information, and process decisions.2 In over-  view, these studies suggest that homo economicus-
+information, and process decisions.2 In over-
+view, these studies suggest that homo economicus-
 sovereign in tastes, steely-eyed and
 point-on in perception of risk, and relentless in
 maximization of happiness-is a rare species.
@@ -68,7 +73,8 @@ does not mean that policy conclusions based on
 consumer rationality are wrong, only that the
 consumer may need to be coaxed and wheedled
 into responding to market choices with sufficient
-diligence to approximate rational promo-  tion of self-interest.
+diligence to approximate rational promo-
+tion of self-interest.
 Most of the evidence on consumer decisionmaking
 comes from laboratory experiments.
 Economists reviewing the experimental evidence

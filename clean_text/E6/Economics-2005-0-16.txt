@@ -22,7 +22,8 @@ funds in the UISA as their own money. For
 someone who expects to have a positive balance
 in his account until retirement, the UISA plan
 would provide the same income protection as
-the current UI system, but without any  distortion.
+the current UI system, but without any
+distortion.
 What about individuals who experience so
 much unemployment that they use up the funds
 in their UISA? Such individuals would be able
@@ -49,7 +50,8 @@ The extent of the gain from introducing unemployment
 insurance savings accounts therefore depends
 on the proportion of the unemployed who
 expect to retire with negative balances and on the
-sensitivity of unemployment to the change in in-  centives. Dan Altman and I did some preliminary
+sensitivity of unemployment to the change in in-
+centives. Dan Altman and I did some preliminary
 empirical analysis of this approach using a sample
 of men in the National Longitudinal Survey. We
 found that, even with no favorable behavioral response

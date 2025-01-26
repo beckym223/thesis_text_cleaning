@@ -13,14 +13,16 @@ it with a totally serious example. In surgical
 operations, because of their inexperience, medical
 students are given tasks that are ridiculously
 easy.17 They respond in the same way as the
-older children at the merry-go-round: they also  act the clown.18
+older children at the merry-go-round: they also
+act the clown.18
 In economics, as elsewhere, $500 bills do not
 just lie on the street. If living up to norms is
 such an important motivation, it must show up
 in many economic examples, even if it is not
 identified in exactly our language. Gary S.
 Becker's Economics of Discrimination (1957)
-offers an example of now-standard economics  that can also be interpreted in terms of such
+offers an example of now-standard economics
+that can also be interpreted in terms of such
 norms. Becker's theoretical innovation was to
 modify plain-vanilla economic utility by the
 introduction of a discrimination coefficient. He
@@ -46,7 +48,8 @@ Rights period, when Becker was writing,
 there can be no doubt that discrimination, and
 the code that upheld it, was stronger in the
 South than in the North. Yet exchanges between
-blacks and whites were surely much more com-  mon in the South than in the North. At least one
+blacks and whites were surely much more com-
+mon in the South than in the North. At least one
 statistic reflects such a difference: there were
 significantly lower levels of residential segregation
 by race in the South than in the North.

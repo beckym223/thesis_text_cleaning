@@ -28,7 +28,8 @@ strong aversion to the risk of large, low-probability
 losses.
 A final part of our survey asked subjects for
 their preferences among the alternatives of no
-prescription drug coverage, the Medicare Part D  standard plan, and three hypothetical alternative
+prescription drug coverage, the Medicare Part D
+standard plan, and three hypothetical alternative
 plans:
 * Guaranteed Benefit Plan: Medicare pays 52.3
 percent of approved prescription drug costs,

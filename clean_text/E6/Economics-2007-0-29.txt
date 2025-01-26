@@ -18,7 +18,8 @@ however, the neutralities are systematically violated.
 Insofar as economists have felt it necessary
 to explain these violations, they have appealed to
 a variety of different frictions, such as myopia and
-credit constraint. In so doing, they have failed to  consider that those violations would occur even in
+credit constraint. In so doing, they have failed to
+consider that those violations would occur even in
 the absence of those frictions: they will occur
 because of decision makers' norms.
 The incorporation of norms based on careful

@@ -37,7 +37,9 @@ tax rates. Consider an individual who now faces
 a combined federal and state marginal rate of
 income tax of 30 percent without social insurance.
 The current 15.3 percent employeremployee
-payroll tax rate,6 when adjusted for  the interaction with the income tax7 and for the  present actuarial value of the additional retiree
+payroll tax rate,6 when adjusted for
+the interaction with the income tax7 and for the
+present actuarial value of the additional retiree
 and survivor benefits that result from increased
 taxable earnings, now increases the overall marginal
 tax rate from 30 percent to about 37.7

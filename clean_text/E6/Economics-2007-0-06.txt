@@ -33,7 +33,8 @@ III. The Missing Motivation: Norms'2
 Each of the neutralities is based on the assumption
 that the respective decision makers
 are utility maximizers. But in each case the
-utility functions of the decision makers have  been very narrowly described. They depend
+utility functions of the decision makers have
+been very narrowly described. They depend
 only on real outcomes. For example, in the
 consumption-neutrality models, utility depends
 on consumption and leisure; in ModiglianiMiller,
@@ -51,7 +52,8 @@ norms, and they may be individual14 as well as
 social. The role of norms can be easily represented
 in people's preferences by modifying the
 utility function to include losses in utility insofar
-as they, or others, fail to live up to their  standards.
+as they, or others, fail to live up to their
+standards.
 Sociology has a further concept that gives an
 easy and natural way to add those norms to the
 utility function. Sociologists say that people
@@ -70,4 +72,5 @@ should a Christian behave? "His life and conversation
 ought to be worthy of the Gospel of
 Christ [emphasis added]."'" How is a good
 Christian supposed to feel when she has not
-lived up to her conception of that ideal?  Ashamed.16
+lived up to her conception of that ideal?
+Ashamed.16

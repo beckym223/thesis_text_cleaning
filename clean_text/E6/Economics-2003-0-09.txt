@@ -47,7 +47,8 @@ V. Incomplete Markets and Distribution Effects
 The calculations I have described so far treat
 households as identical and individual risks as
 diversifiable. But as Per Krusell and Anthony A.
-Smith, Jr. (1999) observe, "it is quite plausible  that the welfare costs of cycles are not so high
+Smith, Jr. (1999) observe, "it is quite plausible
+that the welfare costs of cycles are not so high
 on average, but may be very high for, say, the
 very poor or currently unemployed members of
 society." Several recent studies have pursued

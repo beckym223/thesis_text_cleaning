@@ -67,7 +67,8 @@ seem to me to be too bad. Of course one could
 argue, with hindsight, that Congress should
 have looked further into the future than 75
 years, although it was hard enough to reach
-agreement on legislation even with that target.  Current discussions have extended the notion
+agreement on legislation even with that target.
+Current discussions have extended the notion
 of actuarial balance to include "sustainability"-
 that the ratio of the trust fund to annual expenditures
 not decline at the end of the horizon.

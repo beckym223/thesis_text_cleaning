@@ -45,7 +45,8 @@ models can be fitted statistically that it is extremely
 hard-and perhaps impossible-to statistically
 reject all the variants of models
 without norms. As a result, the program of
-positive economics-with its initial nulls of  models based only on utility with objective
+positive economics-with its initial nulls of
+models based only on utility with objective
 variables verified only by statistical hypothesis
 testing-has severe bias against explanations of
 economic phenomena where norms play a role.

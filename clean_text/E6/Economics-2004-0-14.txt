@@ -1,6 +1,7 @@
 second is the extent to which additional work,
 and so additional payroll taxes, increase the
-measure of lifetime earnings and so add to  benefits.
+measure of lifetime earnings and so add to
+benefits.
 For an average worker at ages 62 and 63,
 Social Security had a roughly zero marginal tax
 for the average worker when the age for full
@@ -11,7 +12,8 @@ larger above the age for full benefits, the retirement
 test has been eliminated for those ages.
 With differences in life expectancy, a zero tax
 on an average worker implies that some workers
-are taxed and some are subsidized by the pres-  ence of the retirement test.50
+are taxed and some are subsidized by the pres-
+ence of the retirement test.50
 The retirement test has two effects. One is to
 raise (delayed) monthly benefits for those continuing
 to work. To the extent that a worker

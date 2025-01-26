@@ -9,7 +9,8 @@ between output and inflation.
 Indeed, models by Katsuhito Iwai (1981),
 Julio J. Rotemberg (1982), and Andrew S. Caplin
 and John Leahy (1991) all have long-run
-trade-offs between inflation and unemployment.  Each of these models assumes that there are real
+trade-offs between inflation and unemployment.
+Each of these models assumes that there are real
 costs to nominal price changes. If, instead, there
 were real costs to real price changes, the assumptions
 of natural rate theory would still be
@@ -40,7 +41,8 @@ and aggregate demand.
 Just as sticky money wages indicated that
 employees have norms regarding wage change,
 similarly, sticky prices indicate that customers
-have norms regarding price change. Thus, the  extensive evidence on price stickiness reveals
+have norms regarding price change. Thus, the
+extensive evidence on price stickiness reveals
 violation of the assumptions of natural rate theory,
 and also the existence of norms regarding
 price change. Like wage changes, price changes

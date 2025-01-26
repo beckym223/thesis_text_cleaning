@@ -30,7 +30,8 @@ nearly 50 percent of the incremental revenue.12
 The true cost per additional dollar of payroll tax
 revenue is therefore $1.50.
 Note that this is just the deadweight loss or
-excess burden-i.e., the pure waste-associated  with the incremental tax. It does not include the
+excess burden-i.e., the pure waste-associated
+with the incremental tax. It does not include the
 deadweight loss of the existing tax or the direct
 burden of the taxes themselves. And it does not
 include the deadweight loss caused by the program
@@ -52,7 +53,8 @@ system, even to a notional defined contribution
 system. Although a notional defined contribution
 plan would remain a pay-as-you-go system,
 it would clearly link each worker's social insurance
-tax payment to his or her resulting future  benefits.
+tax payment to his or her resulting future
+benefits.
 A defined contribution system would provide
 a tax-benefit link for those groups in the population
 that now receive no extra benefits at all in

@@ -48,7 +48,8 @@ construction to build capacity sufficient for
 the growth in quantity demanded that will
 occur beyond that date.
 The argument, like the notation, is now
-straightforward. Let y, be output in period t,  P, be price in period t, and K(y) be the cost
+straightforward. Let y, be output in period t,
+P, be price in period t, and K(y) be the cost
 of construction of capacity sufficient to produce
 (a maximum of) y units per period.
 Here, both p, and K(y) are expressed in

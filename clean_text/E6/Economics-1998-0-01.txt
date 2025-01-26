@@ -22,7 +22,8 @@ Ay = change in output (GDP);
 AL = change in labor input;
 p = initial general price level;
 w = initial real wage;
-T = initial real rate of return to capital;  8 = rate of real depreciation of capital;
+T = initial real rate of return to capital;
+8 = rate of real depreciation of capital;
 AK = change in capital stock; and
 R = "the residual" of growth unexplained
 by increases in traditional inputs.

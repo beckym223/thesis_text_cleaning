@@ -2,15 +2,18 @@ And the discontinuous penalties correspond to
 the losses of utility due to respective deviations
 from that norm. In particular, Shefrin and Thaler
 assumed that there is no such cost at all if
-consumption comes only from current income.  That means that current income can be considered
+consumption comes only from current income.
+That means that current income can be considered
 as consumers' entitlement to spend, since
-any consumption that is less than current in-  come entails no deviation at all from the norm
+any consumption that is less than current in-
+come entails no deviation at all from the norm
 regarding the account that should finance it.
 * Shefrin and Thaler give an impressive array
 of econometric facts in support of their
 model. Insofar as these facts support their
 mental accounting model, they also equally
-well support its reinterpretation-with the  norm that current income is an entitlement to
+well support its reinterpretation-with the
+norm that current income is an entitlement to
 spend. Those facts include: differential savings
 out of windfall and current income;52 a
 less than one-to-one displacement of discretionary
@@ -36,7 +39,8 @@ plays a special role in those entitlements. Shefrin
 and Thaler have explained such patterns by
 mental accounting. A reinterpretation of their
 model shows that they also could have explained
-this behavior in terms of norms. Once  again we see that the current versions of the
+this behavior in terms of norms. Once
+again we see that the current versions of the
 life-cycle hypothesis have left out missing motivation
 that easily justifies the excess sensitivity
 of consumption to income in Keynes's
@@ -44,13 +48,15 @@ psychological law.
 VI. Investment and Cash Flow
 The debate concerning investment has been
 surprisingly close to the debate about consumption.
-The early Keynesians emphasized two  variables as determinants of investment: current
+The early Keynesians emphasized two
+variables as determinants of investment: current
 cash flow (with profits as a major component),
 and the firm's current holdings of liquid assets.
 Each of these variables is a measure of funds
 available to firms for investment without seeking
 outside finance.56 In contrast, the later literature
-denied any special role of liquidity in the  investment function.
+denied any special role of liquidity in the
+investment function.
 The first such questioning came from
 Modigliani and Miller, who assumed that managers
 maximize shareholder value and that markets
@@ -73,7 +79,8 @@ maximized shareholder value in the old equilibrium,
 the same choice of investment maximizes
 it in the new. Investment is therefore independent
 of the firm's current financial position,
-including its current liquidity position and its  current cash flow.
+including its current liquidity position and its
+current cash flow.
 The advent of q-theory similarly questioned a
 special place for current variables, such as cash
 flow and liquid asset holdings in the investment
