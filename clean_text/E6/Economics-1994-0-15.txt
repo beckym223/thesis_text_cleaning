@@ -97,4 +97,4 @@ is to produce a "reasonable" range of estimates,
 based on alternative imputation algorithms,
 from $2.5 to $8.2 billion (and a
 "central" guess of $3.9 billion), which leaves
-us really in the dark as to what has hap-
+us really in the dark as to what has happened

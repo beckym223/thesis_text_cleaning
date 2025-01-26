@@ -61,4 +61,4 @@ of actual technical change have eluded our
 measurement framework entirely.15
 15 1 An argument could be made that this story would
 not be so bleak if we had focused on consumption
-expenditures instead, since many of the offending in-
+expenditures instead, since many of the offending inAn

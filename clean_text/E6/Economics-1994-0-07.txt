@@ -36,4 +36,4 @@ being as much of an outlier and with the
 whole period showing much higher (social)
 returns to R&D. That this is indeed the
 case can be seen in Figure 3, where only
-three such adjustments are made, but be-
+three such adjustments are made, but before

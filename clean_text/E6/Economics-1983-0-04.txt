@@ -1,4 +1,4 @@
-mand, similarly, as consisting of a demand
+similarly, as consisting of a demand
 for current use or consumption plus a possible
 demand for additions to inventory. Any
 market-participant's demand for additions to
@@ -101,4 +101,4 @@ about present and future production
 and demand and the size of existing
 inventories, agents buy for or sell from inventories
 in ways that cause the market price
-to move continuously toward its current nor-
+to move continuously toward its current normal,

@@ -95,4 +95,4 @@ flat-bottomed segment for the firm extends from ym to
 ym(l + I/w), where w is an integer, then there will be w
 regions of linear homogeneity in the industry cost function
 and it will be linearly homogeneous for any output
-y , wy m-
+y , wy mtwo

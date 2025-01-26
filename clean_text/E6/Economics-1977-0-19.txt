@@ -1,4 +1,4 @@
-mous "economic discomfort index." That index
+"economic discomfort index." That index
 (which according to Michael Lovell appears to
 have some empirical support) is the sum of unemployment
 and inflation. The index used in my

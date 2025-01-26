@@ -1,4 +1,4 @@
-regression the only statistically significant coefficient
+the only statistically significant coefficient
 is for question 10 for health economists.
 Other things being equal, those who
 agree with the induced-demand hypothesis are

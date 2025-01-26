@@ -19,4 +19,4 @@ errors of observation of some magnitude certainly
 do exist, and we must recognize that
 they can cloud our perceptions and bias our
 results. What I am going to do here is consider
-frequency distributions of firms. TFP is mea-
+frequency distributions of firms. TFP is meaFrequency

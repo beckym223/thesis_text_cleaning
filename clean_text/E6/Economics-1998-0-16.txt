@@ -1,4 +1,3 @@
-Frequency
 12
 10
 8

@@ -99,4 +99,4 @@ of lives should receive equal weight.
 This would make the present value of the
 future human life independent of the time
 at which it is lived. However, we have seen
-that as long as capital saturation is not at-
+that as long as capital saturation is not attained,

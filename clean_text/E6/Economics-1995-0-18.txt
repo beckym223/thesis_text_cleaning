@@ -72,4 +72,4 @@ based on those preferences. We need to
 depart both from the assumption of given
 preferences (as in traditional social choice
 theory) and from the presumption that people
-are narrowly self-interested homo eco-
+are narrowly self-interested homo economicus

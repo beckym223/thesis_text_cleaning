@@ -105,4 +105,4 @@ taxes on capital income. These distort choices among finan-
 cial instruments by both issuers and purchasers, choices
 about the form of business (corporate vs. non-corporate,
 domestic vs. foreign) and choices about saving vs. spend-
-ing. The key elasticity that matters in the saving vs. spend-
+ing. The key elasticity that matters in the saving vs. spendThe

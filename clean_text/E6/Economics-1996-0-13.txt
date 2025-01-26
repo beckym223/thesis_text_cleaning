@@ -71,4 +71,4 @@ the indexes on the positive questions.
 38 The reliability of the OLS regressions was checked
 in several ways: values for each respondent were predicted
 from each regression and found to be always between 0
-and 1; regressions run with the dependent variable trans-
+and 1; regressions run with the dependent variable transregression
