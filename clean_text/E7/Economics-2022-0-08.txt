@@ -1,47 +1,45 @@
-1083
-CARD: WHO SET YOUR WAGE? VOL. 112 NO. 4
 potential employers (based on industry or occupation), how they count employ-
-ment (based on the stock of employment, the number of job openings, or some 
- transition-probability-adjusted stock of employment), and whether they use a purely 
+ment (based on the stock of employment, the number of job openings, or some
+transition-probability-adjusted stock of employment), and whether they use a purely
 observational approach, or implement a research design that isolates some exoge-
-nous component of the local HHI. Despite these differences, most recent studies 
-seem to show a negative effect of higher concentration on wages, with elasticities 
+nous component of the local HHI. Despite these differences, most recent studies
+seem to show a negative effect of higher concentration on wages, with elasticities
 between the HHI and wages on the order of −0.05 to −0.15.
-For example, Azar, Marinescu, and Steinbaum (2022) use data from a large 
-national employment website to study the relationship between posted wages for 
-jobs in a given occupation and CZ and the HHI of employers listing vacancies in 
-that occupation and location. They find smaller elasticities of posted wages with 
+For example, Azar, Marinescu, and Steinbaum (2022) use data from a large
+national employment website to study the relationship between posted wages for
+jobs in a given occupation and CZ and the HHI of employers listing vacancies in
+that occupation and location. They find smaller elasticities of posted wages with
 respect to the HHI in simple ordinary least squares (OLS) models, but larger elas-
 ticities when they instrument the HHI with the  leave-out mean number of compet-
-itors searching for workers in that same occupation in other markets. Rinz (2020) 
-estimates HHIs from counts of  establishment-level employment by CZ and industry, 
-then relates these to administrative earnings from tax data. In OLS models he finds 
-that wages are slightly higher in more concentrated markets, but in models that use 
+itors searching for workers in that same occupation in other markets. Rinz (2020)
+estimates HHIs from counts of  establishment-level employment by CZ and industry,
+then relates these to administrative earnings from tax data. In OLS models he finds
+that wages are slightly higher in more concentrated markets, but in models that use
 the  leave-out mean of the HHI for the same industry in other locations as an instru-
-mental variable, he obtains negative elasticities in the range of Azar, Marinescu, and 
+mental variable, he obtains negative elasticities in the range of Azar, Marinescu, and
 Steinbaum (2022).
-Recent studies by Arnold (2020) and Prager and Schmidt (2021) use event study 
-designs to look at the effects of merger and acquisition activity on local HHIs 
-and wages. In my opinion, these designs provide the best available evidence that 
-employer consolidations that raise the HHI have significant negative effects on 
+Recent studies by Arnold (2020) and Prager and Schmidt (2021) use event study
+designs to look at the effects of merger and acquisition activity on local HHIs
+and wages. In my opinion, these designs provide the best available evidence that
+employer consolidations that raise the HHI have significant negative effects on
 wages, at least for workers who are highly attached to the affected industry.14
 D. Conspiracies and Other Arrangements to Suppress Competition
-Adam Smith (2003, p.94-95) wrote that employers “are always and everywhere 
-in a sort of tacit, but constant and uniform combination, not to raise the wages of 
-labor above their actual rate.”15 He also noted, however, that “(w)e seldom, indeed, 
-hear of this combination, because it is the usual, and one may say, the natural state 
-of things, which nobody ever hears of.” While discoveries of employer collusion are 
-still relatively rare, in the past two decades there have been a number of lawsuits 
+Adam Smith (2003, p.94-95) wrote that employers “are always and everywhere
+in a sort of tacit, but constant and uniform combination, not to raise the wages of
+labor above their actual rate.”15 He also noted, however, that “(w)e seldom, indeed,
+hear of this combination, because it is the usual, and one may say, the natural state
+of things, which nobody ever hears of.” While discoveries of employer collusion are
+still relatively rare, in the past two decades there have been a number of lawsuits
 and public disclosures that provide the details of some agreements to suppress com-
-petition. These provide a useful perspective on the mechanisms generating market 
+petition. These provide a useful perspective on the mechanisms generating market
 power for employers.
 The  best-known lawsuit concerned “no poaching” and “no solicitation” agree-
-ments affecting software and animation engineers in Silicon Valley (see Ashenfelter 
-et al. forthcoming for more details).16 The agreement originated in the  mid-1980s 
-when Lucasfilm sold its computer animation division to Steve Jobs, who then 
+ments affecting software and animation engineers in Silicon Valley (see Ashenfelter
+et al. forthcoming for more details).16 The agreement originated in the  mid-1980s
+when Lucasfilm sold its computer animation division to Steve Jobs, who then
 14 A third study by Benmelech, Bergman, and Kim (2020) uses mergers and acquisitions as instrumental vari-
 ables for the HHI and reaches the same conclusion.
 15 Alan Krueger provided a new introduction for an edition of The Wealth of Nations (Smith 2003) and high-
-lighted this quote. It is also used by Ashenfelter and Krueger (2021). 
-16 Judge Lucy Koh’s order granting class certification of the case (Northern District of California, Case 
+lighted this quote. It is also used by Ashenfelter and Krueger (2021).
+16 Judge Lucy Koh’s order granting class certification of the case (Northern District of California, Case
 5: 11-cv-02509-LHK) provides much detail on this case.

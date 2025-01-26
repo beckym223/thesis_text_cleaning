@@ -1,46 +1,44 @@
-1081
-CARD: WHO SET YOUR WAGE? VOL. 112 NO. 4
-an  estimate of the overall supply elasticity. Manning’s insight provides a tractable 
-method of estimating labor supply elasticities that has been implemented in many 
+an  estimate of the overall supply elasticity. Manning’s insight provides a tractable
+method of estimating labor supply elasticities that has been implemented in many
 different settings.
-Perhaps the most compelling evidence based on this approach comes from the 
-experiment on public sector hiring conducted by Dal Bo, Finan, and Rossi (2013). 
+Perhaps the most compelling evidence based on this approach comes from the
+experiment on public sector hiring conducted by Dal Bo, Finan, and Rossi (2013).
 These authors randomly varied the salaries announced at different job sites to poten-
-tial job applicants for a position in the office of the Regional Development Program 
-in Mexico. Taking account of the combined impact of higher wages on application 
-rates and on the probability of accepting a job, they calculate that the elasticity of 
-recruiting with respect to wages is around 2.1 (though rather imprecisely estimated). 
-Using Manning’s shortcut, the implied (steady state) elasticity of labor supply is 
-around 4.2.11 In a simple monopsonistic model such an elasticity implies that wages 
+tial job applicants for a position in the office of the Regional Development Program
+in Mexico. Taking account of the combined impact of higher wages on application
+rates and on the probability of accepting a job, they calculate that the elasticity of
+recruiting with respect to wages is around 2.1 (though rather imprecisely estimated).
+Using Manning’s shortcut, the implied (steady state) elasticity of labor supply is
+around 4.2.11 In a simple monopsonistic model such an elasticity implies that wages
 are marked down relative to marginal revenue products by about 20 percent.
 Observational studies of the partial correlation between wages and quit or recruit-
-ing rates tend to yield elasticities in the same range (see Sokolova and Sorensen, 
-2021 for a  meta-analysis of this literature and Ashenfelter et al. forthcoming for 
-an overview of a studies published in a recent issue of the Journal of Human 
-Resources). For example, Bassier, Dube, and Naidu (2021) study job ending rates 
+ing rates tend to yield elasticities in the same range (see Sokolova and Sorensen,
+2021 for a  meta-analysis of this literature and Ashenfelter et al. forthcoming for
+an overview of a studies published in a recent issue of the Journal of Human
+Resources). For example, Bassier, Dube, and Naidu (2021) study job ending rates
 of workers using administrative data from the State of Oregon, and estimate elastic-
-ities in the range of −1 to −2.5, with a preferred point estimate of −2.1, implying 
-a steady state labor supply elasticity of 4.2. Azar, Berry, and Marinescu (2019) use 
-data from a large online job posting service to study the application choices of job 
-searchers. Adopting the estimation approach of Berry, Levinsohn, and Pakes (2004) 
-(and using instrumental variables for posted wages) they infer that the  firm-specific 
+ities in the range of −1 to −2.5, with a preferred point estimate of −2.1, implying
+a steady state labor supply elasticity of 4.2. Azar, Berry, and Marinescu (2019) use
+data from a large online job posting service to study the application choices of job
+searchers. Adopting the estimation approach of Berry, Levinsohn, and Pakes (2004)
+(and using instrumental variables for posted wages) they infer that the  firm-specific
 elasticity of applications with respect to wages is around 2.9. Assuming the recruit-
-ing elasticity is the same as the application elasticity this implies a steady state labor 
+ing elasticity is the same as the application elasticity this implies a steady state labor
 supply elasticity of just under six.
 B. The Relationship between Wages and Firm Productivity
-In a competitive labor market, more and less productive firms pay the same 
+In a competitive labor market, more and less productive firms pay the same
 wages for workers, even if the more productive firms are larger. In imperfectly com-
-petitive labor markets, however, more productive firms will generally have to pay 
-more to maintain a larger workforce. Card et al. (2018) developed a simple partial 
-equilibrium model where workers have MNL preferences over different firms and 
-firms set wages without accounting for strategic interaction effects (i.e., a model of 
-monopsonistic competition). They then calibrated the model to (roughly) match the 
+petitive labor markets, however, more productive firms will generally have to pay
+more to maintain a larger workforce. Card et al. (2018) developed a simple partial
+equilibrium model where workers have MNL preferences over different firms and
+firms set wages without accounting for strategic interaction effects (i.e., a model of
+monopsonistic competition). They then calibrated the model to (roughly) match the
 observed degree of  pass-through from  value added per worker to wages. In the exist-
-ing literature researchers typically find that wages are about 0.5 to 1.5 percent higher 
-at firms with 10 percent higher productivity. In the parameterization of preferences 
-adopted by Card et al., this degree of  pass-through is consistent with  firm-specific 
+ing literature researchers typically find that wages are about 0.5 to 1.5 percent higher
+at firms with 10 percent higher productivity. In the parameterization of preferences
+adopted by Card et al., this degree of  pass-through is consistent with  firm-specific
 supply elasticities of about four.
-Lamadon, Mogstad, and Setlzer (2022) present a more extensive analysis 
-of the  pass-through of  firm-specific and  market-wide value added per worker to 
-11 They also find that higher wages leads to an increase in the quality of successfully recruited applicants, as 
-measured by scores on IQ and personality tests. 
+Lamadon, Mogstad, and Setlzer (2022) present a more extensive analysis
+of the  pass-through of  firm-specific and  market-wide value added per worker to
+11 They also find that higher wages leads to an increase in the quality of successfully recruited applicants, as
+measured by scores on IQ and personality tests.

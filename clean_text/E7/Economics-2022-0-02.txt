@@ -1,44 +1,42 @@
-1077
-CARD: WHO SET YOUR WAGE? VOL. 112 NO. 4
-was clearly unfortunate. And Robinson’s public persona as a  hard-left polemicist 
+was clearly unfortunate. And Robinson’s public persona as a  hard-left polemicist
 (Aslanbeigui and Oakes 2009) did not help.
-For these and perhaps other reasons,4 by the 1970s the standard  graduate-level 
-textbooks in microeconomics theory (e.g., Malinvaud 1972) chose to give only a 
+For these and perhaps other reasons,4 by the 1970s the standard  graduate-level
+textbooks in microeconomics theory (e.g., Malinvaud 1972) chose to give only a
 brief discussion of market power in output markets, and to complete ignore mon-
-opsony. Students of that generation had heard of imperfect competition and market 
+opsony. Students of that generation had heard of imperfect competition and market
 power in their undergraduate courses, but had almost no formal training in the ana-
 lytics of such models.
 II. New Theoretical Frameworks
-Early analysts (including Robinson and Reynolds) recognized two alternative 
+Early analysts (including Robinson and Reynolds) recognized two alternative
 explanations for a  less-than-perfectly elastic supply of labor to a given firm: infor -
-mation frictions and idiosyncratic preferences for different jobs. New models of 
-optimal search and of the demand for differentiated products that were developed in 
+mation frictions and idiosyncratic preferences for different jobs. New models of
+optimal search and of the demand for differentiated products that were developed in
 the 1970s provided the foundations to formalize these explanations.
 A. Search Models
-Research in the late 1960s (including McCall 1970 and Mortensen 1970) led to 
+Research in the late 1960s (including McCall 1970 and Mortensen 1970) led to
 an elegant theory of optimal search by unemployed workers faced with an exoge-
-nous distribution of potential wage offers. Almost immediately, Diamond (1971) 
+nous distribution of potential wage offers. Almost immediately, Diamond (1971)
 and Rothschild (1973) noted difficulties with endogenizing the wage offer distribu-
-tion in this setting. To sidestep this problem, much of the subsequent literature has 
-followed the lead of Diamond (1982); Mortensen (1982); and Pissarides (1985) and 
-switched to a model of search over job match quality (see Pissarides 2010). Since 
-wages have no allocative role in such models, they are not particularly helpful for 
-analyzing wage-setting power. The canonical status of these models may have also 
-led to an  overemphasis on the importance of match effects in wage determination 
+tion in this setting. To sidestep this problem, much of the subsequent literature has
+followed the lead of Diamond (1982); Mortensen (1982); and Pissarides (1985) and
+switched to a model of search over job match quality (see Pissarides 2010). Since
+wages have no allocative role in such models, they are not particularly helpful for
+analyzing wage-setting power. The canonical status of these models may have also
+led to an  overemphasis on the importance of match effects in wage determination
 and labor market dynamics.
-An alternative approach, developed by Burdett (1978) and Burdett and Mortensen 
+An alternative approach, developed by Burdett (1978) and Burdett and Mortensen
 (1998) (hereafter BM) is to assume that employed workers also search for bet-
-ter opportunities.  On-the-job search is empirically important; it also counters an 
+ter opportunities.  On-the-job search is empirically important; it also counters an
 employer’s temptation to reduce wages for unemployed job seekers to the bare min-
-imum. BM consider a world where each firm posts a single wage, and can recruit 
-workers either from unemployment or  lower-paying firms. As Manning (1994, 
-2003) showed, such a “job ladder” model offers many insights into the links between 
-worker turnover and wages. It also provides a simple framework for thinking about 
-the degree of market power of any single employer. Postel Vinay and Robin (2002) 
-generalized BM by allowing firms to (perfectly) price discriminate against different 
-workers, depending on their preceding job and any job offers so far. This sequential 
-auction framework creates a more complex relationship between firm mobility and 
+imum. BM consider a world where each firm posts a single wage, and can recruit
+workers either from unemployment or  lower-paying firms. As Manning (1994,
+2003) showed, such a “job ladder” model offers many insights into the links between
+worker turnover and wages. It also provides a simple framework for thinking about
+the degree of market power of any single employer. Postel Vinay and Robin (2002)
+generalized BM by allowing firms to (perfectly) price discriminate against different
+workers, depending on their preceding job and any job offers so far. This sequential
+auction framework creates a more complex relationship between firm mobility and
 4 Robinson’s gender may also have been an issue. Card et al. (2022) develop models of the probability that econ-
-omists were elected as fellows of the Econometric Society which depend on past publications and citations. Their 
-analysis suggests that prior to 1980 females as a whole were significantly less likely to be recognized as fellows 
+omists were elected as fellows of the Econometric Society which depend on past publications and citations. Their
+analysis suggests that prior to 1980 females as a whole were significantly less likely to be recognized as fellows
 than males with the same record.

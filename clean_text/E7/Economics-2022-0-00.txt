@@ -1,39 +1,22 @@
-American Economic Review 2022, 112(4): 1075–1090  
-https://doi.org/10.1257/aer.112.4.1075
-1075Who Set Y our Wage?†
-By David Card*
-I discuss the recent literature that has led to new interest in the 
-idea of monopsonistic wage setting. Building on advances in search 
-theory and in models of differentiated products, researchers have 
-used a number of different strategies to identify the elasticity of 
- firm-specific labor supply. A growing consensus is that firms have 
-some  wage-setting power, though many questions remain about the 
-sources of that power. (JEL B21, D21, D24, D43, J22, J31, J42)
-In the textbook model of labor markets—synthesized by Hicks (1932)—product 
+In the textbook model of labor markets—synthesized by Hicks (1932)—product
 and factor markets are perfectly competitive and wages are equated to marginal prod-
-ucts.1 Just one year after Hicks, Robinson (1933) developed an alternative framework 
-for understanding  firm-specific wage setting and coined the term “monopsony.” The 
+ucts.1 Just one year after Hicks, Robinson (1933) developed an alternative framework
+for understanding  firm-specific wage setting and coined the term “monopsony.” The
 book attracted a lot of attention, and at least some labor economists were enthusi-
-astic. Reynolds (1946, p. 390) wrote that the concept of an  upward-sloping supply 
-curve of labor to the firm “… has made its way rapidly into the textbooks and seems 
-well on its way to being generally accepted as a substitute for the horizontal supply 
-curve of earlier days.” But Reynolds’s prediction was premature. By the 1960s the 
-concept of monopsony had been relegated to discussions of company towns. Indeed, 
-in the preface to the second edition to her book, Robinson (1969) observed, “All this 
-had no effect. Perfect competition, supply and demand … and marginal products 
+astic. Reynolds (1946, p. 390) wrote that the concept of an  upward-sloping supply
+curve of labor to the firm “… has made its way rapidly into the textbooks and seems
+well on its way to being generally accepted as a substitute for the horizontal supply
+curve of earlier days.” But Reynolds’s prediction was premature. By the 1960s the
+concept of monopsony had been relegated to discussions of company towns. Indeed,
+in the preface to the second edition to her book, Robinson (1969) observed, “All this
+had no effect. Perfect competition, supply and demand … and marginal products
 still reign supreme in orthodox teaching.”
-At the risk of following too closely in Reynolds’s footsteps, in this paper I will 
+At the risk of following too closely in Reynolds’s footsteps, in this paper I will
 try to make the case that the time has come to recognize that many—or even most—
-firms have some  wage-setting power. Such a shift was made with respect to firm’s 
- price-setting power many decades ago. Economists now routinely accept that the 
-prices of products like gasoline, breakfast cereal, and ketchup are set with some 
-degree of market power, even in  online markets. In the past few years we may have 
-reached a tipping point for a similar transition in labor economics, driven by the 
-combination of new (or at least  post-1930) theoretical perspectives, newly available 
+firms have some  wage-setting power. Such a shift was made with respect to firm’s
+price-setting power many decades ago. Economists now routinely accept that the
+prices of products like gasoline, breakfast cereal, and ketchup are set with some
+degree of market power, even in  online markets. In the past few years we may have
+reached a tipping point for a similar transition in labor economics, driven by the
+combination of new (or at least  post-1930) theoretical perspectives, newly available
 data sources, and accumulating evidence on several different fronts.
-1 Hicks (1932) also introduced the elasticity of substitution between labor and capital and corrected an error in 
-“Marshall’s rules” describing the  industry-level elasticity of labor demand.* UC Berkeley (email: card@berkeley.edu). Prepared for the 2022 Annual Meeting of the American Economic 
-Association. I am grateful to Orley Ashenfelter, Alan Manning, and Pat Kline for helpful discussions over many 
-years on the topic of this paper, and to Laura Giuliano for comments on an early draft.
-† Go to https://doi.org/10.1257/aer.112.4.1075 to visit the article page for additional materials and author  
-disclosure statement.
