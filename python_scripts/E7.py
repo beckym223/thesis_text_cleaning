@@ -99,8 +99,8 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
     fix_dash_errors_with_spaces_in_dir(dest_dir,commit_changes)
 
     handle_quest_line_breaks(dest_dir,commit_changes)
-    
-    split_into_paras_at_length(dest_dir,79,commit_changes)
+
+    split_into_paras_at_length(dest_dir,75,commit_changes)
 
 
 
