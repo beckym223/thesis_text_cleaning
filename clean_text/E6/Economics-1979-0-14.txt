@@ -1,4 +1,4 @@
-mented. How do we keep track of the contradictions
+How do we keep track of the contradictions
 and confirmations? How do we
 keep the score of surviving hypotheses?
 And what are we doing in those directions?

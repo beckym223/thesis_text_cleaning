@@ -1,4 +1,4 @@
-lytical system deeper and deeper, by
+system deeper and deeper, by
 reducing, for example, cost functions to
 production functions and the production
 functions to some still more basic relationships
@@ -89,4 +89,4 @@ factual knowledge and the econometrician
 in principle, at least, can introduce in the
 estimating procedure any amount of what
 is usually referred to as "exogenous"
-information before he feeds his pro-
+information before he feeds his programmed

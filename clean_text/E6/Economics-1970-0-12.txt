@@ -101,4 +101,4 @@ yearly data is of interest only for the period following
 1919 (or conceivably for a period ending in 1919).
 Kendrick has shown conclusively that if one decides to
 limit oneself to semi-logarithmically linear relations of
-productivity to time (i.e., of the logarithm of produc-
+productivity to time (i.e., of the logarithm of productherefore

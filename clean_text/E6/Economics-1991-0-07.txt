@@ -1,4 +1,4 @@
-ity, which can be treated as a primitive
+which can be treated as a primitive
 concept, with an unspecified interpretation,
 in an axiomatic economic theory. A newly
 discovered interpretation can then increase
@@ -99,4 +99,4 @@ in a one-page article. But it is easier to
 explain those examples away than to follow
 them. The environment of a scholar demands
 papers, and the temptation to supply
-them without restraint may become over-
+them without restraint may become overpowering
