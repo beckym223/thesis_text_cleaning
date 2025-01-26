@@ -1,18 +1,18 @@
 occurrence cannot be estimated before the
-fact. With respect to changes in labor de-
-mand that are perceived to be consistent
-with a previously known distribution, im-
-plicit contract theory predicts either rigid
+fact. With respect to changes in labor demand
+that are perceived to be consistent
+with a previously known distribution, implicit
+contract theory predicts either rigid
 wages or-in the models like those of Hall
 and Lilien and Grossman and Hart-wages
 which move less than spot auction markets
 would predict but are positively correlated
-with the level of employment. But the infor-
-mal agreements or generally accepted con-
-ventions that we call implicit contracts must
+with the level of employment. But the informal
+agreements or generally accepted conventions
+that we call implicit contracts must
 also provide for changes in circumstances
-whose probability cannot rationally be es-
-timated at the time workers enter into the
+whose probability cannot rationally be estimated
+at the time workers enter into the
 contract. These climatic changes in economic
 circumstances can be of several broad kinds.
 They might involve a relatively long-term
@@ -23,76 +23,76 @@ relative demand and supply of particular
 occupations or in particular local labor
 markets will also call for changes in relative
 wages around a given W.
-If the present value of the stream of bene-
-fits to workers (wages and employment prob-
-abilities) flowing from continuing with the
-firm begins to decline relative to the alterna-
-tive combination of initial investment costs
+If the present value of the stream of benefits
+to workers (wages and employment probabilities)
+flowing from continuing with the
+firm begins to decline relative to the alternative
+combination of initial investment costs
 and future rents that can be generated at
 other firms, it is appropriate that contract
 terms signal the information to workers, so
 that they can make the relevant comparisons,
-and decide whether to quit the firm. Simi-
-larly, if a substantial and permanent decline
+and decide whether to quit the firm. Similarly,
+if a substantial and permanent decline
 occurs in the relative demand for labor by
 occupation or locality, wages ought to signal
-the change. Conversely, economic circum-
-stances might increase the rents to be divided
+the change. Conversely, economic circumstances
+might increase the rents to be divided
 making it optimal for the firm to enlarge its
 share of the relevant labor market pool of
 experienced workers. In that case, the signal
-of higher relative wages ought to be trans-
-mitted to attract from other firms or occupa-
-tions workers for whom the lost rents are less
+of higher relative wages ought to be transmitted
+to attract from other firms or occupations
+workers for whom the lost rents are less
 than the improved opportunities.
 An efficient determination of wages must
 thus cope with two hard-to-reconcile sets of
 facts. Because long continuity of association
 between firms and specific workers confers
-substantial benefits on both parties, rent-
-sharing arrangements that offer protection
-against exploitation and promote such con-
-tinuity are profitable. But the period of as-
-sociation is so long that the probability dis-
-tribution of circumstances requiring changes
+substantial benefits on both parties, rentsharing
+arrangements that offer protection
+against exploitation and promote such continuity
+are profitable. But the period of association
+is so long that the probability distribution
+of circumstances requiring changes
 in wages is largely unknowable. And so the
-rules and conventions governing wage de-
-termination must be flexible enough to allow
-response. Seen in this light, the terms "im-
-plicit contract" may be misleading. It is, I
+rules and conventions governing wage determination
+must be flexible enough to allow
+response. Seen in this light, the terms "implicit
+contract" may be misleading. It is, I
 think, useful to think of wages as being
-set and periodically revised by firms with-
-in limits imposed by a set of social conven-
-tions, concepts of equity and fairness, and
+set and periodically revised by firms within
+limits imposed by a set of social conventions,
+concepts of equity and fairness, and
 informal understandings. These conventions,
-concepts, and understandings provide sub-
-stantial, if imperfect, protection against ex-
-ploitation but allow flexibility to deal with
+concepts, and understandings provide substantial,
+if imperfect, protection against exploitation
+but allow flexibility to deal with
 Knightian uncertainty.
 While very lengthy association requires
 relative wage adjustments in response to
 " unforeseeable" changes in circumstances,
-other characteristics of the labor market sug-
-gest that those adjustments will tend to be
+other characteristics of the labor market suggest
+that those adjustments will tend to be
 gradual and delayed. It would be hard to
 account for the long job tenures that we
 observe unless the combination of positive
-returns to association and the cost of transi-
-tion were quite sizeable. The quantitative
-evidence on the magnitude of explicit turn-
-over costs suggests that they are large. Daniel
-Mitchell and Larry Kimbell (1982), for ex-
-ample, report a recent estimate, based on a
+returns to association and the cost of transition
+were quite sizeable. The quantitative
+evidence on the magnitude of explicit turnover
+costs suggests that they are large. Daniel
+Mitchell and Larry Kimbell (1982), for example,
+report a recent estimate, based on a
 survey of Los Angeles firms, that firms' own
 costs of turnover (exit costs plus replacement
 costs) averaged $3,600, $2,300, and $10,400
 for production, clerical, and salary-exempt
 workers, respectively.
-Under these circumstances, erroneous sig-
-nals can have asymmetrical results. Changes
-in wages undertaken on the mistaken iden-
-tification of a temporary change in cir-
-cumstances as a permanent change can cause
+Under these circumstances, erroneous signals
+can have asymmetrical results. Changes
+in wages undertaken on the mistaken identification
+of a temporary change in circumstances
+as a permanent change can cause
 a substantial loss to workers and firms from
 the unnecessary scrapping of "investment"
 and the incurring of other turnover costs.
@@ -101,6 +101,6 @@ extent that workers having transferred to
 other firms cannot return when the mistake
 is discovered. Moreover, once experienced
 workers do change jobs, it is likely to take
-several tries before they find another long-
-tenure job. Hall (1982), for example, shows
+several tries before they find another longtenure
+job. Hall (1982), for example, shows
 that in 1978 a worker aged 45-49 who was in

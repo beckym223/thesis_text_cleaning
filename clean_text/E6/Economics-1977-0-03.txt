@@ -1,13 +1,13 @@
 In recent years and especially since the onset
-of the current depression, the economics profes-
-sion and the lay public have heard a great deal
+of the current depression, the economics profession
+and the lay public have heard a great deal
 about the sharp conflict between "monetarists
 and Keynesians" or between "monetarists and
 fiscalists.". The difference between the two
 "schools" is generally held to center on whether
 the money supply or fiscal variables are the
-major determinants of aggregate economic ac-
-tivity, and hence the most appropriate tool of
+major determinants of aggregate economic activity,
+and hence the most appropriate tool of
 stabilization policies.
 My central theme is that this view is quite far
 from the truth, and that the issues involved are of
@@ -16,17 +16,17 @@ no serious analytical disagreements between
 leading monetarists and leading nonmonetarists.
 Milton Friedman was once quoted as saying,
 "We are all Keynesians, now," and I am quite
-prepared to reciprocate that "we are all mone-
-tarists' '-if by morietarism is meant assigning to
+prepared to reciprocate that "we are all monetarists'
+'-if by morietarism is meant assigning to
 the stock of money a major role in determining
 output and prices. Indeed, the list of those who
 have long been monetarists in this sense is quite
-extensive, including among other John May-
-nard Keynes as well as myself, as is attested by
+extensive, including among other John Maynard
+Keynes as well as myself, as is attested by
 my 1944 and 1963 articles.
 In reality the distinguishing feature of the
-monetarist school and the real issues of disagree-
-ment with nonmonetarists is not monetarism, but
+monetarist school and the real issues of disagreement
+with nonmonetarists is not monetarism, but
 rather the role that should probably be assigned
 to stabilization policies. Nonmonetarists accept
 what I regard to be the fundamental practical
@@ -37,14 +37,14 @@ therefore should be stabilized by appropriate
 monetary and fiscal policies. Monetarists by
 contrast take the view that there is no serious
 need to stabilize the economy; that even if there
-were a need, it could not be done, for stabiliza-
-tion policies would be more likely to increase
+were a need, it could not be done, for stabilization
+policies would be more likely to increase
 than to decrease instability; and, at least some
 monetarists would, I believe, go so far as to hold
 that, even in the unlikely event that stabilization
 policies could on balance prove beneficial, the
-government should not be trusted with the neces-
-sary power.
+government should not be trusted with the necessary
+power.
 What has led me to address this controversy
 is the recent spread of monetarism, both in a
 simplistic, superficial form and in the form of
@@ -56,11 +56,11 @@ In what follows then, I propose first to review
 the main arguments bearing on the need for
 stabilization policies, that is, on the likely extent
 of instability in the absence of such policies, and
-then to examine the issue of the supposed desta-
-bilizing effect of pursuing stabilization policies.
-My main concern will be with instability gener-
-ated by the traditional type of disturbances-de-
-mand shocks. But before I am through, I will
+then to examine the issue of the supposed destabilizing
+effect of pursuing stabilization policies.
+My main concern will be with instability generated
+by the traditional type of disturbances-demand
+shocks. But before I am through, I will
 give some consideration to the difficult problems
 raised by the newer type of disturbance-supply
 shocks.

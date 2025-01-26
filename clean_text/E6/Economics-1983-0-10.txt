@@ -1,19 +1,19 @@
 ly mentioned. This second literature deals
-primarily with work-in-process and manufac-
-tured product inventories, including inven-
-tories held by wholesalers and retailers-
-although it may also embrace commodity
-inventories held by manufacturers or proces-
-sors (but not by producers and dealers). The
+primarily with work-in-process and manufactured
+product inventories, including inventories
+held by wholesalers and retailersalthough
+it may also embrace commodity
+inventories held by manufacturers or processors
+(but not by producers and dealers). The
 earliest versions of this literature described
-inventories as being held, increased, or re-
-duced as the result of production or ordering
+inventories as being held, increased, or reduced
+as the result of production or ordering
 decisions that were based upon expectations
 of future changes in quantities produced or
 demanded-expectations generated mainly
 by recently experienced levels of production
-or sales. It purported to describe the determi-
-nants, for example, of the desired and actual
+or sales. It purported to describe the determinants,
+for example, of the desired and actual
 stocks of coal and iron ore held by steel
 mills; of the desired and actual inventories of
 finished steel held by mills, steel warehouses,
@@ -23,28 +23,28 @@ by producers and dealers; and of the desired
 stocks and actual stocks of steel bedsprings
 held by department stores. In early versions
 of this macroeconomic literature, inventory
-decisions were shown to be capable of hav-
-ing highly destabilizing macroeconomic ef-
-fects-particularly when expectations of fu-
-ture sales were modelled as responsive in
+decisions were shown to be capable of having
+highly destabilizing macroeconomic effects-
+particularly when expectations of future
+sales were modelled as responsive in
 particular ways to experienced levels and
 changes of sales, while production responded
 to orders and expected sales.9
 This literature, of course, belongs to a
-universe of discourse in which prices (includ-
-ing wage rates) do not clear markets continu-
-ously, but rather adjust slowly to evidence of
-gaps between amounts supplied and de-
-manded. Or they may be "administered" on
+universe of discourse in which prices (including
+wage rates) do not clear markets continuously,
+but rather adjust slowly to evidence of
+gaps between amounts supplied and demanded.
+Or they may be "administered" on
 the basis of working rules of thumb based
 mainly on costs or on other prices. In this
 universe of discourse, such pricing rules are
 not necessarily irrational, given the limited
 extent of knowledge, and the experience of
-past instability. And, since prices so estab-
-lished do not typically cause production and
-consumption to move quickly into approxi-
-mate equality, market participants do not
+past instability. And, since prices so established
+do not typically cause production and
+consumption to move quickly into approximate
+equality, market participants do not
 expect that prices will so move, and therefore
 they do not so move. Rather, production and
 sales are brought toward equality primarily
@@ -52,10 +52,10 @@ by changes-delayed changes-in planned
 rates of production or purchase, that reflect
 observed or expected changes in quantities
 consumed or used in production, and that
-are designed to restore or to maintain effi-
-cient levels of inventories. Indeed, microeco-
-nomic theories of rational quantity adjust-
-ments to unplanned differences between
+are designed to restore or to maintain efficient
+levels of inventories. Indeed, microeconomic
+theories of rational quantity adjustments
+to unplanned differences between
 production and sales began to be developed
 in the early 1950's, and have increasingly
 supplied a formal basis for macroeconomic
@@ -63,31 +63,31 @@ inventory theory.'0 These fluctuations in
 quantities produced or purchased may lead,
 in the face of relatively inflexible prices and
 wages, to further self-reinforcing changes in
-production, purchases, and employment-
-self-reinforcing through income effects on
-consumption and "accelerator" effects on in-
-vestment: perhaps dampened by interest rate
+production, purchases, and employmentself-
+reinforcing through income effects on
+consumption and "accelerator" effects on investment:
+perhaps dampened by interest rate
 effects on investment, to the extent that the
 supply of money does not accommodate
 changes in the demand for it.
-Indeed, if such patterns of quantity re-
-sponses at the level of the firm to unplanned
-changes in inventories become standard-
-ized-because such patterns do, in time, re-
-verse imbalances between production and
+Indeed, if such patterns of quantity responses
+at the level of the firm to unplanned
+changes in inventories become standardized-
+because such patterns do, in time, reverse
+imbalances between production and
 sales-it may become entirely rational to
 expect such patterns of quantity movements
 to occur at a macroeconomic level. Rational
 expectations based on such "theories" could
 then lead to inventory, production, and
 purchase decisions that help to perpetuate the
-macroeconomic instability of production, con-
-sumption, and inventories.
-Persistent and massive macroeconomic in-
-ventory cycles deny either the existence of
+macroeconomic instability of production, consumption,
+and inventories.
+Persistent and massive macroeconomic inventory
+cycles deny either the existence of
 rational expectations, or, more plausibly, the
-ability of such expectations to stabilize out-
-put and employment. As the persistence of
+ability of such expectations to stabilize output
+and employment. As the persistence of
 such cycles comes to be expected, and their
 amplitude to be accepted, it is not surprising
 that full flexibility of prices comes to be seen

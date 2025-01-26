@@ -1,5 +1,5 @@
-but, by the assumption that average con-
-struction cost is declining, since Yi >0,
+but, by the assumption that average construction
+cost is declining, since Yi >0,
 (4) K(y2-y1)/(y2-y1)> K(y2)/y2.
 Substituting this into (3) we have at once
 P2> K(Y2)/Y2
@@ -7,28 +7,28 @@ or
 (5) P2Y2 > K(y2).
 Inequality (5) is our result. For it proves
 that any prices which satisfy equilibrium
-requirements (1) and (2) must permit a sec-
-ond-period entrant using the same tech-
-niques to build capacity Y2 from the ground
+requirements (1) and (2) must permit a second-
+period entrant using the same techniques
+to build capacity Y2 from the ground
 up, at cost K(y2), to price slightly below
 anything the incumbent can charge and yet
 recover his costs; and that in doing so, the
 entrant can earn a profit.
-Thus, our intertemporal natural monopo-
-list cannot quote, at time zero, any prices
+Thus, our intertemporal natural monopolist
+cannot quote, at time zero, any prices
 capable of preventing the takeover of some
 or all of his market. Moreover, this is so
 despite the waste, in the form of replication
 of the incumbent's plant, that this entails.
-That, then, is the end of the formal argu-
-ment, the proof that here the invisible hand
-manifests weakness that is, perhaps, unex-
-pected.
+That, then, is the end of the formal argument,
+the proof that here the invisible hand
+manifests weakness that is, perhaps, unexpected.
+
 You will all undoubtedly recognize that
 the story as told here in its barest outlines
 omits all sorts of nuances, such as entrants'
-fear of responsive pricing, the role of bank-
-ruptcy, depreciation of capital, and the like.
+fear of responsive pricing, the role of bankruptcy,
+depreciation of capital, and the like.
 This is not the place to go into these matters
 for it is neither possible nor appropriate here
 for me to go beyond illustration of the logic
@@ -36,16 +36,16 @@ of the new analysis.
 IV. Concluding Comments
 Before closing let me add a word on policy
 implications, whose details must also be left
-to another place. In spirit, the policy conclu-
-sions are consistent with many of those
+to another place. In spirit, the policy conclusions
+are consistent with many of those
 economists have long been espousing. At
 least in the intratemporal analysis, the heroes
 are the (unidentified) potential entrants who
 exercise discipline over the incumbent, and
 who do so most effectively when entry is
 free. In the limit, when entry and exit are
-completely free, efficient incumbent monop-
-olists and oligopolists may in fact be able to
+completely free, efficient incumbent monopolists
+and oligopolists may in fact be able to
 prevent entry. But they can do so only by
 behaving virtuously, that is, by offering to
 consumers the benefits which competition
@@ -57,8 +57,8 @@ new insight on antitrust policy. It tells us
 that a history of absence of entry in an
 industry and a high concentration index may
 be signs of virtue, not of vice. This will be
-true when entry costs in our sense are negli-
-gible. And, then, efforts to change market
+true when entry costs in our sense are negligible.
+And, then, efforts to change market
 structure must be regarded as mischievous
 and antisocial in their effects.
 A second and more obvious conclusion is
@@ -67,30 +67,30 @@ impediments to entry, such as regulators were
 long inclined to impose. The new analysis
 merely reinforces the view that any proposed
 regulatory barrier to entry must start off
-with a heavy presumption against its adop-
-tion. Perhaps a bit newer is the emphasis on
+with a heavy presumption against its adoption.
+Perhaps a bit newer is the emphasis on
 the importance of freedom of exit which is as
 crucial a requirement of contestability as is
 freedom of entry. Thus we must reject as
 perverse the propensity of regulators to resist
 the closing down of unprofitable lines of
 activity. This has even gone so far as a
-Congressional proposal (apparently sup-
-ported by Ralph Nader) to require any plant
-with yearly sales exceeding $250,000 to pro-
-vide fifty-two weeks of severance pay and to
+Congressional proposal (apparently supported
+by Ralph Nader) to require any plant
+with yearly sales exceeding $250,000 to provide
+fifty-two weeks of severance pay and to
 pay three years of taxes, before it will be
 permitted to close, and that only after giving
 two years notice!
-There is much more to the policy implica-
-tions of the new theory, but I will stop here,
+There is much more to the policy implications
+of the new theory, but I will stop here,
 also leaving its results relating to empirical
 research for discussion elsewhere.
 Let me only say in closing that I hope I
 have adequately justified my characterization
-of the new theory as a rebellion or an upris-
-ing. I believe it offers a host of new analy-
-tical methods, new tasks for empirical
-research, and new results. It permits reex-
-amination of the domain of the invisible
+of the new theory as a rebellion or an uprising.
+I believe it offers a host of new analytical
+methods, new tasks for empirical
+research, and new results. It permits reexamination
+of the domain of the invisible
 hand, yields contributions to the theory of

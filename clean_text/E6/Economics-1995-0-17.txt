@@ -1,28 +1,28 @@
-This does not, however, negate an impor-
-tant implication of the question raised by
+This does not, however, negate an important
+implication of the question raised by
 Buchanan and others that public servants
 would tend to have their own objective
 functions; I would dissociate that point from
 the further claim, with which it has come
 mixed, that these objective functions are
-narrowly confined to the officials' own self-
-interest. The important issue to emerge is
+narrowly confined to the officials' own selfinterest.
+The important issue to emerge is
 that there is something missing in a large
 part of the resource-allocation literature (for
-example, in proposals of algorithms for de-
-centralized resource allocation, from Oscar
+example, in proposals of algorithms for decentralized
+resource allocation, from Oscar
 Lange and Abba Lerner onward) which
 make do without any independent objective
 function of the agents of public action. The
 additional assumption of homo economicus
 is not needed to point to this general
 lacuna.
-While this has been a somewhat ne-
-glected question in social choice theory
+While this has been a somewhat neglected
+question in social choice theory
 (though partially dealt with in the related
 literature on implementation), there is no
-particular reason why such plurality of moti-
-vations cannot be accommodated within a
+particular reason why such plurality of motivations
+cannot be accommodated within a
 social choice framework with more richly
 described social states and more articulated
 characterization of individual choices and
@@ -35,23 +35,23 @@ supplementary work here, this is a helpfully
 permissive framework-not tied either to
 ceaseless do-gooding, or to uncompromising
 self-centeredness.
-Even with this extended framework, tak-
-ing us well beyond the homo economicus,
-there remain some difficulties with the no-
-tion of individual rationality used here.
+Even with this extended framework, taking
+us well beyond the homo economicus,
+there remain some difficulties with the notion
+of individual rationality used here.
 There is a problem of "insufficiency" shared
 by this approach to rationality with other
 "instrumental" approaches to rationality,
-since it does not have any condition of criti-
-cal scrutiny of the objectives themselves.
+since it does not have any condition of critical
+scrutiny of the objectives themselves.
 Socrates might have overstated matters a bit
 when he proclaimed that "the unexamined
 life is not worth living," but an examination
 of what kind of life one should sensibly
-choose cannot really be completely irrele-
-vant to rational choice.45 An "instrumental
-rationalist" is a decision expert whose re-
-sponse to seeing a man engaged in slicing
+choose cannot really be completely irrelevant
+to rational choice.45 An "instrumental
+rationalist" is a decision expert whose response
+to seeing a man engaged in slicing
 his toes with a blunt knife is to rush to
 advise him that he should use a sharper
 knife to better serve his evident objective.
@@ -62,8 +62,8 @@ predicting behavior, since such critical
 scrutiny might not be very widely practiced.
 However, the last is not altogether clear,
 since discussions and exchange, and even
-political arguments, contribute to the for-
-mation and revision of values. As Frank
+political arguments, contribute to the formation
+and revision of values. As Frank
 Knight (1947 p. 280) noted, "Values are
 established or validated and recognized
 through discussion, an activity which is at
@@ -72,13 +72,13 @@ There is, in fact, much force in Buchanan's
 (1954a p. 120) assertion that this is a central
 component of democracy ("government by
 discussion") and that "individual values can
-and do change in the process of decision-
-making."
-This issue has some real practical impor-
-tance. To illustrate, in studying the fact that
+and do change in the process of decisionmaking.
+"
+This issue has some real practical importance.
+To illustrate, in studying the fact that
 famines occur in some countries but not in
-others, I have tried to point to the phe-
-nomenon that no major famine has ever
+others, I have tried to point to the phenomenon
+that no major famine has ever
 taken place in any country with a multiparty
 democracy with regular elections and with a
 reasonably free press (Sen, 1984).46 This

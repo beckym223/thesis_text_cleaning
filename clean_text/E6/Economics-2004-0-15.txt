@@ -1,7 +1,7 @@
 THE AMERICAN ECONOMIC REVIEW
 simulations have assumed that younger workers
-perceive no increase in future benefits as a con-
-sequence of additional earnings. This leads to a
+perceive no increase in future benefits as a consequence
+of additional earnings. This leads to a
 big boost in apparent efficiency from a switch to
 individual accounts if it is also assumed that
 money going into individual accounts has no
@@ -18,12 +18,12 @@ This perception would correspond to an implicit
 tax at some ages and an implicit subsidy at
 others, not a full tax at all ages. The extent to
 which labor supply is affected by concern that
-there will be no benefits would be greatly mod-
-ified by any reform that restored actuarial bal-
-ance, not just one with individual accounts.
-Insofar as workers have high subjective dis-
-count rates, mandating savings in any form af-
-fects labor incentives and the exact link between
+there will be no benefits would be greatly modified
+by any reform that restored actuarial balance,
+not just one with individual accounts.
+Insofar as workers have high subjective discount
+rates, mandating savings in any form affects
+labor incentives and the exact link between
 taxes and benefits is of reduced consequence.
 My sense of a small difference between pension
 systems in incentives for younger workers is
@@ -33,31 +33,31 @@ that have introduced individual accounts.
 I have now argued for the use of a mandatory
 retirement income system paying annuitized
 benefits to workers and their families based on
-a progressive benefit formula and using a retire-
-ment test at some ages but not at others. I turn
+a progressive benefit formula and using a retirement
+test at some ages but not at others. I turn
 next to two issues that bear more on reform
 options, as well as reflecting the history of the
 system. First I will discuss the redistribution
 across cohorts and then the use of automatic
 indexing as well as periodic legislation.
 V. Benefits by Cohort
-Social Security is often criticized for distort-
-ing labor supply and savings. Despite the link-
-ing of these two decisions, the issues are very
+Social Security is often criticized for distorting
+labor supply and savings. Despite the linking
+of these two decisions, the issues are very
 different. I have already noted that mandatory
 annuitization with uniform pricing distorts labor
 supplies relative to an idealized alternative, but
 seems to be a welfare improvement relative to a
 world with no annuities. And I discussed other
-labor market issues where Social Security com-
-bines incentives with redistribution and insur-
-ance. In contrast, the rules of Social Security do
-not distort savings. That is, Social Security cer-
-tainly affects savings and so national capital.
+labor market issues where Social Security combines
+incentives with redistribution and insurance.
+In contrast, the rules of Social Security do
+not distort savings. That is, Social Security certainly
+affects savings and so national capital.
 But the term distortion is usually reserved for an
-intervention that would prevent Pareto optimal-
-ity in an economy that would otherwise satisfy  the conditions of the Fundamental Welfare The-
-orem. To examine this meaning of distort (as
+intervention that would prevent Pareto optimality
+in an economy that would otherwise satisfy  the conditions of the Fundamental Welfare Theorem.
+To examine this meaning of distort (as
 opposed to merely change) we need to consider
 the impact of Social Security on the marginal
 return to private savings (the size of a tax
@@ -67,18 +67,18 @@ levels do not depend on capital income. Social
 Security does interact with the income tax, but
 the effect of the existence of Social Security on
 the income taxation of the return on marginal
-savings can have either sign for differently sit-
-uated workers, although it probably includes a
+savings can have either sign for differently situated
+workers, although it probably includes a
 wedge on average.54
 A mandate to pay taxes and receive benefits
 would affect private savings even if there were
 no marginal distortion at all. Effects come from
 the requirement that people pay taxes at levels
 and times when they might not have saved the
-same amount. Effects also come from redistri-
-bution, both within and across generations, that
-is, from income effects as opposed to substitu-
-tion effects. I am not aware of any study of the
+same amount. Effects also come from redistribution,
+both within and across generations, that
+is, from income effects as opposed to substitution
+effects. I am not aware of any study of the
 impact on savings from the progressive benefit
-formula-the presence of higher benefits rela-
-tive to taxes for
+formula-the presence of higher benefits relative
+to taxes for

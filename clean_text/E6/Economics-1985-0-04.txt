@@ -1,8 +1,8 @@
-the part of employers and workers. Macro-
-economic shocks will gradually overcome the
-relative wage stickiness and move the aggre-
-gate nominal wage level in the desired direc-
-tion, but the transitional costs are large.
+the part of employers and workers. Macroeconomic
+shocks will gradually overcome the
+relative wage stickiness and move the aggregate
+nominal wage level in the desired direction,
+but the transitional costs are large.
 I. Some Relevant Features of the Implicit
 Contract Literature
 By now the literature on implicit contracts
@@ -10,8 +10,8 @@ is so large and so diverse that I cannot do it
 justice in a brief summary. But it is necessary
 to sketch out a few elements of that research,
 paying particular attention to several key
-features that bear on the relationship be-
-tween wage behavior and aggregate demand
+features that bear on the relationship between
+wage behavior and aggregate demand
 shocks.
 The flexible-price, market-clearing model,
 in which economic agents are price takers
@@ -19,61 +19,61 @@ and prompt quantity adjusters, would be a
 useful paradigm in a very particular kind of
 world. In this world labor and product
 markets would be characterized by a great
-deal of homogeneity, and so individual trans-
-actions would be carried on in very "thick"
-markets. There would be no reason for pre-
-serving a continuity of relationships between
+deal of homogeneity, and so individual transactions
+would be carried on in very "thick"
+markets. There would be no reason for preserving
+a continuity of relationships between
 workers and firms, customers and suppliers,
 lenders and borrowers. Workers would be
-interchangeable; the marginal revenue prod-
-uct of a particular class of workers would be
+interchangeable; the marginal revenue product
+of a particular class of workers would be
 the same regardless of the firm to which the
 worker was attached. Either labor effort could
-be easily monitored or it would be com-
-pletely proportional to labor hours paid for.
+be easily monitored or it would be completely
+proportional to labor hours paid for.
 And, wherever commitments had to be made
-for the future, expectations about the im-
-portant variables entering into the decision
-could be drawn from fixed stochastic distri-
-butions, knowledge of which, in turn, could
+for the future, expectations about the important
+variables entering into the decision
+could be drawn from fixed stochastic distributions,
+knowledge of which, in turn, could
 be derived from the recurrent nature of past
 events. As well as being unbiased, forecasts
 could significantly improve on coin-flips.
 The world that we are trying to model,
-however, is in fact different in several fun-
-damental ways. Most importantly, in a
+however, is in fact different in several fundamental
+ways. Most importantly, in a
 substantial part of the economy there are
 large returns to maintaining the continuity of
 association between workers and firms.
-Workers acquire nontransferable, firm-
-specific skills; and some of the cost of the
+Workers acquire nontransferable, firmspecific
+skills; and some of the cost of the
 acquisition may be paid by the firm. They
-acquire knowledge about the nonwage attri-
-butes of a job through experience on thal
+acquire knowledge about the nonwage attributes
+of a job through experience on thal
 job. Continuity of association also provides
 firms with hard-to-come-by knowledge about
 the reliability and productivity of specific
 workers. Additional transition, search, and
 moving costs are incurred by workers and
-firms when the association is broken. Sub-
-stantial bilateral monopoly rents to continu-
-ity are thus generated among firms and their
+firms when the association is broken. Substantial
+bilateral monopoly rents to continuity
+are thus generated among firms and their
 experienced work force.
 Risk aversion introduces another reason
 for continuity of association. For at least
-some range of possible variations in the eco-
-nomic environment facing a firm, it is likely
+some range of possible variations in the economic
+environment facing a firm, it is likely
 to be less risk averse than its workers. But
 the relevant insurance contracts cannot be
-traded separately from employment con-
-tracts, and so continuity of association be-
-comes a joint product with insurance. Fi-
-nally, in the real world, labor time is not
+traded separately from employment contracts,
+and so continuity of association becomes
+a joint product with insurance. Finally,
+in the real world, labor time is not
 synonymous with performance. Monitoring
 worker performance or effort is costly, but
 the payment of higher than the "going wage"
-will bind workers to the firms with an incen-
-tive to avoid shirking. And the particular
+will bind workers to the firms with an incentive
+to avoid shirking. And the particular
 workers who "survive" the monitoring are
 those who have found the premium sufficient
 to avoid monitorable shirking, a piece of
@@ -85,10 +85,10 @@ some sort of explicit or implicit agreement
 between employers and workers on the terms
 of the relationship, especially with respect to
 wages and employment opportunities. Several
-problems in modeling these long-term work-
-er-firm agreements have dominated the re-
-cent literature. First, when the marginal rev-
-enue product of labor changes, how are wages
+problems in modeling these long-term worker-
+firm agreements have dominated the recent
+literature. First, when the marginal revenue
+product of labor changes, how are wages
 and employment to be adjusted while still
 preserving contractual relationships? Second,
 since firms are much better able than workers
@@ -96,7 +96,7 @@ to observe the marginal product of labor and
 since contingent contracts directly tied to the
 various states of nature cannot practically be
 designed, how can contract terms allow for
-some flexibility in meeting changing condi-
-tions without giving employers incentives
+some flexibility in meeting changing conditions
+without giving employers incentives
 to provide false information about labor's
 marginal product? This is the problem of

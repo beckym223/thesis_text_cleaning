@@ -5,23 +5,23 @@ work rather evenly over the whole economy.
 Personally, I have always gravitated toward
 the "mushrooms" side of this dichotomy. I
 remember being impressed, when I first saw
-some early industry estimates of TFP improve-
-ment, by their tendency to industry concentra-
-tion. For years I told my students that the
+some early industry estimates of TFP improvement,
+by their tendency to industry concentration.
+For years I told my students that the
 1920's were the decade of cars and rubber
 tires, the 1930's the decade of refrigerators,
 the 1940's that of pharmaceuticals (especially
 antibiotics), and the 1950's that of television,
-with telecommunications anid computers tak-
-ing over in recent decades. But these were just
-impressions, not based on any systematic ap-
-proach. My real turnaround came in the course
+with telecommunications anid computers taking
+over in recent decades. But these were just
+impressions, not based on any systematic approach.
+My real turnaround came in the course
 of writing my 1990 paper, where I presented
 a series of tables based on Kendrick and Elliot
 S. Grossman's (1980) work. Table 2 is an
 example.
-Table 2 has the same format as Table 1. Col-
-umn (1) presents the familiar measure of the
+Table 2 has the same format as Table 1. Column
+(1) presents the familiar measure of the
 percentage by which TFP grew, or real costs
 were reduced, during the period in question
 (note that the percentages apply to the period

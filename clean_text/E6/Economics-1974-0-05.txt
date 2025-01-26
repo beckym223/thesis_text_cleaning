@@ -3,28 +3,28 @@ prices. Monetary theories vaguely related
 to it in spirit can be grafted on to it, but
 none have succeeded in achieving a
 genuine synthesis.
-The two failures of the neoclassical ex-
-planatory mechanism reflect on its founda-
-tions in quite different ways. The existence
-of unemployment is clearly a direct con-
-tradiction to the notion of the smoothly
+The two failures of the neoclassical explanatory
+mechanism reflect on its foundations
+in quite different ways. The existence
+of unemployment is clearly a direct contradiction
+to the notion of the smoothly
 clearing market. One must of course be
 aware that the official measure of unem-'
-ployment is by no means a simple inequal-
-ity between supply and demand; it ag-
-gregates a whole range of distinct markets,
-it does not separate out voluntary and in-
-voluntary unemployment according to the
+ployment is by no means a simple inequality
+between supply and demand; it aggregates
+a whole range of distinct markets,
+it does not separate out voluntary and involuntary
+unemployment according to the
 tests of economic theory, and it does not
-take account of unfilled jobs. I do not sub-
-scribe, I hasten to say, to the sometimes
+take account of unfilled jobs. I do not subscribe,
+I hasten to say, to the sometimes
 expressed view that all unemployment is
 essentially voluntary, an unwillingness to
 search or whatnot; indeed, the official
 measure may underestimate the degree of
-disequilibrium in the labor market, par-
-ticularly with regard both to underutiliza-
-tion of advanced skills and discouraged job
+disequilibrium in the labor market, particularly
+with regard both to underutilization
+of advanced skills and discouraged job
 seekers. With all these qualifications, it is
 clear that statistical unemployment does
 correspond to a disequilibrium as that
@@ -33,15 +33,15 @@ model; there are two individuals, identical
 in productive capacity and both willing
 to work at a given wage, but one is working
 at that wage and the other is not.
-Differential levels of economic develop-
-ment, on the other hand, point to a diffi-
-culty with the other fundamental concept;
+Differential levels of economic development,
+on the other hand, point to a difficulty
+with the other fundamental concept;
 the conditions of optimization. If countries
 differ in their production possibility sets,
 then firms, occupying similar economic
 positions, are facing different constraints
-on their optimization. This does not con-
-tradict the fundamental assumption of
+on their optimization. This does not contradict
+the fundamental assumption of
 optimizing behavior, but it does raise
 severe questions about its interpretation.
 The simplest hypothesis is to take the
@@ -54,14 +54,14 @@ Clearly, we are saying something about the
 conditions of transmission of knowledge
 across national boundaries, and of course
 the same questions arise among firms or
-workers within a single economy. The con-
-straints upon the firm's optimization begin
+workers within a single economy. The constraints
+upon the firm's optimization begin
 to seem more like variables to be explained
 than like constants exogenously given.
-Let me look now at the two basic con-
-cepts from the inside, from the point of
-view of our direct perceptions which moti-
-vate the modelling. The two are far from
+Let me look now at the two basic concepts
+from the inside, from the point of
+view of our direct perceptions which motivate
+the modelling. The two are far from
 parallel. The optimization by individual
 agents has a sense of concreteness about it,
 for all the sophisticated mathematical
@@ -70,10 +70,10 @@ agents. They behave in ways whose logic
 we understand. They seek to achieve goals
 which are reasonable to postulate, and we
 can specify constraints which clearly are
-real. It can be and has been correctly ob-
-jected that our models are too simple; we
-ignore other arguments in the utility func-
-tion, power, status, social approval, or
+real. It can be and has been correctly objected
+that our models are too simple; we
+ignore other arguments in the utility function,
+power, status, social approval, or
 whatnot that also motivate individuals,
 and we ignore some constraints, capacity
 for calculation and social controls. But the
@@ -81,14 +81,14 @@ model is comprehensible, and the motives
 and constraints we deal with are real and
 important.
 The market, on the other hand, is a
-much more ethereal construct. Who ex-
-actly is it that is achieving the balancing of
+much more ethereal construct. Who exactly
+is it that is achieving the balancing of
 supply and demand? Where in fact is the
 information on bids and offers needed for
 equilibration actually collected and stored?
 Right from the beginning of neoclassical
 theory, the difficulty of explaining markets
-in terms of individual self-seeking be-
-havior was perceived. Parenthetically, this
-is one example of the superiority of neo-
-classical analysis to its predecessors, de-
+in terms of individual self-seeking behavior
+was perceived. Parenthetically, this
+is one example of the superiority of neoclassical
+analysis to its predecessors, de-

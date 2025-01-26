@@ -2,43 +2,43 @@ ing fruit in the same future year t will tend
 to give rise to the same discount factor
 I t
 dt + )
-where rt is the annual discount rate ap-
-plicable to the period from year zero to year
+where rt is the annual discount rate applicable
+to the period from year zero to year
 t. The usual practice in cost-benefit analyses
 is to assume also that rt is independent of
 t, rt = r, say.
-This reasoning simply registers the eco-
-nomic accounting implications of assumed
-intertemporal efficiency with capital non-
-saturation. To many highly educated
-people, there is something ethically offen-
-sive about it.
+This reasoning simply registers the economic
+accounting implications of assumed
+intertemporal efficiency with capital nonsaturation.
+To many highly educated
+people, there is something ethically offensive
+about it.
 A difficult practical problem on which
 economists still differ among themselves is
 how to read a good estimate for r from
 capital market and other data. Different tax
 rates on corporate and individual incomes
 complicate the problem. Considering this
-and various market imperfections, the pre-
-cluded alternative use of funds drawn upon
+and various market imperfections, the precluded
+alternative use of funds drawn upon
 for a public project also enters into the
 choice of r. I will not venture into these
 questions here.
-Coming back to helium storage, the dis-
-counting criterion would lead most econo-
-mists to recommend that those steps of the
+Coming back to helium storage, the discounting
+criterion would lead most economists
+to recommend that those steps of the
 storage program be implemented for which
 the rate of return on the total investment
 (not that on energy alone) exceeds or equals
-the discount rate appropriate to the prob-
-lem. Step i, storing helium currently vented,
+the discount rate appropriate to the problem.
+Step i, storing helium currently vented,
 is likely to meet the test. The problem is to
 estimate which of the four or six steps
 would.
 Two final remarks, the first added as an
 afterthought since August 30.
-The two issues we have discussed-
-whether to count only energy costs or all
+The two issues we have discussedwhether
+to count only energy costs or all
 costs, and whether or not to discount future
 benefits and costs-are logically distinct
 implications of the notion of intertemporal
@@ -47,31 +47,31 @@ are related. If one counts only energy costs,
 everything is expressible in equivalent
 Btu's, and to the physicist, steeped in the
 law of conservation of energy, Btu's are the
-same everywhere and at all times. To dis-
-count future Btu's therefore seems not just
+same everywhere and at all times. To discount
+future Btu's therefore seems not just
 strange but outright wrong. So it is. But the
 economist does not discount quantities of
 any kind. He discounts only real values,
-that is, quantities (including energy) multi-
-plied by real prices that reflect the expected
+that is, quantities (including energy) multiplied
+by real prices that reflect the expected
 balance of cost and preference as of a
 specified future time and beyond. It is to
-these prices that the discount factor is ap-
-plied. I am hoping that this simple distinc-
-tion may help to reduce misunderstanding
+these prices that the discount factor is applied.
+I am hoping that this simple distinction
+may help to reduce misunderstanding
 between the professions.
 Secondly, our reasoning has proceeded
 blandly as if there were no uncertainty about
 the outcome of the development of processes
 expected to be substantial users of helium.
-If there is considerable uncertainty, econo-
-mists may want to add an allowance for risk
+If there is considerable uncertainty, economists
+may want to add an allowance for risk
 to the discount rate. They may also wish to
-experiment with models in which judg-
-mental probabilities are attached to these
-uncertain outcomes. This device may pro-
-duce insights even if the conclusions de-
-pend on admittedly uncertain premises. A
+experiment with models in which judgmental
+probabilities are attached to these
+uncertain outcomes. This device may produce
+insights even if the conclusions depend
+on admittedly uncertain premises. A
 study of this kind is included as chapter IV
 in the MRG report.
 V. Attaching Values to Health and Life
@@ -79,15 +79,15 @@ The question of estimating the value of
 health and the value of life arises mostly in
 contexts where either public decisions, or
 public monitoring of private decisions, can
-be shaped so as to improve health and pro-
-long life. One example is the investment of
+be shaped so as to improve health and prolong
+life. One example is the investment of
 public funds to diminish physical risks to
-traffic by the design of roads, bridges, turn-
-outs, and crossings. Another is regular ex-
-penditures for traffic police, building in-
-spectors, and other law enforcers who
-restrain some people from killing or hurt-
-ing themselves or others by recklessness or
+traffic by the design of roads, bridges, turnouts,
+and crossings. Another is regular expenditures
+for traffic police, building inspectors,
+and other law enforcers who
+restrain some people from killing or hurting
+themselves or others by recklessness or
 neglect.
 A common trait of these decisions is that
 from good experience records one may be
@@ -95,5 +95,5 @@ able to estimate the years of lives saved,
 perhaps also of health and limbs preserved,
 per dollar spent on efficiently run projects
 or activities of this kind. Such calculations
-make it possible to spot discrepancies be-
-tween different projects in regard to "health
+make it possible to spot discrepancies between
+different projects in regard to "health

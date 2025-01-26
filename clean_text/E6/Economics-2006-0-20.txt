@@ -1,14 +1,14 @@
-bills in 2006. About 72.5 percent of the Medi-
-care population meet this condition. For those
+bills in 2006. About 72.5 percent of the Medicare
+population meet this condition. For those
 with lower bills, there is an annual pharmacy
 bill threshold that rises with age from just below
 $500 to close to $750. Individuals who are
 prepared to self-insure and are currently below
 this threshold will probably find delay desirable,
 while those between this threshold and $802
-will probably find immediate enrollment desir-
-able. Approximately 24.4 percent of the Medi-
-care population falls in the region where delay
+will probably find immediate enrollment desirable.
+Approximately 24.4 percent of the Medicare
+population falls in the region where delay
 is probably desirable, and 3.1 percent in the
 region where immediate enrollment is probably,
 but not definitely, desirable.
@@ -17,15 +17,15 @@ against the action that minimizes EPV of OPC.
 The table shows that the choice of 70.6 percent
 of the population minimizes EPV of OPC.
 However, there are 10 percent who intend to
-delay even though it is likely in their self-
-interest to enroll. On the other hand, 19.4 per-
-cent of those intending to enroll would achieve
+delay even though it is likely in their selfinterest
+to enroll. On the other hand, 19.4 percent
+of those intending to enroll would achieve
 lower EPV of OPC by delaying. Of course,
 some of that group may want the insurance
 against catastrophic costs in the future, and
 these could be rational decisions if there is very
-strong aversion to the risk of large, low-proba-
-bility losses.
+strong aversion to the risk of large, low-probability
+losses.
 A final part of our survey asked subjects for
 their preferences among the alternatives of no
 prescription drug coverage, the Medicare Part D  standard plan, and three hypothetical alternative
@@ -35,11 +35,11 @@ percent of approved prescription drug costs,
 no matter how high or low these costs are.
 The annual premium of $444 is the same as
 the standard plan.
-* Major Cost Protection Plan: Pays all ap-
-proved prescription drug costs above $2,444
+* Major Cost Protection Plan: Pays all approved
+prescription drug costs above $2,444
 per year, but nothing until your cost at the
-pharmacy reaches this level. The annual pre-
-mium of $444 is the same as the standard
+pharmacy reaches this level. The annual premium
+of $444 is the same as the standard
 plan.
 * No Copay Plan: You pay an up-front annual
 premium of $1,889 per year, and all approved
@@ -52,23 +52,23 @@ they provide insurance against major pharmacy
 costs. The Major Cost Protection Plan and No
 Copay Plan provide almost complete insurance
 against major costs, with the latter eliminating
-the deductible and charging an up-front pre-
-mium for the actuarial value of this replace-
-ment. The Guaranteed Benefit Plan is more
+the deductible and charging an up-front premium
+for the actuarial value of this replacement.
+The Guaranteed Benefit Plan is more
 favorable than the Major Cost Protection Plan at
 low pharmacy bills, but entails substantial risk
 at high bills. These hypothetical alternatives
 vary more from the standard plan than most
-products currently being offered, but prefer-
-ences among them provides some indication of
+products currently being offered, but preferences
+among them provides some indication of
 preferences for features of actual plans.
 Enrollee choice among the alternative plans
 is not explained well by cost minimization; only
 36.3 percent of enrollees choose the plan that
 minimizes EPV of OPC. Further, consumers do
 not seem to place much value on the insurance
-component of the alternative plans-among en-
-rollees, the Guaranteed Benefit Plan that offers
+component of the alternative plans-among enrollees,
+the Guaranteed Benefit Plan that offers
 relatively poor insurance against catastrophic
 drug costs is the minimum cost alternative in
 only 3.2 percent of cases, but is preferred by

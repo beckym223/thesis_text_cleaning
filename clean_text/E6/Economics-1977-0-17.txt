@@ -2,8 +2,8 @@ revised figures now available: from 5.7 percent
 in the second to 4.3 and 4.1-hardly much
 larger than the error of estimate for quarterly
 rates! To be sure, in the first quarter of 1975 the
-growth fell to .6 percent. But, by then, the vio-
-lent contraction was well on its way-between
+growth fell to .6 percent. But, by then, the violent
+contraction was well on its way-between
 September 1974 and February 1975, industrial
 production fell at an annual rate of 25 percent.
 Furthermore, by the next quarter, monetary
@@ -26,12 +26,12 @@ demand shock which we have gradually learned
 to cope with, more or less adequately. It was,
 instead, a supply or price shock, coming from
 a cumulation of causes, largely external. This
-poses an altogether different stabilization prob-
-lem. In particular, in the case of demand shocks,
+poses an altogether different stabilization problem.
+In particular, in the case of demand shocks,
 there exists in principle an ideal policy which
-avoids all social costs, namely to offset com-
-pletely the shock thus, at the same time, stabi-
-lizing employment and the price level. There
+avoids all social costs, namely to offset completely
+the shock thus, at the same time, stabilizing
+employment and the price level. There
 may be disagreement as to whether this target
 can be achieved and how, but not about the
 target itself.
@@ -47,18 +47,18 @@ be made to fall except by creating enough slack,
 thus putting downward pressure on wages. And
 the amount of slack would have to be substantial
 in view of the sluggishness of wages in the face
-of unemployment. If we do not offset the exoge-
-nous shock completely, then the initial burst,
+of unemployment. If we do not offset the exogenous
+shock completely, then the initial burst,
 even if activated by an entirely transient rise in
-some prices, such as a once and for all deteriora-
-tion in the terms of trade, will give rise to further
-increases, as nominal wages rise in a vain at-
-tempt at preserving real wages; this secondary
+some prices, such as a once and for all deterioration
+in the terms of trade, will give rise to further
+increases, as nominal wages rise in a vain attempt
+at preserving real wages; this secondary
 reaction too can only be cut short by creating
 slack. In short, once a price shock hits, there is
 no way of returning to the initial equilibrium
-except after a painful period of both above equi-
-librium unemployment and inflation.
+except after a painful period of both above equilibrium
+unemployment and inflation.
 There are, of course, in principle, policies
 other than aggregate demand management to
 which we might turn, and which are enticing
@@ -67,19 +67,19 @@ demand management. But so far such policies,
 at least those of the wage-price control variety,
 have proved disappointing. The design of better
 alternatives is probably the greatest challenge
-presently confronting those interested in stabili-
-zation. However, these policies fall outside my
+presently confronting those interested in stabilization.
+However, these policies fall outside my
 present concern. Within the realm of aggregate
 demand management, the only choice open to
-society is the cruel one between alternative fea-
-sible paths of inflation and associated paths of
-unemployment, and the best the macroecono-
-mist can offer is policies designed to approxi-
-mate the chosen path.
-In light of the above, we may ask: is it con-
-ceivable that a constant rate of growth of the
-money supply will provide a satisfactory re-
-sponse to price shocks in the sense of giving
+society is the cruel one between alternative feasible
+paths of inflation and associated paths of
+unemployment, and the best the macroeconomist
+can offer is policies designed to approximate
+the chosen path.
+In light of the above, we may ask: is it conceivable
+that a constant rate of growth of the
+money supply will provide a satisfactory response
+to price shocks in the sense of giving
 rise to an unemployment-inflation path to which
 the country would object least?
 C. The Monetarist Prescription: Or, Constant
@@ -88,5 +88,5 @@ The monetarists are inclined to answer this
 question affirmatively, if not in terms of the
 country's preferences, at least in terms of the
 preferences they think it should have. This is
-evidenced by their staunch support of a continu-
-ation of the 6 percent or so rate of growth through
+evidenced by their staunch support of a continuation
+of the 6 percent or so rate of growth through

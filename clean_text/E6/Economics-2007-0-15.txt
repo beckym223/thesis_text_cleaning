@@ -25,8 +25,8 @@ norm is only one of their motivations.)
 * In a thought experiment, consider a woman
 living on $50,000 a year who learns that
 her uncle will die in one year leaving her
-$2,000,000. Even if she has considerable sav-
-ings in the bank, it would be unseemly for her
+$2,000,000. Even if she has considerable savings
+in the bank, it would be unseemly for her
 to run down her savings in anticipation of the
 bequest. She is not entitled to do so. She
 should stick to spending from her current
@@ -35,10 +35,10 @@ norms regarding entitlements to spend are
 related to current income, in violation of the
 life-cycle hypothesis.
 * People's expenditures are supposed to reflect
-their stations in life, and those stations usu-
-ally reflect their earnings. Thus, for example,
-college students with little earnings are sup-
-posed to live that way-like college students.
+their stations in life, and those stations usually
+reflect their earnings. Thus, for example,
+college students with little earnings are supposed
+to live that way-like college students.
 Their current spending is supposed to reflect
 their current earnings, not what they will be
 earning in the future. (At the other extreme,
@@ -47,18 +47,18 @@ expected to live in the presidential mansion.)
 * Preliminary results from an experiment by
 John Morgan and myself illustrate another
 relation between entitlement and earnings. In
-this experiment, subjects were asked to do-
-nate to a charity before and after completing
-a task. Those who were asked for the dona-
-tion afterward were more likely to keep the
-money than those who were asked before-
-hand. Those who had completed the task felt
+this experiment, subjects were asked to donate
+to a charity before and after completing
+a task. Those who were asked for the donation
+afterward were more likely to keep the
+money than those who were asked beforehand.
+Those who had completed the task felt
 that they had earned the money and were thus
 entitled to keep it for themselves.49
 * The mental accounting model by Hersh M.
-Shefrin and Richard H. Thaler (1988) is espe-
-cially useful in our quest for a Keynesian con-
-sumption function. Norms take many forms, so
+Shefrin and Richard H. Thaler (1988) is especially
+useful in our quest for a Keynesian consumption
+function. Norms take many forms, so
 their formal model is not unique.50 But it does
 illustrate a possible link between consumption
 and current income. In this model, people have
@@ -66,18 +66,18 @@ three separate mental accounts: current income,
 current assets, and future income combined
 with pension wealth. As consumers exhaust one
 of these accounts and begin to use the next one
-for their current consumption, they incur a dis-
-continuous "penalty." Those penalties are psy-
-chological in nature-this is a model of mental
+for their current consumption, they incur a discontinuous
+"penalty." Those penalties are psychological
+in nature-this is a model of mental
 accounting-and they take the form of a loss in
 utility.51 Corresponding to Shefrin and Thaler's
 assumptions regarding the nature of these costs,
-as consumption rises, consumers will first fi-
-nance it wholly from current income; then,
+as consumption rises, consumers will first finance
+it wholly from current income; then,
 from current assets; and, finally, from future  income and retirement wealth.
-As we discussed earlier, it should be no sur-
-prise that there is an exact translation of such a
-model into one with norms regarding entitle-  ments to consume. The rules of mental account-
-ing become the norms regarding how money
-should be spent. The basic norm is that con-
-sumption should come from current income.
+As we discussed earlier, it should be no surprise
+that there is an exact translation of such a
+model into one with norms regarding entitle-  ments to consume. The rules of mental accounting
+become the norms regarding how money
+should be spent. The basic norm is that consumption
+should come from current income.

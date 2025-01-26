@@ -2,65 +2,65 @@ in their own self interest. But I also believe that
 there is a role for government that justifies the
 provision of social insurance benefits. I come to
 this conclusion on utilitarian grounds rather
-than from any philosophical commitment to so-
-cial solidarity.
+than from any philosophical commitment to social
+solidarity.
 There are two distinct reasons for providing
 social insurance. Both reflect the asymmetry of
-information. The first is that asymmetric infor-
-mation weakens the functioning of private in-
-surance markets. The second is the inability of
+information. The first is that asymmetric information
+weakens the functioning of private insurance
+markets. The second is the inability of
 the government to distinguish between those
 who are poor in old age or when unemployed
 because of bad luck or an irrational lack of
 foresight from those who are intentionally
 "gaming" the system by not saving in order to
 receive transfer payments. Both problems show
-that the case for social insurance cannot be re-
-jected simply by arguing that such programs force
+that the case for social insurance cannot be rejected
+simply by arguing that such programs force
 people to act against their own best interests.
-But these problems of asymmetric informa-
-tion or any other market failures do not neces-
-sarily justify government action. While a
+But these problems of asymmetric information
+or any other market failures do not necessarily
+justify government action. While a
 perfect and benevolent government would be
 better than a private market burdened by market
 imperfections, actual governments are neither
-perfect nor necessarily benevolent. Political ac-
-tors do not maximize a social welfare function,
+perfect nor necessarily benevolent. Political actors
+do not maximize a social welfare function,
 but reflect political pressures and bureaucratic
-preferences. Moreover, social insurance pro-
-grams impose costs that must be weighed
-against the benefits of overcoming market im-
-perfections. Both require empirical evaluation.
+preferences. Moreover, social insurance programs
+impose costs that must be weighed
+against the benefits of overcoming market imperfections.
+Both require empirical evaluation.
 Consider first the asymmetry of information
 in insurance markets. To be specific, consider
 the case of private annuities. If individuals can
 buy annuities on actuarially fair terms they may
 increase their expected utility by annuitizing
-their assets at retirement. But if individuals dif-
-fer in their life expectancy and know more
-about their mortality prospects than the insur-
-ance company can learn, those with shorter life
+their assets at retirement. But if individuals differ
+in their life expectancy and know more
+about their mortality prospects than the insurance
+company can learn, those with shorter life
 expectancy will want to annuitize a smaller
 portion of their wealth. Insurance companies
 will recognize the resulting self-selection and
 offer annuities with premiums that reflect the
 mortality rates of the long-lived individuals
-who are their most likely customers. This pro-
-duces a downward spiral in the demand for
+who are their most likely customers. This produces
+a downward spiral in the demand for
 annuities that is limited only when, at some
 point, the risk-reducing value of annuitizing
 outweighs the less than actuarially fair pricing
-of individual annuities.  A mandatory social insurance program like tra-
-ditional Social Security circumvents this asymme-
-try of information by providing everyone with a
-retirement annuity rather than a lump sum at re-
-tirement age. But whether this is better than an
+of individual annuities.  A mandatory social insurance program like traditional
+Social Security circumvents this asymmetry
+of information by providing everyone with a
+retirement annuity rather than a lump sum at retirement
+age. But whether this is better than an
 imperfect private annuity market, in which some
 annuitize little and others not at all, depends on the
 implicit rates of return available on the social
 insurance annuity, on the private annuity, and on
-non-annuitized saving. It also depends on the de-
-gree of diversity in preferred spending patterns in
+non-annuitized saving. It also depends on the degree
+of diversity in preferred spending patterns in
 retirement and in attitudes about bequests, since
 complete annuitization at retirement would not
 permit the purchase of retirement homes or other
@@ -73,24 +73,24 @@ before they could accumulate much information
 about their own likely mortality risks in old age.
 Alternatively, a mandatory annuity could be
 more attractive if it were based on the higher
-return available in an investment-based pro-
-gram rather than in a mature pure tax-financed
+return available in an investment-based program
+rather than in a mature pure tax-financed
 pay-as-you-go program.
 Two conclusions follow from this. First, the
-existence of asymmetric information may jus-
-tify a social insurance program (a government
+existence of asymmetric information may justify
+a social insurance program (a government
 annuity in this case) but does not necessarily do
 so. The case for a mandatory annuity program
 depends on calculations that could be done but
-that have not yet been done. Second, the appro-
-priateness of a social insurance program and its
+that have not yet been done. Second, the appropriateness
+of a social insurance program and its
 optimal size can be increased if the cost of the
 social insurance option is reduced, something
 that depends on how it is financed.
 Consider now the second form of asymmetric
 information that might provide a rationale for a
-social insurance program: the government's in-
-ability to distinguish those who are poor
+social insurance program: the government's inability
+to distinguish those who are poor
 through bad luck or inadvertence from those
 who deliberately choose to act in a way that
 leads to eligibility for free benefits. A primary
@@ -98,8 +98,8 @@ reason for social insurance programs is that
 some individuals would not act in their own
 interest, saving far too little for their retirement,
 for health care after they are no longer working,
-or to finance consumption when they are unem-
-ployed. Although some economists may reject
+or to finance consumption when they are unemployed.
+Although some economists may reject
 the likelihood of such irrational behavior as a
 basis for policy analysis, as individuals we all
 recognize that such irrationality exists in prac-

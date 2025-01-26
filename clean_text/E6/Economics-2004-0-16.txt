@@ -15,9 +15,9 @@ born in each year
 Birth Year
 FIGURE 1. NET INTERCOHORT TRANSFERS UNDER SOCIAL SECURITY
 Source: Leimer, "Cohort-Specific Measures of Lifetime Net Social Security Transfers," Social Security Administration  Office of Research and Statistics Working Paper No. 59, February 1994, updated to present value 2002 dollars.
-propensity to save than high earners.55 The re-
-distribution across generations has received par-
-ticular attention and has led to consideration of
+propensity to save than high earners.55 The redistribution
+across generations has received particular
+attention and has led to consideration of
 the impact on national capital.
 A. Transfers by Cohort
 Everyone is aware of the decision to pay
@@ -30,19 +30,19 @@ the lifetime transfers by cohort (left scale) and
 the cumulative net payments by cohort (right
 scale) for cohorts born through 1949, and so
 55 The difference in propensities to save is also relevant  for the impact of any use of payroll tax revenues to lower
-income tax rates.  turning 55 this year.56 The aggregate net trans-
-fers to these cohorts is roughly $11.5 trillion.
+income tax rates.  turning 55 this year.56 The aggregate net transfers
+to these cohorts is roughly $11.5 trillion.
 How much did this early generosity reduce
 national capital? We have some estimates but
-they are surely not reliable. A believable time-
-series econometric study is probably not doable
+they are surely not reliable. A believable timeseries
+econometric study is probably not doable
 and there is no consensus that one has been
 done satisfactorily. Another approach would be
-by simulation. But a credible simulation re-
-quires modeling the appropriate underlying
+by simulation. But a credible simulation requires
+modeling the appropriate underlying
 behavior-the extent to which different workers
-would save on their own without such a pro-
-gram. Surely, a simulation with all workers
+would save on their own without such a program.
+Surely, a simulation with all workers
 being fully rational lifetime utility maximizers
 has no credibility. And we would also need to
 track the effects on national savings from Social

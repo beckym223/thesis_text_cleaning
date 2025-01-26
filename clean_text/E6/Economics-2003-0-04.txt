@@ -1,29 +1,29 @@
 LUCAS: MACROECONOMIC PRIORITIES
 ful that all of it can be obtained simply by
-rearranging the tax structure. It entails a reduc-
-tion in government spending as well, which
+rearranging the tax structure. It entails a reduction
+in government spending as well, which
 Prescott interprets as a reduction in the level of
-transfer payments, or in the government provi-
-sion of goods that most people would buy any-
-way, financed by distorting taxes. Think of
+transfer payments, or in the government provision
+of goods that most people would buy anyway,
+financed by distorting taxes. Think of
 elementary schooling or day care. The gains
 from eliminating such fiscal "cross-hauling" (as
-Sherwin Rosen [1996] called the Swedish day-
-care system) involve more than eliminating "ex-
-cess burden," but they may well be large.
+Sherwin Rosen [1996] called the Swedish daycare
+system) involve more than eliminating "excess
+burden," but they may well be large.
 The stakes in choosing the right monetary
 and fiscal policies are high. Sustained inflation,
 tax structures that penalize capital accumulation
 and work effort, and tax-financed government
-provision of private goods all have uncompen-
-sated costs amounting to sizeable fractions of
+provision of private goods all have uncompensated
+costs amounting to sizeable fractions of
 income. We can see these costs in differences in
 economic performance across different countries
 and time periods. Even in the United States,
 which visibly benefits from the lowest excess
-burdens in the modem world, economic analy-
-sis has identified large potential gains from fur-
-ther improvements in long-run fiscal policy.
+burdens in the modem world, economic analysis
+has identified large potential gains from further
+improvements in long-run fiscal policy.
 II. Gains from Stabilization:
 A Baseline Calculation
 In the rest of the lecture, I want to apply the
@@ -31,13 +31,13 @@ public finance framework just outlined to the
 assessment of gains from improved stabilization
 policy. Such an exercise presupposes a view of
 the workings of the economy in which short-run
-monetary and fiscal policies affect resource al-
-location in ways that are different from the
+monetary and fiscal policies affect resource allocation
+in ways that are different from the
 supply side effects I have just been discussing.
-One possibility is that instability in the quan-
-tity of money or its rate of growth, arising from
-government or private sources, induces ineffi-
-cient real variability. If that were all there was
+One possibility is that instability in the quantity
+of money or its rate of growth, arising from
+government or private sources, induces inefficient
+real variability. If that were all there was
 to it, the ideal stabilization policy would be to
 fix the money growth rate. (Of course, such a
 policy would require the Federal Reserve to
@@ -46,29 +46,29 @@ instabilities in the private banking system.) But
 this cannot be all there is to it, because an
 economy in which monetary fluctuations induce
 real inefficiencies-indeed, any economy in
-which money has value-must be one that op-
-erates under missing markets and nominal ri-
-gidities that make changes in money into  something other than mere units changes. Then
+which money has value-must be one that operates
+under missing markets and nominal rigidities
+that make changes in money into  something other than mere units changes. Then
 it must also be the case that these same rigidities
-prevent the economy from responding effi-
-ciently to real shocks, raising the possibility that
+prevent the economy from responding efficiently
+to real shocks, raising the possibility that
 a monetary policy that reacts to real shocks in
 some way can improve efficiency.
 If we had a theory that could let us sort these
 issues out, we could use it to work out the
 details of an ideal stabilization policy and to
 evaluate the effects on welfare of adopting it.
-This seems to me an entirely reasonable re-
-search goal-I have been thinking success is
+This seems to me an entirely reasonable research
+goal-I have been thinking success is
 just around the comer for 30 years-but it has
 not yet been attained. In lieu of such a theory, I
 will try to get quantitative sense of the answer to
-the thought-experiment I have posed by study-
-ing a series of simpler thought-experiments.
+the thought-experiment I have posed by studying
+a series of simpler thought-experiments.
 In the rest of this section, I ask what the effect
-on welfare would be if all consumption vari-
-ability could be eliminated.4 To this end, con-
-sider a single consumer, endowed with the
+on welfare would be if all consumption variability
+could be eliminated.4 To this end, consider
+a single consumer, endowed with the
 stochastic consumption stream
 (1) c, = Aete- (l/2)r2e,
 where log(se) is a normally distributed random
@@ -83,8 +83,8 @@ where p is a subjective discount rate, y is the
 coefficient of risk aversion, and the expectation
 is taken with respect to the common distribution
 of the shocks so, el ... .
-Such a risk-averse consumer would obvi-
-ously prefer a deterministic consumption path
+Such a risk-averse consumer would obviously
+prefer a deterministic consumption path
 to a risky path with the same mean. We quantify
 this utility difference by multiplying the risky
 path by the constant factor 1 + A in all dates

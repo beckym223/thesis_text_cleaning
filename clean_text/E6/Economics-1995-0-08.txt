@@ -1,13 +1,13 @@
-choice-oriented conditions of indepen-
-dence, the Pareto principle, nondictator-
-ship, and unrestricted domain, even without
-invoking any "social preference," and with-
-out imposing any demand of "collective ra-
-tionality," or any intermenu consistency
+choice-oriented conditions of independence,
+the Pareto principle, nondictatorship,
+and unrestricted domain, even without
+invoking any "social preference," and without
+imposing any demand of "collective rationality,
+" or any intermenu consistency
 condition on social choice.18
 The morals to be drawn from all this for
-Buchanan's questioning of "social prefer-
-ence" would appear to be the following.
+Buchanan's questioning of "social preference"
+would appear to be the following.
 The "impossibility" result identified in a
 particular form by Arrow can be extended
 and shown to hold even when the idea of
@@ -16,47 +16,47 @@ even when no conditions are imposed on
 "internal consistency" of social choice. This
 does not, however, annul the importance of
 Buchanan's criticism of the idea of social
-preference (in the context of choices emerg-
-ing from decision mechanisms for the soci-
-ety), since it is a valid criticism on its own
-right. But the "impossibility" problem iden-
-tified by Arrow cannot be escaped by this
+preference (in the context of choices emerging
+from decision mechanisms for the society)
+, since it is a valid criticism on its own
+right. But the "impossibility" problem identified
+by Arrow cannot be escaped by this
 move.
 IV. On Reasoned Social Welfare Judgments
-How might we then avoid that impossibil-
-ity? It is important to distinguish the
+How might we then avoid that impossibility?
+It is important to distinguish the
 bearing of the problem in the making of
-aggregative social welfare judgments, as op-
-posed to the operation of social decision
+aggregative social welfare judgments, as opposed
+to the operation of social decision
 mechanisms. I start with the former.
-It may be recalled that the Bergson-
-Samuelson analysis and Arrow's impossibil-
-ity theorem followed a turn in welfare eco-
-nomics that had involved the dropping of
+It may be recalled that the BergsonSamuelson
+analysis and Arrow's impossibility
+theorem followed a turn in welfare economics
+that had involved the dropping of
 interpersonal comparisons of utility. As it
-happens, because of its utilitarian form, tra-
-ditional welfare economics had informa-
-tional exclusions of its own, and it had been
-opposed to any basic use of nonutility infor-
-mation, since everything had to be judged
-ultimately by utility sum-totals in conse-
-quent states of affairs. To this was now
-added the exclusion of interpersonal com-
-parisons of utilities, without removing the
+happens, because of its utilitarian form, traditional
+welfare economics had informational
+exclusions of its own, and it had been
+opposed to any basic use of nonutility information,
+since everything had to be judged
+ultimately by utility sum-totals in consequent
+states of affairs. To this was now
+added the exclusion of interpersonal comparisons
+of utilities, without removing the
 exclusion of nonutility information. This
 barren informational landscape makes it
 hard to arrive at systematic judgments of
-social welfare. Arrow's theorem can be in-
-terpreted, in this context, as a demonstra-
-tion that even some very weak conditions
-relating individual preferences to social wel-
-fare judgments cannot be simultaneously
+social welfare. Arrow's theorem can be interpreted,
+in this context, as a demonstration
+that even some very weak conditions
+relating individual preferences to social welfare
+judgments cannot be simultaneously
 satisfied given this informational privation.19
-The problem is not just one of impossibil-
-ity. Consider the Field-Expansion Lemma:
-decisiveness over any pair of alternatives en-
-tails decisiveness over every pair of alterna-
-tives, irrespective of the nature of the states
+The problem is not just one of impossibility.
+Consider the Field-Expansion Lemma:
+decisiveness over any pair of alternatives entails
+decisiveness over every pair of alternatives,
+irrespective of the nature of the states
 involved. Consider three divisions of a given
 cake between two persons: (99,1), (50,50),
 and (1, 99). Let us begin with the assumption
@@ -74,8 +74,8 @@ must get priority over all other pairs as well,
 so that even (1,99) must be preferred to
 (50, 50).20 Indeed, it is not possible, given
 the assumptions, to regard (50, 50) as best of
-the three; we could either have (99,1), giv-
-ing priority to person l's preference, or
+the three; we could either have (99,1), giving
+priority to person l's preference, or
 (1,99), giving priority to 2's preference. But
 not (50, 50). I am not arguing here that
 (50,50) must necessarily be taken to be the

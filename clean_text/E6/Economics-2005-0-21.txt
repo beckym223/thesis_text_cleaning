@@ -4,10 +4,10 @@ mixed system (Feldstein and Liebman, 2002b).
 Divorced women would benefit if the total of
 the husbands and wives' PRAs are pooled and
 divided at the time of divorce.
-While a PRA itself does not cause any in-
-come redistribution, the redistributive structure
-of the pay-as-you-go benefits could, in princi-
-ple, be changed to make the combined benefit
+While a PRA itself does not cause any income
+redistribution, the redistributive structure
+of the pay-as-you-go benefits could, in principle,
+be changed to make the combined benefit
 achieve any degree of redistribution.
 In summary, it seems clear from the research
 that has been done that the current pay-as-you-go
@@ -17,25 +17,25 @@ retirement accounts in a way that maintains or
 exceeds the benefits that are projected in current
 law, while sharply reducing the long-run cost of
 achieving those benefits. This transition could be
-financed with relatively small additional PRA sav-
-ing by individuals or by using existing payroll tax
+financed with relatively small additional PRA saving
+by individuals or by using existing payroll tax
 revenue. Even if the tax revenue is used, the initial
 fiscal deficit would not decrease national saving
-because of the concurrent increase in private sav-
-ing. National saving would rise in the long run
-because the PRA savings would exceed the in-
-creased fiscal deficits.
+because of the concurrent increase in private saving.
+National saving would rise in the long run
+because the PRA savings would exceed the increased
+fiscal deficits.
 A mixed system would eliminate the need for
 a future increase in the Social Security payroll
 tax and would, therefore, avoid the political risk
 that future taxpayers would be unwilling to raise
 taxes to finance promised benefits. It could be
-designed so that, despite the asset price uncer-
-tainty, there would be little risk that the com-
-bined benefits would be less than the currently
-projected pay-as-you-go benefits. The remain-
-ing asset-price risk could be substantially re-
-duced by guarantees that could be produced by
+designed so that, despite the asset price uncertainty,
+there would be little risk that the combined
+benefits would be less than the currently
+projected pay-as-you-go benefits. The remaining
+asset-price risk could be substantially reduced
+by guarantees that could be produced by
 the private financial market.
 VI. Medicare
 Medicare, the federal health care program for
@@ -45,24 +45,24 @@ Security. The program is more complex and the
 reaction to proposed changes is often more
 emotional. And yet without reform, Medicare
 costs will rise even more dramatically than the
-cost of Social Security retirement benefits, re-
-flecting the increasing numbers of the very old
+cost of Social Security retirement benefits, reflecting
+the increasing numbers of the very old
 (who consume relatively more medical care)
-and the changing medical technology that pro-  vides new opportunities to spend money to pro-
-long life and increase the quality of life.
+and the changing medical technology that pro-  vides new opportunities to spend money to prolong
+life and increase the quality of life.
 Before looking at Medicare, it is useful to
 consider the basic theory of health insurance
-and the current way that the government pro-
-vides a kind of quasi-social insurance for the
+and the current way that the government provides
+a kind of quasi-social insurance for the
 population under age 65 by its favorable tax
-treatment of employer payments for health in-
-surance. This is important in itself and suggests
+treatment of employer payments for health insurance.
+This is important in itself and suggests
 an approach that may be useful for reforming
 Medicare.
 The basic theory of insurance implies that a
 risk-averse individual will prefer an actuarially
-fair insurance policy to an uncertain and exog-
-enous distribution of potential losses. But the
+fair insurance policy to an uncertain and exogenous
+distribution of potential losses. But the
 distribution of potential health spending is not
 exogenous and the gain from risk reduction
 must be balanced against the distorting effect of
@@ -81,23 +81,23 @@ less than the cost of producing that care. That
 level of insurance is, however, efficient because
 the deadweight loss from distorted demand is
 less than the gain from risk reduction.
-In actual practice, the demand for health in-
-surance is greatly increased by the tax treatment
-of excluding employer payments for health in-
-surance from the taxable income of employees.
+In actual practice, the demand for health insurance
+is greatly increased by the tax treatment
+of excluding employer payments for health insurance
+from the taxable income of employees.
 Allowing employees to buy health insurance
 with pretax dollars in this way changes the
 nature of health insurance. For someone with a
 marginal tax rate of 40 percent, the ability to
 buy health insurance at a cost of only 60 cents
 per dollar of premium substantially increases
-the demand for health insurance with low de-
-ductibles and low coinsurance rates. This in-
-creases the deadweight loss caused by the
+the demand for health insurance with low deductibles
+and low coinsurance rates. This increases
+the deadweight loss caused by the
 distortion in demand for care.
 Direct attempts to eliminate or even reduce
 the tax subsidy or to constrain it by requiring
 minimum deductibles or coinsurance rates have
-not been politically successful. When the Rea-
-gan Administration proposed to limit the em-
-ployers' deduction for health insurance premi-
+not been politically successful. When the Reagan
+Administration proposed to limit the employers'
+deduction for health insurance premi-

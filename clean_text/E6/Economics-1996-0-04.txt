@@ -1,8 +1,8 @@
 tries (Fuchs, 1966, 1978a). The growth of the
 service economy and improved methods of
 contraception were bringing women into paid
-employment and dramatically changing gen-
-der roles and relationships. Lower fertility and
+employment and dramatically changing gender
+roles and relationships. Lower fertility and
 longer life expectancy were transforming the
 age distribution of the population, and this
 transformation, along with the fragmentation
@@ -10,60 +10,60 @@ of the family and the declining influence of
 traditional religion, were creating new social
 and economic conditions. The health sector,
 with its nonprofit institutions, professional
-dominance, sharply skewed distribution of de-
-mand, and the critical importance of the con-
-sumer in the production process, seemed like
-a fruitful area for investigation. I was partic-
-ularly interested in trying to understand the de-
-terminants of health and the determinants of
+dominance, sharply skewed distribution of demand,
+and the critical importance of the consumer
+in the production process, seemed like
+a fruitful area for investigation. I was particularly
+interested in trying to understand the determinants
+of health and the determinants of
 health care expenditures.
 With regard to health, my research has led
-me to emphasize the importance of nonmedi-
-cal factors such as genetic endowment, the
+me to emphasize the importance of nonmedical
+factors such as genetic endowment, the
 physical and psychosocial environment, and
 personal behaviors such as cigarette smoking,
 diet, and exercise. Over time, advances in
-medical science contribute significantly to re-
-ductions in morbidity and mortality; at any
+medical science contribute significantly to reductions
+in morbidity and mortality; at any
 given point in time, however, differences in
 health levels within or between developed
-countries are not primarily related to differ-
-ences in the quantity or quality of medical
+countries are not primarily related to differences
+in the quantity or quality of medical
 care.8
 With respect to expenditures on medical
 care, my research has led me to emphasize the
-importance of supply factors, especially tech-
-nology and the number and specialty mix of
+importance of supply factors, especially technology
+and the number and specialty mix of
 physicians.9 To be sure, conventional demand
 factors such as price, income, and insurance
-play significant roles, but in my judgment con-
-centration on them to the exclusion of (partly
+play significant roles, but in my judgment concentration
+on them to the exclusion of (partly
 exogenous) supply factors misses a big part of
 the expenditures story. Despite many attempts
-to discredit it,'? the hypothesis that fee-for-
-service physicians can and do induce demand
+to discredit it,'? the hypothesis that fee-forservice
+physicians can and do induce demand
 for their services is alive and well.11
-My views about health and health care ex-
-penditures have been formed not only through
+My views about health and health care expenditures
+have been formed not only through
 research but also through close interaction
 with medical scientists, practicing physicians,
 and other health professionals. Since 1968 I
-have maintained a regular medical school fac-
-ulty appointment in addition to my appoint-
-ment in economics, and have participated
+have maintained a regular medical school faculty
+appointment in addition to my appointment
+in economics, and have participated
 every year in a wide variety of health-related
-activities. This dual life would have gained ap-
-proval from John Stuart Mill who, in The Prin-
-ciples of Political Economy (1848, reprinted
+activities. This dual life would have gained approval
+from John Stuart Mill who, in The Principles
+of Political Economy (1848, reprinted
 1987), wrote, "It is hardly possible to overrate
 the value ... of placing human beings in contact
 with persons dissimilar to themselves, and
 with modes of thought and action unlike those
-with which they are familiar ... Such commu-
-nication has always been ... one of the primary
+with which they are familiar ... Such communication
+has always been ... one of the primary
 sources of progress" (p. 581).
-The proposition that the discipline of eco-
-nomics has a great deal to contribute to health
+The proposition that the discipline of economics
+has a great deal to contribute to health
 and medical care is not one likely to require
 elaborate defense before this audience. (I have
 had audiences that were less receptive to this
@@ -72,19 +72,19 @@ briefly just what it was in economics that I
 found to be most relevant in the invasion of
 alien turf. (To avoid undue suspense, let me
 say at once that it was not game theory.)
-In my experience, the most important con-
-tribution we make is the economic point of
+In my experience, the most important contribution
+we make is the economic point of
 view, which may be summed up in three
-words: scarcity, substitutability, and hetero-
-geneity. This economic point of view stands
-in stark contrast to the romantic and mono-
-technic points of view that I found prevalent
-among health professionals and health policy-
-makers. The romantic point of view refuses to
+words: scarcity, substitutability, and heterogeneity.
+This economic point of view stands
+in stark contrast to the romantic and monotechnic
+points of view that I found prevalent
+among health professionals and health policymakers.
+The romantic point of view refuses to
 accept the notion that resources are inherently
 scarce; any apparent scarcity is attributed to
 some manmade problem, such as capitalism or
-socialism, market failure or excessive govern-
-ment interference. In the 1960's and 1970's,
+socialism, market failure or excessive government
+interference. In the 1960's and 1970's,
 many physicians said that there was no need
 to limit expenditures for medical care if only

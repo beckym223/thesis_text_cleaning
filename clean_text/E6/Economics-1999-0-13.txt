@@ -1,67 +1,67 @@
 WlAS will make it possible to control for the
-effect of wartime stress by comparing subse-
-quent morbidity and mortality among those who
+effect of wartime stress by comparing subsequent
+morbidity and mortality among those who
 served in the Union Arny with relatives who
 did not. It will also be possible to measure family
 effects on aging and mortality experience. This
 will be done by including parents' occupation,
 wealth, residential history, number of children,
 place or region of birth, and migration histoiy.
-Brothers in ILAS share a common prewar en-
-vironment as well as a common genetic heritage.
+Brothers in ILAS share a common prewar environment
+as well as a common genetic heritage.
 They may also share a common war experience
 (see D. S. Lauderdale and P. J. Rathouz, 1998).
 This common genetic heritage and environment
-is not fully captured by the aforementioned in-
-tergenerational variables because heritability is
-composed of the many different dimensions in-
-cluded in genetics and environment. However,
-conmmon family effects may be measured by us-
-ing independent variables to "sweep out" the
+is not fully captured by the aforementioned intergenerational
+variables because heritability is
+composed of the many different dimensions included
+in genetics and environment. However,
+conmmon family effects may be measured by using
+independent variables to "sweep out" the
 effects of observed variables on death age. The
 covariance of the errors in that regression with
 brothers' estimated death ages is then a measure
 of the common family effect on death age. As
-an alternative to the residual-covariance ap-
-proach, a kiindred-frallty model (Vaupel, 1990)
+an alternative to the residual-covariance approach,
+a kiindred-frallty model (Vaupel, 1990)
 could be used where brothers share a level of
-frailty. Then, with assumptions about the struc-
-ture of the frailty distribution, the parameters of
+frailty. Then, with assumptions about the structure
+of the frailty distribution, the parameters of
 a hazard function and a frailty distribution could
 be estimated (cf., James J. Heckman and
 Christopher R. Taber, 1994).
 IV. The Production and Distribution
 of Spiritual Assets
-There is, finally, the issue of spiritual or im-
-material assets. A good place to begin is with
+There is, finally, the issue of spiritual or immaterial
+assets. A good place to begin is with
 Socrates' question: What is the good life? That
 was a critical question not only for the sons of
 rich Athenians but for sons of the landed rich
 throughout history. Freed of the need to work
 in order to satisfy their material needs, they
-sought self-realization in public service, mili-
-tary adventures, philanthropy, the arts, theol-
-ogy, ethics, and moral philosophy. Their
+sought self-realization in public service, military
+adventures, philanthropy, the arts, theology,
+ethics, and moral philosophy. Their
 preoccupation with immaterial commodities
-led Adam Smith to argue that the landed ar-
-istocracy ignored their property and lacked in-
-terest in advancing methods of cultivation.
+led Adam Smith to argue that the landed aristocracy
+ignored their property and lacked interest
+in advancing methods of cultivation.
 "The situation of such a person," he wrote,
-"naturally disposes him to attend rather to or-
-namenit which please his fancy, than to profit
+"naturally disposes him to attend rather to ornamenit
+which please his fancy, than to profit
 for which he has so little occasion" (Smith,
 1937 pp. 364, 891-892).
-In a world in which all but a small percenit-
-age are lacking in adequate nutrition and other
+In a world in which all but a small percenitage
+are lacking in adequate nutrition and other
 necessities of life, self-realization may indeed
-seem like a mere ornanent, but not in a coun-
-try where even the poor are rich by past or
+seem like a mere ornanent, but not in a country
+where even the poor are rich by past or
 Third World standards. That is the case in
 America today since the poverty line is at a
 level of real income that was attained by only
-those in the top 10 percent of the income dis-
-tribution a century ago'3 (Fogel, 2000). Tech-
-nophysio evolution has made it possible to
+those in the top 10 percent of the income distribution
+a century ago'3 (Fogel, 2000). Technophysio
+evolution has made it possible to
 extend the quest for self-realization from a
 minute fraction of the population to almost the
 whole of it. Although those who are retired
@@ -75,16 +75,16 @@ on characterizing the material level of the
 poor today as being harsh. They confound
 current and past conditions of living. Failure
 to recognize the enormous material gains
-over the last century, even for the poor, im-
-pedes rather than advances the struggle
+over the last century, even for the poor, impedes
+rather than advances the struggle
 against chronic poverty in rich nations, the
 principal characteristic of which is spiritual
 estrangement from the mainstream society.
 Although material assistance is an important
 element in the struggle to overcome spiritual
 estrangement, such assistance will not be
-properly targeted if one assumes that iin-
-provement in material conditions naturally
+properly targeted if one assumes that iinprovement
+in material conditions naturally
 leads to spiritual improvement.
 That proposition, so widely emnbraced by the
 nore secular of the economic reformers of the
@@ -92,9 +92,9 @@ twentieth century, did more to promote the
 consumerism of the 1920's and 1930's than to
 produce spiritual regeneration. The middle and
 working classes became preoccupied with the
-acquisition of automobiles and those house-
-hold appliances made possible by electricity:
-" This calculation neglects a variety of goods and ser-
-vices, such as heart bypass operations, that are available
+acquisition of automobiles and those household
+appliances made possible by electricity:
+" This calculation neglects a variety of goods and services,
+such as heart bypass operations, that are available
 today through Medicaid, but which were unavailable at
 any income a century ago.

@@ -1,33 +1,33 @@
 are intended to stretch to the limit the
 meager supply of facts.
 Since, as I said before, the publishers'
-referees do a competent job, most model-
-testing kits described in professional
-journals are internally consistent. How-
-ever, like the economic models they are
+referees do a competent job, most modeltesting
+kits described in professional
+journals are internally consistent. However,
+like the economic models they are
 supposed to implement, the validity of
 these statistical tools depends itself on the
-acceptance of certain convenient assump-
-tions pertaining to stochastic properties of
+acceptance of certain convenient assumptions
+pertaining to stochastic properties of
 the phenomena which the particular
-models are intended to explain; assump-
-tions that can be seldom verified.
+models are intended to explain; assumptions
+that can be seldom verified.
 In no other field of empirical inquiry has
 so massive and sophisticated a statistical
 machinery been used with such indifferent
 results. Nevertheless, theorists continue
-to turn out model after model and math-
-ematical statisticians to devise complicated
+to turn out model after model and mathematical
+statisticians to devise complicated
 procedures one after another. Most of these
 are relegated to the stockpile without any
-practical application or after only a per-
-functory demonstration exercise. Even
+practical application or after only a perfunctory
+demonstration exercise. Even
 those used for a while soon fall out of favor,
 not because the methods that supersede
 them perform better, but because they
 are new and different.
-Continued preoccupation with imag-
-inary, hypothetical, rather than with
+Continued preoccupation with imaginary,
+hypothetical, rather than with
 observable reality has gradually led to a
 distortion of the informal valuation scale
 used in our academic community to assess
@@ -44,8 +44,8 @@ for additional information that would
 permit us to measure the magnitude of the
 same parameter in a less ingenious, but
 more reliable way. This despite the fact
-that in all too many instances sophisti-
-cated statistical analysis is performed on a
+that in all too many instances sophisticated
+statistical analysis is performed on a
 set of data whose exact meaning and
 validity are unknown to the author or
 rather so well known to him that at the
@@ -68,9 +68,9 @@ their careers) by building more and more
 complicated mathematical models and
 devising more and more sophisticated
 methods of statistical inference without
-ever engaging in empirical research. Com-
-plaints about the lack of indispensable pri-
-mary data are heard from time to time,
+ever engaging in empirical research. Complaints
+about the lack of indispensable primary
+data are heard from time to time,
 but they don't sound very urgent. The
 feeling of dissatisfaction with the present
 state of our discipline which prompts me
@@ -86,8 +86,8 @@ in the variables, such as outputs, prices or
 levels of employment, that our equations
 are supposed to explain, but the basic
 structural relationships described by the
-form and the parameters of these equa-
-tions. In order to know what the shape of
+form and the parameters of these equations.
+In order to know what the shape of
 these structural relationships actually are
 at any given time, we have to keep them
 under continuous surveillance.

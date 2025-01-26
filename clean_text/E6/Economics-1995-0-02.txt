@@ -4,14 +4,14 @@ think that the future was ours to make-by
 basing our choices on reasoning. The idea
 of using reason to identify and promote
 better-or more acceptable-societies, and
-to eliminate intolerable deprivations of dif-
-ferent kinds, has powerfully moved people
+to eliminate intolerable deprivations of different
+kinds, has powerfully moved people
 in the past and continues to do so now. In
 this lecture I would like to discuss some
 aspects of this question which have received
-attention in the recent literature in social-
-choice and public-choice theories. The con-
-temporary world suffers from many new as
+attention in the recent literature in socialchoice
+and public-choice theories. The contemporary
+world suffers from many new as
 well as old economic problems, including,
 among others, the persistence of poverty
 and deprivation despite general economic
@@ -23,29 +23,29 @@ opportunities offered by modern science and
 technology, in line with our values and ends,
 is a powerful challenge today.
 I. Problems and Difficulties
-How are we to view the demands of ratio-
-nality in social decisions? How much guid-
-ance do we get from Aristotle's general
-recommendation that choice should be gov-
-erned by "desire and reasoning directed to
+How are we to view the demands of rationality
+in social decisions? How much guidance
+do we get from Aristotle's general
+recommendation that choice should be governed
+by "desire and reasoning directed to
 some end"? There are several deep-seated
 difficulties here.
 The first problem relates to the question:
-whose desires, whose ends? Different per-
-sons have disparate objects and interests,
+whose desires, whose ends? Different persons
+have disparate objects and interests,
 and as Horace put it, "there are as many
 preferences as there are people." Kenneth
-Arrow (1951) has shown, through his fa-
-mous "General Possibility Theorem" (an
+Arrow (1951) has shown, through his famous
+"General Possibility Theorem" (an
 oddly optimistic name for what is more
 commonly-and more revealingly-called
 Arrow's "impossibility theorem"), that in
-trying to obtain an integrated social prefer-
-ence from diverse individual preferences, it
+trying to obtain an integrated social preference
+from diverse individual preferences, it
 is not in general possible to satisfy even
 some mild-looking conditions that would
-seem to reflect elementary demands of rea-
-sonableness.1 Other impossibility results
+seem to reflect elementary demands of reasonableness.
+1 Other impossibility results
 have also emerged, even without using some
 of Arrow's conditions, but involving other
 elementary criteria, such as the priority of
@@ -53,7 +53,7 @@ individual liberty.2 We have to discuss why
 these difficulties arise, and how we can deal
 with them. Are the pessimistic conclusions
 that some have drawn from them justified?
-Can we sensibly make aggregative social-
-welfare judgments? Do procedures for so-
-cial decision-making exist that reasonably
+Can we sensibly make aggregative socialwelfare
+judgments? Do procedures for social
+decision-making exist that reasonably
 respect individual values and preferences?

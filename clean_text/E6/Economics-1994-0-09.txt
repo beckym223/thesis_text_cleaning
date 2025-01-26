@@ -17,25 +17,25 @@ decline in the R&D coefficient even without
 the computer industry.
 What is one to make of these conflicting
 stories? It seems that the observed decline
-in the R&D coefficients did not begin seri-
-ously until the latter half of the 1970's, with
+in the R&D coefficients did not begin seriously
+until the latter half of the 1970's, with
 the second oil-price shock and the rise in
 the dollar exchange rate. The abruptness of
 the decline argues against a "supply-side"
-explanation in terms of exhaustion of inven-
-tive opportunities. It is more likely that the
+explanation in terms of exhaustion of inventive
+opportunities. It is more likely that the
 peculiar aggregate shocks of that time went
-against R&D-intensive industries: first, be-
-cause they hit energy-intensive industries
+against R&D-intensive industries: first, because
+they hit energy-intensive industries
 such as chemicals and petroleum refining
-more severely; and second, because the sub-
-sequent rise in value of the dollar and the
+more severely; and second, because the subsequent
+rise in value of the dollar and the
 expansion in imports that followed hit some
-of the more high-tech R&D-intensive indus-
-tries even harder, leading to declines in
+of the more high-tech R&D-intensive industries
+even harder, leading to declines in
 "competitiveness," losses of rents, and the
-appearance of excess capacity. The subse-
-quent rise in the R&D coefficients (if it did
+appearance of excess capacity. The subsequent
+rise in the R&D coefficients (if it did
 in fact occur), the rise in corporate R&D
 investments through most of the 1980's, and
 the rise in patenting in, the late 1980's (as
@@ -43,8 +43,8 @@ we shall see), all argue against interpreting
 these coefficient movements as reflecting
 "real" declines in the once and future
 "potency" of R&D. What did happen,
-though, was a sharp widening of the differ-
-ential between social and private returns to
+though, was a sharp widening of the differential
+between social and private returns to
 R&D. The internationalization of R&D, the
 rise in the technical and entrepreneurial
 skills of our competitors, and the sharp rise
@@ -61,10 +61,10 @@ actually reflected in the appropriate price
 indexes, would show up as an increase in
 productivity, rather than a decline.
 Before accepting this inconclusive verdict,
-one still has to face the evidence of declin-
-ing patent-to-R&D ratios. Figure 4 plots
-domestic patent applications divided by to-
-tal company-financed R&D expenditures in
+one still has to face the evidence of declining
+patent-to-R&D ratios. Figure 4 plots
+domestic patent applications divided by total
+company-financed R&D expenditures in
 U.S. industry (in 1972 dollars) and by the
 total number of scientists and engineers in
 industry. Looking at the right half of this

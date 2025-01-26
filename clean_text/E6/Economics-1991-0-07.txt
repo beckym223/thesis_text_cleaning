@@ -9,82 +9,82 @@ of a good or service between two agents
 contingent on the state of the world that
 will obtain, Arrow (1953) made possible the
 immediate extension of the economic theory
-of certainty to an economic theory of uncer-
-tainty by a simple reinterpretation of the
-concept of a commodity. The theory of fi-
-nancial markets has been influenced by that
+of certainty to an economic theory of uncertainty
+by a simple reinterpretation of the
+concept of a commodity. The theory of financial
+markets has been influenced by that
 view of uncertainty, and their practice has
-not been unaffected. Finally, take the prob-
-lem of existence of a general equilibrium,
-once considered to be one of the most ab-
-stract questions of economic theory. The
+not been unaffected. Finally, take the problem
+of existence of a general equilibrium,
+once considered to be one of the most abstract
+questions of economic theory. The
 solutions that were proposed in the early
 1950's paved the way for the algorithms for
 the computation of equilibria of Herbert E.
-Scarf (1973) and for several of the develop-
-ments of applied general equilibrium analy-
-sis (Scarf and John B. Shoven, 1984). In this
+Scarf (1973) and for several of the developments
+of applied general equilibrium analysis
+(Scarf and John B. Shoven, 1984). In this
 case, abstraction in economic theory led to
 the study of fundamental problems of great
 generality, but also to a broad range of
 applications.
 III
-The list of advances that the mathemati-
-zation of economic theory helped or permit-
-ted is already long; and in one aspect it may
+The list of advances that the mathematization
+of economic theory helped or permitted
+is already long; and in one aspect it may
 appear lengthy. Ceteris paribus, one cannot
 prefer less to more rigor, lesser to greater
 generality, or complexity to simplicity; but
-other things are not equal, and in the esti-
-mate of many members of our Association
+other things are not equal, and in the estimate
+of many members of our Association
 the cost of that mathematization sometimes
 outweighs its benefit. Two of its presidential
 addresses notably confronted that difficult
-analysis and stressed the price that eco-
-nomics paid for its increased use of mathe-
-matics. Wassily Leontief's (1971) observa-
-tions were factual, and Robert A. Gordon's
+analysis and stressed the price that economics
+paid for its increased use of mathematics.
+Wassily Leontief's (1971) observations
+were factual, and Robert A. Gordon's
 (1976) comments relevant when they were
 made in 1970 and in 1975. They still are
-today, for, in spite of their authorities, en-
-hanced by the platform from which they
+today, for, in spite of their authorities, enhanced
+by the platform from which they
 were speaking, and in spite of the wide
 diffusion of their critiques, neither Leontief
-nor Gordon altered the course of the devel-
-opment they were assessing. In the past two
+nor Gordon altered the course of the development
+they were assessing. In the past two
 decades, economic theory has been carried
-away further by a seemingly irresistible cur-
-rent that can be explained only partly by the
-intellectual successes of its mathematiza-
-tion.
-Essential to an attempt at a fuller expla-
-nation are the values imprinted on an
+away further by a seemingly irresistible current
+that can be explained only partly by the
+intellectual successes of its mathematization.
+
+Essential to an attempt at a fuller explanation
+are the values imprinted on an
 economist by his study of mathematics.
 When a theorist who has been so typed
 judges his scholarly work, those values do
-not play a silent role; they may play a deci-
-sive role. The very choice of the questions
-to which he tries to find answers is influ-
-enced by his mathematical background.
+not play a silent role; they may play a decisive
+role. The very choice of the questions
+to which he tries to find answers is influenced
+by his mathematical background.
 Thus, the danger is ever present that the
 part of economics will become secondary, if
 not marginal, in that judgment.
-The reward system of our profession rein-
-forces the effects of that autocriticism. De-
-cisions that shape the career of an economic
+The reward system of our profession reinforces
+the effects of that autocriticism. Decisions
+that shape the career of an economic
 theorist are made by his peers. Whether
-they are referees of a journal or of a re-
-search organization, members of an ap-
-pointment or of a promotion committee,
+they are referees of a journal or of a research
+organization, members of an appointment
+or of a promotion committee,
 when they sit as judges in any capacity, their
 verdicts will not be independent of their
 own values. An economist who appears in
 their court rarely ignores his perception of
 those values. If he believes that they rate
 mathematical sophistication highly, and if
-he can prove that he is one of the sophisti-
-cates, the applause that he expects to re-
-ceive will condition his performance.
+he can prove that he is one of the sophisticates,
+the applause that he expects to receive
+will condition his performance.
 The same effects are also amplified by the
 relentless pressure to publish exerted by his
 environment. There are indeed instances of
@@ -97,6 +97,6 @@ molecular structure of DNA was announced
 by James Watson and Francis Crick (1953)
 in a one-page article. But it is easier to
 explain those examples away than to follow
-them. The environment of a scholar de-
-mands papers, and the temptation to supply
+them. The environment of a scholar demands
+papers, and the temptation to supply
 them without restraint may become over-

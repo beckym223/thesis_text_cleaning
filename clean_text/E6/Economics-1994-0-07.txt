@@ -12,8 +12,8 @@ R&D to total sales in 1974 is from Scherer (1984) for row 1; this ratio is updat
 total-factor-productivity growth revised downward for computers and upward for
 electronic components and drugs (computers = SIC 357).
 R&D in the 1980's (Michael Jensen, 1993)
-and the market's view of current R&D in-
-vestments (Bronwyn Hall and Robert Hall,
+and the market's view of current R&D investments
+(Bronwyn Hall and Robert Hall,
 1993; B. Hall, 1993).
 My own recent foray into this type of
 analysis of industry data at the three-digit
@@ -21,21 +21,21 @@ SIC level is summarized in Table 1.6 It
 reports estimates from regressions of growth
 rates in total factor productivity (TFP)
 on the rate of investment in R&D (the
-R&D-sales ratio), where the estimated co-
-efficient can be interpreted as the excess
+R&D-sales ratio), where the estimated coefficient
+can be interpreted as the excess
 gross rate of return to R&D (Griliches,
 1979). The earlier 1958-1973 period yields
 an estimate on the order of 0.33, while the
 estimate for the later 1973-1989 period even
 rises a bit, to 0.36. So far, so good! But
 when one excludes the outlier computer
-industry (see Fig. 2) the estimated coeffi-
-cient falls from 0.36 to 0.13 for 1973-1989
+industry (see Fig. 2) the estimated coefficient
+falls from 0.36 to 0.13 for 1973-1989
 and even lower for 1979-1989. Only one
 observation out of 143 does this!7
-These results raise a major data conun-
-drum: is it right to treat the computer in-
-Computers
+These results raise a major data conundrum:
+is it right to treat the computer inComputers
+
 o 0.10-
 0.0
 oE~~~~~+ +
@@ -49,12 +49,12 @@ FIGURE 2. TOTAL-FACTOR-PRODUCTIVITY GROWTH
 IN U.S. MANUFACTURING, THREE-DIGIT
 SIC LEVEL, 1978-1989
 dustry as an outlier and exclude it from
-such calculations just because the productiv-
-ity measure may be better there? It is quite
-possible that if other technologically ad-
-vanced industries (such as instruments,
-communications equipment, and pharma-
-ceuticals) had their price indexes adjusted
+such calculations just because the productivity
+measure may be better there? It is quite
+possible that if other technologically advanced
+industries (such as instruments,
+communications equipment, and pharmaceuticals)
+had their price indexes adjusted
 in a similar fashion, Figure 2 would look
 much better, with the computer industry not
 being as much of an outlier and with the
@@ -65,9 +65,9 @@ three such adjustments are made, but be-  6The total-factor-productivity numbers
 the National Bureau of Economic Research data base
 (Wayne Gray, 1992). The R&D numbers come from
 Scherer (1984), updated to 1984 using 2.5-digit-level
-information from National Science Foundation (1992).  'Updating the Griliches and Lichtenberg (1984) re-
-sults for 28 2.5-digit SIC industries and using a possibly
+information from National Science Foundation (1992).  'Updating the Griliches and Lichtenberg (1984) results
+for 28 2.5-digit SIC industries and using a possibly
 more appropriate R&D-by-product-field measure yields
-essentially similar results, as does a parallel computa-
-tion at the more aggregated two-digit SIC level using
+essentially similar results, as does a parallel computation
+at the more aggregated two-digit SIC level using
 unpublished Bureau of Labor' Statistics data on total  (five-factor) productivity.

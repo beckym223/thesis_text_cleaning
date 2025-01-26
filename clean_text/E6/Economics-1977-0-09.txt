@@ -1,7 +1,7 @@
 nificantly positive slope-but cannot readily
-account for changes in unemployment. Further-
-more, it cannot be reconciled with the well-
-known fact that rising unemployment is
+account for changes in unemployment. Furthermore,
+it cannot be reconciled with the wellknown
+fact that rising unemployment is
 accompanied by a fall, not by a rise in quits, nor
 with the role played by temporary layoffs to
 which Martin Feldstein has recently called
@@ -12,45 +12,45 @@ wages. adjusted for long-run productivity trend,
 should be significantly negatively correlated
 with cyclical changes in employment and output
 and with changes in money wages. But as early
-as 1938, John Dunlop showed that this conclu-
-sion was rejected by some eighty years of British
+as 1938, John Dunlop showed that this conclusion
+was rejected by some eighty years of British
 experience and his results have received some
 support in more recent tests of Ronald Bodkin
 for the United States and Canada. Similar tests
-of my own, using quarterly data, provide strik-
-ing confirmation that for the last two decades
+of my own, using quarterly data, provide striking
+confirmation that for the last two decades
 from the end of the Korean War until 1973, the
-association of trend adjusted real compensa-
-tions of the private nonfarm sector with either
-employment or the change in nominal compen-
-sation is prevailingly positive and very signifi-
-cantly so.'
+association of trend adjusted real compensations
+of the private nonfarm sector with either
+employment or the change in nominal compensation
+is prevailingly positive and very significantly
+so.'
 This evidence can, instead, be accounted for
 by the oligopolistic pricing model-according
-to which price is determined by long-run mini-
-mum average cost up to a mark-up reflecting
+to which price is determined by long-run minimum
+average cost up to a mark-up reflecting
 entry-preventing considerations (see the author,
-1958) coupled with some lags in the adjust-
-ment of prices to costs. This model implies that
-firms respond to a change in demand by endeav-
-oring to adjust output and employment, without
+1958) coupled with some lags in the adjustment
+of prices to costs. This model implies that
+firms respond to a change in demand by endeavoring
+to adjust output and employment, without
 significant changes in prices relative to wages;
 and the resulting changes in available jobs have
 their initial impact not on wages but rather on
 unemployment by way of layoffs and recalls and
 through changes in the level of vacancies, and
 hence on the length of average search time.
-If, in the process, vacancies rise above a criti-
-cal level, or "natural rate," firms will endeavor
+If, in the process, vacancies rise above a critical
+level, or "natural rate," firms will endeavor
 to reduce them by outbidding each other, thereby
 raising the rate of change of wages. Thus, as
 long as jobs and vacancies remain above, and
 unemployment remains below, some critical
-level which might be labeled the "noninflation-
-ary rate" (see the author and Lucas Papademos,
+level which might be labeled the "noninflationary
+rate" (see the author and Lucas Papademos,
 1975), wages and prices will tend to accelerate.
-If, on the other hand, jobs fall below, and unem-
-ployment rises above, the noninflationary rate,
+If, on the other hand, jobs fall below, and unemployment
+rises above, the noninflationary rate,
 firms finding that vacancies are less than optimal
 -in the limit the unemployed queuing outside
 the gate will fill them instantly will have an
@@ -58,28 +58,28 @@ incentive to reduce their relative wage offer. But
 in this case, in which too much labor is looking
 for too few jobs, the trend toward a sustained
 decline in the rate of growth of wages is likely
-to be even weaker than the corresponding accel-
-eration when too many jobs are bidding for too
-few people. The main reason is the nonhomo-
-geneity of labor. By far the largest and more
+to be even weaker than the corresponding acceleration
+when too many jobs are bidding for too
+few people. The main reason is the nonhomogeneity
+of labor. By far the largest and more
 valuable source of labor supply to a firm consists
 of those already employed who are not readily
 interchangeable with the unemployed and, in
-contrast with them, are concerned with protec-
-ting their earnings and not with reestablishing
+contrast with them, are concerned with protecting
+their earnings and not with reestablishing
 full employment. For these reasons, and because
 the first to quit are likely to be the best workers, a
 reduction of the labor force can, within limits, be
-accomplished more economically, not by re-
-ducing wages to generate enough quits, but by
+accomplished more economically, not by reducing
+wages to generate enough quits, but by
 firing or, when possible, by layoffs which insure
 access to a trained labor force when demand
 recovers. More generally, the inducement to
 'Thus, in a logarithmic regression of private nonfarm
 hourly compensation deflated by the private nonfarimi
 deflator on output per man-hour, time, and private nonfarm
-employment, after correcting for first-order serial correla-
-tion, the latter variable has a coefficient of . 17 and a t-ratio
+employment, after correcting for first-order serial correlation,
+the latter variable has a coefficient of . 17 and a t-ratio
 of 5. Similar though less significant results were found for
 manufacturing. If employment is replaced by the change in
 nominal compensation, its coefficient is .40 with a t-ratio of

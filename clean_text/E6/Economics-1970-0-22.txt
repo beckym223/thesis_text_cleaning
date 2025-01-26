@@ -1,9 +1,9 @@
 guesswork (I believe of a plausible kind),
 but it may be regarded as a fact that 13
 percent and 18 percent understate the
-average rate of progress-return by a sub-
-stantial margin and this will prove signifi-
-cant for the present analysis.
+average rate of progress-return by a substantial
+margin and this will prove significant
+for the present analysis.
 The second statement I consider to be
 reasonably safe is that the rates of return
 show some degree of downward tendency
@@ -11,52 +11,52 @@ in the long run (see here also Appendix B).
 The qualifications one might want to add
 to this statement are not sufficiently
 persuasive to arouse much suspicion in the
-diagnosis that such a tendency is observ-
-able, though I would not want to assert
+diagnosis that such a tendency is observable,
+though I would not want to assert
 that my figures give an accurate idea of
-the extent to which a downtrend has mani-
-fested itself. On what I defined as the re-
-duced cost-base this downward tendency
+the extent to which a downtrend has manifested
+itself. On what I defined as the reduced
+cost-base this downward tendency
 has been very mild, but it would not
 entirely disappear on any cost-base that to
 me seems reasonably chosen.
 The suggestion of a long-run downward
 tendency of the average rate of return is
-not misleading, because the long-run in-
-crease of the costs of progress-inputs has
-all along exceeded the rise of the produc-
-tivity-gains when both are expressed in
-relation to the same output-base. In par-
-ticular, the approximately constant up-
-trend of productivity during the post-war
-decades has been associated with increas-
-ing progress-costs even if we consider
+not misleading, because the long-run increase
+of the costs of progress-inputs has
+all along exceeded the rise of the productivity-
+gains when both are expressed in
+relation to the same output-base. In particular,
+the approximately constant uptrend
+of productivity during the post-war
+decades has been associated with increasing
+progress-costs even if we consider
 merely the costs of the privately financed
 progress-inputs. The second half of the
 present decade does not fit well into the
-pattern, but it is too early to try to inter-
-pret the record of the very recent infla-
-tionary years, not only because the rate of
-resource-utilization in the American econ-
-omy has risen suddenly but also because
+pattern, but it is too early to try to interpret
+the record of the very recent inflationary
+years, not only because the rate of
+resource-utilization in the American economy
+has risen suddenly but also because
 the rate of increase of the progress-inputs
 has been tapering off. This tapering off
-occurred partly because the rate of in-
-crease of space research tapered off and
+occurred partly because the rate of increase
+of space research tapered off and
 then space research reached a peak in 1966;
 and partly because even more recently
 there also took place anti-inflationary
-downward revisions of government pro-
-grams (which is not to say that the rate of
+downward revisions of government programs
+(which is not to say that the rate of
 increase of R & D might not have declined
 even aside from these circumstances).
 Consequently it is to early to ask whether
 in the mid-sixties the downward tendency
 of our benefit-cost ratios was or was not
-interrupted, but further productivity-
-increases would have to assume a very
-unlikely course to invalidate the conclu-
-sion that there did occur some degree of
+interrupted, but further productivityincreases
+would have to assume a very
+unlikely course to invalidate the conclusion
+that there did occur some degree of
 long-run decline, even with reasonable
 allowances for lags.
 We should note that the downward
@@ -74,8 +74,8 @@ for a small increase of our charge for the
 unrecorded costs.42
 42 I assumed a 2.8 percent rate of increase of factor
 productivity for the entire period 1948-66. This is in
-accordance with the Kendrick estimates when the favor-
-able productivity-effects of intersector (intergroup)
+accordance with the Kendrick estimates when the favorable
+productivity-effects of intersector (intergroup)
 shifts are included. On this basis there was no increase
 from 1948-57 to 1957-66. However, if the effect of these
 shifts is excluded, then from 1948-57 to 1957-66 a rise

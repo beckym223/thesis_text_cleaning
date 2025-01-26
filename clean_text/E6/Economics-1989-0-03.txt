@@ -1,22 +1,22 @@
 Four decades ago, in a brilliant review of
-Burns and Mitchell's classic work on busi-
-ness cycles, Tjalling Koopmans (1947)
+Burns and Mitchell's classic work on business
+cycles, Tjalling Koopmans (1947)
 sounded a warning against "Measurement
-Without Theory." Without theoretical hy-
-potheses and constructs to orient investiga-
-tion and interpret findings, economists risk
-the fate of the blind man studying the ele-
-phant.
-Recent excursions in vector autoregres-
-sions possibly aside, modem econometrics
+Without Theory." Without theoretical hypotheses
+and constructs to orient investigation
+and interpret findings, economists risk
+the fate of the blind man studying the elephant.
+
+Recent excursions in vector autoregressions
+possibly aside, modem econometrics
 has generally followed the path of specifying
 theoretical relations that make sense in terms
 of economic behavior and using empirical
 data of time-series or cross sections or both
 to estimate the parameters of those relations.
 A critical problem, only one surface of which
-is touched by Robert Lucas' famous "Cri-
-tique" (1976, 1981a), is that key arguments
+is touched by Robert Lucas' famous "Critique"
+(1976, 1981a), is that key arguments
 in most functions are expected values-or
 worse, probability distributions-of future
 variables. These are generally not observed
@@ -25,49 +25,49 @@ of current and past variables, for which we
 have data we can put into our computers,
 and making explicit or, more often, implicit
 assumptions about the relation between them
-and the relevant but unobservable expecta-
-tions.
+and the relevant but unobservable expectations.
+
 The frailties of all this have long been
-apparent in estimation of demand and sup-
-ply functions for individual commodities. We
+apparent in estimation of demand and supply
+functions for individual commodities. We
 cannot, after all, even be sure of confirming
 the "law of demand," that lower prices will
-increase quantities demanded. They proba-
-bly will not, if they are associated with
+increase quantities demanded. They probably
+will not, if they are associated with
 expectations of still lower prices in the
 future.
-Similar critical problems emerged in esti-
-mation of key relations in macroeconomics.
+Similar critical problems emerged in estimation
+of key relations in macroeconomics.
 Will an increase in the quantity of money
 reduce long-term interest rates? Not, we are
 told, if it generates an increased expectation
 of inflation or, perhaps, an expectation that
 the increase in money will be short-lived and
 be reversed in future action by the monetary
-authority. What, though, were the expecta-
-tions, with regard to inflation or future mon-
-etary operations, that generated the data used
+authority. What, though, were the expectations,
+with regard to inflation or future monetary
+operations, that generated the data used
 in estimating money demand functions? Can
 we be sure that these same expectational
 relations apply when we try to forecast the
 results of a proposed easing of monetary
-policy? And is the assumption that expecta-
-tions are "rational" of much help if they are
+policy? And is the assumption that expectations
+are "rational" of much help if they are
 frequently, as John M. Keynes argued, built
 on such uncertain knowledge as to be a
 fragile phenomenon of social interaction?
-The problem of bringing in critical expec-
-tational variables is brought front and center
+The problem of bringing in critical expectational
+variables is brought front and center
 in Franco Modigliani's life cycle (1954) and
 Milton Friedman's permanent income (1957)
 versions of Keynes' consumption function.
-Serious problems remain here in consider-
-able part because of our difficulties predict-
-ing agents' reactions to uncertainty regard-
-ing not only future income but expected
+Serious problems remain here in considerable
+part because of our difficulties predicting
+agents' reactions to uncertainty regarding
+not only future income but expected
 length of life. We thus lack two parameters
-defining the resources per unit of time avail-
-able for lifetime or permanent consump-
-tion.
-Difficulties are most excruciating with re-
-gard to investment, which is entirely forward
+defining the resources per unit of time available
+for lifetime or permanent consumption.
+
+Difficulties are most excruciating with regard
+to investment, which is entirely forward

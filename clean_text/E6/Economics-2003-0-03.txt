@@ -6,14 +6,14 @@ single, right way to carry these comparisons out.
 However it is done, we obtain a method for
 evaluating policies that has comprehensible units
 and is built up from individual preferences.
-There is a great tradition of quantitative pub-
-lic finance that applies this general framework
-using well-chosen Taylor expansions to calcu-
-late estimates of the compensation parameter A,
+There is a great tradition of quantitative public
+finance that applies this general framework
+using well-chosen Taylor expansions to calculate
+estimates of the compensation parameter A,
 "welfare triangles" as Arnold C. Harberger
-called them. Today we use numerical simula-
-tion of general-equilibrium models, often dy-
-namic and subject to unpredictable shocks, to
+called them. Today we use numerical simulation
+of general-equilibrium models, often dynamic
+and subject to unpredictable shocks, to
 carry out welfare analysis with the general logic
 that I have just sketched. Some examples will, I
 hope, convey the applicability of this approach
@@ -21,15 +21,15 @@ and some of the estimates that have emerged.
 Martin J. Bailey's (1956) thought-experiment
 of a perfectly predictable inflation at a constant
 rate, induced by sustained growth in the money
-supply, was a pioneering example of the quan-
-titative evaluation of policy. In a replication of
+supply, was a pioneering example of the quantitative
+evaluation of policy. In a replication of
 the Bailey study, I estimated the welfare gain
 from reducing the annual inflation rate from 10
 to 0 percent to be a perpetual consumption flow
 of 1 percent of income.1 Some economists take
 estimates like this to imply that inflation is a
-relatively modest problem, but 1 percent of in-
-come is a serious amount of money, and in any
+relatively modest problem, but 1 percent of income
+is a serious amount of money, and in any
 case, the gain depends on how much inflation
 there is. The gain from eliminating a 200-
 percent annual inflation-well within the range
@@ -37,20 +37,20 @@ of recent experience in several South American
 economies-is about 7 percent of income.
 The development of growth theory, in which
 the evolution of an economy over time is traced
-to its sources in consumer preferences, technol-
-ogy, and government policies, opened the way
-for extending general-equilibrium policy analy-
-sis to a much wider class of dynamic settings. In
-the 1980's, a number of economists used ver-
-sions of neoclassical growth theory to examine
+to its sources in consumer preferences, technology,
+and government policies, opened the way
+for extending general-equilibrium policy analysis
+to a much wider class of dynamic settings. In
+the 1980's, a number of economists used versions
+of neoclassical growth theory to examine
 the effects of taxation on the total stock of
 capital, not just the composition of that stock.2
 The models used in t
-ophe P. Chamley (1981), Law-
-details, but all were variations on a one-good
+ophe P. Chamley (1981), Lawdetails,
+but all were variations on a one-good
 growth model in which consumers (either an
-infinitely lived dynasty or a succession of gen-
-erations) maximize the utility of consumption
+infinitely lived dynasty or a succession of generations)
+maximize the utility of consumption
 and leisure over time, firms maximize profit,
 and markets are continuously cleared.
 In general, these studies found that reducing
@@ -59,14 +59,14 @@ level to zero (using other taxes to support an
 unchanged rate of government spending) would
 increase the balanced-growth capital stock by
 30 to 60 percent. With a capital share of around
-0.3, these numbers imply an increase of con-
-sumption along a balanced growth path of 7.5 to
+0.3, these numbers imply an increase of consumption
+along a balanced growth path of 7.5 to
 15 percent. Of course, reaching such a balanced
 path involves a period of high investment rates
 and low consumption. Taking these transition
 costs into account, overall welfare gains amount
-to perhaps 2 to 4 percent of annual consump-
-tion, in perpetuity.
+to perhaps 2 to 4 percent of annual consumption,
+in perpetuity.
 Production per adult in France is about 70
 percent of production per adult in the United
 States. Edward C. Prescott (2002) observes that
@@ -74,8 +74,8 @@ hours worked per adult in France, measured as
 a fraction of available hours, are also about 70
 percent of the comparable U.S. figure. Using
 estimates for France and the United States of the
-ratio (1 + Tr)/( - Th) that equals the mar-
-ginal rate of substitution between consumption
+ratio (1 + Tr)/( - Th) that equals the marginal
+rate of substitution between consumption
 and leisure in the neoclassical growth model, he
 shows that tax differences can account for the
 entire difference in hours worked and, amplified
@@ -83,9 +83,9 @@ by the indirect effect on capital accumulation,
 for the entire difference in production. The
 steady-state welfare gain to French households
 of adopting American tax rates on labor and
-consumption would be the equivalent of a con-
-sumption increase of about 20 percent. The con-
-clusion is not simply that if the French were to
+consumption would be the equivalent of a consumption
+increase of about 20 percent. The conclusion
+is not simply that if the French were to
 work American hours, they could produce as
 much as Americans do. It is that the utility
 consequences of doing so would be equivalent
@@ -93,4 +93,4 @@ to a 20-percent increase in consumption with no
 increase in work effort!
 The gain from reducing French taxes to U.S.
 levels can in part be viewed as the gain from
-adopting a flat tax 
+adopting a flat tax

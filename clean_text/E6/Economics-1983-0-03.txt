@@ -4,18 +4,18 @@ the works of such luminaries as Wicksell,
 Fisher, Robertson, and the early Keynes. But
 it was surely not recognized as a branch of
 economics in which one might specialize; nor
-was it regarded as necessary for the educa-
-tion of an economist. Thus, like almost ev-
-eryone else, I began professional life as a
+was it regarded as necessary for the education
+of an economist. Thus, like almost everyone
+else, I began professional life as a
 price-theorist. The principal alternative was
 to become an institutionalist; and that didn't
-particularly attract me. Only later, and some-
-what by accident, did I become a macro-
-economist.
-Ever since the emergence of macroeco-
-nomics as a distinct and (almost) respectable
-branch of analysis, there has been a con-
-scious tension between macroeconomics and
+particularly attract me. Only later, and somewhat
+by accident, did I become a macroeconomist.
+
+Ever since the emergence of macroeconomics
+as a distinct and (almost) respectable
+branch of analysis, there has been a conscious
+tension between macroeconomics and
 microeconomics; much of this tension relates
 to the roles and the behavior of prices and of
 the price level. Surely, it cannot be said that
@@ -24,21 +24,21 @@ changes, as is sometimes suggested. Milton
 Friedman and his monetarist associates and
 followers-who are macroeconomists of the
 first water-surely do not ignore prices. And
-the patron saint of my kind of macroeconom-
-ics, John Maynard Keynes, also certainly
+the patron saint of my kind of macroeconomics,
+John Maynard Keynes, also certainly
 paid a great deal of attention to both relative
 prices and the price level. My concern with
 prices here, however, is not with inflation,
-but rather with the price-theoretical founda-
-tions of macroeconomics. Essentially, I will
-be discussing some of the roles that micro-
-economists and macroeconomists see for
+but rather with the price-theoretical foundations
+of macroeconomics. Essentially, I will
+be discussing some of the roles that microeconomists
+and macroeconomists see for
 prices, and particularly for price changes.
 Price theory has moved a long way since I
-deserted it, and I no longer claim any exper-
-tise in this area. But I have the impression
-that many current problems both in micro-
-and macroeconomics tend to be the same
+deserted it, and I no longer claim any expertise
+in this area. But I have the impression
+that many current problems both in microand
+macroeconomics tend to be the same
 problems-looked at from opposite sides of
 the borderline between them. Thus I propose
 to lead us on a stroll along some sectors of
@@ -64,14 +64,14 @@ economic decisions.
 Some aspects of the problems that I will
 discuss are particularly important in an age
 of inflation, and to the theory of inflation.
-But I prefer to conduct most of my discus-
-sion without explicit reference to changes in
+But I prefer to conduct most of my discussion
+without explicit reference to changes in
 the general price level. For almost all of the
 matters that I will discuss primarily involve
 relative prices; and it is simpler to deal with
 them on the assumption of a constant price
-level. That way, I do not need to keep repeat-
-ing "real price."
+level. That way, I do not need to keep repeating
+"real price."
 I start with the prices and inventories of
 standardized commodities.
 I. Commodity Prices and Inventories

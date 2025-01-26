@@ -2,53 +2,53 @@ ceal the ephemeral substantive content of
 the argument behind the formidable front
 of algebraic signs.
 Professional journals have opened wide
-their pages to papers written in math-
-ematical language; colleges train aspiring
+their pages to papers written in mathematical
+language; colleges train aspiring
 young economists to use this language;
 graduate schools require its knowledge and
-reward its use. The mathematical model-
-building industry has grown into one of the
-most prestigious, possibly the most presti-
-gious branch of economics. Construction of
+reward its use. The mathematical modelbuilding
+industry has grown into one of the
+most prestigious, possibly the most prestigious
+branch of economics. Construction of
 a typical theoretical model can be handled
-now as a routine assembly job. All princi-
-pal components such as production func-
-tions, consumption and utility functions
+now as a routine assembly job. All principal
+components such as production functions,
+consumption and utility functions
 come in several standard types; so does
 the optional equipment as, for example,
 "factor augmentation"-to take care of
-technological change. This particular de-
-vice is, incidentally, available in a simple
-exponential design or with a special auto-
-matic regulator known as the "Kennedy
+technological change. This particular device
+is, incidentally, available in a simple
+exponential design or with a special automatic
+regulator known as the "Kennedy
 function." Any model can be modernized
 with the help of special attachments. One
 popular way to upgrade a simple one-sector
-model is to bring it out in a two-sector ver-
-sion or even in a still more impressive form
+model is to bring it out in a two-sector version
+or even in a still more impressive form
 of the "n-sector," that is, many-sector
 class.
 In the presentation of a new model,
 attention nowadays is usually centered on
 a step-by-step derivation of its formal
 properties. But if the author-or at least
-the referee who recommended the manu-
-script for publication-is technically com-
-petent, such mathematical manipulations,
-however long and intricate, can even with-
-out further checking be accepted as
+the referee who recommended the manuscript
+for publication-is technically competent,
+such mathematical manipulations,
+however long and intricate, can even without
+further checking be accepted as
 correct. Nevertheless, they are usually
 spelled out at great length. By the time it
 comes to interpretation of the substantive
 conclusions, the assumptions on which the
 model has been based are easily forgotten.
 But it is precisely the empirical validity
-of these assumrptions on which the useful-
-ness of the entire exercise depends.
+of these assumrptions on which the usefulness
+of the entire exercise depends.
 What is really needed, in most cases, is
 a very difficult and seldom very neat
-assessment and verification of these as-
-sumptions in terms of observed facts. Here
+assessment and verification of these assumptions
+in terms of observed facts. Here
 mathematics cannot help and because of
 this, the interest and enthusiasm of the
 model builder suddenly begins to flag:
@@ -73,8 +73,8 @@ president of the Econometric Society,
 " . . . the achievements of economic theory
 in the last two decades are both impressive
 and in many ways beautiful. But it cannot
-be denied that there is something scandal-
-ous in the spectacle of so many people
+be denied that there is something scandalous
+in the spectacle of so many people
 refining the analysis of economic states
 which they give no reason to suppose will
 ever, or have ever, come about.... It
@@ -87,8 +87,8 @@ is decidedly no. This work can be in
 general characterized as an attempt to
 compensate for the glaring weakness of
 the data base available to us by the widest
-possible use of more and more sophisti-
-cated statistical techniques. Alongside the
+possible use of more and more sophisticated
+statistical techniques. Alongside the
 mounting pile of elaborate theoretical
 models we see a fast-growing stock of
 equally intricate statistical tools. These

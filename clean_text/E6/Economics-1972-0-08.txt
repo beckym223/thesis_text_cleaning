@@ -1,15 +1,15 @@
 Walrasian equilibrium that allows for all
-the imperfections and frictions that ex-
-plain why the natural rate is bigger than
+the imperfections and frictions that explain
+why the natural rate is bigger than
 zero, ancl eveni less about the optimality
 of such an equilibriunm if it exists.
 In the new microeconomics of labor
-markets and inflatioin, the principal activ-
-ity whose marginal value sets the reserva-
-tion price of employment is job search.
-It is not pure leisure, for in principle per-
-sons who choose that option are not re-
-ported as unemployed; however, there may
+markets and inflatioin, the principal activity
+whose marginal value sets the reservation
+price of employment is job search.
+It is not pure leisure, for in principle persons
+who choose that option are not reported
+as unemployed; however, there may
 be a leisure component in job seeking.
 A crucial assumption of the theory is
 that search is significantly more efficient
@@ -22,8 +22,8 @@ abandoning not-in-labor-force status. We
 do not know how many quits and new hires
 in manufacturing are similar transfers, but
 some of them must be; if all reported
-accessions were hires of unemployed work-
-ers, the mean duration of unemployment
+accessions were hires of unemployed workers,
+the mean duration of unemployment
 would be only about half what it is in fact.
 In surveys of job mobility among blue
 collar workers in 1946-47 (see Lloyd
@@ -34,14 +34,14 @@ Reynolds found that the main obstacle
 to mobility without unemployment was
 not lack of information or time, but simply
 "anti-pirating" collusion by employers.
-A considerable amount of search activ-
-ity by unemployed workers appears to be
-an unpro(luctive consequence of dissatis-
-faction and frustration rather than a
+A considerable amount of search activity
+by unemployed workers appears to be
+an unpro(luctive consequence of dissatisfaction
+and frustration rather than a
 rational quest for improvement. This was
-the conclusion of Reynolds' survey twenty-
-five years ago, p. 215, and it has been re-
-emphasized for the contemporary scene by
+the conclusion of Reynolds' survey twentyfive
+years ago, p. 215, and it has been reemphasized
+for the contemporary scene by
 Robert Hall, and by Peter Doeringer and
 Michael Piore for what they term the
 secondary labor force. Reynolds found
@@ -51,23 +51,23 @@ job in only a third of the cases. Lining up a
 new job in advance was a more successful
 strategy: two-thirds of such changes
 turned out to be improvements. Today,
-according to the dual labor market hy-
-pothesis, the basic reason for frequent and
-long spells of unemployment in the secon-
-dary labor force is the shortage of good jobs.
+according to the dual labor market hypothesis,
+the basic reason for frequent and
+long spells of unemployment in the secondary
+labor force is the shortage of good jobs.
 In any event, the contention of some
 natural rate theorists is that employment
 beyond the natural rate takes time that
 would be better spent in search activity.
 Why do workers accept such employment?
-An answer to this question is a key ele-
-ment in a theory that generally presumes
-that actual behavior reveals true prefer-
-ences. The answer giveIn is that workers
+An answer to this question is a key element
+in a theory that generally presumes
+that actual behavior reveals true preferences.
+The answer giveIn is that workers
 accept the additional employment only
-because they are victims of inflation illu-
-sion. One form of inflation illusion is over-
-estimation of the real wages of jobs they
+because they are victims of inflation illusion.
+One form of inflation illusion is overestimation
+of the real wages of jobs they
 now hold, if they are employed, or of jobs
 they find, if they are unemployed and
 searching. If they did not under-estimate
@@ -82,11 +82,11 @@ the real value of an immediate job, but he
 also over-estimates the real values of jobs
 he might wait for. It is in the spirit of this
 theorizing to assume that money interest
-rates respond to the same correct or in-
-correct inflationary expectations. As a
+rates respond to the same correct or incorrect
+inflationary expectations. As a
 first approximation, inflation illusion has
-no substitution effect on the margin be-
-tween working and waiting.
+no substitution effect on the margin between
+working and waiting.
 It does have an income effect, causing
 workers to exaggerate their real wealth.
 In which direction the income effect

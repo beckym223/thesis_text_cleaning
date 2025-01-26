@@ -1,71 +1,71 @@
-principal exogenous, also called "realiza-
-tion," variables we chose:
+principal exogenous, also called "realization,
+" variables we chose:
 R1. The growth rate of real GNP, out to
-2010, in the absence of new environ-
-mental bounds on energy technolo-
-gies.
-R2. Capital cost levels of present and po-
-tential future energy technologies.
+2010, in the absence of new environmental
+bounds on energy technologies.
+
+R2. Capital cost levels of present and potential
+future energy technologies.
 R3. Availabilities of oil, gas, uranium, at
 various costs of extraction.
-R4. Long-run price and income elastici-
-ties of demand for end-use energy
+R4. Long-run price and income elasticities
+of demand for end-use energy
 forms.
-The "policy" variables represent the hypo-
-thetical bounds already described,
-P1. Moratoria on new nuclear construc-
-tion.
+The "policy" variables represent the hypothetical
+bounds already described,
+P1. Moratoria on new nuclear construction.
+
 P2. Limits placed on output of coal and
 shale oil.
-Forming a third category, the "blend" vari-
-ables have traits of both realization and
+Forming a third category, the "blend" variables
+have traits of both realization and
 policy variables,
 Bi. Discount rates applied to future
 benefits and costs.
 B2. Oil import price or quantity ceilings.
 The method applied was to compare the
 already specified projection of a rising future
-GNP in which no bounds have been im-
-posed on the use of energy technologies (the
+GNP in which no bounds have been imposed
+on the use of energy technologies (the
 base case), with other projections in which
 such a bound or bounds were imposed. This
 procedure was carried out for each of three
 long-run models of the U.S. energy sector.
 The numerical inputs into the three models
 were the same for almost all realization and
-blend variables, except for the price and in-
-come elasticities of demand, which were
+blend variables, except for the price and income
+elasticities of demand, which were
 specific to each model. Two ideas central to
 current economic analysis entered into this
-procedure. One is the use of an optimiza-
-tion algorithm to simulate the behavior of a
+procedure. One is the use of an optimization
+algorithm to simulate the behavior of a
 competitive market economy, in any one
 year, and through time. The other is the use
-of long-run elasticities of demand. For de-
-mand by end-use consumers, these are to be
-based on econometric analysis of time-
-series and/or cross sections of income,
-prices, and quantities consumed. For in-
-dustrial demand, a process analysis of al-
-ternative industrial energy-using processes
+of long-run elasticities of demand. For demand
+by end-use consumers, these are to be
+based on econometric analysis of timeseries
+and/or cross sections of income,
+prices, and quantities consumed. For industrial
+demand, a process analysis of alternative
+industrial energy-using processes
 may add valuable information.
-The principal finding was the propor-
-tionally small effect on GNP of sizable cuts
+The principal finding was the proportionally
+small effect on GNP of sizable cuts
 in energy use below its base case growth
 path. In interpreting this finding, note that
-the optimization procedure implies an as-
-sumption whereby the economy responds to
+the optimization procedure implies an assumption
+whereby the economy responds to
 anticipated changes by minimizing the cost
-of adaptation. The principal means of adap-
-tation are changes in the type and composi-
-tion of the capital equipment for the ex-
-traction, conversion, transport, and use of
-energy-at the regular time for replace-
-ment or earlier.
+of adaptation. The principal means of adaptation
+are changes in the type and composition
+of the capital equipment for the extraction,
+conversion, transport, and use of
+energy-at the regular time for replacement
+or earlier.
 Table 2 shows the numerical results. For
 two models, with price elasticities of -.25
-and -.4, respectively, policies entailing per-
-centage cuts in energy use out of the base
+and -.4, respectively, policies entailing percentage
+cuts in energy use out of the base
 case that gradually increase to between 10
 and 20 percent in the year 2010, were found
 to cut not more than 2 percent out of the
@@ -74,11 +74,11 @@ discounted sum of annual real GNP, 1975-
 out of GNP for the single year 2010. The
 instruments of the curtailment of growth in
 energy use were, in row (1) of the table, the
-placement of bounds on specific energy sup-
-ply technologies described above. In row
+placement of bounds on specific energy supply
+technologies described above. In row
 (2), a zero-energy-growth path is simulated
-by the imposition of a hypothetical "con-
-servation tax" on primary energy flows. The
+by the imposition of a hypothetical "conservation
+tax" on primary energy flows. The
 rate of this fictitious tax must increase as
 the GNP continues to grow in spite of the
 downward pull from the zero-energy-growth

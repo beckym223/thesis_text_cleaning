@@ -1,80 +1,80 @@
 sought to maintain employment that was any
 lower would result in permanently decreasing
-inflation. Fiscal/monetary mixes that yield dif-
-ferent levels of long-term (steady) inflation will
+inflation. Fiscal/monetary mixes that yield different
+levels of long-term (steady) inflation will
 thus be neutral in their effects on long-term
 unemployment.
 D. Rational Expectations
 According to Rational Expectations Theory,
 a systematic response of monetary policy to the
-business cycle will have no effect on the stabil-
-ity of the macroeconomy.10 Wage and price
+business cycle will have no effect on the stability
+of the macroeconomy.10 Wage and price
 setters will foresee the systematic component of
 the money supply; they will raise or lower
 prices and wages exactly proportionally, and
 thereby neutralize its effect on demand.
 The stability of the economy is thus neutral
-with respect to the systematic reaction of mon-
-etary policy to the business cycle.
+with respect to the systematic reaction of monetary
+policy to the business cycle.
 E. Ricardian Equivalence
 According to Ricardian Equivalence, under
 somewhat special conditions, a representative
-consumer who receives a lump-sum intergen-
-erational transfer (for example, in the form of a
+consumer who receives a lump-sum intergenerational
+transfer (for example, in the form of a
 social security payment) will not spend a single
 dime extra." Instead, she will pass on the whole
 extra income, dollar-for-dollar, to her heirs,
-who will have to pay the higher tax bills nec-
-essary to retire the increased debt incurred in
+who will have to pay the higher tax bills necessary
+to retire the increased debt incurred in
 funding the transfer to the previous generation.
 The transfer is neutral in its effect on current
 consumption.
 III. The Missing Motivation: Norms'2
-Each of the neutralities is based on the as-
-sumption that the respective decision makers
+Each of the neutralities is based on the assumption
+that the respective decision makers
 are utility maximizers. But in each case the
 utility functions of the decision makers have  been very narrowly described. They depend
 only on real outcomes. For example, in the
 consumption-neutrality models, utility depends
-on consumption and leisure; in Modigliani-
-Miller, it depends only on the discounted real
+on consumption and leisure; in ModiglianiMiller,
+it depends only on the discounted real
 return to shareholders.
 But as early as the beginning of the twentieth
 century, Vilfredo Pareto pointed out that such
-characterizations of utility missed important as-
-pects of motivation.13 According to Pareto, peo-
-ple typically have opinions as to how they
+characterizations of utility missed important aspects
+of motivation.13 According to Pareto, people
+typically have opinions as to how they
 should, or how they should not, behave. They
 also have views regarding how others should, or
 should not, behave. Such views are called
 norms, and they may be individual14 as well as
-social. The role of norms can be easily repre-
-sented in people's preferences by modifying the
-utility function to include losses in utility inso-
-far as they, or others, fail to live up to their  standards.
+social. The role of norms can be easily represented
+in people's preferences by modifying the
+utility function to include losses in utility insofar
+as they, or others, fail to live up to their  standards.
 Sociology has a further concept that gives an
 easy and natural way to add those norms to the
 utility function. Sociologists say that people
 have an ideal for how they should or should not
-behave. Furthermore, that ideal is often concep-
-tualized in terms of the behavior of someone
+behave. Furthermore, that ideal is often conceptualized
+in terms of the behavior of someone
 they know, or some exemplar whom they do not
-know. The standard utility function is then mod-
-ified by adding a loss in utility, dependent on
+know. The standard utility function is then modified
+by adding a loss in utility, dependent on
 the distance of behavior from that ideal.
 Religion and religious identity give us a good
 example of such norms. Consider the Gospels.
 They are the most sacred texts of Christianity.
 What do they describe? The life of Christ. How
-should a Christian behave? "His life and con-
-versation ought to be worthy of the Gospel of
+should a Christian behave? "His life and conversation
+ought to be worthy of the Gospel of
 Christ [emphasis added]."'" How is a good
 Christian supposed to feel when she has not
 lived up to her conception of that ideal?  Ashamed.16
-10 See Lucas (1972), Thomas J. Sargent (1973), and  Lucas and Sargent (1979).  11 See Robert J. Barro (1974) for the modem reincarna-
-tion of these ideas, first discovered by Ricardo.  12 This section, including much of its exact wording, has
+10 See Lucas (1972), Thomas J. Sargent (1973), and  Lucas and Sargent (1979).  11 See Robert J. Barro (1974) for the modem reincarnation
+of these ideas, first discovered by Ricardo.  12 This section, including much of its exact wording, has
 been taken from a joint manuscript with Rachel Kranton  (Akerlof and Kranton 2006). I should emphasize that these  insights have been developed jointly. The initial instigation  of our project is wholly due to Kranton. It is impossible for  me to say which ideas or wordings are mine and which are
 hers. 13 See Pareto (1920). George C. Homans and Charles P.
 Curtis (1934) give an excellent summary of Pareto that is  fully consistent with the emphasis here. Jon Elster (1989)  also presents a similar conception of norms.  14 For example, the protagonist of the novel Rice Mother  (Rani Manicka 2002) did not believe she should wear red  with black.
-15 See http://www.orthodoxytoday.org/articles/StBasil-
-Behavior.php.  16 Of course, there are many interpretations of the Gos-  pel, and some of them are even contradictory. But that does  not affect whether the person should be ashamed or not. She
+15 See http://www.orthodoxytoday.org/articles/StBasilBehavior.
+php.  16 Of course, there are many interpretations of the Gos-  pel, and some of them are even contradictory. But that does  not affect whether the person should be ashamed or not. She

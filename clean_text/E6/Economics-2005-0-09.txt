@@ -35,16 +35,16 @@ could occur if there is no change in benefit
 rules. Deadweight losses depend on marginal
 tax rates. Consider an individual who now faces
 a combined federal and state marginal rate of
-income tax of 30 percent without social insur-
-ance. The current 15.3 percent employer-
-employee payroll tax rate,6 when adjusted for  the interaction with the income tax7 and for the  present actuarial value of the additional retiree
+income tax of 30 percent without social insurance.
+The current 15.3 percent employeremployee
+payroll tax rate,6 when adjusted for  the interaction with the income tax7 and for the  present actuarial value of the additional retiree
 and survivor benefits that result from increased
-taxable earnings, now increases the overall mar-
-ginal tax rate from 30 percent to about 37.7
+taxable earnings, now increases the overall marginal
+tax rate from 30 percent to about 37.7
 percent.8 A 50-percent rise in the 15.3 percent
 marginal tax rate, adjusted for the income tax
-interaction, would increase this effective mar-
-ginal tax rate from 37.7 percent to 44.2
+interaction, would increase this effective marginal
+tax rate from 37.7 percent to 44.2
 percent.9
 The increase in the deadweight loss that
 would result from this tax increase reflects both
@@ -54,18 +54,18 @@ accumulation of human capital, the choice of
 occupation, effort, etc., and the change in the
 form of compensation-away from taxable cash
 and to less valuable fringe benefits. Although
-neither behavioral change can be measured ex-
-plicitly, the resulting deadweight loss can be
+neither behavioral change can be measured explicitly,
+the resulting deadweight loss can be
 calculated empirically by estimating the extent
 to which the higher payroll tax would reduce
 taxable labor income. It is appropriate to focus
 on the decline in taxable labor income without
 evaluating the two separate effects because the
-relative price of the two components-the mar-
-ginal tax rate on the reward for increased labor
+relative price of the two components-the marginal
+tax rate on the reward for increased labor
 supply and the marginal tax rate that determines
-the net cost to the taxpayer of fringe benefits-
-remains the same when the tax rate changes.
+the net cost to the taxpayer of fringe benefitsremains
+the same when the tax rate changes.
 Taxable labor income is, therefore, a Hicksian
 composite good that can be used to assess the
 deadweight loss (Feldstein, 1999a).10

@@ -1,11 +1,11 @@
 same is not so readily apparent for the period
-1953 to 1958. But, in any event, such extenu-
-ating circumstances are quite irrelevant to my
+1953 to 1958. But, in any event, such extenuating
+circumstances are quite irrelevant to my
 point; for I am not suggesting that the stability of
-money was the major cause of economic insta-
-bility-or at any rate, not yet! All I am arguing is
-that (i) there is no basis for the monetarists' sug-
-gestion that our postwar instability can be traced
+money was the major cause of economic instability-
+or at any rate, not yet! All I am arguing is
+that (i) there is no basis for the monetarists' suggestion
+that our postwar instability can be traced
 to monetary instability-our most unstable
 periods have coincided with periods of relative
 monetary stability; and (ii) stability of the
@@ -37,34 +37,34 @@ Stabilization Policies
 But even granted that a smooth money supply
 will not produce a very stable world and that
 there is therefore room for stabilization policies,
-monetarists will still argue that we should none-
-theless eschew such policies. They claim, first,
+monetarists will still argue that we should nonetheless
+eschew such policies. They claim, first,
 that allowing for unpredictably variable lags and
 unforseeable future shocks, we do not know
 enough to successfully design stabilization
 policies, and second, that the government would
 surely be incapable of choosing the appropriate
 policies or be politically willing to provide
-timely enforcement. Thus, in practice, stabili-
-zation policies will result in destabilizing the
+timely enforcement. Thus, in practice, stabilization
+policies will result in destabilizing the
 economy much of the time.
 This view is supported by two arguments, one
 logical and one empirical. The logical argument
 is the one developed in Friedman's Presidential
 Address (1968). An attempt at stabilizing the
-economy at full employment is bound to be de-
-stabilizing because the full employment or
+economy at full employment is bound to be destabilizing
+because the full employment or
 natural rate is not known with certainty and is
 subject to shifts in time; and if we aim for the
-incorrect rate, the result must perforce be explo-
-sive inflation or deflation. By contrast, with a
+incorrect rate, the result must perforce be explosive
+inflation or deflation. By contrast, with a
 constant money supply policy, the economy will
 automatically hunt for, and eventually discover,
 that shifty natural rate, wherever it may be
 hiding.
 This argument, I submit, is nothing but a
-debating ploy. It rests on the preposterous as-
-sumption that the only alternative to a constant
+debating ploy. It rests on the preposterous assumption
+that the only alternative to a constant
 money growth is the pursuit of a very precise
 unemployment target which will be adhered to
 indefinitely no matter what, and that if the target
@@ -85,8 +85,8 @@ with monetarists in strenuous opposition to
 recent proposals for a target unemployment rate
 rigidly fixed by statute (although there is nothing
 wrong with Congress committing itself and the
-country to work toward the eventual achieve-
-ment of some target unemployment rate through
+country to work toward the eventual achievement
+of some target unemployment rate through
 structural changes rather than aggregate demand
 policies).
 Clearly, even the continuous updating of

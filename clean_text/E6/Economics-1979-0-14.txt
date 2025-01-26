@@ -1,12 +1,12 @@
-mented. How do we keep track of the con-
-tradictions and confirmations? How do we
+mented. How do we keep track of the contradictions
+and confirmations? How do we
 keep the score of surviving hypotheses?
 And what are we doing in those directions?
-The same questions have been raised be-
-fore, among others by my predecessors,
-Wassily Leontief and Robert Aaron Gor-
-don, and good and bad examples of con-
-cern and unconcern were referred to by
+The same questions have been raised before,
+among others by my predecessors,
+Wassily Leontief and Robert Aaron Gordon,
+and good and bad examples of concern
+and unconcern were referred to by
 both of them. Meanwhile, unresolved issues,
 sometimes important ones from the policy
 point of view, and mostly quantitative ones,
@@ -22,14 +22,14 @@ Texts in econometrics teach with great care
 how to test assumptions and to estimate
 parameters, duly emphasizing the crucial
 role of the models. What is also needed is
-to teach the tested and confirmed state-
-ments.
+to teach the tested and confirmed statements.
+
 VII. Aphorisms on Interactions
 After all I have said about the need for
-empirical validation, I owe you a brief re-
-port on my own casual-empirical sample
-study of the difficulties of interaction be-
-tween scientists, engineers, and economists,
+empirical validation, I owe you a brief report
+on my own casual-empirical sample
+study of the difficulties of interaction between
+scientists, engineers, and economists,
 as seen by participants in joint studies.
 Rather than classifying and tabulating the
 views expressed, I shall let the respondents
@@ -37,8 +37,8 @@ speak for themselves. The following is a
 selection (by me) of statements, drawn from
 my notes, that carried the most punch.
 A physical scientist: "Economists are
-technological radicals. They assume every-
-thing can be done."
+technological radicals. They assume everything
+can be done."
 A geologist: "Economists have been
 too enthusiastic about deep sea mining.
 They think there is more than there is, that
@@ -46,8 +46,8 @@ it is easier to get up than it is, and easier to
 process than it is."
 A development economist: "Scientists
 think big. Economists are marginalists.
-Scientists don't think in terms of oppor-
-tunity cost."
+Scientists don't think in terms of opportunity
+cost."
 An engineer: "Economics is not dismal
 but incomplete. The things missed are very
 important."'
@@ -61,32 +61,32 @@ see only chaos."
 An engineer: "The economic motive is
 overrated."
 A psychologist: "All the conclusions
-that are drawn from the assumption of ra-
-tionality can also be drawn from assump-
-tions of adaptive behavior."
+that are drawn from the assumption of rationality
+can also be drawn from assumptions
+of adaptive behavior."
 A life scientist: "Economists have great
 skill in handling data. However, they tend
 to ask only for data, not for concepts and
-ideas. Drawing up a model is an inter-
-disciplinary task."
+ideas. Drawing up a model is an interdisciplinary
+task."
 An engineer: "Economists often use
 smooth production functions even when
 engineers might be reluctant to do so."
 A life scientist: "Many scientists do not
 understand discounting."
-An engineer: "Economics is the Ther-
-modynarnics of the Social Sciences. Every-
-thing is deduced from a few simple postu-
-lates without the necessity for knowing
+An engineer: "Economics is the Thermodynarnics
+of the Social Sciences. Everything
+is deduced from a few simple postulates
+without the necessity for knowing
 detailed mechanisms."
 VIII. Final Remarks
 After this instructive intermezzo, allow
 me a few final words. I will not be able to
 match the brevity and incisiveness we just
-savored. However, I do look on the col-
-laboration of the diverse professions in-
-volved in the newly discovered joint prob-
-lems as an important development. To
+savored. However, I do look on the collaboration
+of the diverse professions involved
+in the newly discovered joint problems
+as an important development. To
 economists it is a new challenge and a new
 frontier. Among the problems themselves
 are some of great importance, nationally
@@ -94,6 +94,6 @@ and internationally. They deserve the best
 effort and talent that can be brought to
 bear, within and across the disciplines.
 An important talent requiring cultivation
-is skill in communication between dis-
-lThe reference is to the need to fit environmental
+is skill in communication between dislThe
+reference is to the need to fit environmental
 protection into economic analysis.

@@ -1,28 +1,28 @@
-regression the only statistically significant co-
-efficient is for question 10 for health econo-
-mists. Other things being equal, those who
+regression the only statistically significant coefficient
+is for question 10 for health economists.
+Other things being equal, those who
 agree with the induced-demand hypothesis are
 more supportive of national health insurance
 than those who disagree, but the effect on the
 index (0.239) is less than changing one of the
-four answers from disagree to agree. The ac-
-tuarial model regressions result in a few ad-
-ditional significant coefficients but, in general,
+four answers from disagree to agree. The actuarial
+model regressions result in a few additional
+significant coefficients but, in general,
 the respondents' replies to the explicit positive
-questions do not explain their position with re-
-spect to such major policy issues as national
-health insurance or insurance company under-
-writing changes. It seems unlikely, then, that
-their position on these policy issues can be ex-
-plained by differences in the embedded posi-
-tive questions.
+questions do not explain their position with respect
+to such major policy issues as national
+health insurance or insurance company underwriting
+changes. It seems unlikely, then, that
+their position on these policy issues can be explained
+by differences in the embedded positive
+questions.
 Although I believe that differences in values
 lie at the heart of the disagreement about
 policy-value questions, I recognize that there
 is scope for work on the embedded positive
 questions and this work could contribute to a
-narrowing of policy differences. One indica-
-tion of where research is needed is the percent
+narrowing of policy differences. One indication
+of where research is needed is the percent
 of health economists answering "no opinion"
 on the individual policy-value questions. This
 option was chosen most frequently (35 percent
@@ -32,13 +32,13 @@ Given the importance of technologic change
 in medicine both from the point of view of
 health outcomes and of expenditures, this is
 clearly a high-priority area for research. Two
-other questions elicited a "no opinion" re-
-sponse from one fifth of the health economists.
+other questions elicited a "no opinion" response
+from one fifth of the health economists.
 They are question 1 concerning the subsidies
 for health insurance by size of firm (a key part
 of the Clinton plan) and question 20 (about
 differential premiums for persons born with
-genetic defects). In the latter case the high per-
-centage responding "no opinion" may reflect
+genetic defects). In the latter case the high percentage
+responding "no opinion" may reflect
 uncertainty regarding the magnitudes of the
 efficiency and distributional implications of

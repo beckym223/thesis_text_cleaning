@@ -3,8 +3,8 @@ more or less continuous decline with a small,
 but possibly significant, turnaround in the
 late 1980's. Similar trends can be seen also
 in other countries, even in Japan (Evenson,
-1991). But before one takes this as an indi-
-cator of our recent problems, one should
+1991). But before one takes this as an indicator
+of our recent problems, one should
 glance also at the left side of this figure,
 which goes back to the early 1920's. How
 long has this been going on? This ratio
@@ -15,13 +15,13 @@ worry earlier, why should one worry about it
 now?9
 III. Patents: A Shrinking Yardstick?
 To decide whether we should be worried
-by what is happening with the patent num-
-bers we need to know what they measure.
+by what is happening with the patent numbers
+we need to know what they measure.
 Since I have discussed this at some length
 elsewhere (Griliches, 1990), I will make only
 two points here. First, the interpretation of
-Figure 4 need not be pessimistic. Its mes-
-sage may not be what meets the eye. And,
+Figure 4 need not be pessimistic. Its message
+may not be what meets the eye. And,
 second, the meaning of both the numerator
 and the denominators of the ratios plotted
 in Figure 4 may have changed significantly
@@ -31,41 +31,41 @@ invention, and if the value of an invention is
 proportional to the size of its market (or
 economy), then the fact that their total
 numbers remained roughly constant over
-long time periods is consistent with nonde-
-clining growth rates of output and overall
+long time periods is consistent with nondeclining
+growth rates of output and overall
 productivity.10 If inventions are "produced"
 by a combination of current R&D and the
 existing state of knowledge (incorporating
 the accumulated effects of science and
-spillovers from the previous research activi-
-ties of others), and if R&D is invested ap-
-proximately "optimally," then under rea-
-sonable assumptions, a rise (or fall) in the
+spillovers from the previous research activities
+of others), and if R&D is invested approximately
+"optimally," then under reasonable
+assumptions, a rise (or fall) in the
 underlying knowledge stock will affect them
 both in parallel fashion and will leave their
 ratio unchanged.1" There will be, therefore,
 no evidence in this ratio on the underlying
-state of the "stock of knowledge." More-
-over, it will be declining with growth in the
+state of the "stock of knowledge." Moreover,
+it will be declining with growth in the
 size of the market, since a rise in the value
-of inventions will push R&D up until pres-
-ent costs equal again the present value of
+of inventions will push R&D up until present
+costs equal again the present value of
 future (private) returns.
 The rate of growth of domestic patents
 was close to zero during the last three
-decades. That by itself should not be worri-
-some. If their average value had been grow-
-ing at the same rate as the economy as a
+decades. That by itself should not be worrisome.
+If their average value had been growing
+at the same rate as the economy as a
 whole, there would be no reason for us to
 worry about it. But there were long periods
 when the actual numbers were worse than
-that. During 1965-1985 the number of do-
-mestic patent applications declined by - 0.6
+that. During 1965-1985 the number of domestic
+patent applications declined by - 0.6
 percent per year while company-financed
-R&D expenditures were growing by 4.8 per-
-cent per year, in constant prices. But a
-negative growth rate in the number of in-
-ventions and a positive one in R&D are
+R&D expenditures were growing by 4.8 percent
+per year, in constant prices. But a
+negative growth rate in the number of inventions
+and a positive one in R&D are
 inconsistent with an unchanging inventions
 production function, unless the overall pool
 of available knowledge is declining, or more

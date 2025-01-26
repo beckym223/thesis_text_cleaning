@@ -4,15 +4,15 @@ regarding nominal wages may affect bargained
 real wages, and therefore cause trade-offs between
 long-run inflation and long-run unemployment.
 Similarly, customers' norms regarding price levels
-and price changes may also cause long-run trade-
-offs between output and inflation.
+and price changes may also cause long-run tradeoffs
+between output and inflation.
 Indeed, models by Katsuhito Iwai (1981),
-Julio J. Rotemberg (1982), and Andrew S. Cap-
-lin and John Leahy (1991) all have long-run
+Julio J. Rotemberg (1982), and Andrew S. Caplin
+and John Leahy (1991) all have long-run
 trade-offs between inflation and unemployment.  Each of these models assumes that there are real
 costs to nominal price changes. If, instead, there
-were real costs to real price changes, the as-
-sumptions of natural rate theory would still be
+were real costs to real price changes, the assumptions
+of natural rate theory would still be
 satisfied, and no such trade-off would occur.
 These models then pose the question why there
 should be such real costs from nominal price
@@ -21,68 +21,68 @@ Leahy all respectively assume that there is a
 "menu" cost in making these changes known.80
 But the physical costs of making such changes,
 as in the printing of new menus, are trivially
-small. Norms regarding price changes, how-
-ever, give an alternative reason why these costs
+small. Norms regarding price changes, however,
+give an alternative reason why these costs
 might--indeed-be of sufficient size to induce
-a significant long-run trade-off between infla-
-tion and unemployment. Customers may think
+a significant long-run trade-off between inflation
+and unemployment. Customers may think
 that firms should not raise prices. In that case,
 price increases (or increases of greater size) are
 likely to induce angry customers to search for
-alternative suppliers. At higher steady-state in-
-flation, firms will be changing their nominal
+alternative suppliers. At higher steady-state inflation,
+firms will be changing their nominal
 prices more, and therefore will face more elastic
 demands for their product. Producers' natural
-microeconomic response to this increased elas-
-ticity-a lower price for their product-will
-produce a macroeconomic trade-off between in-
-flation and aggregate demand.
+microeconomic response to this increased elasticity-
+a lower price for their product-will
+produce a macroeconomic trade-off between inflation
+and aggregate demand.
 Just as sticky money wages indicated that
 employees have norms regarding wage change,
 similarly, sticky prices indicate that customers
 have norms regarding price change. Thus, the  extensive evidence on price stickiness reveals
-violation of the assumptions of natural rate the-
-ory, and also the existence of norms regarding
+violation of the assumptions of natural rate theory,
+and also the existence of norms regarding
 price change. Like wage changes, price changes
 also agglomerate at zero. Dennis Carlton (1986)
-has shown that prices are often sticky for sig-
-nificant periods of time.81 Furthermore, prices
-seem to be especially sticky in customer mar-
-kets.82 Alan Kackmeister (2002) has compared
-price changes at the end of the nineteenth cen-
-tury to such changes a bit more than a century
+has shown that prices are often sticky for significant
+periods of time.81 Furthermore, prices
+seem to be especially sticky in customer markets.
+82 Alan Kackmeister (2002) has compared
+price changes at the end of the nineteenth century
+to such changes a bit more than a century
 later. Price changes of specific goods at retail
-stores were recorded from June 1889 to Sep-
-tember 1891; Kackmeister revisited the same
-commodities and their price change for a com-
-parable period, from June 1997 to September
+stores were recorded from June 1889 to September
+1891; Kackmeister revisited the same
+commodities and their price change for a comparable
+period, from June 1997 to September
 1999. Price change in the late twentieth century
 was five times more frequent than a century
 earlier. Furthermore, in the nineteenth century,
-the average spell of constant price for an indi-
-vidual good was very long. It was approxi-
-mately 80 months.83 Such constancy of prices
-can easily be explained by customer norms re-
-garding price change. The customers have a
+the average spell of constant price for an individual
+good was very long. It was approximately
+80 months.83 Such constancy of prices
+can easily be explained by customer norms regarding
+price change. The customers have a
 notion of the price that they ought to pay at
 stores where they are continued and knowing
-customers. Kackmeister suggests that the de-
-cline in long-term customer relationships is one
+customers. Kackmeister suggests that the decline
+in long-term customer relationships is one
 factor responsible for greater frequency of price
 change today.
 Emi Nakamura and J6n Steinsson (2005)
 give an economic reason why customers would
 have such a norm that firms should not change
-prices. They view consumer purchases as habit-
-forming. Thus, by buying a particular brand, or
+prices. They view consumer purchases as habitforming.
+Thus, by buying a particular brand, or
 patronizing a particular store, consumers are
 putting themselves in a position where they can
 be exploited. Their loyalty puts the firm in a
 have notions regarding what nominal wage increases should  or should not be. This, of course, is just one of many
 anomalies in the form of indexed contracts.
 80oMarika Karanassou, Hector Sala, and Dennis J.  Snower (2003) find considerable long-run trade-off between  inflation and unemployment in a model with nominal price  staggering and money growth.  81 See also Blinder and Don Choi (1990) and Blinder et
-al. (1998).  82 The meaning of customer markets was especially ex-
-plored by Arthur Okun (1978).  83 derive this result from Kackmeister's data in the
+al. (1998).  82 The meaning of customer markets was especially explored
+by Arthur Okun (1978).  83 derive this result from Kackmeister's data in the
 following way. He finds that in the nineteenth century, only  5 percent of items changed their prices per month. This  means that the average spell of constant prices would have  been 20 months (the inverse). But that is a biased statistic
 for the average length of time between price changes for an  item on the shelf. The difference between the average spell  of employment or unemployment and the average spell  being experienced by an individual suggests a rule of thumb  ratio for four to one. Using this ratio as a rule of thumb  suggests that the spell between price changes averaged over
 the individual items on the shelf would be 80 months.

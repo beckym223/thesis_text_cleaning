@@ -1,20 +1,20 @@
-Of course, the disturbances of macroeco-
-nomic equilibrium that were visualized by
+Of course, the disturbances of macroeconomic
+equilibrium that were visualized by
 Wicksell and Schumpeter, and by Fredrich
-von Hayek, R. G. Hawtrey, D. H. Robert-
-son, the early Keynes (and so many others)
+von Hayek, R. G. Hawtrey, D. H. Robertson,
+the early Keynes (and so many others)
 were, in the end, mainly disturbances of the
 price level, although they normally left a
 permanent legacy of a larger capital stock,
 newer technology, and increased human
 capital.'6 However, most of these pioneers
-recognized that the price level did not auto-
-matically, instantaneously, and proportion-
-ately reflect every change in the stock of
+recognized that the price level did not automatically,
+instantaneously, and proportionately
+reflect every change in the stock of
 money or the output of goods; for instance,
-many recognized that prices did not fall suf-
-ficiently promptly in recessions to avoid non-
-frictional unemployment of labor and/or
+many recognized that prices did not fall sufficiently
+promptly in recessions to avoid nonfrictional
+unemployment of labor and/or
 machines. And such unemployed resources
 then permitted a subsequent expansion of
 real output, once the next boom began.
@@ -24,20 +24,20 @@ Most business cycle theories-or, more
 broadly, most macroeconomic theories of the
 "medium run"-from the time of Wicksell
 or even earlier, have thus been built on
-more-or-less elaborate price-theoretical con-
-siderations, related essentially to investment;
+more-or-less elaborate price-theoretical considerations,
+related essentially to investment;
 and mainly to fixed investment. For, clearly,
-it is investment-not consumption or pro-
-prietors' labor-that is the primary source of
+it is investment-not consumption or proprietors'
+labor-that is the primary source of
 medium-run macroeconomic disturbance and
 instability. Although (as noted earlier) sharp
-fluctuations in the rate of investment in in-
-ventories contribute more to U.S. business
+fluctuations in the rate of investment in inventories
+contribute more to U.S. business
 cycle recessions and to the early stages of
 business recoveries than do fluctuations in
 plant-and-equipment investment, the latter
-typically contribute significantly more to ex-
-pansions of GNP from cyclical troughs to
+typically contribute significantly more to expansions
+of GNP from cyclical troughs to
 peaks than does inventory accumulation.
 Moreover, in the medium and longer run,
 fluctuations in inventories are governed by
@@ -45,10 +45,10 @@ most of the same factors that govern plant
 and equipment expenditures.
 There are many price levels-relative price
 levels-important for investment in plant,
-equipment, and normal inventories. They in-
-clude:
-1) The price level for loans: some partic-
-ular rate of interest, or some average of rates,
+equipment, and normal inventories. They include:
+
+1) The price level for loans: some particular
+rate of interest, or some average of rates,
 at which investment can be financed;
 2) The demand-price level of new capital
 goods, reflecting their physical productivity,
@@ -63,10 +63,10 @@ levels of entrepreneurship and innovation;
 5) The supply-price levels of risk and/or
 uncertainty bearing, by investors and lenders;
 6) The level and nature of the prices
-imposed by government; taxes and their struc-
-ture; and
-7) The price level of ownership of exist-
-ing enterprises; that is, the level of share
+imposed by government; taxes and their structure;
+and
+7) The price level of ownership of existing
+enterprises; that is, the level of share
 prices.
 The question is not which among these
 price levels are relevant for investment: all of
@@ -74,29 +74,29 @@ them (and others) are doubtless relevant to
 some degree. Rather, the question is: which
 are "strategically" important? Which are the
 price levels, the changes in one or more of
-which relative to another or others are pri-
-marily responsible-in the real world-for
+which relative to another or others are primarily
+responsible-in the real world-for
 macroeconomic stability or instability, real
 and nominal?
 I can illustrate the wide variety of price
-theoretic explanations of investment by ref-
-erence to three familiar but quite different
+theoretic explanations of investment by reference
+to three familiar but quite different
 examples. 7
-16For effective summaries of these and related theo-
-ries, see Gottfried Haberler. Hayek (and others of the
-"Austrians") denied that there were any positive lega-
-cies from the boom.
-17However, not all macroeconomic investment theo-
-ries have been or are price theoretical. Examples of
+16For effective summaries of these and related theories,
+see Gottfried Haberler. Hayek (and others of the
+"Austrians") denied that there were any positive legacies
+from the boom.
+17However, not all macroeconomic investment theories
+have been or are price theoretical. Examples of
 quantity-theoretic investment theories are the following:
 (a) Robert Eisner's adaptation of the accelerator theory,
 which, in practice, makes real investment, and thus
 employment and income, depend on fluctuations in
-current levels of real "permanent" business sales (analo-
-gous to permanent income); (b) The works of W. H. L.
-Anderson, James Duesenberry, and others, whose em-
-phases have mainly been on factors influencing the gross
-flow of internal funds for investment financing, includ-
-ing tax rates seen as a determinant of internal funds-
-availability rather than of profitability; and (c) Keynes
+current levels of real "permanent" business sales (analogous
+to permanent income); (b) The works of W. H. L.
+Anderson, James Duesenberry, and others, whose emphases
+have mainly been on factors influencing the gross
+flow of internal funds for investment financing, including
+tax rates seen as a determinant of internal fundsavailability
+rather than of profitability; and (c) Keynes
 and George Katona, who stressed political, sociological,

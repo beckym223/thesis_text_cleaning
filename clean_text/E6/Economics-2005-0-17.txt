@@ -1,9 +1,9 @@
 pension. The benefits are financed by a payroll
-tax on earnings currently up to about the eighty-
-fifth percentile of the distribution of wages
+tax on earnings currently up to about the eightyfifth
+percentile of the distribution of wages
 ($87,900 in 2004). The payroll tax rate devoted
-to the Social Security program other than dis-
-ability is now 10.6 percent, divided equally
+to the Social Security program other than disability
+is now 10.6 percent, divided equally
 between employers and employees.
 Benefits take the form of an annuity that is
 indexed to the CPI to retain its real value during
@@ -11,14 +11,14 @@ the individual's retirement years. The level of
 benefits at retirement depends on the average
 wage-indexed earnings of the individual during
 his or her highest 35 earning years. The benefit
-formula provides higher annual benefits per dol-
-lar of previous earnings at lower earnings levels
+formula provides higher annual benefits per dollar
+of previous earnings at lower earnings levels
 than at higher levels. Individuals who retire
 before their normal retirement age (now rising
 gradually from 65 to 67) receive an actuarially
 reduced benefit, while those who retire after
-their normal retirement age receive an actuari-
-ally increased benefit.
+their normal retirement age receive an actuarially
+increased benefit.
 Couples may collect benefits either on the basis
 of their separate earnings records or as 150 percent
 of the benefits of the individual with the higher
@@ -35,48 +35,48 @@ also expect to claim benefits based on their former
 (or future) husbands' earnings.
 I became interested in Social Security as a
 graduate student in the 1960s when I realized
-that the tests of consumption theory-Fried-
-man's work on the permanent income hypoth-
-esis and Modigliani's work on life cycle
+that the tests of consumption theory-Friedman'
+s work on the permanent income hypothesis
+and Modigliani's work on life cycle
 saving- completely ignored the role of Social
 Security even though it had become the major
 source of retiree income. I realized also that the
 theory of Social Security's effect on saving was
 more complex than a simple displacement of
-financial wealth by Social Security. To the ex-
-tent that Social Security induces earlier retire-
-ment, it raises the desired level of financial
+financial wealth by Social Security. To the extent
+that Social Security induces earlier retirement,
+it raises the desired level of financial
 wealth. The net effect of Social Security on
-saving therefore depends on the balance be-
-tween the positive induced retirement effect and
-the negative wealth displacement effect, an is-
-sue that could be settled only empirically.  My initial time series analysis (Feldstein, 1974)
+saving therefore depends on the balance between
+the positive induced retirement effect and
+the negative wealth displacement effect, an issue
+that could be settled only empirically.  My initial time series analysis (Feldstein, 1974)
 implied that Social Security "wealth," the present
 actuarial value of future Social Security benefits,
-significantly reduced personal saving. Reestimat-
-ing this equation 22 years later with a corres-
-ponding amount of additional data produced reas-
-suringly similar results (Feldstein,1996b) The
+significantly reduced personal saving. Reestimating
+this equation 22 years later with a corresponding
+amount of additional data produced reassuringly
+similar results (Feldstein,1996b) The
 conclusion that Social Security depresses private
 saving was also supported by household data and
 cross-country analysis. Other researchers who
 looked at this question generally supported the
 primary conclusion, although with estimates of
-varying magnitudes (Congressional Budget Of-
-fice, 1998).
-This adverse effect of Social Security on sav-
-ing is relevant to understanding the significance
-of Paul Samuelson's very important 1958 over-
-lapping generations paper (Samuelson, 1958).
+varying magnitudes (Congressional Budget Office,
+1998).
+This adverse effect of Social Security on saving
+is relevant to understanding the significance
+of Paul Samuelson's very important 1958 overlapping
+generations paper (Samuelson, 1958).
 Samuelson showed that a pure pay-as-you-go
 Social Security system in an economy without
 capital and without technical progress would
-generate an implicit rate of return on each gen-
-eration's taxes equal to the rate of growth of the
+generate an implicit rate of return on each generation'
+s taxes equal to the rate of growth of the
 population. This occurs because the number of
 taxpayers is larger by the rate of growth of
-population than the number of retirees. If tech-
-nical progress is added to this economy, the
+population than the number of retirees. If technical
+progress is added to this economy, the
 implicit return in a pure pay-as-you-go system
 is still the rate of growth of the tax base, now
 the sum of the growth rate of population and the
@@ -84,22 +84,22 @@ growth rate of productivity.
 Samuelson noted that this positive rate of return
 meant that an unfunded Social Security program
 could raise welfare in an economy that has no
-capital assets. But what happens when we recog-
-nize that all economies do have capital stocks and
+capital assets. But what happens when we recognize
+that all economies do have capital stocks and
 that Social Security transfers act as a substitute for
 real capital accumulation? With that more realistic
 description, the reduction in the rate of saving
-caused by the provision of pay-as-you-go annu-
-ities can cause a reduction in the present value of
+caused by the provision of pay-as-you-go annuities
+can cause a reduction in the present value of
 all current and future consumption.
-To understand why, consider first an oversim-
-plified textbook economy in which there are no
+To understand why, consider first an oversimplified
+textbook economy in which there are no
 capital income taxes. Each generation of workers
 receives an implicit pay-as-you-go return equal to
 the sum of population and productivity growth but
 foregoes the larger return equal to the marginal
-product of capital. For each such taxpayer gener-
-ation, there is, therefore, a cost of having a pay-
-as-you-go Social Security program rather than
+product of capital. For each such taxpayer generation,
+there is, therefore, a cost of having a payas-
+you-go Social Security program rather than
 providing for retirement consumption by saving
 and investing in real assets (or the financial assets

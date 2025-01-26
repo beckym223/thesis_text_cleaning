@@ -1,7 +1,7 @@
 The plausibility of different profiles of
-individual preferences depends on the na-
-ture of the problem and on the characteris-
-tics of individual motivations. It is readily
+individual preferences depends on the nature
+of the problem and on the characteristics
+of individual motivations. It is readily
 checked that with three or more people, if
 everyone acts as homo economicus in a
 cake-division problem (always preferring
@@ -19,67 +19,67 @@ cause cycles in general in what is called
 "the economic domain" (of interpersonal
 commodity space), if everyone votes in a
 narrowly self-interested way.
-However, majority rule would be a terri-
-ble decision procedure in this case, and its
+However, majority rule would be a terrible
+decision procedure in this case, and its
 intransitivity is hardly the main problem
 here. For example, taking the most deprived
 person in a community and passing on half
 her share of the cake divided between two
-richer persons would be a majority improve-
-ment, but scarcely a great welfare-economic
+richer persons would be a majority improvement,
+but scarcely a great welfare-economic
 triumph. In view of this, it is perhaps just as
 well that the majority rule is not only nasty
 and brutish, but also short in consistency.28
-The tension between social welfare judg-
-ments (of different kinds explored, for ex-
-ample, by Meade [1976], Arrow [1977],
+The tension between social welfare judgments
+(of different kinds explored, for example,
+by Meade [1976], Arrow [1977],
 Mirrlees (1982), William J. Baumol [1986],
-or John Broome [1991]) and mechanical de-
-cision rules (like majority decision) with
+or John Broome [1991]) and mechanical decision
+rules (like majority decision) with
 inward-looking, self-centered individuals is
 most obvious here. Also, as Buchanan
 (1994a, b) has argued, the acceptability of
-majority rule is, in fact, related to its ten-
-dency to generate cycles, and the endemic
+majority rule is, in fact, related to its tendency
+to generate cycles, and the endemic
 cyclicity of majority decisions is inescapable,
-given the endogeneity of alternative propos-
-als that can be presented for consideration.
+given the endogeneity of alternative proposals
+that can be presented for consideration.
 In practice, in facing political decisions,
 the choices may not come in these stark
 forms (there are many issues that are mixed
-together in political programs and propos-
-als), and also individuals do not necessarily
+together in political programs and proposals)
+, and also individuals do not necessarily
 only look at their "own share of the cake"
-in taking up political positions and atti-
-tudes.29 The "public choice" school has
+in taking up political positions and attitudes.
+29 The "public choice" school has
 tended to emphasize the role of logrolling
-in political compromises and social deci-
-sions. While that school has also been rather
+in political compromises and social decisions.
+While that school has also been rather
 wedded to the presumption of each person
-being homo economicus even in these exer-
-cises (see Buchanan and Tullock, 1962),
+being homo economicus even in these exercises
+(see Buchanan and Tullock, 1962),
 there is a more general social process here
 (involving a variety of motivations) that can
-be fruitfully considered in examining deci-
-sion mechanisms. Central to this is the role
+be fruitfully considered in examining decision
+mechanisms. Central to this is the role
 of public discussion in the formation of
-preferences and values, which has been em-
-phasized by Buchanan (1954a,b).
-The condition of independence of irrele-
-vant alternatives is also not beyond dispu-
-tation and, indeed, has led to debates-ex-
-plicitly or by implication-for a very long
+preferences and values, which has been emphasized
+by Buchanan (1954a,b).
+The condition of independence of irrelevant
+alternatives is also not beyond disputation
+and, indeed, has led to debates-explicitly
+or by implication-for a very long
 time. It was one of the issues that divided
-J. C. Borda (1781) and Marquis de Con-
-dorcet (1785), the two French mathemati-
-cians, who had pioneered the systematic
-theory of voting and group decision proce-
-dures in the 18th century. One version of
+J. C. Borda (1781) and Marquis de Condorcet
+(1785), the two French mathematicians,
+who had pioneered the systematic
+theory of voting and group decision procedures
+in the 18th century. One version of
 the rule proposed by Borda, based on adding
 the rank-order numbers of candidates in
-each voter's preference list, violates the in-
-dependence condition rather robustly, but it
-is not devoid of other merits (and is fre-
-quently used in practice).30 Other types of
+each voter's preference list, violates the independence
+condition rather robustly, but it
+is not devoid of other merits (and is frequently
+used in practice).30 Other types of
 voting rules have also been shown to have
 different desirable properties.3'

@@ -16,17 +16,17 @@ the movement toward inequality must have
 been even greater than the tax data show
 because they do not include the large
 amounts of income taxpayers were able to
-shelter before the enactment of the Tax Re-
-form Act of 1986.
+shelter before the enactment of the Tax Reform
+Act of 1986.
 Many economists and statisticians have
 examined these trends, but nobody has been
 able to explain them fully. The declining
-share of incomes received by the lower in-
-come classes has been attributed to the in-
-crease in the number of single-parent fami-
-lies, slow growth in earnings of production
-workers, the disappearance of middle-
-income jobs, and other factors.8 But these
+share of incomes received by the lower income
+classes has been attributed to the increase
+in the number of single-parent families,
+slow growth in earnings of production
+workers, the disappearance of middleincome
+jobs, and other factors.8 But these
 explanations do not account for the recent
 explosion of earned and property incomes of
 those in the top tail of the distribution.
@@ -37,31 +37,31 @@ and of an estate tax for eighty years. Clearly,
 the tax system never reduced inequality very
 much and other forces in the 1980s have
 swamped whatever equalizing effect it may
-have had earlier. I turn now to an examina-
-tion of the burdens imposed by the tax sys-
-tem and how they have affected the distribu-
-tion of income after tax.
+have had earlier. I turn now to an examination
+of the burdens imposed by the tax system
+and how they have affected the distribution
+of income after tax.
 Distribution of Tax Burdens. I have been
-estimating federal, state, and local tax bur-
-dens by income classes for the last two
+estimating federal, state, and local tax burdens
+by income classes for the last two
 decades on the basis of the Bookings
 MERGE files.9 These files are based on the
 CPS surveys, modified at the top by the
-incomes reported on federal individual in-
-come tax returns. As shown in Table 3, the
+incomes reported on federal individual income
+tax returns. As shown in Table 3, the
 tax burdens of the bottom 90 percent of the
 income distribution did not change very
 much from 1966 to 1985. By contrast, the
 tax burdens of the top ten percent of income
 recipients fell, especially those of the top 5
 percent and 1 percent. Effective tax rates of
-the top 5 percent dropped by one-fifth be-
-tween 1966 and 1985 (from 32.7 percent to
+the top 5 percent dropped by one-fifth between
+1966 and 1985 (from 32.7 percent to
 26.0 percent); for the top 1 percent, the
 reduction was more than one-third (from
 39.6 percent to 25.3 percent).
-Tax burdens of the highest income recipi-
-ents fell because top federal individual tax
+Tax burdens of the highest income recipients
+fell because top federal individual tax
 rates were reduced throughout this period,
 from 70 percent in 1966 to 50 percent in
 1985. Furthermore, the federal corporation
@@ -72,13 +72,13 @@ personal deductions (for example, state and
 local taxes, interest payments, and IRAs),
 tax-exempt bonds, and tax shelters were also
 major factors in the reduction of the tax
-burdens in the top part of the income distri-
-bution. The reduction in the corporate tax
+burdens in the top part of the income distribution.
+The reduction in the corporate tax
 the top one percent of tax units, from 17.31 to 18.77
 percent for the top 5 percent, and from 35.11 to 36.56
 percent for the top 15 percent.
 8See, for example, Frank Levy (1988) and Sheldon
 Danziger, Peter Gottschalk, and Eugene Smolensky
 (1989).
-9See Pechman and Benjamin Okner (1974) and Pech-
-man (1985).
+9See Pechman and Benjamin Okner (1974) and Pechman
+(1985).

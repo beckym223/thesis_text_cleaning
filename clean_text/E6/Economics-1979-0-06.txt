@@ -1,19 +1,19 @@
 extracting helium from the atmosphere are
 about 1,000 times those for extracting it
 from natural gas containing .3 to .5 percent
-of helium. Large as that figure is, I shall de-
-scribe later the economist's case (Section
+of helium. Large as that figure is, I shall describe
+later the economist's case (Section
 III) for including in the calculation inputs
 other than energy, such as that for plant
 and equipment, and (Section IV) for taking
 into account that the costs of all kinds in
-any required future extraction from the at-
-mosphere will not be incurred until much
+any required future extraction from the atmosphere
+will not be incurred until much
 later.
 In fact, one statement in the report reads
 as a rejection of the idea that the time at
-which capital cost is incurred is at all per-
-tinent. In a description of the possible role
+which capital cost is incurred is at all pertinent.
+In a description of the possible role
 of the government in implementing the five
 steps, the report says: "The burden of the
 discount rate as a criterion of performance
@@ -29,66 +29,66 @@ II. Technology Mixes of Future
 Energy Supply and Use
 My second illustration is a study that was
 carried out as an input to the deliberations
-of the Committee on Nuclear and Alterna-
-tive Energy Systems (CONAES, in short),
+of the Committee on Nuclear and Alternative
+Energy Systems (CONAES, in short),
 and of its Synthesis Panel. It is entitled
-"Energy Modeling for an Uncertain Fu-
-ture." As explained in the preface, it is a
-"supporting paper" published without hav-
-ing gone through the customary report re-
-view procedure of the Academy. While for
+"Energy Modeling for an Uncertain Future.
+" As explained in the preface, it is a
+"supporting paper" published without having
+gone through the customary report review
+procedure of the Academy. While for
 the other illustrations I have not named
 authors or committee chairpersons, I
 should not conceal that I was the chairman
 of the group, called the Modeling Resource
 Group (MRG), which collectively did the
 work described in its Report. The group
-consisted mostly of economists and opera-
-tions researchers, two somewhat like-minded
-professions. My comments on interdisci-
-plinary interactions about the ideas and
+consisted mostly of economists and operations
+researchers, two somewhat like-minded
+professions. My comments on interdisciplinary
+interactions about the ideas and
 findings of the group will therefore draw
-on discussions with members of other pro-
-fessions within and outside CONA ES.
+on discussions with members of other professions
+within and outside CONA ES.
 For that purpose it may suffice to give
-only the briefest description of the ques-
-tions addressed, the assumptions made, and
+only the briefest description of the questions
+addressed, the assumptions made, and
 the methods used. One important question
 arises from the fact that several competing
-objectives enter into the choice of a long-
-run energy technology mix. The net eco-
-nomic effect (economic benefit minus cost)
+objectives enter into the choice of a longrun
+energy technology mix. The net economic
+effect (economic benefit minus cost)
 of the development of a given technology
-mix can be estimated in a crude way, as sug-
-gested in Table 1, column (a), by its effect
+mix can be estimated in a crude way, as suggested
+in Table 1, column (a), by its effect
 on the Gross National Product (GNP). In
 addition, one will also want to register risks
 of adverse effects such as mining accidents,
 air pollution, acid rain, oil spills, possible
-leakage from nuclear waste disposal, or di-
-version or proliferation of weapons-grade
-nuclear materials. For brevity, all such ef-
-fects will be called "environmental" effects.
+leakage from nuclear waste disposal, or diversion
+or proliferation of weapons-grade
+nuclear materials. For brevity, all such effects
+will be called "environmental" effects.
 The place in Table 1 for these impacts is
 column (b), tersely dubbed "health and
 life."
-The Risk/Impact Panel of CONAES de-
-cided not to try to estimate money equiva-
-lents for such adverse impacts of various
+The Risk/Impact Panel of CONAES decided
+not to try to estimate money equivalents
+for such adverse impacts of various
 magnitudes. Were such estimates possible
 and available, then one could also define
 and find a balance between desired benefits
 and adverse "environmental" impacts that
 remain after scrubbers, inspectors, Civex
-and the like have done their jobs. Not hav-
-ing such estimates, the MRG turned the
+and the like have done their jobs. Not having
+such estimates, the MRG turned the
 question around: Assume that tentatively
 chosen upper bounds are imposed on the
 use of technologies that have such impacts.
 Estimate the loss in GNP associated with
 these bounds. Then that number also places
-a price tag on the reduction in "environ-
-mental" impacts achieved by those bounds.
+a price tag on the reduction in "environmental"
+impacts achieved by those bounds.
 Thus, even if an a priori valuation of the
 reduction in impacts is not available, then
 such a valuation is still implicit in any

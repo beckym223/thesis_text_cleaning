@@ -11,33 +11,33 @@ shocks (like aggregate stabilization policies) to
 those that act by reallocating risks (like social
 insurance policies). Traditionally, these two
 kinds of policies have been studied by different
-economists, using unrelated models and differ-
-ent data sets. But both appear explicitly in the
+economists, using unrelated models and different
+data sets. But both appear explicitly in the
 models I have reviewed here, and it is clear that
 it will soon be possible to provide a unified
 analysis of their costs and benefits.
 VI. Other Directions
 My plan was to go down a list of all the
 things that could have gone wrong with my
-1987 calculations but, as I should have antici-
-pated, possibilities were added to the list faster
+1987 calculations but, as I should have anticipated,
+possibilities were added to the list faster
 than I could eliminate them. I will just note
-some of the more interesting of these possibil-
-ities, and then conclude. The level of consump-
-tion risk in a society is, in part, subject to
+some of the more interesting of these possibilities,
+and then conclude. The level of consumption
+risk in a society is, in part, subject to
 choice. When in an economy that is subject to
-larger shocks, people will live with more con-
-sumption variability and the associated loss in
-welfare, but they may also substitute into risk-
-avoiding technologies, accepting reduced aver-
-age levels of production. This possibility shows
-up in the precautionary savings-overaccumu-
-lation of capital-that Krusell and Smith (1999,
+larger shocks, people will live with more consumption
+variability and the associated loss in
+welfare, but they may also substitute into riskavoiding
+technologies, accepting reduced average
+levels of production. This possibility shows
+up in the precautionary savings-overaccumulation
+of capital-that Krusell and Smith (1999,
 2002) found. As Garey Ramey and Valerie A.
-Ramey (1991) suggested, this kind of substitu-
-tion surely shows up in other forms as well.
-In an endogenous growth framework, substi-
-tution against risky technologies can affect rates
+Ramey (1991) suggested, this kind of substitution
+surely shows up in other forms as well.
+In an endogenous growth framework, substitution
+against risky technologies can affect rates
 of growth as well as output levels. Larry E.
 Jones et al. (1999) and Epaulard and Pommeret
 (2001) explore some of these possibilities,
@@ -56,47 +56,47 @@ is little evidence. This is a promising frontier on
 which there is much to be done. Surely there are
 others.
 VII. Conclusions
-If business cycles were simply efficient re-
-sponses of quantities and prices to unpredict-
-able shifts in technology and preferences, there
+If business cycles were simply efficient responses
+of quantities and prices to unpredictable
+shifts in technology and preferences, there
 would be no need for distinct stabilization or
 demand management policies and certainly no
 point to such legislation as the Employment Act
 of 1946. If, on the other hand, rigidities of some
-kind prevent the economy from reacting effi-
-ciently to nominal or real shocks, or both, there
+kind prevent the economy from reacting efficiently
+to nominal or real shocks, or both, there
 is a need to design suitable policies and to
 assess their performance. In my opinion, this is
-the case: I think the stability of monetary ag-
-gregates and nominal spending in the postwar
+the case: I think the stability of monetary aggregates
+and nominal spending in the postwar
 United States is a major reason for the stability
-of aggregate production and consumption dur-
-ing these years, relative to the experience of the
-interwar period and the contemporary experi-
-ence of other economies. If so, this stability
+of aggregate production and consumption during
+these years, relative to the experience of the
+interwar period and the contemporary experience
+of other economies. If so, this stability
 must be seen in part as an achievement of the
 economists, Keynesian and monetarist, who
 guided economic policy over these years.
 The question I have addressed in this lecture
 is whether stabilization policies that go beyond
-the general stabilization of spending that char-
-acterizes the last 50 years, whatever form they
-might take, promise important increases in wel-
-fare. The answer to this question is "No": The
-potential gains from improved stabilization pol-
-icies are on the order of hundredths of a percent
-of consumption, perhaps two orders of magni-
-tude smaller than the potential benefits of avail-
-able "supply-side" fiscal reforms. This answer
+the general stabilization of spending that characterizes
+the last 50 years, whatever form they
+might take, promise important increases in welfare.
+The answer to this question is "No": The
+potential gains from improved stabilization policies
+are on the order of hundredths of a percent
+of consumption, perhaps two orders of magnitude
+smaller than the potential benefits of available
+"supply-side" fiscal reforms. This answer
 does depend, certainly, on the degree of risk
 aversion. It does not appear to be very sensitive
 to the way distribution effects are dealt with,
-though it does presuppose a system of unem-
-ployment insurance at postwar U.S. levels. I
+though it does presuppose a system of unemployment
+insurance at postwar U.S. levels. I
 have been as explicit as I can be on the way
 theory and evidence bear on these conclusions.
 When Don Patinkin gave his Money, Interest,
-and Prices the subtitle "An Integration of Mon-
-etary and Value Theory," value theory meant, to
+and Prices the subtitle "An Integration of Monetary
+and Value Theory," value theory meant, to
 VOL. 93 NO. 1
 11

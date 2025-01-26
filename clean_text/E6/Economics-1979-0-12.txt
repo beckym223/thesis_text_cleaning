@@ -1,46 +1,46 @@
-tained, the present value of a standard bun-
-dle of goods in the future decreases as that
+tained, the present value of a standard bundle
+of goods in the future decreases as that
 future time recedes. Hence the present value
 of future life relative to that of future goods
 will be much higher than the value of present
 life in relation to present goods. It should
-not be inferred from this that future de-
-cision makers are assumed or advised to de-
-vote greater resources to safety and health
+not be inferred from this that future decision
+makers are assumed or advised to devote
+greater resources to safety and health
 than the present decision makers, although
 the future ones may well want to do this for
 reasons of their own. The inference is rather,
-I submit, that the present values I have de-
-scribed reflect a curious mixture of three
+I submit, that the present values I have described
+reflect a curious mixture of three
 ingredients: one intertemporal ethical rule,
 present preferences between consumption
 and protection, and an assumption about
 savings behavior of all generations within
-the next fifty years, say. Under these as-
-sumptions, sets of "present values" formed
+the next fifty years, say. Under these assumptions,
+sets of "present values" formed
 at successive points in time need not, and
 generally will not, be consistent with each
 other.
 VI. The Empirical Basis of
 Quantitative Economics
-I now go on to a discussion of the em-
-pirical basis for some of the quantitative
+I now go on to a discussion of the empirical
+basis for some of the quantitative
 statements that economics contributes to
-interdisciplinary studies. I will again il-
-lustrate this question with reference to the
+interdisciplinary studies. I will again illustrate
+this question with reference to the
 few studies I have chosen as examples. At
 the same time I will emphasize the role that
 the premises underlying the concept of
 equilibrium play in this process.
-The premise of profit maximization im-
-plies a subpremise of cost minimization.
+The premise of profit maximization implies
+a subpremise of cost minimization.
 I regard that subpremise as fitting reality
 more closely than the entire premise. It
 underlies the supply side of the MRG study
 of future energy technology mixes I have
 described.
-The premise of maximization of satis-
-faction by the consumer can be made more
+The premise of maximization of satisfaction
+by the consumer can be made more
 plausible and more applicable by a further
 specification. Applied to energy, it says that
 successive equal additions to a consumer's
@@ -49,22 +49,22 @@ less and less to him. Operationally, how
 much each successive addition is worth to
 him can be measured, for instance, by that
 increase in the expenditure for the rest of
-his consumption that he would have re-
-garded as equivalent to each next addition
+his consumption that he would have regarded
+as equivalent to each next addition
 to his energy consumption.
 This specification implies the existence of
 a household demand function for energy, in
-which per capita demand for energy de-
-creases as its price increases, and increases
+which per capita demand for energy decreases
+as its price increases, and increases
 as per capita real income increases. The
 MRG extended this concept to the sum of
 direct and indirect demand for energy, the
 latter being the energy used as input to the
-production of all nonenergy goods, includ-
-ing capital goods as well. Another exten-
-sion distinguishes demand for individual
-fuels, where the demand for one fuel in-
-creases if the price of another competing
+production of all nonenergy goods, including
+capital goods as well. Another extension
+distinguishes demand for individual
+fuels, where the demand for one fuel increases
+if the price of another competing
 fuel goes up.
 These functions are then estimated from
 empirical data. In the procedure followed
@@ -85,9 +85,9 @@ forms.
 By comparison, the empirical basis for
 the production side is more direct. Each of
 the various competing energy producing,
-converting, and using processes is repre-
-sented by constant ratios of inputs to out-
-puts, reflecting operating experience where
+converting, and using processes is represented
+by constant ratios of inputs to outputs,
+reflecting operating experience where
 available, or based on estimates of such
 ratios and of future availability dates for
 processes not yet developed. For instance,
@@ -95,6 +95,6 @@ process estimates for the years 1985 and
 2000 were drawn upon in estimating the
 elasticity of substitution between electric
 and nonelectric energy in the second of the
-two models just discussed. This did con-
-strain but not by itself imply numerical
+two models just discussed. This did constrain
+but not by itself imply numerical
 estimates of the elasticities of demand for

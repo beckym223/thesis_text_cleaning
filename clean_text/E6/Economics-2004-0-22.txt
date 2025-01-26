@@ -17,8 +17,8 @@ balance.
 Relying on fully automatic adjustment
 rather than assuming there will be periodic
 new legislation bears some similarity to a
-familiar distinction from macroeconomics-
-rules vs. discretion for monetary policy. Parallel
+familiar distinction from macroeconomicsrules
+vs. discretion for monetary policy. Parallel
 issues include the concern about setting rules
 without fully knowing how the economy adjusts
 to the policy actions and recognition that the
@@ -26,8 +26,8 @@ economy may evolve so that currently good
 rules may become less so in the future. But
 there are also different issues. Social Security
 set up for the indefinite future involves a level
-of detail complexity that seems higher than set-
-ting rules for the Fed. Moreover, Congress
+of detail complexity that seems higher than setting
+rules for the Fed. Moreover, Congress
 could invite the Fed to set out a rule it will then
 follow. Thus we need to ask whether Congress
 would do a better job in setting out rules once
@@ -35,20 +35,20 @@ and for all rather than adjusting them from time
 to time. While legislating from time to time is
 an inherently easier intellectual problem, we
 need to be concerned about the asymmetries in
-the political ease of legislation addressing sur-
-pluses and deficits, an asymmetry that is re-
-duced by legislating automatic adjustments.
+the political ease of legislation addressing surpluses
+and deficits, an asymmetry that is reduced
+by legislating automatic adjustments.
 Also there may be more similarity across the
 77 With this approach, Social Security would become  fully specified and so easier to analyze and more in keeping  with Arrow-Debreu thinking. But, making it easier to ana-  lyze does not necessarily make it better. Just as mathemat-  ical convenience, for example from additive preferences,  while convenient for theoretical analysis, does not neces-  sarily add to empirical reliability.  78 If the tax rate is thought to be too high and politically  can not be lowered, then doing the adaptation to anticipated  higher cost outcomes fully in terms of lower benefits may  make sense as a political fallback. I, for one, do not think the  current tax rate and replacement rates in the United States
 are too high.  political spectrum in normative evaluations of
-the impacts of monetary policy than of the eval-
-uations of the sizes of taxes and benefits for
+the impacts of monetary policy than of the evaluations
+of the sizes of taxes and benefits for
 different workers and family structures. As with
 monetary policy, I think that some discretion
 can improve outcomes.
-In considering possible automatic adjust-
-ments, one can look at how adjustment is cur-
-rently debated and how it was done before. In
+In considering possible automatic adjustments,
+one can look at how adjustment is currently
+debated and how it was done before. In
 our last major reform in 1983, there was an
 explicit sense of balancing benefit and revenue
 changes (Paul C. Light, 1985). Currently, we
@@ -59,24 +59,24 @@ Commission appointed by President Bush put
 forth two plans which restored actuarial balance
 (Commission to Strengthen Social Security,
 2002). One of them included new dedicated
-revenues, and both of them included large trans-
-fers of general revenues, which one cannot help
+revenues, and both of them included large transfers
+of general revenues, which one cannot help
 but think of as in large part coming from new
 revenues and not just spending decreases and
 certainly not benefit decreases. The plan that
 Orszag and I have put forth explicitly divides
-some of the proposed changes for restoring ac-
-tuarial balance (both one-time changes and new
+some of the proposed changes for restoring actuarial
+balance (both one-time changes and new
 automatic changes) between revenue changes
 and benefit changes.
 A. Fully Funded Defined Contribution and
 Partially Funded Defined Benefit
-The parallel to the workings of the Arrow-
-Debreu model and the completeness of the spec-
-ification makes economists more comfortable
-thinking in terms of mandated fully funded de-
-fined contribution systems than the type of par-
-tially funded defined benefit system we have.
+The parallel to the workings of the ArrowDebreu
+model and the completeness of the specification
+makes economists more comfortable
+thinking in terms of mandated fully funded defined
+contribution systems than the type of partially
+funded defined benefit system we have.
 So, I want to draw out some comparisons. One
 is that portfolio risk in a mandatory fully funded
 defined contribution system is highly correlated

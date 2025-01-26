@@ -1,5 +1,5 @@
-when the nonexistence of markets for fu-
-ture goods under capitalism seemed to me
+when the nonexistence of markets for future
+goods under capitalism seemed to me
 a much more obvious target.
 However that may be, the nonexistence
 of these markets must be faced. Now in
@@ -15,9 +15,9 @@ information needed by the optimizer is not
 provided by an existing market. It will be
 provided by a market which will exist in
 the future, but that is a bit too late to help
-in decisions made today. Hence, the op-
-timizer must replace the market commit-
-ment to buy or sell at given terms by
+in decisions made today. Hence, the optimizer
+must replace the market commitment
+to buy or sell at given terms by
 expectations: expectations of prices and
 expectations of quantities to be bought or
 sold. But he cannot know the future.
@@ -34,13 +34,13 @@ When there is uncertainty, risk aversion
 implies that steps will be taken to reduce
 risks. This partly affects decisions within
 the firm, such as the holding of inventories
-and preference for flexible capital equip-
-ment, and partly leads to new markets
+and preference for flexible capital equipment,
+and partly leads to new markets
 which will shift risks to those most able
 and willing to bear them, particularly
-through the equity market. The rich de-
-velopment of inventory theory and port-
-folio theory in the last twenty years or so
+through the equity market. The rich development
+of inventory theory and portfolio
+theory in the last twenty years or so
 reflects growing understanding of these
 matters.
 But when we speak of expected utilities,
@@ -48,18 +48,18 @@ we need to have some probabilities. Where
 do these come from? We may in the first
 instance regard them as subjective. But
 the economic agent observes his world and
-has the opportunity to learn from his ex-
-perience, for there is a considerable degree
-of continuity. By Bayes' Theorem or per-
-haps psychological learning theory, the
+has the opportunity to learn from his experience,
+for there is a considerable degree
+of continuity. By Bayes' Theorem or perhaps
+psychological learning theory, the
 probabilities, say of future prices, will
 gradually adjust so as to conform to the
-facts. If indeed the econromic world ex-
-hibited the same structure in some sense
+facts. If indeed the econromic world exhibited
+the same structure in some sense
 from period to period, and if everybody
 observed everything relevant, then the
-probabilities ascribed by different individ-
-uals to the same events might be expected
+probabilities ascribed by different individuals
+to the same events might be expected
 gradually to converge to the correct values
 and therefore be the same for all. In fact,
 of course, the basic economic facts are
@@ -75,16 +75,16 @@ access to the same observations. Hence, it
 is reasonable to infer that they will never
 come into agreement as to probabilities of
 future prices.
-A further implication is that the past in-
-fluences the future. Jevons's well-known
+A further implication is that the past influences
+the future. Jevons's well-known
 slogan, "bygones are forever bygones,"
-ceases to be fully accurate. The past is rele-
-vant because it contains information
+ceases to be fully accurate. The past is relevant
+because it contains information
 which changes the image of the future; the
 probabilities which govern future actions
 are modified by observations on the past.
-It follows that present decisions with im-
-plications for the future are functions of
+It follows that present decisions with implications
+for the future are functions of
 past values of variables as well as present
 values.
 This point of view has been exploited in

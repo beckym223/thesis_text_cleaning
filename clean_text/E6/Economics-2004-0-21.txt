@@ -3,37 +3,37 @@ rate each year to produce enough revenues to
 cover expenditures for given values of
 points.71 Both types of adjustment need a
 small buffer stock of assets (or borrowing
-ability) because of lags between setting ben-
-efit or tax rules and the determination of ac-
-tual expenditures and revenues.72
+ability) because of lags between setting benefit
+or tax rules and the determination of actual
+expenditures and revenues.72
 U.S. Social Security uses price and wage
 indexing in the determination of both benefits
 and the payroll tax base.73 This reliance on
 automatic adjustments decreases the frequency
-of the need for legislation.74 One popular pro-
-posal is to extend automatic adjustments to in-
-clude an adjustment for life expectancy. Such a
+of the need for legislation.74 One popular proposal
+is to extend automatic adjustments to include
+an adjustment for life expectancy. Such a
 change would play two roles-one is to have an
 automatic adjustment rather than legislating in
 anticipation of or in response to life expectancy
 changes. The other is to decrease the actuarial
-imbalance in a way that may be easier politi-
-cally than comparable direct changes.
+imbalance in a way that may be easier politically
+than comparable direct changes.
 But what mix of benefit and revenue changes
-is the best response to 
+is the best response to
 nce the sizes of the groups  Part of an approach to this question is to ask
 how individual lifetime plans should vary with
-life expectancy. This depends on how the po-
-tential earnings trajectory and the difficulty
-(disutility) of work change along with life ex-
-pectancy. If both opportunities and difficulties
+life expectancy. This depends on how the potential
+earnings trajectory and the difficulty
+(disutility) of work change along with life expectancy.
+If both opportunities and difficulties
 in a year depended on the proportional position
 of that year relative to life expectancy (and
 mortality rates also depended on relative age),
 then all of an optimal individual adjustment
 would come in working longer. That is, optimal
-work would be a fixed fraction of life expec-
-tancy. The change in Social Security with the
+work would be a fixed fraction of life expectancy.
+The change in Social Security with the
 same pattern has all of the adjustment in lower
 benefits for each age of retirement.
 However, I suspect that the proportional case
@@ -43,22 +43,22 @@ life expectancy. If the optimal outcome for an
 individual were to work a smaller percentage of
 life expectancy, then a sensible approach would
 spread the implied drop in lifetime consumption
-over both pre- and postretirement years. De-
-creased preretirement consumption corresponds
+over both pre- and postretirement years. Decreased
+preretirement consumption corresponds
 to an increase in the Social Security tax rate. In
 historic data, where the steady growth in life
 expectancy has been accompanied by a steady
-growth in real earnings, we have a steady de-
-cline in the percentage of life expectancy
+growth in real earnings, we have a steady decline
+in the percentage of life expectancy
 worked. This suggests a mix of tax and benefit
-changes since we do expect a continued corre-
-lation between life expectancies and earnings
-levels.76 I also believe that, at least among ac-
-ademic economists, the life cycle of productiv-
-ity relates to more than just health and it is
+changes since we do expect a continued correlation
+between life expectancies and earnings
+levels.76 I also believe that, at least among academic
+economists, the life cycle of productivity
+relates to more than just health and it is
 unclear how such other factors are correlated
-with life expectancy. I think an automatic ad-
-justment for life expectancy that included ad-
-justment in both benefits and tax rates would be
+with life expectancy. I think an automatic adjustment
+for life expectancy that included adjustment
+in both benefits and tax rates would be
 a good idea.
 Should we ha

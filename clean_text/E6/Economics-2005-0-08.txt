@@ -1,44 +1,44 @@
-subsequent benefits. Many employees may sim-
-ply regard their Social Security payroll tax as
+subsequent benefits. Many employees may simply
+regard their Social Security payroll tax as
 similar to the income tax, thereby increasing the
 perceived marginal tax rate and raising the
 deadweight loss of the tax.
 Lack of transparency also permits programs
 to have effects that might not be politically
-acceptable if they were more explicit. For ex-
-ample, some defenders of the current Social
+acceptable if they were more explicit. For example,
+some defenders of the current Social
 Security system believe it permits a substantial
 amount of redistribution that Congress would
 not be willing to build into an investment-based
 system of individual accounts. Although the
 Social Security rules do not actually achieve
-that redistribution, the important political prin-
-ciple is that it is inappropriate in a democracy to
+that redistribution, the important political principle
+is that it is inappropriate in a democracy to
 use a deliberately opaque system to achieve a
 redistribution of income that would be rejected
 if proposed in a more transparent way.
-The Social Security program lacks transpar-
-ency because it is a defined benefit system
+The Social Security program lacks transparency
+because it is a defined benefit system
 rather than a defined contribution plan of the
-sort that now characterizes most private pen-
-sions. Converting Social Security to a defined
-contribution plan-even an unfunded "no-
-tional" system such as Sweden and Italy now
+sort that now characterizes most private pensions.
+Converting Social Security to a defined
+contribution plan-even an unfunded "notional"
+system such as Sweden and Italy now
 have-would allow individuals to see the link
 between their taxes and the resulting benefits.
-An explicit decision by Congress to supple-
-ment the contributions of low-income earners
+An explicit decision by Congress to supplement
+the contributions of low-income earners
 in such a defined contribution plan would
 achieve income redistribution without a loss
 of transparency.
 Recognizing Political Dynamics.-When we
-economists talk about policy design, we gener-
-ally think about enacting permanent reforms.
+economists talk about policy design, we generally
+think about enacting permanent reforms.
 But experience shows that legislated rules do
 change and that the initial conditions influence
-the path of that change. When designing a par-
-ticular program or advocating a particular de-
-sign, economists should recognize that some
+the path of that change. When designing a particular
+program or advocating a particular design,
+economists should recognize that some
 designs are more stable than others and should
 anticipate how a program might evolve.
 The Medicare drug legislation enacted in
@@ -56,45 +56,45 @@ voters. An economically more rational plan
 with the same budget cost would have insured at
 least part of the range that is currently uninsured
 and kept total costs down by a larger deductible.
-But that would have had the political disadvan-
-tage of giving benefits to fewer individuals. It
+But that would have had the political disadvantage
+of giving benefits to fewer individuals. It
 seems likely that future legislation will address
 the residual insurance gap in a way that will
 raise the total cost of the program.
-There is another and potentially more signif-
-icant aspect of the future evolution of this Medi-
-care drug program. If all of the drugs consumed
+There is another and potentially more significant
+aspect of the future evolution of this Medicare
+drug program. If all of the drugs consumed
 by seniors come to be covered by government
-insurance, there will be strong pressure to reg-
-ulate the price of those drugs. Such price regu-
-lation is, in turn, likely to discourage the
+insurance, there will be strong pressure to regulate
+the price of those drugs. Such price regulation
+is, in turn, likely to discourage the
 development of drugs for those diseases that
 particularly affect the elderly. It would be sadly
 ironic if an insurance plan initiated to improve
-drug access for seniors led ultimately to a re-
-duced availability of new drugs for this group.
+drug access for seniors led ultimately to a reduced
+availability of new drugs for this group.
 B. Four Economic Principles
 Let me turn now from these three political
-principles-permitting individual choice, creat-
-ing program transparency, and recognizing po-
-litical dynamics-to four economic principles.
+principles-permitting individual choice, creating
+program transparency, and recognizing political
+dynamics-to four economic principles.
 Recognizing the Economic Effects of Social
-Insurance Programs and Their Taxes.-Non-
-economists who write about social insurance
+Insurance Programs and Their Taxes.-Noneconomists
+who write about social insurance
 programs often implicitly assume that social
 insurance programs do not affect the behavior
 of beneficiaries or the overall performance of
 the economy. Evidence shows that the opposite
-is true. Social insurance programs have impor-
-tant and sometimes harmful effects on the
+is true. Social insurance programs have important
+and sometimes harmful effects on the
 economy that are not fully recognized by the
 public, Congress, or the politically responsible  officials.
 A substantial volume of work during the past
 quarter century has shown the various ways in
-which social insurance programs do affect indi-
-vidual behavior and the overall economy. These
-effects include reducing national saving, induc-
-ing early retirement, raising the unemployment
+which social insurance programs do affect individual
+behavior and the overall economy. These
+effects include reducing national saving, inducing
+early retirement, raising the unemployment
 rate, pushing up the cost of health care, and
-crowding out private health insurance. Any se-
-rious evaluation of social insurance programs,
+crowding out private health insurance. Any serious
+evaluation of social insurance programs,

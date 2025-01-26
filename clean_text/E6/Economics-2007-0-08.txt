@@ -10,8 +10,8 @@ some way or other they play the clown.
 Behavior at the merry-go-round is, of course,
 just the stuff of kids. But Goffman supplements
 it with a totally serious example. In surgical
-operations, because of their inexperience, med-
-ical students are given tasks that are ridiculously
+operations, because of their inexperience, medical
+students are given tasks that are ridiculously
 easy.17 They respond in the same way as the
 older children at the merry-go-round: they also  act the clown.18
 In economics, as elsewhere, $500 bills do not
@@ -25,9 +25,9 @@ norms. Becker's theoretical innovation was to
 modify plain-vanilla economic utility by the
 introduction of a discrimination coefficient. He
 defined that as the loss in utility incurred by
-exchange with someone from a different race-
-for example, the loss of a white from an ex-
-change with a black. The natural interpretation
+exchange with someone from a different racefor
+example, the loss of a white from an exchange
+with a black. The natural interpretation
 is that the discrimination coefficient represents
 the loss in utility for the white from physically
 engaging in an exchange with a black. But this
@@ -41,15 +41,15 @@ from the physical association-but ipso facto
 from the violation of the code. There is reason
 to believe that such norm-based interpretation
 better reflects the nature of discrimination than
-a physical exchange-based theory. In the pre-
-Civil Rights period, when Becker was writing,
+a physical exchange-based theory. In the preCivil
+Rights period, when Becker was writing,
 there can be no doubt that discrimination, and
 the code that upheld it, was stronger in the
 South than in the North. Yet exchanges between
 blacks and whites were surely much more com-  mon in the South than in the North. At least one
 statistic reflects such a difference: there were
-significantly lower levels of residential segrega-
-tion by race in the South than in the North.
+significantly lower levels of residential segregation
+by race in the South than in the North.
 B. Summary
 Our examples are illustrative of behavior that
 is pervasive. Sociology is dense in examples of
@@ -58,9 +58,9 @@ behave, their joy when they live up to those
 standards, and their discomfort and reactions
 when they fail to do so.
 We now turn to examining the role of
-norms in each of the five macroeconomic neu-
-tralities.20 In each case we shall ask whether  17 Goffman (1961) observed the behavior of such stu-
-dents in medical operations.  18 Another example, the Milgram experiment (Stanley
+norms in each of the five macroeconomic neutralities.
+20 In each case we shall ask whether  17 Goffman (1961) observed the behavior of such students
+in medical operations.  18 Another example, the Milgram experiment (Stanley
 Milgram 1963, 1965) demonstrates the strength of such  motivation-by showing the lengths that people will take to  do what they think they should be doing. To see this  interpretation of this experiment, which is only one of many  ways of viewing it, it is useful to give a brief description. On  arrival, subjects were told that they were involved in a  learning experiment. They were put in the role of the  "teacher," who should administer shocks to a "learner"
 whenever he gave a wrong answer. The subjects are led to  identify with their role as teacher in this experiment, and  feel that they should obey the experimenter. Rather than  being another subject, and, rather than being wired, as it  appeared, actually the learner was an unwired, trained con-  federate of the experimenter. Subjects were then instructed  to administer shocks of escalating voltage as the learner  made errors. A surprising fraction of subjects escalated their  shocks to the maximum 450 volts-even though such a
 dosage in real life would have been lethal. There are many  different versions of the experiment, but the version where  the confederate grunts and moans at 75 volts, asks to be let  out of the experiment at 150 volts, and refuses to give any  more answers at 300 volts, is typical. Here more than 60

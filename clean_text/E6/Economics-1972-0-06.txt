@@ -20,8 +20,8 @@ illusion in this sense. He was not talking
 about so strict and static an equilibrium.
 Axel Leijonhufvud's illuminating and
 perceptive interpretation of Keynes argues
-convincingly that, in chapter 1 as through-
-out the General Theory, what Keynes calls
+convincingly that, in chapter 1 as throughout
+the General Theory, what Keynes calls
 equilibrium should be viewed as persistent
 disequilibrium, and what appears to be
 comparative statics is really shrewd and
@@ -29,9 +29,9 @@ incisive, if awkward, dynamic analysis.
 Involuntary unemployment means that
 labor markets are not in equilibrium. The
 resistance of money wage rates to excess
-supply is a feature of the adjustment pro-
-cess rather than a symptom of irrational-
-ity.
+supply is a feature of the adjustment process
+rather than a symptom of irrationality.
+
 The other side of Keynes's story is that
 in depressions money wage deflation, even
 if it occurred more speedily, or especially
@@ -48,8 +48,8 @@ Keynesian theme further here would be a
 digression.
 What relevance has this excursion into
 depression economics for contemporary
-problems of unemployment and wage in-
-flation? The issues are remarkably similar,
+problems of unemployment and wage inflation?
+The issues are remarkably similar,
 even though events and Phillips have
 shifted attention from levels to time rates
 of change of wages and prices. Phillips
@@ -57,25 +57,25 @@ curve doctrine2 is in an important sense
 the postwar analogue of Keynesian wage
 and employment theory, while natural
 rate doctrine is the contemporary version
-of the classical position Keynes was op-
-posing.
+of the classical position Keynes was opposing.
+
 Phillips curve doctrine implies that
 lower unemployment can be purchased at
 the cost of faster inflation. Let us adapt
-Keynes's test for involuntary unemploy-
-ment to the dynamic terms of contem-
-porary discussion of inflation, wages, and
+Keynes's test for involuntary unemployment
+to the dynamic terms of contemporary
+discussion of inflation, wages, and
 unemployment. Suppose that the current
-rate of unemployment continues. Asso-
-ciated with it is a path of real wages,
+rate of unemployment continues. Associated
+with it is a path of real wages,
 rising at the rate of productivity growth.
-Consider an alternative future, with un-
-employment at first declining to a rate one
+Consider an alternative future, with unemployment
+at first declining to a rate one
 percentage point lower and then remaining
 constant at the lower rate. Associated
 with the lower unemployment alternative
-will be a second path of real wages. Even-
-tually this real wage path will show, at
+will be a second path of real wages. Eventually
+this real wage path will show, at
 least to first approximation, the same rate
 of increase as the first one, the rate of
 productivity growth. But the paths may
@@ -85,10 +85,10 @@ growth of real wages will be retarded in
 the short run if additional employment
 lowers labor's marginal productivity. In
 any case, the test question is whether with
-full information about the two alterna-
-tives labor would accept the second one-
-2 Phillips himself is not a prophet of the doctrine asso-
-ciated with his curve. His 1958 article was probably the
+full information about the two alternatives
+labor would accept the second one-
+2 Phillips himself is not a prophet of the doctrine associated
+with his curve. His 1958 article was probably the
 most influential macro-economic paper of the last
 quarter century. But Phillips simply presented some  striking empirical findings, which others have replicated
 many times for many economies. He is not responsible

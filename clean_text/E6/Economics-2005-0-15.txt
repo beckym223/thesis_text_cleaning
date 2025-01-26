@@ -1,46 +1,46 @@
 Longer durations of unemployment are not
-the only adverse effect of UI benefits. The prac-
-tice of temporary layoffs in which unemployed
+the only adverse effect of UI benefits. The practice
+of temporary layoffs in which unemployed
 individuals have a spell of unemployment but
 return to their original employer is substantially
-encouraged by high UI replacement rates (Feld-
-stein, 1976, 1978a). High benefits also encour-
-age individuals to accept work in firms with
+encouraged by high UI replacement rates (Feldstein,
+1976, 1978a). High benefits also encourage
+individuals to accept work in firms with
 high seasonal or cyclical layoffs. That reduces
 the wage that such firms have to pay and thus
-subsidizes the expansion of those high unem-
-ployment industries.
+subsidizes the expansion of those high unemployment
+industries.
 As all of this became clear, the most obvious
-first reform was to include unemployment ben-
-efits in taxable income. Although there was
+first reform was to include unemployment benefits
+in taxable income. Although there was
 initially strong opposition to this idea, it was
 hard to argue with the position that cash income
 is cash income and should be taxed. The notion
-that taxing unemployment insurance would in-
-appropriately burden the poor was clearly con-
-trary to the fact that the income tax allows a
+that taxing unemployment insurance would inappropriately
+burden the poor was clearly contrary
+to the fact that the income tax allows a
 substantial exclusion of income before any tax
 is levied. A poor UI recipient would pay no tax.
-The initial legislative compromise was to in-
-clude only half of UI benefits in taxable income
-and to do so only for relatively high-income tax-
-payers. This provided a natural experiment that
+The initial legislative compromise was to include
+only half of UI benefits in taxable income
+and to do so only for relatively high-income taxpayers.
+This provided a natural experiment that
 Gary Solon (1985) used to show that the relative
 duration of unemployment fell for those whose
 benefits were taxed. Later, in the Tax Reform Act
 of 1986, the UI benefits were fully subject to the
 income tax like all other forms of labor income.
 Taxing UI benefits eliminated the possibility
-that an individual could have a higher net in-
-come from UI benefits than by working. It is
-hard to know what the aggregate effect on un-
-employment has been, but my personal estimate
+that an individual could have a higher net income
+from UI benefits than by working. It is
+hard to know what the aggregate effect on unemployment
+has been, but my personal estimate
 is that the unemployment rate probably fell by
 about one-half percentage point after benefits
 were taxed, an effect equal to more than
 500,000 jobs at any time.
-The evidence that UI benefits cause substan-
-tial distortion led to analytic studies of the level
+The evidence that UI benefits cause substantial
+distortion led to analytic studies of the level
 of benefits that optimally balances distortion
 and protection. Martin Bailey (1978) presented
 an analytic model in which the optimal level of
@@ -54,27 +54,27 @@ unemployment on household food consump-  tion, concluding that the optimal repla
 rate should be much less than the 50 percent in
 current law. More recently, however, Raj
 Chetty (2003) showed that the measure of risk
-aversion that is relevant to designing the opti-
-mal UI benefit may be substantially greater than
+aversion that is relevant to designing the optimal
+UI benefit may be substantially greater than
 the risk aversion that is relevant to financial
 investments, because many types of household
 spending cannot be adjusted in the short-run,
-which is relevant to unemployment spells. Chet-
-ty's analysis points to optimal UI replacement
+which is relevant to unemployment spells. Chetty'
+s analysis points to optimal UI replacement
 rates that are close to the levels that we observe
 in the United States.
-These calculations of optimal UI benefits as-
-sume that individuals have no financial assets.
+These calculations of optimal UI benefits assume
+that individuals have no financial assets.
 In contrast, if individuals save optimally, the
 optimal value of UI benefits--especially for
 short and moderate spells would be very much
 less. Although there is evidence that individuals
 who face greater income uncertainty have
 somewhat higher saving rates, it would be
-wrong to assume that in the absence of unem-
-ployment insurance everyone would save
-enough to finance consumption optimally dur-
-ing spells of unemployment. Some individuals
+wrong to assume that in the absence of unemployment
+insurance everyone would save
+enough to finance consumption optimally during
+spells of unemployment. Some individuals
 would be too short-sighted to save for potential
 unemployment.
 What is the optimal response to this problem?
@@ -82,23 +82,23 @@ One possibility would be to continue the current
 system of paying UI benefits but with the level
 and time path of benefits selected to balance the
 gain from protection and the loss from distortion.
-Another possibility would be to shift to a means-
-tested program, although that would induce some
+Another possibility would be to shift to a meanstested
+program, although that would induce some
 individuals to game the system, saving nothing so
 that they could qualify for means-tested benefits
-when they became unemployed. The same prob-
-lem of asymmetric information would prevail, as
+when they became unemployed. The same problem
+of asymmetric information would prevail, as
 in the case of Social Security retirement benefits
 that I discussed before: the government could not
 distinguish individuals who were too short-sighted
 to save from those who were gaming the system.
 On efficiency grounds, the choice between the
-current system and government means-tested ben-
-efits would depend on the response of unemploy-
-ment to the benefit level and on the relative
+current system and government means-tested benefits
+would depend on the response of unemployment
+to the benefit level and on the relative
 number of those who would save optimally, those
 too shortsighted to save, and those who would
 choose not to save in order to qualify for the  means-tested benefits.
 A third possibility is to require everyone to
-have an unemployment insurance savings ac-
-count earmarked to pay benefits if unemploy-
+have an unemployment insurance savings account
+earmarked to pay benefits if unemploy-
