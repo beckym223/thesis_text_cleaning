@@ -10,8 +10,8 @@ business-cycle frequencies can be attributed to
 nominal shocks, the lower Alvarez and Jermann
 estimate of 0.3 should be reduced to 0.1 if it is
 to serve my purpose as an estimate of the value
-of potential improvements in stabilization pol-
-icy. But it is important to keep in mind that this
+of potential improvements in stabilization policy.
+But it is important to keep in mind that this
 estimate is not smaller than Tallarini's because
 of a different estimate of risk aversion. Tallarini's
 estimate of y - 100 is the parametric analogue
@@ -38,8 +38,8 @@ we need to look beyond high estimates of risk
 aversion to do it. The great contribution of
 Alvarez and Jermann is to show that even using
 the highest available estimate of risk aversion,
-the gain from further reductions in business-
-cycle risk is below one-tenth of 1 percent of
+the gain from further reductions in businesscycle
+risk is below one-tenth of 1 percent of
 consumption. The evidence also leaves one free
 to believe-as I do-that the gain is in fact one
 or two orders of magnitude smaller.
@@ -52,15 +52,15 @@ on average, but may be very high for, say, the
 very poor or currently unemployed members of
 society." Several recent studies have pursued
 this possibility.16 Doing so evidently requires
-models with incomplete risk sharing and differ-
-ently situated agents.
+models with incomplete risk sharing and differently
+situated agents.
 Krusell and Smith (1999, 2002) study a
 model economy in which individual families
 are subject to three kinds of stochastic shocks.
 There is an aggregate productivity shock that
 affects everyone, and employment shocks that
-differ from person to person. Families are infi-
-nitely lived dynasties, but every 40 years or so
+differ from person to person. Families are infinitely
+lived dynasties, but every 40 years or so
 a family draws a new head, whose subjective
 discount rate is drawn from a fixed distribution.
 Dynasties with patient heads will accumulate
@@ -68,21 +68,21 @@ wealth while others will run their wealth
 down.17 The sizes of these shocks are chosen so
 that the model economy experiences realistic
 GDP fluctuations, unemployment spells have
-realistic properties, and the overall wealth dis-
-tribution matches the U.S. distribution: In the
+realistic properties, and the overall wealth distribution
+matches the U.S. distribution: In the
 model, the wealthiest 5 percent of households
 own 54 percent of total wealth; in reality, they
 hold 51 percent.
 It is essential to the substantive question that
-motivates this study that neither the employ-
-ment shocks nor the uncertainty about the char-
-acter of the household head can be diversified
+motivates this study that neither the employment
+shocks nor the uncertainty about the character
+of the household head can be diversified
 away. Otherwise, the individual effects of the
 aggregate productivity shocks would be the
 same as in the representative agent models I
 have already discussed. One may argue over
-why it is that markets do not permit such diver-
-sification, but it seems clear enough that they do
+why it is that markets do not permit such diversification,
+but it seems clear enough that they do
 not: Where is the market where people can be
 insured against the risk of having irresponsible
 or incompetent parents or children?

@@ -1,17 +1,17 @@
 cause we are adapted to trade, and because we
-are good at copying successful behavior. Nev-
-ertheless, such processing deficiencies as dis-
-junction and innumeracy do confuse choice.
+are good at copying successful behavior. Nevertheless,
+such processing deficiencies as disjunction
+and innumeracy do confuse choice.
 Ellen Peters at Decision Research studies the
 ability of people to understand and logically
 relate numbers, an essential skill in trading that
-involves prices or barter terms, or more com-
-plex valuations requiring risk assessment or dis-
-counting. Even if individuals do not consciously
+involves prices or barter terms, or more complex
+valuations requiring risk assessment or discounting.
+Even if individuals do not consciously
 "run the numbers" to determine choices, they
-still have to form perceptions and make judg-
-ments based on numerical information. The be-
-havioral evidence is that innumeracy rates are
+still have to form perceptions and make judgments
+based on numerical information. The behavioral
+evidence is that innumeracy rates are
 high and significantly distort decisions. Peters
 and her coauthors (Peters et al., forthcoming)
 find that half the population is unable to read
@@ -21,8 +21,8 @@ measures basic numerical and logical skills, one
 finds errors such as altering ratings of risk and
 choices when probabilities are presented as
 number of successes out of a hundred, number
-of failures out of a hundred, or as percent suc-
-cesses. In one telling experiment, subjects are
+of failures out of a hundred, or as percent successes.
+In one telling experiment, subjects are
 offered a prize if they draw a red jellybean from
 their choice of bowls. Bowl A contains 9 red
 and 91 white beans, while bowl B contains 1 red
@@ -32,18 +32,18 @@ subjects who score low in numeracy often
 choose bowl A because it "gives more chances
 to win."
 One could be hard-nosed about such people
-and say that if they have not educated them-
-selves sufficiently to look after their own inter-
-ests in markets, the consequences are on their
+and say that if they have not educated themselves
+sufficiently to look after their own interests
+in markets, the consequences are on their
 shoulders. The economically unsuccessful can
 vote, however, and they demonstrably have  used the vote at various times and places to pick
 bad governments and bad economic policies.
 The argument against "sink or swim" is that
 when designing market mechanisms, it is in
 society's interest to take a protective interest in
-this segment of the population, building in in-
-formation and decision-making aids, and pro-
-tection from market wolves, which give these
+this segment of the population, building in information
+and decision-making aids, and protection
+from market wolves, which give these
 people a chance of success, thereby increasing
 the fairness of these mechanisms and support
 for them. This argument becomes stronger
@@ -53,21 +53,21 @@ self-interest.
 V. Social Risk
 In risk perception, humans act less as
 individuals and more as social beings who
-have internalized social pressures and del-
-egated their decision-making processes to
+have internalized social pressures and delegated
+their decision-making processes to
 institutions. They manage as well as they
 do, without knowing the risks they face,
-by following social rules on what to ig-
-nore.
+by following social rules on what to ignore.
+
 Mary Douglas and
 Aaron Wildavsky, 1982
 Man is a social animal, identified with family
-and kin, and with troops, tribes, clubs, ethnici-
-ties, and nationalities. This has several conse-
-quences for economic choice behavior. First,
+and kin, and with troops, tribes, clubs, ethnicities,
+and nationalities. This has several consequences
+for economic choice behavior. First,
 individuals may look to their social networks
 for information. Second, they may look to social
-networks for approval, and use social account-
-ability to limit choice. Social norms can be
+networks for approval, and use social accountability
+to limit choice. Social norms can be
 comforting, limiting options and regrets, but
 they can also lead to embarrassment, ostracism,

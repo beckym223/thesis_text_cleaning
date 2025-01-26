@@ -1,16 +1,16 @@
 energy, whether in toto (given as -.25), or
 for the two components.
-This completes my description of the em-
-pirical basis for the MRG procedures and
+This completes my description of the empirical
+basis for the MRG procedures and
 the premises on which they rest. I want,
 in passing, to draw attention at this point
 to the econometric aspects of another
-study, designed to estimate perceived bene-
-fits of air quality improvements from resi-
-dential property values in areas with dif-
-ferent air quality. The study is entitled "The
-Costs and Benefits of Automobile Emis-
-sion Controls." It draws on a body of
+study, designed to estimate perceived benefits
+of air quality improvements from residential
+property values in areas with different
+air quality. The study is entitled "The
+Costs and Benefits of Automobile Emission
+Controls." It draws on a body of
 econometric work in which property values
 are related to various characteristics of the
 site and the neighborhood, including air
@@ -18,85 +18,85 @@ quality and other environmental amenities,
 and the income of the household.
 The foregoing examples lead me to some
 broader remarks on the empirical basis of
-quantitative economic knowledge in gen-
-eral, not limited to the type of studies we
+quantitative economic knowledge in general,
+not limited to the type of studies we
 are here mostly concerned with.
-In all formal procedures involving sta-
-tistical testing or estimation, there are ex-
-plicitly stated but untested hypotheses,
+In all formal procedures involving statistical
+testing or estimation, there are explicitly
+stated but untested hypotheses,
 often called "maintained" hypotheses by
 statisticians. In the econometric studies we
-have here considered, the "premises" al-
-ready discussed play that role. More in
+have here considered, the "premises" already
+discussed play that role. More in
 general, any statement resulting from such
 studies retains the form of an "if ... then . . ."
 statement. The set of "ifs," sometimes called
 "the model," is crucial to the meaning of
-the "thens," usually but somewhat inac-
-curately called the "findings." For instance,
+the "thens," usually but somewhat inaccurately
+called the "findings." For instance,
 in fitting demand relations, the principal
 maintained hypotheses specify the variables
 entering into these relations, and possibly
 other variables with which these variables
-are in turn linked in other pertinent rela-
-tions.
-The "if ... then ..." statements are simi-
-lar to those in the formal sciences. They
+are in turn linked in other pertinent relations.
+
+The "if ... then ..." statements are similar
+to those in the formal sciences. They
 read like logical or mathematical reasoning
-in the case of economic theory, and like ap-
-plications of statistical methods in the case
+in the case of economic theory, and like applications
+of statistical methods in the case
 of econometric estimation or testing. The
 heart of substantive economics is what can
 be learned about the validity of the "ifs"
-themselves, including the "premises" dis-
-cussed above. "Thens" contradicted by ob-
-servation call, as time goes on, for modifica-
-tion of the list of "ifs" used. Absence of
-such contradiction gradually conveys sur-
-vivor status to the "ifs" in question. So I do
+themselves, including the "premises" discussed
+above. "Thens" contradicted by observation
+call, as time goes on, for modification
+of the list of "ifs" used. Absence of
+such contradiction gradually conveys survivor
+status to the "ifs" in question. So I do
 think a certain record of noncontradiction
-gradually becomes one of tentative con-
-firmation. But the process of confirmation
+gradually becomes one of tentative confirmation.
+But the process of confirmation
 is slow and diffuse.
 For some purposes, and at considerable
-expense, short cuts can be made to di-
-minish the dependence on untested "ifs." I
+expense, short cuts can be made to diminish
+the dependence on untested "ifs." I
 am speaking of systematic experiments such
-as the so-called negative income tax ex-
-periment conducted in New Jersey over the
-period 1968-72, and followed by similar in-
-come maintenance experiments in other
+as the so-called negative income tax experiment
+conducted in New Jersey over the
+period 1968-72, and followed by similar income
+maintenance experiments in other
 areas of the United States. If one wants to
-know whether income maintenance pay-
-ments to families near the poverty line have
+know whether income maintenance payments
+to families near the poverty line have
 a disincentive effect, or no effect, or even a
 positive incentive effect on labor supply,
 one does not need to have a pretested theory
-as to what, if anything, the family is maxi-
-mizing. Instead, one can make such pay-
-ments to a sample of families and com-
-pare its behavior with that of an unaided
+as to what, if anything, the family is maximizing.
+Instead, one can make such payments
+to a sample of families and compare
+its behavior with that of an unaided
 control group. This is what the New Jersey
 experiment did. In one category of families
-where the numbers spoke rather clearly-
-white husband-and-wife whole families-
-the effect on labor supply was found to be
-negative, moderate but statistically sig-
-nificant, and with the effect on the husband's
+where the numbers spoke rather clearlywhite
+husband-and-wife whole familiesthe
+effect on labor supply was found to be
+negative, moderate but statistically significant,
+and with the effect on the husband's
 labor supply smaller than that on the wife's.
-In addition, much was learned about the de-
-sign, conduct, and evaluation of such ex-
-periments for use in later studies.
-There have not been many such experi-
-ments on a scale needed to obtain sta-
-tistically significant outcomes. Moreover,
+In addition, much was learned about the design,
+conduct, and evaluation of such experiments
+for use in later studies.
+There have not been many such experiments
+on a scale needed to obtain statistically
+significant outcomes. Moreover,
 they have been limited to questions of
-great and urgent policy importance. Mean-
-while, we do need to find ways in which
+great and urgent policy importance. Meanwhile,
+we do need to find ways in which
 verification of the premises of economics,
 through cumulative econometric analyses
-and through experiments that find a spon-
-sor, can be pursued.
-I have not found in the literature a per-
-suasive account of how such confirmation
+and through experiments that find a sponsor,
+can be pursued.
+I have not found in the literature a persuasive
+account of how such confirmation
 of premises can be perceived and docu-

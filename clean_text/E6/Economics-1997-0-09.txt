@@ -5,34 +5,34 @@ were thus two "gaps" -between savings and
 investment, and between demand for, and
 supply of, foreign exchange. Growth was
 constrained either by savings or by foreign
-exchange availability, and the model demon-
-strated the high potential productivity of for-
-eign aid (in providing foreign exchange),
-enabling otherwise redundant domestic sav-
-ings to be used in capital formation. The
-model, reflecting the views of the day, had lit-
-tle role for the price mechanism.26
+exchange availability, and the model demonstrated
+the high potential productivity of foreign
+aid (in providing foreign exchange),
+enabling otherwise redundant domestic savings
+to be used in capital formation. The
+model, reflecting the views of the day, had little
+role for the price mechanism.26
 An example of an analytical effort to clarify
 circumstances under which one of the stylized
 facts could be realized was Bhagwati's ( 1958)
 and Harry G. Johnson's (1967) demonstration
 of the possibility of "immiserizing growth,"
-under which a country might increase its out-
-put, only to find the price of exports falling so
+under which a country might increase its output,
+only to find the price of exports falling so
 much that the country was worse off. As
 Bhagwati showed, the conditions under which
 that might happen were fairly extreme.
 An important development was the theory
 of shadow pricing, which was an offshoot of
-programming and planning models. It was ini-
-tially used to demonstrate how reliance on
-market prices might yield an inappropriate re-
-source allocation. Quickly, however, analysts
+programming and planning models. It was initially
+used to demonstrate how reliance on
+market prices might yield an inappropriate resource
+allocation. Quickly, however, analysts
 pointed to the distortions between domestic
 prices of import-competing and exportable
 goods because of the trade regime. There is
-little doubt that cost-benefit techniques im-
-proved project selection and enabled improved
+little doubt that cost-benefit techniques improved
+project selection and enabled improved
 governmental decision-making with, inter alia,
 the insistence on use of border prices. The
 publication of the I. M. D. Little and James A.
@@ -44,9 +44,9 @@ In a related and important development, the
 theory of effective protection was developed
 by Johnson (1965a), W. M. Corden (1966),
 Bela Balassa (1965), and others, providing a
-framework for analyzing the protection ac-
-corded to industries engaged in light process-
-ing and much higher value-added activities on
+framework for analyzing the protection accorded
+to industries engaged in light processing
+and much higher value-added activities on
 a comparable basis. The notion of domestic
 resource costs (Bruno, 1965; Krueger, 1966),
 showing the uneven allocation of resources to
@@ -55,36 +55,36 @@ across activities, was developed to meet the
 argument that market prices failed to reflect
 opportunity cost. This research provided a tool
 with which economists could measure the
-wide disparities in protection accorded to dif-
-ferent import-competing industries.
+wide disparities in protection accorded to different
+import-competing industries.
 Recognizing that these estimates were based
 in part on partial equilibrium analysis,27 a
-number of researchers began work on devel-
-oping techniques for computing general equi-
-librium results. Based on newly developed
-solution algorithms, techniques were devel-
-oped for models which endogenized prices,
+number of researchers began work on developing
+techniques for computing general equilibrium
+results. Based on newly developed
+solution algorithms, techniques were developed
+for models which endogenized prices,
 and thus moved away from the linear models
 earlier used for analysis.28
-By the late 1960's and 1970's, there were sig-
-nificant contributions which undermined some
+By the late 1960's and 1970's, there were significant
+contributions which undermined some
 of the premises on which import-substitution
 strategies were based. At an analytical level,
 one line of research focussed on whether the
-stylized facts of "market failure" in fact war-
-ranted the imposition of trade restrictions.
+stylized facts of "market failure" in fact warranted
+the imposition of trade restrictions.
 Bhagwati and V. K. Ramaswami (1963),
-Johnson (1965b), Bhagwati (1969), and oth-
-ers demonstrated that a trade instrument (tariff
+Johnson (1965b), Bhagwati (1969), and others
+demonstrated that a trade instrument (tariff
 or quota) was usually not a first-best, nor often
 even second-best, instrument for achieving the
 objectives in the name of which protection had
 been granted. The equivalence of tariffs and
-quotas, an old result in international econom-
-ics, was revised and refined, as quotas became
+quotas, an old result in international economics,
+was revised and refined, as quotas became
 more frequently used.29
 Research also began analyzing other aspects
 of the ways in which protection actually
-worked. Here, attention focussed on rent-
-seeking (Krueger, 1974) as a by-product of
+worked. Here, attention focussed on rentseeking
+(Krueger, 1974) as a by-product of
 protection (and, indeed, as a user of resources

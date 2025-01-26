@@ -8,15 +8,15 @@ Distribution of Income and Tax Burdens
 It is well known that, after several decades
 of relative stability, the U.S. pre-tax income
 distribution has become much more unequal
-in the last ten years. Official statistics under-
-state the increasing inequality. At the same
+in the last ten years. Official statistics understate
+the increasing inequality. At the same
 time, the tax system as a whole-and the
 income tax in particular-has become less
-equalizing, so that the trend toward inequal-
-ity is even more pronounced after tax than
+equalizing, so that the trend toward inequality
+is even more pronounced after tax than
 before tax.
-Distribution of Income. The longest contin-
-uous and comparable income distribution
+Distribution of Income. The longest continuous
+and comparable income distribution
 series available to us comes from the annual
 Current Population Survey (CPS) of the
 Census Bureau. The figures show that the
@@ -30,14 +30,14 @@ highest ever recorded. The figures for the top
 in 1987 had not quite recovered to the 1952
 high (Table 1).
 It is well known that very high incomes
-are virtually unrepresented in the CPS distri-
-bution and that official census statistics
+are virtually unrepresented in the CPS distribution
+and that official census statistics
 greatly understate income inequality in any
 year. What is not recognized is that the CPS
-data greatly understate the increase in in-
-equality that has occurred during the 1980s
-because very high incomes have been in-
-creasing much faster than the incomes in the
+data greatly understate the increase in inequality
+that has occurred during the 1980s
+because very high incomes have been increasing
+much faster than the incomes in the
 lower part of the distribution.5 This can be
 
 seen by examining changes in the shares of
@@ -48,13 +48,13 @@ Like the CPS data, the tax data show that
 the very rich in the United States-defined
 as either the top 1 percent or the top 5
 percent of the income distribution-enjoyed
-about the same income increases as the aver-
-age income recipient in the 1950s, 1960s, and
+about the same income increases as the average
+income recipient in the 1950s, 1960s, and
 1970s, but their share of total income has
 been rising in the 1980s. From 1952 to 1981,
 the share of the top 1 percent of the tax
-units remained in a very narrow range-be-
-tween 8 and 9 percent of the total income
+units remained in a very narrow range-between
+8 and 9 percent of the total income
 reported on tax returns. Since 1981, their
 share has skyrocketed to 14.7 percent in
 1986. The same trends are shown by the top

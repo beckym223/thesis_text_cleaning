@@ -2,16 +2,16 @@ with few exceptions, is that wage rates are
 specified in the contract, and the employer
 chooses the amount of employment. This is
 not exactly simple monopoly, because the
-union cannot set the wage schedule unilater-
-ally. To the extent that it can, another
+union cannot set the wage schedule unilaterally.
+To the extent that it can, another
 source of wage stickiness can be identified.
 Under a reasonable assumption about what
 the union maximizes, it turns out that the
 only aspect of the demand for labor that has
-any effect on the monopoly wage is its elas-
-ticity. So if the demand curve for labor
-shifts down nearly isoelastically in a reces-
-sion, the contractual wage will change little
+any effect on the monopoly wage is its elasticity.
+So if the demand curve for labor
+shifts down nearly isoelastically in a recession,
+the contractual wage will change little
 or not at all, and the full effect of the fall in
 demand will bear on employment. The
 amount of unemployment compensation
@@ -22,52 +22,52 @@ Melbourne and I hope to say it on another
 occasion.)
 (6) As a last example, I recall Pigou's
 observation that wage changes may be
-seen by the parties as hard to reverse with-
-out a struggle whose duration and outcome
-cannot be foreseen. The resulting uncer-
-tainty causes employers to drag their feet
+seen by the parties as hard to reverse without
+a struggle whose duration and outcome
+cannot be foreseen. The resulting uncertainty
+causes employers to drag their feet
 when demand increases temporarily and
 workers to reciprocate when demand falls.
 The result is wage stickiness in the face of
 fluctuating employment.
-Only what Veblen called trained incapac-
-ity could prevent anyone from seeing that
+Only what Veblen called trained incapacity
+could prevent anyone from seeing that
 some or all of these mechanisms do indeed
 capture real aspects of the modern capitalist
-economy. Assessing their combined signifi-
-cance quantitatively would be a very dif-
-ficult task, and I do not pretend to be able
+economy. Assessing their combined significance
+quantitatively would be a very difficult
+task, and I do not pretend to be able
 to do that. We are all interpreting this ink
 blot together. Obviously I would not be
 giving this particular talk if I did not think
 that wage stickiness is a first-order factor in
 a reasonable theory of unemployment.
 To make my position plausible, I want to
-try to summarize the sort of general char-
-acteristics that the labor market should have
+try to summarize the sort of general characteristics
+that the labor market should have
 if the particular mechanisms that I have
 enumerated are to be important. By the
 way, I have no reason to believe that my list
 is anything like exhaustive; you may think
 of others. Simply to narrow the field, I have
-deliberately left out of account factors relat-
-ing specifically to age, sex, race, and other
+deliberately left out of account factors relating
+specifically to age, sex, race, and other
 characteristics that normally form the basis
 for discussions of structural unemployment
 as distinct from cyclical unemployment.
 The sort of labor market I have in mind is
 segmented. It often makes sense to think of
-an employer or definable group of em-
-ployers as facing its own labor pool. Some
-members of the labor pool may be unem-
-ployed, but still belong to it. Although
+an employer or definable group of employers
+as facing its own labor pool. Some
+members of the labor pool may be unemployed,
+but still belong to it. Although
 transportation, information, and transaction
 costs are possible sources of segmentation,
 they need not be among the most important.
-The buildup of firm-specific or industry-
-specific human capital may be more funda-
-mental, and equally a kind of mutual know-
-ing-what-to-expect that gives both parties in
+The buildup of firm-specific or industryspecific
+human capital may be more fundamental,
+and equally a kind of mutual knowing-
+what-to-expect that gives both parties in
 the labor market a stake, a rent, in the
 durability of the relationship. This point is
 close to the distinction between auction
@@ -98,9 +98,9 @@ catalog depend for their operation on this
 characteristic.
 Third, the stability of the labor pool
 makes it possible for social conventions to
-assume some importance. There is a dif-
-ference between a long-term relationship
-and a one-night stand, and acceptable be-
-havior in one context may be unacceptable
+assume some importance. There is a difference
+between a long-term relationship
+and a one-night stand, and acceptable behavior
+in one context may be unacceptable
 in the other. Presumably most conventions
 are adaptive, not arbitrary, but adaptiveness

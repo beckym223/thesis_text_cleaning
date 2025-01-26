@@ -7,8 +7,8 @@ amounted to $100 billion, $200 billion, and
 $300 billion, respectively, then the real cost
 reduction of the first was $80 billion, that of
 the second was $120 billion, and that of the
-third $150 billion. So we can say that, mea-
-sured at initial prices, the real cost reduction
+third $150 billion. So we can say that, measured
+at initial prices, the real cost reduction
 of the three together was $350 billion over the
 decade in question. I truly think that the notion
 of real cost reduction being additive in this
@@ -19,8 +19,8 @@ easily from the labels "technical advance"
 and "total factor productivity."
 Anyway, this vision of the growth process
 opens up many new vistas and gives us many
-new challenges. To me, it gives life to the re-
-sidual, viewed as real cost reduction, in a way
+new challenges. To me, it gives life to the residual,
+viewed as real cost reduction, in a way
 that remote macroeconomic externalities
 never did. It gives the residual body, in the
 sense that the number of dollars saved by real
@@ -29,16 +29,16 @@ quantity. It gives the residual a name (real cost
 reduction), an address (the firm), and a face
 (the face of the entrepreneur, the CEO, the
 production manager, etc.) And, finally, we
-shall see that there can be vastly different ex-
-pressions on that face, even as we move from
+shall see that there can be vastly different expressions
+on that face, even as we move from
 firm to firm in a given industry, as the TFP
 experience of a period moves from sharply
 positive to devastatingly negative.
 I. Yeast versus Mushrooms: Part I
 Table 1 is based on the numerical example
-just given, plus the information that the re-
-maining industries (say, in the economy) to-
-gether had an initial value added of $1,400
+just given, plus the information that the remaining
+industries (say, in the economy) together
+had an initial value added of $1,400
 billion and experienced real cost reduction of
 $150 billion over the period. Setting out data
 in the format of Table 1 allows us to make
@@ -55,8 +55,8 @@ background paper (Harberger, 1990) for the
 World Bank's World Development Report of
 1991. Once I saw it, I immediately embraced
 it, because it helped me communicate to others
-what I call the "yeast versus mushrooms" is-
-sue. The analogy with yeast and mushrooms
+what I call the "yeast versus mushrooms" issue.
+The analogy with yeast and mushrooms
 comes from the fact that yeast causes bread to
 expand very evenly, like a balloon being filled
 with air, while mushrooms have the habit of

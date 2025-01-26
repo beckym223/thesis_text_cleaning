@@ -2,19 +2,19 @@ we have seen and emphasized might simply
 be the result of errors of observations? This
 is by no means a frivolous question. For one
 can actually create frequency distributions
-of rates of TFP increase which contain ex-
-actly the same information as the sunrise-
-sunset diagrams previously presented. The
+of rates of TFP increase which contain exactly
+the same information as the sunrisesunset
+diagrams previously presented. The
 only trick is to count as the unit of frequency
 not one firm (out of an industry aggregate)
-or one industry (out of some larger aggre-
-gate) but, instead, say, 1 percent of the total
+or one industry (out of some larger aggregate)
+but, instead, say, 1 percent of the total
 value added of the aggregate. Thus a firm
-with 20 percent of the value added of an in-
-dustry would appear with 10 times the
+with 20 percent of the value added of an industry
+would appear with 10 times the
 weight of a firm accounting for 2 percent of
 the value added of that industry. In such a
-chart, the cumulative frequency (say, 68 per-
-cent) above ATFP = 0 would represent the
+chart, the cumulative frequency (say, 68 percent)
+above ATFP = 0 would represent the
 projection on the horizontal axis of the
 maximum point on a sunrise diagram. Its

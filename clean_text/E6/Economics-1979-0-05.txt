@@ -1,12 +1,12 @@
-helium resulting from productive com-
-bustion of the host gas, and store the
+helium resulting from productive combustion
+of the host gas, and store the
 helium instead.
 Step iv: Build new helium separation
 plants on helium-rich gas streams. Store
 the helium.
 Step v: Delay the use of helium-rich
-gas fields, undeveloped, and already pro-
-ducing.
+gas fields, undeveloped, and already producing.
+
 Ultimate Step: Extract helium from the
 atmosphere.
 The ultimate step is not included in the
@@ -19,22 +19,22 @@ natural gas containing .3 to .5 percent
 helium.
 Steps i, iii, iv, and the "ultimate step"
 consist of successive technical process
-choices. Taken in that order, they cor-
-respond to the economist's notion of a
+choices. Taken in that order, they correspond
+to the economist's notion of a
 long-run supply curve, indicating how the
 cost of each additional unit of supply is a
-rising step function of the cumulative sup-
-ply up to that point assuming a constant
+rising step function of the cumulative supply
+up to that point assuming a constant
 state of the technology of extraction. These
 steps need to be carried out only according
-as the expectation of demand growth be-
-comes larger and firmer. Steps ii and v are
-steps whose timing should depend on ad-
-ditional factors besides the separation cost
+as the expectation of demand growth becomes
+larger and firmer. Steps ii and v are
+steps whose timing should depend on additional
+factors besides the separation cost
 sequence already mentioned.
 The expectation of a much larger demand
-well into the twenty-first century is docu-
-mented, in the report and in the Forum, by
+well into the twenty-first century is documented,
+in the report and in the Forum, by
 a fascinating enumeration of anticipated
 future technologies. Many of these are based
 on or may utilize superconductivity, so far
@@ -43,37 +43,37 @@ which helium is the working fluid. The
 superconductivity is in turn expected to be
 applicable to a number of uses, such as
 power transmission with low energy loss,
-energy storage, and a number of applica-
-tions of strong magnetic fields. Among the
+energy storage, and a number of applications
+of strong magnetic fields. Among the
 latter are several "technologies that either
 do not now exist or are in early stages of
 development" (pp. 13-18), such as magnetic
 containment for nuclear fusion reactors.
-Another possible application is magneto-
-hydrodynamic (MHD) power generation
+Another possible application is magnetohydrodynamic
+(MHD) power generation
 that converts some of the energy contained
 in a high temperature gas stream from either
-a coal-fired burner or a nuclear fission reac-
-tor directly into electricity, instead of rout-
-ing all the energy through a conventional
+a coal-fired burner or a nuclear fission reactor
+directly into electricity, instead of routing
+all the energy through a conventional
 steam cycle. The MHD development is
 further along in the Soviet Union. There
 also is a development furthest along in
 West Germany and Japan-of magnetically
 levitated low-noise high-speed trains.
 It should be added that research is in
-progress on the use of aluminum and pos-
-sibly other materials reaching low resistivity
-at temperatures of 20-30?K, a range reach-
-able using liquid hydrogen as a coolant.
-(See L. A. Hall, National Bureau of Stan-
-dards Report, and E. B. Forsyth et al.)
+progress on the use of aluminum and possibly
+other materials reaching low resistivity
+at temperatures of 20-30?K, a range reachable
+using liquid hydrogen as a coolant.
+(See L. A. Hall, National Bureau of Standards
+Report, and E. B. Forsyth et al.)
 From the economic point of view, the
 case for the helium storage program is not
 convincingly made either in the report or
 in the Forum. I have not found either cost
-or benefit estimates for the program. Ac-
-tually, because of the importance of energy
+or benefit estimates for the program. Actually,
+because of the importance of energy
 supply processes among the increased uses
 of helium listed above, the benefits cannot
 be estimated without comparable cost and
@@ -87,12 +87,12 @@ addresses the second decision problem of
 Table 1. One will, of course, also need to
 consider other important helium uses that
 are not directly energy related.
-Before turning to problem (2), I draw at-
-tention to a few passages in the Helium Re-
-port that will provide background for Sec-
-tions III and IV below, where I shall discuss
+Before turning to problem (2), I draw attention
+to a few passages in the Helium Report
+that will provide background for Sections
+III and IV below, where I shall discuss
 the choice of measures of value in which to
 express benefits and costs. The report
-(p. 23) contains an important piece of in-
-formation bearing on cost comparisons, to
+(p. 23) contains an important piece of information
+bearing on cost comparisons, to
 the effect that the energy requirements for

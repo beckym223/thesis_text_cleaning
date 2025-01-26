@@ -4,33 +4,33 @@ that workers might accept the necessary 4
 percent reduction in nominal wages, in the
 expectation that half of it would be offset by
 lower prices. The trouble is that Pigou's
-demand elasticities are way too high. A re-
-cent econometric study by Kim Clark and
+demand elasticities are way too high. A recent
+econometric study by Kim Clark and
 Richard Freeman, based on quarterly data
 for U.S. manufacturing. 1950-76, puts the
 real-wage elasticity of demand for labor at
 about one-half, a whole order of magnitude
-smaller than Pigou's guess.2 And the Clark-
-Freeman work is presented as revisionist, a
+smaller than Pigou's guess.2 And the ClarkFreeman
+work is presented as revisionist, a
 counterweight to other estimates that are
 typically lower, averaging out at about 0.15
-according to a survey by Daniel Hamer-
-mesh. To my mind, smooth wage adjust-
-ment seems intrinsically unlikely in a world
+according to a survey by Daniel Hamermesh.
+To my mind, smooth wage adjustment
+seems intrinsically unlikely in a world
 with such a small demand elasticity and
 institutions like those sketched earlier.
 Nothing I read in the newspapers suggests
-to me that 6 percent of nonfrictional unem-
-ployment produces a threat adequate to set
+to me that 6 percent of nonfrictional unemployment
+produces a threat adequate to set
 off a quick 12-15 percent fall in the real
 wage, or a drop in nominal wage rates twice
 as large. Sellers facing inelastic demands
 usually try to discourage price cutting; why
 should workers be different?
-The modern classical school seems curi-
-ously remote from all this. When they try to
-explain how the equilibrium volume of em-
-ployment can fluctuate as widely as actual
+The modern classical school seems curiously
+remote from all this. When they try to
+explain how the equilibrium volume of employment
+can fluctuate as widely as actual
 employment does in business cycles, their
 only substitute for Pigou's high elasticity of
 demand is a high elasticity of supply (of
@@ -38,9 +38,9 @@ labor) in the face of a perceived temporary
 opportunity for unusual gains, which in this
 case reflects wages that differ from average
 expected (discounted) future wages. In other
-words, People who give the vague impres-
-sion of being unemployed are actually en-
-gaged in voluntary leisure. They are taking
+words, People who give the vague impression
+of being unemployed are actually engaged
+in voluntary leisure. They are taking
 it now, planning to substitute extra work
 later, because they think, rightly or wrongly,
 that current real wages are unusually low
@@ -50,8 +50,8 @@ may be responding to changes in real wages
 or to changes in the real interest rate.
 It is astonishing that believers have made
 essentially no effort to verify this central
-hypothesis. I know of no convincing evi-
-dence in its favor,3 and I am not sure why it
+hypothesis. I know of no convincing evidence
+in its favor,3 and I am not sure why it
 has any claim to be taken seriously. It is
 hardly plausible on its face. Even if the
 workers in question have misread the future,
@@ -64,9 +64,9 @@ why they queue up in such numbers when
 legitimate jobs of their usual kind are
 offered during a recession.4
 When they face the market-clearing issue
-at all, Pigou's successors take a rather ab-
-stract line. They regard it as inherently in-
-credible that unexploited opportunities for
+at all, Pigou's successors take a rather abstract
+line. They regard it as inherently incredible
+that unexploited opportunities for
 beneficial trade should be anything but
 ephemeral-which means merely that they
 ignore all those human and institutional
@@ -79,7 +79,7 @@ you think about it. I remember reading once
 that it is still not understood how the giraffe
 manages to pump an adequate blood supply
 all the way up to its head; but it is hard to
-imagine that anyone would therefore con-
-clude that giraffes do not have long necks.
+imagine that anyone would therefore conclude
+that giraffes do not have long necks.
 At least not anyone who had ever been to a
 zoo. Besides, I think perfectly acceptable

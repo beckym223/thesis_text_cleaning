@@ -1,6 +1,6 @@
 A much more substantial reduction in the
-effective tax rate would be achieved by financ-
-ing the increased cost of Social Security and
+effective tax rate would be achieved by financing
+the increased cost of Social Security and
 Medicare by a funded system that would permit
 future benefits to be financed without a large
 increase in the tax rate. Moreover, to the extent
@@ -8,18 +8,18 @@ that the additional saving that individuals do
 earns a favorable rate of return, they might not  consider it a tax at all. I will return to this issue
 later when I discuss Social Security reform
 more fully.
-Designing Programs by Balancing Protec-
-tion and Distortion, while Seeking Reforms that
+Designing Programs by Balancing Protection
+and Distortion, while Seeking Reforms that
 Improve the Available Tradeoff.-Social insur-  ance programs generally involve a tradeoff of
-protection and distortion. Social insurance pro-
-grams protect individuals against undesirably
+protection and distortion. Social insurance programs
+protect individuals against undesirably
 low levels of consumption during old age, spells
 of unemployment, or when hit by large medical
 bills. They also protect individuals from the
 need to work longer than health warrants, to
 accept a job when additional searching would
-be adequately productive, or to forego appropri-
-ate medical care because of an inability to pay.
+be adequately productive, or to forego appropriate
+medical care because of an inability to pay.
 But the same social insurance programs also
 distort incentives in ways that cause inefficient
 use of resources: early retirement, low saving,
@@ -35,8 +35,8 @@ saving and may induce early retirement. A high
 level of unemployment insurance benefits helps
 the unemployed to maintain consumption but
 also encourages longer spells of unemployment
-and the choice of jobs that have a greater like-
-lihood of leading to a layoff. Low co-payments
+and the choice of jobs that have a greater likelihood
+of leading to a layoff. Low co-payments
 in health insurance reduce the risk of foregoing
 needed care or suffering a major drop in other
 consumption, but they also lead to an increased
@@ -49,18 +49,18 @@ marginal value of protection declines and the
 incremental distortion rises. The primary goal
 of social insurance should, therefore, generally
 be to prevent catastrophic losses: poverty in old
-age, long-term loss of income when unem-
-ployed, very expensive out-of-pocket medical
+age, long-term loss of income when unemployed,
+very expensive out-of-pocket medical
 costs, and the consequences of permanent
 disability. More generally, at the optimum,
 the marginal value of additional protection
 should just equal the marginal cost of the
 distortion. Economists can help the policy
-process by evaluating the protection and dis-
-tortion created by different changes in pro-
-gram design.
-Useful economic analysis can go beyond select-
-ing an optimal point on a protection-distortion
+process by evaluating the protection and distortion
+created by different changes in program
+design.
+Useful economic analysis can go beyond selecting
+an optimal point on a protection-distortion
 frontier. It is important to seek ways to shift the
 frontier, permitting less distortion at each level of
 protection. Reforms based on individual accounts
@@ -68,26 +68,26 @@ that I describe later in the paper would achieve
 that improvement.
 Redesigning Programs to Keep Pace with
 Changing Conditions.--Three important changes
-that should influence the design of our social in-
-surance programs have occurred since those
-programs began: a changed economy, new tech-
-nology, and a different understanding of the effect
+that should influence the design of our social insurance
+programs have occurred since those
+programs began: a changed economy, new technology,
+and a different understanding of the effect
 of government programs on individual behavior.
-The Social Security and unemployment in-
-surance programs were created during the de-
-pression of the 1930s when individual savings
+The Social Security and unemployment insurance
+programs were created during the depression
+of the 1930s when individual savings
 had been destroyed by widespread bank failures
-and when many individuals had been unem-
-ployed for a year or more because of a lack of
+and when many individuals had been unemployed
+for a year or more because of a lack of
 aggregate demand. Keynesian economists in the
 1940s like Harvard's Seymour Harris praised
-the unfunded character of the new Social Secu-
-rity program for its ability to depress national
+the unfunded character of the new Social Security
+program for its ability to depress national
 saving and stimulate aggregate demand (Harris,
 1941). In contrast to those depression years,
 conditions in the past half-century have been
-very different, with relatively low unemploy-
-ment rates and a system of government deposit
+very different, with relatively low unemployment
+rates and a system of government deposit
 insurance that protects individual savings. The
 unemployment insurance and Social Security
 that may have been appropriate in the 1930s is

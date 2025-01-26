@@ -8,22 +8,22 @@ the past twenty-five years or so have failed
 to serve us well. When we consider the state
 of our knowledge about the analytics of the
 economy at the end of World War II and
-the apprehensiveness with which we ap-
-proached the modern era of expansion, it
+the apprehensiveness with which we approached
+the modern era of expansion, it
 should be evident that we have come a long
-way professionally. Yet the economic prob-
-lems of today seem to be intractable when
+way professionally. Yet the economic problems
+of today seem to be intractable when
 studied through the medium of simplified
 macro models. The new system should
-combine the Keynesian model of final de-
-mand and income determination with the
+combine the Keynesian model of final demand
+and income determination with the
 Leontief model of interindustrial flows.
-This is the motivation for my focusing at-
-tention on the supply side of the economy.
+This is the motivation for my focusing attention
+on the supply side of the economy.
 It is frequently said, in almost an offhand
-manner, that the theories of aggregate em-
-ployment and output determination are de-
-mand models, that economic policy for
+manner, that the theories of aggregate employment
+and output determination are demand
+models, that economic policy for
 overall direction of the economy is a policy
 of demand management. I would generally
 agree with these remarks, but not in every
@@ -35,41 +35,41 @@ It is, of course, true that demand for the
 GNP built up as the sum of demands by
 consumers, businesses, government, and
 foreigners (consumption, investment, public
-spending, and net exports) covers total de-
-mand in the economy and is composed of
-demands by the constituent parts. But de-
-mand by firms, and, in many cases by gov-
-ernment, are not ends in themselves. Busi-
-ness demand is largely for goods to produce
+spending, and net exports) covers total demand
+in the economy and is composed of
+demands by the constituent parts. But demand
+by firms, and, in many cases by government,
+are not ends in themselves. Business
+demand is largely for goods to produce
 goods. The capital formation that results
-from business demand goes into the incre-
-ment of capital stock, after allowance for
+from business demand goes into the increment
+of capital stock, after allowance for
 capital consumption, and the capital stock
 becomes a factor input in the production
-function. The accumulation of capital con-
-tributes to the supply of goods and services.
+function. The accumulation of capital contributes
+to the supply of goods and services.
 Indeed, investment demand now for new
 capital facilitates the implementation of the
-production process with the supply of fac-
-tors of ever-increasing powers of productiv-
-ity, thus making it possible to supply in-
-creasing amounts of goods and services
-with inputs that are increasing at a some-
-what slower rate.
+production process with the supply of factors
+of ever-increasing powers of productivity,
+thus making it possible to supply increasing
+amounts of goods and services
+with inputs that are increasing at a somewhat
+slower rate.
 By focusing attention excessively on the
 "short run," in which the capital stock is
 timelessly held fixed by assumption only
-and not in reality, we have ignored the sup-
-ply-side characteristics of investment de-
-mand. Students of today's business cycle
+and not in reality, we have ignored the supply-
+side characteristics of investment demand.
+Students of today's business cycle
 commonly cite investment demand as the
-promising potential route to higher produc-
-tivity in the relatively near future, thereby
-lessening inflationary pressure. In this re-
-spect, economic theoreticians have been
+promising potential route to higher productivity
+in the relatively near future, thereby
+lessening inflationary pressure. In this respect,
+economic theoreticians have been
 myopic relative to the applied economic
-analysts in the world of affairs. Neverthe-
-less, as we shall see, there is much more
+analysts in the world of affairs. Nevertheless,
+as we shall see, there is much more
 to the supply side than the transformation
 of investment into productive capital, and
 the basic characterization of contemporary

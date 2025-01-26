@@ -1,37 +1,37 @@
 mal, long-term, market-clearing level, taking
 account of storage costs and interest, and
-appropriately discounted for uncertainty. In-
-deed, it was precisely in the context of rea-
-soning about markets for storable individual
+appropriately discounted for uncertainty. Indeed,
+it was precisely in the context of reasoning
+about markets for storable individual
 commodities (and agricultural commodities
 in particular) that John Muth first presented
-the concept that he called "rational expecta-
-tions". ' In this particular microeconomic
-context there can surely be no valid objec-
-tion to rational expectations. But we must
+the concept that he called "rational expectations"
+. ' In this particular microeconomic
+context there can surely be no valid objection
+to rational expectations. But we must
 not forget that the primary way in which
 expectations- rational or otherwise-affect
 current prices is precisely through affecting
 behavior with respect to inventories, along
 with sales or purchases for future delivery
-(i.e., negative inventories) or through affect-
-ing some other form of intertemporal sub-
-stitution between, for example, labor and
+(i.e., negative inventories) or through affecting
+some other form of intertemporal substitution
+between, for example, labor and
 leisure, now and in the future.2
 Markets for commodities, of course, vary
 widely in the extent to which inventories are
 able to stabilize price or consumption. At the
 one extreme is the traditional market for
-fresh flowers. Holding inventories is, by defi-
-nition, impossible. Random fluctuations in
+fresh flowers. Holding inventories is, by definition,
+impossible. Random fluctuations in
 the production of or the demand for fresh
 flowers are thus fully reflected in daily prices.
 And because the immediate response of
 amounts supplied to price changes is zero, by
-definition, and the response of amounts de-
-manded to price is relatively small, price
-fluctuations in fresh flowers may be sub-
-stantial. Inventories cannot supplement
+definition, and the response of amounts demanded
+to price is relatively small, price
+fluctuations in fresh flowers may be substantial.
+Inventories cannot supplement
 below-normal current production; nor can
 inventories be accumulated to profit from a
 below-normal current price or from an
@@ -39,22 +39,22 @@ expected above-normal future price.
 At the opposite extreme are the markets
 for the durable products of agriculture and
 mining-for example, for wheat or tin. Here
-storage costs are relatively low, and invento-
-ries may easily reach the equivalent of one or
+storage costs are relatively low, and inventories
+may easily reach the equivalent of one or
 even several years' production. Under such
 circumstances, it is not implausible to argue
 that rational expectations and inventory
-adjustments tend to stabilize prices and con-
-sumption in the presence of random fluctua-
-tions in supply or demand.3 On the other
+adjustments tend to stabilize prices and consumption
+in the presence of random fluctuations
+in supply or demand.3 On the other
 hand, durable or " permanent" changes in
 supply or demand alter the equilibrium price,
 and, almost at once, the actual market price
 begins to reflect that change.
 II. Price Speculation
 However, the existence of large inventories
-also introduces the possibility of price insta-
-bility arising from "speculation." Consider,
+also introduces the possibility of price instability
+arising from "speculation." Consider,
 for example, the extreme case of gold, when
 it is only a commodity, and not used as
 money. Gold is obviously very durable. And
@@ -65,9 +65,9 @@ stock. The costs of storage are relatively low.
 It is also nearly indestructible: its services as
 ornament or store of value are consumed
 with little or no disappearance or dissipation.
-Most of the gold that was ever mined pre-
-sumably still exists, and is potentially avail-
-able as an addition to the market supply
-from new production-at prices deemed suf-
-ficiently above equilibrium. Gold is currently
+Most of the gold that was ever mined presumably
+still exists, and is potentially available
+as an addition to the market supply
+from new production-at prices deemed sufficiently
+above equilibrium. Gold is currently
 produced; and its rate of production does

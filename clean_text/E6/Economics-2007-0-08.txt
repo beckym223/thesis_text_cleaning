@@ -10,8 +10,8 @@ some way or other they play the clown.
 Behavior at the merry-go-round is, of course,
 just the stuff of kids. But Goffman supplements
 it with a totally serious example. In surgical
-operations, because of their inexperience, med-
-ical students are given tasks that are ridiculously
+operations, because of their inexperience, medical
+students are given tasks that are ridiculously
 easy.17 They respond in the same way as the
 older children at the merry-go-round: they also  act the clown.18
 In economics, as elsewhere, $500 bills do not
@@ -25,9 +25,9 @@ norms. Becker's theoretical innovation was to
 modify plain-vanilla economic utility by the
 introduction of a discrimination coefficient. He
 defined that as the loss in utility incurred by
-exchange with someone from a different race-
-for example, the loss of a white from an ex-
-change with a black. The natural interpretation
+exchange with someone from a different racefor
+example, the loss of a white from an exchange
+with a black. The natural interpretation
 is that the discrimination coefficient represents
 the loss in utility for the white from physically
 engaging in an exchange with a black. But this
@@ -41,15 +41,15 @@ from the physical association-but ipso facto
 from the violation of the code. There is reason
 to believe that such norm-based interpretation
 better reflects the nature of discrimination than
-a physical exchange-based theory. In the pre-
-Civil Rights period, when Becker was writing,
+a physical exchange-based theory. In the preCivil
+Rights period, when Becker was writing,
 there can be no doubt that discrimination, and
 the code that upheld it, was stronger in the
 South than in the North. Yet exchanges between
 blacks and whites were surely much more com-  mon in the South than in the North. At least one
 statistic reflects such a difference: there were
-significantly lower levels of residential segrega-
-tion by race in the South than in the North.
+significantly lower levels of residential segregation
+by race in the South than in the North.
 B. Summary
 Our examples are illustrative of behavior that
 is pervasive. Sociology is dense in examples of
@@ -58,5 +58,5 @@ behave, their joy when they live up to those
 standards, and their discomfort and reactions
 when they fail to do so.
 We now turn to examining the role of
-norms in each of the five macroeconomic neu-
-tralities.20 In each case we shall ask whether
+norms in each of the five macroeconomic neutralities.
+20 In each case we shall ask whether

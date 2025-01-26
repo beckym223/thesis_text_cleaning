@@ -18,40 +18,40 @@ about 60 percent (a figure which becomes
 75 percent with exclusion of the intergroup
 shifts) .26
 Indications of a rising tendency of the
-rate of productivity-increase are consis-
-tent, though the rise is small as compared
-to the rise of the recorded progress-gen-
-erating inputs, particularly of R & D, in
-relation to output. The discrepancy be-
-comes significantly reduced by reasonable
+rate of productivity-increase are consistent,
+though the rise is small as compared
+to the rise of the recorded progress-generating
+inputs, particularly of R & D, in
+relation to output. The discrepancy becomes
+significantly reduced by reasonable
 allowance for progress-inputs that are not
 recorded as such.
 IV. The Framework for Productivity and
 Benefit Measurement: How Serious
 are its Pitfalls?
-1. Using the All-Inclusive Cost-Base Re-
-quires a Deduction on the Productivity-Side.
+1. Using the All-Inclusive Cost-Base Requires
+a Deduction on the Productivity-Side.
 We start with a pitfall for the avoidance
 of which a definite prescription can be
 given. If we say, as we do when using our
-all-inclusive cost-base, that productivity-
-increases cost us inter alia the inputs
+all-inclusive cost-base, that productivityincreases
+cost us inter alia the inputs
 needed for increased per capita education,
-then we are implying that on the benefit-
-side the bulk of this particular cost must
-be deducted from the productivity-in-
-creases. The reason is that a once-attained
+then we are implying that on the benefitside
+the bulk of this particular cost must
+be deducted from the productivity-increases.
+The reason is that a once-attained
 higher level of per capita education must
 subsequently be maintained to keep the
 level of knowledge from becoming reduced.
-In this regard the characteristics of educa-
-tion are different from those of R & D or
+In this regard the characteristics of education
+are different from those of R & D or
 from those of the costs of changeovers.
-What needs to be deducted on the bene-
-fit-side is the "bulk" of the cost that had
+What needs to be deducted on the benefit-
+side is the "bulk" of the cost that had
 been entered for education-not the entire
-cost-because we are relating our magni-
-tudes to output, and constancy per unit of
+cost-because we are relating our magnitudes
+to output, and constancy per unit of
 the population means a gradual reduction
 per unit of output. However, on reasonable
 quantitative assumptions the "discounted
@@ -60,8 +60,8 @@ growth rates is small, and hence I will
 indeed deduct the bulk.27
 2. The Embodiment-Disembodiment Issue,
 the Quality-Quantity Controversy and the
-Importance of "Dimensions of Improve-
-ment."'
+Importance of "Dimensions of Improvement.
+"'
 We shall now consider the main problem
 of the present section. Our reasoning can
 be Dlaced into frameworks of different

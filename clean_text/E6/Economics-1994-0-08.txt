@@ -6,14 +6,14 @@ output measurement. Until 1986, computer
 prices were treated as unchanged in the
 national income accounts. It took 25 years
 for the recommendations of the Stigler
-committee (Griliches, 1961; National Bu-
-reau of Economic Research, 1961) to have a
+committee (Griliches, 1961; National Bureau
+of Economic Research, 1961) to have a
 noticeable effect on official practice, but
 when they did, they did it with a bang! In
 1986 the Bureau of Economic Analysis
 (BEA) introduced a new computer price
-index, based on hedonic regression meth-
-ods, into the national accounts and revised
+index, based on hedonic regression methods,
+into the national accounts and revised
 them back to 1972 (Rosanne Cole et al.,
 1986).8 This index was falling by about 15
 percent per year or more (as compared to
@@ -32,45 +32,45 @@ created some problems. First, it was a
 unique adjustment. No other high-tech
 product had received parallel treatment, and
 thus it stuck out like a sore thumb. This had
-the unfortunate consequence that the pro-
-ductivity growth in the computer industry
+the unfortunate consequence that the productivity
+growth in the computer industry
 itself was seriously overestimated, because
-some of its major inputs, such as semicon-
-ductors, were not similarly deflated. Second,
+some of its major inputs, such as semiconductors,
+were not similarly deflated. Second,
 it was introduced into a framework with
 fixed weights, wrecking havoc on it. Using
 fixed 1982 weights and a sharply falling price
-index implied the absence of a "real" com-
-puter industry in the early 1970's and a very
+index implied the absence of a "real" computer
+industry in the early 1970's and a very
 rapid growth in its importance, leading to a
-more than doubling of the share of machin-
-ery in total manufacturing output by the
+more than doubling of the share of machinery
+in total manufacturing output by the
 
 
 late 1980's. This last problem has largely
 been solved recently with the introduction
 of "benchmark-weighted" estimates of gross
 domestic product (GDP) and the moving
-away from fixed-weights national income ac-
-counting (Allan Young, 1992). But the first
+away from fixed-weights national income accounting
+(Allan Young, 1992). But the first
 problem, the uniqueness of this adjustment
 in the face of similar, though perhaps not as
 extreme, problems elsewhere remains to
 haunt us.
 What I have done in Figure 3 (and in row
 3b of Table 1) is to adjust the estimated
-TFP growth in the computer industry down-
-ward by deflating materials purchases in
+TFP growth in the computer industry downward
+by deflating materials purchases in
 this industry, which to a significant extent
-consist of purchases of other computer com-
-ponents and semiconductors, by the same
+consist of purchases of other computer components
+and semiconductors, by the same
 output price index. I have also substituted a
 similar price index in the semiconductors
 (electronic components) industry and also
-adjusted the growth of TFP in the phar-
-maceuticals industry upward to reflect the
-exclusion of price declines due to the intro-
-duction of generics in the current measure-
-ment procedures. (I shall come back to
+adjusted the growth of TFP in the pharmaceuticals
+industry upward to reflect the
+exclusion of price declines due to the introduction
+of generics in the current measurement
+procedures. (I shall come back to
 discuss this last adjustment later on.) So
 adjusted, Figure 3 does not look all that

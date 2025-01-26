@@ -1,24 +1,24 @@
 these are so limited in their coverage of
-future goods transactions. There are for-
-ward contracts in money, some com-
-modities, real estate, but very little else.
+future goods transactions. There are forward
+contracts in money, some commodities,
+real estate, but very little else.
 The explanation lies in uncertainties of
 both buyers and sellers about prices and
 quantities and about technology and
 tastes. Using uncertainties about prices
-and quantities as an explanation for mar-
-ket failure is a circular argument, though
+and quantities as an explanation for market
+failure is a circular argument, though
 not necessarily a fallacy. That is, if all
 markets for future goods existed and
 cleared all transactions, then there would
 be no price-quantity uncertainties. But
-this much is true; if some markets for fu-
-ture goods do not exist, then the agents
+this much is true; if some markets for future
+goods do not exist, then the agents
 have uncertainties which are relevant to
-their behavior on markets for complemen-
-tary or substitute goods. As Hicks showed
-a long time ago, complementarity and sub-
-stitution can occur over time as well as
+their behavior on markets for complementary
+or substitute goods. As Hicks showed
+a long time ago, complementarity and substitution
+can occur over time as well as
 simultaneously. If, as I will argue in a
 minute, uncertainty can tend to destroy
 markets, then we can conclude that the
@@ -26,10 +26,10 @@ absence of some markets for future goods
 may cause others to fail.
 To illustrate, the demand for capital
 goods at any point of time is dependent on
-the prices and sales of the product at fu-
-ture points of time. Therefore the demand
-for future capital goods will depend on ex-
-pectations about the product at some still
+the prices and sales of the product at future
+points of time. Therefore the demand
+for future capital goods will depend on expectations
+about the product at some still
 more removed time. If we assume only
 that we will not have markets for products
 at some distant point of time, then the
@@ -44,11 +44,11 @@ and supply conditions for the future are
 uncertain because of technological and
 taste shifts. Assume that both buyers and
 sellers are risk averters. Then without
-going into details it is reasonable to con-
-clude that both demand and supply will
+going into details it is reasonable to conclude
+that both demand and supply will
 have a downward bias as compared with
-the situation in which uncertainty is ab-
-sent. A buyer will be unwilling to contract
+the situation in which uncertainty is absent.
+A buyer will be unwilling to contract
 for purchase of a good if a superior or
 cheaper substitute may be available; and
 the seller will be unwilling to accept a
@@ -57,18 +57,18 @@ buyer, particularly if he thereby precludes
 himself from a possible opportunity to
 shift his resources to other closely related
 goods. It would seem possible, at least,
-that there will be no price at which tran-
-sactions in future goods will take place.
+that there will be no price at which transactions
+in future goods will take place.
 From a theoretical viewpoint, one might
 say that the market is in a strange sort of
 equilibrium; there is some shadowy sort of
 price at which supply and demand are
-equated at zero. But this price is not per-
-forming much of a signalling function.
+equated at zero. But this price is not performing
+much of a signalling function.
 There is one ultra-neoclassical approach
 to the market treatment of uncertainties,
-in which I take some pride. That is the no-
-tion of a contingent market. Instead of
+in which I take some pride. That is the notion
+of a contingent market. Instead of
 letting uncertainty ruin existing markets,
 we can take it explicitly into account by
 buying and selling commitments to be
@@ -80,15 +80,15 @@ innovation does not take place, with a
 second market for transactions valid if the
 innovation does take place. Then we can
 restore the possibility of markets.
-Such contingent markets are not en-
-tirely unknown; insurance contracts are
+Such contingent markets are not entirely
+unknown; insurance contracts are
 the purest example, and equity markets
 and cost-plus contracts provide more
-muddied illustrations. But they are rela-
-tively rare. Why this should be so follows
-again from the general problem of informa-
-tioin costs and dispersal. If contracts are
+muddied illustrations. But they are relatively
+rare. Why this should be so follows
+again from the general problem of informatioin
+costs and dispersal. If contracts are
 contingent on the occurrence of some
 event, then it must be verified whether or
-not the event occurre(l. But this is informa-
-tion, an(I as the example of a technological
+not the event occurre(l. But this is information,
+an(I as the example of a technological

@@ -1,38 +1,38 @@
-makes benefits a progressive function of life-
-time earnings offers insurance about lifetime
+makes benefits a progressive function of lifetime
+earnings offers insurance about lifetime
 earnings that is not available in the market.
 If the taxes and benefits for a cohort broke
-even in present value terms, the use of a pro-
-gressive benefit formula would imply that the
-labor supplies of lower earners were being sub-
-sidized and those of higher earners were being
-taxed.45 This is the familiar pattern with insur-
-ance with asymmetric information-a combina-
-tion of insurance and incentives neither of
-which satisfy the conditions for first-best opti-
-mization. This effect of progressivity is in
-addition to the effects from annuity pricing dis-
-cussed above. Some of the effects of annuitiza-
-tion and progressivity would be offsetting-
-those with higher earnings of each gender tend
-to live longer-and some would be compound-
-ing-women on average have lower earnings
+even in present value terms, the use of a progressive
+benefit formula would imply that the
+labor supplies of lower earners were being subsidized
+and those of higher earners were being
+taxed.45 This is the familiar pattern with insurance
+with asymmetric information-a combination
+of insurance and incentives neither of
+which satisfy the conditions for first-best optimization.
+This effect of progressivity is in
+addition to the effects from annuity pricing discussed
+above. Some of the effects of annuitization
+and progressivity would be offsettingthose
+with higher earnings of each gender tend
+to live longer-and some would be compounding-
+women on average have lower earnings
 and longer lives. That taxes and benefits do not
 break even on a cohort basis is discussed in the
 next section.
 The progressivity in the benefit formula uses
-taxes that distort labor supply in order to redis-
-tribute income and provide insurance. The pro-
-gressive annual income tax also redistributes
-income, provides insurance against earnings un-
-certainty, and distorts labor supply. Since these  two institutions work on different tax bases and
+taxes that distort labor supply in order to redistribute
+income and provide insurance. The progressive
+annual income tax also redistributes
+income, provides insurance against earnings uncertainty,
+and distorts labor supply. Since these  two institutions work on different tax bases and
 provide payments at different times, there is
 room for each of them to contribute despite the
 presence of the other. Annual income taxation
-recognizes short-term needs, coming from bor-
-rowing constraints and from behavior that is not
-time-consistent. It also recognizes capital in-
-come as part of determining tax rates. Ex post,
+recognizes short-term needs, coming from borrowing
+constraints and from behavior that is not
+time-consistent. It also recognizes capital income
+as part of determining tax rates. Ex post,
 all of one's Social Security taxable earnings (in
 the best 35 years) contributed to benefits in a
 way that varies with age but not with the level
@@ -53,21 +53,21 @@ A. Retirement Test
 For a mandate to save for later consumption
 to have bite, workers can not be allowed to
 claim benefits whenever they want, including
-immediately. To claim Social Security retire-
-ment benefits, a worker must be at least 62. The
+immediately. To claim Social Security retirement
+benefits, a worker must be at least 62. The
 system could simply start paying benefits at age
 62. Instead, between age 62 and the age for full
-benefits, workers can only start receiving bene-
-fits if their current earnings are low enough,
+benefits, workers can only start receiving benefits
+if their current earnings are low enough,
 corresponding to full or partial retirement for
-many workers.47 Any delay in the start of ben-
-efits increases their monthly amount, tending to
+many workers.47 Any delay in the start of benefits
+increases their monthly amount, tending to
 counterbalance the delay in the start of benefits.
-The impact of this retirement test on labor mar-
-ket incentives is in addition to effects discussed
+The impact of this retirement test on labor market
+incentives is in addition to effects discussed
 above that apply to each year of labor supply.
-That is, the effect of Social Security on incen-
-tives for continued work past age 62 has two
+That is, the effect of Social Security on incentives
+for continued work past age 62 has two
 parts. One is the effect of a delay in the start of
 benefits together with their later increase as a
 consequence of the delay in their start.48 The

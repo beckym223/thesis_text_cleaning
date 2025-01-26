@@ -1,22 +1,22 @@
 avoided altogether or even that they will be
 promptly recognized; and while errors persist,
-they will result in some inflationary (or defla-
-tionary) pressures. But the growing inflation to
+they will result in some inflationary (or deflationary)
+pressures. But the growing inflation to
 which Friedman refers is, to repeat, a crawl not a
-gallop. One may usefully recall in this connec-
-tion the experience of 1965-70 referred to ear-
-lier, with the further remark that the existence of
-excess employment was quite generally recog-
-nized at the time, and failure to eliminate it
-resulted overwhelmingly from political consid-
-erations and not from a wrong diagnosis.3
+gallop. One may usefully recall in this connection
+the experience of 1965-70 referred to earlier,
+with the further remark that the existence of
+excess employment was quite generally recognized
+at the time, and failure to eliminate it
+resulted overwhelmingly from political considerations
+and not from a wrong diagnosis.3
 There remains then only the empirical issue:
 have stabilization policies worked in the past and
 will they work in the future? Monetarists think
 the answer is negative and suggest, as we have
 seen, that misguided attempts at stabilization,
-especially through monetary policies, are re-
-sponsible for much of the observed instability.
+especially through monetary policies, are responsible
+for much of the observed instability.
 The main piece of evidence in support of this
 contention is the Great Depression, an episode
 well documented through the painstaking work
@@ -25,14 +25,14 @@ the object of dispute (see, for example, Peter
 Temin). But in any event, that episode while it
 may attest to the power of money, is irrelevant
 for present purposes since the contraction of the
-money supply was certainly not part of a com-
-prehensive stabilization program in the post-
-Keynesian sense.
+money supply was certainly not part of a comprehensive
+stabilization program in the postKeynesian
+sense.
 When we come to the relevant postwar period,
 the problem of establishing the success or failure
 of stabilization policies is an extremely taxing
-one. Many attempts have been made at devel-
-oping precise objective tests, but in my view,
+one. Many attempts have been made at developing
+precise objective tests, but in my view,
 none of these is of much value, even though I am
 guilty of having contributed to them in one of my
 worst papers (1964). Even the most ingenious
@@ -41,13 +41,13 @@ on a comparison of the variability of income with
 that of the velocity of circulation, turns out to
 be valid only under highly unrealistic restrictive
 assumptions.
-Dennis Starleaf and Richard Floyd have pro-
-posed testing the effectiveness of stabilization by
+Dennis Starleaf and Richard Floyd have proposed
+testing the effectiveness of stabilization by
 comparing the stability of money growth with
 that of income growth, much as I have done
 above for the United States, except that they
-apply their test to a cross section of industrial-
-ized countries. They found that for a sample of
+apply their test to a cross section of industrialized
+countries. They found that for a sample of
 13 countries, the association was distinctly
 positive. But this test is again of little value. For
 while a negative association for a given country,
@@ -56,14 +56,14 @@ some weak indication that monetary activism
 helped rather than hindered, the finding of a
 positive association across countries proves
 absolutely nothing. It can be readily shown, in
-fact, that, to the extent that differential variabil-
-ity of income reflects differences in the character
+fact, that, to the extent that differential variability
+of income reflects differences in the character
 of the shocks-a most likely circumstance for
 their sample-successful stabilization also
-implies a positive correlation between the vari-
-ability of income and that of money.
-But though the search for unambiguous quan-
-titative tests has so far yielded a meager crop,
+implies a positive correlation between the variability
+of income and that of money.
+But though the search for unambiguous quantitative
+tests has so far yielded a meager crop,
 there exists a different kind of evidence in favor
 of Keynesian stabilization policies which is
 impressive, even if hard to quantify. To quote
@@ -80,5 +80,5 @@ There is, furthermore, evidence that very
 similar conclusions hold for other industrialized
 countries which have made use of stabilization
 policies; at any rate that was the prevailing view
-among participants to an international confer-
-ence held in 1967 on the subject, "Is the busi-
+among participants to an international conference
+held in 1967 on the subject, "Is the busi-

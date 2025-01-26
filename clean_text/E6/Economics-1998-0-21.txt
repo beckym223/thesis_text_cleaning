@@ -1,24 +1,24 @@
-process of growth. Saving is an interest-
-ing topic in its own right, but the more
+process of growth. Saving is an interesting
+topic in its own right, but the more
 ''open economy" is the situation being
 studied, the less saving has to do with
-investment. Saving takes on great im-
-portance in closed-economy models fo-
-cused on aggregate growth, in which
+investment. Saving takes on great importance
+in closed-economy models focused
+on aggregate growth, in which
 case it is equal to investment. It gets to
 be almost meaningless as one focuses on
 the growth of cities and regions, or on
 firms and industries.
 (iii) The importance of viewing the residual
-as an umbrella covering real cost reduc-
-tions of all kinds, and of recognizing that
+as an umbrella covering real cost reductions
+of all kinds, and of recognizing that
 we are closer to home thinking that RCR
 takes 1001 forms than that it can be well
 represented by one or two or three
 aggregate-style variables.
-(b) In principle, the accumulation of hu-
-man capital by the laborforce should be rep-
-resented in the labor contribution of the
+(b) In principle, the accumulation of human
+capital by the laborforce should be represented
+in the labor contribution of the
 growth equation, or in a bifurcation of this
 contribution into one due to raw labor, the
 other to human capital. It is in a term like
@@ -26,9 +26,9 @@ iwiALi that one captures the shifting skill
 composition of the labor force. In particular,
 we capture here the higher wages that are the
 fruits of investment in education and training,
-which are the benefits that the workers them-
-selves perceive. These should be kept sepa-
-rate from any externalities education might
+which are the benefits that the workers themselves
+perceive. These should be kept separate
+from any externalities education might
 have.
 It is important to try to keep this internalized
 part of the story out of the residual, so that we
@@ -45,13 +45,13 @@ capital? Is it higher for industries or sectors?
 Or are human capital externalities more spatial
 in nature, making more efficient the economic
 life of the cities, provinces, states, or nations
-which have high concentrations of human cap-
-ital? And if this is a fruitful trail to pursue, at
+which have high concentrations of human capital?
+And if this is a fruitful trail to pursue, at
 what type and size of geographical units do
 these externalities typically work?
 (d) The same goes for economies of scale.
-We should not be satisfied with vague attri-
-butions of economies of scale, say, at the level
+We should not be satisfied with vague attributions
+of economies of scale, say, at the level
 of the national economy. Instead, we should
 pursue the matter. If the economies of scale
 are national, through what channels do they
@@ -60,36 +60,36 @@ at to see them in operation? In particular, what
 is their connection to real cost reductions
 where they really happen-i.e., at the level of
 the firm? Economies of scale at the levels of
-the firm and the industiy are easier to visual-
-ize. Here, too, however, the task is to check
+the firm and the industiy are easier to visualize.
+Here, too, however, the task is to check
 them out-to see if the real cost reductions of
 firms are linked to the initial sizes of those
 firrns themselves, or of the industries in which
 they operate, and of the direction (up or down)
 in which output is moving.
 (e) Perhaps most important of all, we
-should really try to take full advantage of ev-
-idence at the firm level. I think particularly of
-identifying considerable numbers of outstand-
-ing cases of TFP improvements and TFP de-
-cline, and studying them one by one to try to
-ferret out the sources of their big real cost re-
-ductions and real cost increases. You can be
+should really try to take full advantage of evidence
+at the firm level. I think particularly of
+identifying considerable numbers of outstanding
+cases of TFP improvements and TFP decline,
+and studying them one by one to try to
+ferret out the sources of their big real cost reductions
+and real cost increases. You can be
 pretty sure, if there have been big real cost
 reductions in a firm, some people in that firm
-have a pretty good idea of where those reduc-
-tions came from and how they were accom-
-plished. By capturing this grassroots evidence,
-we can put some added discipline into our ru-
-minations about the nature of TFP at the ag-
-gregate level. We must follow up on the sort
+have a pretty good idea of where those reductions
+came from and how they were accomplished.
+By capturing this grassroots evidence,
+we can put some added discipline into our ruminations
+about the nature of TFP at the aggregate
+level. We must follow up on the sort
 of work pioneered by Jacob Schmookler
-(1966) and Edwin Mansfield (1995). In gen-
-eral, our aggregate story should be compatible
+(1966) and Edwin Mansfield (1995). In general,
+our aggregate story should be compatible
 with, and comfortably contain, what we see at
 the grassroots level. In particular our overall
-picture of TFP improvement should comfort-
-ably accept the overwhelming evidence of the
+picture of TFP improvement should comfortably
+accept the overwhelming evidence of the
 "'mushroomss" rather than "yeast" nature of
 the process.
 (f ) Special urgency applies to the study of

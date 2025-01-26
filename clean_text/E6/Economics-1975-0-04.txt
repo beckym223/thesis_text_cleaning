@@ -1,9 +1,9 @@
 Boulding assailing welfare economics for
 its reliance on that holiest of holies, Pareto
 optimality-when in fact "our lives are
-dominated by precisely this inter-depen-
-dence of utility functions which the Pare-
-tian optimum denies"-thus also losing
+dominated by precisely this inter-dependence
+of utility functions which the Paretian
+optimum denies"-thus also losing
 contact with the real world.
 In one form or another, variations on
 Leontief's lament have been heard in many
@@ -18,16 +18,16 @@ By G. D. N. Worswick (Section F of
 the British Association, 1971), who
 viewed the performance of economics
 as "curiously disappointing," suggesting
-that it has "a marvelous array of pre-
-tend tools which would perform wonders
+that it has "a marvelous array of pretend
+tools which would perform wonders
 if ever a set of facts should turn up in
 the right form."
-By E. H. Phelps Brown (Royal Eco-
-nomics Society, 1971), who judged the
+By E. H. Phelps Brown (Royal Economics
+Society, 1971), who judged the
 usefulness of current work in economics
 as ''not equal to its distinction" because
-it is "built upon assumptions about hu-
-man behavior that are plucked from
+it is "built upon assumptions about human
+behavior that are plucked from
 the air."
 By James H. Blackman (Southern
 Economic Association, 1971), who noted
@@ -41,42 +41,42 @@ kind of endeavor and to deflect the
 attention of gifted economists from the
 exploration of concrete problems and
 the dirty work that entails."
-By Sherman Maisel (American Fi-
-nance Association, 1973), who con-
-cluded that most of the literature of
-monetary economics is "non-operation-
-al" since its prescriptions are too often
+By Sherman Maisel (American Finance
+Association, 1973), who concluded
+that most of the literature of
+monetary economics is "non-operational"
+since its prescriptions are too often
 based on limited or false assumptions,
-it by-passes critical operational prob-
-lems, and it ascribes too great validity
+it by-passes critical operational problems,
+and it ascribes too great validity
 to its statistical tests.
-By Barbara Bergmann (Eastern Eco-
-nomic Association, 1974), who prefaced
+By Barbara Bergmann (Eastern Economic
+Association, 1974), who prefaced
 her plea for more microsimulation to
-incorporate "realistically messy infor-
-mation" in our economic data base with
-a few roundhouse swings at the eco-
-nomics profession and the pointed ob-
-servation that instead of studying the
+incorporate "realistically messy information"
+in our economic data base with
+a few roundhouse swings at the economics
+profession and the pointed observation
+that instead of studying the
 real nature of decision making, we
 typically rush to make assumptions
 "whose purpose in life is to let the
 theorem emerge, all neat and provable."
 Another favorite line of criticism and
 attack focusses on the implicit value
-premises of conventional economics. Gun-
-nar Myrdal and Robert Heilbroner chide
+premises of conventional economics. Gunnar
+Myrdal and Robert Heilbroner chide
 us for concealing the value judgments that
-inevitably enter into our selection of prob-
-lems for study, choice of approach, defi-
-nition of concepts, and even gathering of
+inevitably enter into our selection of problems
+for study, choice of approach, definition
+of concepts, and even gathering of
 data. So a "value-free" economics is an
 illusion-they urge economists to specify
 their values and thus avoid biases and
 make research more realistic.
 Radical economists simply reject the
-whole value system of conventional eco-
-nomics-as they see it, the neoclassical
+whole value system of conventional economics-
+as they see it, the neoclassical
 paradigm in its very bone and marrow
 enthrones acquisitiveness and enshrines
 the existing order. Paul Sweezy accuses
@@ -84,5 +84,5 @@ mainstream economists "of hiding the
 facts, of making the uncontrollable appear
 under control, of rationalizing a system
 which condemns hundreds of millions of
-people to lives of despair and starva-
-tion.... "
+people to lives of despair and starvation.
+... "

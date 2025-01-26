@@ -1,31 +1,31 @@
-to being the best element in this cake-
-division problem.
+to being the best element in this cakedivision
+problem.
 It is useful to consider what arguments
 there might be for considering (50,50) as a
 good possibility, and why we cannot use any
 of these arguments in the information
-framework resulting from Arrow's condi-
-tions. First, it might seem good to divide the
+framework resulting from Arrow's conditions.
+First, it might seem good to divide the
 cake equally on some general non-welfarist
 ground, without even going into preferences
 or utilities. This is not permitted because of
 -the exclusion of evaluative use of nonutility
-information, and this is what the Field-
-Expansion Lemma is formalizing. Second,
+information, and this is what the FieldExpansion
+Lemma is formalizing. Second,
 presuming that everyone has the same
 strictly concave utility function, we might
 think that the sum-total of utilities would be
 maximized by an equal division of the cake.
-But this utilitarian argument involves com-
-parability of cardinal utilities, which is ruled
-out. Third, we might think that equal divi-
-sion of the cake will equate utilities, and
+But this utilitarian argument involves comparability
+of cardinal utilities, which is ruled
+out. Third, we might think that equal division
+of the cake will equate utilities, and
 there are arguments for utility-centered
 egalitarianism (see James Meade, 1976). But
 that involves interpersonal comparison of
 ordinal utilities, which too is ruled out. None
-of the standard ways of discriminating be-
-tween the alternative states is viable in this
+of the standard ways of discriminating between
+the alternative states is viable in this
 informational framework, and the only way
 to choose between them is to go by the
 preference of one person or another (since
@@ -37,37 +37,37 @@ information, is not a fruitful enterprise. We
 do care about the size and distribution of
 the overall achievements; we have reasons
 to want to reduce deprivation, poverty, and
-inequality; and all these call for interper-
-sonal comparisons-either of utilities or of
+inequality; and all these call for interpersonal
+comparisons-either of utilities or of
 other indicators of individual advantages,
 such as real incomes, opportunities, primary
 goods, or capabilities.21 Once interpersonal
-comparisons are introduced, the impossibil-
-ity problem, in the appropriately redefined
+comparisons are introduced, the impossibility
+problem, in the appropriately redefined
 framework, vanishes.22 The comparisons
 may have to be rough and ready and often
 open to disputation, but such comparisons
-are staple elements of systematic social wel-
-fare judgments. Even without any cardinal-
-ity, ordinal interpersonal comparisons per-
-mit the use of such rules of social judgment
+are staple elements of systematic social welfare
+judgments. Even without any cardinality,
+ordinal interpersonal comparisons permit
+the use of such rules of social judgment
 as maximin, or lexicographic maximin.23 This
 satisfies all of Arrow's conditions (and many
-others), though the class of permissible so-
-cial welfare rules that do this is quite lim-
-ited, unless cardinality is also admitted,
+others), though the class of permissible social
+welfare rules that do this is quite limited,
+unless cardinality is also admitted,
 along with interpersonal comparisons (see
 Louis Gevers, 1979; Kevin Roberts, 1980a).
 With the possibility of using interpersonal
 comparisons, other classes of possible rules
 for social welfare judgments (including
 inter alia, utilitarianism) become usable.24
-While the axiomatic derivations of dif-
-ferent social-welfare rules in this literature
-are based on applying interpersonal com-
-parisons to utilities only, the analytical
-problems are, in many respects, rather simi-
-lar when people are compared in terms of
+While the axiomatic derivations of different
+social-welfare rules in this literature
+are based on applying interpersonal comparisons
+to utilities only, the analytical
+problems are, in many respects, rather similar
+when people are compared in terms of
 some other feature, such as real income,
 holdings of primary goods, or capabilities to
 function. There are, thus, whole varieties of

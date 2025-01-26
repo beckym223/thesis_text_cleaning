@@ -1,13 +1,13 @@
 mous "economic discomfort index." That index
 (which according to Michael Lovell appears to
-have some empirical support) is the sum of un-
-employment and inflation. The index used in my
+have some empirical support) is the sum of unemployment
+and inflation. The index used in my
 analysis is a weighted average of the cumulated
 unemployment and cumulated inflation over the
 path. The weights express the relative social
 concern for inflation versus unemployment.
-Using this index, it has been shown in a forth-
-coming thesis of Papademos that, in general, the
+Using this index, it has been shown in a forthcoming
+thesis of Papademos that, in general, the
 optimum policy calls for raising unemployment
 at once to a certain critical level and keeping it
 there until inflation has substantially abated. The
@@ -20,10 +20,10 @@ the estimate of the Phillips curve reported in
 my joint paper with Papademos (1975), which
 is fairly close to vertical and uses Okun's
 weights, one finds that (i) at the present time, the
-noninflationary rate of unemployment corres-
-ponding to a 2 percent rate of inflation can be
-estimated at 5.6 percent, and (ii) the optimal re-
-sponse to a large exogenous price shock consists
+noninflationary rate of unemployment corresponding
+to a 2 percent rate of inflation can be
+estimated at 5.6 percent, and (ii) the optimal response
+to a large exogenous price shock consists
 in increasing unemployment from 5.6 to only
 about 7 percent. That level is to be maintained
 until inflation falls somewhat below 4 percent;
@@ -31,19 +31,19 @@ it should then be reduced slowly until inflation
 gets to 2.5 (which is estimated to take a couple of
 years), and rapidly thereafter. If, on the other
 hand, society were to rate inflation twice as
-costly as unemployment, the initial unemploy-
-ment rate becomes just over 8 percent, though
+costly as unemployment, the initial unemployment
+rate becomes just over 8 percent, though
 the path to final equilibrium is then shorter.
-These results seem intuitively sensible and quan-
-titatively reasonable, providing further justifica-
-tion for the assumed welfare function, with its
+These results seem intuitively sensible and quantitatively
+reasonable, providing further justification
+for the assumed welfare function, with its
 appealing property of summarizing preferences
 into a single readily understandable number.
 One important implication of the nature of the
 optimum path described above is that a constant
 money growth could not possibly be optimal
-while inflation is being squeezed out of the sys-
-tem, regardless of the relative weights attached
+while inflation is being squeezed out of the system,
+regardless of the relative weights attached
 to unemployment and inflation. It would tend
 to be prevailingly too small for some initial
 period and too large thereafter.
@@ -53,14 +53,14 @@ case of supply shocks than it is in the case of
 demand shocks.
 VI. Conclusion
 To summarize, the monetarists have made a
-valid and most valuable contribution in estab-
-lishing that our economy is far less unstable than
-the early Keynesians pictured it and in rehabil-
-itating the role of money as a determinant of
+valid and most valuable contribution in establishing
+that our economy is far less unstable than
+the early Keynesians pictured it and in rehabilitating
+the role of money as a determinant of
 aggregate demand. They are wrong, however,
 in going as far as asserting that the economy is
-sufficiently shockproof that stabilization poli-
-cies are not needed. They have also made an
+sufficiently shockproof that stabilization policies
+are not needed. They have also made an
 important contribution in pointing out that such
 policies might in fact prove destabilizing. This
 criticism has had a salutary effect on reassessing
@@ -68,16 +68,16 @@ what stabilization policies can and should do,
 and on trimming down fine-tuning ambitions.
 But their contention that postwar fluctuations
 resulted from an unstable money growth or that
-stabilization policies decreased rather than in-
-creased stability just does not stand up to an
+stabilization policies decreased rather than increased
+stability just does not stand up to an
 impartial examination of the postwar record of
-the United States and other industrialized coun-
-tries. Up to 1974, these policies have helped to
+the United States and other industrialized countries.
+Up to 1974, these policies have helped to
 keep the economy reasonable stable by historical
 standards, even though one can certainly point
 to some occasional failures.
-The serious deterioration in economic stabil-
-ity since 1973 must be attributed in the first place
+The serious deterioration in economic stability
+since 1973 must be attributed in the first place
 to the novel nature of the shocks that hit us,
 namely, supply shocks. Even the best possible
 aggregate demand management cannot offset

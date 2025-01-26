@@ -1,8 +1,8 @@
 hours combined with slowing ALP growth during
 1990-1995 to produce a further slide in the
 growth of output. In previous cyclical recoveries
-during the postwar period, output growth acceler-
-ated during the recovery, powered by more rapid
+during the postwar period, output growth accelerated
+during the recovery, powered by more rapid
 growth of hours and ALP.
 Accelerating output growth during 1995-
 1999 reflects growth in labor hours and ALP
@@ -14,30 +14,30 @@ ALP growth of 0.92 percent. Figure 12 shows
 the acceleration in ALP growth is due to capital
 deepening as well as faster TFP growth. Capital
 deepening contributed 0.60 percentage points,
-offsetting a negative contribution of labor qual-
-ity of 0.20 percent. The acceleration in TFP
+offsetting a negative contribution of labor quality
+of 0.20 percent. The acceleration in TFP
 added 0.51 percentage points.
 H. Research Opportunities
-The use of computers, software, and commu-
-nications equipment must be carefully distin-
-guished from the production of IT.39 Massive
-increases in computing power, like those expe-
-rienced by the U.S. economy, have two effects
+The use of computers, software, and communications
+equipment must be carefully distinguished
+from the production of IT.39 Massive
+increases in computing power, like those experienced
+by the U.S. economy, have two effects
 on growth. First, as IT producers become more
 efficient, more IT equipment and software is
-produced from the same inputs. This raises pro-
-ductivity in IT-producing industries and con-
-tributes to TFP growth for the economy as a
+produced from the same inputs. This raises productivity
+in IT-producing industries and contributes
+to TFP growth for the economy as a
 whole. Labor productivity also grows at both
 industry and aggregate levels.
-Second, investment in information technol-
-ogy leads to growth of productive capacity in
+Second, investment in information technology
+leads to growth of productive capacity in
 IT-using industries. Since labor is working with
 more and better equipment, this increases ALP
 through capital deepening. If the contributions
 to aggregate output are captured by capital
-deepening, aggregate TFP growth is unaf-
-fected.40 Increasing deployment of IT affects
+deepening, aggregate TFP growth is unaffected.
+40 Increasing deployment of IT affects
 TFP growth only if there are spillovers from
 IT-producing industries to IT-using industries.
 Top priority must be given to identifying the

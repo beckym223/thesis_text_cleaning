@@ -1,8 +1,8 @@
 sured in two ways-one using value added by
 a set of firms on the one hand, and the other
-using "output" by those same firms, mea-
-sured through dividing value added by sepa-
-rate estimated firm-by-firm price (of value
+using "output" by those same firms, measured
+through dividing value added by separate
+estimated firm-by-firm price (of value
 added) indexes pj. For these purposes we can
 conveniently think in terms of logarithms, so
 let:
@@ -21,29 +21,29 @@ If we worked with the measured yj, we get
 2= ao + a? + a2 + u2- 2at
 (assuming a and e to be strictly random).
 My presumptions are as follows:
-(i) We can estimate value added quite ac-
-curately at the firm level. Hence the pre-
-sumption that ao is small.
+(i) We can estimate value added quite accurately
+at the firm level. Hence the presumption
+that ao is small.
 (ii) In most industries, there is considerable
-variety among the firms and their prod-
-ucts. Hence, except in cases of industries
+variety among the firms and their products.
+Hence, except in cases of industries
 with very homogeneous products, we
 should not expect a2 to be small. Hence,
 I expect a > a?
 (iii) Finally, we have the presumption that, at
-least at the level of firms within an in-
-dustry, o7 < 0. We know that firms
-choose to operate in regions of the de-
-mand curve where they consider the elas-
-ticity facing them to be greater than one.
+least at the level of firms within an industry,
+o7 < 0. We know that firms
+choose to operate in regions of the demand
+curve where they consider the elasticity
+facing them to be greater than one.
 But also, in an analysis of the growth
 process, one would expect the big gains
 in value added to accrue to those firms
 in an industry which were passing along
-to consumers some of the fruits of cur-
-rent or past real cost reductions.
-These three presumptions lead me to the con-
-clusion that ao is likely to understate the true
+to consumers some of the fruits of current
+or past real cost reductions.
+These three presumptions lead me to the conclusion
+that ao is likely to understate the true
 variance of output ao (because - 2JT > 0 and
 ao2 > sa?), and that ao is likely to overstate
 0o2 (only the covariance terms with e and u,

@@ -8,51 +8,51 @@ multiplied by the nominal value of IT capital
 stock to obtain the imputed service flow from IT
 products. In the business sector this accrues as
 capital income to the firms that employ these
-products as inputs. In the household and gov-
-ernment sectors the flow of capital income must
+products as inputs. In the household and government
+sectors the flow of capital income must
 be imputed. This same type of imputation is
 used for housing in the NIPA. The rental value
-of renter-occupied housing accrues to real es-
-tate firms as capital income, while the rental
+of renter-occupied housing accrues to real estate
+firms as capital income, while the rental
 value of owner-occupied housing is imputed to
 households.
-Current dollar GDP in Table 1 is $9.8 tril-
-lions in 1999, including imputations, and real
+Current dollar GDP in Table 1 is $9.8 trillions
+in 1999, including imputations, and real
 output growth averaged 3.46 percent for the
 period 1948-1999. These magnitudes can be
 compared to the current dollar value of $9.3
 trillions in 1999 and the average real growth
 rate of 3.40 percent for the period 1948-1999
-for the official GDP. Table 1 presents the cur-
-rent dollar value and price indexes of the GDP
-and IT output. This includes outputs of invest-
-ment goods in the form of computers, software,
-communications equipment, and non-IT invest-
-ment goods. It also includes outputs of non-IT
-consumption goods and services as well as im-
-puted IT capital service flows from households
+for the official GDP. Table 1 presents the current
+dollar value and price indexes of the GDP
+and IT output. This includes outputs of investment
+goods in the form of computers, software,
+communications equipment, and non-IT investment
+goods. It also includes outputs of non-IT
+consumption goods and services as well as imputed
+IT capital service flows from households
 and governments.
 The most striking feature of the data in Table
-1 is the rapid price decline for computer invest-
-ment, 17.1 percent per year from 1959 to 1995.
+1 is the rapid price decline for computer investment,
+17.1 percent per year from 1959 to 1995.
 Since 1995 this decline has almost doubled to
 32.1 percent per year. By contrast the relative
 price of software has been flat for much of
 the period and began to fall only in the late
-1980's. The price of communications equip-
-ment behaves similarly to the software price,
+1980's. The price of communications equipment
+behaves similarly to the software price,
 while the consumption of capital services from
-computers and software by households and gov-
-ernments shows price declines similar to com-
-puter investment.
+computers and software by households and governments
+shows price declines similar to computer
+investment.
 The top panel of Table 2 summarizes the
 growth rates of prices and quantities for major
 output categories for 1990-1995 and 1995-
 1999. Business investments in computers,
 software, and communications equipment are
-the largest categories of IT spending. House-
-holds and governments have also spent siz-
-able amounts on computers, software,
+the largest categories of IT spending. Households
+and governments have also spent sizable
+amounts on computers, software,
 communications equipment and the services
 of information technology. Figure 4 shows
 that the output of software is the largest IT

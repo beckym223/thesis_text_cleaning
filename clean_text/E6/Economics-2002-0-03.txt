@@ -1,32 +1,32 @@
-the latent characteristics of goods at each loca-
-tion on the map. Thinking spatially proves es-
-pecially useful when there are many more
-varieties of goods than attributes that each con-
-tains. Because there are fewer attributes than
+the latent characteristics of goods at each location
+on the map. Thinking spatially proves especially
+useful when there are many more
+varieties of goods than attributes that each contains.
+Because there are fewer attributes than
 goods, the dimensionality of the problem is
 greatly reduced and analysis can proceed on
 conventional cost-benefit terms.
-Examples of applications include hedonic in-
-dexes of quality change needed to correct price
+Examples of applications include hedonic indexes
+of quality change needed to correct price
 indexes for changing product characteristics;
-among such products as automobiles and com-
-puters; regression analysis of housing prices on
-house characteristics, used for real estate assess-
-ments in urban economics; the capital asset
+among such products as automobiles and computers;
+regression analysis of housing prices on
+house characteristics, used for real estate assessments
+in urban economics; the capital asset
 pricing model, where asset characteristics are
 the means and covariances of their rate of return
-distributions; studying how labor markets eval-
-uate jobs of varying quality, useful for estimat-
-ing the social value of safety and environmental
+distributions; studying how labor markets evaluate
+jobs of varying quality, useful for estimating
+the social value of safety and environmental
 goods that are not directly traded; and how and
-why labor markets sustain enormous differ-
-ences in rewards and rents among people of
-different talents. All are manifestations of al-
-most exactly the same basic spatial problem:
+why labor markets sustain enormous differences
+in rewards and rents among people of
+different talents. All are manifestations of almost
+exactly the same basic spatial problem:
 valuing diversity.
 Market values are an important part of the
-story. The allocation of diversity in the econ-
-omy is another. How are buyers and sellers
+story. The allocation of diversity in the economy
+is another. How are buyers and sellers
 matched or assigned to each other in market
 equilibrium? These marriage-type questions
 bear importantly on the economic consequences
@@ -34,63 +34,63 @@ of diversity because stratification of agents is
 inherent in spatial equilibrium. Certain kinds of
 buyers come to be associated with certain kinds
 of sellers, even when there are no externalities
-and social influences in preferences. Rich peo-
-ple tend to ride in a better class of automobiles
+and social influences in preferences. Rich people
+tend to ride in a better class of automobiles
 than poor people. They are more likely to live
 on the lakeshore and in other high-rent districts,
 to eat in fancy restaurants, wear designer
 clothes, send their children to better schools,
 and work in more pleasant environments. But
 there are many other manifestations of the same
-basic sorting or assignment issues in the pres-
-ence of diversity. Widows and orphans tend to
-hold their wealth in relatively safe assets. Peo-
-ple from similar ethnic groups tend to live to-
-gether in city enclaves, more talented students
+basic sorting or assignment issues in the presence
+of diversity. Widows and orphans tend to
+hold their wealth in relatively safe assets. People
+from similar ethnic groups tend to live together
+in city enclaves, more talented students
 are apt to be found in colleges and graduate
 schools that have more talented teachers,
 higher-quality lawyers work on the largest legal
-claims, and people exposed to higher unem-
-ployment risks tend to live in the same
+claims, and people exposed to higher unemployment
+risks tend to live in the same
 neighborhoods.
 The address analogy in spatial equilibrium
-often extends to these kinds of matches or as-
-signments: goods with special attributes appeal
-to buyers with specific kinds of tastes. In prod-
-uct markets, sellers design their goods to cater
+often extends to these kinds of matches or assignments:
+goods with special attributes appeal
+to buyers with specific kinds of tastes. In product
+markets, sellers design their goods to cater
 to specific types of customers. And in labor
 markets, each of us in our career choices and
 work activities seeks a niche in the incredibly
 complex machinery of modern production and
 the division of labor. The number of people
-seeking these slots and the nature of the tech-
-nologies that affect the personal scale of oper-
-ations affects the distribution of rewards in
+seeking these slots and the nature of the technologies
+that affect the personal scale of operations
+affects the distribution of rewards in
 society.
-Markets accommodate diversity by establish-
-ing prices that tend to make different things
+Markets accommodate diversity by establishing
+prices that tend to make different things
 relatively close substitutes at the margin. Adam
-Smith's insight that market prices tend to equal-
-ize their net advantages is fundamental to these
-problems. If one good has more desirable char-
-acteristics than another, the less preferred vari-
-ety must compensate for its disadvantages by
+Smith's insight that market prices tend to equalize
+their net advantages is fundamental to these
+problems. If one good has more desirable characteristics
+than another, the less preferred variety
+must compensate for its disadvantages by
 selling at a lower price. Supply is inelastic and
 exogenous in geographic spatial theory, but in
 many applications both sides of the market must
-be considered jointly. Sellers choose their vari-
-eties by comparing prices with costs. Higher-
-quality goods are more costly to produce and
+be considered jointly. Sellers choose their varieties
+by comparing prices with costs. Higherquality
+goods are more costly to produce and
 must be offered at a higher price. In equilibrium
 these extra costs can only be supported if their
 incremental value to some customers is at least
-as large as their incremental costs. Thus diver-
-sity creates inequality in prices and values. The
+as large as their incremental costs. Thus diversity
+creates inequality in prices and values. The
 reverse statement is also true. Certain kinds of
-inequality are necessary to sustain diverse out-
-comes. For example, if higher-quality goods
-were not more expensive to produce than lower-
-quality ones and if all consumers had the same
+inequality are necessary to sustain diverse outcomes.
+For example, if higher-quality goods
+were not more expensive to produce than lowerquality
+ones and if all consumers had the same
 relative ranking on the quality of two different
 goods, then only the higher-quality good would
 survive in the market. The lower-quality good is
@@ -98,7 +98,7 @@ driven out by the existence of a superior one
 that can be produced at equal cost.
 What is less obvious is that there are social
 incentives to create inequality, even when
-agents are initially identical in every conceiv-
-able way. This is a third theme of the essay. The
+agents are initially identical in every conceivable
+way. This is a third theme of the essay. The
 basic idea also derives from Smith, who argued
 that personal investments in skill acquisition,

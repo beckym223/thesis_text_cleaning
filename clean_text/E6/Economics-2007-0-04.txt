@@ -3,76 +3,76 @@ these folks. New Classical critics of Keynesian
 economics insisted instead that these relations
 be derived from fundamentals. They said that
 macroeconomic relationships should be derived
-from profit-maximizing by firms and from utility-
-maximizing by consumers with economic argu-
-ments in their utility functions.
+from profit-maximizing by firms and from utilitymaximizing
+by consumers with economic arguments
+in their utility functions.
 The new methodology had a profound effect
-on macroeconomics. Five separate neutrality re-
-sults overturned aspects of macroeconomics
-that Keynesians had previously considered in-
-contestable. These five neutralities are: the in-
-dependence of consumption and current income
+on macroeconomics. Five separate neutrality results
+overturned aspects of macroeconomics
+that Keynesians had previously considered incontestable.
+These five neutralities are: the independence
+of consumption and current income
 (the life-cycle permanent income hypothesis);
 the irrelevance of current profits to investment
 spending (the Modigliani-Miller theorem); the
-long-run independence of inflation and unem-
-ployment (natural rate theory); the inability of
+long-run independence of inflation and unemployment
+(natural rate theory); the inability of
 monetary policy to stabilize output (the rational
 expectations hypothesis); and the irrelevance of
-taxes and budget deficits to consumption (Ricar-
-dian equivalence).6 These results fly in the face
+taxes and budget deficits to consumption (Ricardian
+equivalence).6 These results fly in the face
 of Keynesian economics. They undermine its
 conclusions about the behavior of the economy
 and the impact of stabilization policy.
-The discovery of these five neutrality propo-
-sitions surprised macroeconomists. They had
-not suspected that radically anti-Keynesian con-
-clusions were the logical outcome of such seem-
-ingly innocuous maximizing assumptions.
+The discovery of these five neutrality propositions
+surprised macroeconomists. They had
+not suspected that radically anti-Keynesian conclusions
+were the logical outcome of such seemingly
+innocuous maximizing assumptions.
 I. Neutralities and Preferences
-How did macroeconomists react to the dis-
-covery of the five neutralities? On the one hand,
-the New Classical economists viewed their neu-
-trality results as a telltale: that Keynesian econ-
-omists of the previous generation had been
-thinking in the wrong way. In their view, sci-
-entific reasoning was producing a new, leaner,
+How did macroeconomists react to the discovery
+of the five neutralities? On the one hand,
+the New Classical economists viewed their neutrality
+results as a telltale: that Keynesian economists
+of the previous generation had been
+thinking in the wrong way. In their view, scientific
+reasoning was producing a new, leaner,
 more precise economics.
 On the other hand, Keynesian economists, for
 the most part, reacted differently. In due course
 they came to view the neutralities as logically
 impeccable. These New Keynesians accepted
-the methodological dictums of the New Classi-
-cal economics: that constrained maximization
+the methodological dictums of the New Classical
+economics: that constrained maximization
 of profit and utility functions is the appropriate
 microfoundation for macroeconomics. They
 also viewed the neutralities as having a certain
 sort of generality. The neutralities do commonly
 describe equilibria of competitive economies
-with complete information, irrespective of peo-
-ple's preferences-as long as those preferences
+with complete information, irrespective of people'
+s preferences-as long as those preferences
 correspond to economists' typical descriptions
-of them. The Keynesians then resurrected some-
-but not all-of the Keynesian conclusions by add-
-ing a variety of frictions to the New Classical
+of them. The Keynesians then resurrected somebut
+not all-of the Keynesian conclusions by adding
+a variety of frictions to the New Classical
 model. Those frictions include credit constraints,
 market imperfections, information failures, tax
 distortions, staggered contracts, uncertainty,
-menu costs, and bounded rationality. This formu-
-lation preserves many (but not all) Keynesian
+menu costs, and bounded rationality. This formulation
+preserves many (but not all) Keynesian
 conclusions regarding cyclical fluctuations and
 macroeconomic policy.
 This lecture will suggest a new stance in
 regard to each of the five neutralities. Like New
 Classical and New Keynesian economics, it will
-derive behavior from utility and profit maximi-
-zation. That captures the purposefulness of eco-
-nomic decisions. But this lecture will also
+derive behavior from utility and profit maximization.
+That captures the purposefulness of economic
+decisions. But this lecture will also
 question the generality of the preferences that
 lead to the five neutralities. There is a sense in
-which those preferences are very narrowly de-
-fined. They have important missing motiva-
-tion-since they fail to incorporate the norms of
+which those preferences are very narrowly defined.
+They have important missing motivation-
+since they fail to incorporate the norms of
 the decision makers. Those norms reflect how
 the respective decision makers think they and
 others should or should not behave, even in the
@@ -83,14 +83,14 @@ also yield a macroeconomics that, in important
 details, cannot be obtained only with frictions.
 We shall see that, with such preferences, even
 in the absence of frictions, each of the five
-neutralities will be systematically violated. Spe-
-cifically:
-* A realistic norm regarding consumption be-
-havior will make consumption directly de-
-pendent on current income, in violation of the
+neutralities will be systematically violated. Specifically:
+
+* A realistic norm regarding consumption behavior
+will make consumption directly dependent
+on current income, in violation of the
 neutrality of consumption given wealth;
-* A realistic norm will make investment di-
-rectly dependent on cash flow, in violation of
+* A realistic norm will make investment directly
+dependent on cash flow, in violation of
 Modigliani-Miller;
 * A realistic norm will make wages and prices
 dependent on nominal considerations and

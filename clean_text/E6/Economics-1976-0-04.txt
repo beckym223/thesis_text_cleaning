@@ -3,15 +3,15 @@ posed by the unfolding course of scientific
 developments" (p. 22). He goes on to add:
 "This is not to say that the environment is
 without influence...... "But, he continues,
-"whether a fact or development is signifi-
-cant depends primarily on its relevance to
-current economic theory" (p. 23). (Com-
-pare Tjalling Koopmans, p. 170.) What a
+"whether a fact or development is significant
+depends primarily on its relevance to
+current economic theory" (p. 23). (Compare
+Tjalling Koopmans, p. 170.) What a
 curious relating of rigor to relevance!
 Whether the real world matters depends
 presumably on "its relevance to current
-economic theory." Many if not most of to-
-day's economic theorists seem to agree
+economic theory." Many if not most of today'
+s economic theorists seem to agree
 with this ordering of priorities.3
 To what aspects of the observable world
 does economics apply its analytical tools?
@@ -19,28 +19,28 @@ According to the familiar definition in the
 International Encyclopedia of the Social
 Sciences, which we owe originally to Lionel
 Robbins, economics "is the study of the
-allocation of scarce resources among un-
-limited and competing uses." To this defi-
-nition of microeconomics the Encyclo-
-pedia then rather weakly adds macroeco-
-nomics, which is defined as the study of
+allocation of scarce resources among unlimited
+and competing uses." To this definition
+of microeconomics the Encyclopedia
+then rather weakly adds macroeconomics,
+which is defined as the study of
 money, the general price level, and the
 level of output and employment.
 Let us consider the microeconomic part
 of this definition. Presumably the reference
-is to real resources, used to produce ob-
-servable goods and services, that are ex-
-changed and consumed by real people liv-
-ing in the kind of world we see around us.
+is to real resources, used to produce observable
+goods and services, that are exchanged
+and consumed by real people living
+in the kind of world we see around us.
 Of course, some degree of abstraction is
 necessary if useful generalizations are to be
 reached. Here the economic theorist quickly
 runs up against a dilemma. Shall he seek to
-make his analysis ever more rigorous, re-
-gardless of the possibly diminishing rele-
-vance of his conclusions to the observed
-world? Or shall he sacrifice elegant refine-
-ment for somewhat cruder analysis that
+make his analysis ever more rigorous, regardless
+of the possibly diminishing relevance
+of his conclusions to the observed
+world? Or shall he sacrifice elegant refinement
+for somewhat cruder analysis that
 may lead to testable results? I suppose the
 reply can be given that we need to do both
 and that we need specialists in each of
@@ -48,38 +48,38 @@ these approaches. But certainly those who
 construct the analytical apparatus should
 pay more attention than many of them
 now do to the substantive problems with
-which economists are presumably con-
-cerned.4
-In speaking of how well current micro-
-economic theory combines rigor and rele-
-vance, I should distinguish among the
+which economists are presumably concerned.
+4
+In speaking of how well current microeconomic
+theory combines rigor and relevance,
+I should distinguish among the
 different but interrelated problem areas
 with which this part of economic theory
-concerns itself. Micro theory addresses it-
-self primarily to three related topics: (1)
+concerns itself. Micro theory addresses itself
+primarily to three related topics: (1)
 the conditions necessary for, and the means
-of actually achieving, an optimum alloca-
-tion of resources within decision-making
+of actually achieving, an optimum allocation
+of resources within decision-making
 units, both firms and households, under
-given assumptions as to the criteria of op-
-timization; (2) again under given assump-
-tions, the conditions necessary for the
-existence of a general (or partial) equilib-
-rium among all (or some) of these decision-
-making units, including the determination
+given assumptions as to the criteria of optimization;
+(2) again under given assumptions,
+the conditions necessary for the
+existence of a general (or partial) equilibrium
+among all (or some) of these decisionmaking
+units, including the determination
 of the uniqueness and stability of such an
-equilibrium; and (3) the conditions re-
-quired for the achievement of an economic
+equilibrium; and (3) the conditions required
+for the achievement of an economic
 optimum from a broad, social point of
 view.
-Some success has been achieved in blend-
-ing rigor and relevance in the theory of the
+Some success has been achieved in blending
+rigor and relevance in the theory of the
 single decision-making unit. Certainly, as
 this year's Nobel prize in economics attests,
 considerable progress has been achieved in
 dealing with production planning in the
-individual firm or establishment (or gov-
-ernment department) for which mathe-
-matical tools, including programming and
+individual firm or establishment (or government
+department) for which mathematical
+tools, including programming and
 the whole range of activity analysis, have
 proved to be useful. To some extent, how-

@@ -1,5 +1,5 @@
-value added as his quantity variable, this sug-
-gests that, if anything, the substitution of the
+value added as his quantity variable, this suggests
+that, if anything, the substitution of the
 "true quantity variable" q for observed value
 added v would have given results with
 greater dispersion of TFP, and consequently
@@ -7,41 +7,41 @@ greater overshooting in his sunrise-sunset
 diagrams.
 The above demonstration should be taken as
 merely suggestive. It is not important to me
-that Torre' s results underestimate the variabil-
-ity of the different firms' TFP experience. It is
+that Torre' s results underestimate the variability
+of the different firms' TFP experience. It is
 only important that measurement error should
-not be the principle determinant of those re-
-sults. On this I feel very confident. In my view,
+not be the principle determinant of those results.
+On this I feel very confident. In my view,
 it really is "a jungle out there," with winners
 and losers in every period-good as well as
 bad.
-As I have noted earlier, we are only just be-
-ginning a systematic study of TFP among U.S.
+As I have noted earlier, we are only just beginning
+a systematic study of TFP among U.S.
 firms, so I can offer no display comparable to
 Torre' s.
 However, Robles (1997) did examine the
 experience of 12 firms in the U.S. oil industry.
 His results are summarized in Figure 7. But
 Robles tells basically the same story as Torre.
-Three firms out of the 12 were more than suf-
-ficient to generate the real cost reduction ex-
-perienced by the total group. Half (or almost
+Three firms out of the 12 were more than sufficient
+to generate the real cost reduction experienced
+by the total group. Half (or almost
 half) of the firms had negative TFP growth in
 each period. And the cumulated amount of this
-negative TFP growth was sizeable when mea-
-sured against the total TFP performance of the
+negative TFP growth was sizeable when measured
+against the total TFP performance of the
 industry.
-What I see in TFP performance is quite anal-
-ogous to what I see in the stock market pages of
+What I see in TFP performance is quite analogous
+to what I see in the stock market pages of
 the newspaper. There are winners and losers
 eveiy day, every month, and every year. The
 gains and losses come from all sorts of causes.
 World price shocks can drive firms into negative
-TFP performance if the consequent output re-
-ductions are greater than the reductions of in-
-puts. So, too, can cyclical or secular declines in
-demand, including those caused by the success-
-ful actions of competitors.
+TFP performance if the consequent output reductions
+are greater than the reductions of inputs.
+So, too, can cyclical or secular declines in
+demand, including those caused by the successful
+actions of competitors.
 When firms are under stress, they typically
 fight to stay alive. Maybe they fight for too
 long in some cases, in the sense that less of

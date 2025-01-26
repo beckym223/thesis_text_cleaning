@@ -11,24 +11,24 @@ of capital goods and of inputs in general as
 quality-improvements for given physical
 quantities.
 In my appraisal there is no reason to
-become disturbed about this lack of sym-
-metry between the interpretation of im-
-provements of inputs and that of improve-
-ments of consumer goods. The alternative
+become disturbed about this lack of symmetry
+between the interpretation of improvements
+of inputs and that of improvements
+of consumer goods. The alternative
 would be that of lumping together our
 "progress-generating inputs" with the
-other inputs, and of interpreting the re-
-search worker not as one who increases the
+other inputs, and of interpreting the research
+worker not as one who increases the
 productivity, and hence the quality of the
 inputs with which measured output is
 produced, but as one who has the same
 kind of productivity in the production of
 measured output as do (say) production
-workers.28 However, for my present pur-
-pose it would be wrong to cut the story
+workers.28 However, for my present purpose
+it would be wrong to cut the story
 short in this fashion. I am concerned with
-the question how the social yield of pro-
-gress-inputs compares with that of other
+the question how the social yield of progress-
+inputs compares with that of other
 inputs, and this concern calls for placing
 emphasis on the indirectness with which
 the progress-inputs produce additional
@@ -38,39 +38,39 @@ in which the progress-inputs increase the
 " quality" of the other inputs and in which
 the other inputs produce quantities of
 output.
-In practice the effort to let the produc-
-tivity-increases of inputs express them-
-selves in quality-changes for given physical
-quantities, and to translate the quality-
-improvements of consumer goods into
+In practice the effort to let the productivity-
+increases of inputs express themselves
+in quality-changes for given physical
+quantities, and to translate the qualityimprovements
+of consumer goods into
 quantities, gives rise to many procedural
 difficulties and the methods for taking care
 of these are admittedly very imperfect. In
 particular, it has been argued that the
-quantitative allowances for the improve-
-ment of consumer-good quality are not
+quantitative allowances for the improvement
+of consumer-good quality are not
 only very crude (which they certainly are),
 but in all probability also insufficient. In a
 general way it makes good sense to suspect
 that the allowances are quantitatively
 insufficient, but we should nevertheless
 note that the standard of living of Western
-countries is rising rapidly, and it is par-
-ticularly true at higher levels of income
-that the market basket illustrates in-
-stances of consistent quality-deterioration
+countries is rising rapidly, and it is particularly
+true at higher levels of income
+that the market basket illustrates instances
+of consistent quality-deterioration
 as well as of improvement. Nevertheless,
-for consumer goods I shall make an allow-
-ance for the assumed underestimate of net
+for consumer goods I shall make an allowance
+for the assumed underestimate of net
 quality improvement (see Appendix C).
-Last but not least, an inevitable imper-
-fection of frameworks of the kind here
-employed results from two-way interac-
-tions between physical capital formation
+Last but not least, an inevitable imperfection
+of frameworks of the kind here
+employed results from two-way interactions
+between physical capital formation
 and technological progress. As I said above,
 my misgivings about the method by
-which vintage models deal with this rela-
-tionship does not mean that I consider it
+which vintage models deal with this relationship
+does not mean that I consider it
 harmless to disregard the interactions.
 Starting with initially given resources,
 the chances of substantial and continued
@@ -84,5 +84,5 @@ large variety of instruments of production
 opens up a large number of dimensions of
 potential improvement. In another study
 I found strong indications that the results
-of learning-by-doing are significantly in-
-fluenced by differences in the available
+of learning-by-doing are significantly influenced
+by differences in the available

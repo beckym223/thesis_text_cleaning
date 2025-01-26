@@ -18,14 +18,14 @@ powerful tool for linking economic activities
 and consumer well-being.
 How do organisms process sensations of
 pleasure and pain? The answer goes directly to
-the question of whether there is a single, abso-
-lute physiological scale of well-being or utility,
-and whether the organism consciously or un-
-consciously acts out of self-interest to maximize
+the question of whether there is a single, absolute
+physiological scale of well-being or utility,
+and whether the organism consciously or unconsciously
+acts out of self-interest to maximize
 this quantity. First, both behavioral observation
 and brain studies indicate that organisms seem
-to be on a hedonic treadmill, quickly habituat-
-ing to homeostasis, and experiencing pleasure
+to be on a hedonic treadmill, quickly habituating
+to homeostasis, and experiencing pleasure
 from gains and pain from losses relative to the
 reference point that homeostasis defines (see
 Sanfay et al., 2003). People quickly grow to
@@ -42,12 +42,12 @@ the limbic region play a central role in experi-
 
 encing pleasure, and also mitigate, with a lag,
 the sensation of pain (see Becerra et al., 1999;
-McClure et al., 2004). Adaptation to homeosta-
-sis and differentiation between the pleasure and
-pain circuits coincide with the powerful endow-
-ment and loss aversion effects, and sensitivity to
-framing and context, found in behavioral stud-
-ies, and suggest that these phenomena are tied
+McClure et al., 2004). Adaptation to homeostasis
+and differentiation between the pleasure and
+pain circuits coincide with the powerful endowment
+and loss aversion effects, and sensitivity to
+framing and context, found in behavioral studies,
+and suggest that these phenomena are tied
 fundamentally to brain structure. This is good
 news and bad news for utilitarians: the limbic
 system reward pathways record pleasure and
@@ -59,34 +59,34 @@ One of the interesting bits of contemporary
 biology has been the establishment for a variety
 of species of simple direct links from particular
 genes to the production of, and receptors for,
-specific neurotransmitters, and from this to spe-
-cific social behavior. One peptide, oxytocin, is
-particularly involved in bonding and trust be-
-tween animals, most notably between parents
-and their offspring. This is relevant to econom-
-ics because, in the words of Kenneth Arrow,
-"every commercial transaction involves an ele-
-ment of trust." In a study that strikes at the heart
+specific neurotransmitters, and from this to specific
+social behavior. One peptide, oxytocin, is
+particularly involved in bonding and trust between
+animals, most notably between parents
+and their offspring. This is relevant to economics
+because, in the words of Kenneth Arrow,
+"every commercial transaction involves an element
+of trust." In a study that strikes at the heart
 of consumer sovereignty, Fehr et al. (2005) and
-Michael Kosfield et al. (2005) administer oxy-
-tocin or a placebo to subjects, and then ask them
+Michael Kosfield et al. (2005) administer oxytocin
+or a placebo to subjects, and then ask them
 to play the trust game. In this game, an investor
 is given 100 MU. She has the option of placing
 Y MU with an anonymous trustee, who through
 the experimenter receives triple this amount.
 The trustee then volunteers to send Z MU back
-to the investor. The trustee's subgame is a dic-
-tator game in which norms of fairness and rep-
-utation matter, but the rational response in a
-single-shot anonymous game is to return noth-
-ing. By backward induction, the investor should
+to the investor. The trustee's subgame is a dictator
+game in which norms of fairness and reputation
+matter, but the rational response in a
+single-shot anonymous game is to return nothing.
+By backward induction, the investor should
 send nothing. In fact, both the investment and
 the return are usually positive, with the level of
-investment higher in subjects who are adminis-
-tered the "trust" peptide oxytocin. Oxytocin has
-no effect, however, on play of the dictator sub-
-game, where trust does not matter. The conclu-
-sion is that economic perceptions and decisions
+investment higher in subjects who are administered
+the "trust" peptide oxytocin. Oxytocin has
+no effect, however, on play of the dictator subgame,
+where trust does not matter. The conclusion
+is that economic perceptions and decisions
 are sensitive to brain chemistry, and susceptible
 to chemical manipulation.
 Neuroeconomics is a new subject, and the

@@ -1,6 +1,6 @@
-quantity of labor input account for the hetero-
-geneity of the workforce across sex, employ-
-ment class, age, and education levels. This
+quantity of labor input account for the heterogeneity
+of the workforce across sex, employment
+class, age, and education levels. This
 follows the approach of Jorgenson et al. (1987).
 The estimates have been revised and updated by
 Mun S. Ho and Jorgenson (2000).28
@@ -10,36 +10,36 @@ capital services and capital stock. The growth in
 labor quality is the difference between the
 growth in labor input and hours worked. Labor
 quality reflects the substitution of workers with
-high marginal products for those with low mar-
-ginal products. Table 5 presents estimates of
+high marginal products for those with low marginal
+products. Table 5 presents estimates of
 labor input, hours worked, and labor quality.
 The value of labor expenditures in Table 5 is
 $5.8 trillions in 1999, 59.3 percent of the value
-of output. This share accurately reflects the con-
-cept of gross domestic income, including impu-
-tations for the value of capital services in
+of output. This share accurately reflects the concept
+of gross domestic income, including imputations
+for the value of capital services in
 household and government sectors. As shown in
-Table 2, the growth rate of labor input acceler-
-ated to 2.18 percent for 1995-1999 from 1.70
+Table 2, the growth rate of labor input accelerated
+to 2.18 percent for 1995-1999 from 1.70
 percent for 1990-1995. This is primarily due to
 the growth of hours worked, which rose from
 1.17 percent for 1990-1995 to 1.98 percent for
-1995-1999, as labor-force participation in-
-creased and unemployment rates plummeted.
-The growth of labor quality has declined con-
-siderably in the late 1990's, dropping from 0.53
+1995-1999, as labor-force participation increased
+and unemployment rates plummeted.
+The growth of labor quality has declined considerably
+in the late 1990's, dropping from 0.53
 percent for 1990-1995 to 0.20 percent for
-1995-1999. This slowdown captures well-
-known demographic trends in the composition
+1995-1999. This slowdown captures wellknown
+demographic trends in the composition
 of the workforce, as well as exhaustion of the
 pool of available workers. Growth in hours
-worked does not capture these changes in labor-
-quality growth and is a seriously misleading
+worked does not capture these changes in laborquality
+growth and is a seriously misleading
 measure of labor input.
 III. The American Growth Resurgence
-The American economy has undergone a re-
-markable resurgence since the mid-1990's with
-accelerating growth in output, labor productiv-
-ity, and total factor productivity. The purpose of
+The American economy has undergone a remarkable
+resurgence since the mid-1990's with
+accelerating growth in output, labor productivity,
+and total factor productivity. The purpose of
 this section is to quantify the sources of growth
 for 1948-1999 and various subperiods. An

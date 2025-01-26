@@ -1,20 +1,20 @@
 the real economy actually is at any time "in
-equilibrium." Rather, the notion of equi-
-librium is a first approximation, a reference
+equilibrium." Rather, the notion of equilibrium
+is a first approximation, a reference
 point or path, like the cycles of Ptolemy
 without the epicycles and the eccentricity.
-If the market were to extend to all per-
-tinent economic decisions over the entire
-period considered, the result of an inter-
-temporal equilibrium would be an "ef-
-ficient" path of the economy in the limited
+If the market were to extend to all pertinent
+economic decisions over the entire
+period considered, the result of an intertemporal
+equilibrium would be an "efficient"
+path of the economy in the limited
 sense that no one can be made better off at
 any time without someone being made
 worse off at some time. Where market
 power interferes with competition, or where
 important economic decisions are made at
-government levels, the instinct of the neo-
-classical economist is to recommend that
+government levels, the instinct of the neoclassical
+economist is to recommend that
 legislation, regulation, the use of suitable
 incentives, or direct government decision
 either restore or mimic the operation of the
@@ -28,8 +28,8 @@ thereby becomes a natural unit of value for
 all other goods. The model of production is
 such that-not by logical necessity, but as
 an empirical fact--any primary input to
-production can be substituted to some ex-
-tent for any other. If such substitution does
+production can be substituted to some extent
+for any other. If such substitution does
 not take place within one-and-the-same
 production process, then it can still come
 about through suitable changes in the levels
@@ -38,16 +38,16 @@ these. In this view "the energy problem" is
 not one of just "saving energy," regardless
 of the cost in other resources. It is rather
 one of seeing to it that the increasing real
-cost of domestic energy extraction and sup-
-ply, and the increased market power of
+cost of domestic energy extraction and supply,
+and the increased market power of
 OPEC, are-over time-reflected in the
 real prices of primary energy forms relative
-to other primary inputs, and thereby in dif-
-ferent degrees in the prices of all other
-goods and services. In the projections de-
-scribed above, the energy prices are cal-
-culated so as to be in balance with an ef-
-ficient path of the technology mix into the
+to other primary inputs, and thereby in different
+degrees in the prices of all other
+goods and services. In the projections described
+above, the energy prices are calculated
+so as to be in balance with an efficient
+path of the technology mix into the
 future, and thereby to induce the right
 amount of energy saving. In particular if, as
 projected by MRG, real prices of primary
@@ -55,16 +55,16 @@ energy rise in this path, then energy use is
 projected to grow less than proportionally
 to GNP.
 The contrary doctrine-that regardless of
-prices there is a persistent relationship be-
-tween energy use and GNP-has frequently
+prices there is a persistent relationship between
+energy use and GNP-has frequently
 been expressed in the engineering literature.
-In line with this observation, the MRG find-
-ing of a possible small impact on GNP of
-incisive bounds on specific energy tech-
-nologies led to lively correspondence and
+In line with this observation, the MRG finding
+of a possible small impact on GNP of
+incisive bounds on specific energy technologies
+led to lively correspondence and
 discussions with members of CONA ES, and
-of its Supply/Delivery Panel, an engineer-
-ing-oriented group. I should add that the
+of its Supply/Delivery Panel, an engineering-
+oriented group. I should add that the
 MRG study was not the first modeling study
 to cast doubt on the doctrine referred to.
 By my knowledge the first was a study by
@@ -73,28 +73,28 @@ IV. Discounting Future Benefits and Costs
 We are now ready for a closer look at the
 discounting of future benefits and costs.
 This practice reflects a simple technological
-fact combined with the paradigm of equi-
-librium over time. The simple fact is that-
-short of capital saturation-society can
-temporarily curtail the production of cur-
-rent consumption goods by transferring
-some factors of production to the forma-
-tion of additional suitable capital goods,
+fact combined with the paradigm of equilibrium
+over time. The simple fact is thatshort
+of capital saturation-society can
+temporarily curtail the production of current
+consumption goods by transferring
+some factors of production to the formation
+of additional suitable capital goods,
 in such a way as to return a multiple (> 1) of
 the same unit bundle of consumption goods
-in the future. Efficient intertemporal equi-
-librium then demands that the present
-value of the goods returned to consump-
-tion be equal to that of the goods not now
+in the future. Efficient intertemporal equilibrium
+then demands that the present
+value of the goods returned to consumption
+be equal to that of the goods not now
 consumed. The quantity of the future
 bundle being larger, its per-unit present
 value must be correspondingly lower. In a
-projection that gives to one unit of the fu-
-ture bundle a future real market price nu-
-merically equal to its current price, a dis-
-count factor d < 1 must be applied to the
+projection that gives to one unit of the future
+bundle a future real market price numerically
+equal to its current price, a discount
+factor d < 1 must be applied to the
 future market price to obtain the present
 value, per unit of the future bundle. Given
 competitive markets for capital, present
-goods and future goods, and ignoring dif-
-ferences in risk, different investments bear-
+goods and future goods, and ignoring differences
+in risk, different investments bear-

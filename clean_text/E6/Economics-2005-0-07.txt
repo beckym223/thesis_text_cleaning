@@ -1,46 +1,46 @@
 retirement, unemployment, and health care of the
-retired population are more appropriate than pay-
-as-you-go programs, means-tested programs, or a
+retired population are more appropriate than payas-
+you-go programs, means-tested programs, or a
 policy of doing nothing.
 There is an important political economy
 reason for economists to work on improving
 the design of social insurance programs rather
 than advocating means-tested programs for
-unemployment and old age. Elected govern-
-ments will inevitably seek to create universal
+unemployment and old age. Elected governments
+will inevitably seek to create universal
 benefits to capture political support from the
 largest possible majority of voters. Otto von
-Bismark introduced social insurance in Prus-
-sia in 1881 in an attempt to win support for
+Bismark introduced social insurance in Prussia
+in 1881 in an attempt to win support for
 his conservative government and to fend off
 the appeal of the nascent social democrats.
 Even if it were economically desirable to do
 so, economists could not prevent the spread of
 social insurance by arguing that means-tested
-programs would be more efficient. If econo-
-mists don't analyze the effects of social in-
-surance programs and recommend rules that
+programs would be more efficient. If economists
+don't analyze the effects of social insurance
+programs and recommend rules that
 reflect good economics, the political process
 will inevitably produce inferior programs.
 III. Principles of Social Insurance
 Accepting that there is a reason for mandatory
-social insurance programs does not imply the ap-
-propriateness of the programs that we have inher-
-ited from the past. Today's Social Security and
+social insurance programs does not imply the appropriateness
+of the programs that we have inherited
+from the past. Today's Social Security and
 unemployment insurance were enacted nearly 70
 years ago. Economic conditions, administrative
 technologies, and assumptions about economic
 behavior have all changed dramatically since then.
 And yet during these past 70 years, the key social
-insurance programs have expanded without fun-
-damental change.
+insurance programs have expanded without fundamental
+change.
 Before I consider some of the specific ways
 in which our basic social insurance programs
 can be reformed and strengthened, I want to
 discuss broader principles that can help us to
 think about each of the specific programs. I'll
-begin with three fundamental political princi-
-ples and then turn to four economic principles.
+begin with three fundamental political principles
+and then turn to four economic principles.
 A. Three Political Principles
 Political principles involve value judgments
 to a greater extent than the economic principles
@@ -52,16 +52,16 @@ with me about specific reforms even if you
 reject some or all of these principles.
 Permitting Individual Choice.-Individuals
 differ in their preferences. We do not all have
-the same risk aversion, the same time prefer-
-ence, the same relative taste for goods and lei-
-sure. Letting individuals choose among options
-in a way that reflects their individual prefer-
-ences should be an important aspect of social
+the same risk aversion, the same time preference,
+the same relative taste for goods and leisure.
+Letting individuals choose among options
+in a way that reflects their individual preferences
+should be an important aspect of social
 insurance design. For Milton Friedman, such
 freedom to choose is paramount. For me, it is
 important but not decisive. In cases where
-asymmetric information creates serious effi-
-ciency problems, I might restrict that choice.
+asymmetric information creates serious efficiency
+problems, I might restrict that choice.
 But I prefer to allow as much choice as possible.
 I think that allowing individuals to make their
 own choices is morally correct and generally
@@ -69,27 +69,27 @@ improves individual, and therefore social,
 well-being.
 But allowing choice means that programs
 should be designed so that choice enhances
-economic efficiency rather than creating dead-
-weight losses. A good example of such a pro-
-gram redesign was the Social Security reform
+economic efficiency rather than creating deadweight
+losses. A good example of such a program
+redesign was the Social Security reform
 that introduced the actuarial adjustment for
 early and delayed retirement in a way that, in
 principle, will allow individuals to decide when
-they will start collecting benefits without chang-
-ing the actuarial present value of their benefits.5
+they will start collecting benefits without changing
+the actuarial present value of their benefits.5
 Creating Program Transparency.--Social
 insurance programs involve complex rules
 about the benefits to be received, the taxes to be
 paid, and the link, if any, between them. Who
 among you is confident about even the most
-basic Social Security rules that determine ben-
-efits at retirement? If you are a man, what
+basic Social Security rules that determine benefits
+at retirement? If you are a man, what
 benefit would your wife receive if she collects
 on her own rather than as your spouse? How
 would that change if she earned more or worked
 another year? If she decides to retire at age 62  rather than 65? I'm told that there are more than
 2500 separate rules in the Social Security
 handbook.
-The complexity of the rules weakens the per-
-ceived link between the payroll taxes paid and
+The complexity of the rules weakens the perceived
+link between the payroll taxes paid and
 SThis adjustment will provide actuarially equivalent  benefits with a 3 percent real rate of return.

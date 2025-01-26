@@ -1,50 +1,50 @@
 The role of policy in this vision of the
-growth process is an "enabling" one. By cre-
-ating the circumstances where firms can
+growth process is an "enabling" one. By creating
+the circumstances where firms can
 quickly and accurately predict opportunities
-for real cost reduction and act on them, gov-
-ernments can guide the economy toward an
+for real cost reduction and act on them, governments
+can guide the economy toward an
 enhanced contribution of RCR to growth. By
 rationalizing and/or eliminating barriers and
 controls, they may also lead to an increased
-pace of investment and increased rates of re-
-turn. In this view, the connection between
+pace of investment and increased rates of return.
+In this view, the connection between
 good policy and growth is not mechanical, and
-thus cannot easily be captured in regression-
-type analysis, but that does not stop it from
+thus cannot easily be captured in regressiontype
+analysis, but that does not stop it from
 being of vital importance.
 I want to give special weight to another role
 of "growth-enabling" policy actions, which
 has to do with how policies, the effects of
 which might typically be considered to be
 comparative static, can nonetheless turn out to
-influence economic growth rates over ex-
-tended periods of time.
+influence economic growth rates over extended
+periods of time.
 This story begins with a recognition that
 most developing countries have typically used
 production techniques that were "backward"
-in relation to those used by the advanced econ-
-omies. One way to verify this is to imagine
-integrally replicating, say, a U.S. factory in In-
-dia, and manning it there with Indian workers
+in relation to those used by the advanced economies.
+One way to verify this is to imagine
+integrally replicating, say, a U.S. factory in India,
+and manning it there with Indian workers
 equivalent in skill to their U.S. counterparts.
 The combination of lower construction costs
 and much lower operating costs (mainly
-wages) would permit this hypothetical new In-
-dian firm to undercut the prices of both the
-U.S. firm of which it was a copy and the typ-
-ical Indian firm currently active in the same
+wages) would permit this hypothetical new Indian
+firm to undercut the prices of both the
+U.S. firm of which it was a copy and the typical
+Indian firm currently active in the same
 industry. This says that the typical Indian firm
-is operating on an "inferior" production func-
-tion. If, as I believe, the difference in effi-
-ciency between U.S. and developing-country
+is operating on an "inferior" production function.
+If, as I believe, the difference in efficiency
+between U.S. and developing-country
 firms is typically large, there is much room for
 quite rapid improvements in the developing
 countries as they learn how to "adopt and
 adapt" already-known techniques from the
 advanced countries.
-I would assume that the incentives for "con-
-vergence" are always present, but that they
+I would assume that the incentives for "convergence"
+are always present, but that they
 have typically run into barriers and trammels
 of many kinds in the poor countries of the
 world. Reducing the barrfers and loosening the
@@ -56,20 +56,20 @@ growth, it is simply not true that implementing
 enabling policies typically permits a quantum
 jump from the old to the truly modem. It is
 more accurate to describe it as speeding up
-what will in any case be a very lengthy pro-
-cess. Personally, I like the analogy to a hy-
-draulic system in which a large vessel with a
+what will in any case be a very lengthy process.
+Personally, I like the analogy to a hydraulic
+system in which a large vessel with a
 high water level and lots of water is connected
 to a much smaller and narrower vessel with a
-much lower level of water. Physical laws dic-
-tate a tendency for the water levels to equalize
+much lower level of water. Physical laws dictate
+a tendency for the water levels to equalize
 in the end. But this can take a very long time
 if the tube connecting the two vessels is tiny,
 or is clogged by extraneous matter.
 The policies that we consider good for
 growth have the attribute, in this analogy, of
-removing the extraneous matter and/or enlarg-
-ing the connecting tube. But even with the best
+removing the extraneous matter and/or enlarging
+the connecting tube. But even with the best
 modernizing policies, the tube remains small
 enough so that it takes many decades for a
 country to pass from poor to middle income or
@@ -89,8 +89,8 @@ jump to a totally different level.
 This way of looking at the world also leads
 to some observations on the current literature
 dealing with convergence. I have long been
-mystified by allusions to an ultimate conver-
-gence of growth rates among countries, or an
+mystified by allusions to an ultimate convergence
+of growth rates among countries, or an
 ultimate convergence of levels of output per
-head. To me, the natural convergence is prod-
-uct by product, not country by country. And
+head. To me, the natural convergence is product
+by product, not country by country. And

@@ -4,79 +4,79 @@ Robert Solow
 The vast majority of our profession share
 a common view on most microeconomic
 policy issues. But we are widely split over
-macroeconomic theory and policy. Our con-
-census on micro issues arises from a shared
+macroeconomic theory and policy. Our concensus
+on micro issues arises from a shared
 model of how markets work in the long run.
 Our division on macro issues stems from a
 number of reasons, the emphasis on which
 has shifted over the years. In recent times the
 main disagreement has centered on how
-markets perform in the short run. In particu-
-lar, we cannot agree on why nominal wages
+markets perform in the short run. In particular,
+we cannot agree on why nominal wages
 are sticky on the face of aggregate demand
 shocks. The traditional view argues that
-wages are structurally sticky. The new classi-
-cal macroeconomists argue that wages are
-fundamentally flexible. But the rational ex-
-pectations of economic agents, grounded on
-past experience with attempts at employ-
-ment-supporting monetary policy, have pro-
-duced the observed wage stickiness. Intro-
-duction of a changed policy regime, based on
+wages are structurally sticky. The new classical
+macroeconomists argue that wages are
+fundamentally flexible. But the rational expectations
+of economic agents, grounded on
+past experience with attempts at employment-
+supporting monetary policy, have produced
+the observed wage stickiness. Introduction
+of a changed policy regime, based on
 a stable growth path for the money supply or
 some similar rule, would-so the argument
-goes-eventually change the pattern of ex-
-pectations and eliminate the stickiness.
+goes-eventually change the pattern of expectations
+and eliminate the stickiness.
 A large and rapidly expanding body of
-recent research on implicit contracts, prin-
-cipal-agent relationships, and related sub-
-jects has begun to flesh out our knowledge of
+recent research on implicit contracts, principal-
+agent relationships, and related subjects
+has begun to flesh out our knowledge of
 why wages are sticky. Almost universally the
-implicit contract and related literature con-
-cludes that optimal behavior implies a good
+implicit contract and related literature concludes
+that optimal behavior implies a good
 deal less wage flexibility in the face of changes
 in the marginal revenue product of labor
 than would occur in the spot auction markets
 of the Walrasian model. But this literature
 deals with the stickiness of real and relative
 wages in response to shocks of various kinds.
-It seems to have little to say about the mac-
-roeconomic stickiness of nominal wages. A
+It seems to have little to say about the macroeconomic
+stickiness of nominal wages. A
 micro theory of real wage stickiness may
 help explain the difficulty of adjusting to
 sudden large changes in aggregate supply
 conditions like the two oil shocks of the
-1970's. But the more familiar problems fac-
-ing macroeconomic theory and policy have
+1970's. But the more familiar problems facing
+macroeconomic theory and policy have
 to do with the ability of the economy to
 adjust to aggregate demand shocks where
 nominal wage stickiness is a major barrier to
-successful adjustment. And here the im-
-portant question is what, if anything, does
+successful adjustment. And here the important
+question is what, if anything, does
 the new research imply for the behavior of
 nominal wages? It is to this subject I want to
 give my attention.
-A road map will be helpful. After sum-
-marizing the existing literature, the first
-section concentrates on relative wage ad-
-justments, and argues that under optimal
+A road map will be helpful. After summarizing
+the existing literature, the first
+section concentrates on relative wage adjustments,
+and argues that under optimal
 arrangements for the determination of wages,
 relative wages while not rigid will be sticky.
 They will adjust only gradually to relative
 changes in the conditions facing individual
 firms. The paper then argues that contrary to
-general opinion, relative wage stickiness nec-
-essarily produces aggregate nominal wage
-stickiness; if wages move sluggishly in re-
-sponse to the relative conditions facing indi-
-vidual firms, they will move sluggishly in
-response to aggregate nominal shocks. Sever-
-al mechanisms that might produce a flexible
+general opinion, relative wage stickiness necessarily
+produces aggregate nominal wage
+stickiness; if wages move sluggishly in response
+to the relative conditions facing individual
+firms, they will move sluggishly in
+response to aggregate nominal shocks. Several
+mechanisms that might produce a flexible
 wage response to nominal shocks, given sticky
 relative wages, are considered and rejected
 -various forms of indexing and rational
 expectations. Finally the "external" nature
 of the gains from nominal wage flexibility
-is invoked against the criticism that attribut-
-ing cyclical unemployment to nominal wage
+is invoked against the criticism that attributing
+cyclical unemployment to nominal wage
 stickiness implies nonrational behavior on

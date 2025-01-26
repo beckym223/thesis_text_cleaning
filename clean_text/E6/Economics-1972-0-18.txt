@@ -2,23 +2,23 @@ although it takes the form of preferential
 access to credit and other bank services.
 But, in case anyone still regards the waste
 of resources in unnecessary transactions
-between money and interest-bearing finan-
-cial assets as one of the major economic
+between money and interest-bearing financial
+assets as one of the major economic
 problems of the day, there is a simple and
 straightforward remedy, the payment of
 interest on demand deposits and possibly,
 with ingenuity, on currency too.
 The ultimate disaster of inflation would
-be the breakdown of the monetary pay-
-ments system, necessitating a currency
-reform. Such episodes have almost invari-
-ably resulted from real economic catas-
-trophes-wars, defeats, revolutions, rep-
-arations-not from the mechanisms of
-wage-price push with which we are con-
-cerned. Acceleration is a scare word, con-
-veying the image of a rush into hyper-
-inflation as relentlessly deterministic and
+be the breakdown of the monetary payments
+system, necessitating a currency
+reform. Such episodes have almost invariably
+resulted from real economic catastrophes-
+wars, defeats, revolutions, reparations-
+not from the mechanisms of
+wage-price push with which we are concerned.
+Acceleration is a scare word, conveying
+the image of a rush into hyperinflation
+as relentlessly deterministic and
 monotonic as the motion of falling bodies.
 Realistic attention to the disaggregated
 and stochastic nature of wage and price
@@ -36,41 +36,41 @@ of resources. An example we have already
 discussed is the alleged misallocation of
 time by workers who over-estimate their
 real wages. The same error would lead to
-a general over-supply by sellers who con-
-tract for future deliveries without taking
+a general over-supply by sellers who contract
+for future deliveries without taking
 correct account of the increasing prices of
-the things they must buy in order to ful-
-fill the contract. Unanticipated deflation
+the things they must buy in order to fulfill
+the contract. Unanticipated deflation
 would cause similar miscalculations and
 misallocations. Indeed, people can make
 these same mistakes about relative prices
 even when the price level is stable. The
 mistakes are more likely, or the more
-costly to avoid, the greater the infla-
-tionary trend. There are costs in setting
-and announcing new prices. In an infla-
-tionary environment price changes must
+costly to avoid, the greater the inflationary
+trend. There are costs in setting
+and announcing new prices. In an inflationary
+environment price changes must
 be made more frequently-a new catalog
-twice a year instead of one, or some for-
-mula for automatic escalation of an-
-nounced prices. Otherwise, with the inter-
-val between announcements unchanged,
+twice a year instead of one, or some formula
+for automatic escalation of announced
+prices. Otherwise, with the interval
+between announcements unchanged,
 the average misalignment of relative prices
 will be larger the faster the inflation. The
 same problem would arise with rapid
 deflation.
-Unanticipated inflation and deflation-
-and unanticipated changes in relative
+Unanticipated inflation and deflationand
+unanticipated changes in relative
 prices-are also sources of transfers of
 wealth. I will not review here the rich and
-growing empirical literature on this sub-
-ject. Facile generalizations about the pro-
-gressivity or equity of inflationary trans-
-fers are hazardous; certainly inflation does
+growing empirical literature on this subject.
+Facile generalizations about the progressivity
+or equity of inflationary transfers
+are hazardous; certainly inflation does
 not merit the cliche that it is "the cruelest
 tax." Let us not forget that unemployment
-has distributional effects as well as dead-
-weight losses.
+has distributional effects as well as deadweight
+losses.
 Some moralists take the view that the
 government has promised to maintain the
 purchasing power of its currency, but this
@@ -80,8 +80,8 @@ Constitution. Some believe so strongly in
 this implicit contract that they are willing
 to suspend actual contracts in the name of
 anti-inflation.
-I have long contended that the govern-
-ment should make low-interest bonds of
+I have long contended that the government
+should make low-interest bonds of
 guaranteed purchasing power available
 for savers and pension funds who wish to
 avoid the risks of unforeseen inflation. The

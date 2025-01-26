@@ -2,17 +2,17 @@ analysis. Though this area encompasses one
 of its most crucial accomplishments, there is
 no way I can do justice to the details of the
 analysis in an oral presentation and within
-my allotted span of time. However, an intui-
-tive view of the matter is not difficult.
+my allotted span of time. However, an intuitive
+view of the matter is not difficult.
 The key to the analysis lies in the second
-welfare property of contestable equilibria-
-their incompatibility with inefficiency of any
+welfare property of contestable equilibriatheir
+incompatibility with inefficiency of any
 sort. In particular, they are incompatible with
-inefficiency in the organization of an in-
-dustry. That is, suppose we consider whether
+inefficiency in the organization of an industry.
+That is, suppose we consider whether
 a particular output quantity of an industry
-will be produced by two firms or by a thou-
-sand. Suppose it turns out that the two-firm
+will be produced by two firms or by a thousand.
+Suppose it turns out that the two-firm
 arrangement can produce the given output at
 a cost 20 percent lower than it can be done
 by the 1,000 firms. Then one implication of
@@ -21,8 +21,8 @@ long-run equilibrium if it encompasses 1,000
 producers. Thus we already have some hint
 about the equilibrium industry structure of a
 contestable market.
-We can go further with this example. Sup-
-pose that, with the given output vector for
+We can go further with this example. Suppose
+that, with the given output vector for
 the industry, it turns out that no number of
 firms other than two can produce at as low a
 total cost as is possible under a two-firm
@@ -30,33 +30,33 @@ arrangement. That is, suppose two firms can
 produce the output vector at a total cost
 lower than it can be done by one firm or
 three firms or sixty or six thousand. Then we
-say that for the given output vector the in-
-dustry is a natural duopoly.
-This now tells us how the industry's struc-
-ture can be determined. We proceed, concep-
-tually, in two steps. First we determine what
+say that for the given output vector the industry
+is a natural duopoly.
+This now tells us how the industry's structure
+can be determined. We proceed, conceptually,
+in two steps. First we determine what
 structure happens to be most efficient for the
 production of a given output vector by a
 given industry. Next, we investigate when
-market pressures will lead the industry to-
-ward such an efficient structure in equi-
-librium.
+market pressures will lead the industry toward
+such an efficient structure in equilibrium.
+
 Now, the first step, though it has many
 intriguing analytic attributes, is essentially a
 pure matter of computation. Given the cost
 function for a typical firm, it is ultimately a
 matter of calculation to determine how many
-firms will produce a given output most effi-
-ciently. For example, if economies of scale
+firms will produce a given output most efficiently.
+For example, if economies of scale
 hold throughout the relevant range and there
-are sufficient complementarities in the pro-
-duction of the different commodities sup-
-plied by the firm, then it is an old and
-well-known conclusion that single firm pro-
-duction will be most economical-that we
+are sufficient complementarities in the production
+of the different commodities supplied
+by the firm, then it is an old and
+well-known conclusion that single firm production
+will be most economical-that we
 are dealing with a natural monopoly.
-Similarly, in the single product case sup-
-pose the average cost curve is U shaped and
+Similarly, in the single product case suppose
+the average cost curve is U shaped and
 attains its minimum point at an output of
 10,000 units per year. Then it is obvious that
 if the industry happens to sell 50,000 units
@@ -69,21 +69,21 @@ interesting when the firm and the industry
 produce a multiplicity of commodities, as
 they always do in reality. But the logic is
 always the same. When the industry output
-vector is small compared to the output vec-
-tors the firm can produce at relatively low
+vector is small compared to the output vectors
+the firm can produce at relatively low
 cost, then the efficient industry structure will
-be characterized by very few firms. The op-
-posite will be true when the industry's output
+be characterized by very few firms. The opposite
+will be true when the industry's output
 vector is relatively far from the origin. In the
 multiproduct case, since average cost cannot
-be defined, two complications beset the char-
-acterization of the output vectors which the
+be defined, two complications beset the characterization
+of the output vectors which the
 firm can produce relatively efficiently. First,
 since here average cost cannot be defined, we
-cannot simply look for the point of mini-
-mum average costs. But we overcome this
-problem by dealing with output bundles hav-
-ing fixed proportions among commodity
+cannot simply look for the point of minimum
+average costs. But we overcome this
+problem by dealing with output bundles having
+fixed proportions among commodity
 quantities-by moving along a ray in output
 space. Along any such ray the behavior of
 average cost is definable, and the point of
@@ -91,8 +91,8 @@ minimum ray average cost (RA C) is our
 criterion of relatively efficient scale for the
 firm. Thus, in Figure 1 we have a ray average
 cost curve for the production of boots and
-shoes when they are produced in the propor-
-tion given by ray OR. We see that for such
+shoes when they are produced in the proportion
+given by ray OR. We see that for such
 bundles ytm is the point of minimum RA C. A
 second problem affecting the determination
 of the output vectors the firm can produce
@@ -100,7 +100,7 @@ efficiently is the choice of output proportions
 -the location of the ray along which the
 firm will operate. This depends on the degree
 of complementarity in production of the
-goods, and it also lends itself to formal anal-
-ysis.
-We note also that the most efficient num-
-ber of firms will vary with the location of the
+goods, and it also lends itself to formal analysis.
+
+We note also that the most efficient number
+of firms will vary with the location of the

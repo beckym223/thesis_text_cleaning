@@ -6,25 +6,25 @@ the first half of this century showed little
 interest in explaining long-term trends in
 income and population. But the subject
 is too important to remain neglected, and
-Robert Solow, David Cass, and others devel-
-oped the neoclassical growth model in the
-1950s and early 1960s. This model incorpo-
-rates two major advances over the Malthu-
-sian model. Each person maximizes utility
-that depends on present and future con-
-sumption. More important is the recognition
+Robert Solow, David Cass, and others developed
+the neoclassical growth model in the
+1950s and early 1960s. This model incorporates
+two major advances over the Malthusian
+model. Each person maximizes utility
+that depends on present and future consumption.
+More important is the recognition
 that changes in the capital stock respond to
-rates of return on investments. Unfor-
-tunately, the neoclassical model also takes a
-sizable step backward from Malthus by as-
-suming that fertility and other dimensions of
+rates of return on investments. Unfortunately,
+the neoclassical model also takes a
+sizable step backward from Malthus by assuming
+that fertility and other dimensions of
 population growth are independent of wages,
 incomes, and prices.
 I trust that the basic properties of a simple
 neoclassical model are familiar. What may
 not be generally appreciated is that despite
-the different assumptions, the analytic struc-
-tures of the neoclassical and Malthusian
+the different assumptions, the analytic structures
+of the neoclassical and Malthusian
 models are quite close and many of their
 implications are similar. If technology and
 preferences do not change over time, both
@@ -37,10 +37,10 @@ rate of population growth. To illustrate, if
 the capital-labor ratio exceeds its steady-state
 level, the rate of return on capital is below
 and the wage rate is above their steady-state
-levels. In the neoclassical model this discour-
-ages investment, which lowers the capital-
-labor ratio over time (with exogenous popu-
-lation growth). In the Malthusian model this
+levels. In the neoclassical model this discourages
+investment, which lowers the capitallabor
+ratio over time (with exogenous population
+growth). In the Malthusian model this
 encourages population growth, which also
 lowers the capital-labor ratio over time (with
 exogenous investment in capital). We have
@@ -52,12 +52,12 @@ a shock to the capital stock (perhaps wartime
 destruction of capital) has no long-run effect
 on the aggregate capital stock or per capita
 income.
-The persistent growth in per capita in-
-comes during the past two centuries is no
+The persistent growth in per capita incomes
+during the past two centuries is no
 easier to explain within the neoclassical
 framework than within the Malthusian. Of
-course, the neoclassical model postulates ex-
-ogenous technological progress to "explain"
+course, the neoclassical model postulates exogenous
+technological progress to "explain"
 continuing growth in per capita incomes, but
 the need to rely on "exogenous" progress is
 a confession of failure to explain growth
@@ -65,32 +65,32 @@ within the model. Moreover, the Malthusian
 model can equally well postulate exogenous
 progress to "explain" persistent growth.
 II. The Family and Economic Growth
-After a short while the economics profes-
-sion became disenchanted with the neoclas-
-sical model, presumably because it too did
-not help in understanding progress. The ex-
-citement reflected in hundreds of papers that
+After a short while the economics profession
+became disenchanted with the neoclassical
+model, presumably because it too did
+not help in understanding progress. The excitement
+reflected in hundreds of papers that
 extended and elaborated this model in the
 1950s and 1960s gave way during the past
 fifteen years to a lack of interest in the
-analytics of growth that is a little remi-
-niscent of the situation during the first half
+analytics of growth that is a little reminiscent
+of the situation during the first half
 of the century.
 Fortunately, a more relevant growth model
-is available through combining the best fea-
-tures of the neoclassical and MIalthusian
+is available through combining the best features
+of the neoclassical and MIalthusian
 models and by adding a focus on investment
 in knowledge and skills. The neoclassicists
-are right to emphasize endogenous capi-
-tal accumulation and utility maximization.
+are right to emphasize endogenous capital
+accumulation and utility maximization.
 Malthusians are right to stress the response
-of fertility and other components of popula-
-tion growth to changes in the economy, and
+of fertility and other components of population
+growth to changes in the economy, and
 that these responses can greatly influence
 economic change.
 I will sketch out a modified neoclassical
-model where parents choose both the num-
-ber of children and the capital (human or
+model where parents choose both the number
+of children and the capital (human or
 physical) bequeathed to each child. Parental
 altruism or "love" toward children provides
 a powerful framework for the analysis of

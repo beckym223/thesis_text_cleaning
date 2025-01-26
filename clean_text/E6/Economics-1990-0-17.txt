@@ -1,5 +1,5 @@
-able income above $250,000 would accom-
-plish this objective (see Plan II, Table 7).49
+able income above $250,000 would accomplish
+this objective (see Plan II, Table 7).49
 Another change to increase progressivity
 would be to increase the earned-income
 credit for low-income families. Today, the
@@ -7,33 +7,33 @@ credit is the same for all families, regardless
 of the number of children. The credit would
 be more effective in combatting poverty if it
 increased with family size. For example, the
-current 14-percent credit could be main-
-tained for families with one child and four
+current 14-percent credit could be maintained
+for families with one child and four
 percentage points, or roughly $250, could be
 added for each additional child. With this
 modification, the earned income credit would
 increase the likelihood that a family with
 several children could earn enough to remain
 outside the welfare system.
-Table 8 reports the average effective fed-
-eral income tax rates by population deciles
-under the schedule that restores overall pro-
-gressivity to 1977 levels (Plan II) and under
+Table 8 reports the average effective federal
+income tax rates by population deciles
+under the schedule that restores overall progressivity
+to 1977 levels (Plan II) and under
 the schedule that matches 1990 distribution
 with a broadened base (Plan I). The average
 effective rates in Plan II are lower than those
 under present law in the bottom nine deciles
 and higher in the top decile. For the top 1
-percent of the family units, the average ef-
-fective rate rises from 21 percent to 30 per-
-cent, which cannot be regarded as punitive.
+percent of the family units, the average effective
+rate rises from 21 percent to 30 percent,
+which cannot be regarded as punitive.
 I recognize that few people would go as
 far as I would in broadening the tax base.
 But that does not mean that the objective of
 greater progressivity must be abandoned.
-Even if there were no additional base-broad-
-ening between now and 1990, the same de-
-gree of progressivity that prevailed in 1977
+Even if there were no additional base-broadening
+between now and 1990, the same degree
+of progressivity that prevailed in 1977
 could be achieved with rates ranging from 7
 percent at the bottom to 56 percent at the
 top.
@@ -41,27 +41,27 @@ Conclusion
 I conclude that there is no good reason for
 the disenchantment of economists with the
 income tax. The main rival of the income tax
--the consumption expenditure tax- is dis-
-tinctly inferior on theoretical as well as prac-
-tical grounds. The endowment or lifetime
-perspective of the expenditure tax is indefen-
-sible in a world of financial, political, and
+-the consumption expenditure tax- is distinctly
+inferior on theoretical as well as practical
+grounds. The endowment or lifetime
+perspective of the expenditure tax is indefensible
+in a world of financial, political, and
 family instability. The transition problems in
-moving from an income tax to an expendi-
-ture tax are extremely difficult. There is also
-a danger that the substitution of an expendi-
-ture tax for the income tax would greatly
-increase the concentration of wealth. More-
-over, the public regards income, not expen-
-diture, as the best index of ability to pay,
+moving from an income tax to an expenditure
+tax are extremely difficult. There is also
+a danger that the substitution of an expenditure
+tax for the income tax would greatly
+increase the concentration of wealth. Moreover,
+the public regards income, not expenditure,
+as the best index of ability to pay,
 and it would be unwise to abandon this
-familiar and widely approved basis of taxa-
-tion.
+familiar and widely approved basis of taxation.
+
 The 1986 reforms have greatly improved
 the federal income tax by broadening the
-base and lowering rates. But the progressiv-
-ity of the federal tax system has been declin-
-ing for the last two decades. As a result, the
+base and lowering rates. But the progressivity
+of the federal tax system has been declining
+for the last two decades. As a result, the
 distribution of before-tax income, which has
 been growing more unequal in the 1980s, has
 become even more unequal on an after-tax
@@ -72,15 +72,15 @@ mid-1970s.
 The 1986 tax reform went a long way
 toward comprehensive income taxation, but
 much more can be done to enlarge the tax
-base and to remove the preferences for capi-
-tal income. Among the more urgent base-
-broadening reforms are the inclusion in tax-
-able income of capital gains transferred by
-gift or at death, elimination of the tax ex-
-emption for newly issued state-local securi-
-ties, taxation of employee fringe benefits,
-treatment of Social Security benefits like pri-
-vate pensions, reduction of the tax subsidy
+base and to remove the preferences for capital
+income. Among the more urgent basebroadening
+reforms are the inclusion in taxable
+income of capital gains transferred by
+gift or at death, elimination of the tax exemption
+for newly issued state-local securities,
+taxation of employee fringe benefits,
+treatment of Social Security benefits like private
+pensions, reduction of the tax subsidy
 for home owners, pruning of the personal
 deductions, and withholding on interest and
 dividends. To correct the measurement of
@@ -88,6 +88,6 @@ capital income for inflation, asset prices
 should be adjusted for changing prices in
 order to convert nominal to real incomes for
 tax purposes. The two-earner deduction and
-income averaging should be restored to re-
-duce the marriage penalty and equalize the
+income averaging should be restored to reduce
+the marriage penalty and equalize the
 treatment of fluctuating and stable incomes.

@@ -1,33 +1,33 @@
-Much of mankind's accumulated knowl-
-edge performs functions other than that of
+Much of mankind's accumulated knowledge
+performs functions other than that of
 increasing our command over goods and
 services in the usual sense of these words.
-The value of such knowledge is not in-
-strumental in an economic-technological
-context. It is equally clear that contribu-
-tors to the growth of knowledge have all
+The value of such knowledge is not instrumental
+in an economic-technological
+context. It is equally clear that contributors
+to the growth of knowledge have all
 along been motivated largely by a desire to
 improve their understanding of the world
 into which they were born. "From science
 to engineering and from engineering to
-more goods and services" would be an un-
-duly drab account of man's quest for knowl-
-edge.
-Yet in societies of various types, finan-
-cial and other incentives have become
-established for directing inventive and ed-
-ucational abilities to specific tasks carry-
-ing economic promise. Moreover, for sev-
-eral centuries the Western conception of
+more goods and services" would be an unduly
+drab account of man's quest for knowledge.
+
+Yet in societies of various types, financial
+and other incentives have become
+established for directing inventive and educational
+abilities to specific tasks carrying
+economic promise. Moreover, for several
+centuries the Western conception of
 knowledge that is valuable for its own
 sake has been appreciably influenced by
-the ideals of natural scientists and mathe-
-maticians. It is a fact of crucial importance
-that this has created a cultural environ-
-ment in which a reasonably high degree of
-correlation may be found between the ac-
-cumulation of knowledge per se and sub-
-sequent technological applications. The
+the ideals of natural scientists and mathematicians.
+It is a fact of crucial importance
+that this has created a cultural environment
+in which a reasonably high degree of
+correlation may be found between the accumulation
+of knowledge per se and subsequent
+technological applications. The
 methods of measuring the economic yield
 of new knowledge and of measuring the
 trend of that yield have many inevitable
@@ -39,8 +39,8 @@ and trends.
 The inputs which in this study will be
 regarded as progress-generating will be so
 defined because they increase the economic
-productivity of inputs at large. Our pro-
-gress-inputs could be viewed as producing
+productivity of inputs at large. Our progress-
+inputs could be viewed as producing
 intangible capital that is instrumental to
 the production of goods and services and
 also intangible consumer capital serving as
@@ -51,8 +51,8 @@ treating it as output in the sense proper.
 The "intangible investment" results in an
 increase of the value of terms which in
 static versions of neoclassical production
-functions would be parameters. The pro-
-gress-generating inputs of each period may
+functions would be parameters. The progress-
+generating inputs of each period may
 then be viewed as producing additional
 output indirectly, via their effect on such
 terms of otherwise conventionally defined
@@ -63,8 +63,8 @@ in this distinctive fashion describes the
 most convenient way of separating them
 out for specific analysis.
 As I shall show later, however, very
-similar results are obtained in an analyti-
-cal framework of different character in
+similar results are obtained in an analytical
+framework of different character in
 which practically all long-ruIn increase in
-output per man-hour is interpreted as de-
-veloping from additional per capita knowl-
+output per man-hour is interpreted as developing
+from additional per capita knowl-

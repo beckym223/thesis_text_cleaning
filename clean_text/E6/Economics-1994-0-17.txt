@@ -1,6 +1,6 @@
 recent attempt at getting more money for
-economic statistics, the late "Boskin initia-
-tive"? Central economic statistics do not
+economic statistics, the late "Boskin initiative"
+? Central economic statistics do not
 have a clear constituency that lobbies on
 their behalf. Recent governments seem not
 to care enough, or to have enough energy to
@@ -10,19 +10,19 @@ for some improvement in this situation from
 the current administration. It has people
 who know better in reasonably important
 positions. Still, with the main focus on the
-daily crisis and the continuing budget bat-
-tles with Congress, I am not all that opti-
-mistic. But if we want progress in this area,
+daily crisis and the continuing budget battles
+with Congress, I am not all that optimistic.
+But if we want progress in this area,
 if we care, we need to make our opinions
 heard. We need to convince Congress (and
 ourselves) that the requests for additional
 funding of the statistical infrastructure are
-justified as investments in general knowl-
-edge and more informed policy formation;
+justified as investments in general knowledge
+and more informed policy formation;
 that they are not just self-serving, intended
 to allow us to publish more articles or run
-thousands more regressions; that it is in-
-deed important to know what is happening
+thousands more regressions; that it is indeed
+important to know what is happening
 and to understand where we might be going
 or drifting.18
 We need also to make observation, data
@@ -36,16 +36,16 @@ what the national accounts are made of.19
 We also need to teach them to go out and
 collect their own data on interesting aspects
 of the economy and to rely less on "given"
-data from distant agencies.'o There are en-
-couraging signs that some of this is happen-
-ing, especially in the micro area. One is
+data from distant agencies.'o There are encouraging
+signs that some of this is happening,
+especially in the micro area. One is
 much more cheered by work such as that of
-Robert Fogel (1986) on heights and nutri-
-tion, Alan Krueger and Orley Ashenfelter
+Robert Fogel (1986) on heights and nutrition,
+Alan Krueger and Orley Ashenfelter
 (1992) on twins, Richard Levin et al. (1987)
 on the appropriability of technology,
-Rebecca Henderson and Cockburn on phar-
-maceutical R&D, Richard Freeman and
+Rebecca Henderson and Cockburn on pharmaceutical
+R&D, Richard Freeman and
 Harry Holtzer (1986) on inner-city youths,
 Schankerman and Pakes (1986) on patent
 renewal data, Manuel Trajtenberg (1990a)
@@ -54,8 +54,8 @@ and Adam Jaffe et al. (1993) on patent
 citations, where researchers go out, collect,
 and create new data sets, than by the
 20,000th regression on the Robert Summers
-and Alan Heston (1991) data set, illuminat-
-ing as it may be. But unless we transmit this
+and Alan Heston (1991) data set, illuminating
+as it may be. But unless we transmit this
 message to our students, we will not be able
 to convince others that this is a cause worth
 supporting.
@@ -71,10 +71,10 @@ framework proceeds as if all investment
 and employment decisions are made at
 known and common factor and product
 prices, throwing all of the heterogeneity
-and uncertainty-the surprises and the dis-
-appointments-into the residual category.
+and uncertainty-the surprises and the disappointments-
+into the residual category.
 An alternative view would see measured
 productivity growth as a summation of
-above- (and below-) average returns to vari-
-ous current investment decisions and capital
+above- (and below-) average returns to various
+current investment decisions and capital
 gains (or losses) on existing physical- and

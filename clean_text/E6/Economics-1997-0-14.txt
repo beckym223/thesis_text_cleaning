@@ -1,25 +1,25 @@
 national economics courses, sections on trade
-policy spend considerable time addressing na-
-tional defense exceptions, the optimum tariff
-argument, the infant industry argument, second-
-best arguments, and other arguments for pro-
-tection. While attention is paid to the reasons
+policy spend considerable time addressing national
+defense exceptions, the optimum tariff
+argument, the infant industry argument, secondbest
+arguments, and other arguments for protection.
+While attention is paid to the reasons
 why these arguments may not be correct, focus
 nonetheless centers on the exceptions to the
 case for free trade, rather than on the reasons
 for it. While this may be inevitable as a way
-of reasoning, the temptation to draw inappro-
-priate inferences seems high.
+of reasoning, the temptation to draw inappropriate
+inferences seems high.
 An example will illuminate the argument.
-Whereas theory suggests criteria for depar-
-tures from laissez-faire free trade which nor-
-mally would result in different levels of
+Whereas theory suggests criteria for departures
+from laissez-faire free trade which normally
+would result in different levels of
 protection for different industries, a widely
 used prescription for policy makers is that, if
 there is to be protection, a uniform tariff is
 usually preferable to any alternative structVre.
-This proposition rests on several considera-
-tions. First, only a uniform tariff can generate
+This proposition rests on several considerations.
+First, only a uniform tariff can generate
 a uniform rate of effective protection in the
 import-competing sectors and, if different
 goods are subject to different rates of tariff,
@@ -28,75 +28,75 @@ protection will lead to resource misallocation
 even within the import-competing industries
 and have no relation to underlying "dynamic"
 or market-failure considerations. Second, a
-uniform tariff simplifies customs administra-
-tion, making evasion and/or bribery of cus-
-toms officials more difficult than a varying rate
-structure. Third, a uniform tariff greatly re-
-duces the opportunities for resource losses in
-rent-seeking and lobbying. Fourth, given in-
-ternational prices, international value added is
+uniform tariff simplifies customs administration,
+making evasion and/or bribery of customs
+officials more difficult than a varying rate
+structure. Third, a uniform tariff greatly reduces
+the opportunities for resource losses in
+rent-seeking and lobbying. Fourth, given international
+prices, international value added is
 more likely to be maximized under a uniform
 tariff structure than under a variable one.
 None of these arguments is sufficient to
-prove that a uniform tariff is optimal. And, in-
-deed, it is straightforward to develop models
-in which a uniform tariff is nonoptimal, es-
-pecially in the presence of income-distribution
-considerations. In theory, the costs of pro-
-tection can be minimized by imposing higher
-tariffs or taxes on goods whose supply and de-
-mand is relatively more price inelastic.
+prove that a uniform tariff is optimal. And, indeed,
+it is straightforward to develop models
+in which a uniform tariff is nonoptimal, especially
+in the presence of income-distribution
+considerations. In theory, the costs of protection
+can be minimized by imposing higher
+tariffs or taxes on goods whose supply and demand
+is relatively more price inelastic.
 Those arguments, as put forward, are all
 couched in terms of demonstrating the "falsity"
-of the proposition that a uniform tariff is pref-
-erable to variable tariff rates and that there is a
+of the proposition that a uniform tariff is preferable
+to variable tariff rates and that there is a
 departure from uniformity that can potentially
-improve welfare. But the difficulty with that for-
-mulation is that it does not provide a criterion
+improve welfare. But the difficulty with that formulation
+is that it does not provide a criterion
 for which departures from uniformity might
 improve welfare, because a model considering,
 for example, income-distribution considerations,
-cannot simultaneously address issues of corrup-
-tion and administration. And, the fact that
+cannot simultaneously address issues of corruption
+and administration. And, the fact that
 income-distribution considerations can warrant a
 nonuniform tariff structure does not prove that
 any nonuniform tariff structure is preferable to
 a uniform one! As such, a negative result gives
 little or no guide for policy. Nonetheless, it arms
-lobbyists and others with ammunition to dis-
-credit technocrats' efforts to maintain a less ir-
-rational structure of protection.
+lobbyists and others with ammunition to discredit
+technocrats' efforts to maintain a less irrational
+structure of protection.
 Some good theoretical papers would have
 done less damage, or at least given less aid and
 comfort to policy positions that were clearly
-not those intended in the analyses, if the au-
-thors had taken greater pains to note the lim-
-itations to their analyses, and the other factors
-that would have to be taken into account, be-
-fore their results were applied to policy.
+not those intended in the analyses, if the authors
+had taken greater pains to note the limitations
+to their analyses, and the other factors
+that would have to be taken into account, before
+their results were applied to policy.
 In that regard, it is often overlooked that most
-policy implementation is carried out by govern-
-ment officials who cannot be expected to have
-advanced degrees, and sometimes even under-
-graduate degrees, in economics. In many in-
-stances (including formulae for optimal tariff
+policy implementation is carried out by government
+officials who cannot be expected to have
+advanced degrees, and sometimes even undergraduate
+degrees, in economics. In many instances
+(including formulae for optimal tariff
 differentiation), the degree of sophistication
-needed to interpret research results is well be-
-yond that which most bureaucrats will have. As
+needed to interpret research results is well beyond
+that which most bureaucrats will have. As
 pointed out by Johnson (1970 p. 101):
 ...The fundamental problem is that, as
-with all second-best arguments, determi-
-nation of the conditions under which a
+with all second-best arguments, determination
+of the conditions under which a
 second-best policy actually leads to an
 improvement in social welfare requires
-detailed theoretical and empirical inves-
-tigation by a first-best economist ... it is
+detailed theoretical and empirical investigation
+by a first-best economist ... it is
 therefore very unlikely that a second-best
 welfare optimum will result based on
 second-best arguments.
 C. Good Theory Assuming
 Counterfactual Situations
 The final abuse of theory was primarily a
-fault of inappropriate stylized facts. Nonethe-
-less, in many instances, analysts assumed
+fault of inappropriate stylized facts. Nonetheless,
+in many instances, analysts assumed
 signs of variables that were certainly question-

@@ -10,21 +10,21 @@ with perfect foresight, Ricardian equivalence
 will occur. Such a result had previously been
 unsuspected by economists.30
 Two possible conclusions can be drawn from
-this surprise. On the one hand, we might con-
-tinue to assume that classical assumptions de-
-scribe economic behavior. The five neutralities
+this surprise. On the one hand, we might continue
+to assume that classical assumptions describe
+economic behavior. The five neutralities
 that are the subject of this paper concern the
 realignment to macroeconomics that occurred
-as economists gained understanding of the con-
-sequences of classical assumptions from the
+as economists gained understanding of the consequences
+of classical assumptions from the
 mid-1950s to the mid-1970s.
-Economists may have been correct in draw-
-ing the conclusion that the early Keynesian eco-
-nomics was too simplistic and naive. But they
+Economists may have been correct in drawing
+the conclusion that the early Keynesian economics
+was too simplistic and naive. But they
 could have drawn another conclusion from this
 surprise. In this view, Ricardian equivalence is
-a telltale: we do not believe, even in the pres-
-ence of perfect foresight and perfect certainty,  that the parent will make an equal and opposite
+a telltale: we do not believe, even in the presence
+of perfect foresight and perfect certainty,  that the parent will make an equal and opposite
 offset of her social security transfer in terms of
 an increased bequest to her child. Something
 must be missing from the motivation in Barro's
@@ -37,32 +37,32 @@ show how the same logic would apply to a
 network of gift-givers. Remarkably, any
 member of such a network will be indifferent
 whether she receives an extra dollar or any
-other participant in the network is the recip-
-ient. Such conclusions, suspect as they are,
+other participant in the network is the recipient.
+Such conclusions, suspect as they are,
 suggest a problem with the model beyond the
 lack of realism involved in perfect foresight
-and perfect certainty. They also suggest miss-
-ing motivation.
+and perfect certainty. They also suggest missing
+motivation.
 James Andreoni (1989) has put his finger on
 what that missing motivation might be.31 A
 bequest is a type of gift. The parent will receive
-utility from giving such a gift. Ricardian equiv-
-alence will fail if the parent has utility from
+utility from giving such a gift. Ricardian equivalence
+will fail if the parent has utility from
 gift-giving. With a social security transfer, more
-money is hers, and the same consumption allo-
-cation to herself entails a greater gift to her
-child. With declining marginal utility for bequest-
-giving, she will then divide an increased social
+money is hers, and the same consumption allocation
+to herself entails a greater gift to her
+child. With declining marginal utility for bequestgiving,
+she will then divide an increased social
 security transfer between additional consumption
 for herself and an additional bequest to her child.32
 Andreoni thus describes the utility missing
 from the standard utility function as that arising
 from the "warm glow" from giving. Such a
 characterization may be accurate. It also sounds
-as if it is very close to classical assumptions-
-that there is nothing fundamentally different
-about this additional motivation. But this seg-
-ment of the utility function is, in fact, very
-different from economists' usual characteriza-
-tion of motivation. We know that the "warm
+as if it is very close to classical assumptionsthat
+there is nothing fundamentally different
+about this additional motivation. But this segment
+of the utility function is, in fact, very
+different from economists' usual characterization
+of motivation. We know that the "warm
 glow" does not come from the utility the parent

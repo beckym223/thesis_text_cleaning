@@ -2,57 +2,57 @@ between other goods and housing, those whose
 incomes are below Yk derive higher utility from
 living in the low-quality house in a low-amenity
 location and those whose incomes are above Yk
-derive higher utility from living in the high-
-quality house in a high-amenity location. But
+derive higher utility from living in the highquality
+house in a high-amenity location. But
 consumers with incomes between YI and Y2 can
 improve their expected utility by entering into
-gambles, which would offer them expected util-
-ity that lies along the line that connects A and B.
+gambles, which would offer them expected utility
+that lies along the line that connects A and B.
 For example, an individual with income yo who
 chooses to live in a low-quality house offering
-utility U(yo - Pl, zl) would prefer a fair gam-
-ble that paid income Yi half the time and income
+utility U(yo - Pl, zl) would prefer a fair gamble
+that paid income Yi half the time and income
 Y2 half the time. Were he to lose the gamble, he
 would live in the low-quality house and derive
 utility U(y, - pl, Z,). Were he to win, he would
 live in the high-quality house and derive utility
 U(Y2 - Ph, Zh). His expected utility would be at
-point C, which yields more utility than the cer-
-tain utility obtained at point D.
-Occupational lotteries of this sort manufac-
-ture inequality but make the individuals who
+point C, which yields more utility than the certain
+utility obtained at point D.
+Occupational lotteries of this sort manufacture
+inequality but make the individuals who
 enter the occupation better off. Because the
 variance in outcomes gives individuals a shot at
 a much better standard of living, they willingly
 bear the risk that results in observed ex post
 inequality. Going to a high-stakes law firm in
 New York may turn out to be a good option,
-offering a partnership, high income, and an en-
-tertaining city in which to spend income. Those
+offering a partnership, high income, and an entertaining
+city in which to spend income. Those
 who lose the law-firm lottery accept jobs as
-corporate counsel in Kankakee, buy a less ex-
-pensive house, and enjoy fewer amenities. Al-
-though it is better to win the lottery than to lose
+corporate counsel in Kankakee, buy a less expensive
+house, and enjoy fewer amenities. Although
+it is better to win the lottery than to lose
 it, the existence of the risky occupation makes
-all individuals who enter better off in an ex-
-pected utility sense, primarily because the in-
-equality manufactured by this occupation
+all individuals who enter better off in an expected
+utility sense, primarily because the inequality
+manufactured by this occupation
 allows different combinations of income and
 amenities that are complementary.
 VI. Conclusion
-Despite the importance of diversity in eco-
-nomic life, only a small part of economic theory
-is devoted to analyzing differences. Competi-
-tive markets value diversity and sort out com-
-plex patterns of tastes and technologies that
-translate into supply of and demand for an enor-
-mous variety of products and factors of pro-
-duction. Markets accommodate diversity by
+Despite the importance of diversity in economic
+life, only a small part of economic theory
+is devoted to analyzing differences. Competitive
+markets value diversity and sort out complex
+patterns of tastes and technologies that
+translate into supply of and demand for an enormous
+variety of products and factors of production.
+Markets accommodate diversity by
 establishing values that make differentiated
 items relatively close substitutes at the margin.
 The markets match buyers and sellers in
-marriage-type equilibria where agents sort ac-
-cording to their talents in response to market
+marriage-type equilibria where agents sort according
+to their talents in response to market
 prices. To bring about the appropriate sorting,
 markets must create inequality in values. Thus, in
 labor markets, large differences in earnings can
@@ -62,22 +62,22 @@ and is manifest in many economic problems. In
 addition to issues involving earnings inequality,
 occupational choice, and the differentiation of
 products, risk analysis of environmental safety
-concerns and price index problems are analyz-
-able using standard economic approaches to
+concerns and price index problems are analyzable
+using standard economic approaches to
 diversity. In such problems, sorting is key, so
-market valuations understate the average indi-
-vidual's distaste for disagreeable attributes and
+market valuations understate the average individual'
+s distaste for disagreeable attributes and
 overstate the average individual's preference for
 agreeable ones. Sorting plays a role in price index
 problems, where we seek to ascertain shifts in
-prices as a result of technology shifts, not move-
-ments along a price line that results, say, from
+prices as a result of technology shifts, not movements
+along a price line that results, say, from
 increases in real income. Thus, price might appear
 to rise because richer people buy new varieties of
 a commodity that has superior attributes that are
 not captured in standard measurement.
-Although tastes may differ, it is the reserva-
-tion prices themselves and not the causes of the
+Although tastes may differ, it is the reservation
+prices themselves and not the causes of the
 differences that have consequence for economic
 allocation. Differences in talents are behind
 much of occupational choice where the theory

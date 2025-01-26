@@ -1,7 +1,7 @@
 However, Robert Shiller's recent paper
 "Do Stock Prices Move Much Too Much to
-be Justified by Subsequent Changes in Di-
-vidends?" appears to demolish the possibility
+be Justified by Subsequent Changes in Dividends?
+" appears to demolish the possibility
 that movements of U.S. stock prices can be
 explained by the rational expectations of
 share holders.2' For over a century, real stock
@@ -11,27 +11,27 @@ expectation of real dividends or earnings.
 Shiller does not attempt to characterize the
 source of the greatly excessive volatility of
 stock prices. But, surely, it is possible that
-speculative price bubbles, upward or down-
-ward, based upon the extrapolation of nomi-
-nal share-price levels and movements, and
+speculative price bubbles, upward or downward,
+based upon the extrapolation of nominal
+share-price levels and movements, and
 on the effort to profit (or to avoid loss) from
 such movements, supply some part of the
-explanation. Another piece of the explana-
-tion for recent stock prices may well be
+explanation. Another piece of the explanation
+for recent stock prices may well be
 Franco Modigliani's and Richard Cohn's
-"inflation-illusion" theory-itself clearly in-
-consistent with rational expectations.
+"inflation-illusion" theory-itself clearly inconsistent
+with rational expectations.
 The rational expectations theory, at least
-as applied to individual commodities, as-
-sumes that there exists, at all times, some
+as applied to individual commodities, assumes
+that there exists, at all times, some
 long-run equilibrium price-that price which
-would equate amounts produced and con-
-sumed. Market participants can and do have
+would equate amounts produced and consumed.
+Market participants can and do have
 at least a rough idea of what this price is;
 moreover, their individual estimates of this
-price are basically similar, for all have essen-
-tially the same information, and use essen-
-tially the same model of how that price is
+price are basically similar, for all have essentially
+the same information, and use essentially
+the same model of how that price is
 determined.
 Those who attempt to apply the concept
 of rational expectations to the stock market
@@ -47,8 +47,8 @@ investment would equal net saving at full
 employment? The level at which investment
 might maintain the economy on a Golden
 Rule growth path? Or is there some concept
-of a less-fundamental, less-long-run equi-
-librium level of share prices which market
+of a less-fundamental, less-long-run equilibrium
+level of share prices which market
 participants can be expected to understand
 and quantitatively approximate? If there is
 no such concept of equilibrium share-price
@@ -60,10 +60,10 @@ level of share prices, but to argue that we can
 nevertheless predict the direction and rate of
 movement over time of that equilibrium,
 whatever it may be. The rate of movement
-might, for example, be expected to ap-
-proximate the rate of growth of profits or of
-dividends per share. (This was Shiller's de-
-vice.) This may suffice for rough tests of the
+might, for example, be expected to approximate
+the rate of growth of profits or of
+dividends per share. (This was Shiller's device.
+) This may suffice for rough tests of the
 ex post rationality of historical share price
 movements. But it offers essentially zero
 guidance to the purchaser or seller of a
@@ -75,12 +75,12 @@ strange that he is more concerned with the
 correctness of his guess about what other
 buyers and sellers are expecting will happen
 to prices of those particular shares, and to
-the market averages? Is there a better de-
-scription than the "beauty contest" parable?
-Actually, Keynes' description of the de-
-termination of stock prices is far more de-
-tailed and substantive than I have here de-
-scribed it, and I recommend its occasional
+the market averages? Is there a better description
+than the "beauty contest" parable?
+Actually, Keynes' description of the determination
+of stock prices is far more detailed
+and substantive than I have here described
+it, and I recommend its occasional
 rereading. However, there is no reason to
 suppose that Keynes in 1935 had the last
 word on stock prices. Henry Wallich, an
@@ -92,8 +92,8 @@ stock market, and for which one cannot find
 rational explanation, in any narrow sense of
 that term. His explanation for at least a part
 of the most recent "radical revision" -since
-about 1973-runs in terms that I can per-
-haps best describe as "sociological":
+about 1973-runs in terms that I can perhaps
+best describe as "sociological":
 One might guess that [the reasons for
-this massive change in investment at-
-titudes] have something to do with
+this massive change in investment attitudes]
+have something to do with

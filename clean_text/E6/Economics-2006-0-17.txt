@@ -1,47 +1,47 @@
 Standard Medicare with Medigap policies
 that cover drugs
-Employee- or union-provided coverage, in-
-cluding drugs
+Employee- or union-provided coverage, including
+drugs
 Medicare Advantage (HMO or PPO) policies
 that cover drugs
 Medicaid beneficiaries
-Generally, those in the last three categories re-
-ceive Part D coverage by default. Those with
+Generally, those in the last three categories receive
+Part D coverage by default. Those with
 Standard Medicare will default out of Part D
 if they do not take action, but have the choice
 of enrolling in a privately offered plan, or of
 converting to Medicare Advantage coverage.
 In virtually all cases, there are Part D plans
 that are more advantageous than Medigap
-policy drug coverage. The analysis that fol-
-lows applies to the people currently on Stan-
-dard Medicare.
+policy drug coverage. The analysis that follows
+applies to the people currently on Standard
+Medicare.
 CMS has established a standard plan under
 Part D that has an annual premium of $444, a
-deductible of $250, pays 75 percent of prescrip-
-tion drug pharmacy bills above $250 up to
+deductible of $250, pays 75 percent of prescription
+drug pharmacy bills above $250 up to
 $2,250, provides no additional benefits until
-pharmacy bills reach $5,100, and pays 95 per-
-cent of pharmacy bills above that level. CMS
-requires approved private plans to offer compa-
-rable coverage.
+pharmacy bills reach $5,100, and pays 95 percent
+of pharmacy bills above that level. CMS
+requires approved private plans to offer comparable
+coverage.
 Table 4 summarizes consumer out-of-pocket
 costs under the standard plan, not including the
 annual premium, for various pharmacy bills.
 The private insurers who provide drug coverage
-within the Plan D framework may offer en-
-hancements to the standard plan, at higher  premiums, including coverage for the $250 de-
-ductible and/or for the gap or "doughnut hole"
-in the standard plan, which pays no added ben-
-efits for pharmacy bills above $2,250 or below
+within the Plan D framework may offer enhancements
+to the standard plan, at higher  premiums, including coverage for the $250 deductible
+and/or for the gap or "doughnut hole"
+in the standard plan, which pays no added benefits
+for pharmacy bills above $2,250 or below
 $5,100. They may offer broader formularies
-than Medicare requires, variations in the coin-
-surance or copayment tier structure, and con-
-venience features such as broad pharmacy
+than Medicare requires, variations in the coinsurance
+or copayment tier structure, and convenience
+features such as broad pharmacy
 participation and mail-order services. Approved
 plans must have formularies that include at least
-two drugs in each therapeutic category; the frac-
-tion of the 100 most frequently prescribed drugs
+two drugs in each therapeutic category; the fraction
+of the 100 most frequently prescribed drugs
 included in currently approved formularies
 ranges from 65 percent to 100 percent, with a
 median of about 90 percent. Enrollees may
@@ -52,32 +52,32 @@ enrollment period, which ends in May 2006. In
 evaluating alternatives, consumers need to take
 into account not only their current pharmacy
 bills, but also the probabilities of developing
-new health conditions that will require treat-
-ment, and the distribution of costs of these
+new health conditions that will require treatment,
+and the distribution of costs of these
 treatments. As a result, consumers are being
-asked to make relatively complex plan assess-
-ments, generally with relatively incomplete in-
-formation on future prospects. Because of the
+asked to make relatively complex plan assessments,
+generally with relatively incomplete information
+on future prospects. Because of the
 late enrollment penalties, there is not only a
 current financial risk of making a poor decision,
-but also an option pricing problem of determin-
-ing the value of enrolling to lock in current
+but also an option pricing problem of determining
+the value of enrolling to lock in current
 premium rates. Not surprisingly, some seniors
 are finding this a difficult choice, and the media
-has had a field day publicizing Part D's com-
-plexity. The economic policy question is this:
+has had a field day publicizing Part D's complexity.
+The economic policy question is this:
 After the dust settles, will most consumers have
 made good use of the choices offered by the
 private market, so that a market-oriented design
 contributes to consumer well-being? Is further
 intervention on behalf of the vulnerable
 needed?
-Our survey, entitled the "Retirement Perspec-
-tives Survey" (RPS-2005), was fielded as a
+Our survey, entitled the "Retirement Perspectives
+Survey" (RPS-2005), was fielded as a
 self-administered Internet questionnaire from
 November 7-15, 2005, using a panel of subjects
-enrolled by Knowledge Networks, a commer-
-cial survey firm. This panel was recruited from
+enrolled by Knowledge Networks, a commercial
+survey firm. This panel was recruited from
 a random sample of the underlying population,
-and all panel members were provided with iden-
-tical hardware (Web TVs) through which they
+and all panel members were provided with identical
+hardware (Web TVs) through which they

@@ -1,7 +1,7 @@
 since the political process is not equivalent to a
 consistent approach to policy over time (which,
-it seems to me, is an essential property of de-
-mocracy given divergent preferences and
+it seems to me, is an essential property of democracy
+given divergent preferences and
 views), we must consider issues from multiple
 perspectives.11
 An education built around the Arrow-Debreu
@@ -9,8 +9,8 @@ model may lead to overvaluing the fundamental
 welfare theorem. The wonderful properties of
 competitive equilibrium in certain unrealistic
 circumstances lead the profession to be very
-aware of distortions that prevent first-best out-
-comes. But some distortions are associated with
+aware of distortions that prevent first-best outcomes.
+But some distortions are associated with
 redistribution and with easing other deviations
 from first-best rules. Stressing the distortions
 caused by government policies and not giving
@@ -23,18 +23,18 @@ about policies.12
 II. Annuitization
 Some mandate for retirement saving is not
 particularly controversial among policy-oriented
-economists, so I begin with mandatory annuiti-
-zation. First, let us consider the point of pay-
-ments that are conditional on being alive. With
+economists, so I begin with mandatory annuitization.
+First, let us consider the point of payments
+that are conditional on being alive. With
 some saving for retirement (over and above
 precautionary balances) a worker can learn of
-rates of return (and risks) available in the mar-
-ket for investing for different lengths of time
-(that is, including an illiquidity premium). Any-
-one investing for some period of time (for ex-
-ample, bank certificates of deposit, insurance
-contracts, mutual funds with an early with-
-drawal penalty, direct loans) could wonder how
+rates of return (and risks) available in the market
+for investing for different lengths of time
+(that is, including an illiquidity premium). Anyone
+investing for some period of time (for example,
+bank certificates of deposit, insurance
+contracts, mutual funds with an early withdrawal
+penalty, direct loans) could wonder how
 much more might be paid if the investor were
 still alive provided there was no payment at all
 if the investor were no longer alive. With a
@@ -42,8 +42,8 @@ if the investor were no longer alive. With a
 noticeable probability of the investor's dying
 before reaching the end of the contract period
 and little cost for checking whether the investor
-is still alive, it would be worthwhile for a bor-
-rower (bank, insurance company, mutual fund,
+is still alive, it would be worthwhile for a borrower
+(bank, insurance company, mutual fund,
 or direct borrower) to offer some additional
 payment in return for being freed from payment
 in the event of the death of the investor.
@@ -61,13 +61,13 @@ of annuitization was made by Menahem Yaari
 (1965) in the context of a conventional annuity
 that guarantees payments over the rest of one's
 life. But the argument is much broader than that
-(Thomas Davidoff et al., 2003). Moreover, sim-
-ulations show a sizable quantitative importance
+(Thomas Davidoff et al., 2003). Moreover, simulations
+show a sizable quantitative importance
 of annuity opportunities.
 People do care about their children. But, a
-bequest motive does not eliminate the advan-
-tage of some annuitization. With a bequest mo-
-tive and complete Arrow-Debreu markets, one
+bequest motive does not eliminate the advantage
+of some annuitization. With a bequest motive
+and complete Arrow-Debreu markets, one
 would determine how much of one's lifetime
 budget constraint to give away and when to give
 it (e.g., when children reach some age). It would
@@ -79,8 +79,8 @@ So, one would still use annuities, the purchase
 of commodities conditional on being alive, for
 all of one's own planned consumption. That is,
 having a bequest motive is not a basis for doing
-no annuitization in a complete market setting-
-unless one was roughly risk neutral about both
+no annuitization in a complete market settingunless
+one was roughly risk neutral about both
 the amount of bequest and its timing. Without
 complete markets, a willingness to invest in
 illiquid assets for future consumption leads to

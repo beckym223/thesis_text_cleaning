@@ -3,10 +3,10 @@ this is practically the same thing as to say
 that we are concerned here with a Residual
 observed as a proportion of the privately
 produced output.22 The procedure has the
-implication that the analysis of the de-
-terminants of technological progress is as
-yet in a tentative stage, so that if for ex-
-ample R & D, the increase of per capita
+implication that the analysis of the determinants
+of technological progress is as
+yet in a tentative stage, so that if for example
+R & D, the increase of per capita
 education, the extra-inputs needed for
 industrial changeovers, and some other
 items to be discussed in this paper make up
@@ -14,33 +14,33 @@ the identifiable progress-inputs (as I
 suggest they do), we cannot at present
 expect good results from regressing output
 on all these specific inputs along with the
-conventional inputs specified in the pro-
-duction functions. I feel convinced that
-realism does require recognizing this limi-
-tation but that this does not mean that we
+conventional inputs specified in the production
+functions. I feel convinced that
+realism does require recognizing this limitation
+but that this does not mean that we
 are left with no good argument for relating
 the Residual to the inputs and costs I
 defined as progress-generating.
 Regression analysis of cross-sections of
 individual industry groups and of firms
-enabled investigators to obtain confirma-
-tion of the hypothesis that productivity-
-increases, as estimated by the method of
+enabled investigators to obtain confirmation
+of the hypothesis that productivityincreases,
+as estimated by the method of
 the Residual, are positively correlated with
 R & D-intensity.23 On the other hand,
 spillover effects from the public into the
 private sector, the diffusion of knowledge
-within the private sector, and the nar-
-rowness of the concept of R & D-intensity
-as compared to our concept of progress-
-generating input make it desirable to ask
+within the private sector, and the narrowness
+of the concept of R & D-intensity
+as compared to our concept of progressgenerating
+input make it desirable to ask
 the question of the relationship of the
 Residual to progress-inputs also in broader
 intertemporal terms. When the question is
 so posed, it calls for exploring whether the
 time-sequence of productivity increases, as
-measured by the Residual, bears an un-
-derstandable relation to the time-sequence
+measured by the Residual, bears an understandable
+relation to the time-sequence
 of progress-generating inputs. We shall see
 that this is indeed the case, but in such
 work there is at present only limited room
@@ -51,6 +51,6 @@ comparisons of productivity increase with
 inputs are used it is advisable to rely on a
 rather small number of typical values of
 the variables for successive periods of
-considerable duration; high serial correla-
-tion and lags reduce the usefulness of data
+considerable duration; high serial correlation
+and lags reduce the usefulness of data
 reflecting yearly changes.24 Emphasis will

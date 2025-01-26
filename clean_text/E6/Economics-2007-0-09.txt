@@ -1,7 +1,7 @@
 people's views as to how they should behave
 will enter their utility function. In each case, we
-shall see that such views will nullify the respec-
-tive neutrality result. Indeed, we shall also see
+shall see that such views will nullify the respective
+neutrality result. Indeed, we shall also see
 that in each case there will be a natural norm
 broadly consistent with Keynesians' views of  economic behavior.21
 IV. Ricardian Equivalence
@@ -12,19 +12,19 @@ modern economists. But it is also the simplest.
 That makes it the best place to begin.22 If there
 is missing motivation in the utility function, it
 should be easiest to see here.
-A very simple model demonstrates the es-
-sence of Ricardian equivalence, as it was redis-
-covered by Robert Barro after a lapse of almost
+A very simple model demonstrates the essence
+of Ricardian equivalence, as it was rediscovered
+by Robert Barro after a lapse of almost
 two centuries.23 In the model, there are just two
 periods, periods 1 and 2. There are just two
 people, a parent and her child. The utility of the
-parent depends directly upon her own consump-
-tion, in period 1; it also depends upon the utility
-of her child. That utility depends upon his con-
-sumption, in period 2.
+parent depends directly upon her own consumption,
+in period 1; it also depends upon the utility
+of her child. That utility depends upon his consumption,
+in period 2.
 The parent's utility function can be expressed
-simply as U,(cl, U2(c2)), where c1 is the con-
-sumption of the parent, C2 is the consumption of
+simply as U,(cl, U2(c2)), where c1 is the consumption
+of the parent, C2 is the consumption of
 the child, U, is the utility of the parent, and U2  is the utility of the child. The parent chooses her
 consumption in period 1 to maximize her utility.
 Whatever wealth remains, she bequeaths to her  child.
@@ -41,8 +41,8 @@ social security.
 The logic of this result is simple. With and
 without social security the discounted value of
 consumption of the parent and of the child is
-constrained by the discounted value of the fam-
-ily's earnings (plus its initial wealth). Social
+constrained by the discounted value of the family'
+s earnings (plus its initial wealth). Social
 security leaves that constraint unchanged. If the
 parent found (c,, c2) to be the optimal division
 of consumption between herself and her child in
@@ -51,16 +51,16 @@ same division of consumption between herself
 and her child will optimize her utility with a
 social security payment.
 A vast literature explains why such Ricardian
-equivalence is unlikely to be empirically de-
-scriptive.25 The long list of reasons includes (a)
+equivalence is unlikely to be empirically descriptive.
+25 The long list of reasons includes (a)
 infinite, rather than finite, horizons; (b) strategic
 bequests to obtain the attention of one's heirs
-while alive; (c) childless families; (d) uncer-
-tainty, including bequests made because of un-
-certainty about the age of death; (e) differential
+while alive; (c) childless families; (d) uncertainty,
+including bequests made because of uncertainty
+about the age of death; (e) differential
 borrowing rates between the government and
 the public; (f) growth of the economy in excess
-of the interest rate, allowing steady debt issu-
-ance; (g) lack of foresight regarding the effect
+of the interest rate, allowing steady debt issuance;
+(g) lack of foresight regarding the effect
 of social security on future taxes; (h) foreign
 ownership of debt; (i) tax distortions;26, 27, 28 (j)

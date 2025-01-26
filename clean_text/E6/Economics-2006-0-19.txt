@@ -1,47 +1,47 @@
 EPV of OPC cost will choose to delay. We
 simplify this computation by approximating a
-necessary condition for delay, ignoring the in-
-fluence on expected cost today of the additional
+necessary condition for delay, ignoring the influence
+on expected cost today of the additional
 information and contingent decisions that will
-be gained as future health conditions and phar-
-macy bills are realized. This approximation was
+be gained as future health conditions and pharmacy
+bills are realized. This approximation was
 found to be reasonably accurate in a study of
 retirement decisions by Robin L. Lumsdaine et
 al. (1994). We implement this calculation using
 U. S. Life tables, estimates from the Health and
 Retirement Survey of the annual probability of
-developing a condition requiring a new pre-
-scription drug therapy, and estimates from our
+developing a condition requiring a new prescription
+drug therapy, and estimates from our
 survey and the MCBS of the distribution of
 annual drug costs for a new therapy.5
 Figure 2 gives the thresholds we obtain using
 this approximation; these apply to people who
-do not receive means-tested premium reduc-
-tions. There are four factors that may modify
+do not receive means-tested premium reductions.
+There are four factors that may modify
 
-this calculation for an individual. First, addi-
-tional information on health that will be re-
-vealed in the future, and decisions contingent on
+this calculation for an individual. First, additional
+information on health that will be revealed
+in the future, and decisions contingent on
 this information, give delay some added option
 value. Second, risk aversion gives immediate
-enrollment added insurance value. Trial calcu-
-lations indicate that the full option pricing cal-
-culation, and risk aversion for a person with
+enrollment added insurance value. Trial calculations
+indicate that the full option pricing calculation,
+and risk aversion for a person with
 moderate coefficient of absolute risk aversion,
 have effects on the threshold for delay that are
 relatively small, on the order of $100 or less.
 Third, individuals may have different personal
-probabilities for new health conditions and pre-
-scription drug requirements than the ones we
-have used. Fourth, individuals may have differ-
-ent discount rates than the 5-percent discount
+probabilities for new health conditions and prescription
+drug requirements than the ones we
+have used. Fourth, individuals may have different
+discount rates than the 5-percent discount
 rate we have employed. For people with 2005
-pharmacy bills above $802, the option of delay-
-ing enrollment is "out of the money"-these
-people can expect to reduce their OPC for pre-
-scription drugs in 2006 with Part D coverage, in
+pharmacy bills above $802, the option of delaying
+enrollment is "out of the money"-these
+people can expect to reduce their OPC for prescription
+drugs in 2006 with Part D coverage, in
 addition to being insured against risks of high
 future bills. The difference between the $802
 threshold and the $842 break-even level for a
-consumer's current pharmacy bill is the ex-
-pected value of the consumer's new pharmacy
+consumer's current pharmacy bill is the expected
+value of the consumer's new pharmacy

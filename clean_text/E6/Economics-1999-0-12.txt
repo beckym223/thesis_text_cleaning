@@ -11,30 +11,30 @@ rates of decline in disabilities before and after
 1980 indicates that disabilities are declining at
 an accelerating rate (cf., Manton et al., 1997a;
 Cutler and Elizabeth Richardson, 1998).
-The mounting evidence of substantial inter-
-actions over the life cycle that influence the
-process of aging, the acceleration of techno-
-logical change which has profoundly affected
-the context in which aging occurs, and the in-
-creasing evidence that environmental influ-
-ences on the aging process begin in utero, has
+The mounting evidence of substantial interactions
+over the life cycle that influence the
+process of aging, the acceleration of technological
+change which has profoundly affected
+the context in which aging occurs, and the increasing
+evidence that environmental influences
+on the aging process begin in utero, has
 led to the initiation of a new life-cycle project
-called "Fetal, Infant, and Later Aging Mark-
-ers, Cohort b. 1910-35." The acronym for
+called "Fetal, Infant, and Later Aging Markers,
+Cohort b. 1910-35." The acronym for
 this project is FILAM.
-The central objective of FILAM is the cre-
-ation of a life-cycle sample of persons born
+The central objective of FILAM is the creation
+of a life-cycle sample of persons born
 between 1910 and 1935 that would make it
-possible to compare changes in the aging pro-
-cess over the period of 70 years that separate
+possible to compare changes in the aging process
+over the period of 70 years that separate
 this new sample from the aging experiences of
 the Union Army cohort. The FILAM cohort is
-important not only because it studies individ-
-uals currently between ages 63 and 89, but also
+important not only because it studies individuals
+currently between ages 63 and 89, but also
 because of the dramatic environmental and
 early life-style changes they experienced.
-These changes include the rise and partial de-
-cline of smoking, the decline and the new rise
+These changes include the rise and partial decline
+of smoking, the decline and the new rise
 of alcohol consumption, the replacement of
 horses by internal combustion engines as the
 main source of urban vehicular power, the
@@ -50,44 +50,44 @@ of the neonates will not have survived to the
 present day and these men and women will be
 linked to their death certificates. The survivors
 will be traced and interviewed to determine the
-presence of chronic conditions, socioeco-
-nomic status, and family and own health his-
-tory. Survivors will be linked to social
-security, census, military, and tax records, sub-
-ject to their written consent.
+presence of chronic conditions, socioeconomic
+status, and family and own health history.
+Survivors will be linked to social
+security, census, military, and tax records, subject
+to their written consent.
 FILAM will make it possible to investigate
 the predictive power of fetal, neonatal, and
 early childhood measures of retarded growth
-such as weight for gestational age, ratio of pla-
-cental weight to birth weight, infant weight
+such as weight for gestational age, ratio of placental
+weight to birth weight, infant weight
 gain, thinness at birth, arid shortness at birth
 relative to head size, on the risk of developing
 specific chronic conditions at mid-adult and
 late ages. Among the chronic conditions that
 will be examined are coronary heart disease,
 hypertension, stroke, obstructive lung disease,
-non-insulin-dependent diabetes, and autoim-
-mune thyroiditis. FILAM will also make it
+non-insulin-dependent diabetes, and autoimmune
+thyroiditis. FILAM will also make it
 possible to investigate how the interaction of
 fetal and infant developments with various risk
 factors at later childhood, young adult, and
 middle ages may intensify or moderate risks
 of chronic conditions and early death after age
-65. Another objective is the analysis of differ-
-ences in the health histories, occupational his-
-tories, and retirement pattern between FILAM
-and the Union Army sanmple, with special em-
-phasis on the similarities and differences of
+65. Another objective is the analysis of differences
+in the health histories, occupational histories,
+and retirement pattern between FILAM
+and the Union Army sanmple, with special emphasis
+on the similarities and differences of
 predictors of later work levels, morbidity, and
 waiting time until death.
 The HRS, AHEAD, Union Army sample,
 and FILAM all contain information on the
 parents and children of the individuals under
-study. Hence, they make it possible to ad-
-dress some factors that may be transmitted
-intergenerationally. An effort to utilize ar-
-chival data to study intergenerational pro-
-cesses is also under way. Pope (1992) is
+study. Hence, they make it possible to address
+some factors that may be transmitted
+intergenerationally. An effort to utilize archival
+data to study intergenerational processes
+is also under way. Pope (1992) is
 linking a large sample of genealogies to the
 life-cycle sample of Union Army recruits.
 There are at least 60,000 published family
@@ -100,5 +100,5 @@ is estimated that 40 percent of these men
 served in the Union Army. This new sample
 (called ILAS, for intergenerationally linked
 aging sample) will be linked to the military,
-pension, medical, and census data sets pre-
-viously discussed.
+pension, medical, and census data sets previously
+discussed.

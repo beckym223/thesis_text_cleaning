@@ -2,18 +2,18 @@ To deal with implicit labor contracts
 covering the long tenures that are typical in
 U.S. industry, it is necessary to make the
 currently out-of-fashion distinction between
-risk and uncertainty. Most of the mathemati-
-cal modeling of implicit contracts has as-
-sumed that workers and firms base their
-agreements on a known probability distribu-
-tion (presumably commonly held) of the rel-
-evant variables, most importantly the mar-
-ginal revenue product of labor or some
+risk and uncertainty. Most of the mathematical
+modeling of implicit contracts has assumed
+that workers and firms base their
+agreements on a known probability distribution
+(presumably commonly held) of the relevant
+variables, most importantly the marginal
+revenue product of labor or some
 related variable. The distribution of the mean
-expected bilateral monopoly rents from con-
-tinuity is decided at the beginning of the
-contract on the basis of the known distribu-
-tion of possible economic environments that
+expected bilateral monopoly rents from continuity
+is decided at the beginning of the
+contract on the basis of the known distribution
+of possible economic environments that
 will be faced over the life of the contract,
 and the contract then specifies the behavior
 of wages (and in some cases employment) as
@@ -29,14 +29,14 @@ America was done on jobs whose completed
 tenures were fifteen years or more. And for
 men alone the relevant completed job tenure
 was twenty-five years! Douglas Wolf and
-Frank Levy (1984) reached very similar con-
-clusions on the basis of a 1979 survey. The
-contracts, rules-of-behavior, and social con-
-ventions that make possible such long associ-
-ations must be such as to allow wages to
+Frank Levy (1984) reached very similar conclusions
+on the basis of a 1979 survey. The
+contracts, rules-of-behavior, and social conventions
+that make possible such long associations
+must be such as to allow wages to
 adjust appropriately in response to changes
-in circumstances whose probability of occur-
-rence could not be determined in advance. In
+in circumstances whose probability of occurrence
+could not be determined in advance. In
 other words, the informal agreements which
 make possible long-term association between
 workers and employers must take into
@@ -44,8 +44,8 @@ account Knightian uncertainty about future
 possible outcomes. With respect to many of
 possible states of the world, over such a long
 period of time, there is no basis in past
-statistical regularities for knowing the distri-
-bution. As William Nordhaus (1976) points
+statistical regularities for knowing the distribution.
+As William Nordhaus (1976) points
 out, contracts must take account of changes
 in the economic climate (i.e., when the
 parameters of the distribution shift) as well
@@ -55,8 +55,8 @@ Most of the possible long-term changes to
 be faced by firms and workers do not result
 from the cyclical variance of aggregates, like
 national income and output, but from
-changes in relative variables potentially re-
-sponding to a bewildering permutation of
+changes in relative variables potentially responding
+to a bewildering permutation of
 possibilities. Seen in 1973, what were the
 rationally expected probabilities of the 1974
 and 1979 oil price increases, the introduction
@@ -72,26 +72,26 @@ function of wages on employment over very
 long periods,6 when no rational basis exists
 for specifying the distribution of outcomes.
 Some of the modern wage literature (for
-example, Hall and David Lilien, 1979; San-
-ford Grossman and Oliver Hart, 1981) mod-
-els a contract with a "lump-sum" distribu-
-tion of the rents-that is, an amount to be
-paid the workers regardless of unemploy-
-ment status-and a marginal compensation,
+example, Hall and David Lilien, 1979; Sanford
+Grossman and Oliver Hart, 1981) models
+a contract with a "lump-sum" distribution
+of the rents-that is, an amount to be
+paid the workers regardless of unemployment
+status-and a marginal compensation,
 paid when the worker is employed and itself
 an agreed upon increasing function of the
-level of labor input. Employers then de-
-termine employment by maximizing profits
+level of labor input. Employers then determine
+employment by maximizing profits
 in the light of the marginal compensation
 schedule. In these approaches, the climatic
-changes to which I refer would be an occa-
-sion for changing the basic lump sum distri-
-bution of the rents.
+changes to which I refer would be an occasion
+for changing the basic lump sum distribution
+of the rents.
 A workable distinction can thus be made
 between those contract provisions which deal
 with wages in the face of moderate and
 temporary changes in the marginal product
 of labor that are perceived as the realization
 of a known probability distribution and those
-provisions which deal with climatic and per-
-manent changes, the probability of whose
+provisions which deal with climatic and permanent
+changes, the probability of whose

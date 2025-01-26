@@ -1,15 +1,15 @@
 In sum, mandating benefits for the families of
 workers is important, along with mandating
-savings and mandating annuitization-the in-
-clusion of family benefits in Social Security
+savings and mandating annuitization-the inclusion
+of family benefits in Social Security
 makes sense. There is good reason to think that
 the current rules can be improved, but research
 difficulties and political hurdles will need to be
 overcome if we are to make improvements.
 IV. Income Distribution, Insurance, and Labor
 Supply38
-In determining retirement benefits, Social Se-
-curity first averages the best 35 wage-indexed
+In determining retirement benefits, Social Security
+first averages the best 35 wage-indexed
 annual earnings,39 then it uses a progressive
 benefit formula to determine what real benefits
 would be if first claimed at the age for full
@@ -21,36 +21,36 @@ which retirement benefits can be claimed) and
 the age for full benefits (which is in transition
 from 65 to 67), benefits are only paid if earnings
 are low enough, referred to as an earnings or
-retirement test. Each of these steps in determin-
-ing benefits affects income distribution, insur-
-ance, and labor supply. I will skip over
+retirement test. Each of these steps in determining
+benefits affects income distribution, insurance,
+and labor supply. I will skip over
 implications of using 35 years (as opposed to
 more or fewer years or all of lifetime earnings
 subject to tax)41 and of using a wage index to
-weight the earnings in different years in de-
-termining benefits (as opposed to using an
+weight the earnings in different years in determining
+benefits (as opposed to using an
 interest rate)42 and concentrate on the effects
 
-of a progressive benefit formula and a retire-
-ment test.43
+of a progressive benefit formula and a retirement
+test.43
 Consider the stochastic process of earnings
-opportunities. Individual workers face consider-
-able risks that are only partially correlated with
-the economywide average earnings used in in-
-dexing. Wages move differently by industry and
-firm and region and some individuals have ca-
-reer opportunities strongly affected by industry
+opportunities. Individual workers face considerable
+risks that are only partially correlated with
+the economywide average earnings used in indexing.
+Wages move differently by industry and
+firm and region and some individuals have career
+opportunities strongly affected by industry
 and firm and region developments. We do not
 have trading in the type of indexes Robert J.
 Shiller (1993) has proposed in order to give
 workers the ability to hedge these aspects of
-their risks.44 Even if we managed to have trad-
-ing in such indices, it is beyond credibility that
+their risks.44 Even if we managed to have trading
+in such indices, it is beyond credibility that
 most workers would take appropriate advantage
 of these opportunities. When many workers can
-not sort out the basics of portfolio diversifica-
-tion in their 401(k)s, there is no reason to an-
-ticipate successful execution of far more
-complex financial strategies. By having replace-
-ment rates that are higher for lower levels of
+not sort out the basics of portfolio diversification
+in their 401(k)s, there is no reason to anticipate
+successful execution of far more
+complex financial strategies. By having replacement
+rates that are higher for lower levels of
 lifetime earnings, a social security system that

@@ -1,61 +1,61 @@
 tice. Recent work on behavioral economics has
-helped to make the possibility of such irratio-
-nality or myopic behavior a part of mainstream
+helped to make the possibility of such irrationality
+or myopic behavior a part of mainstream
 economics.
 But such departures from rational saving by a
 fraction of the population need not justify the
 general provision of social insurance benefits.
 Why not simply provide means-tested benefits
-instead of the universal provision of social in-
-surance benefits? The primary reason for not
+instead of the universal provision of social insurance
+benefits? The primary reason for not
 doing so is that some rational and farsighted
 individuals would be induced by a means-tested
 system to act in a way that allows them to
 qualify for benefits. Doing so would impose tax
 costs on the rest of the population that could
-make overall well-being lower than in a univer-
-sal (i.e., not means-tested) program.
+make overall well-being lower than in a universal
+(i.e., not means-tested) program.
 Consider a simple example of a means-tested
 retirement program (Feldstein, 1987). Assume
 that some fraction of the population is myopic
 and would not save anything for retirement. A
 means-tested program would provide a benefit
-for all such myopic retirees. How would ratio-
-nal working-age individuals respond to such a
+for all such myopic retirees. How would rational
+working-age individuals respond to such a
 system? They would have the choice of either
 saving for their own retirement or consuming all
 of their income before they retire and receiving
-the means-tested benefit. The potential means-
-tested benefit acts as a kind of tax on saving,
-reducing the incremental retirement consump-
-tion that saving would produce. A rational in-
-dividual would decide whether to act as if he or
+the means-tested benefit. The potential meanstested
+benefit acts as a kind of tax on saving,
+reducing the incremental retirement consumption
+that saving would produce. A rational individual
+would decide whether to act as if he or
 she is myopic by comparing the lifetime utilities
-with optimal positive saving and with no sav-
-ing. Those with relatively high incomes would
+with optimal positive saving and with no saving.
+Those with relatively high incomes would
 not be tempted by the means-tested benefit. But
 others with lower incomes would have higher
 lifetime utility by increasing their consumption
 during working years even if the means-tested
 benefits would only provide lower consumption
 during retirement than optimal saving would
-allow. Although they would achieve higher life-
-time utility through their action, their benefits
+allow. Although they would achieve higher lifetime
+utility through their action, their benefits
 would be financed by tax-financed transfers,
 which would make others worse off.
-There is no way for the government to dis-
-tinguish between the genuinely myopic and
-those who are rational utility maximizers gam-
-ing the system. The government could, in prin-
-ciple, set the means-tested benefit so low that
+There is no way for the government to distinguish
+between the genuinely myopic and
+those who are rational utility maximizers gaming
+the system. The government could, in principle,
+set the means-tested benefit so low that
 very few rational individuals would be tempted.
-My judgment is that our relatively affluent so-
-ciety would not accept that policy. The means-  tested benefits would be set at a higher level that
+My judgment is that our relatively affluent society
+would not accept that policy. The means-  tested benefits would be set at a higher level that
 would tempt many rational individuals to save
 nothing.
 A policy of forcing everyone to save for his
-or her own retirement would eliminate the prob-
-lem of those who game the system. The only
+or her own retirement would eliminate the problem
+of those who game the system. The only
 adverse effect of such a policy is that some
 individuals might be required to shift more of
 their lifetime consumption to their retirement
@@ -70,34 +70,34 @@ benefit should depend on numbers. How many
 people would receive means-tested benefits?
 How much deadweight loss would be involved
 in financing those benefits? How many people
-in a mandatory saving plan would have to pro-
-vide more for their retirement than they want?
-In the absence of such a mandatory invest-
-ment-based option, the policy choice is between
-a means-tested program and a universal pay-as-
-you-go retirement benefit. Such a pay-as-
-you-go plan forces all individuals (after the
+in a mandatory saving plan would have to provide
+more for their retirement than they want?
+In the absence of such a mandatory investment-
+based option, the policy choice is between
+a means-tested program and a universal pay-asyou-
+go retirement benefit. Such a pay-asyou-
+go plan forces all individuals (after the
 initial generation) to receive a lower rate of
 return than they could obtain on private saving.
 As such, it also imposes a tax on labor income
 since each extra dollar of earnings would induce
 an additional pay-as-you-go tax liability. The
-reduction in saving that is induced by the pay-
-as-you-go system also causes a fall in capital
+reduction in saving that is induced by the payas-
+you-go system also causes a fall in capital
 income and therefore in corporate and personal
 tax revenue that requires higher marginal tax
 rates to recover the lost revenue.
-Both of these examples of asymmetric informa-
-tion show that a social insurance program may be
+Both of these examples of asymmetric information
+show that a social insurance program may be
 an appropriate response to a market failure but that
 it need not be. Even when there is a market failure,
-it may be better to do nothing or to have a means-
-tested welfare program. The choice depends in
+it may be better to do nothing or to have a meanstested
+welfare program. The choice depends in
 part on the relative costs of the different options,
 and those in turn depend on the design of the
 potential social insurance program. Whether such
-a program is investment-based or purely tax fi-
-nanced on a pay-as-you-go basis is an important  feature of that cost.
+a program is investment-based or purely tax financed
+on a pay-as-you-go basis is an important  feature of that cost.
 Economists can help to evaluate these choices
 by estimating the relevant costs and benefits of the
 different options. My own conclusion is that

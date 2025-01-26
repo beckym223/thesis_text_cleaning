@@ -1,30 +1,30 @@
 comparing two mandatory programs, one with
 lump-sum payments and one with annuities.
 This comparison would be easy if individual
-choices between annuitization and nonannu-
-itization were unaffected by the government
+choices between annuitization and nonannuitization
+were unaffected by the government
 choice. Then one would simply compare the
-implicit price of the trade-off between annu-
-ities and lump sums in the alternative manda-
-tory programs with the explicit price at which
-individuals could make transactions. For ex-
-ample, if everyone annuitized and the market
+implicit price of the trade-off between annuities
+and lump sums in the alternative mandatory
+programs with the explicit price at which
+individuals could make transactions. For example,
+if everyone annuitized and the market
 had a single price for all annuities, then we
-would compare the price implicit in the com-
-parison of the programs with the actual uni-
-form price. In this case, we would find
+would compare the price implicit in the comparison
+of the programs with the actual uniform
+price. In this case, we would find
 mandatory annuitization attractive because
 the government would be likely to have a
 better price than the market.26 Conversely, if
 everyone would purchase life insurance to
 undo a mandatory annuity (and rates were
-uniform), then we would find mandated an-
-nuities unattractive since the private market
+uniform), then we would find mandated annuities
+unattractive since the private market
 price for life insurance would likely be larger
 than the implicit price if the government
 switched from annuities to lump sums.
-The story becomes a little more compli-
-cated if we assume that everyone annuitizes
+The story becomes a little more complicated
+if we assume that everyone annuitizes
 and the market would offer different prices to
 different people. This might happen with a
 mandate to purchase annuities in the private
@@ -32,40 +32,40 @@ market if the market had some degree of price
 diversity by risk class.27 Then, in addition to
 the difference from the average price with and
 without the government annuity, we would
-note the differences in prices for differ-
-ent people. Relative to annuities priced dif-
-ferently for different groups, the uniform
-annuitization implicit in the mandated annu-
-itization would favor those with longer ex-
-pected lives-women relative to men, male
+note the differences in prices for different
+people. Relative to annuities priced differently
+for different groups, the uniform
+annuitization implicit in the mandated annuitization
+would favor those with longer expected
+lives-women relative to men, male
 high earners relative to male low earners,
 female high earners relative to female low
 earners. A progressive benefit formula can be
 
 used to offset the systematic variation in life
 expectancy with earnings within genders.
-For this or any income distribution compar-
-ison, we must have a counterfactual, prefera-
-bly a plausible one. Without a mandate, the
+For this or any income distribution comparison,
+we must have a counterfactual, preferably
+a plausible one. Without a mandate, the
 relevant counterfactual is that approximately
-no one would annuitize. Pretty much every-
-one would lose the insurance gains from an-
-nuitization.28 We can compare the mandate
+no one would annuitize. Pretty much everyone
+would lose the insurance gains from annuitization.
+28 We can compare the mandate
 with this counterfactual in two steps-first the
 value of annuitization assuming actuarially
 fair pricing and then the difference, described
 above, between fair and uniform pricing.
-Since those groups with shorter life expec-
-tancies have more to gain from fair annuiti-
-zation [assuming CRRA preferences in the
-usual range and realistic mortality rates (Jef-
-frey Brown, 2003)] this counterfactual shows
+Since those groups with shorter life expectancies
+have more to gain from fair annuitization
+[assuming CRRA preferences in the
+usual range and realistic mortality rates (Jeffrey
+Brown, 2003)] this counterfactual shows
 much less diversity in the utility value of
 annuitization than the previous comparison.29
 Indeed, Brown finds that the utility value of
 annuitization (relative to wealth) is similar for
-groups divided by gender, race, and educa-
-tion. Thus the differences in expected pay-
-ments from different life expectancies have
+groups divided by gender, race, and education.
+Thus the differences in expected payments
+from different life expectancies have
 less distributional impact in utility terms than
 in expected payment calculations.30

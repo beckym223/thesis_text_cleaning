@@ -2,9 +2,9 @@ Now, what precisely is the basic difference
 between the wheat and the tin markets, on
 the one hand, and the gold and the share
 markets, on the other, that lets us assume in
-the wheat or tin case that rational expecta-
-tions will normally stabilize prices and con-
-sumption in the face either of random or of
+the wheat or tin case that rational expectations
+will normally stabilize prices and consumption
+in the face either of random or of
 predictable fluctuations in amounts supplied
 or demanded, while in the gold case, there is
 often destabilizing speculation?
@@ -15,8 +15,8 @@ the markets for wheat, tin, and pork bellies,
 but also for gold (and for General Motors
 shares). Rather, the difference is that in the
 wheat and similar cases, the response of
-quantities produced and/or quantities con-
-sumed to price changes arising from shifts in
+quantities produced and/or quantities consumed
+to price changes arising from shifts in
 supply or demand can be large enough and
 prompt enough to begin to move the price
 toward its new equilibrium level within a
@@ -24,15 +24,15 @@ relevant time period; and that this response
 therefore comes to be anticipated by market
 participants. This prompt and substantial
 stabilizing response of quantities produced
-and consumed does not occur-and there-
-fore it is not expected to occur-in the case
+and consumed does not occur-and therefore
+it is not expected to occur-in the case
 of gold. As a consequence, in the presence of
 large inventories, price expectations dominate
 price-level determination not only in the short
 term, but even in the moderately long term.
 The prices so determined are unlikely to
-contribute either to the stability of produc-
-tion or consumption, or to the equality of
+contribute either to the stability of production
+or consumption, or to the equality of
 production and consumption. They may thus
 produce movements in actual inventories, the
 price effects of which, however, have only
@@ -43,55 +43,55 @@ extreme examples of a spectrum of durable
 commodities, capable of storage. At the
 wheat end of that spectrum, the responses of
 amounts produced and consumed to price
-changes are strong and prompt. Market par-
-ticipants come to expect them to occur, and
+changes are strong and prompt. Market participants
+come to expect them to occur, and
 take actions with respect to inventories that
-tend to stabilize prices around their equi-
-librium level, including any expected new
+tend to stabilize prices around their equilibrium
+level, including any expected new
 equilibrium level. At the gold end of the
-spectrum, the responses of amounts pro-
-duced and consumed to price changes are
+spectrum, the responses of amounts produced
+and consumed to price changes are
 weak and slow, while inventories are very
-large.5 Participants in such markets thus can-
-not depend on price movements to be quickly
+large.5 Participants in such markets thus cannot
+depend on price movements to be quickly
 self-limiting. It is therefore not irrational for
 some or many of them to speculate on the
 direction of intermediate price movements.
-Their speculation may often extend and ex-
-aggerate price movements that had some
-origin in changed supply or demand condi-
-tions. Or it may extend and exaggerate price
-movements caused by some random exog-
-enous disturbance, or even by the actions of
+Their speculation may often extend and exaggerate
+price movements that had some
+origin in changed supply or demand conditions.
+Or it may extend and exaggerate price
+movements caused by some random exogenous
+disturbance, or even by the actions of
 a few large traders (for example, the Hunts
 in silver).
 Most commodity markets lie between these
 extremes. In such intermediate markets, price
-movements may sometimes be-perhaps or-
-dinarily are-in the direction of a price that
+movements may sometimes be-perhaps ordinarily
+are-in the direction of a price that
 tends fairly quickly to equate production and
-consumption. At other times, price move-
-ments may develop a cumulative momentum
+consumption. At other times, price movements
+may develop a cumulative momentum
 in one direction, which can easily overshoot
-the current long-run equilibrium price. Occa-
-sionally, moreover, speculation can affect
-even the most stable markets; and specula-
-tive fevers can be transmitted from one
+the current long-run equilibrium price. Occasionally,
+moreover, speculation can affect
+even the most stable markets; and speculative
+fevers can be transmitted from one
 market to another.
 The years 1971 through 1973 provide a
 clear example of such speculation and of
 such transmission.6 Coincidental crop failures
 in wheat and coarse grains in several of the
 main producing countries of the world-at a
-time when world stocks were severely de-
-pleted-caused grain prices to soar; this
+time when world stocks were severely depleted-
+caused grain prices to soar; this
 helped to attract public attention to the then
-popular "Club-of-Rome" fantasies of gen-
-eral resource scarcity, which in turn helped
+popular "Club-of-Rome" fantasies of general
+resource scarcity, which in turn helped
 to transmit the speculative fever to still other
 commodities. In a political environment in
-which-partly for accidental reasons-mac-
-roeconomic policies in a number of major
+which-partly for accidental reasons-macroeconomic
+policies in a number of major
 countries were unusually permissive, the
 speculative rise in commodity prices soon
 came to be reflected in wage rates and in-

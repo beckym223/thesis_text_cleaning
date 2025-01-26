@@ -6,29 +6,29 @@ that under such circumstances the GDP growth
 rate itself tends to be high. It should likewise
 be no surprise that the opposite syndrome
 with weak real cost reductions and low rates
-of return producing fewer interesting invest-
-ment opportunities-should end up being as-
-sociated with a low capital contribution and a
+of return producing fewer interesting investment
+opportunities-should end up being associated
+with a low capital contribution and a
 low GDP growth rate.
 Finally, we come to the residual R' itself.
-To me, the biggest message here is to recog-
-nize the multiplicity of sources from which it
-can (and I believe does) come, and the addi-
-tivity that nevertheless is its attribute. I think
+To me, the biggest message here is to recognize
+the multiplicity of sources from which it
+can (and I believe does) come, and the additivity
+that nevertheless is its attribute. I think
 that the term real cost reduction very neatly
-captures both these aspects in a way that ren-
-ders it preferable to terms like TFP improve-
-ment and technical advance-preferable not
+captures both these aspects in a way that renders
+it preferable to terms like TFP improvement
+and technical advance-preferable not
 in the sense of a mechanical definition (for
 which all three are equally good), but in the
-sense of better conveying the underlying na-
-ture of the process to one's listeners or readers.
+sense of better conveying the underlying nature
+of the process to one's listeners or readers.
 The next step is to recognize that of the five
-main pillars, at least three (the rate of invest-
-ment, the rate of return, and real cost re-
-duction) are key foci of decision-making
-processes at the level of the firm. I cannot es-
-cape the conclusion that the great bulk of the
+main pillars, at least three (the rate of investment,
+the rate of return, and real cost reduction)
+are key foci of decision-making
+processes at the level of the firm. I cannot escape
+the conclusion that the great bulk of the
 action associated with the growth process
 takes place at the level of the firm. Hence, I
 feel we should focus much more study than
@@ -38,9 +38,9 @@ level, we should pay a lot of attention to what
 happens at lesser levels of disaggregation like
 industries and industrial branches.
 Key insights flow from taking this kind of
-focus. Few economists are aware of the per-
-vasiveness with which sunrise-sunset dia-
-grams are characterized by overshooting, or of
+focus. Few economists are aware of the pervasiveness
+with which sunrise-sunset diagrams
+are characterized by overshooting, or of
 the importance that firms or industries with
 real cost increases (i.e., reductions in TFP)
 play in determining the aggregate rates of real
@@ -51,28 +51,28 @@ the degree to which the data of Table 3 seem
 to point to a growth syndrome in which high
 rates of return, high rates of investment, high
 rates of real cost reduction, and high rates of
-output growth all go together. I see in this re-
-sult the likelihood that real cost reductions are
+output growth all go together. I see in this result
+the likelihood that real cost reductions are
 the big driving force, generating high rates of
-return and calling forth high rates of invest-
-ment and high output growth. This interpre-
-tation is compatible with many exercises that
+return and calling forth high rates of investment
+and high output growth. This interpretation
+is compatible with many exercises that
 I have perforned over the years in which I
-have tried to contrast high-growth with low-
-growth experiences. In such exercises, as in
-Table 3, the difference in rates of real cost re-
-duction has typically been a major "source"
+have tried to contrast high-growth with lowgrowth
+experiences. In such exercises, as in
+Table 3, the difference in rates of real cost reduction
+has typically been a major "source"
 of the difference in growth rates.
 Also impressive in the analysis of the
-Jorgenson data is the degree to which the vary-
-ing experiences of U.S. manufacturing in dif-
-ferent decades derives from different degrees
+Jorgenson data is the degree to which the varying
+experiences of U.S. manufacturing in different
+decades derives from different degrees
 of bad experience (real cost increases) rather
 than different degrees of good experience (real
 cost reduction). It is as if the creative part of
 Schumpeter's "creative destruction" was
-more steady (for these decades in U.S. man-
-ufacturing) than the destructive part, whetting
+more steady (for these decades in U.S. manufacturing)
+than the destructive part, whetting
 our (or at least my) appetite to look deeper,
 inquiring into why this was so.
 The Mexican data at the firm level were

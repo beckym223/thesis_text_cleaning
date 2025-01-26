@@ -3,34 +3,34 @@ information technology and this is reflected in
 the large volume of software expenditures. The
 eleventh comprehensive revision of the national
 accounts, released by BEA on October 27,
-1999, reclassified computer software as invest-
-ment.17 Before this important advance, business
+1999, reclassified computer software as investment.
+17 Before this important advance, business
 expenditures on software were treated as current
-outlays, while personal and government expen-
-ditures were treated as purchases of nondurable
+outlays, while personal and government expenditures
+were treated as purchases of nondurable
 goods. Software investment is growing rapidly
-and is now much more important than invest-
-ment in computer hardware.
+and is now much more important than investment
+in computer hardware.
 Robert P. Parker and Grimm (2000) describe
 the new estimates of investment in software. BEA
-distinguishes among three types of software-
-prepackaged, custom, and own-account software.
-Prepackaged software is sold or licensed in stan-
-dardized form and is delivered in packages or
+distinguishes among three types of softwareprepackaged,
+custom, and own-account software.
+Prepackaged software is sold or licensed in standardized
+form and is delivered in packages or
 electronic files downloaded from the Internet.
-Custom software is tailored to the specific appli-
-cation of the user and is delivered along with
-analysis, design, and programming services re-
-quired for customization. Own-account software
-consists of software created for a specific applica-
-tion. However, only price indexes for prepackaged
+Custom software is tailored to the specific application
+of the user and is delivered along with
+analysis, design, and programming services required
+for customization. Own-account software
+consists of software created for a specific application.
+However, only price indexes for prepackaged
 software hold performance constant.
 Parker and Grimm (2000) present a constant
 quality price index for prepackaged software,
 given in Figure 3. This combines a hedonic
-model of prices for business applications soft-
-ware and a matched model index for spread-
-sheet and word-processing programs developed
+model of prices for business applications software
+and a matched model index for spreadsheet
+and word-processing programs developed
 by Steven D. Oliner and Daniel E. Sichel
 (1994). Prepackaged software prices decline at
 more than 10 percent per year over the period
@@ -39,8 +39,8 @@ matched model price index for all prepackaged
 software from the PPI; prior to 1998 the PPI
 data do not hold quality constant.
 BEA's prices for own-account software are
-based on programmer wage rates. This implic-
-itly assumes no change in the productivity of
-computer programmers, even with growing in-
-vestment in hardware and software to support
+based on programmer wage rates. This implicitly
+assumes no change in the productivity of
+computer programmers, even with growing investment
+in hardware and software to support
 the creation of new software. Custom software

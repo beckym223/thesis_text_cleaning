@@ -1,5 +1,5 @@
-the best evidence for evaluating whether work-
-ers make adequate preparation for retirement.
+the best evidence for evaluating whether workers
+make adequate preparation for retirement.
 I prefer the term "inadequate preparation" to
 "insufficient savings." Preparation involves
 multiple decisions. Indeed, one decision is to
@@ -8,12 +8,12 @@ earned income. Another is investing well. A
 third is getting adequate insurance for earnings
 risk to have a satisfactory outcome in retirement
 despite a possibly adverse earnings experience.
-And a fourth is using insurance to arrange in-
-come flows after retirement. There are lots of
+And a fourth is using insurance to arrange income
+flows after retirement. There are lots of
 ways that workers could end up with inadequate
 consumption after retirement relative to what
-might sensibly and efficiently be done with ear-
-lier earnings.
+might sensibly and efficiently be done with earlier
+earnings.
 In addition to having low savings, many
 workers have problems converting savings in
 different years into retirement incomes in later
@@ -22,11 +22,11 @@ from 401(k) studies that many workers do not
 diversify sensibly and many do not choose a
 sensible portfolio for long-term investments.5
 The tendency of many workers to accept the
-default allocation set by their employers is sug-
-gestive that they do not have a clear view of
-how to choose a portfolio. Outside employer-
-organized retirement savings, others pay advi-
-sors as much as 1 percent of assets each year to
+default allocation set by their employers is suggestive
+that they do not have a clear view of
+how to choose a portfolio. Outside employerorganized
+retirement savings, others pay advisors
+as much as 1 percent of assets each year to
 help them select mutual funds (in what are
 called wrap accounts). Paying 1 percent extra
 per year reduces the accumulation at the end of
@@ -34,8 +34,8 @@ a 40-year career by roughly 20 percent.6 Mutual
 funds, even very similar ones, come with quite
 different annual charges. While the average of
 charges of mutual funds containing equities is
-currently 1 1/4 percent of assets per year (includ-
-ing a prorating of front loads), some workers
+currently 1 1/4 percent of assets per year (including
+a prorating of front loads), some workers
 pay much more. A fee of the average size takes
 away roughly 25 percent from what would be
 there at retirement without any fee. Thus many
@@ -51,45 +51,45 @@ about the actual functioning of the market
 alternatives.
 Investing is only part of the story. We lack
 market institutions to provide good insurance
-for the risk in earnings trajectories, thereby af-
-fecting the realized pattern of assets at retire-
-ment relative to earnings potential. In the
-Arrow-Debreu framework, workers have deter-
-ministic budget constraints from selling their
+for the risk in earnings trajectories, thereby affecting
+the realized pattern of assets at retirement
+relative to earnings potential. In the
+Arrow-Debreu framework, workers have deterministic
+budget constraints from selling their
 labor supplies conditional on all the states of
 nature in which they have labor that they choose
 to sell. That is, they transfer resources across
 states of nature to those where the purchasing
 power is needed more. Making the same point
-in a finance vocabulary, markets do not cur-
-rently exist for directly hedging the risks in
+in a finance vocabulary, markets do not currently
+exist for directly hedging the risks in
 earnings opportunities, and if they did exist I do
 not think we would see many workers using
 them.7
-In addition to problems in converting earn-
-ings opportunities into wealth devoted to retire-
-ment consumption, the wealth that is privately
+In addition to problems in converting earnings
+opportunities into wealth devoted to retirement
+consumption, the wealth that is privately
 allocated to retirement consumption does not
 make adequate use of annuities. This problem
 would be more severe without the annuities
 provided by Social Security, since the utility
 value of the marginal annuity decreases with the
 extent of existing annuitization.
-These shortcomings in providing for retire-
-ment income fall on surviving spouses even
+These shortcomings in providing for retirement
+income fall on surviving spouses even
 more heavily than on workers. While 5 percent
 of elderly married couples have incomes below
 the poverty line, with another 3 percent near
 poverty, these figures more than triple when we
-consider widows. Indeed, widowhood is associ-
-ated with a roughly 30 percent drop in income
+consider widows. Indeed, widowhood is associated
+with a roughly 30 percent drop in income
 relative to needs (Karen Holden and Cathleen
 Zick, 1998).8 This is strongly suggestive of
 inadequate protection of family members.
 To my mind, the heart of the context for
-thinking about Social Security is that it substi-
-tutes for poor decision making and for missing
-insurance opportunities (missing perhaps be-
-cause poor decision making implies low de-
-mand). The various shortcomings that are
+thinking about Social Security is that it substitutes
+for poor decision making and for missing
+insurance opportunities (missing perhaps because
+poor decision making implies low demand)
+. The various shortcomings that are
 apparent even in the presence of Social Security

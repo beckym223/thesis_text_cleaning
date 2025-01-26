@@ -2,78 +2,78 @@ cline in the patents per R&D ratio in the
 United States (and also in most of the other
 countries for which we have data). This
 raised the specter of diminishing returns to
-R&D and offered the hypothesis of "ex-
-haustion of inventive opportunities" as a
+R&D and offered the hypothesis of "exhaustion
+of inventive opportunities" as a
 potential explanation for the productivity
 slowdown.
-This hypothesis has been examined re-
-cently by various authors. There are basi-
-cally two styles of analysis: one focuses di-
-rectly on the link, if any, between R&D and
+This hypothesis has been examined recently
+by various authors. There are basically
+two styles of analysis: one focuses directly
+on the link, if any, between R&D and
 productivity growth (see e.g., Griliches,
 1986a; Bronwyn Hall, 1993; Scherer, 1993),
 while the other uses patents as indicators of
 the output of the R&D effort and looks at
-what has happened to the "knowledge-
-production function" (see e.g., Griliches,
+what has happened to the "knowledgeproduction
+function" (see e.g., Griliches,
 1990; Ricardo Caballero and Adam Jaffe,
 1993; Robert Evenson, 1993; Samuel
 Kortum, 1993). The bridge that is missing
-between these two approaches would exam-
-ine the units in which patents affect produc-
-tivity growth and ask whether they have
+between these two approaches would examine
+the units in which patents affect productivity
+growth and ask whether they have
 stayed constant over time. Without such
-constancy, no clear interpretation is possi-
-ble.
+constancy, no clear interpretation is possible.
+
 II. Productivity Growth and the Role of R&D
 In parallel to the aggregate "residual"
 literature, a more micro-oriented approach
-had developed. It took the study of techni-
-cal change, diffusion, and the role of formal
+had developed. It took the study of technical
+change, diffusion, and the role of formal
 R&D as its main challenge, with the hope
 of bringing more of it within the realm of
 economic analysis, helping thereby also to
 explain some of this residual away. Using
 modern language, one can interpret Edwin
-Mansfield's and my own early work on dif-
-fusion and on the role of R&D in agricul-
-ture and manufacturing as trying to endoge-
-nize as much of technical change as was
+Mansfield's and my own early work on diffusion
+and on the role of R&D in agriculture
+and manufacturing as trying to endogenize
+as much of technical change as was
 possible (Griliches, 1957, 1958, 1964;
 Mansfield, 1961, 1965). Other important
 contributors to this literature were Richard
 Nelson, Scherer, Jacob Schmookler, and
 Nestor Terleckyj. By expanding the notion
 of capital to include also R&D capital and
-estimating its effects, this literature docu-
-mented the contribution of public and pri-
-vate investments in R&D and their spillovers
-to the growth of productivity.4 But the mag-
-nitude of the estimated effects was modest,
+estimating its effects, this literature documented
+the contribution of public and private
+investments in R&D and their spillovers
+to the growth of productivity.4 But the magnitude
+of the estimated effects was modest,
 not enough to account for the bulk of the
 observed residual or the fluctuations in it
 (Griliches, 1988). The experience here was
 similar to other attempts to account for the
-residual, such as using "embodiment" theo-
-ries to magnify the potential effects of capi-
-tal accumulation (Denison, 1962; Nelson,
+residual, such as using "embodiment" theories
+to magnify the potential effects of capital
+accumulation (Denison, 1962; Nelson,
 1962) or looking for increasing returns to
 scale (Griliches and Vidar Ringstad, 1972).
-These various effects are real and nonnegli-
-gible, but not large enough.
+These various effects are real and nonnegligible,
+but not large enough.
 There is one other way of trying to make
 something more out of the R&D story: the
 possibility that the productivity impact of
-R&D has declined over time-that the co-
-efficients have changed. This hypothesis has
+R&D has declined over time-that the coefficients
+have changed. This hypothesis has
 been investigated repeatedly by a number of
 researchers with mixed results. Studies that
 used data through the 1970's and early
-1980's found no decline in the relevant co-
-efficients. More recent studies that analyze
+1980's found no decline in the relevant coefficients.
+More recent studies that analyze
 data through the late 1980's report more
 mixed results, varying strongly with how the
-computer industry and its deflator are han-
-dled in the analysis.5 At the same time, the
-stock market's valuation of R&D fell signif-
-icantly, both in terms of ex post returns to
+computer industry and its deflator are handled
+in the analysis.5 At the same time, the
+stock market's valuation of R&D fell significantly,
+both in terms of ex post returns to

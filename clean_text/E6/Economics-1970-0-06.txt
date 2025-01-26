@@ -1,10 +1,10 @@
 The required simplifying assumptions
-are reasonably well satisfied in the macro-
-economic Cobb-Douglas framework. The
-CES model also acquires the needed prop-
-erties if we work into it a mechanism of
-induced invention and of distributive-
-shares equilibrium.8 This is explained in
+are reasonably well satisfied in the macroeconomic
+Cobb-Douglas framework. The
+CES model also acquires the needed properties
+if we work into it a mechanism of
+induced invention and of distributiveshares
+equilibrium.8 This is explained in
 Appendix A. In Sections III and IV we
 shall return to the question how much
 similarity of the real world with such
@@ -16,58 +16,58 @@ either cannot be articulated sufficiently
 well, or, if capable of articulation, can
 be appraised only in very vague terms. I
 will not be able to consider the question
-whether all-too-rapid change does not re-
-duce our well-being "in a fundamental
+whether all-too-rapid change does not reduce
+our well-being "in a fundamental
 sense," or, on the other hand, whether at a
-stagnant or near-stagnant level of tech-
-nology the institutions of Western nations
+stagnant or near-stagnant level of technology
+the institutions of Western nations
 would be workable at all. Nor will I try to
 explore the relationship of technological
 progress to population growth and to its
 specific consequences.
-II. Two Versions of the Social Benefit-
-Cost Ratio, and their Meaning
-A substantial part of the progress-gen-
-erating costs of each period is incurred by
+II. Two Versions of the Social BenefitCost
+Ratio, and their Meaning
+A substantial part of the progress-generating
+costs of each period is incurred by
 decision makers subjected to the criterion
-of private economic yield. The progress-
-costs falling in this category consist mainly
+of private economic yield. The progresscosts
+falling in this category consist mainly
 of the costs of privately financed research
 and development (R & D) and of the extra
 costs of changing over to new industrial
 processes. Though we are concerned here
 with the problem of social yield, we should
-obviously include these private yield-ori-
-ented costs in the cost-base of our benefit-
-cost ratio.
-Another large part of the progress-gen-
-erating expenses is incurred by agencies
+obviously include these private yield-oriented
+costs in the cost-base of our benefitcost
+ratio.
+Another large part of the progress-generating
+expenses is incurred by agencies
 not institutionally subjected to criteria of
 economic yield. The government-financed
-R & D9 and that financed by other non-
-profit institutions belong here, and so does
+R & D9 and that financed by other nonprofit
+institutions belong here, and so does
 almost all of the cost of increased per
 capita education.10 This does not mean
 that the nonprofit institutions incurring
-these costs are under no political or quasi-
-political" pressure to keep costs down per
+these costs are under no political or quasipolitical"
+pressure to keep costs down per
 unit of service; what it does mean is that
 these costs create net income by definition,
-i.e., that their net-income-creating prop-
-erty does not depend on whether they
-generate offsetting revenues. Nonprofit in-
-stitutions, most prominently illustrated by
-governments, but illustrated also by pri-
-vate teaching organizations, can have def-
-cits but these deficits are not usually
+i.e., that their net-income-creating property
+does not depend on whether they
+generate offsetting revenues. Nonprofit institutions,
+most prominently illustrated by
+governments, but illustrated also by private
+teaching organizations, can have defcits
+but these deficits are not usually
 viewed as negative income such as would
 cancel any part of the incomes created by
-the institutions. In the language of na-
-tional accounting, the services of these in-
-stitutions are valued at cost, though, when
+the institutions. In the language of national
+accounting, the services of these institutions
+are valued at cost, though, when
 appraising the worth of the services, any
-individual may find this valuation uncon-
-vincing. In this regard such costs are
+individual may find this valuation unconvincing.
+In this regard such costs are
 treated differently from those of firms,
-e.g., differently from that R & D compo-
-nent which is financed by industry.'2 The
+e.g., differently from that R & D component
+which is financed by industry.'2 The

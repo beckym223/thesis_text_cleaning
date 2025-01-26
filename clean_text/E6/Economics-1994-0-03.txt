@@ -1,15 +1,15 @@
 Forty years ago economists discovered the
-"residual." The main message of this litera-
-ture, that growth in conventional inputs
+"residual." The main message of this literature,
+that growth in conventional inputs
 explains little of the observed growth in
 output, was first articulated by Solomon
 Fabricant in 1954 and emphasized further
 by Moses Abramovitz (1956), John Kendrick
-(1956), and Robert Solow (1957).1 The pio-
-neers of this subject were quite clear that
-this finding of large residuals was an embar-
-rassment, at best "a measure of our igno-
-rance" (Abramovitz, 1956 p. 11). But by
+(1956), and Robert Solow (1957).1 The pioneers
+of this subject were quite clear that
+this finding of large residuals was an embarrassment,
+at best "a measure of our ignorance"
+(Abramovitz, 1956 p. 11). But by
 attributing it to technical change and other
 sources of improved efficiency they turned
 it, perhaps inadvertently, from a gap in our
@@ -28,26 +28,26 @@ explain them away. The major sources of
 productivity growth were seen as coming
 from improvements in the quality of labor
 and capital and from other, not otherwise
-measured, sources of efficiency and techni-
-cal change, the latter being in turn the
-product of formal and informal R&D in-
-vestments by individuals, firms, and govern-
-ments, and the largely unmeasured contri-
-butions of science and other spillovers. The
-prescription of additional investments in ed-
-ucation, in science, and in industrial R&D
+measured, sources of efficiency and technical
+change, the latter being in turn the
+product of formal and informal R&D investments
+by individuals, firms, and governments,
+and the largely unmeasured contributions
+of science and other spillovers. The
+prescription of additional investments in education,
+in science, and in industrial R&D
 followed from this reading of history as did
-also the hope and expectation that the re-
-cently observed rates of "technical change"
+also the hope and expectation that the recently
+observed rates of "technical change"
 would continue into the future.
 This general view of the sources of growth
 was put into doubt by the events of the
 1970's and 1980's. Beginning in 1974 (or
 perhaps already in 1968) productivity growth
 slowed down significantly in the United
-States and abroad, and it has not fully re-
-covered yet, at least as far as national aggre-
-gates are concerned. The many explanations
+States and abroad, and it has not fully recovered
+yet, at least as far as national aggregates
+are concerned. The many explanations
 that were offered for these events were not
 very convincing (see e.g., Denison, 1979;
 Martin Baily and Robert Gordon, 1988;
@@ -58,17 +58,17 @@ come or came only weakly, more voices
 were heard arguing that the slowdown might
 not be temporary; that the energy-price
 shocks just revealed what was already there
--a decline in the underlying trend of tech-
-nical change in the world economy; that the
+-a decline in the underlying trend of technical
+change in the world economy; that the
 growth opportunities that had opened up in
 the late 1930's and had been interrupted by
-World War II have been exhausted, reflect-
-ing perhaps the completion of an even
+World War II have been exhausted, reflecting
+perhaps the completion of an even
 longer cycle, going back to the beginnings of
 this century (see e.g., Alfred Kleinknecht,
-1987; Gordon, 1993a). Even more omi-
-nously, the slowdown was blamed on dimin-
-ishing returns to science and technology in
-general and the onset of widespread socio-
-economic sclerosis (see e.g., William Nord-
-haus, 1972, 1989; Mancur Olsen, 1982;
+1987; Gordon, 1993a). Even more ominously,
+the slowdown was blamed on diminishing
+returns to science and technology in
+general and the onset of widespread socioeconomic
+sclerosis (see e.g., William Nordhaus,
+1972, 1989; Mancur Olsen, 1982;

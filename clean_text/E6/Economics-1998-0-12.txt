@@ -1,25 +1,25 @@
 luck in the technological draw, side by side
-with highly diverse experience between indus-
-tries because the distribution of technical ad-
-vances had wide dispersion, even for periods
+with highly diverse experience between industries
+because the distribution of technical advances
+had wide dispersion, even for periods
 as long as a decade.
-Getting access to data at the firm level per-
-mits one to explore whether this view is com-
-patible with the actual experiences of firms and
+Getting access to data at the firm level permits
+one to explore whether this view is compatible
+with the actual experiences of firms and
 industries. We are just in the early stages of this
 exploration, but I think the result is quite clear
-already; namely, the "mushrooms" story pre-
-vails just as much among firms within an in-
-dustry as it does among industries within a
+already; namely, the "mushrooms" story prevails
+just as much among firms within an industry
+as it does among industries within a
 sector or broader aggregate. I will present here
 only a taste of the evidence from the United
-States (on which our systematic work just re-
-cently got started). Our massive evidence
+States (on which our systematic work just recently
+got started). Our massive evidence
 comes from the Mexican manufacturing sector,
 for which Leonardo Torre ( 1997) has analyzed
 data from a sample of over 2,000 firms. A small
-fraction of these firms were lost owing to miss-
-ing data, but some 1,900 firms remained in the
+fraction of these firms were lost owing to missing
+data, but some 1,900 firms remained in the
 sample that Torre finally worked with. These
 firms were divided into 44 branches of industry,
 so that on average we have about 43 firms per
@@ -31,21 +31,21 @@ aggregate picture in Figure 4, and then show
 in Figures 5A-C three fast-growing branches,
 three of around median growth, and three from
 among the slowest-growing branches.
-To complement these figures, I finally pres-
-ent, in Figures 6A-D, certain summary statis-
-tics from the sunrise-sunset diagrams of the 44
+To complement these figures, I finally present,
+in Figures 6A-D, certain summary statistics
+from the sunrise-sunset diagrams of the 44
 branches that Torre studied. Here Figure 6A
 gives the distribution of average rates of TFP
 growth among the 44 industries. Figure 6B
-shows the distribution of peak cumulative con-
-tributions, i.e., what the TFP contribution
+shows the distribution of peak cumulative contributions,
+i.e., what the TFP contribution
 would have been had all the negatives been
 zeros. Figure 6C displays the percentile of
-firms (by initial value added) marking the bor-
-derline between positive and negative TFP
+firms (by initial value added) marking the borderline
+between positive and negative TFP
 growth. And finally, Figure 6D shows, for
-branches with positive TFP growth, the per-
-centile of firms which, by themselves, account
+branches with positive TFP growth, the percentile
+of firms which, by themselves, account
 for 100 percent of the industry's TFP growth.
 This evidence almost seems to replicate, for
 firms within an industry, what was found in
