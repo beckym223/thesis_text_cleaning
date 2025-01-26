@@ -12,23 +12,4 @@ ing new kinds of matching markets possible. For example, Airbnb, which matches t
 automobile ownership) when self-driving cars become common (cf. Ostrovsky and Schwarz 2018).
 College admissions and labor markets are good examples of matching markets.
 12
-Prices—i.e., tuition and wages—are important, but they don’t decide who goes to which college or works at which job. You can’t just decide where to study or work, you also have to be admitted or hired. And candidates apply to particular colleges and employers, who in turn make offers to individuals, not to the market at large as when buying and selling wheat futures.
-13
-9 See McAfee and McMillan (1996) for an early account of spectrum auctions, and see Leyton-Brown, Milgrom,
-and Segal (2017) for the interaction between economics and computer science in the design of the incentive auction.
-
-10 In two-sided matching markets, like labor markets, both sides choose and must be chosen. But even in “one-
-sided” markets in which agents are matched with resources that don’t themselves make any choices, agents may
-not be able to simply choose what they want, even if they can afford it. For example, in package auctions, the high bidder on a particular license may not win it if that license turns out to allow a more valuable allocation of all the licenses if assigned differently (see, e.g., Milgrom 2004, 2017).
-
-11 There is starting to be an Uber design literature: see, e.g., Angrist, Caldwell, and Hall (2017), Chen et al.
-(2017), and Nikzad (2018).
-
-12 I’ll choose examples disproportionately from my own work, but the flow of market design is becoming wide
-and deep. For other directions than I will explore here, see, e.g., Horton (2017) on online labor markets; Cramton (2017), Cramton, Ockenfels, and Stoft (2013), and Wilson (2012) on electricity markets for energy and capacity;
-Resnick and Varian (1997), Resnick and Zeckhauser (2002), Bolton, Greiner, and Ockenfels (2013) on reputation
-and recommender systems; Ausubel and Milgrom (2002), Ausubel and Baranov (2017), Cramton, Shoham, and Steinberg (2006), and Parkes and Ungar (2000) on combinatorial auctions. See also http://marketdesigner.blogspot.
-com/search/label/market%20designers.
-
-13 Formulations exist in which matching markets can clear by prices, but many doubly personalized prices are
-needed, since to have a market clearing set of prices, each firm might have to offer a different wage to each worker, both those it hires at equilibrium and those it does not. See, e.g., Kelso and Crawford (1982) and Hatfield et al. (2013). So these prices don’t efficiently decentralize the market in the same way that a small set of equilibrium prices can decentralize a market with many traders (cf. Segal 2007).
+Prices—i.e., tuition and wages—are important, but they don’t decide who goes to which college or works at which job. You can’t just decide where to study or work, you also have to be admitted or hired. And candidates apply to particular colleges and employers, who in turn make offers to individuals, not to the market at large as when buying and selling wheat futures

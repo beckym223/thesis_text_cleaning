@@ -35,8 +35,4 @@ worker turnover and wages. It also provides a simple framework for thinking abou
 the degree of market power of any single employer. Postel Vinay and Robin (2002)
 generalized BM by allowing firms to (perfectly) price discriminate against different
 workers, depending on their preceding job and any job offers so far. This sequential
-auction framework creates a more complex relationship between firm mobility and
-4 Robinson’s gender may also have been an issue. Card et al. (2022) develop models of the probability that econ-
-omists were elected as fellows of the Econometric Society which depend on past publications and citations. Their
-analysis suggests that prior to 1980 females as a whole were significantly less likely to be recognized as fellows
-than males with the same record.
+auction framework creates a more complex relationship between firm 

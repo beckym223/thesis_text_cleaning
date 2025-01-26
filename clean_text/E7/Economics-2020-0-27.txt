@@ -20,36 +20,4 @@ pace of $50 billion per quarter for each percentage point that the output gap ex
 2.5 percent. For each of the QE programs, when the output gap shrinks sufficiently,
 asset purchases are assumed to end, and the central bank’s balance sheet begins a
 gradual  wind-down. (See Kiley 2018 or the online Appendix for precise specifica-
-tions.) The simulations keep track of the size of the central bank’s balance sheet, Table 3—Performance of Alternative Policies in Stochastic Simulations
-r   ∗   = 1
-Mean
-lossMean
-unemployment
-gapMean
-inflationELB
-frequencyMean ELB
-durationMean stock
-of assets
-($B)Mean peak
-stock of
-assets ($B)
-Panel A. Baseline rules
-Taylor,   π   ∗  = 2 9.8 0.7 0.9 31.2 16.3 0 0
-Taylor,   π   ∗  = 4 4.3 0.1 3.8 4.6 9.1 0 0
-Taylor,   π   ∗  = 5 3.7 0 5.0 1.6 7.0 0 0
-Taylor unconstrained,
-π   ∗  = 2 3.3 0 2.0  — — 0 0
-Panel B.  Threshold-based forward guidance,   π   ∗  = 2
-Inflation > 1.75 7.6 0.4 1.4 31.6 16.7 0 0
-Inflation > 2 7.0 0.3 1.6 30.1 16.3 0 0
-Inflation > 2.25 6.5 0.2 1.7 28.3 16.0 0 0
-Panel C. Quantitative easing,   π   ∗  = 2
-QE(A) 6.1 0.4 1.4 22.7 12.1 269 1,000
-QE(B) 5.2 0.3 1.6 18.4 10.9 375 1,507
-QE(C) 4.5 0.2 1.7 15.6 9.4 502 1,761
-QE(D) 3.7 0 1.9 11.3 7.5 698 2,627
-Panel D. Forward guidance + quantitative easing,   π   ∗  = 2
-Inflation > 2 + QE(B) 3.8 0 2.0 20.7 11.8 257 1,103
-Inflation > 2 + QE(C) 3.6 −0.1 2.1 18.5 11.5 364 1,348
-Inflation > 2 + QE(D) 3.2 −0.2 2.2 15.7 10.5 524 2,059
-Source: Author’s calculations
+tions.) The simulations keep track of the size of the central bank’s balance she

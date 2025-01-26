@@ -38,5 +38,4 @@ higher degrees in technology fields have somewhat greater participation than oth
 women.22 One reason for their slightly higher participation is that having young chil-
 dren (less than two years old) reduces participation for all college graduate women
 but there is a lesser impact on those with technology degrees. 'Tech" appears to
-enable women to work part-time or to work more flexibly.
-20 All but one coefficient has a i-statistic exceeding 2.8.  These averages are for the 95 occupations for which the groupings are identified and are weighted by the  number of individuals in each of the occupations.  22 All of these results hold if technology field is defined as a BA field rather than including MA and PhD fields.  Women with degrees in technology fields have a 2 percentage point higher participation rate.
+enable women to work part-time or to work mo

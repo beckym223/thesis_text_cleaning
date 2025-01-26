@@ -22,34 +22,4 @@ use of the new policy tools) perform quite poorly when neutral interest rates ar
 low. For example, when   r   ∗   = 1 and   i   ∗   = 3 (Table 3), the baseline rule leaves the
 economy at the lower bound some 31 percent of the time, with mean inflation less
 than 1 percent, well short of the 2 percent target, and a mean unemployment gap of
-0.7 percent. When   r   ∗   = 0 and   i   ∗   = 2 (Table 4), the baseline policy rule leaves the Table 4—Performance of Alternative Policies in Stochastic Simulations
-r   ∗   = 0
-Mean
-lossMean
-unemployment
-gapMean
-inflationELB
-frequencyMean ELB
-durationMean stock
-of assets
-($B)Mean peak
-stock of
-assets ($B)
-Panel A. Baseline rules
-Taylor,   π   ∗  = 2 15.5 1.4 0.1 56.4 24.7 0 0
-Taylor,   π   ∗  = 4 6.1 0.3 3.6 12.7 11.6 0 0
-Taylor,   π   ∗  = 5 4.3 0.1 4.8 4.6 9.1 0 0
-Panel B.  Threshold-based forward guidance,   π   ∗  = 2
-Inflation > 1.75 13.8 1.1 0.5 58.1 25.2 0 0
-Inflation > 2 12.9 1.0 0.7 56.1 24.6 0 0
-Inflation > 2.25 11.9 0.9 0.9 53.6 23.4 0 0
-Panel C. Quantitative easing,   π   ∗  = 2
-QE(A) 9.3 0.8 0.8 45.8 17.9 478 1,660
-QE(B) 7.3 0.6 1.0 39.3 15.9 660 2,563
-QE(C) 6.3 0.5 1.2 34.0 13.8 808 2,584
-QE(D) 4.6 0.2 1.6 24.9 10.3 1,050 3,757
-Panel D. Forward guidance + quantitative easing,   π   ∗  = 2
-Inflation > 2 + QE(B) 5.7 0.3 1.6 41.6 15.9 525 2,106
-Inflation > 2 + QE(C) 5.0 0.1 1.7 37.0 14.2 643 2,194
-Inflation > 2 + QE(D) 3.8 −0.1 2.0 28.6 11.9 841 3,176
-Source: Author’s calculations
+0.7 percent. When   r   ∗   = 0 and   i   ∗   = 2 (Table 4), the baseline policy rule leav

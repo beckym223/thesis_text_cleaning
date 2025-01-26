@@ -1,6 +1,3 @@
-Figure 7. The Big Mac Price Compared to the McWage, 2007
-Notes: See note to Table 3. The regression line is from a log linear regression with slope 0.586.
-Source: Author's calculation.
 1 — a, which has the interpretation as the fraction of a Big Mac that is tradable,
 is about 0.6.10
 For the less developed countries there is a clear tendency for the PPP-adjusted
@@ -19,4 +16,3 @@ Y. Comparisons of the Level of Real Wages
 Table 3 provides a basic cross-section of data for 2007 on prices and wages from
 McDonald's restaurants. In order to create a manageable, readable table I have
 aggregated the more than 60 countries for which there are data into a group of
-10This is not far from the fraction of the cost of the ingredients of a Big Mac that Parsley and Wei (2007) esti  mate as due to tradables. Parsley and Wei also report a detailed study of the cost components of the Big Mac and  their reaction to exchange rates.

@@ -1,9 +1,0 @@
-Figure 3. Number of Participating Regions by International Target Carbon Price and Tariff Rate
-Notes: This and the following figures have the following structure. The four sets of bars are the model results for  four different global SCCs, running from left to right as shown on the bottom. The 1 1 bars within each set are the  penalty tariff rates, running from 0 percent to 10 percent. Note that each set has zero participants for a 0 percent tar-  iff. The vertical scale here is the number of participants, while the following graphs show other important results.
-Figure 4. Globally Averaged Global Carbon Price by Target Carbon Price and Tariff Rate
-Notes: This graph shows the global (weighted average) carbon price for each regime. Weights are actual 2011  industrial C02 emissions. The far left bar for each set is the noncooperative carbon price. For the interpretation of  the graph, see Figure 3.
-While the analysis focuses on carbon prices, it is useful to translate these into
-emissions reductions. Assuming 100 percent participation, the emissions reduc-
-tions for the four target carbon prices ($12.5, $25, $50, and $100) are 9 percent,
-18 percent, 36 percent, and 72 percent of baseline emissions. It is relatively easy to
-attain emissions reduction rates of 50 percent with a Climate Club at 2011 levels

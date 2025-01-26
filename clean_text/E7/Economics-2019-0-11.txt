@@ -65,9 +65,4 @@ Figures
 ing at different dates in the past. For convenience, the ratio is normalized to 100 at
 each starting date. Figure 5 uses the non-tax adjusted rate, and Figure 6 uses the tax-adjusted interest rate.
 Figure 5 shows that, for each starting date, the debt ratio would eventually have
-decreased, even in the absence of a primary surplus. The decrease, if starting in the
-13 Given that we subtract taxes on interest from interest payments, the primary balance must also be computed
-subtracting those tax payments.
-14 The conclusion is the same if we do not assume log normality, but rather bootstrap from the actual distribu-
-tion, which has slightly fatter tails.
-15 For related computations and related conclusions, see Mehrotra and Sergeyev (2018).
+decreased, even in the absence of a primary surplus. The decrease, if starting in t

@@ -38,10 +38,4 @@ the lower bound on  short-term interest rates.2 In particular, although there ar
 senting views, most research finds that central bank asset purchases meaningfully
 ease financial conditions, even when financial markets are not unusually stressed.
 Forward guidance has become increasingly valuable over time in helping the pub-
-lic understand how policy will respond to economic conditions and in facilitating
-1 These tools are often referred to as “unconventional” or “nonstandard” policies. Since I will argue that these
-tools should become part of the standard toolkit, I will refer to them here as “new” or “alternative” monetary tools.
-2 My review is necessarily selective. Useful surveys of  so-called unconventional policies and their effects
-include Gagnon (2016); Kuttner (2018); Dell’Ariccia, Rabanal, and Sandri (2018); Bhattarai and Neely (2018);
-and Committee on the Global Financial System (2019). For detailed chronologies of actions by major central banks,
-see Fawley and Neely (2013) and Karson and Neely (forthcoming).
+lic understand how policy will respond to economic conditions and i

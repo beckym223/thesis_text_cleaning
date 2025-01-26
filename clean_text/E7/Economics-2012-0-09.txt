@@ -37,4 +37,3 @@ is a measure of the physical marginal product of labor when firms are maximiz
 ing profits and there are competitive labor and product markets. It follows that real
 wage rate differences can also be used to measure productivity differences under
 some circumstance.
-4See Ashenfelter (1980) and Ham (1982) for an analysis when workers face quantity restrictions on the amount  they may work at a given wage rate.

@@ -41,5 +41,4 @@ The problem has been to come up with a convincing test of this part of the theor
 because the intrinsic value of a security is normally unknowable. If the price of
 Apple Inc. were too high or too low, how would we know? It turns out that there are
 classes of assets for which we can say something definitive, namely those for which
-we can use the law of one price as a test. Although we don't know the rational price
-6 Which, of course, is not to say that some other system would do better.
+we can use the law of one price as a test. Although we don't know the rati

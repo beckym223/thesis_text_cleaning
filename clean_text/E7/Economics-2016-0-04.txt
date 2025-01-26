@@ -39,5 +39,4 @@ optimize is and has always been highly implausible. For one thing, the model doe
 not take into consideration the degree of difficulty of the problem that agents are
 assumed to be "solving." Consider two games: tic-tac-toe and chess. A reasonably
 bright first grader can learn to play the optimal strategy in tic-tac-toe, and so a
-model that assumes players choose optimally in this game will be a pretty good
-' Please direct all complaints about this term directly to Matthew.
+model that assumes players choose optimally in this game will be a

@@ -11,11 +11,4 @@ auctions, for example, determine which ads to show for each word that someone is
 8
 Milgrom (2017) recounts the design of the incentive auction through which the
 US government brokered the purchase and resale of spectrum licenses owned by broadcasters so that they could be repurposed. He points out that the allocation of spectrum comes with many constraints, which makes the licenses very
-heterogeneous
-7 Prendergast (2017) describes the design of a market to efficiently allocate donated food among food banks: it
-is close to a commodity market for trade among food banks, but doesn’t use real money. For another market design
-that uses “fake money” as an allocation tool, see the work on course allocation and its implementation by Budish (2011), Budish et al. (2017), and Budish and Kessler (2017). (And compare this with other course allocation mech-
-anisms such as the ones described in Krishna and Ünver 2008, Sönmez and Ünver 2010, and Budish and Cantillon 2012. Part of market design involves examining marketplaces whose designs can be improved. In this regard, on another domain of application see, e.g., Athey and Levin 2001 on US Forest Service timber auctions.)
-
-8 For design of search auctions, see Edelman, Ostrovsky, and Schwarz (2007) and Varian (2007). For banner
-ads, see Balseiro, Besbes, and Weintraub (2015).
+heterogeneo

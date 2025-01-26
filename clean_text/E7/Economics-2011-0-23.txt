@@ -1,34 +1,3 @@
-Table 1?Comparison of the Standard Equilibrium without Currency  and the Low-Employment Equilibrium with Currency
-Variable
-Notation  No currency With currency
-Equilibrium concept
-Standard
-1.000
-1.000
-0.541
-0.541
-0.756
-0.541
-0.215
-4.644
-0.005 Low employment
-First-period employment nx  Second-period employment n2
-First-period consumption cx
-Second-period consumption c2
-First-period output yx
-Second-period output y2
-Capital stock from 1 to 2 kx
-Labor/capital ratio from 1 to ?2/^1  Interest rate from 1 to 2 rx  0.874
-1.000
-0.514
-0.526
-0.714
-0.526
-0.200
-4.995
-0.050
-and material balance,
-(14) c2 = f(n2,f(nuk0 - cx)).
 The two-period economy with currency yielding an excessive real return can have
 a low-employment equilibrium. Figure 16 shows one calculated with reasonable
 parameter values. First-period consumption is below its level in the standard equi?

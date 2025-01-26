@@ -1,8 +1,3 @@
--ss
-- - ST
-1960 1965 1970 1975 1980 1985 1990 1995 2000
-Figure 2
-Notes: Top panel: CPI inflation. Bottom panel: Bayesian posterior model weights on the  Samuelson-Solow (SS), Solow-Tobin (ST), and Lucas (L) models.
 Figures 2 and 3 taken from Cogley and Sargent (2005) frame the following puzzles. By the
 early 1970s, the data had moved the government's prior to put probability approaching one on the
 Lucas model that recommends zero inflation (see Figure 2). Why, nevertheless, was actual infla?
@@ -23,5 +18,3 @@ ability that it would be disastrous. In order for a low-inflation recommendation
 the Phelps problem, the estimated coefficients in the Samuelson-Solow and Solow-Tobin models
 had to adjust in ways that would moderate the consequences of a low-inflation policy. That hap?
 pened by the mid-1980s.39
-39 The data also indicate that Bayes's law sponsors comebacks for the Samuelson-Solow and Solow-Tobin models
-in the 1980s and 1990s One reaction that a true believer in the Lucas model might have is that Bayes's law is just too

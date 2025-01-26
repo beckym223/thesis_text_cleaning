@@ -35,5 +35,4 @@ explore the relationship between the residual gender earning gap and occupationa
 features I have used detailed occupation descriptions from 0*Net online.31
 0*Net lists hundreds of separate characteristics grouped in seven categories. The
 two categories most relevant for the issues at hand are "work context" (57 charac-
-teristics) and "work activities" (41 characteristics). Five characteristics seem most
-27 See Bertrand, Goldin, and Katz (2010) and the sections below on MBAs and lawyers.  See Goldin and Katz (2013) and the section below on pharmacists.  29 The classic article on compensating differentials is Rosen (1986).  30 Goldin and Katz (201 1, 2013) set forth a compensating differentials model with predictions for changes in the  gender gap with shifts in the costs of providing the amenity and in preferences for the amenity.  31 Occupation characteristics in 0*Net, the Department of Labor's Occupational Information Network, are com-  prehensively used by Acemoglu and Autor (201 1) to identify tasks.
+teristics) and "work activities" (41 characteristics). Five characteristics

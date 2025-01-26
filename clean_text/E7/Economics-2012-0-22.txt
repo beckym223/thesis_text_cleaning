@@ -1,14 +1,3 @@
-f 100 ©
-O
-CD
-Q
-50 -
-I I
-US Canada Russia China India Japan
--50
-Figure 12. Percentage Growth in Big Macs per Hour of Work, 2000-2007
-Note: See note to Table 5.
-Source: Author's calculation.
 attractive feature of the BMPH measure of the real wage rate is that it does not rely
 on exchange rates at all. It is a direct physical measure of the output a worker may
 purchase with an hour of work, and it is comparable over time and across space.
@@ -29,4 +18,3 @@ population, are especially noteworthy. There have been many anecdotal conjecture
 about the accuracy of Chinese growth as reflected in official accounts. The data in
 Table 5 clearly confirm considerable growth in real wage rates in China, averaging
 about 9 percent per year.
-15Unfortunately, data for some of the countries in the economic region defined as Western Europe in previous  tables was not collected in 2000, so a broad comparison for this region over the period 2000 to 2007 is not possible.  A more detailed analysis at the level of the country, rather than the region, would show a broadly similar conclusion,  but with some growth in real wage rates in Eastern Europe.

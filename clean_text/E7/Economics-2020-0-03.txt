@@ -36,10 +36,4 @@ assets. The BOJ began aggressive purchases of  longer-term securities in 2013 wi
 the advent of “Abenomics,” the set of policies advocated by Prime Minister Shinzo
 Abe. The Bank of England adopted QE more or less in parallel with the Federal
 Reserve, announcing its first major program in March 2009, a few days ahead of
-the Fed’s QE1 announcement. The BOE then periodically increased targets for
-one set of  short-term liquid securities for another. However, Christensen and Krogstrup (2014) argues that changes
-in reserves, by affecting banks’ investment decisions, can induce portfolio balance effects and thus affect yields.
-5 The ECB in particular maintained a strong distinction between financial stabilization programs and monetary
-policy, for example, by sterilizing the effects of bond purchases under its Securities Markets Program to avoid net
-changes in the money supply (Hartmann and Smets 2018). The Fed created a wide variety of emergency lending
-programs but largely phased them out by early 2010.
+the Fed’s QE1 announcement. The BOE then periodically increased targets

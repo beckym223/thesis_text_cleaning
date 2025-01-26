@@ -16,10 +16,3 @@ Interestingly and importantly however, historically, interest rates lower than
 growth rates have been more the rule than the exception, making the issue of what debt policy should be under this configuration of more than temporary interest.
 I shall limit myself here to looking at the United States since 1950, but the conclu-sion holds for a large number of countries, over long periods of time.
 4
-2 Since 1800, 10-year rolling sample averages of US real growth have always been positive, except for one
-10-year period, centered in 1930.
-3 Some have pointed to demographics as a factor likely to decrease the growth rate and increase the safe rate.
-Theory and evidence however suggest a more complex answer. A decrease in fertility implies a decrease in both
-the growth rate and the interest rate. An increase in longevity, unless accompanied by a proportional increase in the retirement age, may have no effect on the growth rate but may lead to a decrease in the interest rate. Mehrotra and Sergeyev (2018), using a calibrated overlapping generations (OLG) model, derive and discuss the effects of population growth and productivity growth on the interest-growth rate differential. In current unpublished work, Carvalho et al., extending Carvalho, Ferrero, and Nechio (2016) and also using a calibrated OLG model, conclude that demographic evolutions are likely to lead to a lower neutral interest rate in the future.
-4 Two major datasets are those put together by Shiller (1992 and updates) for the United States since 1871, and
-by Jordà et al. (2017) for 16 countries since 1870. Based on these data, Mehrotra (2017) and Barrett (2018) show that the safe rate has been typically lower on average than the growth rate. Mauro et al. (2015) look at the evidence

@@ -42,4 +42,4 @@ of assumptions in economics. But given proper scrutiny, we can see that this pas
 sage is simply a verbal sleight of hand. First of all, it is no accident that Friedman
 chooses to discuss an expert billiard player. The behavior of an expert in many
 activities may indeed be well captured by a model that assumes optimal behavior.
-But what about non-experts? Isn't economic theory supposed to be a theory about
+But what about non-experts? Isn't economic theory supposed to be a theory

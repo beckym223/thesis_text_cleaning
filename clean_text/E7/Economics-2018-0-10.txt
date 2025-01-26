@@ -13,20 +13,3 @@ To summarize, even these familiar, prosaic institutional features of the job mar
 for new economists illustrate some issues—like thickness, congestion, safety, and
 repugnance—that often arise in the study of markets through their marketplaces, and which require attention when marketplaces are designed (Roth 2008).
 33
-30 See https://www.econjobrumors.com/topic/kirk-statement-on-recent-events-and-moderation-policy. In the
-meantime, there has been an effort to organize information on twitter about the dates by which departments and
-other employers finish their interview and flyout calls. See the twitter hashtag #EJMINFO, https://twitter.com/hashtag/ejminfo?lang=en, organized for this purpose in October 2017 by Abigail Wozniak and Kasey Buckles of Notre Dame.
-
-31 See https://www.aeaweb.org/news/statement-of-the-aea-executive-committee-oct-20-2017.
-32 By late 2017 the news was also full of other kinds of sexual harassment and assault, some of it clearly crimi-
-nal, followed by high profile resignations and firings in industries from movies to tech to the appellate courts. One characteristic of many of these stories is that they began with testimony by one courageous victim, and were quickly followed by many more. There is a market design issue here. If a substantial number of assaults are committed by serial predators, but if there is danger and doubt surrounding an individual report, then it may be possible to make reporting safer and more reliable by allowing reports to be aggregated without announcement until some threshold is reached. One site that attempts to use this model in schools is Callisto (https://www.projectcallisto.org/what-we-do), which seeks to become a clearinghouse for contingent information: “Survivors can help schools identify repeat offenders using Callisto’s matching function. This option allows survivors to store information about their perpetrator under the precondition that it will only be released to the school if another student names the same perpetrator.” In this connection, see also the first 2018 issue of the CSWEP News which focuses on dealing with sexual harassment (CSWEP 2018).
-
-33 Note that similar market institutions can produce different results under different market conditions such as
-the balance between supply and demand. The Modern Language Association hosts an annual meeting (at roughly the same time as the ASSA meetings) that serves as a marketplace for interviews between departments of lan-guages and literature and candidates for assistant professorships in those fields. The field also has a centralized medium for job advertisements for full-time positions at 4-year colleges and universities in the Jobs Information List (https://www.mla.org/Resources/Career/Job-Information-List
-, b
-ut less so for the growing segment of part-time
-jobs). See MLA Office of Research (2017) and the prior annual reports (https://www.mla.org/Resources/Career/
-Job-Information-List/Reports-on-the-MLA-Job-Information-List). The computerized application processing site Interfolio (https://www.interfolio.com/dossier/) handles applications and letters of reference. But while the market
-for new economists enjoys a steadily growing number of new jobs that regularly exceeds the number of new PhDs (see Siegfried 2017), that is not the case in the markets served by the MLA. Consequently the path from PhD to tenure-track academic position is much less reliable and quick in this market (see, e.g., Ehrenberg et al 2009).
-Other academic marketplaces are organized differently, and even disciplines with supply and demand more
-similar to economics (e.g., computer science) can therefore offer very different experiences to participants.

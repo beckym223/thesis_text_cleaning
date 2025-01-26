@@ -38,9 +38,3 @@ for imputation in its simplest form is
 where yA is per capita GDP in US dollars converted at market exchange rates; using the World
 Development Indicators, 8X is typically estimated to be around 0.25. Imputed per capita GDP in
 international prices is  A. Country Coverage, Imputations, and Inequality
-(4)
-In/?, ?o + ?\ \nyA + e
-(5)
-In V/
--?o + 0
-?i) In.Va

@@ -84,6 +84,4 @@ R
 t+1  f   , which must satisfy
 
 R
-t+1  f   E [U′ ( C 2,t+1  ) ]  = E  [ R t+1  U′ ( C 2,t+1  ) ]  .
-19 Formally, Diamond looks at the effects of a change in debt rather than a transfer. But, under certainty and in
-steady state, the two are equivalent.
+t+1  f   E [U′ ( C 2,t+1  ) ]  = E  [ R t+1  U′ ( C 2,t+1  ) ] 

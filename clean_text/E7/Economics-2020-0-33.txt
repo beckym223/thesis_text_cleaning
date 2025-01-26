@@ -40,7 +40,4 @@ and Williams (2003) as well as a DSGE model, Okazaki and Sudo (2018) esti-
 mate the real neutral rate in Japan to be close to 1.0 percent. Estimates by Davis,
 Fuenzalida, and Taylor (2019) of the real neutral rate in six advanced economies
 range between roughly zero and modestly positive. If the real neutral rate is zero or
-above, and with most countries targeting inflation around 2 percent, then  shortfalls
-24 As I write, the  10-year Treasury yield is a bit below 2 percent. That is entirely consistent with the nominal
-neutral rate being in the range of  2–3 percent; it implies only that current policy is slightly accommodative. In sim-
-ulations with, say,  r   ∗  = 1 and  i   ∗  = 3, simulated  long-term rates frequently fall below their current  real-world level.
+above, and with most countries targeting inflation around 2 percent, then  shor

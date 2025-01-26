@@ -33,4 +33,3 @@ population objects that suppose that agents have finished learning.
 A. Self-Confirming Equilibrium
 A true data-generating process and an approximating model, respectively, are
 (ID  /(/>? and /(y>"|0).
-15 This description fits what they call Case 2  16 See Lucas (1976), Sargent (1999, ch 7), and Fudenberg and Levine (2007)  17 Appendix A describes a related literature on learning in games

@@ -117,10 +117,4 @@ ver the 25-year period of 10 percent, and thus a value of
 σ
 2   of 1 percent. Thus, if we think of the annual risk premium as equal to, say, 5  per-
 cent, which implies a v
-alue of the right-hand side of 1.22, this implies a value of
-
-γ
-
-,
-24 Alternatively, a lower bound on the wage distribution will work as well. But this would imply choosing an
-other distribution than the log normal.
+alue of the right-hand side of 1.22, this implies a value 

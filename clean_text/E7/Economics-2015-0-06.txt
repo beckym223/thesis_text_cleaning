@@ -39,4 +39,4 @@ A. Key Definitions on Sanctions and Coalitions
 Might coalitions of countries form cooperative arrangements or treaties that
 improve on noncooperative arrangements? Questions involving the formation,
 value, and stability of coalitions have a long history in game theory, oligopoly
-theory, as well as in environmental economics. In this section, I analyze coalitions
+theory, as well as in environmental economics. In this section, I analyze coalit

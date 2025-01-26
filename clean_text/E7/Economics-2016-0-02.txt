@@ -28,4 +28,4 @@ augment them with additional descriptive theories that are derived from data rat
 than axioms.
 As for empirical work, the behavioral approach offers the opportunity to develop
 better models of economic behavior by incorporating insights from other social sci-
-ence disciplines. To illustrate this more constructive approach, I focus on one strong
+ence disciplines. To illustrate this more constructive approach, I focus on 

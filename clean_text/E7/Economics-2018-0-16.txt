@@ -18,15 +18,3 @@ algorithm defined by Gale and Shapley, which is the basis for the more complicat
 Initially
 , each applicant applies to his/her top choice hospital, and each hospital
 h with q positions holds the top q applications among the acceptable applica-tions it receives, and rejects all others.
-49 Each residency program had a largely standard contract that was known at the time at which preferences were
-submitted.
-
-50 For applicants who are each matched to a single position, this verbal definition of stability is sufficient. For
-residency programs matched to multiple new doctors, a more precise statement is that the program would not prefer
-the applicant in question (to whom they are not matched but who prefers them) to one of those to whom they are matched, or that they would prefer the applicant to leaving a position vacant if the proposed matching did not fill all their positions. More details on the algorithms and histories can be found in Roth (2008a), and more on the math-ematics of stable matchings in Roth and Sotomayor (1990). Manlove (2013) takes a computer science perspective.
-
-51 Such participants often find ways to circumvent an unstable clearinghouse so that they can be matched: see,
-e.g., Roth (1991a) on the experience of centralized clearinghouses in different regions of the British National Health Service, some of which produced stable matchings and some of which didn’t.
-
-52 The processing of the preference lists is now computerized, but was conducted with card-sorting machinery
-in the 1950s.

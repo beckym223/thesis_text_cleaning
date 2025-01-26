@@ -1,32 +1,3 @@
-{For global SCC of $25)
-Global target carbon price that
-maximizes domestic welfare for SCC
-$25/iC02 and penalty tariff
-Region of 5 percent
-South Africa 9
-China 14
-Eurasia 14
-Southeast Asia 17
-Russia 19
-ROW 24
-United States 28
-Brazil 29
-Latin America 3 1
-India* 3 1
-Canada* 34
-Japan 38
-European Union* 38
-Sub-Saharan Africa 39
-Mideast 40
-Memorandum items ($ per ton C02)
-Global SCC 25
-Average preferred price
-GDP weights 28
-Population weights 27
-Median preferred price
-GDP weights 28
-Population weights 29
-Notes: What international target carbon price would regions prefer when the global SCC is $25  per ton? For example, the US national welfare is highest when the target price is $28 per ton.  Countries with high damages and low abatement costs such as the EU prefer high target prices.  The table shows the optima without trade effects. The optima with trade effects have higher  country-preferred target carbon prices.  * Countries with multiple local optima.
 damages. There will be second-order effects through cost-of-capital factors, GDP,
 and other economic variables. But a changed discount rate will affect the outcome
 primarily through changes in the SCC.

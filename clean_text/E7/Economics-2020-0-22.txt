@@ -38,10 +38,4 @@ estimation assumptions and sample periods. His measure also implies that the new
 policy tools delivered significant stimulus—the equivalent of setting the  short-run
 policy rate more than 5 percentage points below zero by 2013—but, like Wu and
 Xia (2016), Krippner found that monetary stimulus was more limited in the earliest
-stages of the recovery.
-18 The average quarterly  peak-to-trough change in the unemployment gap ( the unemployment rate minus
-the Congressional Budget Office estimate of the natural rate)  between 2009 and 2019 was − 0.14 percentage
-points, about the same as in previous postwar recessions. The quarterly  peak-to-trough change in the  prime-age
-employment-to-population ratio, 0.12, was noticeably lower than in the recoveries from the deep  1973–1975 and
-1981–1982 recessions but similar to other recoveries, including those following the recessions of  1990–1991
-and 2001.
+stages of the r

@@ -39,6 +39,4 @@ of the potential role for such policies have used FRB/ US or other macroeconomet
 ric models favored by central banks. These models, though motivated by economic
 theory, typically contain ad hoc elements. Their advantages are that they are  flexible,
 include substantial sectoral detail, and—having been workhorses of policy analysis
-for many years—tend to produce quantitatively plausible results in diverse scenarios.
-19 The Federal Reserve’s QE was also partially offset by a contemporaneous Treasury policy of lengthening the
-maturity of its debt issuance, a situation that should be avoided in the future (Greenwood et al. 2014).
+for many years—tend to produce quantitatively plausible results in diverse 

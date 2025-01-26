@@ -22,12 +22,3 @@ to still be present at 90
 percent as well; going ho
 wever from 100
 percent of GDP to
-41 The daily standard deviation is around 2–3 basis points, implying a 5-year standard deviation of 70–105 basis
-points. This implies that the probability that the rate, which today is 90 basis points, is larger than 200 basis points
-is 5–15
-
-percent.
-42 It feels less relevant for the United States than for other countries, in particular emerging markets. But, as the
-US debt to GDP ratio increases, it may become part of the discussion even in the United States.
-43 Under either formal or informal dynamics, the good equilibrium is stable, while the bad equilibrium is unsta-
-ble. However, what may happen in this case, is that the economy moves to a position worse than the bad equilib-rium, with interest rates and risk premia increasing over time from then on.

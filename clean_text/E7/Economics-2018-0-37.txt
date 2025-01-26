@@ -11,7 +11,4 @@ Rules are data for the study of how marketplaces are designed, and the com-
 puterization of marketplaces also gives us access to data on market rules, precisely encoded in algorithms and apps. Contracts are data too, and contracts are what is for sale in many marketplaces, including computerized marketplaces. The increased availability of precisely coded rules and contracts may lead to an explosion of empir -
 ical game theory, parallel to the growth of applied microeconomic research fostered by big datasets of individual behavior.
 Repugnance and its causes and consequences are worth much further study.
-Economists often shrink from having third parties prevent voluntary transactions
-121 Compare to Milgrom and Tadelis (2018), who reflect on machine learning in spectrum auctions, and in
-identifying problematic sellers in online marketplaces. The smart marketplaces I’ve discussed already take steps in
-the direction of helping market clearing, and market designers working with AI will also have a chance to design the agents who participate in markets.
+Economists often shrink from having third parties prevent voluntary transact

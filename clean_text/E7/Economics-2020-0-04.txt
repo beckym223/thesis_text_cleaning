@@ -44,4 +44,4 @@ imation, portfolio balance effects work by affecting the term premium, while the
 signaling effect works by influencing expectations of future short rates. Using that
 approximation to distinguish the portfolio balance and signaling channels is not
 straightforward, however, because term premiums and expected future short rates are
-not directly observable. There are also indirect effects to account for: for  example,
+not directly observable. There are also indirect effects to account for: for  

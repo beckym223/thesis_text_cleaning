@@ -26,19 +26,4 @@ First, in contrast to the results shown in Table  1 for QE1, event studies of l
 rounds of quantitative easing have tended to find much less dramatic effects. For
 example, Krishnamurthy and  Vissing-Jorgenson (2011) looked at the market reac-
 tions associated with the introduction of QE2, the second round of US quantitative
-easing. Using two identified announcement days and  one-day event windows, they
-6 Gagnon et al. (2011) also considered a larger set of eight announcement days. Using the larger set leaves the
-results of Table 1 essentially unchanged.
-7 See, e.g., Greenlaw et al. (2018). The reply to their paper by Gagnon (2018) anticipates some points I make
-here.Table 1—Responses of Asset Prices and Yields
-to QE1 Announcements
-2-year Treasuries −57
-10-year Treasuries −100
-30-year Treasuries −58
-Mortgage-backed securities −129
-AAA corporate bonds −89
-SP500 index2.30
-Notes:  One-day responses, summed over five announcement dates identi-
-fied by Gagnon et al. (2011). Yield changes are in basis points, stock price
-changes are in percentage points.
-Source: Author’s calculations
+easing. Using two identified announcement days and  one-day event windo

@@ -38,7 +38,4 @@ Results are shown for the case   r   ∗   = 1 in Table 3, and   r   ∗   = 0 
 responding nominal neutral interest rates,   i   ∗  , are in each case assumed to be the sum
 of the assumed real neutral rate,   r   ∗  , and the inflation target,   π   ∗  . In particular, the
 nominal neutral rate is 3 percent in Table 3 and 2 percent in Table 4, except for the
-two policy rules in each table that assume an inflation target higher than 2 percent.
-21 The $500 billion is roughly in 2014 dollars—roughly, because it draws from several empirical sources.
-Alternatively, the QE effects could have been calibrated to asset purchases relative to GDP or to the outstanding
-stock of Treasury securities.
+two policy rules in each table that assume an inflation target higher than 2 pe

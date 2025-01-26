@@ -44,4 +44,4 @@ tribution savings plan with this feature. Most plans, including the national UK 
 find that opt out rates are around 10 percent.
 One problem with automatic enrollment is that many plans initially enroll
 employees at a low savings rate; in the United States it is often just 3 percent of pay.
-As Madrian and Shea pointed out in their initial paper, such a low initial default
+As Madrian and Shea pointed out in their initial paper, such a low ini

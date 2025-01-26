@@ -1,28 +1,4 @@
-Figure 6. Hours, Earnings, and Characteristics of
-Occupations Fifteen Years after the JD
-10 to 34 35 to 44 45 to 54 55 hours
-Job-hours feature (mean) hours hours hours plus
-Fraction of men in bin 0.021 0.165 0.486 0.328
-Fraction of women in bin 0.243 0.218 0.359 0.180
-Fraction female (0.289) 0.830 0.353 0.229 0.185
-With children (0.698) 0.852 0.798 0.617 0.536
-Work setting:
-Law firm (0.487) 0.425 0.403 0.514 0.534
-Corporate (0.150) 0.0755 0.135 0.184 0.148
-Government (0.104) 0.0943 0.160 0.127 0.0456
-Non-practicing (0.210) 0.283 0.265 0.155 0.241
-If in a law firm :
-Partner (0.690) 0.311 0.490 0.739 0.809
-Solo practice (0.0947) 0.233 0.177 0.0646 0.0660
-Firm size mean (252) 188 252 249 278
-Firm size median (125) 30 50 140 135
-Client :
-Fortune 500 (0.248) 0.182 0.228 0.234 0.293
-"Rich" (0.0904) 0.0241 0.0900 0.0963 0.0974
-Notes: Data given here are for those working > 9 hours a week at year 15. All monetary  amounts are in 2007 dollars. The category "other" accounts for the remaining fraction for  work-setting. "Firm size," "Fortune 500," and "Rich" are all conditional on working in a law  firm. Client variables are the (average of the) fraction of time lawyers stated they worked with
-such clients.
-Source: University of Michigan Law School Alumni Survey Research Dataset, Longitudinal  Sample for individuals graduating from 1982 to 1991 who returned both the 5-year and 15-year  surveys.
 lower participation rates than JD women married to lower-income husbands or who
 do not have children but are married to a high-income husband. Using the high-
 income cutoff for the husbands of female JDs reveals that 21.6 percent of those with
-children are not in the labor force at 15 years but that 10.4 percent are not in the
+children are not in the labor force at 15 years but that 10.4 percent are not in t
