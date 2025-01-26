@@ -78,13 +78,6 @@ def fix_dash_errors_with_spaces_in_dir(dest_dir:str,commit_changes:bool):
     if commit_changes:
         git_commit(dest_dir,"Did special dash error fixing")
 
-def split_into_paras_at_length(dest_dir,min_length,commit_changes):
-    def split_text(text:str):
-        lines = text.strip().splitlines()
-        return "\n".join([l+"\n" if len(l)<(min_length) else l for l in lines])
-    apply_func_to_txt_dir(dest_dir,dest_dir,split_text)
-    if commit_changes:
-        git_commit(dest_dir,f"Broke into pararaphs when under {min_length} chars")
 
 def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 

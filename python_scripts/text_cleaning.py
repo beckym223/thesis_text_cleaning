@@ -123,3 +123,11 @@ def apply_splits_to_pages(dir_name:str,split_dict:dict[str,list[tuple[int,int]]]
             logging.error(f"Error with text splitting of {file}")
             raise
 
+@commit(commit_msg="Broke into pararaphs with short lines")
+def split_into_paras_at_length(dest_dir,min_length,commit_changes):
+    def split_text(text:str):
+        lines = text.strip().splitlines()
+        return "\n".join([l+"\n" if len(l)<(min_length) else l for l in lines])
+    apply_func_to_txt_dir(dest_dir,dest_dir,split_text)
+    logging.info(f"Broke into paragraphs when shorter than {min_length} chars")
+
