@@ -119,6 +119,8 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
     
     handle_line_breaks_across_pages(dest_dir,commit_changes=True)
 
+    split_into_paras_at_length(dest_dir,50,commit_changes)
+
 if __name__ == "__main__":
     import sys
     if len(sys.argv) != 5:

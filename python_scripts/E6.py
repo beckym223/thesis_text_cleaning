@@ -173,12 +173,7 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     handle_line_breaks_across_pages(dest_dir,commit_changes)
 
-    # apply_splits_to_pages(dest_dir,E7_SPLIT_RANGES,commit_changes)
-
-    ### TODO: ADJUST THIS so it doens't get messed up by Economics-2003-0-05.txt
-    # fix_dash_errors_with_spaces_in_dir(dest_dir,commit_changes)
-
-    # handle_quest_line_breaks(dest_dir,commit_changes)
+    split_into_paras_at_length(dest_dir,25,commit_changes)
 
 
 
