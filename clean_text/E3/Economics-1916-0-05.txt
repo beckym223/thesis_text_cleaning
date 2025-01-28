@@ -1,17 +1,17 @@
 portionment it follows that a method giving the populous states
 systematically either more members or fewer members per unit of
 population than the small states is incorrect.
-We have, then, two criteria, of a just and constitutional appor-
-tionment: first, the ratio in each state must be as near as may be
+We have, then, two criteria, of a just and constitutional apportionment:
+first, the ratio in each state must be as near as may be
 to the standard ratio; and, secondly, the method must hold the
 scales even between the large and the small states.
-The ratio either for the country or for a state is usually ex-
-pressed as the average number of persons to one representative.
+The ratio either for the country or for a state is usually expressed
+as the average number of persons to one representative.
 For example, under the apportionment law of 1911 there were
 211,877 persons to a representative. But for my purposes it is
 better to conceive that each inhabitant of the country or of a state
-has an equal interest in a representative and to express that inter-
-est in the form of a decimal, such as .000005 or .0000047 or
+has an equal interest in a representative and to express that interest
+in the form of a decimal, such as .000005 or .0000047 or
 .00000472. A further improvement gets rid of the long decimals
 by taking a round number of people, say 10,000,000, as a unit
 and computing the number of representatives to that unit. When
@@ -20,10 +20,10 @@ through ear or eye and comparisons between two ratios are more
 easily made.
 Armed with these criteria of a correct apportionment, we are
 in a position to approach the problem. Because of the historical
-interest attaching to it I will first apply the tests to the apportion-
-ment of 1832, the last made under the method of rejected frac-
-tions. The ratio used in the bill before the House was one repre-
-sentative to 47,000 people, which is equal to 213 representatives
+interest attaching to it I will first apply the tests to the apportionment
+of 1832, the last made under the method of rejected fractions.
+The ratio used in the bill before the House was one representative
+to 47,000 people, which is equal to 213 representatives
 to 10,000,000. Under this ratio Massachusetts was entitled to
 12.99 representatives and the question before Congress was, Should
 it receive 12 or 13? If it received only 12 representatives, it
