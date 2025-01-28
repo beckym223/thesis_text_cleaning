@@ -69,7 +69,9 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     remove_footnote_lines(dest_dir,E2_FOOT_LINES,commit_changes)
     
-    handle_line_breaks_across_pages(dest_dir,commit_changes=True)
+    handle_line_breaks_across_pages(dest_dir,commit_changes)
+
+    split_into_paras_at_length(dest_dir,40,commit_changes)
 
     # Run the cleaning steps
 
