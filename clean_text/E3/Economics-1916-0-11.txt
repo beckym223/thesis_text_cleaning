@@ -2,6 +2,7 @@ to one representative can be coinputed from the population
 of each state and the size of the House.
 The effect of this false start is felt in certain anomalies or paradoxes
 to which the Vinton method gives rise.
+
 A method theoretically sound should apply equally well to the
 entire range of possibilities whether of interest to Congress or not.
 The smallest possible House would consist of 49 members, 48 unapportionable
@@ -27,6 +28,7 @@ equitable, and its dissatisfaction with them had no little influence
 upon its decision to reject the report of the majority and accept
 that of the minority, substituting another number and table from
 which the Alabama paradox was absent.
+
 A method theoretically sound must be reversible. Thus, if the
 House is to contain 4J5 members, that result might be approached
 either by adding representatives seriatim from the minimum of
@@ -38,4 +40,5 @@ But if the same method had been reversed and the result approached
 by successive subtractions rather than successive additions,
 the outcome would have been just as definitely favorable to
 the small states.
+
 A method theoretically sound should hold the balance true between

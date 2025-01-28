@@ -28,6 +28,7 @@ law had been passed, and if the method of an assumed ratio
 had been used, the errors would have affected only the state in
 which they occurred, but if the Vinton method had been used they
 might have affected other states.
+
 The only way in which the method of major fractions in the
 form used in 1840 and revived in 1900 failed to meet the needs
 of Congress was that it couild not furnish for the scrutiny of

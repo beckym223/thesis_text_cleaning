@@ -13,6 +13,7 @@ usually been right in its instinctive judgment, but unable or indisposed
 to furnish a convincing defense of its decision, and that the
 theorists, while better equipped with arguments, have been defeniding
 an untenable position.
+
 The fundamental difference between the Vinton method and the
 method of major fractions, as already explained, is that the former
 starts from an assumed number of representatives and the
@@ -21,6 +22,7 @@ the question, Which is the correct point of departure? Certain
 practical considerations likely to affect the choice of Congress
 between these methods will first be presented and later the more
 theoretical arguments.
+
 The method of an assumed ratio is implied in the Constitution,
 which says, "The number of representatives shall not exceed one
 for every thirty thousand." The purpose and result of this clause

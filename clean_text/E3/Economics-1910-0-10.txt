@@ -1,6 +1,7 @@
 purchased to secure the price offered? Is it an open price,
 or restricted to a certain number of customers? Is it an
 artificial or natural price?
+
 A mistake is made in inferring that the observation of
 an economic fact is an easy operation. Observation has
 only recently been regarded as an indispensable tool of
@@ -14,6 +15,7 @@ appears to count for very little, and the student
 must begin to learn the art of observation with a new pair
 of glasses to correct the strabismus with which he has
 been previously afflicted.
+
 Certain facts are like gold in placer deposits, readily
 detected and worked out; others, however, are disguised
 and hidden in a composition, and can be extracted only by

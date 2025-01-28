@@ -32,6 +32,7 @@ State A assigned the corresponding number of representatives.
 This is the test and the only test which can be derived from
 Webster's argument. It is of great help, but it does not completely
 solve the problem.
+
 A second test, to be set beside Webster's, is suggested by the
 original object of apportionment. This was to give the more
 populous states the larger representation in the House to which

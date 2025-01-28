@@ -15,6 +15,7 @@ shortage of 10. Obviously the result giving each of them 3,
 reached by the method of major fractions, is "as near as may be."
 Obviously, too, the Vinton method results in under-representing
 the small states.
+
 For the populous states the outcome depends upon whether the
 assumed or the computed ratio is made the standard. If the assumed
 ratio is accepted, then to apportion the smaller numbers to

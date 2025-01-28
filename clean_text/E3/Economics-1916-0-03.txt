@@ -1,5 +1,6 @@
 and the other that "each state shall have at least one
 representative."
+
 Between 1790 and 1911, inclusive, two fundamentally different
 methods of apportionment were employed, one method in seven
 apportionments and the other in six. It is theoretically possible,
@@ -36,6 +37,7 @@ which all fractions larger than one half entitle the states wherein
 they occur to an additional representative. These two may be
 called the method of rejected fractions and the method of major
 fractions.
+
 After this preliminary clearing of the ground my main thesis
 may be stated as follows: The method of major fractions is the
 correct and constitutional method of apportionment.

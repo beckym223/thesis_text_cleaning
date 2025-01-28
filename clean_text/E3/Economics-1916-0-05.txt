@@ -18,6 +18,7 @@ and computing the number of representatives to that unit. When
 ratios are stated in this form, the meaning is more quickly grasped
 through ear or eye and comparisons between two ratios are more
 easily made.
+
 Armed with these criteria of a correct apportionment, we are
 in a position to approach the problem. Because of the historical
 interest attaching to it I will first apply the tests to the apportionment
@@ -35,6 +36,7 @@ entitled to 13 representatives and was defrauded by receiving only
 Daniel Webster in the Senate joined in a vigorous, though in its
 momentary effect an unsuccessful, onslaught upon a method which
 led to such results.
+
 They did not notice, however, and since that controversy ended,
 no one, I believe, has remarked, that the system of rejecting all
 fractions, even those as large as .99, confers an unjust advantage

@@ -8,11 +8,13 @@ characteristic mentioned as desirable and have no characteristic
 mentioned as undesirable in the congressional debates of the last
 eighty years. They were accepted in 1911 without any opposition
 in committee, House, or Senate.
+
 Here the case might be rested and a verdict awaited. But before
 the bar of theory, or in the judgment of an Association like ours,
 the verdict of Congress will not be conclusive. I turn, therefore,
 to an examination of the theoretical advantages and disadvantages
 of the two competing methods.
+
 The Vinton method starts with an assumed number of representatives
 and divides the constitutional population of the United
 States by that number to determine the ratio. This step involves
