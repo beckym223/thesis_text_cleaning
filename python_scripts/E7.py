@@ -83,7 +83,7 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     setup_logging(log_file)
 
-    initialize_directories(source_dir,dest_dir,False)
+    initialize_directories(source_dir,dest_dir,commit_changes)
 
     clean_headers_footers_references(dest_dir,commit_changes)
 
