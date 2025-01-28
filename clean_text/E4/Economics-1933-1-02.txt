@@ -12,6 +12,7 @@ unions do not use the traditional devices of trade unions. It may safely
 be said that the American trade-union movement in 1924-29, for the
 first time in its history, did not reflect a great period of prosperity by
 a growth of membership.
+
 The full explanation of this phenomenon is not easy, and doubtless
 many factors are responsible. The first explanation which suggests itself
 is that the area within which American trade unions operate successfully
@@ -38,6 +39,7 @@ These occupational changes are in striking contrast with those from
 1910 to 1920. In that period the gain in the occupations in which trade
 unionism is effective was at practically the same rate as the gain in the
 non-organized groups.
+
 American trade unionism remains today as it was 30 years ago,
 largely confined to the occupations included in the three census categories
 of mining, manufacturing and mechanical, including the building trades,

@@ -11,6 +11,7 @@ event it is clear that the increase in value is due to the increase in the
 fruit or the income, or to the approach of the day when there will be
 fruit or income, and is only a part of the present value of the
 future or anticipated income.
+
 Common usage, furthermore, requires that each of these items shall
 be considered as income only to the extent that it is net. For unless
 it is net it is not properly regarded as spendable. This idea is imposed
@@ -26,6 +27,7 @@ an income are often recouped in a receipt which contains the income
 as well as the return of expense and so we have that distinction between
 gross and net receipts which is sometimes carelessly called gross
 and net income.
+
 Without going into details I wish here to direct attention to the interesting
 fact that the only permissible deductions from gross receipts
 are those which Quesnay so illuminatingly called the "advances necessary
@@ -36,6 +38,7 @@ that his income has thereby been reduced. Losses of capital which are
 not recurrent are quite easily distinguishable from losses of those advances
 which are recurrent in the very nature of the processes of obtaining
 income.
+
 It was stated at the outset that the term anticipated recurrence, as
 I conceive of it, does not imply a flow. A goodly number of the best
 authorities, and quite recently Professors Fisher and Seligman, have

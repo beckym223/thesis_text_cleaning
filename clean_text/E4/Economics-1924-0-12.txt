@@ -15,6 +15,7 @@ on in the interval is sometlhing we can only assume. Similarly "accrual
 of income" apart from receipt of income is an abstraction based
 on an unprovable assumption of regularity. The reality is the receipt
 of income in instalments on recurrent occasions.
+
 In like manner the definition of capital as a "fund" is to my mind
 insufficient to distinguish it from income. The term fund as used in
 this connection has been authoritatively defined by Professor Fisher
@@ -27,6 +28,7 @@ instrument yields. It is only when the quantity is thought of as continuing
 in possession through a considerable period of time that it is
 designated as capital and that is a concept in which space is at least as
 important as time.
+
 These are indeed fine distinctions with which I have been dealing.
 Doubtless they may be regarded as unnecessarily fine in view of the
 admitted excellence of the definitions of income and of capital, which

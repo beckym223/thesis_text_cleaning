@@ -16,6 +16,7 @@ remain true? These are the questions I propose to discuss. They are
 difficult questions, and the literature of economics throws surprisingly
 little light upon them. There appear to be two general classes or
 types of opinions, and little else beside.
+
 One view-which may be called the popular or naive view, and which
 has had, I believe, few adherents among economists of standing-sees
 in war one of the normal, or eveni one of the rational, economic activities
@@ -23,6 +24,7 @@ of men. National groups are pictured as behaving like the economic man
 of our methodological mythologies, each consistently and relentlessly
 seeking its own interests. The interests of different groups clash,
 conflicts arise, and conflicts grow into war.
+
 In one way or another this view is persistently thrust before us.
 We encounter it in our newspapers, where it serves as one of the
 useful stock scenarios into which even the ordinary humdrum incidents

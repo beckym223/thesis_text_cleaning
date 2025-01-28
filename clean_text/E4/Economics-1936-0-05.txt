@@ -2,6 +2,7 @@ in the theories and assumptions which the oncoming generation will find
 useful and necessary in the positive work which it will do. Judging by
 present indications, the effect in the long run will not be one of complete
 destruction.
+
 Modern inductive and quantitative studies are already making use of
 bits of the equilibrium theory as hypotheses, although they have usually
 had to be reformulated to adapt them to the requirements of verification.
@@ -12,6 +13,7 @@ is prone to rest content when he has found one cause which
 seems sufficient to explain the general fact of disturbance, and emerges
 with a one-sided and inadequate theory. Such reasoning should be based
 on an adequate factual picture; but the factual picture alone is not sufficient.
+
 
 An interesting case is afforded by the question whether statistical studies
 reveal evidence of a tendency of price toward "normal." Construing this
@@ -28,6 +30,7 @@ acting under dynamic conditions. Instead, it seems probable that the selflimitin
 and the cumulative forces are not neatly separated from each
 other, but may represent the same forces or factors acting differently under
 different conditions.
+
 Another aspect of the static normal is the tendency to full utilization
 of the productive factors. It is obvious that actual conditions cannot fluctuate
 around this as an average, since they can depart from it in only one

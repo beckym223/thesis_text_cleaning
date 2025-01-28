@@ -31,6 +31,7 @@ the problems of dynamic economics. Even the measurement of a demand
 schedule for a manufactured product is a surprisingly baffling problem.
 In the face of these difficulties, important achievements have been made,
 and more are to be looked for in the future.
+
 Much has been done lately by mathematical and quantitative methods
 with the theory of general price levels and their changes. Here the most
 notable recent contributions have come from the other side of the water;

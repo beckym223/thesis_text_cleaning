@@ -17,6 +17,7 @@ factor tables, lowering any valuations which had proved too high, raising
 any which had proved too low; (5) finally, they would repeat this
 procedure until no further evidence of divergence from the correct
 valuations was forthcoming.
+
 I hardly need say that the crucial stage in the above procedure is
 the third, that is, the stage during which the authorities would be on
 the watch to discover one or more indications that some of the valuations

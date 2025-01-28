@@ -3,6 +3,7 @@ be placed directly or indirectly upon individual output. In the union shop
 helpers may be forced out, the number of apprentices limited, and restrictions
 placed upon the subdivision of work or upon the introduction of new
 machinery and of more economical processes.
+
 Thus the differences between union and non-union shops and also between
 one unionized shop and another are such as to make any conclusions
 as to labor costs based upon a comparison of wage rates quite insecure. Concrete
@@ -31,12 +32,14 @@ Most economists see only the lure of profit; necessity of remaining in and
 playing the game is important. Low wages and long hours often have been
 a tax, higher wages and shorter hours a premium, upon efficiency of organization
 and management.
+
 Thus only the most intensive investigation would establish the relation
 between wages increased by union pressure and labor cost and total cost of
 production or of providing a service. And certainly such investigation would
 yield diverse results. Nevertheless, it is true that unionization most frequently
 means some increase in labor costs and in total costs as well, and sometimes
 the increase is a relatively large one.
+
 When and where this is true, the question arises, who loses what organized
 labor gains in wages and working conditions? Do higher costs spell
 higher prices paid by consumers of the product, whether they be rich or

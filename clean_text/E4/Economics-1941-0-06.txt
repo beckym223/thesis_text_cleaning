@@ -9,6 +9,7 @@ into what was once a simple and elegant body of doctrine. But
 at the foundation of formal economic theory, today, there still stand concepts
 of static equilibrium, of a universe of balanced forces, of a fixed and
 essentially unchanging order.
+
 The general acceptance of the concepts we have been discussing rested
 in part on faith in the expected progressive removal of vestigial frictions. A
 nineteenth-century observer could well believe that the nations of the
@@ -29,6 +30,7 @@ order achieved in a world of conflicting needs and aims has been sorely
 shaken. Neither at home nor in our international relations do we rely upon
 the uncontrolled market to allocate resources or to effect other necessary
 economic adjustments.
+
 It is a decisive fact for our generation, and one that is crucial for economic
 thought, that we may not look to the arbitrament of the market for
 the full adjustment of means to ends, and for the unplanned solution of

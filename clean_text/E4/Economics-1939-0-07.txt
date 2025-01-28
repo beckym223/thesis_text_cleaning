@@ -20,6 +20,7 @@ cost-reducing changes in technique, partly (though this is probably a much
 less significant factor) from a reduction in the rate of interest, and partly
 from changes in the character of the output as a whole, with special reference
 to the amount of capital required to produce it.
+
 Now the rate of population growth must necessarily play an important
 role in determining the character of the output; in other words, the composition
 of the flow of final goods. Thus a rapidly growing population will
@@ -40,4 +41,5 @@ rapidly diminished. And now with the rapid cessation of population growth,
 even the widening process may slow down. Moreover it is possible that
 capital-saving inventions may cause capital formation in many industries to
 lag behind the increase in output.
+
 An interesting problem for statistical research would be to determine the

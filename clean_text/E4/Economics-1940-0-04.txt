@@ -11,6 +11,7 @@ between the long view and the short as a clash between the humane and
 the hard-hearted, although the economists of the time of course insisted
 that the policy they advocated, while immediately severe, would ultimately
 prove to be the kinder of the two to the poor.
+
 Although it is obviously not without direct relevance to present-day
 problems, I am not concerned here with the merits of this ancient controversy.
 I have cited it only to help make clear the differing turn which
@@ -22,6 +23,7 @@ orthodox economic theorist, but in the discussion of matters of economic
 policy it is often the principal characteristic by which he can be distinguished
 from other professional economists or even from the intelligent
 layman.
+
 In the day-to-day process of adapting public policy to meet felt needs,
 on the other hand, the problems always manifest themselves in the form
 of immediate pressures of one sort or another, and the legislator or
@@ -40,4 +42,5 @@ take thought as to whether the proffered solutions are likely to prove
 lasting ones. There is especially little urge to go hunting for problems
 which are not yet felt as such but which may prove troublesome in the
 distant future.
+
 It would be a mistake, however, to take for granted that the immediate

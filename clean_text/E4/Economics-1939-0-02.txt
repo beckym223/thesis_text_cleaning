@@ -6,6 +6,7 @@ growth equal to that of the pre-war decade and in excess of any other decade
 in our history. In the current decade we are adding only half this number
 to our population, and the best forecasts indicate a decline to a third
 in the decade which we are about to enter.
+
 Inadequate as the data are, it appears that the prodigious growth of
 population in the nineteenth century was something unique in history. Gathering
 momentum with the progress of modern science and transportation,
@@ -15,11 +16,13 @@ I have just noted, in the post-war decade. The upward surge began with
 relatively small accretions which rapidly swelled into a flood. But the advancing
 tide has come to a sudden halt and the accretions are dwindling
 toward zero.
+
 Thus, with the prospect of actual contraction confronting us, already we
 are in the midst of a drastic decline in the rate of population growth. Whatever
 the future decades may bring, this present fact is already upon us; and
 it behooves us as economists to take cognizance of the significance of this
 revolutionary change in our economic life.
+
 Schooled in the traditions of the Malthusian theory, economists, thinking
 in terms of static economics, have typically placed an optimistic interpretation
 upon the cessation of population growth. This indeed is also the interpretation
@@ -35,6 +38,7 @@ which can be avoided or mitigated only if economic policies, appropriate
 to the changed situation, are applied. Indeed in this shift must be
 sought a basic cause of not a few of the developments in our changing
 economy.
+
 Adam Smith regarded growth of population as at once a consequence and
 a cause of economic progress. Increasing division of labor would, he argued,
 bring about greater productivity, and this would furnish an enlarged revenue

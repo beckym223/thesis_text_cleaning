@@ -2,6 +2,7 @@ out of the present system by methods which will preserve the continuity
 of our development; or will a violent break be unavoidable? This seems
 to be the real question; and the world will not give us unlimited time to
 work out the answer.
+
 Those who, like myself, have been brought up in the liberal tradition of
 gradual change, will approach this question with a strong leaning-call
 it a prejudice if you will in favor of evolutionary rather than revolutionary
@@ -10,6 +11,7 @@ reasonable doubt. Personally, I hope most earnestly that evolutionary methods
 will prove sufficient; but I recognize that this is hope, not prophecy.
 To make it come true will be one of the most difficult things a nation ever
 undertook; but it is not yet proved impossible.
+
 If this is a true estimate of the probabilities, it places the future work
 of the economist in a very different setting from the atmosphere of relative
 stability and certainty in which our predecessors operated. It points to the
@@ -17,10 +19,13 @@ likelihood of a world full of trial-and-error experimentation, in which the
 more deliberate studies may seem fated to reach their goal, if at all, too
 late to render service. That chance some of us must take, while others grapple
 with the more immediate issues.
+
 Problems for Economists
+
 As to the technical problems facing us as economists, many have been
 dealt with at these meetings, and I shall mention only three groups by
 way of illustration.
+
 In the field of economics of wage levels, what is the character of the
 demand schedule for labor under different conditions? What are the effects
 of wage changes on the threefold function of wages (a) as incentive
@@ -28,6 +33,7 @@ to the worker, (b) as cost of production to the employer, and (c) as purchasing
 power furnishing demand for goods? Are the requirements of
 these three functions in harmony, or if not, can they be brought into
 harmony?
+
 In the theoretical field, there is a whole class of questions arising where
 a given economic change may have either self-limiting or cumulative
 effects or both, the question being to distinguish the fields within which
@@ -38,5 +44,6 @@ more for radios leave the country less to spend on other things, and
 under what conditions will it leave more? Under what conditions are
 imports a loss to our national economy and under what conditions are they
 a gain?
+
 Another large class of theoretical questions has to do with introducing
 t1me elements which have not yet been introduced into familiar concepts.

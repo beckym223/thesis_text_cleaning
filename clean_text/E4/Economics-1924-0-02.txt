@@ -9,11 +9,13 @@ interest in what is sometimes called "pure theory" I need make no
 apology for the somewhat metaphysical character of this law. It is
 not more so than is many another law which we have accepted and
 which we use daily and effectively in our work.
+
 Professor Fetter has already pointed out that human wants are
 recurrent and that income if it is to serve those wants must be recurrent.
 ' To this we may add that all the processes of production, together
 with the costs or efforts expended upon them are also periodic
 and recurrent.
+
 It would be an exaggeration, not justifiable even for rhetorical purposes,
 to say that economists have been unmindful of this law of recurrence
 or of the significance of time. But I believe that something, and
@@ -37,6 +39,7 @@ provision he is not merely anticipating the recurrence of appetite but
 is controlled by the recurrence of the seasons, and by the all important
 fact that any and every expenditure of force or of effort, whether on
 the part of nature or of himself, requires time.
+
 I have said that economists have already made important studies
 based upon time. The whole theory (and justification) of interest
 as it is ordinarily stated today is based on the distinction between

@@ -9,7 +9,9 @@ income statistics, that "one of the most serious difficulties in working
 with these data is the difficulty of definition," and supported that statement
 by propounding a long series of unanswered riddles concerning
 4
+
 income.
+
 Yet, so far as my observation goes, most other people think they
 know what income is. Many, to be sure, acknowledge difficulty in
 correlating their ideas of income with the requirements of an incometax
@@ -23,6 +25,7 @@ that he may not know what his income is. The testimony of a
 vast preponderance of witnesses would, I imagine, be that income is a
 very definite concept, of which it should be possible to frame an acceptable
 definition.
+
 Income is certainly one of the most fundamental concepts in the
 science of economics and to clarify its definition, be it to ever so small
 an extent, is worth while in itself. But in choosing this subject for
