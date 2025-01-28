@@ -42,6 +42,7 @@ if $DELETE_BRANCH; then
 fi
 # Merge the changes from the temporary branch (fast-forward only)
 git merge --squash "$TEMP_BRANCH"
+git commit 
 
 # Check if the merge was successful
 if [ $? -eq 0 ]; then
