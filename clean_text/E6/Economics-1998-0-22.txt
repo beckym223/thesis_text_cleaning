@@ -3,6 +3,7 @@ my knowledge, we have barely scratched the
 surface in studying it. I find it hard to think of
 more fertile soil for future research on the process
 of economic growth.
+
 (g) I do not think that we gain much by
 trying to express the relation between policies
 and economic growth by a series of regressions.
@@ -31,6 +32,7 @@ Bangladesh, Ceylon, and the Sudan-as well
 as others at different levels-as each strives
 to take the next upward step in the climb toward
 modernization.
+
 My view of cross-country growth regressions
 is somewhat less negative to the extent
 that they focus on the components of growth
@@ -69,12 +71,14 @@ growth seems to lie at the heart of growth
 "miracles" like those of Taiwan, Spain, Korea,
 Brazil, Indonesia, Malaysia, and China
 (among others).
+
 The springboard for the following listing of
 policy implications is the interpretation of the
 growth residual as representing real cost reduction
 and the ready acceptance that in the
 real world RCR comes in 1001 different
 forms.
+
 (a) The first key observation is that people
 must perceive real costs in order to reduce
 them. Hence, policies that impede the accurate

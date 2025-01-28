@@ -27,6 +27,7 @@ theory, with its overwhelming emphasis on
 quantity changes as equilibrating variables,
 can be founded firmly on individual
 optimizing behavior.
+
 I have referred to the fact that information
 is dispersed throughout the economy
 but have not suggested how. In the pure
@@ -70,6 +71,7 @@ managerial factor in corporate decision
 making are clearly connected with differential
 access to information about the
 firm.
+
 You may have forgotten by now, but I
 earlier promised to consider not only the
 implications of but also the causes for the

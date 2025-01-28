@@ -57,6 +57,7 @@ such taxes as the corporation income tax,
 and possible time lags in adjusting the
 strength of the incentives to changing circumstances.
 
+
 X. Market-Based Inflation-Control Plans
 A few years ago David Colander came to
 visit me and reported on a proposal by
@@ -87,8 +88,10 @@ taxes to value-added taxes, which immediately
 suggests that instead of a market in
 rights to raise prices we have a market in
 rights to value added.
+
 XI. Control with Marketable Gross
 Markup Warrants
+
 For semantic reasons I have chosen to
 speak in terms of "gross markups" rather
 than value added, as being more suggestive

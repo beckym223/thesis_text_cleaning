@@ -20,6 +20,7 @@ sizable step backward from Malthus by assuming
 that fertility and other dimensions of
 population growth are independent of wages,
 incomes, and prices.
+
 I trust that the basic properties of a simple
 neoclassical model are familiar. What may
 not be generally appreciated is that despite
@@ -52,6 +53,7 @@ a shock to the capital stock (perhaps wartime
 destruction of capital) has no long-run effect
 on the aggregate capital stock or per capita
 income.
+
 The persistent growth in per capita incomes
 during the past two centuries is no
 easier to explain within the neoclassical
@@ -76,6 +78,7 @@ fifteen years to a lack of interest in the
 analytics of growth that is a little reminiscent
 of the situation during the first half
 of the century.
+
 Fortunately, a more relevant growth model
 is available through combining the best features
 of the neoclassical and MIalthusian
@@ -88,6 +91,7 @@ of fertility and other components of population
 growth to changes in the economy, and
 that these responses can greatly influence
 economic change.
+
 I will sketch out a modified neoclassical
 model where parents choose both the number
 of children and the capital (human or

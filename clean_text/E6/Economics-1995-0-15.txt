@@ -5,6 +5,7 @@ of liberty (in terms of "game forms"), the
 impossibility problem "persists under virtually
 every plausible concept of individual
 rights" (p. 161).40
+
 The decisive move in the direction of a
 purely procedural view of liberty was made
 by Nozick (1974), responding to my social
@@ -27,6 +28,7 @@ strategy sets of the different individuals. A
 person can exercise his rights as he likes,
 subject to the strategy combination belonging
 to the permissible set.
+
 In defining what rights a person has, or in
 checking whether his rights were respected,
 there is, on this account, no need to examine
@@ -42,6 +44,7 @@ rights, in general, so dissociated from the
 effects of exercising them. This is a general
 issue that was already discussed at a broader
 level (Section VI).
+
 In some contexts, the idea of seeing rights
 in the form of permission to act can be
 quite inadequate, particularly because of

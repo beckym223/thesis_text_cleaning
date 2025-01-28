@@ -17,6 +17,7 @@ of influencing them in a favorable
 direction. Similarly, the demand oriented
 model is not going to provide much understanding
 of them.
+
 The coming problems of the industrial
 economy are not going to be wholly dealt
 with or analyzed on the basis of the general
@@ -41,6 +42,7 @@ model system. In any event, the intent is to
 move the discussion of macroeconomics
 and policy formation to a new plane of discourse.
 
+
 The discussion, thus far, has focused on
 the modeling and related policy problems
 for the modern industrial economy. The
@@ -58,6 +60,7 @@ of fixed capital treated as a limiting
 factor in production is central to understanding
 the problems facing many developing
 economies.
+
 Energy problems of production and use
 are already apparent, as are population
 control and agricultural production. Where
@@ -68,6 +71,7 @@ therefore, it is wise for the development
 economist to be forearmed with a full
 model for analysis of both supply and demand
 sides.
+
 The centrally planned economies are for
 the most part industrial economies and
 have the same needs for supply-side analysis.
@@ -87,6 +91,7 @@ or aspects; therefore, monetary
 policy must be appropriate to insure the
 smooth working of the supply side of the
 economy.
+
 In terms of the analytical apparatus
 needed to combine monetary analysis with
 the kind of supply-demand model that I
@@ -99,6 +104,7 @@ supply-side detail underlying the IS curve,
 we would turn to the complete flow-offunds
 model to provide background for the
 LM curve.
+
 It is my feeling that overall monetary and
 fiscal policies have been overworked, with
 expectations of results that are not j ustified.

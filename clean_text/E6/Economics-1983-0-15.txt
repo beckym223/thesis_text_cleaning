@@ -33,6 +33,7 @@ price are basically similar, for all have essentially
 the same information, and use essentially
 the same model of how that price is
 determined.
+
 Those who attempt to apply the concept
 of rational expectations to the stock market
 rarely state their understanding of what is

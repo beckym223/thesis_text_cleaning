@@ -24,6 +24,7 @@ in rewards and rents among people of
 different talents. All are manifestations of almost
 exactly the same basic spatial problem:
 valuing diversity.
+
 Market values are an important part of the
 story. The allocation of diversity in the economy
 is another. How are buyers and sellers
@@ -53,6 +54,7 @@ higher-quality lawyers work on the largest legal
 claims, and people exposed to higher unemployment
 risks tend to live in the same
 neighborhoods.
+
 The address analogy in spatial equilibrium
 often extends to these kinds of matches or assignments:
 goods with special attributes appeal
@@ -67,6 +69,7 @@ seeking these slots and the nature of the technologies
 that affect the personal scale of operations
 affects the distribution of rewards in
 society.
+
 Markets accommodate diversity by establishing
 prices that tend to make different things
 relatively close substitutes at the margin. Adam

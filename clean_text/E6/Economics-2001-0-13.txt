@@ -1,7 +1,9 @@
 category as a share of GDP, followed by the
 outputs of computers and communications
 equipment.
+
 B. Capital Services
+
 This subsection presents capital estimates for
 the U.S. economy for the period 1948 to 1999.20
 These begin with BEA investment data; the
@@ -13,6 +15,7 @@ based on the identification of service prices with
 marginal products of different types of capital.
 The service price estimates incorporate the cost
 of capital.21
+
 The cost of capital is an annualization factor
 that transforms the price of an asset into the
 price of the corresponding capital input.22 This

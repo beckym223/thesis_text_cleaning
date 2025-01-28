@@ -1,6 +1,7 @@
 a Lorenz-type diagram) and of negative TFP
 growth (where it is hard to even conceptualize
 a Lorenz-type picture).
+
 I first presented these diagrams before a
 large audience at the Western Economic Association
 meetings in Seattle (July 1997), and
@@ -56,6 +57,7 @@ output levels well below their previous peaks
 How much of it represents things like "labor
 hoarding" as firms go through periods of
 adversity?
+
 IL. Yeast versus Mushrooms: Part II
 I hope that in the previous section I have
 made a convincing case concerning: (a) the
@@ -81,6 +83,7 @@ we observe in aggregate TFP performance;
 and (iv) there is little evidence of
 persistence from period to period of the leaders
 in TFP performance.
+
 The above results are, I think, very interesting
 (in the sense of piquing our curiosity)
 , very strong (in terms of their implications

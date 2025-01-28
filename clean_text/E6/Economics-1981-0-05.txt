@@ -1,5 +1,6 @@
 part of the productivity growth process itself.
 
+
 And yet, manifestly, there is another side
 to the story, the side that is so much to the
 fore today. The government's roles as referee
@@ -45,17 +46,20 @@ I shall deal briefly with three matters:
 were antecedent to (which stand in the
 background of) our present troubles and its
 accompanying discontent?
+
 2) What can we now say about the
 causes of the current productivity retardation?
 In particular, to what extent is the
 retardation connected with the enlarged role
 of government and its pursuit of alternative
 social goals?
+
 3) What is the outlook for productivity
 growth, and what are the implications of
 that outlook for the further development of
 our mixed economic system?
 II
+
 In the early part of the postwar period,
 economic growth, in the aggregate and per
 capita, established itself as a premier goal of

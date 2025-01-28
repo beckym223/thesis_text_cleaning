@@ -5,6 +5,7 @@ nominal wage level in the desired direction,
 but the transitional costs are large.
 I. Some Relevant Features of the Implicit
 Contract Literature
+
 By now the literature on implicit contracts
 is so large and so diverse that I cannot do it
 justice in a brief summary. But it is necessary
@@ -13,6 +14,7 @@ paying particular attention to several key
 features that bear on the relationship between
 wage behavior and aggregate demand
 shocks.
+
 The flexible-price, market-clearing model,
 in which economic agents are price takers
 and prompt quantity adjusters, would be a
@@ -59,6 +61,7 @@ firms when the association is broken. Substantial
 bilateral monopoly rents to continuity
 are thus generated among firms and their
 experienced work force.
+
 Risk aversion introduces another reason
 for continuity of association. For at least
 some range of possible variations in the economic

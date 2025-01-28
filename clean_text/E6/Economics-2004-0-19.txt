@@ -51,6 +51,7 @@ behavior does not interfere with the ability to
 describe outcomes in this way, although it will
 generally interfere with the efficiency properties
 of equilibrium.
+
 Most social security systems lack the completeness
 that is needed to specify outcomes
 solely in terms of underlying economic variables
@@ -76,6 +77,7 @@ as extensions of sunsets of income tax changes).
 But this is not a satisfactory solution for academic
 analysts, nor for individuals who are
 making lifetime plans.
+
 We have a theory using incomplete contracts
 as part of the theory of the firm. In that theory
 agents have well-defined property rights and

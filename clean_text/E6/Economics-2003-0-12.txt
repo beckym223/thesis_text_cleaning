@@ -2,6 +2,7 @@ gains from the elimination of aggregate
 risk, and even accepting the Storesletten et al.
 view entails an upward revision of a factor of
 only about 5.
+
 The real promise of the Krusell-Smith model
 and related formulations, I think, will be in the
 study of the relation of policies that reduce the
@@ -16,6 +17,7 @@ models I have reviewed here, and it is clear that
 it will soon be possible to provide a unified
 analysis of their costs and benefits.
 VI. Other Directions
+
 My plan was to go down a list of all the
 things that could have gone wrong with my
 1987 calculations but, as I should have anticipated,
@@ -55,7 +57,9 @@ hinges on a curvature parameter on which there
 is little evidence. This is a promising frontier on
 which there is much to be done. Surely there are
 others.
+
 VII. Conclusions
+
 If business cycles were simply efficient responses
 of quantities and prices to unpredictable
 shifts in technology and preferences, there

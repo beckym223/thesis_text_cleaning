@@ -11,6 +11,7 @@ probably differ in the values they attach to
 them, or in the way they define them,3' and
 these differences could lead to sharply different
 views about policy.
+
 Another possible explanation is that there
 are positive questions embedded in the policyvalue
 questions and that health economists disagree
@@ -24,6 +25,7 @@ I take a closer look at the policy-value
 questions bearing on national health insurance
 (3, 7, 14, 15) and on insurance company underwriting
 (8, 17, 20).
+
 Consider, for instance, question 3 which
 calls for some national plan to cover the entire
 population. The 62-38 percent split among
@@ -44,6 +46,7 @@ Strongly held differences about this positive
 question could produce different answers to
 question 3 even among respondents with similar
 values.
+
 Some of the positive questions embedded in
 question 3 may be beyond the scope of conventional
 economics. For instance, Professor
@@ -53,6 +56,7 @@ more stable and harmonious society.34 Professor
 B may disagree with that prediction, and
 is therefore less inclined to support national
 health insurance.
+
 The role of embedded positive questions
 can also be easily discerned in the three questions
 (8, 17, 20) dealing with insurance company

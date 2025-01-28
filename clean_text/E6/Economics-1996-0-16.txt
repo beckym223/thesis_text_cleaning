@@ -1,6 +1,7 @@
 eliminating premium differentials. Or, it may
 reflect a reluctance to choose between conflicting
 values.
+
 Before leaving the survey it is worth considering
 what it reveals about the ability of
 health economists to disseminate their conclusions
@@ -38,6 +39,7 @@ distributions of scores is striking: 45 of the
 46 health economists had more correct answers
 than the average theorist or the average
 physician.
+
 A second possible reason for the poor understanding
 of health economics displayed by
 the politicians and the media in 1993-1994 is
@@ -50,6 +52,7 @@ professional consensus on many of these questions,
 it is not surprising that politicians and
 journalists fall back on their own values to
 shape their positions.
+
 Returning to the question posed at the beginning
 of this section about why economic
 research failed to result in a more informed
@@ -75,7 +78,9 @@ questions as that they are uncertain
 about them. In the face of such uncertainty,
 they tend to let their values drive their policy
 recommendations.
+
 III. The Future
+
 If values play such an important role in policy
 disputes, what are the implications for
 economics and economists? First, we should

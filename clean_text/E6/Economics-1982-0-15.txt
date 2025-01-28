@@ -21,6 +21,7 @@ on the world market of the Dutch by the
 English, the English by the Germans and the
 Americans, and the Americans, perhaps, by
 the Japanese.
+
 The proof of our proposition on the intertemporal
 vulnerability of incumbents to entry
 that is premature from the viewpoint of
@@ -47,6 +48,7 @@ so great that it does not pay in the initial
 construction to build capacity sufficient for
 the growth in quantity demanded that will
 occur beyond that date.
+
 The argument, like the notation, is now
 straightforward. Let y, be output in period t,
 P, be price in period t, and K(y) be the cost
@@ -61,10 +63,12 @@ at cost K(y,) and at the beginning of the
 second period it will produce the rest of the
 capacity it needs, Y2- yI >0, at the cost
 K(y2 - y ).
+
 The first requirement for the prices in
 question to be consistent with equilibrium is
 that they permit the incumbent to cover his
 costs, that is, that
+
 (1) PIYI+P2Y2 2 K(y1)+K(y2-y1).
 Second, for these prices to constitute an
 equilibrium they must protect the incumbent
@@ -81,11 +85,16 @@ to cover the cost, K(y,), of the entrant's
 once-and-for-all construction. That is, entry
 will be profitable unless
 (2) plyl + P2Y1 - K(y1).
+
 Thus, the prices in question cannot constitute
 an equilibrium unless (2) as well as (1)
 are satisfied.
+
 Now, subtracting (2) from (1) we obtain
 immediately
+
 P2(Y2-y) K(y2- yi)
+
 or
+
 (3) p2 > K(Y2-Y1Y)/(AY2-Yj),

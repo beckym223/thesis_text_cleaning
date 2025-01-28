@@ -20,6 +20,7 @@ value, independent of its level. It appears that
 the hedonic treadmill is at work, with people
 habituating to their current state, and viewing
 changes with distaste.
+
 A dramatic illustration of the endowment effect
 is the now-classic cup experiment of Jack
 L. Knetsch (1989), in which a random assignment
@@ -44,5 +45,6 @@ of money marginal utilities of a pencil should be
 the same for buyers and sellers. Then if consumers
 are neoclassically rational, there should
 be no endowment effect.
+
 Consider a market with N participants with
 values v, > "> VN, and K randomly allocated

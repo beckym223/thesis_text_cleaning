@@ -39,6 +39,7 @@ out the intellectual leaders of that development,
 prominent among them is John von
 Neumann, one of the foremost mathematicians
 of his generation.
+
 In that development process, mathematical
 economics was continuously redefined as
 new territories were included within its outward-
@@ -47,6 +48,7 @@ once at that frontier became standard parts
 of the graduate, if not of the undergraduate,
 economic-theory curriculum.
 II
+
 Before the contemporary period of the
 past five decades, theoretical physics had
 been an inaccessible ideal toward which
@@ -54,6 +56,7 @@ economic theory sometimes strove. During
 that period, this striving became a powerful
 stimulus in the mathematization of economic
 theory.
+
 The great theories of physics cover an
 immense range of phenomena with a
 supreme economy of expression. Of this,
@@ -76,6 +79,7 @@ of the two fields could not easily be unraveled;
 and, on occasion, the same scientist
 made inextricably intertwined contributions
 to both disciplines.
+
 The benefits of that special relationship
 were large for both fields; but physics did
 not completely surrender to the embrace of
@@ -87,6 +91,7 @@ constant check on its theoretical constructions,
 occasionally led its bold reasonings to
 violate knowingly the canons of mathematical
 deduction.
+
 In these directions, economic theory could
 not follow the role model offered by physical
 theory. Next to the most sumptuous

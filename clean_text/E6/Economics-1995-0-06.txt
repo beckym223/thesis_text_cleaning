@@ -1,5 +1,6 @@
 III. Social Preference, Social Choice,
 and Impossibility
+
 The preceding discussion makes abundant
 use of the idea of "social preference."
 Should it be dropped, as suggested by
@@ -19,6 +20,7 @@ society.11 This "derivative" view of social
 preference would be, formally, a binary representation
 of the choices emerging from
 decision mechanisms.
+
 The second idea of "social preference"
 as social welfare judgments-reflects a view
 of the social good: some ranking of what
@@ -31,6 +33,7 @@ or about the relative goodness of distinct
 social states, must somehow combine
 the diverse interests and preferences of different
 people.
+
 Buchanan's objection is quite persuasive
 for the first interpretation (involving decision
 mechanisms), especially since there is

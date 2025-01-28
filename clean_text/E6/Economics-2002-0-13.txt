@@ -1,5 +1,6 @@
 is reduced only if the same prices apply to all
 persons.
+
 The implausibility of invariance in any market
 equilibrium is transparent in the goods market.
 Is it possible that the marginal value of a
@@ -19,6 +20,7 @@ of One Price does not apply to characteristics,
 and their implicit value usually differs among
 categories of goods. It would be the same only
 by accident.
+
 Similarly, why should the value of another
 unit of strength to, say, an accountant be the
 same as its value to an athlete? It would be the
@@ -42,6 +44,7 @@ accountants and accountants have more quantitative
 skills than athletes. This is another important
 manifestation of sorting and stratification in
 spatial equilibria.
+
 Activity-specific prices generate comparative
 advantage. Just as differences in the relative
 abundance of sunshine to rainfall in Portugal

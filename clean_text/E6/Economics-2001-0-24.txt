@@ -6,6 +6,7 @@ investment is the largest single IT contributor in
 the late 1990's, but that investments in software
 and communications equipment are becoming
 increasingly important.
+
 Figures 8 and 9 present a similar decomposition
 of IT inputs into production. The contribution
 of these inputs is rising even more
@@ -39,6 +40,7 @@ firms, households, and governments have accumulated
 computers, software, and communications
 equipment much more rapidly than other
 forms of capital.
+
 E. Total Factor Productivity
 The price or "dual" approach to productivity
 measurement makes it possible to identify the
@@ -54,6 +56,7 @@ and the contribution of the price of semiconductors.
 For the semiconductor industry the expression
 is dominated by the decline in the price of
 semiconductors.35
+
 Jorgenson et al. (1987) have employed
 Domar's (1961) model to trace aggregate productivity
 growth to its sources at the level of

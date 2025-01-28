@@ -34,6 +34,7 @@ well be estimated with precision, depending on
 the amount and nature of the data, but it identifies
 neither a firm's nor worker's willingness to trade
 off pensions for wages.
+
 IV. Diversity and Specialization
 Specialization, division of labor, and the organization
 of work socially create much of the

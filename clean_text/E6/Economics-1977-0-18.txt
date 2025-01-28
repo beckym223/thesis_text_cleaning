@@ -1,4 +1,5 @@
 1974, 1975, and 1976.
+
 Their reasoning seems to go along the following
 lines. The natural rate hypothesis implies
 that the rate of inflation can change only when
@@ -36,8 +37,10 @@ a satisfactory answer to supply shocks just as it
 is to demand shocks-as well as, one may suspect,
 to any other conceivable illness, indisposition,
 or disorder.
+
 D. Why Constant Money Growth Cannot
 Be the Answer
+
 This reasoning is admirably simple and elegant,
 but it suffers from several flaws. The first
 one is a confusion between the price level and

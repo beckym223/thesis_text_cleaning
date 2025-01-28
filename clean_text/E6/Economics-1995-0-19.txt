@@ -1,6 +1,8 @@
 (as in traditional public choice theory)
 .
+
 IX. Concluding Remarks
+
 Perhaps I could end by briefly returning
 to the questions with which I began. Arrow's
 impossibility theorem does indeed identify a
@@ -21,6 +23,7 @@ also be used for organized procedures for
 arriving at social measures of poverty, inequality,
 distribution-adjusted real national
 incomes, and other such aggregative indicators.
+
 
 Second, Buchanan's questioning of the
 concept of social preference (and of its use
@@ -45,6 +48,7 @@ result. So Buchanan's move does not
 negate Arrow's impossibility. On the other
 hand, it is an important departure in its own
 right.
+
 Coming to terms with the impossibility
 problem in the case of social decision mechanisms
 is largely a matter of give and take
@@ -94,6 +98,7 @@ world-varying from famine prevention to
 environmental preservation-actually call
 for value formation through public discussion
 (Section VIII).
+
 On the rationality of social decisions,
 many important lessons have emerged from
 the discipline of social choice theory as well

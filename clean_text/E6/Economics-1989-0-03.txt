@@ -7,6 +7,7 @@ and constructs to orient investigation
 and interpret findings, economists risk
 the fate of the blind man studying the elephant.
 
+
 Recent excursions in vector autoregressions
 possibly aside, modem econometrics
 has generally followed the path of specifying
@@ -27,6 +28,7 @@ and making explicit or, more often, implicit
 assumptions about the relation between them
 and the relevant but unobservable expectations.
 
+
 The frailties of all this have long been
 apparent in estimation of demand and supply
 functions for individual commodities. We
@@ -36,6 +38,7 @@ increase quantities demanded. They probably
 will not, if they are associated with
 expectations of still lower prices in the
 future.
+
 Similar critical problems emerged in estimation
 of key relations in macroeconomics.
 Will an increase in the quantity of money
@@ -68,6 +71,7 @@ not only future income but expected
 length of life. We thus lack two parameters
 defining the resources per unit of time available
 for lifetime or permanent consumption.
+
 
 Difficulties are most excruciating with regard
 to investment, which is entirely forward

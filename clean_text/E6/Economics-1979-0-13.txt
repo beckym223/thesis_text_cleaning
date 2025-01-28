@@ -1,5 +1,6 @@
 energy, whether in toto (given as -.25), or
 for the two components.
+
 This completes my description of the empirical
 basis for the MRG procedures and
 the premises on which they rest. I want,
@@ -40,6 +41,7 @@ entering into these relations, and possibly
 other variables with which these variables
 are in turn linked in other pertinent relations.
 
+
 The "if ... then ..." statements are similar
 to those in the formal sciences. They
 read like logical or mathematical reasoning
@@ -58,6 +60,7 @@ think a certain record of noncontradiction
 gradually becomes one of tentative confirmation.
 But the process of confirmation
 is slow and diffuse.
+
 For some purposes, and at considerable
 expense, short cuts can be made to diminish
 the dependence on untested "ifs." I
@@ -97,6 +100,7 @@ verification of the premises of economics,
 through cumulative econometric analyses
 and through experiments that find a sponsor,
 can be pursued.
+
 I have not found in the literature a persuasive
 account of how such confirmation
 of premises can be perceived and documented.

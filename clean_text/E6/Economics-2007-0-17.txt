@@ -15,6 +15,7 @@ present discounted value of the stream of earnings
 from a unit of capital, again, as in ModiglianiMiller,
 investment is independent of the firm's
 finance decision.58
+
 The empirical testing of q-theory also has a
 striking parallel to the empirical testing of the
 consumption function. Just as Campbell and
@@ -63,8 +64,10 @@ constraints. In both cases, the empirical evidence,
 such as it is, does not support the case
 that credit-constraint explanations explain the
 theoretical anomaly.
+
 A. Theory of Excess Sensitivity of Investment
 to Cash Flow
+
 Whatever the similarities, consumption and
 investment differ in one major respect. In the
 case of investment, economists are already

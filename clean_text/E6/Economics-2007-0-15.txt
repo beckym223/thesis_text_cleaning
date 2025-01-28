@@ -9,7 +9,9 @@ entitlements and obligations to spend. Such a
 link, in turn, produces the excess sensitivity of
 consumption on current income in Keynes's
 Psychological Law.
+
 A few examples follow.
+
 * It is common practice in the United States for
 parents, even for rich ones with no budget
 constraint, to expect their children to assume
@@ -34,6 +36,7 @@ income. This gives another example in which
 norms regarding entitlements to spend are
 related to current income, in violation of the
 life-cycle hypothesis.
+
 * People's expenditures are supposed to reflect
 their stations in life, and those stations usually
 reflect their earnings. Thus, for example,

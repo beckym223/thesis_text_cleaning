@@ -16,6 +16,7 @@ Each check mark in a cell of the table indicates
 that a reference is made to that issue
 or method in my discussion of that topic of
 study.
+
 1. The Case for Helium Conservation
 This study is described in the preface to
 the report of the Helium Study Committee
@@ -35,6 +36,7 @@ depleted Cliffside gas field near
 Amarillo, Texas, is in operation. The study
 is motivated by the anticipation of a substantially
 higher future demand.
+
 The report of the Helium Study Committee
 lists, on pages 35-36, five steps that
 can be taken for the purpose of increasing
@@ -44,10 +46,12 @@ helium which has been separated from
 natural gas allocated as a feedstock to
 petro-chemical industries. Store the
 helium instead.
+
 Step ii: Designate helium currently
 stored in Cliffside a "national strategic
 reserve" for possible major technical
 changes that may greatly expand future
 demand.
+
 Step iii: Reactivate presently idle
 separation plants to reduce the release of

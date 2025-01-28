@@ -33,6 +33,7 @@ Walras and Pareto and their successors
 take over, and the analysis proceeds on the
 basis of the conditions associated with atomistic
 competition.
+
 A further example, reflecting another dimension
 of the growth of large-scale business,
 involves the conditions under which

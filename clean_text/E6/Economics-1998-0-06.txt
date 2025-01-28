@@ -20,6 +20,7 @@ of writing my 1990 paper, where I presented
 a series of tables based on Kendrick and Elliot
 S. Grossman's (1980) work. Table 2 is an
 example.
+
 Table 2 has the same format as Table 1. Column
 (1) presents the familiar measure of the
 percentage by which TFP grew, or real costs

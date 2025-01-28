@@ -48,6 +48,7 @@ often avoid them, is the superstitious belief that
 there are hidden causal forces at work, interventions
 that place the lottery in ambagious relationship
 to the rest of life.
+
 There is experimental evidence that endowment
 effects are attenuated when traders are
 experienced (see Mikhail Myagkov and Plott,
@@ -82,6 +83,7 @@ with difficult computations of options and contingencies.
 Table 3 lists some of the effects that
 impede accurate processing and maximization
 of preferences.
+
 A first limitation is that we miss many choice
 opportunities, and are barely conscious of others
 we make almost automatically. Driving an

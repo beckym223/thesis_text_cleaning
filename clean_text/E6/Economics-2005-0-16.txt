@@ -24,6 +24,7 @@ in his account until retirement, the UISA plan
 would provide the same income protection as
 the current UI system, but without any
 distortion.
+
 What about individuals who experience so
 much unemployment that they use up the funds
 in their UISA? Such individuals would be able
@@ -60,6 +61,7 @@ less than 10 percent of benefits would be
 paid to those who eventually retire with negative
 balances (or who had negative balances when our
 data sample ended).
+
 Our analysis thus implied that the UI program
 could be redesigned around individual unemployment
 insurance savings accounts in a way
@@ -71,6 +73,7 @@ amounts of lifetime unemployment. More research
 on this potential form of unemployment
 insurance would certainly be valuable.
 V. Social Security16
+
 Social Security is the largest social insurance
 program in the United States, with expenditures
 in 2003 of $470 billion, or 22 percent of total

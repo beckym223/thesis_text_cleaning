@@ -7,6 +7,7 @@ decompositions of the variance of each of the
 five variables into the fractions "explained" by
 the most recent k values of each of the five
 shocks.
+
 Shapiro and Watson apply a variety of theoretical
 principles to the interpretation of
 their estimates. They do not consistently follow
@@ -43,6 +44,7 @@ identification seems to me questionable, and in
 any case it is of an entirely different nature from
 the neutrality of nominal shocks. I will just
 lump the effects of the real shocks together, as
+
 
 Shapiro and Watson do with the two nominal
 shocks, and interpret their paper as partitioning

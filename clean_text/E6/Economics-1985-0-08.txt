@@ -19,6 +19,7 @@ type of error. But these losses are likely to be
 much smaller than the loss of the rent stream
 itself, unless the error persists for a long
 time.
+
 Thus, given Knightian uncertainty about
 economic conditions over the long length of
 job tenures, implicit contracts must allow for
@@ -92,6 +93,7 @@ relative wage adjustments to meet perceived
 permanent changes in condition be an infrequent
 occurrence and not lightly changed
 once made.
+
 In sum, modern contract theory concludes
 that relative wages will tend to be quite
 sticky in comparison to predictions from the

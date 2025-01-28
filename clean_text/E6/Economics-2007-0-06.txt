@@ -4,7 +4,9 @@ inflation. Fiscal/monetary mixes that yield different
 levels of long-term (steady) inflation will
 thus be neutral in their effects on long-term
 unemployment.
+
 D. Rational Expectations
+
 According to Rational Expectations Theory,
 a systematic response of monetary policy to the
 business cycle will have no effect on the stability
@@ -17,6 +19,7 @@ The stability of the economy is thus neutral
 with respect to the systematic reaction of monetary
 policy to the business cycle.
 E. Ricardian Equivalence
+
 According to Ricardian Equivalence, under
 somewhat special conditions, a representative
 consumer who receives a lump-sum intergenerational
@@ -29,6 +32,7 @@ to retire the increased debt incurred in
 funding the transfer to the previous generation.
 The transfer is neutral in its effect on current
 consumption.
+
 III. The Missing Motivation: Norms'2
 Each of the neutralities is based on the assumption
 that the respective decision makers
@@ -40,6 +44,7 @@ consumption-neutrality models, utility depends
 on consumption and leisure; in ModiglianiMiller,
 it depends only on the discounted real
 return to shareholders.
+
 But as early as the beginning of the twentieth
 century, Vilfredo Pareto pointed out that such
 characterizations of utility missed important aspects
@@ -54,6 +59,7 @@ in people's preferences by modifying the
 utility function to include losses in utility insofar
 as they, or others, fail to live up to their
 standards.
+
 Sociology has a further concept that gives an
 easy and natural way to add those norms to the
 utility function. Sociologists say that people

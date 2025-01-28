@@ -23,6 +23,7 @@ marginal propensity to consume out of fully
 anticipated bonuses that is much greater than
 the marginal propensity to consume out of
 monthly income.55
+
 * Retired people are commonly believed to
 tailor their consumption to a concept of
 income rather than to the value of their
@@ -31,6 +32,7 @@ viewed this as another form of mental accounting.
 They also present considerable
 evidence regarding such behavior.
 C. Summary
+
 Considerable evidence suggests that people's
 views regarding what they are entitled to spend
 play a major role in their consumption choices.
@@ -45,6 +47,7 @@ life-cycle hypothesis have left out missing motivation
 that easily justifies the excess sensitivity
 of consumption to income in Keynes's
 psychological law.
+
 VI. Investment and Cash Flow
 The debate concerning investment has been
 surprisingly close to the debate about consumption.
@@ -57,6 +60,7 @@ available to firms for investment without seeking
 outside finance.56 In contrast, the later literature
 denied any special role of liquidity in the
 investment function.
+
 The first such questioning came from
 Modigliani and Miller, who assumed that managers
 maximize shareholder value and that markets
@@ -81,6 +85,7 @@ it in the new. Investment is therefore independent
 of the firm's current financial position,
 including its current liquidity position and its
 current cash flow.
+
 The advent of q-theory similarly questioned a
 special place for current variables, such as cash
 flow and liquid asset holdings in the investment

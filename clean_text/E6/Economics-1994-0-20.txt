@@ -1,6 +1,7 @@
 not just idle intellectual curiosities. They
 affect what we feel about ourselves and the
 future.
+
 Returning to the topic of technical
 change, our expectations of what economics
 can deliver here may also be excessive. It is
@@ -23,6 +24,7 @@ models to be high or for the true residual to
 disappear. We should, however, be able to
 "explain" it better ex post even if we cannot
 predict it.
+
 The metaphor of the glass half-empty is
 also misleading. As we fill it, the glass keeps
 growing. A major aspect of learning is that

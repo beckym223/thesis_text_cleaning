@@ -21,6 +21,7 @@ long-run equilibrium if it encompasses 1,000
 producers. Thus we already have some hint
 about the equilibrium industry structure of a
 contestable market.
+
 We can go further with this example. Suppose
 that, with the given output vector for
 the industry, it turns out that no number of
@@ -32,6 +33,7 @@ lower than it can be done by one firm or
 three firms or sixty or six thousand. Then we
 say that for the given output vector the industry
 is a natural duopoly.
+
 This now tells us how the industry's structure
 can be determined. We proceed, conceptually,
 in two steps. First we determine what
@@ -40,6 +42,7 @@ production of a given output vector by a
 given industry. Next, we investigate when
 market pressures will lead the industry toward
 such an efficient structure in equilibrium.
+
 
 Now, the first step, though it has many
 intriguing analytic attributes, is essentially a
@@ -101,6 +104,7 @@ efficiently is the choice of output proportions
 firm will operate. This depends on the degree
 of complementarity in production of the
 goods, and it also lends itself to formal analysis.
+
 
 We note also that the most efficient number
 of firms will vary with the location of the

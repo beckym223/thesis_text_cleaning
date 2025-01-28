@@ -6,6 +6,7 @@ These newer tools and the institutions
 that nurture them constitute part of the
 rich and expanding resources of economics.
 
+
 Economics can also draw on a broad
 data base, especially in federal statistics.
 But here, the quantity, timeliness, and
@@ -21,6 +22,7 @@ to help overcome the curse of collinearity
 in time-series analysis, and for custombuilt
 data developed by survey and experimental
 techniques.
+
 That the human, analytical, and quantitative
 resources of economics provide a
 huge potential for solving problems seems
@@ -37,6 +39,7 @@ can only match one observer's impression
 against another's. The profession itself has
 not come to grips with this question of
 allocative efficiency.
+
 A second test in appraising the state of
 economics, one not unknown to economics,
 is that of the market place. This takes
@@ -54,6 +57,7 @@ process either as staff members or as
 expert witnesses for congressional committees,
 individual congressmen, and the
 executive branch.
+
 With students, business, and government
 beating a path to our door, we can
 infer that something must be right with
@@ -63,6 +67,7 @@ mousetrap or there are more and bigger
 mice threatening our customers. Perhaps
 it is simply that we have the only mousetraps
 in town.
+
 But there must be more to it than that.
 Take the policy maker, for example.
 What he finds congenial is that he can
@@ -82,6 +87,7 @@ GNP forecasts, but he has come to respect
 our hardheaded analysis and numbers on
 the myriad problems of economic choice
 with which he is faced.
+
 It seems fair to draw another inference:
 notwithstanding the current wave of selfcriticism
 and public criticism, even lampooning,

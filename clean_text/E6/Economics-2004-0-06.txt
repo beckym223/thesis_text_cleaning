@@ -4,6 +4,7 @@ it seems to me, is an essential property of democracy
 given divergent preferences and
 views), we must consider issues from multiple
 perspectives.11
+
 An education built around the Arrow-Debreu
 model may lead to overvaluing the fundamental
 welfare theorem. The wonderful properties of
@@ -20,7 +21,9 @@ policies, effectively doing partial first-best
 thinking rather than complete second-best
 thinking, can lead to unbalanced inferences
 about policies.12
+
 II. Annuitization
+
 Some mandate for retirement saving is not
 particularly controversial among policy-oriented
 economists, so I begin with mandatory annuitization.
@@ -38,6 +41,7 @@ penalty, direct loans) could wonder how
 much more might be paid if the investor were
 still alive provided there was no payment at all
 if the investor were no longer alive. With a
+
 
 noticeable probability of the investor's dying
 before reaching the end of the contract period

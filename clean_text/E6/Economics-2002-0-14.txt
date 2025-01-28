@@ -5,6 +5,7 @@ educational costs. They manifest the effects of a
 form of financial "noncompeting groups," as
 well as the effects of true differences in costs
 and talents.
+
 The effects of equal educational opportunities
 on the distribution of earnings depends on
 interpersonal differences in talents, abilities,
@@ -30,6 +31,7 @@ allowing selection by comparative advantage
 rather than absolute advantage. Here abilities
 and talents have different values in different
 labor-market pursuits.
+
 For example, Robert Willis and I (1979)
 modeled educational choice by combining traditional
 human-capital ideas with the theory of
@@ -61,6 +63,7 @@ who leave school early do relatively well in
 their pursuits so that simple cross-sectional estimates
 are not much different from abilitycorrected
 ones.
+
 VI. Manufactured Inequality
 The production of income is not deterministic.
 Sometimes, random forces play an important
@@ -96,6 +99,7 @@ the quality of housing, in this case proxied by
 urban amenities, and the level of consumption
 of other goods. The situation is illustrated in
 Figure 4.
+
 A consumer may choose to live in a highquality
 house, Zh, or a low-quality house, zl,
 with corresponding house prices Ph and Pl- Because

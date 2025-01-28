@@ -6,6 +6,7 @@ individual accounts if it is also assumed that
 money going into individual accounts has no
 implicit tax. Both of these assumptions seem
 wrong to me.
+
 I believe that there is wide awareness of the
 existence of some link between earnings and
 later benefits, although understanding of how
@@ -40,6 +41,7 @@ system. First I will discuss the redistribution
 across cohorts and then the use of automatic
 indexing as well as periodic legislation.
 V. Benefits by Cohort
+
 Social Security is often criticized for distorting
 labor supply and savings. Despite the linking
 of these two decisions, the issues are very
@@ -70,6 +72,7 @@ the income taxation of the return on marginal
 savings can have either sign for differently situated
 workers, although it probably includes a
 wedge on average.54
+
 A mandate to pay taxes and receive benefits
 would affect private savings even if there were
 no marginal distortion at all. Effects come from

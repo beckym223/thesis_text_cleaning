@@ -26,6 +26,7 @@ know that both sets of expectations may
 be wrong. In short, the absence of the
 market implies that the optimizer faces a
 world of uncertainty.
+
 The exact modelling of behavior under
 uncertainty is probably not crucial to the
 subsequent discussion; let us use the
@@ -43,6 +44,7 @@ of inventory theory and portfolio
 theory in the last twenty years or so
 reflects growing understanding of these
 matters.
+
 But when we speak of expected utilities,
 we need to have some probabilities. Where
 do these come from? We may in the first
@@ -75,6 +77,7 @@ access to the same observations. Hence, it
 is reasonable to infer that they will never
 come into agreement as to probabilities of
 future prices.
+
 A further implication is that the past influences
 the future. Jevons's well-known
 slogan, "bygones are forever bygones,"
@@ -87,6 +90,7 @@ It follows that present decisions with implications
 for the future are functions of
 past values of variables as well as present
 values.
+
 This point of view has been exploited in
 the econometric models which have used
 distributed lags in explaining investment

@@ -31,6 +31,7 @@ to treat technology as at least partly endogenous.
 for values (Henry J. Aaron, 1994;
 Becker, 1996; Albert 0. Hirschman, 1986;
 Assar Lindbeck, 1994).
+
 Finally, economists must develop more selfawareness
 of how our values color our judgment
 about policy, and more candor in making
@@ -64,6 +65,7 @@ economics. Finally, I identify aspects of my
 policy recommendations that are problematic
 and which would clearly benefit from additional
 research.
+
 My three major recommendations are:
 (i) a broad-based tax earmarked for health
 care to provide every American with a

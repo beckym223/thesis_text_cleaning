@@ -18,6 +18,7 @@ work is organized within the firm and
 establishment in the way that it is, what
 may be called the "social relations" of the
 production process.
+
 Some success in blending rigor and relevance
 has also been achieved in the field of
 household behavior-ranging from studies
@@ -62,6 +63,7 @@ a step in the right direction, recent attempts
 to develop a pure theory of disequilibrium
 are subject to much the same
 criticism.
+
 Rigor and relevance have been successfully
 blended in input-output analysis,
 although largely at the expense of ignoring
@@ -70,6 +72,7 @@ Here again, the emphasis is on
 engineering-type relationships, but in this
 case the entire economy is the object of
 study.
+
 Micro-economic analysis, as I have noted,
 concerns itself with "the allocation of
 scarce resources among unlimited and competing
@@ -87,6 +90,7 @@ for the personal distribution of wealth. Of
 course, we speak of "distribution," but by
 this we mean either factor prices or total
 factor shares.
+
 Why wealth and labor services, the latter
 carrying widely different market-determined
 prices, are distributed among different

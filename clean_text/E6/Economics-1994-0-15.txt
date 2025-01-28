@@ -1,6 +1,7 @@
 integrate them more efficiently into the existing
 production structures (Paul David,
 1991).
+
 Similar arguments, can be (and have been)
 made about the difficulties in measuring the
 contribution of R&D to productivity growth
@@ -46,6 +47,7 @@ manufacturing industries (Marshall Reinsdorf,
 treatment of generics in the pharmaceutical
 price indexes. The stylized facts are as follows:
 
+
 (i) Generics are introduced at roughly half
 the price of the original brand.
 (ii) The brand price, however, does not,
@@ -55,6 +57,7 @@ optimally her original position and with
 generics gaining between half and
 three-quarters of the market for the
 particular drug.
+
 (iii) But because generic versions are
 treated as separate commodities, in
 spite of what the FDA says, the price

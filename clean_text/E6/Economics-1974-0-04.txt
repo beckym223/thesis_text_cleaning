@@ -4,6 +4,7 @@ and the terms of trade adjusted until
 the decisions of the individuals are
 mutually consistent in the aggregate, i.e.,
 supply equals demand.
+
 The neoclassical theory, especially in its
 competitive form, can be and has been
 given a rich formal development. Parenthetically,
@@ -62,6 +63,7 @@ levels by recurrent alterations in fiscal or
 monetary policy is no more explicable by
 neoclassical axioms, though the falsification
 is not as conspicuous.
+
 Inequality in economic development
 among countries and among groups and
 regions within a country provides a second,

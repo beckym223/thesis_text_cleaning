@@ -16,6 +16,7 @@ For determining the behavior of aggregates,
 they discovered, realistically modeled household
 heterogeneity just does not matter very
 much.
+
 For individual behavior and welfare, of
 course, heterogeneity is everything. In the
 thought-experiments that Krusell and Smith run
@@ -36,12 +37,16 @@ individual shock on the aggregate, e = cz + 7J,
 where the residual qr is uncorrelated with z, and
 then think of an ideal stabilization policy as one
 that replaces
+
 y = az + e = (a + c)z + r1
 with
+
 y = (a + c)E(z) + *1.
+
 Not only is the direct effect of the productivity
 shock z removed but also the indirect effects of
 z on the individual employment shocks e.18 In
+
 
 this particular application, removing the variance
 of the aggregate shock is estimated to

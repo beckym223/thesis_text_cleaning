@@ -16,6 +16,7 @@ model, a one-quarter dip in the growth of money
 could not have had a perceptible effect.
 B. What Macro Stabilization Policies
 Can Accomplish, and How
+
 But recognizing that the adherence to a stable
 money growth path through much of 1974 bears
 a major responsibility for the sharp contraction
@@ -35,6 +36,7 @@ employment and the price level. There
 may be disagreement as to whether this target
 can be achieved and how, but not about the
 target itself.
+
 But in the case of supply shocks, there is no
 miracle cure-there is no macro policy which
 can both maintain a stable price level and keep
@@ -76,6 +78,7 @@ paths of inflation and associated paths of
 unemployment, and the best the macroeconomist
 can offer is policies designed to approximate
 the chosen path.
+
 In light of the above, we may ask: is it conceivable
 that a constant rate of growth of the
 money supply will provide a satisfactory response
@@ -84,6 +87,7 @@ rise to an unemployment-inflation path to which
 the country would object least?
 C. The Monetarist Prescription: Or, Constant
 Money Growth Once More
+
 The monetarists are inclined to answer this
 question affirmatively, if not in terms of the
 country's preferences, at least in terms of the

@@ -10,6 +10,7 @@ or anticipate in full color the sensations that
 outcomes produce, and the quick adaptation to
 circumstance, the hedonic treadmill.
 IV. Personal Risk
+
 What information consumes is rather obvious:
 it consumes the attention of its
 recipients. Hence a wealth of information
@@ -17,7 +18,9 @@ creates a poverty of attention, and a need
 to allocate that attention efficiently among
 the overabundance of information sources
 that might consume it.
+
 Herbert Simon, 1971
+
 A large literature from behavioral economics
 and psychology finds that people
 often make inconsistent choices, fail to
@@ -33,7 +36,9 @@ reflect their "true" preferences,
 and an exclusive reliance on choices to
 infer what people desire loses some of
 its appeal.
+
 Daniel Kahneman and
+
 Alan Krueger, forthcoming
 The biological evidence that the human brain
 is complex and layered, more an imperfect
@@ -75,6 +80,7 @@ consumer may need to be coaxed and wheedled
 into responding to market choices with sufficient
 diligence to approximate rational promo-
 tion of self-interest.
+
 Most of the evidence on consumer decisionmaking
 comes from laboratory experiments.
 Economists reviewing the experimental evidence

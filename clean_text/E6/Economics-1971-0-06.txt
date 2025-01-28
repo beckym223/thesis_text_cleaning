@@ -13,6 +13,7 @@ observed and described, could be used
 year after year, decade after decade, without
 revisions based on repeated observation.
 
+
 On the relatively shallow level where the
 empirically implemented economic analysis
 now operates even the more invariant
@@ -27,6 +28,7 @@ most parameters is practically constant
 and where critical experiments and measurements
 don't have to be repeated every
 year!
+
 Just to keep up our very modest current
 capabilities we have to maintain a steady
 flow of new data. A progressive expansion
@@ -36,6 +38,7 @@ rise of this flow. Moreover, the new, additional
 data in many instances will have to
 be qualitatively different from those provided
 hitherto.
+
 To deepen the foundation of our analytical
 system it will be necessary to reach
 unhesitatingly beyond the limits of the
@@ -53,6 +56,7 @@ which description and analysis of social,
 anthropological and demographic factors
 must obviously occupy the center of the
 stage.
+
 Establishment of systematic cooperative
 relationships across the traditional
 frontiers now separating economics from
@@ -80,6 +84,7 @@ relationships from the observed magnitudes
 of prices, outputs and other variables
 that, in our role as theoreticians, we
 treated as unknowns.
+
 Formally, nothing is, of course, wrong
 with such an apparently circular procedure.
 Moreover, the model builder in

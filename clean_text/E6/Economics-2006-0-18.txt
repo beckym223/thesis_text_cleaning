@@ -7,6 +7,7 @@ is restricted to those respondents who are in
 the Medicare-eligible population, for the purposes
 of our study defined as age 65 and older
 (N = 1996).
+
 The survey lasted about 22 minutes and covered,
 in addition to questions about Part D,
 questions about health status and conditions,
@@ -22,6 +23,7 @@ groups. Notable is the increase in the number
 of prescriptions for those who have their
 pharmacy bills paid by others, relative to those
 who pay their own bills.
+
 We find that despite the complexity of the
 Part D program's competing plans, a majority
 of the Medicare population has at least some
@@ -32,6 +34,7 @@ less informed and may fail to take advantage of
 the program. Table 6 gives the fractions of the
 Medicare population who just before enrollment
 started said they had little or no knowl-
+
 
 edge of Part D. Table 7 gives the percentages of
 the Medicare population who said just before
@@ -45,6 +48,7 @@ to enroll. The percentages are higher for those
 in good health, and those poorly informed. The
 percentage differences are small, but statistically
 significant.
+
 A revealing assessment of the consistency of
 individual intentions is obtained by comparing
 enrollment choices with the alternatives that

@@ -5,6 +5,7 @@ works in the case of an increase in demand,
 so that the responsiveness of wages and
 prices is the same on either side of the natural
 rate.
+
 The upshot is that Friedman's model also
 implies a Phillips-type relation between inflation,
 employment or unemployment, and past
@@ -15,6 +16,7 @@ head: instead of (excess) employment causing
 inflation, it is (the unexpected component of)
 the rate of inflation that causes excess
 employment.
+
 One very basic implication of Friedman's
 model is that the coefficient of price expectations
 should be precisely unity. This specification
@@ -24,6 +26,7 @@ between expected and actual price changes,
 and by the elasticity of labor supply with respect
 to the perceived real wage the long-run curve
 must be vertical.
+
 Friedman's novel twist provided a fresh prop
 for the claim that stabilization policies are not
 really needed, for, with wages flexible, except
@@ -33,6 +36,7 @@ from changes in the real money supply. Similarly,
 the fact that full employment was a razor
 edge provided new support for the claim that
 stabilization policies were bound to prove destabilizing.
+
 
 C. The Macro Rational Expectations Revolution
 But the death blow to the already badly battered
@@ -55,6 +59,7 @@ application to macro-economics, or MREH,
 associated with such authors as Lucas (1972),
 Thomas Sargent (1976), and Sargent and Neil
 Wallace (1976).
+
 The basic ingredient of MREH is the postulate
 that the workers of Friedman's model hold rational
 expectations, which turns out to have a number
@@ -85,6 +90,7 @@ These are clearly remarkable conclusions, and
 a major rediscovery for it had all been said 40
 years ago by Keynes in a well-known passage of
 The General Theory:
+
 If, indeed, labour were always in a position
 to take action (and were to do so),
 whenever there was less than full employment,

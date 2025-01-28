@@ -5,6 +5,7 @@ data in binary form. Integrated circuits were originally
 developed for data storage and retrieval and
 semiconductor storage devices became known as
 memory chips.5
+
 The first patent for the integrated circuit was
 granted to Noyce. This resulted in a decade of
 litigation over the intellectual property rights.
@@ -15,6 +16,7 @@ Kilby was awarded the Nobel Prize in Physics
 in 2000 for discovery of the integrated circuit;
 regrettably, Noyce died in 1990.6
 A. Moore's Law
+
 In 1965 Gordon E. Moore, then Research
 Director at Fairchild Semiconductor, made a
 prescient observation, later known as Moore's
@@ -38,6 +40,7 @@ developed for a calculator produced by Busicom,
 a Japanese firm. Intel retained the intellectual
 property rights and released the device
 commercially in 1971.
+
 The rapidly rising trends in the capacity of
 microprocessors and storage devices illustrate the
 exponential growth predicted by Moore's Law.
@@ -48,7 +51,9 @@ number of transistors increased by 34 percent per
 year. The rate of productivity growth for the U.S.
 economy during this period was slower by two
 orders of magnitude.
+
 B. Semiconductor Prices
+
 Moore's Law captures the fact that successive
 generations of semiconductors are faster and better.
 The economics of semiconductors begins with

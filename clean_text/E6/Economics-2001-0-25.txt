@@ -4,7 +4,9 @@ points to TFP growth for 1995-1999, compared to
 the accelerating decline in relative price
 changes resulting from shortening the product cycle
 for semiconductors.
+
 F. Output Growth
+
 This subsection presents the sources of GDP
 growth for the entire period 1948 to 1999. Capital
 services contribute 1.70 percentage points,
@@ -15,6 +17,7 @@ U.S. growth over the past half century, while
 TFP has accounted for 17.7 percent. Figure
 11 shows the relatively modest contributions of
 TFP in all subperiods.
+
 More than three-quarters of the contribution
 of capital reflects the accumulation of capital
 stock, while improvement in the quality of capital

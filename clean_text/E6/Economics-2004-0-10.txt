@@ -1,4 +1,5 @@
 B. Labor Incentives
+
 The implicitly uniform-price annuitization in
 Social Security also affects labor market incentives.
 The use of uniform annuity pricing (overall
@@ -23,6 +24,7 @@ if the alternative is no annuities.
 I conclude that having a mandated retirement
 income program provide its benefits as annuities
 is sensible.
+
 III. Workers and Families: Young Child,
 Spouse, and Survivor Benefits
 Social Security provides more than just retirement
@@ -44,6 +46,7 @@ worker benefit. He or she is also eligible for a
 spouse benefit if married to a retired worker
 beneficiary. But the total amount of benefit is
 equal to the maximum of the two benefits. Sim-
+
 
 ilarly, someone eligible for a worker benefit and
 also eligible for a survivor benefit receives only

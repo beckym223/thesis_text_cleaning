@@ -1,6 +1,7 @@
 the ephemeral substantive content of
 the argument behind the formidable front
 of algebraic signs.
+
 Professional journals have opened wide
 their pages to papers written in mathematical
 language; colleges train aspiring
@@ -28,6 +29,7 @@ model is to bring it out in a two-sector version
 or even in a still more impressive form
 of the "n-sector," that is, many-sector
 class.
+
 In the presentation of a new model,
 attention nowadays is usually centered on
 a step-by-step derivation of its formal
@@ -68,6 +70,7 @@ the model builder can secure at least some
 convenient assumptions without running
 the risk of being asked to justify them on
 empirical grounds.
+
 To sum up with the words of a recent
 president of the Econometric Society,
 " . . . the achievements of economic theory
@@ -80,6 +83,7 @@ which they give no reason to suppose will
 ever, or have ever, come about.... It
 is an unsatisfactory and slightly dishonest
 state of affairs."
+
 But shouldn't this harsh judgment be
 suspended in the face of the impressive
 volume of econometric work? The answer

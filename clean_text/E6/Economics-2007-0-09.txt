@@ -5,6 +5,7 @@ neutrality result. Indeed, we shall also see
 that in each case there will be a natural norm
 broadly consistent with Keynesians' views of
 economic behavior.21
+
 IV. Ricardian Equivalence
 We shall begin our detailed discussion with
 Ricardian equivalence. It was chronologically
@@ -23,6 +24,7 @@ parent depends directly upon her own consumption,
 in period 1; it also depends upon the utility
 of her child. That utility depends upon his consumption,
 in period 2.
+
 The parent's utility function can be expressed
 simply as U,(cl, U2(c2)), where c1 is the consumption
 of the parent, C2 is the consumption of
@@ -31,6 +33,7 @@ is the utility of the child. The parent chooses her
 consumption in period 1 to maximize her utility.
 Whatever wealth remains, she bequeaths to her
 child.
+
 Ricardian equivalence takes the following form
 in this model. Suppose that the government
 gives a transfer, which we shall call a social
@@ -41,6 +44,7 @@ consumption of a parent who maximizes the
 utility function U, and who leaves a bequest to
 her child will be unaffected by her receipt of
 social security.
+
 The logic of this result is simple. With and
 without social security the discounted value of
 consumption of the parent and of the child is
@@ -53,6 +57,7 @@ the absence of a social security payment, this
 same division of consumption between herself
 and her child will optimize her utility with a
 social security payment.
+
 A vast literature explains why such Ricardian
 equivalence is unlikely to be empirically descriptive.
 25 The long list of reasons includes (a)

@@ -23,6 +23,7 @@ shadow value - --thus bracketing contemporary
 lives together with current goods
 and services in the same category of exchangeables.
 
+
 The examples given so far concern small
 to moderate risks affecting small to moderate
 numbers of people, less than 100 at a
@@ -77,6 +78,7 @@ we are all groping in the dark, I feel I should
 describe this aspect of nuclear technology
 as an unknown risk to a very large number
 of people.
+
 I cannot see my way through to a calculus
 of the value of human lives in large
 numbers, that would help clarify issues of
@@ -92,6 +94,7 @@ paradox to be faced in any attempt to
 bring a calculus of the shadow price of
 human life to bear on problems with a long
 time span.
+
 Suppose one accepts as an ethical principle
 that, in balancing risks to human life
 in the present and in the future, equal numbers

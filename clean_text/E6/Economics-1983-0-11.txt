@@ -1,7 +1,9 @@
 by many firms as a useless and unprofitable
 course of conduct.
+
 V. The Demand for Commodities and
 the Demand for Labor
+
 I referred earlier to the case (exemplified
 by fresh flowers) in which the holding of
 inventories is by definition impossible, and
@@ -27,6 +29,7 @@ than prices of commodities, on the reasonable
 assumption that the supply of labor is
 less price elastic than the supply of cooperating
 factors of production."
+
 In fact, of course, the evidence is undeniable
 that wage rates normally fluctuate far
 less than do prices. This anomaly seems to
@@ -55,6 +58,7 @@ economic welfare even when properly used
 when badly used)-necessarily fail.
 VI. A Price-Theoretic Version of
 the Business Cycle
+
 One well-known critique of stabilization
 policy is that associated with Robert Lucas
 and Robert Barro. However, Lucas and Barro

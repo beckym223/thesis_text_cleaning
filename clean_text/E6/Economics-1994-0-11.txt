@@ -1,6 +1,7 @@
 likely, unless the relationship between inventions
 and the number of patents applied
 for has been changing.
+
 The suspicion that the relationship between
 the number of patents and the number
 of inventions (weighted by their relative
@@ -15,6 +16,7 @@ series during 1953-1968 (and earlier) and
 the essentially flat patent series. There are a
 number of not mutually exclusive possibilities
 here:
+
 (i) The fast-growing R&D expenditures,
 fueled by the new global opportunities
 that opened up in the post-World War
@@ -42,6 +44,7 @@ value, such a crowding out could raise
 average values significantly, though the
 required rate is rather on the high
 side.12
+
 It is also likely that the threshold for what
 is patentable has risen, given the large influx
 of foreign patent applications into the

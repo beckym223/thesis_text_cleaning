@@ -12,6 +12,7 @@ sometimes important ones from the policy
 point of view, and mostly quantitative ones,
 drag on and remain unresolved. Do they
 have to?
+
 With one exception I am aware of, even
 our best college-level introductory texts of
 economics do not press these questions.
@@ -23,6 +24,7 @@ how to test assumptions and to estimate
 parameters, duly emphasizing the crucial
 role of the models. What is also needed is
 to teach the tested and confirmed statements.
+
 
 VII. Aphorisms on Interactions
 After all I have said about the need for
@@ -39,47 +41,59 @@ my notes, that carried the most punch.
 A physical scientist: "Economists are
 technological radicals. They assume everything
 can be done."
+
 A geologist: "Economists have been
 too enthusiastic about deep sea mining.
 They think there is more than there is, that
 it is easier to get up than it is, and easier to
 process than it is."
+
 A development economist: "Scientists
 think big. Economists are marginalists.
 Scientists don't think in terms of opportunity
 cost."
+
 An engineer: "Economics is not dismal
 but incomplete. The things missed are very
 important."'
+
 A life scientist: "Market imperfection
 is more widespread than economists care to
 admit."
+
 An economist: "Where economists see
 the invisible hand guiding the market place
 to produce pretty good outcomes, scientists
 see only chaos."
+
 An engineer: "The economic motive is
 overrated."
+
 A psychologist: "All the conclusions
 that are drawn from the assumption of rationality
 can also be drawn from assumptions
 of adaptive behavior."
+
 A life scientist: "Economists have great
 skill in handling data. However, they tend
 to ask only for data, not for concepts and
 ideas. Drawing up a model is an interdisciplinary
 task."
+
 An engineer: "Economists often use
 smooth production functions even when
 engineers might be reluctant to do so."
 A life scientist: "Many scientists do not
 understand discounting."
+
 An engineer: "Economics is the Thermodynarnics
 of the Social Sciences. Everything
 is deduced from a few simple postulates
 without the necessity for knowing
 detailed mechanisms."
+
 VIII. Final Remarks
+
 After this instructive intermezzo, allow
 me a few final words. I will not be able to
 match the brevity and incisiveness we just

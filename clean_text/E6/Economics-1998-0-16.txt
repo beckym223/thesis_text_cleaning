@@ -6,6 +6,7 @@ estimated firm-by-firm price (of value
 added) indexes pj. For these purposes we can
 conveniently think in terms of logarithms, so
 let:
+
 V = observed value added of firm;
 pj = estimated firm-level price index;
 y, = v, - p, = estimated output;
@@ -14,7 +15,9 @@ p= = 7rj + Uj [7r, = true price index]; and
 qj = T- 7r, [true output of firm].
 We would like to have data on cj and its
 variance
+
 2 2 +
+
 If we simply work with observed value added
 as our quantity variable, we get
 a?2 = a2 + a? (assuming at0 = ?)
@@ -25,12 +28,14 @@ My presumptions are as follows:
 (i) We can estimate value added quite accurately
 at the firm level. Hence the presumption
 that ao is small.
+
 (ii) In most industries, there is considerable
 variety among the firms and their products.
 Hence, except in cases of industries
 with very homogeneous products, we
 should not expect a2 to be small. Hence,
 I expect a > a?
+
 (iii) Finally, we have the presumption that, at
 least at the level of firms within an industry,
 o7 < 0. We know that firms

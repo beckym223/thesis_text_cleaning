@@ -46,6 +46,7 @@ the effects of taxation on the total stock of
 capital, not just the composition of that stock.2
 The models used in these studies differ in their
 
+
 details, but all were variations on a one-good
 growth model in which consumers (either an
 infinitely lived dynasty or a succession of generations)
@@ -66,6 +67,7 @@ and low consumption. Taking these transition
 costs into account, overall welfare gains amount
 to perhaps 2 to 4 percent of annual consumption,
 in perpetuity.
+
 Production per adult in France is about 70
 percent of production per adult in the United
 States. Edward C. Prescott (2002) observes that
@@ -90,6 +92,7 @@ much as Americans do. It is that the utility
 consequences of doing so would be equivalent
 to a 20-percent increase in consumption with no
 increase in work effort!
+
 The gain from reducing French taxes to U.S.
 levels can in part be viewed as the gain from
 adopting a flat tax on incomes,3 but it is doubtful

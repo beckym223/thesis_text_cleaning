@@ -19,6 +19,7 @@ Vancouver, 6.5 percent. Between these
 extremes lies Japan with Tokyo 51.2 percent
 and Osaka 19.7 percent (Jean Labasse, 1974,
 pp. 144-45).
+
 One explanation for differences between
 centralized and federal states is historical:
 where larger states were formed later from
@@ -45,6 +46,7 @@ equivalent to those of continental states. If
 the mathematically minded among you need
 an analogue, think of federal states as decomposable
 matrices.
+
 The difference between a single state and a
 federation may be illustrated with two examples.
 Some years ago, Seymour Harris (1952)
@@ -73,7 +75,9 @@ deficits for a given contribution to
 joint efforts, or to maximize the contribution
 for a given deficit. They are inefficient rather
 than fair.
+
 IV
+
 But I want to move on to the geopolitical
 unit that produces public goods. It is a cliche
 that these have increased in size as costs of

@@ -15,6 +15,7 @@ for parents' relative to children's consumption
 (so-called time preference) is not
 exogenous but rises as the number of children
 increases.
+
 The resources available to parents from
 the capital they inherit and labor earnings
 are spent either on own consumption, on the
@@ -47,6 +48,7 @@ steady-state levels of the capital-labor ratio
 and per capita income. But these steady
 states depend on variables that change the
 demand for children.
+
 One example is the consequences of an
 extended but temporary decline in income
 and productivity-perhaps due to the disorganization

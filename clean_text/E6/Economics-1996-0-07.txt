@@ -34,7 +34,9 @@ Possible explanations for the failure
 of health economics research to have more
 impact on policy are explored in the next
 section.
+
 II. The Present
+
 George Stigler's Presidential Address to the
 American Economic Association in December
 1964 was distinctive in its emphasis on prophecy
@@ -64,6 +66,7 @@ research would narrow the range of partisan
 disputes and make a significant contribution to
 the reconciliation of policy differences.22 What
 went wrong?
+
 One possibility is that the research was inconclusive.
 If health economists cannot agree
 among themselves, why should their research

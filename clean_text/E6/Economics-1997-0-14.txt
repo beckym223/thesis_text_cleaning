@@ -10,6 +10,7 @@ case for free trade, rather than on the reasons
 for it. While this may be inevitable as a way
 of reasoning, the temptation to draw inappropriate
 inferences seems high.
+
 An example will illuminate the argument.
 Whereas theory suggests criteria for departures
 from laissez-faire free trade which normally
@@ -66,6 +67,7 @@ little or no guide for policy. Nonetheless, it arms
 lobbyists and others with ammunition to discredit
 technocrats' efforts to maintain a less irrational
 structure of protection.
+
 Some good theoretical papers would have
 done less damage, or at least given less aid and
 comfort to policy positions that were clearly
@@ -94,7 +96,9 @@ by a first-best economist ... it is
 therefore very unlikely that a second-best
 welfare optimum will result based on
 second-best arguments.
+
 C. Good Theory Assuming
+
 Counterfactual Situations
 The final abuse of theory was primarily a
 fault of inappropriate stylized facts. Nonetheless,

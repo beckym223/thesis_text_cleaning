@@ -4,6 +4,7 @@ return on equity is estimated to be compensation
 for long-term risk only, risk that could not be
 much reduced by short-run policies that are
 neutral in the long run.
+
 Accepting Shapiro and Watson's finding that
 less that 30 percent of output variance at
 business-cycle frequencies can be attributed to
@@ -55,6 +56,7 @@ society." Several recent studies have pursued
 this possibility.16 Doing so evidently requires
 models with incomplete risk sharing and differently
 situated agents.
+
 Krusell and Smith (1999, 2002) study a
 model economy in which individual families
 are subject to three kinds of stochastic shocks.
@@ -74,6 +76,7 @@ matches the U.S. distribution: In the
 model, the wealthiest 5 percent of households
 own 54 percent of total wealth; in reality, they
 hold 51 percent.
+
 It is essential to the substantive question that
 motivates this study that neither the employment
 shocks nor the uncertainty about the character

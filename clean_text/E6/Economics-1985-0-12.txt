@@ -3,6 +3,7 @@ temporary wage "errors" and departures
 of employment from its natural rate. But
 nominal wages would fundamentally be
 flexible.
+
 A rational expectations approach to the
 determination of the aggregate nominal wage
 and price level, however, cannot simply be
@@ -64,6 +65,7 @@ subject to substantial stochastic error and
 forecast outcomes are likely to be widely
 distributed over the population of wage-setting
 firms.
+
 In a world of auction markets, the fact
 that forecasts of individual agents are widely
 distributed around the "true" mean is for
@@ -85,6 +87,7 @@ wage decisions, would often be a wide
 one. Robert Lucas' words about the role of
 rational expectations in shaping the actions
 of economic agents are relevant in this regard:
+
 
 Neither will [rational expectations] be
 applicable in situations in which one

@@ -1,6 +1,8 @@
 to such investments recently (Eileen I.
 Collins, 1990).
+
 V. Data Woes
+
 Why are the data not better? The facts
 themselves are not in dispute. Every decade
 or so a prestigious commission or committee
@@ -24,11 +26,13 @@ can be handled in this address, but at least
 three observations come to mind:
 (i) The measurement problems are really
 hard.
+
 (ii) Economists have little clout in Washington,
 especially as far as data-collection
 activities are concerned. Moreover,
 the governmental agencies in
 these areas are balkanized and underfunded.
+
 
 (iii) We ourselves do not put enough emphasis
 on the value of data and data
@@ -40,6 +44,7 @@ catches the professional eye, not the
 quality of the raw materials in the meal,
 or the effort that went into procuring
 them (Griliches, 1986b).
+
 In many cases the desired data are unavailable
 because their measurement is really
 difficult. After decades of discussion we
@@ -70,6 +75,7 @@ components of their enterprise when
 not being outright hostile to them, research
 being cut first when a budget crunch happens
 (Triplett, 1991).
+
 Our current statistical structure is badly
 split, there is no central direction, and the
 funding is heavily politicized. How else can

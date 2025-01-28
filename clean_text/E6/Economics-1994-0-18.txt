@@ -19,6 +19,7 @@ have to figure out how to take the residual
 apart along such lines to make more
 progress in understanding its proximate
 sources.
+
 Our theories tend to assume that we are,
 indeed, at the frontier and that we can only
 either move along it or try to shift it, the
@@ -46,6 +47,7 @@ or aspects of the property-rights system
 which are likely to contribute much to the
 observed differences in productivity across
 nations.
+
 The "new" growth theories have various
 externalities as their centerpiece (see Solow
 [1991] for a recent review). It is somewhat

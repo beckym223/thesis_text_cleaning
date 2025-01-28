@@ -16,6 +16,7 @@ remove them from the inventory of gold.
 Indeed, unmined gold (and the shares of
 gold mining companies) are in effect part of
 the inventory, too.
+
 Although the price of gold has some effect
 on its rates of discovery and production, as
 well as on its consumption (in the sense of
@@ -54,6 +55,7 @@ on the current expectation of what its
 future price will be. And that future price
 will depend on the expectation then of its
 subsequent price.
+
 Such a market is best characterized by
 borrowing Keynes' parable (pp. 154-160) of
 the beauty contest, which he used to explain

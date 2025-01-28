@@ -2,6 +2,7 @@ in the industry's cost function, a,/yS,
 which is identical with that of the individual
 firm, the larger region abcd, and the infinite
 region aleph beth....
+
 Before showing why this is so we must
 pause to note the implications of the exercise.
 For it means that even a relatively
@@ -34,6 +35,7 @@ determined without benefit of the conjectural
 variation, reaction functions, and the
 other paraphernalia of standard oligopoly
 analysis.
+
 To complete this discussion of oligopoly
 equilibrium in a contestable market, it only
 remains for me to explain why the regions of

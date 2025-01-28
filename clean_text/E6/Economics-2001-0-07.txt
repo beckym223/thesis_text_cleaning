@@ -9,6 +9,7 @@ prices reported in the PPI prior to
 capture the rapid semiconductor price decline
 and the acceleration in 1994.
 D. Computers
+
 The introduction of the Personal Computer
 (PC) by IBM in 1981 was a watershed event
 in the deployment of information technology.
@@ -25,6 +26,7 @@ first version of Windows, its signature operating
 system for the PC, giving rise to the
 Wintel (Windows-Intel) nomenclature for this
 ongoing collaboration.
+
 Mainframe computers, as well as PC's, have
 come to rely heavily on logic chips for central
 processing and memory chips for main memory.
@@ -45,6 +47,7 @@ conducted at IBM. Chow documented price declines
 at more than 20 percent per year during
 1960-1965, providing an initial glimpse of the
 n'k ~~~~~~~~~13
+
 remarkable behavior of computer prices. In
 1985 the Bureau of Economic Analysis incorporated
 constant quality price indexes for computers
@@ -78,6 +81,7 @@ prices and identified computers and communications
 equipment, along with commercial aircraft,
 as assets with the highest rates of price
 decline.
+
 Figure 2 gives BEA's constant quality index
 of prices of computers and peripheral equipment
 and its components, including mainframes,

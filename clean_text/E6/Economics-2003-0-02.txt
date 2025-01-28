@@ -34,12 +34,14 @@ which a single consumer is magically relieved
 of all consumption variability about trend. How
 much average consumption would he be willing
 t
+
 o give up in return? About one-half of onetenth
 of a percent, I calculate. I will defend this
 estimate as giving the right order of magnitude
 of the potential gain to society from improved
 stabilization policies, but to do this, many questions
 need to be addressed.
+
 How much of aggregate consumption variability
 should be viewed as pathological? How
 much can or should be removed by monetary
@@ -61,6 +63,7 @@ gains larger than a tenth of a percent from better
 countercyclical policies.
 I. Welfare Analysis of Public Policies:
 Logic and Results
+
 Suppose we want to compare the effects of
 two policies, A and B say, on a single consumer.
 Under policy A the consumer's welfare is
@@ -68,7 +71,9 @@ U(CA), where CA is the consumption level he
 enjoys under that policy, and under policy B it
 is U(CB). Suppose that he prefers cB: U(CA) <
 U(csB). Let A > 0 solve
+
 U((l + A)CA) = U(CB).
+
 We call this number A-in units of a percentage
 of all consumption goods-the welfare gain of
 a change in policy from A to B. To evaluate the

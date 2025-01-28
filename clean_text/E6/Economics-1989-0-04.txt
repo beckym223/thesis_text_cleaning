@@ -15,6 +15,7 @@ look to higher future profits as a consequence
 of current investment, but little if at
 all in response to current or past values of
 these variables.
+
 But these difficulties in finding proxies for
 usually unobservable expectations of the future
 are only part of the overall problem.
@@ -40,6 +41,7 @@ about is directly relevant to the matters with
 which we are concerned. In some cases the
 confusions do not make all that much difference,
 but often they do.'
+
 I. Measures of Income and Product
 Take income for starters. We all know
 what we mean by income, don't we? Or

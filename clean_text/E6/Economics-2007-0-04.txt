@@ -38,6 +38,7 @@ of the previous generation had been
 thinking in the wrong way. In their view, scientific
 reasoning was producing a new, leaner,
 more precise economics.
+
 On the other hand, Keynesian economists, for
 the most part, reacted differently. In due course
 they came to view the neutralities as logically
@@ -62,6 +63,7 @@ menu costs, and bounded rationality. This formulation
 preserves many (but not all) Keynesian
 conclusions regarding cyclical fluctuations and
 macroeconomic policy.
+
 This lecture will suggest a new stance in
 regard to each of the five neutralities. Like New
 Classical and New Keynesian economics, it will
@@ -85,6 +87,7 @@ We shall see that, with such preferences, even
 in the absence of frictions, each of the five
 neutralities will be systematically violated. Specifically:
 
+
 * A realistic norm regarding consumption behavior
 will make consumption directly dependent
 on current income, in violation of the
@@ -92,6 +95,7 @@ neutrality of consumption given wealth;
 * A realistic norm will make investment directly
 dependent on cash flow, in violation of
 Modigliani-Miller;
+
 * A realistic norm will make wages and prices
 dependent on nominal considerations and
 thus violate natural rate theory;

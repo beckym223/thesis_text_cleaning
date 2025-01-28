@@ -31,6 +31,7 @@ last detail, once the meaning of demand in
 these contexts is carefully pulled apart and
 analyzed. The demand aspects are possibly
 overstated.
+
 It is, of course, true that demand for the
 GNP built up as the sum of demands by
 consumers, businesses, government, and
@@ -56,6 +57,7 @@ thus making it possible to supply increasing
 amounts of goods and services
 with inputs that are increasing at a somewhat
 slower rate.
+
 By focusing attention excessively on the
 "short run," in which the capital stock is
 timelessly held fixed by assumption only

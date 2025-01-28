@@ -56,6 +56,7 @@ and relative factors, rather than by fixing the
 nominal relationship in a formula and separately
 adjusting for changes in real and
 relative conditions.
+
 In any event, even if wages were fully
 indexed to prices, they would not produce
 highly flexible nominal wages in response to

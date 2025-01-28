@@ -2,6 +2,7 @@ retirement, unemployment, and health care of the
 retired population are more appropriate than payas-
 you-go programs, means-tested programs, or a
 policy of doing nothing.
+
 There is an important political economy
 reason for economists to work on improving
 the design of social insurance programs rather
@@ -34,6 +35,7 @@ behavior have all changed dramatically since then.
 And yet during these past 70 years, the key social
 insurance programs have expanded without fundamental
 change.
+
 Before I consider some of the specific ways
 in which our basic social insurance programs
 can be reformed and strengthened, I want to
@@ -68,6 +70,7 @@ I think that allowing individuals to make their
 own choices is morally correct and generally
 improves individual, and therefore social,
 well-being.
+
 But allowing choice means that programs
 should be designed so that choice enhances
 economic efficiency rather than creating deadweight
@@ -92,6 +95,7 @@ another year? If she decides to retire at age 62
 rather than 65? I'm told that there are more than
 2500 separate rules in the Social Security
 handbook.
+
 The complexity of the rules weakens the perceived
 link between the payroll taxes paid and
 SThis adjustment will provide actuarially equivalent

@@ -10,6 +10,7 @@ his famous theory of population growth and
 reaches much more pessimistic conclusions
 about the long-term economic prospects of
 the average family.
+
 You will recall that the Malthusian model
 assumes diminishing returns to increases in
 the level of population-that is, to increases
@@ -21,6 +22,7 @@ returns to the scale of labor and capital, as
 long as the capital stock, including usable
 land, does not respond to changes in wages
 and interest rates.
+
 The response of fertility and mortality to
 changes in income determine the Malthusian
 supply of population. Population grows more
@@ -37,6 +39,7 @@ Lee, 1987b, pp. 450-51). Therefore, I will
 ignore the positive effect and consider only
 the preventive check through changes in the
 number of children.
+
 The long-run equilibrium wage rate is
 found at the point on the positively inclined
 population supply curve where the average
@@ -66,6 +69,7 @@ toward equilibrium. Ultimately, this dynamic
 process restores both the wage rate
 and the level of population to their long-run
 levels.
+
 If the amount of usable land increases,
 wages rise and that stimulates higher birth
 rates. Again, the growth in population continues
@@ -92,6 +96,7 @@ the evidence). People evidently married
 earlier when wages were above the equilibrium
 level and married later when they
 were below.
+
 It is ironic that Malthus's first essay on
 population was published in 1798 at the
 close of the eighteenth century. Although his

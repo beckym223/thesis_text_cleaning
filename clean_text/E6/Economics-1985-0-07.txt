@@ -23,6 +23,7 @@ relative demand and supply of particular
 occupations or in particular local labor
 markets will also call for changes in relative
 wages around a given W.
+
 If the present value of the stream of benefits
 to workers (wages and employment probabilities)
 flowing from continuing with the
@@ -69,6 +70,7 @@ concepts, and understandings provide substantial,
 if imperfect, protection against exploitation
 but allow flexibility to deal with
 Knightian uncertainty.
+
 While very lengthy association requires
 relative wage adjustments in response to
 " unforeseeable" changes in circumstances,
@@ -88,6 +90,7 @@ costs of turnover (exit costs plus replacement
 costs) averaged $3,600, $2,300, and $10,400
 for production, clerical, and salary-exempt
 workers, respectively.
+
 Under these circumstances, erroneous signals
 can have asymmetrical results. Changes
 in wages undertaken on the mistaken identification

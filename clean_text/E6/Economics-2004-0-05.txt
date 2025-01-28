@@ -12,6 +12,7 @@ overt move to end the mandatory nature of
 Social Security as a whole. But there are calls
 for decreasing the role of annuities in Social
 Security.
+
 But first a word on the Arrow-Debreu framework.
 I have referred to it above as a way to
 describe the properties of a Pareto-optimal allocation.
@@ -71,6 +72,7 @@ available opportunities are in addition to insurance
 market limitations that come from
 market incompleteness and from asymmetric
 information.
+
 Inadequate attention to the future in general
 and its stochastic structure in particular implies
 some form of time inconsistency. Normative

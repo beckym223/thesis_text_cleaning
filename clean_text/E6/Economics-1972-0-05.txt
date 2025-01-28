@@ -68,6 +68,7 @@ infer, if by government compulsion, economy-
 wide bargaining, or social compact,
 all money wage rates could be scaled down
 together.
+
 Keynes apparently meant that relative
 wages are the arguments in labor supply
 functions. But Alchian (pp. 27-52 in Phelps
@@ -78,6 +79,7 @@ money wages are reduced will quit their
 jobs to seek employment in other markets
 where they think, perhaps mistakenly,
 that wages remain high.
+
 Keynes's explanation of money wage
 stickiness is plausible and realistic. But two
 related analytical issues have obscured the

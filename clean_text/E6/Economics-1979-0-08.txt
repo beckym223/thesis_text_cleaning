@@ -31,6 +31,7 @@ have all the laws and measurements established
 by physics and chemistry available
 to them, fully documented by experimental
 tests and results.
+
 Traditionally, economists have not
 searched for similar inputs from experimental
 or observational research of a
@@ -54,6 +55,7 @@ optimizing responses of demand and supply
 to a uniform price system: satisfaction
 maximizing by consumers, profit maximizing
 by firms.
+
 These premises have a certain intuitive
 plausibility about them. Undoubtedly, their
 widespread adoption has also been aided by

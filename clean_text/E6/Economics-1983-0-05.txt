@@ -52,6 +52,7 @@ supply or demand alter the equilibrium price,
 and, almost at once, the actual market price
 begins to reflect that change.
 II. Price Speculation
+
 However, the existence of large inventories
 also introduces the possibility of price instability
 arising from "speculation." Consider,

@@ -34,6 +34,7 @@ Asymmetric information is another candidate
 for explaining this situation, and it does
 cause an adverse selection effect on pricing that
 
+
 would discourage some individuals from annuitizing.
 While large systematic differences in
 life expectancy do exist, much of the difference
@@ -70,6 +71,7 @@ customers do not understand. I think that without
 Social Security, inadequate annuitization
 would be even more widespread than inadequate
 savings.
+
 In any event, social security systems in advanced
 countries typically provide benefits as
 annuities, annuities that are generally indexed to

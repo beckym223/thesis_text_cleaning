@@ -12,6 +12,7 @@ from private insurance. The key distinction is
 that participation in social insurance programs
 is mandatory or is induced by substantial fiscal
 subsidies.
+
 Social insurance programs are also very different
 from welfare programs. Welfare benefits
 are means tested, i.e., they are paid only to those
@@ -55,6 +56,7 @@ therefore depress income in retirement. Unemployment
 benefits with high replacement rates
 have a similar effect on saving to finance spells
 of unemployment.
+
 The lack of redistribution is well illustrated
 by the Social Security retirement program. Last
 year, a new retiree who had annual earnings at
@@ -74,6 +76,7 @@ with a dependent spouse received more than
 $32,000 a year from Social Security, while the
 widow of a low-income earner would receive
 less than $9,000 a year.
+
 The Social Security program appears to be
 redistributive because everyone pays the same
 tax rate, while the ratio of benefits to lifetime

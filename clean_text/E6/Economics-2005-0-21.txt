@@ -25,6 +25,7 @@ because of the concurrent increase in private saving.
 National saving would rise in the long run
 because the PRA savings would exceed the increased
 fiscal deficits.
+
 A mixed system would eliminate the need for
 a future increase in the Social Security payroll
 tax and would, therefore, avoid the political risk
@@ -38,6 +39,7 @@ asset-price risk could be substantially reduced
 by guarantees that could be produced by
 the private financial market.
 VI. Medicare
+
 Medicare, the federal health care program for
 those over age 65, is more difficult to reform
 than either unemployment insurance or Social
@@ -60,6 +62,7 @@ treatment of employer payments for health insurance.
 This is important in itself and suggests
 an approach that may be useful for reforming
 Medicare.
+
 The basic theory of insurance implies that a
 risk-averse individual will prefer an actuarially
 fair insurance policy to an uncertain and exogenous

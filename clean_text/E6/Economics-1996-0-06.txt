@@ -10,6 +10,7 @@ a compromise along the following lines: "Pap
 smears should be done annually; after two or
 more negative examinations the frequency can
 be decreased." 16
+
 The economist's distinction between movement
 along a function and a shift in the function
 is a very useful one. It is particularly applicable
@@ -37,6 +38,7 @@ elasticity was -0.73 (0.12) but the change from
 of -1.08, suggesting a further shift in the function,
 but not nearly so large as the shift between
 1937 and 1965.
+
 Economists have much to contribute to the
 health field. What can they expect in exchange?
 The most immediate benefit to me was the pressure
@@ -79,6 +81,7 @@ school on up to the doctoral level (Grossman,
 was the result of some underlying difference
 among individuals that affects both
 schooling and health.
+
 To explore this question I examined survey
 data on smoking behavior collected
 by colleagues in the Stanford Heart Disease

@@ -1,6 +1,8 @@
 . .. [T]he world may have its reasons for
 being non-Walrasian.
+
 Robert Solow
+
 The vast majority of our profession share
 a common view on most microeconomic
 policy issues. But we are widely split over
@@ -56,6 +58,7 @@ question is what, if anything, does
 the new research imply for the behavior of
 nominal wages? It is to this subject I want to
 give my attention.
+
 A road map will be helpful. After summarizing
 the existing literature, the first
 section concentrates on relative wage adjustments,

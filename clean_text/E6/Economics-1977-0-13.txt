@@ -27,6 +27,7 @@ IV. The Record of Stabilization Policies:
 Stabilizing or Destabilizing
 A. Was Postwar Instability Due to Unstable
 Money Growth?
+
 At this point, of course, monetarists will object
 that, over the postwar period, we have not
 had a constant money growth policy and will hint
@@ -36,6 +37,7 @@ meeting this objection squarely would be, of
 course, to rerun history with a good computer
 capable of calculating 3 percent at the helm of
 the Fed.
+
 A more feasible, if less conclusive approach
 might be to look for some extended periods in
 which the money supply grew fairly smoothly
@@ -70,6 +72,7 @@ average deviation of four quarter changes, and
 some five times larger if measured by the percentage
 deviation of the money stock from a
 constant growth trend.
+
 How did the economy fare in the two periods
 of relatively stable money growth? It is common
 knowledge that the period from 1971 to 1974, or
@@ -88,6 +91,7 @@ in 1958, the sharpest in postwar history
 except for the present one. The variability of output
 is again 50 percent larger than in the middle
 period.
+
 To be sure, in the recent episode serious exogenous
 shocks played a major role in the development
 of prices and possibly output, although the

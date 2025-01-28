@@ -1,8 +1,10 @@
 principal exogenous, also called "realization,
 " variables we chose:
+
 R1. The growth rate of real GNP, out to
 2010, in the absence of new environmental
 bounds on energy technologies.
+
 
 R2. Capital cost levels of present and potential
 future energy technologies.
@@ -11,17 +13,22 @@ various costs of extraction.
 R4. Long-run price and income elasticities
 of demand for end-use energy
 forms.
+
 The "policy" variables represent the hypothetical
 bounds already described,
 P1. Moratoria on new nuclear construction.
 
+
 P2. Limits placed on output of coal and
 shale oil.
+
 Forming a third category, the "blend" variables
 have traits of both realization and
 policy variables,
+
 Bi. Discount rates applied to future
 benefits and costs.
+
 B2. Oil import price or quantity ceilings.
 The method applied was to compare the
 already specified projection of a rising future
@@ -62,6 +69,7 @@ of the capital equipment for the extraction,
 conversion, transport, and use of
 energy-at the regular time for replacement
 or earlier.
+
 Table 2 shows the numerical results. For
 two models, with price elasticities of -.25
 and -.4, respectively, policies entailing percentage
@@ -83,6 +91,7 @@ rate of this fictitious tax must increase as
 the GNP continues to grow in spite of the
 downward pull from the zero-energy-growth
 path.
+
 Another finding, reported in row (2), was
 that for the effects of the larger cuts in
 energy use, the value of the long-run price

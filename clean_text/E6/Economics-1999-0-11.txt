@@ -6,6 +6,7 @@ for $17,000,000. A third wave is currently
 under way collecting information on the birth
 cohorts of 1942-1947 (F. Thomas Juster and
 Richard Suzman, 1995).
+
 NIA launched a second longitudinal survey
 aimed at cohorts born in 1924 or earlier years.
 This sample, which is called Asset and Health
@@ -16,6 +17,7 @@ the questions in AHEAD overlap with
 HRS, functional ability is investigated intensively
 and labor-market activity is covered
 lightly.
+
 Both HRS and AHEAD have made it possible
 to examne a wide range of issues with
 more reliable and more detailed evidence than
@@ -46,6 +48,7 @@ health without taking account of the feedback
 mechanisms or identifying within-period innovations
 in the stock of health (cf. John
 Bound et al., 1998).
+
 Such findings point to the usefulness of creating
 a prospective life-cycle sanple for an extinct
 cohort (the veteratns of the Union Army)
@@ -87,6 +90,7 @@ transition, but were more afflicted. Heria rates
 at ages 35-39, for exanmple, were more than
 three times as prevalent in the 1860's as in the
 1980's.
+
 Although the analysis of the data in the Un
 ion Army sample is still in progress, some of
 the initial findings have a bearing on forecasts

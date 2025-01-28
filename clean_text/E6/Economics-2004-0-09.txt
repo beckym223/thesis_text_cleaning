@@ -42,6 +42,7 @@ high earners relative to male low earners,
 female high earners relative to female low
 earners. A progressive benefit formula can be
 
+
 used to offset the systematic variation in life
 expectancy with earnings within genders.
 For this or any income distribution comparison,

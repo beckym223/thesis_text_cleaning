@@ -36,6 +36,7 @@ of these parts of the analysis is not difficult
 to provide. Then I can devote a bit more
 time to some details of the oligopoly and the
 intertemporal models.
+
 A. Perfect Contestability and Welfare
 The welfare properties of contestable
 markets follow almost directly from their
@@ -83,6 +84,7 @@ withstand the threat brandished by potential
 entrants who have nothing to lose by grabbing
 at any opportunity for profit, however
 transient it may be.
+
 A third welfare attribute of any long-run
 equilibrium in a contestable market is that
 no product can be sold at a price, p, that is

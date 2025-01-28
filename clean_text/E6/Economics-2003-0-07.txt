@@ -29,6 +29,7 @@ what this variance-minimizing monetary policy
 might have been, and there is no presumption
 that it would have been a policy that does not
 respond to real shocks.
+
 Shapiro and Watson applied the theoretical
 idea that nominal shocks should be neutral in
 the long run to obtain an estimate of the fraction
@@ -45,6 +46,7 @@ resulted in output variability that was about 84
 percent of actual variability.9 In a complementary
 study, S. Rao Aiyagari (1994) arrived at an
 estimate of 79 percent for the contribution of
+
 
 technology shocks, based on comovements of
 production and labor input over the cycle.
@@ -67,7 +69,9 @@ variability observed in the postwar United
 States could or should be removed by changes
 in the way monetary and fiscal policy is
 conducted.
+
 IV. Risk Aversion
+
 The estimate of the potential gains from stabilization
 reviewed in Section II rests on assumed
 consumer preferences of the constant
@@ -79,7 +83,9 @@ almost universally used in macroeconomic and
 public finance applications. The familiar formula
 for an economy's average return on capital
 under CRRA preferences,
+
 (6) r = p + yg,
+
 where g is the growth rate of consumption,
 makes it clear why fairly low 3y values must be
 used. Per capita consumption growth in the

@@ -3,6 +3,7 @@ with highly diverse experience between industries
 because the distribution of technical advances
 had wide dispersion, even for periods
 as long as a decade.
+
 Getting access to data at the firm level permits
 one to explore whether this view is compatible
 with the actual experiences of firms and
@@ -24,6 +25,7 @@ sample that Torre finally worked with. These
 firms were divided into 44 branches of industry,
 so that on average we have about 43 firms per
 branch.
+
 There are really too many ways to present
 such a mass of information as is contained in
 Torre's study. What I will do here is give the

@@ -1,5 +1,6 @@
 intervention, such as infant industry protection,
 can be called for.
+
 The problem with the argument, as a basis
 for policy, is that it fails to provide any guidance
 as to how to distinguish between an infant
@@ -15,6 +16,7 @@ is warranted. And there is nothing in the infant
 industry argument to provide guidance for
 quantifying or estimating the likely magnitude
 of the externality.
+
 Indiscriminate protection in developing
 countries was defended on infant industry
 grounds with arguments of capital market failure,
@@ -36,6 +38,7 @@ after critical examination of these circumstances
 that the defenders of the infant industry
 case for import substitution became less
 vehement.
+
 The infant industry argument also is an
 excellent example of a theory that is nonoperational
 because criteria for bureaucrats to identify
@@ -60,6 +63,7 @@ because a firm became profitable and exported
 does not prove that there was either an
 externality or a dynamic process at work! 9
 B. Negative Results
+
 Much of the theorizing that took place was
 concerned with what I call "negative results."
 That is, analysts sought to find reasons why,

@@ -22,6 +22,7 @@ our "unmeasurable" sectors (see Table 3),
 and thus its productivity effects, which are
 likely to be quite real, are largely invisible in
 the data.
+
 That there were gains is not really in
 doubt. Just observing the changes in the
 way banks and airlines operate, and in the
@@ -41,6 +42,7 @@ decline in the cost of rent-seeking induced
 by the falling price of informationprocessing
 (see Timothy Bresnahan et al.,
 1992).
+
 There is also some scattered evidence for
 the positive contribution of computers in
 manufacturing, but given the needle-in-the

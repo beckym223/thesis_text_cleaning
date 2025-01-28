@@ -30,6 +30,7 @@ the respondents' positions with regard
 to national health insurance or the actuarial approach,
 it is not their views on the seven positive
 questions.
+
 Correlations between the indexes and the six
 policy-value questions not utilized in their
 construction also are typically low, with one
@@ -41,6 +42,7 @@ clearly reject the actuarial approach for private
 insurance underwriting. The actuarial model
 index is also negatively correlated with agreement
 with question 1.
+
 The weak relationship between the positive
 questions and the two indexes is also revealed
 in Table 5, which presents the results of regressing

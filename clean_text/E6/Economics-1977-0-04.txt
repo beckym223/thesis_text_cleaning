@@ -39,6 +39,7 @@ Hicksian IS-LM paradigm, which to our generation
 of economists has become almost as familiar
 as the demand-supply paradigm was to
 earlier ones.
+
 This analysis implied that a fixed money supply
 far from insuring approximate stability of
 prices and output, as held by the traditional
@@ -79,6 +80,7 @@ and substantial delays related to expectations
 (so-called liquidity traps), fiscal policy
 was regarded as having some advantages.
 B. The Early Keynesians
+
 The early disciples of the new Keynesian
 gospel, still haunted by memories of the Great
 Depression, frequently tended to outdo Keynes'

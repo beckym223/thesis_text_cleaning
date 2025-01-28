@@ -2,6 +2,7 @@ key component of the cost of capital, required for
 assessing the impacts of rapidly growing stocks
 of computers, communications equipment, and
 software.
+
 In Section III I analyze the impact of the 1995
 acceleration in the information technology price
 decline on U.S. economic growth. I introduce a
@@ -57,6 +58,7 @@ Although several models of the
 market for semiconductors already exist, none
 explains the shift from a three-year to a twoyear
 product cycle.
+
 The dramatic effects of information technology
 on capital and labor markets have already
 generated a substantial and growing economic
@@ -67,7 +69,9 @@ merits much further study. For labor markets
 more research is needed on investment in information
 technology and substitution among different
 types of labor.
+
 I. The Information Age
+
 The development and deployment of information
 technology is the foundation of the
 American growth resurgence. A mantra of the
@@ -93,6 +97,7 @@ was constructed at Bell Labs in 1947
 and won the Nobel Prize in Physics in 1956 for
 the inventors-John Bardeen, Walter Brattain,
 and William Shockley.4
+
 The next major milestone in information technology
 was the coinvention of the integrated circuit
 by Jack Kilby of Texas Instruments in 1958

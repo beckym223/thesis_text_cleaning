@@ -21,8 +21,10 @@ sets of "present values" formed
 at successive points in time need not, and
 generally will not, be consistent with each
 other.
+
 VI. The Empirical Basis of
 Quantitative Economics
+
 I now go on to a discussion of the empirical
 basis for some of the quantitative
 statements that economics contributes to
@@ -39,6 +41,7 @@ more closely than the entire premise. It
 underlies the supply side of the MRG study
 of future energy technology mixes I have
 described.
+
 The premise of maximization of satisfaction
 by the consumer can be made more
 plausible and more applicable by a further
@@ -66,6 +69,7 @@ distinguishes demand for individual
 fuels, where the demand for one fuel increases
 if the price of another competing
 fuel goes up.
+
 These functions are then estimated from
 empirical data. In the procedure followed
 in the model with the estimated long-run
@@ -82,6 +86,7 @@ written with price as a function of quantity,
 were then integrated to estimate the benefit
 from the consumption of energy in all
 forms.
+
 By comparison, the empirical basis for
 the production side is more direct. Each of
 the various competing energy producing,

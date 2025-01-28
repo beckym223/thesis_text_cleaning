@@ -1,6 +1,7 @@
 indifferent between the deterministic stream
 and the compensated, risky stream. That is, A is
 chosen to solve
+
 (3) E: E t ((1 + A)ct) lMany
 questions have been raised about this
 estimate, and subsequent research on this issue
@@ -8,18 +9,24 @@ has pursued many of them, taking the discussion
 deep into new scientific territory. In the
 next four sections, I will review some of the
 main findings.
+
 III. Removeable Variance: Two Estimates
 (Aegt)l -Y
+
 t=0
+
 where ct is given by (1). Canceling, taking logs,
 and collecting terms gives
 (4) A ^ YI '2.
+
 A 2 y r
+
 This compensation parameter A-the welfare
 gain from eliminating consumption riskdepends,
 naturally enough, on the amount of
 risk that is present, cr2, and the aversion people
 have for this risk, y.
+
 We can get an initial idea of the value to the
 economy as a whole of removing aggregate risk
 by viewing this agent as representative of U.S.
@@ -41,6 +48,7 @@ from fiscal and monetary policy changes that I
 cited above, this estimate seems trivially small:
 more than an order of magnitude smaller than
 the gain from ending a 10-percent inflation!
+
 
 Even if we do not know exactly how much
 consumption risk would be removed by an optimal

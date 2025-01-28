@@ -20,6 +20,7 @@ competing perspective is that IT has produced a
 fundamental change in the U.S. economy, leading
 to a permanent improvement in growth
 prospects.
+
 The relentless decline in the prices of information
 technology equipment has steadily enhanced
 the role of IT investment as a source of American
@@ -52,6 +53,7 @@ from three years to two years that
 took place in 1995 as the consequence of intensifying
 competition in markets for semiconductor
 products.
+
 In Section II I outline a framework for analyzing
 the role of information technology in the
 American growth resurgence. Constant quality

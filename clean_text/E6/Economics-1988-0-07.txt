@@ -13,6 +13,7 @@ return again equals the given rate of time
 preference. In public finance jargon, a tax on
 capital would be fully shifted in the long
 run.
+
 A difficulty with this conclusion is the
 neoclassical assumption that fertility is fixed,
 which is especially inappropriate for very
@@ -39,6 +40,7 @@ eventually shifted by more than 100 percent!
 Let me assure the theorists that this strange
 result does not violate the second-order conditions.
 
+
 Does a negative relation between fertility
 and per capita income imply that children
 are an "inferior" good (to use the economist's
@@ -55,6 +57,7 @@ effect often dominates the income
 effect in rich countries, for child care in these
 countries requires considerable time and energy
 of parents.
+
 If fertility is negatively related to per capita
 income, an increase in the capital-labor ratio
 above its steady-state level would reduce
@@ -87,6 +90,7 @@ but without continuing technological progress
 eventually moves to a stable steady
 state with low fertility and high per capita
 incomes.
+
 A promising approach to sustained growth
 that complements the role of fertility builds
 on the special properties of education and

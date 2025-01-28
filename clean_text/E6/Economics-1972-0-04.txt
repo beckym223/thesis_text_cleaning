@@ -4,6 +4,7 @@ sufficient conditioin was an inflationary
 gap, real aggregate (lemand in excess of
 feasible supply. T he modlel was tailormade
 for wartime inflation.
+
 Postwar experience destroyed the identification
 of full employmeint with the
 economy's inflation threshold. The profession,
@@ -60,6 +61,7 @@ Higher prices or faster inflation can
 even though voluntary, eqluilibrium
 labor supply is entirely free of
 money illusion.
+
 Third, various criteria of full employment
 coincide in a theoretical full stationary
 eqjuilibrium, but diverge in persistent
@@ -83,8 +85,10 @@ costs of inflation. I shall conclude with a
 few remarks on this choice, and on the
 possibilities of improving the terms of the
 tradeoff.
+
 II. Keynesian and Classical Interpretations
 of Unemployment
+
 To begin with the General Theory is not
 just the ritual piety economists of my
 generation owe the book that shaped their

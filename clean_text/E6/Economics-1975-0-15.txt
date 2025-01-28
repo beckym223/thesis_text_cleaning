@@ -14,6 +14,7 @@ of the multiplier, "a fiscal policy planner
 will not often be led astray if he uses a
 multiplier of 2" for government spending
 (see Blinder and Solow).
+
 Coupled with multiplier studies is the
 even more subtle study of the structure
 of the "outside lags," of the timing of responses
@@ -32,6 +33,7 @@ to fiscal policy changes, enough
 has been learned about aggregate demand
 responses to provide two broad generalizations
 about fiscal policy:
+
 One, the conditions for intelligent
 fiscal policy are met if economic f orecasting
 can answer two not-very-exacting
@@ -44,6 +46,7 @@ error in a high-employment economy,
 it is better to rely on many smaller
 monetary-fiscal moves than a few large
 ones.
+
 Implicit in these two generalizations is a
 third one: Given both the internal shifts
 and the external shocks with which stabilization
@@ -71,6 +74,7 @@ of a century before a Democratic president
 was converted (in 1961) and another
 decade to capture a Republican White
 House.
+
 But success on the policy frontier has
 its own pitfalls, both political and economic.
 What was intended as a measure of

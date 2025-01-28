@@ -3,6 +3,7 @@ economies like Taiwan and mature economies
 like the United States. This is the kind of evidence
 that leads to the use of y values at or near
 1 in applications.
+
 But the CRRA model has problems. Rajnish
 Mehra and Prescott (1985) showed that if one
 wants to use a stochastic growth model with
@@ -16,6 +17,7 @@ remains unsolved, and has given rise to a
 vast literature that is clearly closely related to
 the question of assessing the costs of
 instability.12
+
 One response to the puzzle is to adopt a
 three- rather than two-parameter description
 of preferences. Larry G. Epstein and Stanley
@@ -30,6 +32,7 @@ value to fit estimated average returns to capital.
 Then the risk-aversion parameter can be
 chosen as large as necessary to account for
 the equity premium.
+
 Thomas D. Tallarini, Jr. (2000) uses preferences
 of the Epstein-Zin type, with an intertemporal
 substitution elasticity of 1, to construct a
@@ -42,6 +45,7 @@ aversion is left free to account for the equity
 premium perfectly.13 Tallarini estimates a welfare
 cost of aggregate consumption risk of 10
 percent of consumption, comparable to some
+
 
 of the supply-side gains cited in Section I, and
 two orders of magnitude larger than the estimate
@@ -72,6 +76,7 @@ A. The basic underlying hypotheses are that
 asset markets are complete and that asset-price
 differences reflect risk and timing differences
 and nothing else.
+
 The gain from the removal of all consumption
 variability about trend, estimated in this
 way, is large-around 30 percent of consumption.

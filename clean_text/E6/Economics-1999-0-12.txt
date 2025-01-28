@@ -22,6 +22,7 @@ led to the initiation of a new life-cycle project
 called "Fetal, Infant, and Later Aging Markers,
 Cohort b. 1910-35." The acronym for
 this project is FILAM.
+
 The central objective of FILAM is the creation
 of a life-cycle sample of persons born
 between 1910 and 1935 that would make it
@@ -41,6 +42,7 @@ main source of urban vehicular power, the
 cleaning up of the water and milk supplies, and
 the emergence of a wide range of effective
 medical interventions.
+
 The sample will be drawn from the birth
 records of 10,000 men and women of differing
 ethnicities and races who were born in Boston,

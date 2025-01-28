@@ -9,6 +9,7 @@ view if it is to explain why under-estimation
 of price inflation bamboozles workers
 into holding or taking jobs that they do
 not reallv want.
+
 Another form of alleged inflation illusion
 refers to wages rather than prices.
 Workers are myopic anl (1o not perceive
@@ -42,11 +43,13 @@ of frictional unemployment. It
 provides reasons why some unemployment
 is voluntary, and why some unemployment
 is socially efficient.
+
 Does the market produce the optimal
 amount of search unemployment? Is the
 natural rate optimal? I do not believe the
 new microeconomics has yet answered
 these questions.
+
 An omniscient and beneficent economic
 dictator would not place every new job
 seeker immediately in any job at hand.
@@ -60,6 +63,7 @@ jobs to which to assign them. But he would
 not make the queue too long, because
 workers in the queue are not producing
 anything.
+
 Of course he could shorten the queue of
 unemployed if he could dispose of more
 jobs and lengthen the queue of vacancies.
@@ -81,6 +85,7 @@ if he had fewer jobs, filled and
 vacant, than this constraint. This is the
 common sense of Beveridge's rule-that
 vacancies should not be less than unemployment.
+
 
 Is the natural rate a market solution of
 the hypothetical planner's operations research

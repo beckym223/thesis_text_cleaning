@@ -24,6 +24,7 @@ into the national accounts in 1996. The output
 of communications services in the NIPA also
 incorporates a constant quality price index for
 cellular phones.
+
 Much communications investment takes the
 form of the transmission gear, connecting data,
 voice, and video terminals to switching equipment.

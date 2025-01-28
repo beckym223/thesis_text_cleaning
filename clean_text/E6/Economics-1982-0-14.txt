@@ -36,6 +36,7 @@ section. This, in effect, rules out such savings
 from specialization in the regions where linear
 homogeneity also rules out savings from
 increased scale.
+
 This, then, completes my discussion of
 oligopoly equilibrium in perfectly contestable
 markets, which we have seen, yields a
@@ -47,6 +48,7 @@ concrete and favorable conclusion on the
 welfare implications of contestable oligopoly.
 III. Intertemporal Vulnerability to
 Inefficient Entry
+
 Having so far directed attention to areas
 in which the invisible hand manifests unexpected
 strength, I should like to end my
@@ -55,6 +57,7 @@ which it is weaker than some of us might
 have expected. As I indicated before, this is
 the issue of intertemporal production involving
 durable capital goods.
+
 The analysis is far more general than the
 following story suggests, but even the case I
 describe is sufficiently general to make the

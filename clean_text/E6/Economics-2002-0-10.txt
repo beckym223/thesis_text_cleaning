@@ -7,6 +7,7 @@ biases for assessing real wage and productivity
 growth, and overstate inflation and the social
 security and other entitlements that are indexed
 to them.
+
 III. Sorting and Stratification
 In any market equilibrium, interpersonal differences
 in tastes and technologies affect the
@@ -47,6 +48,7 @@ Neighborhood, bandwagon, status,
 and other social externalities are often invoked
 to account for stratification, but most stratification
 occurs without them.
+
 Sorting by income is one of the most important
 forms of stratification in goods, land, and
 labor markets. As noted above, people who buy

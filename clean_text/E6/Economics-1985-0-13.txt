@@ -11,6 +11,7 @@ variance of prior forecasts around the actual
 outcomes would guarantee a wide dispersion
 of individual forecasts whenever large shocks
 occurred.
+
 A wide dispersion of the forecasts of individual
 economic agents and the experience of
 errors in prior forecasts would have a
@@ -56,6 +57,7 @@ mechanism of relative wage flexibility, a system
 that relied on rational expectations forecasts
 of the equilibrium wage outcome would
 be unstable.
+
 In sum, under implicit contracts, widespread
 tying of individual wage decisions to
 expectations about equilibrium aggregate
@@ -71,6 +73,7 @@ it would increase haggling costs, produce
 unwanted relative wage changes, and become
 increasingly an irrational action on the part
 of individual firms.
+
 In the absence of widespread indexing
 to some nominal aggregate, or to the rational
 expectation of the equilibrium wage norm

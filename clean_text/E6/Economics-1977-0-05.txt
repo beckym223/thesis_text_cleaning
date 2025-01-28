@@ -13,7 +13,9 @@ fiscal and a small response to monetary actions,
 there was a tendency to focus on fiscal policy as
 the main tool to keep the economy at near full
 employment.
+
 C. The Phillips Curve
+
 In the two decades following The General
 Theory, there were a number of developments of
 the Keynesian system including dynamization of
@@ -48,6 +50,7 @@ countries. At the same time it clarified
 how the availability of more jobs tends to reduce
 unemployment by increasing vacancies and thus
 reducing search time.
+
 Acceptance of the Phillips curve relation
 implied some significant changes in the Keynesian
 framework which partly escaped notice until
@@ -66,6 +69,7 @@ wages, would eventually raise the real money
 supply, tending to return unemployment to the
 equilibrium rate consistent with the given longrun
 growth of money.
+
 But at the practical level it did not lessen the
 case for counteracting lasting demand disturbances
 through stabilization policies rather than

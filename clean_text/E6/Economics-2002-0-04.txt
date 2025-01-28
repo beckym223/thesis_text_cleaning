@@ -11,6 +11,7 @@ the force of interest weighs heavily in these
 decisions and can cause remarkably large differences
 in observed earnings, as equilibrium
 phenomena.
+
 But once a skill has been acquired, its economic
 return is greatest if it is used as intensively
 as possible. That the costs of acquiring
@@ -37,6 +38,7 @@ lots of attention lately in the fields of
 industrial organization and international trade,
 but are just as important, if not more so, for the
 organization of work.
+
 The cost basis that supports induced or "voluntary"
 inequality has other interesting consequences.
 Unequal rewards motivate people to
@@ -66,6 +68,7 @@ how much of a difference-in money, prestige
 and perquisites-it makes to achieve a better
 grade and a higher classification.
 II. Valuing Diversity
+
 Much of my research consists of applications
 of the problem of analyzing markets for differentiated
 products when the measure of differentiation

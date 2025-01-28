@@ -9,6 +9,7 @@ case it is equal to investment. It gets to
 be almost meaningless as one focuses on
 the growth of cities and regions, or on
 firms and industries.
+
 (iii) The importance of viewing the residual
 as an umbrella covering real cost reductions
 of all kinds, and of recognizing that
@@ -30,10 +31,12 @@ which are the benefits that the workers themselves
 perceive. These should be kept separate
 from any externalities education might
 have.
+
 It is important to try to keep this internalized
 part of the story out of the residual, so that we
 can straightforwardly interpret the residual as
 real cost reduction.
+
 (c) To study externalities due to education,
 training, or human capital, we should not be
 content with broad generalizations such as
@@ -92,6 +95,7 @@ picture of TFP improvement should comfortably
 accept the overwhelming evidence of the
 "'mushroomss" rather than "yeast" nature of
 the process.
+
 (f ) Special urgency applies to the study of
 declining total factor productivity at both the
 firm and the industry levels. The pervasiveness

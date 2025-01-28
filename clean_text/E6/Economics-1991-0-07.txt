@@ -28,7 +28,9 @@ case, abstraction in economic theory led to
 the study of fundamental problems of great
 generality, but also to a broad range of
 applications.
+
 III
+
 The list of advances that the mathematization
 of economic theory helped or permitted
 is already long; and in one aspect it may
@@ -56,6 +58,7 @@ decades, economic theory has been carried
 away further by a seemingly irresistible current
 that can be explained only partly by the
 intellectual successes of its mathematization.
+
 
 Essential to an attempt at a fuller explanation
 are the values imprinted on an

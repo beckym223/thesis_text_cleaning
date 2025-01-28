@@ -40,6 +40,7 @@ product markets and reduce the adverse consequences
 that occur when less efficient workers
 pull down the productivity of more efficient
 ones.
+
 Figure 1 shows how the market sustains diversity
 as an equilibrium phenomenon. Different
 kinds of buyers purchase different kinds of
@@ -56,6 +57,7 @@ other type of seller. All four types of agents can
 do no better, given the opportunities available.
 A. Interpreting the Implicit Value of
 Characteristics
+
 Empirical investigations of product and labor
 differentiation use cross-section data to relate
 prices p with attributes z. The hedonic regression
@@ -78,6 +80,7 @@ use in goods markets is to construct price and
 quantity indexes that control for changes in the
 quality of goods over time.
 B. Cross-Section Values
+
 Environmental and safety concerns are at the
 forefront of public policy today. The rhetoric
 and passions they arouse make it easy to forget
@@ -96,5 +99,6 @@ and environmental quality often are by-products
 of other transactions and their valuations must
 be imputed from the observed packages in
 which they play a part.
+
 Exposure to risk and pollution are affected by
 work and residential choices. Some jobs are

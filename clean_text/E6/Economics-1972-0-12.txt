@@ -19,6 +19,7 @@ diminishes the frictional component of
 unemployment, that is, the number of unfilled
 vacancies coexisting with any given
 unemployment rate.
+
 A central assumptioin of the theory is
 that the functions relating wage change
 to excess demand or supply are non-linear,
@@ -51,6 +52,7 @@ random (Irawing might put the
 excess demands in highly responsive markets
 and the excess supplies in especially
 unresponsive ones.
+
 Third, the nonlinearity is an explanation
 of inflationary bias, in the following
 sense. Even when aggregate vacancies are
@@ -61,6 +63,7 @@ equality of vacancies and unemployment
 is not compatible with price stability.
 Zero inflation requires unemployment in
 excess of vacancies.
+
 Criteria that coincide in full long-run
 equilibrium zero inflation and zero aggregate
 excess demand diverge in stochastic
@@ -80,6 +83,7 @@ movements of workers between
 markets; the no-inflation criterion requires
 enough additional unemployment to wipe
 out inflationary bias.
+
 ' I turn now to the equilibrium component,
 the rate of wage increase in a market
 with neither excess demand nor excess

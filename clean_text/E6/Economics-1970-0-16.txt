@@ -10,6 +10,7 @@ and yet to express productivity-increases
 of capital goods and of inputs in general as
 quality-improvements for given physical
 quantities.
+
 In my appraisal there is no reason to
 become disturbed about this lack of symmetry
 between the interpretation of improvements
@@ -38,11 +39,13 @@ in which the progress-inputs increase the
 " quality" of the other inputs and in which
 the other inputs produce quantities of
 output.
+
 In practice the effort to let the productivity-
 increases of inputs express themselves
 in quality-changes for given physical
 quantities, and to translate the qualityimprovements
 of consumer goods into
+
 quantities, gives rise to many procedural
 difficulties and the methods for taking care
 of these are admittedly very imperfect. In

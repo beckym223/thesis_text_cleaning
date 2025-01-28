@@ -4,6 +4,7 @@ on foreign raw materials cartels. In other
 words, it is a call for better planning,
 better data, and faster conversion of
 knowledge into policy.
+
 Another criterion of economists' responses
 to inflationary shocks is how
 quickly they adapted (read, "disaggregated"
@@ -38,6 +39,7 @@ are being built into the macromodels
 to reflect the impact of massive
 relative price changes on the macrodimensions
 of the economy.
+
 The whole experience reminds us of the
 role and limits of econometric forecasting
 models. First, the combination of computers,

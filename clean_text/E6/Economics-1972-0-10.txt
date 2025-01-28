@@ -36,6 +36,7 @@ estimates constrained to produce a vertical
 long-run Phillips curve suggest a natural
 rate between 5 and 6 percent of the labor
 force.3
+
 So let us consider some of the features of
 an overall unemployment rate of 5 to 6 percent.
 First, about 40 percent of accessions
@@ -54,6 +55,7 @@ quits amount only to about a third of
 separations, layoffs to two-thir(-ds. The proportions
 are rever-sed at low unemployment
 rates.
+
 Second, the unemployment statistic is
 not an exhaustive count of those with time
 and inceintive to search. An additional
@@ -64,6 +66,7 @@ force because they "could not find job" or
 "think no work available"---discouraged
 by market con(litions rather than personal
 incapacities.
+
 Third, with unemployment of 5-6 percent
 the number of reported vacancies is
 less than 1/ 2 of 1 percent. Vacancies appear

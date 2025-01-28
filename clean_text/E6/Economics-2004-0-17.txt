@@ -24,6 +24,7 @@ such an analysis would come out-balancing
 very worthwhile transfers with some less
 worthwhile ones-most of the transfers are
 now history.
+
 Given the infinite horizon present value budget
 constraint of Social Security (in the absence
 of transfers from general revenues) this early
@@ -90,6 +91,7 @@ of Social Security on national capital is not,
 by itself, a basis for concluding that the system
 should have been fully funded or should become
 fully funded.
+
 The baby boomers are much larger than earlier
 cohorts. The 1983 legislation included payroll
 tax revenues in excess of current outlays in

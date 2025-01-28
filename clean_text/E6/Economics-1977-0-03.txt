@@ -9,6 +9,7 @@ the money supply or fiscal variables are the
 major determinants of aggregate economic activity,
 and hence the most appropriate tool of
 stabilization policies.
+
 My central theme is that this view is quite far
 from the truth, and that the issues involved are of
 far greater practical import. There are in reality
@@ -45,6 +46,7 @@ that, even in the unlikely event that stabilization
 policies could on balance prove beneficial, the
 government should not be trusted with the necessary
 power.
+
 What has led me to address this controversy
 is the recent spread of monetarism, both in a
 simplistic, superficial form and in the form of
@@ -64,6 +66,8 @@ shocks. But before I am through, I will
 give some consideration to the difficult problems
 raised by the newer type of disturbance-supply
 shocks.
+
 I. The Keynesian Case for Stabilization Policies
 A. The General Theory
+
 Keynes' novel conclusion about the need for

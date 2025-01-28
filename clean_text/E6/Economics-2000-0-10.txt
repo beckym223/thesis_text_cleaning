@@ -5,6 +5,7 @@ Bank, 1980). The annual population growth rate
 for the same countries was 2.5 percent for
 1960-1970 and 2.2 percent for 1970-1978
 (World Bank, 1980).
+
 Why has fertility declined as real per capita
 incomes have increased? At low levels of income,
 with agriculture as the major occupation,
@@ -40,6 +41,7 @@ desired to a greater degree and at lower
 cost than in decades past.
 VIII. Why the Nineteenth Century Had Lower
 Population Growth
+
 The differences in the population growth
 rates between Europe in the nineteenth century
 and in the developing countries in the twentieth
@@ -70,6 +72,7 @@ century than in the developing countries in the
 twentieth century (Maddison, 1995), it is worth
 exploring why population growth was relatively
 slow in Europe.
+
 One factor responsible for the slow growth of
 population in Europe was the significant increase
 in the percentage of the population living
@@ -81,6 +84,7 @@ was the source of the growth of cities. Not only
 did death rates in cities exceed birth rates, but
 their death rates were significantly higher than
 in rural areas.
+
 Bairoch (1988 p. 230) reports that in Western
 Europe throughout the nineteenth century infant
 mortality rates in urban areas exceeded the rates

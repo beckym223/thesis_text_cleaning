@@ -57,6 +57,7 @@ in which full feedback is used in order to
 obtain simultaneous and consistent integration
 of the entire supply and demand sides
 of the economy.
+
 In terms of the history of economic
 thought, the above approach means thinking
 in terms of the empirical implementation
@@ -73,7 +74,9 @@ gives the antecedents of what is meant by
 modeling supply, taking into account what
 is needed from demand models at the same
 time.
+
 III. Why Model Supply?
+
 At the time of the Keynesian Revolution,
 there was a pervasive deficiency of demand
 throughout most of the world. The Keynesian

@@ -36,6 +36,7 @@ pool of available workers. Growth in hours
 worked does not capture these changes in laborquality
 growth and is a seriously misleading
 measure of labor input.
+
 III. The American Growth Resurgence
 The American economy has undergone a remarkable
 resurgence since the mid-1990's with

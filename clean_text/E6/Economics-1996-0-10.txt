@@ -22,6 +22,7 @@ the sample sizes are very small (7 and 13 ), the
 differences by type of question are so large we
 can reject the null hypothesis with considerable
 confidence.27
+
 It is also worth noting that the extent of
 agreement among health economists on the
 positive questions is much higher than is usually

@@ -10,8 +10,10 @@ almost tautological. TIhe inferences of equilibrium
 anid optimality would be more
 conivincing if they were corroboratecI by
 direct evidence.
+
 IV. Why is There Inflation without
 Aggregate Excess Demand?
+
 Zero-inflation unemployment is not
 wholly voluntary, not optimal, I might
 eveni say not natural. In other words, the
@@ -38,6 +40,7 @@ since been elaborated by Archibald, pp.
 in Phelps et. al., and others. I propose
 now to sketch a theory in the same
 spirit.
+
 It is an essential feature of the theory
 that economy-wide relations among employment,
 wages, and prices are aggregations

@@ -13,6 +13,7 @@ should depend on the individual preferences
 only over that pair-in particular,
 not on how the other ("irrelevant") alternatives
 are ranked.
+
 Now consider the idea of some people
 being "decisive": a set G of people-I shall
 call them a group G-having their way no
@@ -24,6 +25,7 @@ those not in G have), then G is decisive
 over that ordered pair (x, y). When a
 group G is decisive over all ordered pairs, it
 is simply "decisive."
+
 Arrow required that no individual (formally,
 no single-member group) should be
 decisive (nondictatorship), but-following
@@ -36,17 +38,21 @@ impossible to have a social welfare function
 with universal domain, satisfying independence,
 the Pareto principle, and nondictatorship.
 
+
 The theorem can be proved in three simple
 steps.8 The first two steps are the following
 (with the second lemma drawing on
 the first).
+
 FIELD-EXPANSION LEMMA: If a group
 is decisive over any pair of states, it is decisive.
 9
+
 GROUP-CONTRACTION LEMMA: If a
 group (of more than one person) is decisive,
 then so is some smaller group contained in
 it.
+
 The final step uses the Group-Contraction
 Lemma to prove the theorem. By the Pareto
 principle, the group of all individuals is decisive.

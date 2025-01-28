@@ -23,6 +23,7 @@ human-capital investments over the life cycle.
 They reflect rational personal choices that
 change a person's economic status and current
 incomes over a lifetime.
+
 Rising earnings over working life as well as
 earnings differences between occupational
 and educational categories largely reflect returns
@@ -42,6 +43,7 @@ than the distribution of human-capital
 wealth. Inequality indexes based on current
 data alone give a very misleading impression
 of true inequality.
+
 The reasoning is most easily understood in
 terms of an example. Consider a completely
 equal society in which all workers have exactly
@@ -70,8 +72,10 @@ a major portion-are equalizing on their
 costs. They represent productive, socially manufactured
 diversity and inequality that we cannot
 live very well without.
+
 V. Personal Productivity and the Distribution of
 Earnings
+
 Of course, not all differences are willfully
 created. Many are caused by inherited interpersonal
 differences in talents and tastes. The hedonic

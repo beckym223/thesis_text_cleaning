@@ -5,6 +5,7 @@ safety as people choosing risky jobs, so the
 wage premium on risky jobs is likely to be a
 lower bound on the average person's willingness
 to pay for safety.
+
 Thaler and I estimated a "value of life" of
 about $800,000 in dollars of Year 2000 purchasing
 power. Other labor-market studies using
@@ -22,6 +23,7 @@ preference implies that estimated pollution and
 crime gradients are likely to be lower bounds
 for the average citizen because they ignore important
 sorting considerations.
+
 C. Time-Series Imputations
 The main practical difficulty in assessing
 changing standards of living is that goods
@@ -35,6 +37,7 @@ when entirely new goods appear on the market.
 If their introduction is successful and they supplant
 older varieties, how should they be linked
 into a price index?
+
 Conceptually, the only possibility is to think
 in terms of the costs of providing ultimate services.
 Technical changes reduce the cost of services.

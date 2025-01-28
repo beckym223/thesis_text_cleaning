@@ -6,6 +6,7 @@ indexes do not hold the software performance
 constant and present a distorted picture of software
 prices, as well as software output and
 investment.
+
 F. Research Opportunities
 The official price indexes for computers and
 semiconductors provide the paradigm for economic
@@ -57,6 +58,7 @@ and governments. A methodology for analyzing
 economic growth must capture the
 substitution of IT outputs for other outputs of
 goods and services.
+
 While semiconductor technology is the driving
 force behind the spread of IT, the impact of
 the relentless decline in semiconductor prices is
@@ -68,6 +70,7 @@ Sales of semiconductors to domestic manufacturers
 of IT products are precisely offset by
 purchases of semiconductors and are excluded
 from the GDP.
+
 Constant quality price indexes, like those reviewed
 in the previous section, are a key component
 of the methodology for analyzing the
@@ -80,7 +83,9 @@ evidence on the prices of communications
 equipment and software is seriously incomplete,
 so that the official price indexes are seriously
 misleading.
+
 A. Output
+
 The output data in Table 1 are based on the
 most recent benchmark revision of the national
 accounts, updated through 1999.19 The output

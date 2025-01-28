@@ -16,6 +16,7 @@ prices.20 Then, to my astonishment, some of
 our colleagues derive implications for the
 optimal paths of M-1 or M-2 or "monetary
 policy."
+
 That the various monetary aggregates
 which enter into our empirical formulations
 are heterogeneous collections of frequently
@@ -36,6 +37,7 @@ of analysis, fiscal policy is one big
 mess. And confusion here has contributed
 mightily to misdirection in macroeconomic
 theory and policy.
+
 As I have pointed out elsewhere,2' motivation
 for the macroeconomic, rational expectations
 revolution, or counterrevolution,
@@ -66,6 +68,7 @@ Haberler (1941), A. C. Pigou (1943,
 1947), and Don Patinkin (1948, 1951, and
 1965), induces an increase in private spending.
 
+
 To have this effect, as the neoclassical
 argument made clear, the increase in private
 assets must be real. But if the government
@@ -80,6 +83,7 @@ should be a depressant to consumption
 and, unless one has inordinate faith that
 goods markets always clear, to real aggregate
 demand and output.
+
 That is exactly what happened in the late
 1970s. The cumulative total of $153 billion
 of nominal deficits in the Carter years, from

@@ -1,5 +1,6 @@
 and has been used in almost all applications of
 the cost of capital.25
+
 The second empirical issue is the measurement
 of economic depreciation. The stability of
 patterns of depreciation in the face of changes in
@@ -15,6 +16,7 @@ issues has cleared the way for detailed measurements
 of the cost of capital for all assets that
 appear in the national accounts, including information
 technology.27
+
 The definition of capital includes all tangible
 assets in the U.S. economy, equipment and
 structures, as well as consumers' and government
@@ -29,6 +31,7 @@ must be included in the GDP, along with household
 and government IT capital services, in
 order to capture the full impact of IT on the U.S.
 economy.
+
 Table 3 gives capital stocks from 1948 to
 1999, as well as price indexes for total domestic
 tangible assets and IT assets-computers, software,
@@ -49,6 +52,7 @@ of domestic tangible capital stock in 1999. Table
 4 presents estimates of the flow of capital
 services and corresponding price indexes for
 1948-1999.
+
 The difference between growth in capital services
 and capital stock is the improvement in
 capital quality. This represents the substitution
@@ -60,6 +64,7 @@ products. Capital stock estimates fail to
 account for this increase in quality and substantially
 underestimate the impact of IT investment
 on growth.
+
 The growth of capital quality is slightly less
 than 20 percent of capital input growth for the
 period 1948-1995. However, improvements in
@@ -72,6 +77,7 @@ of the sharp acceleration in the IT price decline.
 Capital stock has become progressively less accurate
 as a measure of capital input and is now
 seriously deficient.
+
 Figure 5 gives the IT capital service flows as
 a share of gross domestic income. The second
 panel of Table 2 summarizes the growth rates of
@@ -83,7 +89,9 @@ while growth of non-IT capital services increases
 from 1.72 percent to 2.94 percent. This
 reverses the trend toward slower capital growth
 through 1995.
+
 C. Labor Services
+
 This subsection presents estimates of labor
 input for the U.S. economy from 1948 to 1999.
 These incorporate individual data from the Censuses

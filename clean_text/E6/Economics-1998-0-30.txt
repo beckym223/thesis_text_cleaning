@@ -8,7 +8,9 @@ quest for real cost reductions, and that create
 an environment in which Schumpeter's process
 of "creative destruction" can work its
 wonders.
+
 APPENDIX ON METHODOLOGY
+
 The vision of the growth process presented
 in this paper leads one almost inevitably to
 some methodological twists-twists which, if
@@ -16,6 +18,7 @@ they are not new, at least differ in significant
 ways from what I take to be the most common
 practice in breaking economic growth down
 into components.
+
 (a) To measure the real rate of return to
 capital, one must express the numerator (real
 dollars of retum) and the denomiinator (the
@@ -72,6 +75,7 @@ would nonetheless be correct in attributing
 to the affected labor a marginal
 productivity that is measured by the distorted
 high wage.
+
 The "labor contribution" as measured by
 w*AL* is equal to w* (Q S(wi /w *) AL1 +
 iLi A(w /w*). The second term will be zero
@@ -81,6 +85,7 @@ does not change. Any changes in the weighted
 average premium will cause the calculated residual
 to be different from those calculated by
 other methods.
+
 The "two-deflator method" is characterized
 by the use of a single numeraire-deflator (say,
 the GDP deflator), by the treatment of the
@@ -91,6 +96,7 @@ equal to the wages bill divided by w *. This is
 the method used by Beyer (1996), Robles
 (1997), and Torre (1997) in their work reported
 in this paper.
+
 It goes without saying that the two-deflator
 method is rough. But it is also tremendously
 robust and easily applied. I think of it as being

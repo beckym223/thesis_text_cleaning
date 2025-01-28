@@ -25,6 +25,7 @@ has identified large potential gains from further
 improvements in long-run fiscal policy.
 II. Gains from Stabilization:
 A Baseline Calculation
+
 In the rest of the lecture, I want to apply the
 public finance framework just outlined to the
 assessment of gains from improved stabilization
@@ -71,14 +72,19 @@ could be eliminated.4 To this end, consider
 a single consumer, endowed with the
 stochastic consumption stream
 (1) c, = Aete- (l/2)r2e,
+
 where log(se) is a normally distributed random
 variable with mean 0 and variance oC2. Under
 these assumptions
+
 E(e-(1/2)t02tt) = 1
+
 and mean consumption at t is Ae t. Preferences
 over such consumption paths are assumed to be
 (2) E{ ;-y},
+
 1 + p 1-y '
+
 where p is a subjective discount rate, y is the
 coefficient of risk aversion, and the expectation
 is taken with respect to the common distribution

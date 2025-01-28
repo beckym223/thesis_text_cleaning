@@ -1,14 +1,24 @@
 12 -
+
 10 -
+
 8
+
 C-)
+
 CT
+
 U-
+
 4
+
 2
+
 0
+
 0 12.5 25 37.5 50 62.5 75 87.5 iQO
 Percentiles
+
 FIGURE 6C. PERCENTAGE WITH POSITIVE TFP GROWTH: MEXICAN MANUFACTURING 1984-1994
 FREQUENCY DISTRIBUTION OF PERCENTILES, 44 INDUSTRIAL BRANCHES
 were to quit earlier in response to a challenge
@@ -22,6 +32,7 @@ they were ready to quit at the first sign of a
 challenge. They are fighters by nature, and
 they probably would not have achieved success
 if they were not.
+
 Firms with negative TFP growth may even
 be innovators. New challenges come and different
 firms think of different ways to respond

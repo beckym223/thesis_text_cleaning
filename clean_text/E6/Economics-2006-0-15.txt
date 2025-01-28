@@ -32,6 +32,7 @@ rejected about half the time. These results are
 consistent with social norms for fairness in
 which individuals altruistically incur costs to
 punish greedy behavior.
+
 Sam Bowles and a team of experimental
 economists and ethnographers have conducted
 anonymous ultimatum game experiments in 15
@@ -43,6 +44,7 @@ cooperative activity is important, and particularly
 where people are exposed to markets, induce
 offers in the ultimatum game that are more
 equitable.
+
 Genetic altruism is the phenomenon of
 self-sacrifice for the good of your family or
 kinship group. Genetic altruism appears to
@@ -53,6 +55,7 @@ in the past four decades, but the
 concept itself is as old as the concept of
 self-interest, as in a quote from Adam Smith
 (1759):
+
 Every man feels [after himself, the pleasures
 and pains] of the members of his
 own family. Those who usually live in the
@@ -63,6 +66,7 @@ They are naturally and usually the
 persons upon whose happiness or misery
 his conduct must have the greatest
 influence.
+
 Despite its recognized importance, particularly
 in economic models of the family and
 of intergenerational transfers, genetic altruism
@@ -86,6 +90,7 @@ environment, the distaste people have
 for aggressive, greedy traders, the potlatch
 pride of being more generous than your
 neighbors.
+
 Summarizing, physiological, behavioral, and
 sociological evidence indicate strongly that
 consumers will often fail to promote their

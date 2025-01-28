@@ -6,6 +6,7 @@ time on the basis of a tacit "convention,
 " which market participants come to
 accept. The convention amounts to the assumption
 that
+
 ... the existing state of affairs will continue
 indefinitely, except in so far as
 we have specific reasons to expect a
@@ -24,6 +25,7 @@ and he need not lose his sleep
 merely because he has not any notion
 of what his investment will be worth
 ten years hence.
+
 [General Theory, pp. 152-53]
 Thus, the price of gold might well, for a
 considerable period of time, fluctuate narrowly
@@ -35,6 +37,7 @@ lesser extent, could the price of wheat or tin.
 Yet such a period of approximate stability
 might at any time be upset by a major,
 self-maintaining movement in either direction.
+
 
 IV. Macroeconomic Inventory Theory
 Let us now turn to some of the macroeconomic

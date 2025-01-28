@@ -3,6 +3,7 @@ let me offer two observations which make it
 clear that we emphatically do not believe
 that all need be for the best in this best of all
 possible worlds.
+
 First, let me recall the observation that
 real markets are rarely, if ever, perfectly contestable.
 Contestability is merely a broader
@@ -13,6 +14,7 @@ contestable monopolies have some incentives
 for doing so is not to imply that this is even
 nearly true of all oligopolies or of unregulated
 monopolies in reality.
+
 Second, while the theory extends the domain
 of the invisible hand in some directions,
 it unexpectedly restricts it in others.
@@ -65,6 +67,7 @@ analyses proceeded to investigate the consequences
 of the exogenously given industry
 structure for pricing, outputs, and other decisions.
 2
+
 The new analyses are radically different in
 this respect. In our analysis, among others,
 an industry's structure is determined explicitly,

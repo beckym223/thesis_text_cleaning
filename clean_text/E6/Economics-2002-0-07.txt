@@ -14,6 +14,7 @@ differences across jobs and locations are the
 implicit prices of characteristics, as in Figure
 1, with z interpreted as job safety or neighborhood
 safety.
+
 Valuations generally vary among agents.
 People with different tastes and incomes have
 different bid and offer functions, but more is
@@ -26,6 +27,7 @@ the "last" loaf of bread is worth about the
 same-its market price-to a person who consumes
 one loaf per week as to a person who
 buys one loaf per day.
+
 The Law of One Price always applies to the
 specific houses, jobs, or goods markets that
 embody intangible characteristics, but not necessarily
@@ -77,6 +79,7 @@ public project affecting z in some
 application, with the average weighted by benefit
 incidence of the project among different
 types of people.
+
 So many factors determine market prices of
 goods in practice that the best chance empirically
 for isolating the implicit value of safety

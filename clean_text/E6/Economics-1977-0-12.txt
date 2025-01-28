@@ -14,6 +14,7 @@ to two-thirds), then the St. Louis reduced
 form method yields highly unstable and unreliable
 estimates of the true structure of the system
 generating the data.
+
 The crucial role of unreliability and instability
 has since been confirmed in more recent work of
 Daniel O'Neill in his forthcoming thesis. He
@@ -30,6 +31,7 @@ structural estimation, but whether the difference
 is statistically significant; that is, larger than
 could be reasonably accounted for by sampling
 fluctuations.
+
 I have carried out this standard statistical test
 using as true response coefficients those generated
 by the MPS model quoted earlier.2 I find
@@ -40,6 +42,7 @@ difference is totally insignificant when estimation
 is in level form (F is less than one) and is
 still not significant at the 5 percent level, when in
 first differences.
+
 This test resolves the puzzle by showing that
 there really is no puzzle: the two alternative estimates
 of the expenditure multipliers are not
@@ -64,6 +67,7 @@ than those obtained from a forecasting equation
 in which the coefficients of the expenditure variable
 are set equal to those obtained from econometric
 models.
+
 I have carried out this test, comparing a reduced
 form equation fitted to the period originally
 used at St. Louis, terminating in 1969 (but

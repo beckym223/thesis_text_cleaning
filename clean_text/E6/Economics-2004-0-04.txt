@@ -14,6 +14,7 @@ ways that workers could end up with inadequate
 consumption after retirement relative to what
 might sensibly and efficiently be done with earlier
 earnings.
+
 In addition to having low savings, many
 workers have problems converting savings in
 different years into retirement incomes in later
@@ -47,8 +48,10 @@ banned-although improvement in regulation
 would be welcome. Rather, I am saying that
 analysts of Social Security should be realistic
 
+
 about the actual functioning of the market
 alternatives.
+
 Investing is only part of the story. We lack
 market institutions to provide good insurance
 for the risk in earnings trajectories, thereby affecting
@@ -66,6 +69,7 @@ exist for directly hedging the risks in
 earnings opportunities, and if they did exist I do
 not think we would see many workers using
 them.7
+
 In addition to problems in converting earnings
 opportunities into wealth devoted to retirement
 consumption, the wealth that is privately

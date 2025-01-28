@@ -2,6 +2,7 @@ R&D in the 1980's (Michael Jensen, 1993)
 and the market's view of current R&D investments
 (Bronwyn Hall and Robert Hall,
 1993; B. Hall, 1993).
+
 My own recent foray into this type of
 analysis of industry data at the three-digit
 SIC level is summarized in Table 1.6 It
@@ -22,6 +23,7 @@ and even lower for 1979-1989. Only one
 observation out of 143 does this!7
 These results raise a major data conundrum:
 is it right to treat the computer in-
+
 
 dustry as an outlier and exclude it from
 such calculations just because the productivity

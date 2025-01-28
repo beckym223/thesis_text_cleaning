@@ -4,6 +4,7 @@ aloing the second real wage path. If the
 answer is affirmative, then that one percentage
 point of unemployment is involuntary.
 
+
 For Keynes's reasons, a negative answer
 cannot necessarily be inferred from
 failure of money wage rates to fall or even
@@ -54,6 +55,7 @@ gain plus the experienced and
 expected rate of inflation of prices.
 III. Is Zero-Inflation Unemployment
 Voluntary and Optimal?
+
 There are, then, two conflicting interpretations
 of the welfare value of employment
 in excess of the level consistent with
@@ -71,6 +73,7 @@ constraints, and relative wage patterns
 and reveal nothing in particular about
 individual or social valuations of unemployed
 time vis-a-vis the wages of employment.
+
 
 On this rostrum four years ago, Milton
 Friedman identified the noninflationary

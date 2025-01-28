@@ -47,6 +47,8 @@ more than doubling of the share of machinery
 in total manufacturing output by the
 
 
+
+
 late 1980's. This last problem has largely
 been solved recently with the introduction
 of "benchmark-weighted" estimates of gross
@@ -57,6 +59,7 @@ problem, the uniqueness of this adjustment
 in the face of similar, though perhaps not as
 extreme, problems elsewhere remains to
 haunt us.
+
 What I have done in Figure 3 (and in row
 3b of Table 1) is to adjust the estimated
 TFP growth in the computer industry downward

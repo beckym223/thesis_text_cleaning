@@ -13,6 +13,7 @@ keeps falling, both through good times
 and bad times. If this was not a cause for
 worry earlier, why should one worry about it
 now?9
+
 III. Patents: A Shrinking Yardstick?
 To decide whether we should be worried
 by what is happening with the patent numbers
@@ -26,6 +27,7 @@ second, the meaning of both the numerator
 and the denominators of the ratios plotted
 in Figure 4 may have changed significantly
 over time.
+
 If patents can be taken as indicators of
 invention, and if the value of an invention is
 proportional to the size of its market (or

@@ -8,6 +8,7 @@ the tax-transfer system on the distribution of
 income, cash and in-kind transfers must be
 added to market incomes while taxes are
 deducted.
+
 While I cannot separate the effects of
 transfer payments and of taxes on the recent
 changes in the after-tax income distribution,
@@ -28,6 +29,7 @@ deciles received more in transfers than they
 paid in taxes, while those in the top seven
 deciles paid more in taxes than they received
 in transfers.
+
 Clearly, the tax-transfer system is progressive,
 mainly because of transfers, not taxes.
 What we are doing in the United States is

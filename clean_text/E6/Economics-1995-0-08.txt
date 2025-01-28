@@ -22,6 +22,7 @@ from decision mechanisms for the society)
 right. But the "impossibility" problem identified
 by Arrow cannot be escaped by this
 move.
+
 IV. On Reasoned Social Welfare Judgments
 How might we then avoid that impossibility?
 It is important to distinguish the

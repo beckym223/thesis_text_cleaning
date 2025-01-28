@@ -83,6 +83,7 @@ then lead to inventory, production, and
 purchase decisions that help to perpetuate the
 macroeconomic instability of production, consumption,
 and inventories.
+
 Persistent and massive macroeconomic inventory
 cycles deny either the existence of
 rational expectations, or, more plausibly, the

@@ -17,6 +17,7 @@ x and y are not yet established, and even more
 so when conditions other than x and y also may
 be important (as, for example, with rentseeking)
 .
+
 But many good theory papers are written
 where the authors assume that their audience
 will consist entirely of other theorists. In such
@@ -58,6 +59,7 @@ makers and bureaucrats to intervene in whatever
 ways they like, and this will simultaneously
 be seized upon by special interests to
 bolster their causes.
+
 No matter how careful economists are,
 special interests always will seize their research
 results in supporting their own objectives.
@@ -69,4 +71,5 @@ of these propositions could do much
 to increase the degree to which economists'
 research results can contribute (positively)
 to policy formulation.
+
 I

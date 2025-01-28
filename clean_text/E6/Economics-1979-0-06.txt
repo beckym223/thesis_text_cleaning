@@ -10,6 +10,7 @@ into account that the costs of all kinds in
 any required future extraction from the atmosphere
 will not be incurred until much
 later.
+
 In fact, one statement in the report reads
 as a rejection of the idea that the time at
 which capital cost is incurred is at all pertinent.
@@ -27,6 +28,7 @@ infer that the capital cost component is not
 negligible as a factor in the decision.
 II. Technology Mixes of Future
 Energy Supply and Use
+
 My second illustration is a study that was
 carried out as an input to the deliberations
 of the Committee on Nuclear and Alternative
@@ -72,6 +74,7 @@ will be called "environmental" effects.
 The place in Table 1 for these impacts is
 column (b), tersely dubbed "health and
 life."
+
 The Risk/Impact Panel of CONAES decided
 not to try to estimate money equivalents
 for such adverse impacts of various
@@ -95,6 +98,7 @@ such a valuation is still implicit in any
 decision actually taken. It may help the
 decision makers to know these implicit
 price tags.
+
 I will list only the principal assumptions
 made for this purpose. Numerical values
 were assigned to three sets of variables. As

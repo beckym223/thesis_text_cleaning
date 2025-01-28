@@ -25,6 +25,7 @@ price, and finds only the sour taste of inflation.
 The boom ends. It can be repeated as
 soon as the short memories of all citizens are
 erased. 14
+
 What can this have to do with the business
 cycle in a world in which yeoman farmers
 and craftsmen are replaced by firms with
@@ -73,6 +74,7 @@ out consumption. The result, of course, was
 also inflation, unanticipated by all. Once the
 limits of money creation were reached, the
 boom collapsed.
+
 At roughly the same time, in another part
 of Europe, J. A. Schumpeter was describing
 a rather different source of instability. His
@@ -87,6 +89,7 @@ entrepreneurial activities-his "creative destruction"
 that had to subside before the next
 wave of innovation might again disturb the
 economy.
+
 '41n another version (Lucas, 1975), there are genuine
 firms selling products and purchasing labor and capital
 inputs; but production is scattered among noncommunicating

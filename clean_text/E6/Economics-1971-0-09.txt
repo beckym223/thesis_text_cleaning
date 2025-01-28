@@ -1,6 +1,7 @@
 principles on which it operates, but also
 be acquainted with the details of its actual
 design.
+
 A new element has entered the picture
 in recent years-the adoption of methods
 of modern econiomic analysis by private
@@ -19,6 +20,7 @@ analytical devices of economic theory first
 found their way into the curricula of our
 business schools and soon after that, sophisticated
 management began to put
+
 them into practice. While academic theorists
 are content with the formulation of
 general principles, corporate operations
@@ -72,5 +74,6 @@ It will lend its generous support to our
 venture too, if we take the trouble to
 explain what it is all about.
 REFERENCE
+
 F. H. Hahn, "Some Adjustment Problems,"
 Econometrica, Jan. 1970, 38, 1-2.

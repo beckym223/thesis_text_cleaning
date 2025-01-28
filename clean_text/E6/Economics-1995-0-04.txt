@@ -1,5 +1,6 @@
 models), the depiction of actual conduct
 and choices?
+
 Another issue, related to individual behavior
 and rationality, concerns the role of
 social interactions in the development of
@@ -20,13 +21,16 @@ and do change in the process of decisionmaking"
 (Buchanan, 1954a p. 120).6 We
 have to scrutinize the importance of this
 difference as well.
+
 This is a long and somewhat exacting list,
 but the different issues relate to each other,
 and I shall try to examine them briefly and
 also comment on some of their practical
 implications.
+
 II. Social Welfare Judgments and Arrow's
 Impossibility Theorem
+
 The subject of welfare economics was
 dominated for a long time by the utilitarian
 tradition, which performs interpersonal aggregation
@@ -41,6 +45,7 @@ comparisons of utility had no scientific
 basis.7 Thus, the epistemic foundations of
 utilitarian welfare economics were seen as
 incurably defective.
+
 Because of the eschewal of interpersonal
 comparability of individual utilities, the
 "new welfare economics" that emerged tried
@@ -62,6 +67,7 @@ or freedoms) beyond their indirect role in
 generating utilities. There is a need, certainly,
 for further criteria for social welfare
 judgments.
+
 The demands of orderly, overall judgments
 of "social welfare" (or the general
 goodness of states of affairs) were clarified
@@ -78,6 +84,7 @@ of social choice theory as a discipline)
 , the search for principles underlying a
 social welfare function played a prominent
 part.
+
 Arrow (1951) defined a "social welfare
 function" as a functional relation that specifies
 a social ordering R over all the social

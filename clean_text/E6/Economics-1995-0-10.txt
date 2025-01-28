@@ -1,6 +1,7 @@
 ways in which social welfare judgments can
 be made using richer information than in
 the Arrow framework.
+
 This applies also to procedures specifically
 aimed at making social welfare judgments
 and other aggregative evaluations,
@@ -50,6 +51,7 @@ of social rationality in the Arrovian form is
 dropped altogether (Section III). How, then,
 can we respond to the challenge in this
 case?
+
 We may begin by noting that the conditions
 formulated and used by Arrow, while
 appealing enough, are not beyond criticism.

@@ -8,6 +8,7 @@ net of tax refunds; and James Banks, Richard
 Blundell, and Sarah Tanner (1998), and Bernheim,
 Jonathan Skinner, and Steven Weinberg
 (2001), for retirees.
+
 Textbooks explain such excess sensitivity by
 a variety of frictions, particularly borrowing
 constraints. For example, Rudiger Dornbusch
@@ -50,6 +51,7 @@ viewed either as entitlements or as obligations.
 Finally, in turn, current income is one of the
 major determinants of these entitlements, and
 obligations.
+
 Sociology of Consumption.-The motivation
 emphasized by sociologists for consumption is
 very different from that in the life-cycle model.
@@ -58,6 +60,7 @@ determined by the norms regarding what people
 should consume. These norms, in turn, are dependent
 upon the individual's situation and also
 who she thinks she is.
+
 Two examples illustrate such dependence on
 norms. Following Pierre Bourdieu (1984), people'
 s consumption of cultural goods-the literature

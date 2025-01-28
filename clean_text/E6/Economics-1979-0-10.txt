@@ -1,18 +1,23 @@
 fruit in the same future year t will tend
 to give rise to the same discount factor
 I t
+
 dt + )
+
 where rt is the annual discount rate applicable
 to the period from year zero to year
 t. The usual practice in cost-benefit analyses
 is to assume also that rt is independent of
 t, rt = r, say.
+
 This reasoning simply registers the economic
 accounting implications of assumed
 intertemporal efficiency with capital nonsaturation.
 To many highly educated
+
 people, there is something ethically offensive
 about it.
+
 A difficult practical problem on which
 economists still differ among themselves is
 how to read a good estimate for r from
@@ -24,6 +29,7 @@ alternative use of funds drawn upon
 for a public project also enters into the
 choice of r. I will not venture into these
 questions here.
+
 Coming back to helium storage, the discounting
 criterion would lead most economists
 to recommend that those steps of the
@@ -35,6 +41,7 @@ Step i, storing helium currently vented,
 is likely to meet the test. The problem is to
 estimate which of the four or six steps
 would.
+
 Two final remarks, the first added as an
 afterthought since August 30.
 The two issues we have discussedwhether
@@ -60,6 +67,7 @@ these prices that the discount factor is applied.
 I am hoping that this simple distinction
 may help to reduce misunderstanding
 between the professions.
+
 Secondly, our reasoning has proceeded
 blandly as if there were no uncertainty about
 the outcome of the development of processes
@@ -74,6 +82,7 @@ insights even if the conclusions depend
 on admittedly uncertain premises. A
 study of this kind is included as chapter IV
 in the MRG report.
+
 V. Attaching Values to Health and Life
 The question of estimating the value of
 health and the value of life arises mostly in
@@ -89,6 +98,7 @@ and other law enforcers who
 restrain some people from killing or hurting
 themselves or others by recklessness or
 neglect.
+
 A common trait of these decisions is that
 from good experience records one may be
 able to estimate the years of lives saved,

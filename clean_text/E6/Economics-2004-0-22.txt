@@ -13,6 +13,7 @@ seems likely that the optimal size of a social
 security system relative to the economy varies
 with the same factors that affect actuarial
 balance.
+
 Relying on fully automatic adjustment
 rather than assuming there will be periodic
 new legislation bears some similarity to a
@@ -39,12 +40,14 @@ and deficits, an asymmetry that is reduced
 by legislating automatic adjustments.
 Also there may be more similarity across the
 
+
 political spectrum in normative evaluations of
 the impacts of monetary policy than of the evaluations
 of the sizes of taxes and benefits for
 different workers and family structures. As with
 monetary policy, I think that some discretion
 can improve outcomes.
+
 In considering possible automatic adjustments,
 one can look at how adjustment is currently
 debated and how it was done before. In
@@ -68,6 +71,7 @@ some of the proposed changes for restoring actuarial
 balance (both one-time changes and new
 automatic changes) between revenue changes
 and benefit changes.
+
 A. Fully Funded Defined Contribution and
 Partially Funded Defined Benefit
 The parallel to the workings of the ArrowDebreu

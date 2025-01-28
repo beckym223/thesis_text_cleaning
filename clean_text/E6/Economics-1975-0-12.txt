@@ -20,6 +20,7 @@ of damage to third parties lies at the heart
 of many problems in legal justice, economics
 is able to make an important contribution
 in this area.
+
 When we turn to the empirical outputs
 that are now illuminating problems of
 public choice, we find the past decade
@@ -30,6 +31,7 @@ guides in the seJection and evaluation of
 government programs and new insights
 into alternative systems of delivering
 government services:
+
 Measurement of cost-benefit ratios
 has developed from the early metrics
 of water projects into, first, a sophisticated
@@ -44,6 +46,7 @@ analysis, even with its limits of quantification
 and its inability to shed light
 on distributional and value questions,
 is an important aid to informed decisions.
+
 
 A related advance is the development
 of new and tougher standards for judging
@@ -68,6 +71,7 @@ the brunt of the evaluation boom. By
 the old inputs standard, a program like
 Head Start would have fared much
 better.
+
 The reach of cost-benefit analysis will
 be lengthened if a broad range of new
 research efforts in nonmarket sectors of
@@ -81,6 +85,7 @@ between crime and punishment,
 and to measure the value of nonmarket
 economic activity conducted within
 firms and households.
+
 The new technique of controlled social
 experimentation on proposed welfare
 and housing measures, health insurance,

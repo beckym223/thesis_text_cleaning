@@ -12,6 +12,7 @@ monetary stability; and (ii) stability of the
 money supply is not enough to give us a stable
 economy, precisely because there are exogenous
 disturbances.
+
 Finally, let me mention that I have actually
 made an attempt at rerunning history to see
 whether a stable money supply would stabilize
@@ -34,6 +35,7 @@ from stable-in fact, it was distinctly less stable
 than actual experience, by a factor of 50 percent.
 B. The Overall Effectiveness of Postwar
 Stabilization Policies
+
 But even granted that a smooth money supply
 will not produce a very stable world and that
 there is therefore room for stabilization policies,
@@ -62,6 +64,7 @@ constant money supply policy, the economy will
 automatically hunt for, and eventually discover,
 that shifty natural rate, wherever it may be
 hiding.
+
 This argument, I submit, is nothing but a
 debating ploy. It rests on the preposterous assumption
 that the only alternative to a constant
@@ -89,5 +92,6 @@ country to work toward the eventual achievement
 of some target unemployment rate through
 structural changes rather than aggregate demand
 policies).
+
 Clearly, even the continuous updating of
 targets cannot guarantee that errors can be

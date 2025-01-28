@@ -1,6 +1,7 @@
 II. The Monetarists' Attack
 A. The Stabilizing Power of the
 Hicksian Mechanism
+
 The monetarists' attack on Keynesianism was
 directed from the very beginning not at the
 Keynesian framework as such, but at whether it
@@ -57,8 +58,10 @@ other targets, which were either irrelevant or, in
 the case of balance of payments goals, should
 have been made irrelevant by abandoning fixed
 exchanges.
+
 B. The Demise of Wage Rigidity and the
 Vertical Phillips Curve
+
 But the most serious challenge came in
 Friedman's 1968 Presidential Address, building
 on ideas independently put forth also by Phelps
@@ -70,6 +73,7 @@ including the Phillips curve, was but a statistical
 illusion resulting from failure to differentiate between
 price changes and unexpected price
 changes.
+
 Friedman starts out by reviving the Keynesian
 notion that, at any point of time, there exists a
 unique full-employment rate which he labels the

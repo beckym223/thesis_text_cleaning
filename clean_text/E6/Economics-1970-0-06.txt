@@ -25,8 +25,10 @@ would be workable at all. Nor will I try to
 explore the relationship of technological
 progress to population growth and to its
 specific consequences.
+
 II. Two Versions of the Social BenefitCost
 Ratio, and their Meaning
+
 A substantial part of the progress-generating
 costs of each period is incurred by
 decision makers subjected to the criterion
@@ -40,6 +42,7 @@ with the problem of social yield, we should
 obviously include these private yield-oriented
 costs in the cost-base of our benefitcost
 ratio.
+
 Another large part of the progress-generating
 expenses is incurred by agencies
 not institutionally subjected to criteria of

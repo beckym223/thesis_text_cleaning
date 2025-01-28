@@ -53,6 +53,7 @@ role of government is ignored, much of
 theoretical macroeconomics does, either
 explicitly or by implication, leave an important
 role for government.
+
 Although macro-economic theory does
 not ignore the role of government, we can
 still find plenty of examples of the failure
@@ -87,6 +88,7 @@ years. Much of the work in this area tends
 to be done in an institutional vacuum, including
 the recent work on the formation
 of price expectations.
+
 I think it is fair to say that we still lack
 a general theory with a significant time
 dimension of the nature of the inflationary

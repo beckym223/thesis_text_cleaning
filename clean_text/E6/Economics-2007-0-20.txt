@@ -5,6 +5,7 @@ They also see it as a description of reality. Such
 a view is revealed in textbook presentations.
 Economists accept natural theory for theoretical
 and empirical reasons.
+
 Theoretically, they view the assumptions of
 natural rate theory as realistic. A standard criterion
 for an economic model is that participants
@@ -36,6 +37,7 @@ also an increase in inflationary expectations,
 both of which shifted the Phillips curve outward;
 it explained the rise in unemployment by
 a decline in demand.
+
 Furthermore, new estimates of Phillips curves
 seemed to show that the theory closely fit the data.
 If inflationary expectations are formed as a simple

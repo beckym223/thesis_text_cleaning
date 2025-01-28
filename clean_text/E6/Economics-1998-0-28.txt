@@ -20,6 +20,7 @@ which might typically be considered to be
 comparative static, can nonetheless turn out to
 influence economic growth rates over extended
 periods of time.
+
 This story begins with a recognition that
 most developing countries have typically used
 production techniques that were "backward"
@@ -43,6 +44,7 @@ quite rapid improvements in the developing
 countries as they learn how to "adopt and
 adapt" already-known techniques from the
 advanced countries.
+
 I would assume that the incentives for "convergence"
 are always present, but that they
 have typically run into barriers and trammels
@@ -51,6 +53,7 @@ world. Reducing the barrfers and loosening the
 trammels permits the more rapid convergence
 to techniques that are closer to the frontier of
 knowledge.
+
 The way I see the influence of policy in
 growth, it is simply not true that implementing
 enabling policies typically permits a quantum

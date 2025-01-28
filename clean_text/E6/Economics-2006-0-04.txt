@@ -8,6 +8,7 @@ concepts of self-interested consumers and
 free markets even further, embracing a withering
 of authority and a nirvana of Hayekian
 self-reliance.
+
 Most reasoned discussions of privatization
 among economists concentrate on information
 asymmetries, incentives, economies of scale
@@ -29,6 +30,7 @@ the decision-making of consumers, the market
 outcomes they achieve as a result, and the influence
 of these outcomes on their attitudes
 toward markets.
+
 In the general public we see widespread unease
 about market solutions. Free trade and
 globalization, privatization of social insurance,
@@ -87,6 +89,7 @@ explored in pioneering papers by James J. Choi
 et al. (2003) and Richard H. Thaler and Cass R.
 Sunstein (2003), comprise an important scientific
 agenda:
+
 * Are consumers sufficiently consistent in advancing
 their self-interest in specific markets
 to achieve the levels of efficiency and wellbeing

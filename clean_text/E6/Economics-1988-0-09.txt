@@ -19,6 +19,7 @@ be less positively related to cyclical fluctuations
 in aggregate output than is implied by
 business cycles models that emphasize the
 demand side.
+
 Although family behavior presumably has
 only a small part in the generation of
 ordinary business cycles, it is likely to be
@@ -62,6 +63,7 @@ imagination-they almost certainly will
 depend on fertility and other family decisions
 that biologically require a long time to
 implement.
+
 IV. Overlapping Generations
 The intrinsic risks faced by the elderly,
 sick, and unemployed are surely no greater
@@ -81,6 +83,7 @@ protect against the consequences of illness
 and unemployment are even newer and less
 common than Social Security and public
 schools.
+
 Throughout history the risks faced by the
 elderly, young, sick, and unemployed have
 been met primarily by the family, not by

@@ -10,6 +10,7 @@ of the technology, the development of sophisticated
 measurement techniques, and the introduction
 of novel methods for assembling the
 requisite information.
+
 Ellen R. Dulberger (1993) of IBM introduced
 a "matched model" index for semiconductor
 prices. A matched model index combines price
@@ -21,6 +22,7 @@ on index number formulas, including the
 U.S. national accounts. 1 1 The Fisher index is the
 geometric average of the familiar Laspeyres and
 Paasche indexes.
+
 W. Erwin Diewert (1976) defined a superlative
 index number as an index that exactly
 replicates aflexible representation of the underlying
@@ -43,4 +45,5 @@ such as speed of processing and storage
 capacity. A constant quality price index isolates
 the price change by holding these characteristics
 of semiconductors fixed.
+
 Beginning in 1997, the U.S. Bureau of Labor

@@ -75,6 +75,7 @@ inputs, individual valuations will not lead
 to the quantity-adjustments which would
 work toward equalization of returns at the
 margin."5
+
 In such circumstances only one statement
 can be made about the marginal
 criteria of desirable allocation on a reasonably

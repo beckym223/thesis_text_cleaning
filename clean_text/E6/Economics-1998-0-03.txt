@@ -30,7 +30,9 @@ of improved labor quality. These came as part
 of a general move toward disaggregation of the
 two factors, which can be represented by:
 (2) ffAy=ZiwViLi
+
 + z9(Pj + 6j)AKJ + R'.
+
 Here the index i can vary over all sorts of education
 and skill groups as well as categories
 like gender, age, occupation, region, etc. All
@@ -51,6 +53,7 @@ Qt). Thus, the contribution of quality change
 is already built into the first summation in (2),
 but can be separately identified if we so
 choose.
+
 A focus on human capital could lead us to
 a slightly different way of breaking down
 1wiALi. Here we could choose some "basic
@@ -62,6 +65,7 @@ a reward for "raw labor" and another part
 (wi - w *) which we would identify as the
 reward to the human capital of a typical
 worker of type i.
+
 Using a framework like (2) has long been
 the standard for careful professionals. Pioneered
 by Zvi Griliches (1960, 1963), it was

@@ -2,6 +2,7 @@ second is the extent to which additional work,
 and so additional payroll taxes, increase the
 measure of lifetime earnings and so add to
 benefits.
+
 For an average worker at ages 62 and 63,
 Social Security had a roughly zero marginal tax
 for the average worker when the age for full
@@ -34,6 +35,7 @@ expectancy. Empirical estimates find that the
 overall labor supply effect is modest, suggesting
 that the increase in monthly benefits effect is
 more important. The retirement test also helps
+
 
 with the risk in earnings trajectories that comes
 from how opportunities to earn (and disutilities)

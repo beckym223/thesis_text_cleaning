@@ -34,6 +34,7 @@ Textile Mills, and Electrical Machinery. In
 Real Estate, Apparel, Communications, and
 Chemicals. Only Communications appears twice
 among these 12 listings.
+
 Now to my mind, this already brings
 evidence to bear on a number of possible hypotheses
 concerning the nature of TFP
@@ -63,6 +64,7 @@ from Edgar Robles, 1997), shows the quasiLorenz
 curves for a 20-industry breakdown of
 the U.S. manufacturing sector over four successive
 five-year periods.
+
 What strikes one immediately about Figure
 1 is the characteristic "overshooting." I have
 marked withi the first vertical line the point

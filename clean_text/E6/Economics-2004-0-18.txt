@@ -26,12 +26,14 @@ need to single out a cohort that will differ
 greatly from others and perhaps call for something
 other than a smooth adjustment of taxes
 and benefits.
+
 Redistribution across cohorts has not been
 done in a lump-sum fashion, but through the
 choice of tax rates and benefit formulas. Thus
 the redistribution has affected labor supplies as
 well as savings decisions. In the early days, the
 generous benefit formulas (in effect or antici-
+
 
 pated in the future) subsidized labor, just as the
 lower benefits relative to taxes for younger
@@ -47,6 +49,7 @@ lump-sum transfer and all later cohorts have
 implicit taxes on earnings to pay for it. Both the
 transfers and the taxes have influenced labor
 supply.
+
 VI. Automatic and Legislated Adjustments to
 Aggregate Realizations and Risk Allocation
 The actuarial projection for the 1983 reform

@@ -26,7 +26,9 @@ prices give a negative long-run trade-off between
 inflation and unemployment at low inflation,
 at high inflation that trade-off could very
 well be reversed.
+
 D. Summary
+
 To summarize, there is considerable evidence
 of violation of the assumptions and predictions
 of natural rate theory. Wages and prices are
@@ -45,10 +47,12 @@ for inflation. On the other hand, they should
 avoid high inflation, where the trade-offs between
 inflation and unemployment may be
 reversed.
+
 VIII. Rational Expectations Theory
 Our discussion of rational expectations piggybacks
 on our previous discussion of the nat-
 ural rate.
+
 According to rational expectations theory, insofar
 as the central bank changes the money
 supply systematically in response to employment
@@ -57,6 +61,7 @@ response and change prices and wages exactly
 to compensate. The public's anticipation will
 then exactly offset the response. Monetary policy
 is neutral.85
+
 There are two key assumptions underlying
 this neutrality. The obvious one is rational expectations.
 To some, rational expectations regarding
@@ -83,6 +88,7 @@ can be effective in stabilizing output-and possibly
 in raising its long-run level-even in the
 presence of rational expectations.
 IX. Economic Methodology
+
 We have seen that the absence of norms plays
 a key role in each of the five neutralities. Why
 have economists made such systematic omissions?

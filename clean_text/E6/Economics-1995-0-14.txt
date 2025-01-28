@@ -16,6 +16,7 @@ nevertheless no direct and basic importance
 is attached in the utililtarian framework to
 rights and liberties in the evaluation of states
 of affairs.
+
 The initial formulation of social choice
 did not depart in this respect from the utilitarian
 heritage, but it is possible to change
@@ -68,6 +69,7 @@ the different ways of resolving this conflict
 have variable relevance depending on
 the exact nature of the social choice exercise
 involved.
+
 There have also been attempts to redefine
 liberty in purely procedural terms. The
 last is an important subject on its own (quite

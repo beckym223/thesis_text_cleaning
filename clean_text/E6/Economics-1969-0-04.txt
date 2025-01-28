@@ -27,6 +27,7 @@ theory, in the sense that in dynamics we
 cannot afford to neglect the processes by
 which cultures are created and by which
 preferences are learned.
+
 I am prepared indeed to go much further
 and to say that no science of any
 kind can be divorced from ethical considerations,
@@ -41,6 +42,7 @@ people defined by the acceptance of certain
 common values, that is, an ethic
 which permits extensive communication
 among them.
+
 The scientific subculture is no exception
 to this rule. It is characterized by a strong
 common value system. A high value, for
@@ -71,6 +73,7 @@ run the international system are quite different
 from those of science. In this sense,
 therefore, science has an essential ethical
 basis.
+
 This means that even the epistemological
 content of science, that is, what scientists
 think they know, has an ethical component.
@@ -90,5 +93,6 @@ taste; it simply means that the dispute
 about it has been resolved through the application
 of certain common values and
 ethical presuppositions.
+
 There is however a fundamental sense
 in which the epistemological process even

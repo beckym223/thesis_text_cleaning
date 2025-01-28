@@ -10,6 +10,7 @@ high seasonal or cyclical layoffs. That reduces
 the wage that such firms have to pay and thus
 subsidizes the expansion of those high unemployment
 industries.
+
 As all of this became clear, the most obvious
 first reform was to include unemployment benefits
 in taxable income. Although there was
@@ -64,6 +65,7 @@ which is relevant to unemployment spells. Chetty'
 s analysis points to optimal UI replacement
 rates that are close to the levels that we observe
 in the United States.
+
 These calculations of optimal UI benefits assume
 that individuals have no financial assets.
 In contrast, if individuals save optimally, the
@@ -78,6 +80,7 @@ enough to finance consumption optimally during
 spells of unemployment. Some individuals
 would be too short-sighted to save for potential
 unemployment.
+
 What is the optimal response to this problem?
 One possibility would be to continue the current
 system of paying UI benefits but with the level
@@ -101,6 +104,7 @@ number of those who would save optimally, those
 too shortsighted to save, and those who would
 choose not to save in order to qualify for the
 means-tested benefits.
+
 A third possibility is to require everyone to
 have an unemployment insurance savings account
 earmarked to pay benefits if unemployment

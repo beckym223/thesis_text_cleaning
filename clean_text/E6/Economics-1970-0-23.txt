@@ -44,6 +44,7 @@ progress-yields may become interrupted
 for very long periods. Recurring "breakthroughs"
 play an important role in the
 history of the sciences.
+
 Quite aside from the question of a downward
 tendency with the actually observed
 composition of the progress-activities, we

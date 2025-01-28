@@ -13,6 +13,7 @@ market "reputation," or brand-name capital,
 fear of losing which provides an enforcement
 constraint. This is the problem of enforcement.
 
+
 Three major strands of the literature on
 implicit contracts can be discerned, each of
 which emphasizes one of the rationales for

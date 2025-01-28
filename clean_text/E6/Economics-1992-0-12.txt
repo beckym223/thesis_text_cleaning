@@ -6,6 +6,7 @@ they prove to be within the budgetary capabilities
 of individual nations, international
 greenhouse diplomacy will be transformed.
 VII
+
 What remains nearly certain is that the
 main responses to the greenhouse threat
 will be adapting to climate as climate
@@ -16,6 +17,7 @@ decades to come; but international actions
 are making good progress and are among
 the cheapest ways of reducing greenhouse
 emissions.)
+
 Like estimates of warming, estimates of
 the costs of reducing emissions require some
 common but arbitrary objective to be comparable.
@@ -52,6 +54,7 @@ China, account for about a quarter
 of emissions now and would be expected to
 account for half by the middle of the next
 century.
+
 Any estimate of the cost of abatement
 needs therefore to specify at least half a
 dozen target assumptions. Furthermore, the
@@ -86,6 +89,7 @@ for the developing world. The uncertainty
 for the developing world is partly due to the
 estimates being mainly derived from the
 American economy.4
+
 Two characteristics of these estimates
 need to be emphasized. One is that they
 tend to assume optimal technological adjustment,

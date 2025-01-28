@@ -38,18 +38,22 @@ adjustment are external, as in the production
 possibility frontier (1), asset valuation can be
 modeled separately from production.32
 C. Sources of Growth
+
 Under the assumption that product and factor
 markets are competitive, producer equilibrium
 implies that the share-weighted growth
 of outputs is the sum of the share-weighted
 growth of inputs and growth in total factor
 productivity:
+
 (2) wi,,,,A In I,, + wi',cA In IC + WiP,sA In Is
 + wP,t/A In It + wc,A In C,,
 +Wc,cAIn Cc
+
 - VK,nA In K,, + VK,CA In KC
 + VK,sA In Ks + VK,tA In Kt
 + VLA In L + A In A
+
 where wP and -v denote average value shares. The
 shares of outputs and inputs add to one under
 the additional assumption of constant returns,
@@ -85,4 +89,5 @@ presented in terms of average labor productivity
 output Y to hours worked H, and k = KIH is
 the ratio of capital services K to hours worked:
 (3) A Iny== VKA Ink
+
 + VL(A InL - A In H) + A In A.

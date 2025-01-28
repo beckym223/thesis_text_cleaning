@@ -16,6 +16,7 @@ of renter-occupied housing accrues to real estate
 firms as capital income, while the rental
 value of owner-occupied housing is imputed to
 households.
+
 Current dollar GDP in Table 1 is $9.8 trillions
 in 1999, including imputations, and real
 output growth averaged 3.46 percent for the
@@ -32,6 +33,7 @@ goods. It also includes outputs of non-IT
 consumption goods and services as well as imputed
 IT capital service flows from households
 and governments.
+
 The most striking feature of the data in Table
 1 is the rapid price decline for computer investment,
 17.1 percent per year from 1959 to 1995.
@@ -45,6 +47,7 @@ while the consumption of capital services from
 computers and software by households and governments
 shows price declines similar to computer
 investment.
+
 The top panel of Table 2 summarizes the
 growth rates of prices and quantities for major
 output categories for 1990-1995 and 1995-

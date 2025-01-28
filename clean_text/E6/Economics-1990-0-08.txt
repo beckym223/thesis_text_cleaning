@@ -20,6 +20,7 @@ present values of lifetime expenditures of
 people with the same (discounted) lifetime
 incomes are the same regardless of when the
 incomes are consumed.26
+
 Advocates of the expenditure tax regard
 the lifetime perspective as a major advastage
 because it permits them to pretend that taxing
@@ -36,6 +37,7 @@ assumptions underlying this line of
 reasoning strain credulity, but it doestteem
 to lie behind the strong support for thQ expenditure
 tax by many economists.
+
 The lifetime perspective has little merit
 even without the endowment rationale. In
 my view, it is difficult enough to measure
@@ -54,6 +56,7 @@ expenditures at graduated rates
 would destroy the identity of lifetime taxes
 of taxpayers with the same (discounted) lifetime
 incomes.
+
 The expenditure tax is alleged to be superior
 to the income tax on the additional
 ground that the income tax reduces the return

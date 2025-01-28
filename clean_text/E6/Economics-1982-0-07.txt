@@ -17,6 +17,7 @@ price must, in equilibrium, be exactly equal
 to marginal cost, and so resource allocation
 must satisfy all the requirements of first best
 optimality.
+
 Indeed, the argument here is similar to the
 one which has just been described. But there
 is a complication which is what introduces
@@ -73,6 +74,7 @@ in a perfectly contestable market, for it
 promises the entrant supernormal profits
 even if they accrue for a very short period of
 time.
+
 Consequently, when a perfectly contestable
 market contains two or more sellers,
 neither p < MC nor p > MC is compatible
@@ -95,8 +97,10 @@ that perfect contestability constitutes a
 proper generalization of the concept of perfect
 competition so far as welfare implications
 are concerned.
+
 B. On the Determination of Industry
 Structure
+
 I shall be briefer and even less rigorous in
 describing how industry structure is determined
 endogenously by contestability

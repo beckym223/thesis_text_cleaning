@@ -4,6 +4,7 @@ a natural duopoly with another, and
 efficiency may require seventy-three firms
 when some third output vector is provided
 by the industry.
+
 This, then, completes the first of the two
 basic steps in the endogenous determination
 of industry structure. Here we have examined
@@ -19,6 +20,7 @@ structure is most efficient under the circumstances,
 not which industry structure will
 emerge under the pressures of the market
 mechanism.
+
 The transition toward the second, behavioral,
 stage of the analysis is provided by the
 observation that the optimal structure of an
@@ -30,6 +32,7 @@ brought full circle to the conclusion that
 pricing behavior and industry structure must,
 ultimately, be determined simultaneously and
 endogenously.
+
 We are in no position to go much further
 than this for a market whose properties are
 unspecified. But, for a perfectly contestable
@@ -38,6 +41,7 @@ properties of perfect contestability cut
 through every difficulty and tell us the equilibrium
 prices, outputs, and industry structure,
 all at once.
+
 Where more than one firm supplies a
 product, we have already characterized these
 prices precisely. For we have concluded that
@@ -48,6 +52,7 @@ the industry's output quantities simultaneously
 with its prices, in the usual manner.
 Here there is absolutely nothing new in the
 analysis.
+
 But what is new is the format of the
 analysis of the determination of industry
 structure. As I have already pointed out,
@@ -74,6 +79,7 @@ by the behavioral analysis. It will all
 have been done in the normative costminimization
 analysis and the behavioral
 analysis is pure bonus.
+
 Thus, as I promised, I have indicated how
 contestability theory departs from the older
 theory which implicitly took industry structure
@@ -84,6 +90,7 @@ the determination of industry structure as an
 integral part of the theory to be dealt with
 simultaneously with the determination of
 prices and outputs.
+
 At this point I can only conjecture about
 the determination of industry structure once
 we leave the limiting case of perfect contestability.

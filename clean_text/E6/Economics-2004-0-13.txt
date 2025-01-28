@@ -20,6 +20,7 @@ women on average have lower earnings
 and longer lives. That taxes and benefits do not
 break even on a cohort basis is discussed in the
 next section.
+
 The progressivity in the benefit formula uses
 taxes that distort labor supply in order to redistribute
 income and provide insurance. The progressive
@@ -45,13 +46,16 @@ income. The use of a lifetime measure also
 separates out issues of lifetime earnings from
 the age-earnings profile in doing redistribu-
 
+
 tion.46 While both annual income taxation and
 lifetime social security have received analyses
 of the trade-off among redistribution, insurance,
 and distortions, there has not been much work
 considering the simultaneous use of both
 institutions.
+
 A. Retirement Test
+
 For a mandate to save for later consumption
 to have bite, workers can not be allowed to
 claim benefits whenever they want, including

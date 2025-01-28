@@ -8,6 +8,7 @@ costs are defined as those of our progressgeneratinog
 inputs, the benefit-trends and
 cost-trends show a fairly consistent relationship
 that "makes sense."
+
 The method of the Residual can be employed
 in different ways. Kendrick has
 measured a magnitude he calls total factor
@@ -28,6 +29,7 @@ intersector shifts as productivity-increases
 rather than as increase of weighted inputquantity.
 Both concepts relate to the private
 domestic economy.
+
 Both measures used by Kendrick register
 larger productivity-increases than those
 consistent with the usual two-factor classroom
@@ -42,6 +44,7 @@ suggest that, by their own standards, the
 Kendrick measures of productivity-gains
 err somewhat on the high side but other
 considerations point in the opposite direction.
+
 
 From 1900 to 1929, factor productivity,
 including the favorable effect of intergroup

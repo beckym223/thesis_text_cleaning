@@ -5,6 +5,7 @@ have monetary management by the
 Trade Unions, aimed at full employment,
 instead of by the banking systems.
 [p. 2671
+
 The only novelty is that MREH replaces Keynes'
 opening "if" with a "since."
 If one accepts this little amendment, the case
@@ -15,9 +16,11 @@ around. And to the extent that there is a small
 residual instability, it is beyond the power of
 human beings, let alone the government, to
 alleviate it.
+
 III. How Valid Is the Monetarist Case?
 A. The Monetarist Model of Wage
 Price Behavior
+
 In setting out the counterattack it is convenient
 to start with the monetarists' model of price and
 wage behavior. Here one must distinguish between
@@ -28,6 +31,7 @@ in the long run, money is neutral. That conclusion,
 by now, does not meet serious objection
 from nonmonetarists, at least as a first
 approximation.
+
 But the proposition that other things equal,
 and given time enough, the economy will eventually
 adjust to any indefinitely maintained stock
@@ -39,6 +43,7 @@ with both micro and macro evidence, is
 the specific monetarist model set out above and
 its implication that all unemployment is a voluntary,
 fleeting response to transitory misperceptions.
+
 
 One may usefully begin with a criticism of the
 Macro Rational Expectations model and why
@@ -86,6 +91,7 @@ this model as a useful formalization of present
 day Western economies are so numerous that
 only a few of the major ones can be mentioned
 here.
+
 Friedman's view of unemployment as a voluntary
 reduction in labor supply could at best
 provide an explanation of variations in labor

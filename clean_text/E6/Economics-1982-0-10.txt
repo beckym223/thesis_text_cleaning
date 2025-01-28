@@ -43,6 +43,7 @@ appear to have run into a major snag by
 concluding that perfect contestability always
 leads to marginal cost pricing under oligopoly.
 
+
 This is particularly so if the (ray) average
 curve is U shaped, with its minimum occurring
 at a single point, y n. For in this case
@@ -70,12 +71,14 @@ either MC pricing or zero profits and,
 consequently, violating one or the other of
 the requirements of equilibrium in a perfectly
 contestable market.
+
 It would appear that equilibrium will be
 impossible in this perfectly contestable
 market unless by a great piece of luck the
 industry demand curve happens to intersect
 its AC curve at 2,000 or 3,000 units or some
 other integer multiple of 1,000 units of output.
+
 
 There are a variety of ways in which one
 can grapple with this difficulty. In his dissertation

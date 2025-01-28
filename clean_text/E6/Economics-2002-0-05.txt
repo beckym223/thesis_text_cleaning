@@ -13,6 +13,7 @@ quality exceed its additional cost. Once
 having decided on the choice of variety, the
 consumer decides whether to purchase it or do
 without.
+
 The first part of the problem is equivalent to
 choosing the maximum between u(y - Ph, Zh)
 and u(y - pl, zl), where y is income. The
@@ -20,6 +21,7 @@ added cost of high quality is l\p = Ph - Pl- Its
 added benefit is how much more the buyer is
 willing to pay for it, A\O, and is defined as a
 compensating variation:
+
 (1) U(y - pI - AO, Zh) = U(y - pi, Z1)-
 AXO is the money premium a person would pay
 for Zh when the lower-quality item z, is available
@@ -31,7 +33,9 @@ Define 0 as the compensating variation that
 equates the utility of not purchasing anything to
 that obtained from the best possible variety:
 (2)
+
 u(y,O)
+
 = max{u(y - 0 - AO, Zh), U(y - 0, Z1)}.
 The consumer does not purchase any z if both
 0 < p, and 0 + AO < PhThis

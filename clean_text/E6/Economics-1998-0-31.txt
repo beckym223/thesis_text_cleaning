@@ -1,5 +1,6 @@
 I consider the strongest argumnent for the twodeflator
 approach.
+
 But there are other pluses as well. First, at
 the aggregate economy level, the two-deflator
 approach comes very close to the traditional
@@ -26,12 +27,14 @@ among the labor categories he works with,
 which are typically broken down by gender,
 age, education, occupation, industry, and employmnent
 status.)
+
 The bottom line is that when Beyer compares
 his two-deflator results, at the national
 aggregate level, with those of others using different
 methods, he finds on the whole only
 modest differences. [See Beyer (1996);
 Harberger (1998).]
+
 When one uses the two-deflator method at
 the industry level, one often has the possibility
 to adjust the quantity variable so as to make it
@@ -53,6 +56,7 @@ quite notable (85 percent of differences less
 than one percentage point of per annium
 growth). [See Robles ( 1997); Ilarberger
 (1998).]
+
 When one gets down to the firm level, the
 two-deflator method is in its element. Rarely
 do we have decent time series on the price index

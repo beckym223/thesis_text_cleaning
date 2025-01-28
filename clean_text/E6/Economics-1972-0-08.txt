@@ -87,6 +87,7 @@ inflationary expectations. As a
 first approximation, inflation illusion has
 no substitution effect on the margin between
 working and waiting.
+
 It does have an income effect, causing
 workers to exaggerate their real wealth.
 In which direction the income effect

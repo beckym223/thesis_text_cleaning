@@ -4,6 +4,7 @@ because they do not include the large
 amounts of income taxpayers were able to
 shelter before the enactment of the Tax Reform
 Act of 1986.
+
 Many economists and statisticians have
 examined these trends, but nobody has been
 able to explain them fully. The declining
@@ -27,6 +28,7 @@ have had earlier. I turn now to an examination
 of the burdens imposed by the tax system
 and how they have affected the distribution
 of income after tax.
+
 Distribution of Tax Burdens. I have been
 estimating federal, state, and local tax burdens
 by income classes for the last two

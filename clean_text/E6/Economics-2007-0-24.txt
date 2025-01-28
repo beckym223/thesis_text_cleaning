@@ -1,4 +1,5 @@
 C. Prices
+
 We have just seen that employees' norms
 regarding nominal wages may affect bargained
 real wages, and therefore cause trade-offs between
@@ -38,6 +39,7 @@ microeconomic response to this increased elasticity-
 a lower price for their product-will
 produce a macroeconomic trade-off between inflation
 and aggregate demand.
+
 Just as sticky money wages indicated that
 employees have norms regarding wage change,
 similarly, sticky prices indicate that customers
@@ -72,6 +74,7 @@ customers. Kackmeister suggests that the decline
 in long-term customer relationships is one
 factor responsible for greater frequency of price
 change today.
+
 Emi Nakamura and J6n Steinsson (2005)
 give an economic reason why customers would
 have such a norm that firms should not change

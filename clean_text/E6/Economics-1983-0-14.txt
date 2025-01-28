@@ -7,6 +7,7 @@ which carefully models the relationship
 among all of the prices and quantities that
 enter into dynamic profit-maximizing investment
 decisions.'8
+
 As a third example, there is James Tobin's
 theory, suggested by Keynes, that focuses on
 the relationship between the aggregate market
@@ -31,6 +32,7 @@ security markets; the replacement cost of
 their assets is the reproduction cost of existing
 plant, equipment, and inventories at current
 price levels."9
+
 However formulated in detail, the q theory
 of course employs much of the same information
 that is used in other macroeconomic
@@ -69,6 +71,7 @@ beauty contest to describe such markets. You
 also recall that this parable was, in fact,
 Keynes' analogy for the price determination
 of equities.
+
 In recent years, economists have been paying
 greatly increased attention to stock
 prices-a subject largely avoided by economists

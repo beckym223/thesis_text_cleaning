@@ -2,6 +2,7 @@ usable, empirically validated theory and
 we are studying a process that generates very
 limited data relating outcomes to underlying
 factors.66
+
 Incomplete specification is not a necessary
 part of a mandatory social security system. For
 example, in Chile workers are required to save
@@ -21,6 +22,7 @@ do that for the United States-there are
 states of nature that require some legislative
 change, indeed the probability of such a future
 need is very high today.
+
 The Chilean approach of a fully funded defined
 contribution system is not the only way to
 have a fully specified system. Sweden has one
@@ -36,6 +38,7 @@ increases each year by taxes paid and a notional
 interest rate.68 At retirement, this balance
 is converted into an annuity based on the
 
+
 life expectancy of that cohort and the same
 notional interest rate.69 The notional interest
 rate is set administratively (with automatic
@@ -48,6 +51,7 @@ contribution system matters since the vocabulary
 with which a system is described can
 influence the politics of both creation and
 adaptation.
+
 By itself a well-structured NDC system, with
 a decent size buffer stock of assets, will have
 little probability of needing legislative intervention
@@ -68,6 +72,7 @@ system to have that property. Sweden, like
 Chile, puts all of the risk of future outcomes on
 the side of benefits and none on the side of
 taxes.70
+
 Some simple ways for pretty much ensuring
 automatic balance can illustrate alternative approaches.
 In the French and German pension

@@ -4,6 +4,7 @@ on the erratic and arbitrary nature of incentives
 provided by trade regimes, forced a
 reexamination of the premises on which importsubstitution
 policies were based.
+
 Yet another contribution of empirical research
 was to focus upon the actual workings
 of policy implementation. In early policy prescriptions,
@@ -19,6 +20,7 @@ prescriptions might have side effects that had
 earlier been unanticipated.
 B. Refinement and More Appropriate
 Interpretation of Theory
+
 As already seen, some of the intellectual underpinning
 of import-substitution policies was
 provided by inappropriate interpretation of
@@ -45,6 +47,7 @@ demonstrated clearly that a first-best intervention
 would be in the labor market, and
 that a tariff or quota could not achieve a firstbest
 outcome.
+
 Similarly, developments showing that the
 comparative advantage results were not the
 simple "specialize forever in primary products"
@@ -81,6 +84,7 @@ terms of resource drains, but the very recognition
 of their presence served to remind
 policy makers of the limitations of their
 instruments.
+
 Finally, good analyses demonstrating how
 individual import controls actually worked
 contributed to understanding and made empirical

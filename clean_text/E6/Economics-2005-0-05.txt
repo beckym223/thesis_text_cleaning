@@ -4,6 +4,7 @@ provision of social insurance benefits. I come to
 this conclusion on utilitarian grounds rather
 than from any philosophical commitment to social
 solidarity.
+
 There are two distinct reasons for providing
 social insurance. Both reflect the asymmetry of
 information. The first is that asymmetric information
@@ -51,6 +52,7 @@ annuities that is limited only when, at some
 point, the risk-reducing value of annuitizing
 outweighs the less than actuarially fair pricing
 of individual annuities.
+
 A mandatory social insurance program like traditional
 Social Security circumvents this asymmetry
 of information by providing everyone with a
@@ -67,6 +69,7 @@ complete annuitization at retirement would not
 permit the purchase of retirement homes or other
 major consumer outlays or the making of bequests
 or inter vivos gifts.
+
 The problem of information asymmetry in
 private annuities could be reduced if individuals
 purchased annuities at relatively young ages,
@@ -77,6 +80,7 @@ more attractive if it were based on the higher
 return available in an investment-based program
 rather than in a mature pure tax-financed
 pay-as-you-go program.
+
 Two conclusions follow from this. First, the
 existence of asymmetric information may justify
 a social insurance program (a government

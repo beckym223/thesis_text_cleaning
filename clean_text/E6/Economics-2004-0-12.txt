@@ -8,6 +8,7 @@ difficulties and political hurdles will need to be
 overcome if we are to make improvements.
 IV. Income Distribution, Insurance, and Labor
 Supply38
+
 In determining retirement benefits, Social Security
 first averages the best 35 wage-indexed
 annual earnings,39 then it uses a progressive
@@ -31,8 +32,10 @@ weight the earnings in different years in determining
 benefits (as opposed to using an
 interest rate)42 and concentrate on the effects
 
+
 of a progressive benefit formula and a retirement
 test.43
+
 Consider the stochastic process of earnings
 opportunities. Individual workers face considerable
 risks that are only partially correlated with

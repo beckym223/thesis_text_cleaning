@@ -2,6 +2,7 @@ costs of industry show in losses-in deductions
 from net income-unless they are
 recovered through revenue from sales in
 markets.
+
 This difference in accounting methods
 corresponds to differences in the strength
 of the argument for including the two
@@ -40,6 +41,7 @@ but before trying to appraise the merits
 and deficiencies of this version of our ratio,
 let us take a look also at another way of
 going about the matter.
+
 We may, alternatively, decide to include
 in our cost-base the costs of nonprofit institutions
 along with those of the profitseeking
@@ -77,4 +79,5 @@ valuation of the contribution of progressgenerating
 inputs aside from their contribution
 to measurable productivity
 gains.
+
 The proposition suggests itself that the

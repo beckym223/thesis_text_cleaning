@@ -26,26 +26,31 @@ against catastrophic costs in the future, and
 these could be rational decisions if there is very
 strong aversion to the risk of large, low-probability
 losses.
+
 A final part of our survey asked subjects for
 their preferences among the alternatives of no
 prescription drug coverage, the Medicare Part D
 standard plan, and three hypothetical alternative
 plans:
+
 * Guaranteed Benefit Plan: Medicare pays 52.3
 percent of approved prescription drug costs,
 no matter how high or low these costs are.
 The annual premium of $444 is the same as
 the standard plan.
+
 * Major Cost Protection Plan: Pays all approved
 prescription drug costs above $2,444
 per year, but nothing until your cost at the
 pharmacy reaches this level. The annual premium
 of $444 is the same as the standard
 plan.
+
 * No Copay Plan: You pay an up-front annual
 premium of $1,889 per year, and all approved
 prescription drug costs are then fully covered,
 with no copayments.
+
 The alternative plans all have the same actuarial
 value as the standard plan for the Medicare
 population, but differ in the degree to which

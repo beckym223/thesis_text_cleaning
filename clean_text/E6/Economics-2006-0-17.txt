@@ -1,10 +1,14 @@
 Standard Medicare with Medigap policies
 that cover drugs
+
 Employee- or union-provided coverage, including
 drugs
+
 Medicare Advantage (HMO or PPO) policies
 that cover drugs
+
 Medicaid beneficiaries
+
 Generally, those in the last three categories receive
 Part D coverage by default. Those with
 Standard Medicare will default out of Part D
@@ -16,6 +20,7 @@ that are more advantageous than Medigap
 policy drug coverage. The analysis that follows
 applies to the people currently on Standard
 Medicare.
+
 CMS has established a standard plan under
 Part D that has an annual premium of $444, a
 deductible of $250, pays 75 percent of prescription
@@ -25,6 +30,7 @@ pharmacy bills reach $5,100, and pays 95 percent
 of pharmacy bills above that level. CMS
 requires approved private plans to offer comparable
 coverage.
+
 Table 4 summarizes consumer out-of-pocket
 costs under the standard plan, not including the
 annual premium, for various pharmacy bills.
@@ -73,6 +79,7 @@ private market, so that a market-oriented design
 contributes to consumer well-being? Is further
 intervention on behalf of the vulnerable
 needed?
+
 Our survey, entitled the "Retirement Perspectives
 Survey" (RPS-2005), was fielded as a
 self-administered Internet questionnaire from

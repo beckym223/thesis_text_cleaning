@@ -10,6 +10,7 @@ health economists to their staffs. Nevertheless,
 the health care debate of 1993-1994 benefited
 much less than it could have from the results
 of their research.
+
 In this lecture I identify the primary sources
 of modern health economics and describe interactions
 between the discipline and the field
@@ -29,6 +30,7 @@ recommendations for health care reformrecommendations
 based on my values as well
 as my understanding of health economics.
 I. The Past
+
 In 1963 a seminal paper by Kenneth Arrow
 discussed risk aversion, moral hazard, asymmetrical
 information, philanthropic externalities,

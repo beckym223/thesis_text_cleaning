@@ -42,8 +42,10 @@ proportionately as risk aversion is increased:
 From Exhibit 2, for example, the average gain
 increases from 0.6 of a percent to 2.5 as y is
 increased from 2 to 4.
+
 Two features of the theory interact to bring
 this about.22 First, and most crucial, is a differ-
+
 
 ence in the way reductions in the variance of
 aggregate shocks affect risks faced at the individual
@@ -87,6 +89,7 @@ also conclude that "the unemployment rate and
 the variance of permanent [earnings] shocks
 appear to be quite synchronized" in the 1970's
 and 1980's.
+
 These issues are central to an accurate description
 of the risk situation that individual
 agents face, and hence to the assessment of

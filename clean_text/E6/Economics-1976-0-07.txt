@@ -41,6 +41,7 @@ and the Solow-Swan neoclassical models.
 And other intriguing topics have arisen to
 stimulate the pursuit of rigor at the expense
 of relevance.
+
 In both micro- and macroeconomics, efforts
 are sometimes made to extract a drop
 or two of relevance from exercises in analytical
@@ -86,6 +87,8 @@ work on rational expectations. (Compare
 Robert J. Gordon.) And, as a final illustration
 I might cite much of the recent literature
 on capital theory.
+
 II
+
 I turn now from the first part of my title
 to the second from rigor and relevance to

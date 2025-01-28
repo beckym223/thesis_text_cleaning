@@ -19,6 +19,7 @@ gradually from 65 to 67) receive an actuarially
 reduced benefit, while those who retire after
 their normal retirement age receive an actuarially
 increased benefit.
+
 Couples may collect benefits either on the basis
 of their separate earnings records or as 150 percent
 of the benefits of the individual with the higher
@@ -65,6 +66,7 @@ looked at this question generally supported the
 primary conclusion, although with estimates of
 varying magnitudes (Congressional Budget Office,
 1998).
+
 This adverse effect of Social Security on saving
 is relevant to understanding the significance
 of Paul Samuelson's very important 1958 overlapping

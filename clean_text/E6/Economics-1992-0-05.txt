@@ -76,6 +76,7 @@ confidence to introduce them into the models.
 So the reassuring gradualness may be
 an artifact of the methodology. I will return
 to this point later.
+
 This greenhouse problem, if problem it
 proves to be, is truly one of the "global
 common." A ton of carbon emitted anywhere

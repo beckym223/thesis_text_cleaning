@@ -20,6 +20,7 @@ much more to be said along these lines,
 and Ian McDonald of the University of
 Melbourne and I hope to say it on another
 occasion.)
+
 (6) As a last example, I recall Pigou's
 observation that wage changes may be
 seen by the parties as hard to reverse without
@@ -30,6 +31,7 @@ when demand increases temporarily and
 workers to reciprocate when demand falls.
 The result is wage stickiness in the face of
 fluctuating employment.
+
 Only what Veblen called trained incapacity
 could prevent anyone from seeing that
 some or all of these mechanisms do indeed
@@ -78,6 +80,7 @@ market, is a customer market; this may be
 one of the important facts that differentiates
 the primary from the secondary labor
 market.
+
 A second general characteristic is the
 availability of some nontrivial source of
 nonemployment income. The obvious one is
@@ -96,6 +99,7 @@ mentioned a few moments ago, several of
 the specific sticky-wage mechanisms in my
 catalog depend for their operation on this
 characteristic.
+
 Third, the stability of the labor pool
 makes it possible for social conventions to
 assume some importance. There is a difference

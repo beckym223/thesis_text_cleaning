@@ -7,8 +7,10 @@ these broader, conceptually relevant measures
 on which we should be focusing in
 analysis, evaluation, and the determination
 of public policy?
+
 III. New Behavioral Relations, Theory
 and Policy
+
 All of this is not just a matter of changing
 the numbers we associate with familiar variables.
 Rather, it alters old relations and reveals
@@ -31,6 +33,7 @@ that a broader view of capital would give
 pause to enthusiastic advocates of business
 investment tax credits and other "incentives"
 of this genre.
+
 Revision of the traditional consumption
 function indicates that, along with the expected
 coefficient in the neighborhood of .9
@@ -61,6 +64,7 @@ When q is low, it will rather pay to buy fixed
 capital by buying other firms or simply to
 use funds to buy back outstanding stock
 rather than buy more expensive physical assets.
+
 
 But does not this theory relate very largely
 to a view of dichotomous labor and "capital"

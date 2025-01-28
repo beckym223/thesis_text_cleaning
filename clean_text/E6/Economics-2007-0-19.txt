@@ -8,10 +8,12 @@ decision of large corporations. Now, quite possibly,
 changes in corporate decision-making
 since that time make it more realistic.65
 C. Summary
+
 The investment decision demonstrates once
 again that the respective neutrality result depends
 on the objective function of the decision makers.
 VII. Natural Rate Theory
+
 We now turn to natural rate theory. Once
 again, the debate concerns the behavior of economic
 decision makers. The early Keynesians
@@ -32,6 +34,7 @@ inflation will occur if unemployment is
 below a critical level, called the natural rate;
 accelerating deflation will occur if unemployment
 is above it.
+
 As we shall see, such spirals occur because,
 at high levels of demand, the representative firm
 will wish to set the price of its product relative

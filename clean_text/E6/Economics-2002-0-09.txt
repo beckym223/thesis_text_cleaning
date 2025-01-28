@@ -48,6 +48,7 @@ with bottom-of-the-line goods in period 2.
 Longer period comparisons are made by linking
 or chaining indexes with common components
 over the years.
+
 Figure 2 contains a graphic example of why
 these adjustments are important. Consider a
 new good Zh2' not previously available, whose

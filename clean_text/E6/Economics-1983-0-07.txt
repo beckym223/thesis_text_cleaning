@@ -38,6 +38,7 @@ produce movements in actual inventories, the
 price effects of which, however, have only
 modest and long-delayed effects in reversing
 such movements.
+
 Clearly, wheat and gold are more-or-less
 extreme examples of a spectrum of durable
 commodities, capable of storage. At the
@@ -65,6 +66,7 @@ movements caused by some random exogenous
 disturbance, or even by the actions of
 a few large traders (for example, the Hunts
 in silver).
+
 Most commodity markets lie between these
 extremes. In such intermediate markets, price
 movements may sometimes be-perhaps ordinarily
@@ -78,6 +80,7 @@ moreover, speculation can affect
 even the most stable markets; and speculative
 fevers can be transmitted from one
 market to another.
+
 The years 1971 through 1973 provide a
 clear example of such speculation and of
 such transmission.6 Coincidental crop failures

@@ -7,6 +7,7 @@ insignificant agents, the formation of destabilizing
 coalitions is prevented if and only if
 all those agents base their decisions on a
 price system.
+
 The concept of a convex set (i.e., a set
 containing the segment connecting any two
 of its points) had repeatedly been placed at
@@ -27,6 +28,7 @@ over a collection of insignificant
 agents is an insight that economic theory
 owes in its revealing clarity to integration
 theory.
+
 An economist who experiences such an
 insight belongs to the group of applied
 mathematicians, whose values he espouses.

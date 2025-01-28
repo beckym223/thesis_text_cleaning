@@ -6,6 +6,7 @@ R&D and offered the hypothesis of "exhaustion
 of inventive opportunities" as a
 potential explanation for the productivity
 slowdown.
+
 This hypothesis has been examined recently
 by various authors. There are basically
 two styles of analysis: one focuses directly
@@ -24,6 +25,7 @@ the units in which patents affect productivity
 growth and ask whether they have
 stayed constant over time. Without such
 constancy, no clear interpretation is possible.
+
 
 II. Productivity Growth and the Role of R&D
 In parallel to the aggregate "residual"
@@ -61,6 +63,7 @@ accumulation (Denison, 1962; Nelson,
 scale (Griliches and Vidar Ringstad, 1972).
 These various effects are real and nonnegligible,
 but not large enough.
+
 There is one other way of trying to make
 something more out of the R&D story: the
 possibility that the productivity impact of

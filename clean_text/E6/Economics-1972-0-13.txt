@@ -4,6 +4,7 @@ wages. But in some markets the equilibrium
 wage will be rising faster, and in
 others slower, than the economy-wide
 wage trend.
+
 A "natural rate" result follows if actual
 wage increases feed fully into the equilibrium
 components of future wage increases.
@@ -18,6 +19,7 @@ the time it takes for them to evaporate
 depends on the lengths of the lags with
 which today's actual wage gains become
 tomorrow's standards.
+
 A rather minor modification may preserve
 Phillips tradeoffs in the long run.
 Suppose there is a floor on wage change in
@@ -47,6 +49,7 @@ model implies a long-run Phillips curve
 that is very flat for high unemployment
 and becomes vertical at a critically low
 rate of unemployment.
+
 These implications seem plausible and
 even realistic. It will be objected, however,
 that any permanent floor independent of
@@ -90,5 +93,6 @@ the system ever approaches. The economy
 is in perpetual sectoral disequilibrium
 even when it has settled into a stochastic
 macro-equilibrium.
+
 I suppose that one might maintain that
 asymmetry in wage adjustment and temporary

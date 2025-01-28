@@ -1,5 +1,6 @@
 what is picked from each alternative "menu"
 (or opportunity set).'5
+
 However, provided some conditions are
 imposed on the "internal consistency" of
 the choice function (relating decisions over
@@ -33,6 +34,7 @@ they must relate to social choices, not to any
 prior notion of social preference, then a very
 similar impossibility reemerges (see Theorem
 3 in Sen [1993]).
+
 How does this "general choice-functional
 impossibility theorem" work? The underlying
 intuition is this. Each of the conditions
@@ -43,6 +45,7 @@ possibility of choosing some alternatives.
 And the conjunction of these conditions can
 lead to an empty choice set, making it "impossible"
 to choose anything.
+
 For example, the Pareto principle is just
 such a condition, and the object of this
 condition in a choice context, surely, is to
@@ -63,6 +66,7 @@ principle for that set S then only demands
 that if everyone prefers some x to some y
 in that set, then y must not be chosen from
 that set.
+
 Similarly, nondictatorship would demand
 that there be no person such that whenever
 she prefers any x to any y in that set S,

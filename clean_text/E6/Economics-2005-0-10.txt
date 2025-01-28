@@ -36,6 +36,7 @@ deadweight loss of the existing tax or the direct
 burden of the taxes themselves. And it does not
 include the deadweight loss caused by the program
 distortions.
+
 Although scaling back the rise in future benefits
 would reduce the increase in the deadweight
 loss, it would also reduce the protection
@@ -44,6 +45,7 @@ An alternative approach is therefore to redesign
 the program so that the increased financing required
 for the aging population has less of the
 character of a tax.
+
 One way to do that is to strengthen the taxpayers
 perception of the link between taxes paid
 and future benefits. That is one of the advantages
@@ -55,6 +57,7 @@ plan would remain a pay-as-you-go system,
 it would clearly link each worker's social insurance
 tax payment to his or her resulting future
 benefits.
+
 A defined contribution system would provide
 a tax-benefit link for those groups in the population
 that now receive no extra benefits at all in
@@ -67,6 +70,7 @@ basis on which Social Security benefits are calculated,
 as well as working women who will
 eventually claim benefits based on their husbands'
 earnings.
+
 Although an unfunded notional defined contribution
 system would provide some remedy,
 the very low implicit rate of return in an unfunded

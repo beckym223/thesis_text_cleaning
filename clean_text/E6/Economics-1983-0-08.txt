@@ -48,6 +48,7 @@ further reliance up on the long-term
 equilibrium model. There seems little room
 for price bubbles in that version of rational
 expectations.
+
 But whether, and to what extent, market
 fundamentals will, in fact, prevail, surely depends,
 as I have argued above, on the durability
@@ -59,6 +60,7 @@ Given the world as it is, I suggest that the
 "fundamentals" do not always and everywhere
 prevail. Bubbles do occur, and are
 important.
+
 However, most or all of the new literature
 on price bubbles appears to deal only with
 price movements away from, or back towards,
@@ -75,6 +77,7 @@ Price bubbles, in contrast, involve an extrapolation
 of expected price movements (however
 originating), causing further movement
 in the same direction.
+
 In my view, however, where the impacts of
 price on amounts produced and consumed
 are small, slow, and uncertain, a speculative

@@ -2,10 +2,12 @@
 dependent on systematic monetary
 policy, and thus violate rational expectations
 theory; and
+
 * A realistic norm will make current consumption
 dependent on the current generation's
 social security receipts, in violation of Ricardian
 equivalence.
+
 Additionally, insofar as the behavior assumed
 by the early Keynesians differed from the behavior
 that produces the neutralities, there is
@@ -26,6 +28,7 @@ of the Keynesians with the intentionality of
 economic decisions in New Classical economics.
 Such a synthesis yields the best of the two
 approaches.
+
 Two Disclaimers.--Before beginning in earnest,
 let me offer two brief disclaimers. First,
 none of the behavior revealing of the norms that
@@ -36,6 +39,7 @@ General Theory by macroeconomists who have
 followed Keynes in voicing their continuing
 doubts about classical interpretations of macroeconomic
 behavior.
+
 Second, this lecture will discuss different
 norms that respectively correspond to the five
 neutralities. I shall assume that these norms are
@@ -56,6 +60,7 @@ For clarity, this section will now give an
 overview of each of the five neutrality results.
 A. Dependence of Consumption on Wealth,
 Not Income
+
 Standard theory tells us that, under only
 somewhat special conditions, consumption depends
 on wealth, which is the value of current
@@ -64,6 +69,7 @@ assets plus the discounted value of future earnings.
 make their expenditures conform to the pattern
 of their income receipts (as long as their wealth
 is given).
+
 Changes in the pattern of current income that
 leave overall wealth constant are neutral in their
 effects on current consumption.
@@ -81,6 +87,7 @@ exceeds the rate of return on capital.
 Changes in the firm's finances will thus be
 neutral in their effect on current investment.
 C. Natural Rate Theory
+
 According to Natural Rate Theory, there is
 some single rate of unemployment that is the
 only level that could be permanently maintained

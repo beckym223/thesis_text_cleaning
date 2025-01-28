@@ -9,6 +9,7 @@ earns a favorable rate of return, they might not
 consider it a tax at all. I will return to this issue
 later when I discuss Social Security reform
 more fully.
+
 Designing Programs by Balancing Protection
 and Distortion, while Seeking Reforms that
 Improve the Available Tradeoff.-Social insur-
@@ -47,6 +48,7 @@ of production. More complete protection in
 each program also raises the program cost and,
 therefore, creates greater distortions through the
 tax system.
+
 As protection becomes more complete, the
 marginal value of protection declines and the
 incremental distortion rises. The primary goal
@@ -62,6 +64,7 @@ distortion. Economists can help the policy
 process by evaluating the protection and distortion
 created by different changes in program
 design.
+
 Useful economic analysis can go beyond selecting
 an optimal point on a protection-distortion
 frontier. It is important to seek ways to shift the
@@ -69,6 +72,7 @@ frontier, permitting less distortion at each level of
 protection. Reforms based on individual accounts
 that I describe later in the paper would achieve
 that improvement.
+
 Redesigning Programs to Keep Pace with
 Changing Conditions.--Three important changes
 that should influence the design of our social insurance

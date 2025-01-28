@@ -12,6 +12,7 @@ to become an institutionalist; and that didn't
 particularly attract me. Only later, and somewhat
 by accident, did I become a macroeconomist.
 
+
 Ever since the emergence of macroeconomics
 as a distinct and (almost) respectable
 branch of analysis, there has been a conscious
@@ -48,6 +49,7 @@ I intend only a meander, not a mapping. The
 spirit in which the journey is undertaken is
 that this is really all one country, and strollers
 should be welcome.
+
 But it is not an imaginary country that I
 propose we visit. We will see no Walrasian
 auctioneers, although we will see many
@@ -61,6 +63,7 @@ observe that the population of this country is
 neither very much brighter-nor much more
 stupid-than you and I are, in our own
 economic decisions.
+
 Some aspects of the problems that I will
 discuss are particularly important in an age
 of inflation, and to the theory of inflation.
@@ -72,6 +75,7 @@ relative prices; and it is simpler to deal with
 them on the assumption of a constant price
 level. That way, I do not need to keep repeating
 "real price."
+
 I start with the prices and inventories of
 standardized commodities.
 I. Commodity Prices and Inventories

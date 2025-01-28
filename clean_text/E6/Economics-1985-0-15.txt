@@ -18,6 +18,7 @@ conventions, institutions, and patterns of behavior
 that have evolved to avoid the chaos
 and inefficiencies that would result from continuous
 market clearing.
+
 The signals which firms initially receive
 when aggregate demand shocks occur are the
 same as those for a resource transfer, but an
@@ -36,6 +37,7 @@ of micro efficiency. The cyclical
 behavior of the aggregate wage and price
 levels unfolds from the gradual overcoming
 of that bias.
+
 In the long run, those features of economic
 relationships which make short-run price and
 wage stickiness optimal and which rationally
@@ -75,6 +77,7 @@ how prices and wages behave. Empirical research
 is needed principally to tell us something
 about the formation of expectations on
 the general price level.
+
 While contract theory and related research
 has been developing rationally based foundations
 for structural wage and price stickiness,
@@ -89,6 +92,7 @@ in adjusting their wages, assuming the
 stability of W, the wage norm? And what
 does it take to produce a perceived "permanent"
 change in that norm?
+
 A full and complete microeconomic foundation
 to wage adjustment with the power of
 the auction-market model may never be

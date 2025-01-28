@@ -1,5 +1,6 @@
 Reports of the demise of our discipline are
 grossly exaggerated.
+
 IV. The "Outputs" of Public Economics
 Having considered some indicators of
 the quality of our inputs and of the revealed
@@ -30,6 +31,7 @@ miniaturized assessment of the achievements
 of public economics as viewed
 through the policy prism.
 Public Expenditures
+
 Consider first the striking contributions
 economics has made in the past generation
 to clear thinking and better informed
@@ -42,6 +44,7 @@ way of looking at problems of
 choice, namely, through the lens of opportunity
 costs, benefits, and alternative
 paths to a stated goal.
+
 Economics can offer much more concrete
 guidance on efficient ways of allocating
 resources to achieve stated governmental
@@ -55,6 +58,7 @@ elected for, yet at the same time seek, or
 at least accept, economic guidance on the
 choice among competing methods of
 achieving these goals.
+
 Nonetheless, rapid progress in the
 theory of public goods since the appearance
 of the Samuelson classic on "The
@@ -75,6 +79,7 @@ are external and nonmarketable since
 nobody can be excluded from them. That
 may clarify thinking but gives little policy
 guidance.
+
 Yet, the externality concept translates
 into hard-headed policy advice in such
 disparate areas as pollution, federal aid,

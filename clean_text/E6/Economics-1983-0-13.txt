@@ -20,6 +20,7 @@ then permitted a subsequent expansion of
 real output, once the next boom began.
 VII. Price-Theoretic Models of
 Aggregate Investment
+
 Most business cycle theories-or, more
 broadly, most macroeconomic theories of the
 "medium run"-from the time of Wicksell
@@ -47,6 +48,7 @@ There are many price levels-relative price
 levels-important for investment in plant,
 equipment, and normal inventories. They include:
 
+
 1) The price level for loans: some particular
 rate of interest, or some average of rates,
 at which investment can be financed;
@@ -55,9 +57,11 @@ goods, reflecting their physical productivity,
 the prices of the goods produced by their
 use, and the supply-prices of cooperating
 factors of production;
+
 3) The supply-price level for new capital
 goods, sometimes taken as a function of their
 rate of production;
+
 4) The supply-price and the demand-price
 levels of entrepreneurship and innovation;
 5) The supply-price levels of risk and/or
@@ -65,9 +69,11 @@ uncertainty bearing, by investors and lenders;
 6) The level and nature of the prices
 imposed by government; taxes and their structure;
 and
+
 7) The price level of ownership of existing
 enterprises; that is, the level of share
 prices.
+
 The question is not which among these
 price levels are relevant for investment: all of
 them (and others) are doubtless relevant to
@@ -78,6 +84,7 @@ which relative to another or others are primarily
 responsible-in the real world-for
 macroeconomic stability or instability, real
 and nominal?
+
 I can illustrate the wide variety of price
 theoretic explanations of investment by reference
 to three familiar but quite different

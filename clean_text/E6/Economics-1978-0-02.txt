@@ -60,6 +60,7 @@ we must extend the system to include the
 whole supply-side apparatus of production
 relationships, factor demand, and factor
 supply.
+
 It is well known that Keynes included
 the aggregate supply function in the General
 Theory, but it was introduced in his
@@ -74,6 +75,7 @@ on the nominal wage rate, assuming
 the existence of money illusion, and by not
 treating the stock of capital as an explicit
 variable.
+
 If the demand relationships explaining
 the components of the GNP are disaggregated
 into a highly detailed set, it does not

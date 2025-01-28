@@ -23,6 +23,7 @@ remarks that none of it is very important in
 practice anyway. All this is relevant here
 only as background for the treatment of the
 labor market.
+
 Pigou says the obvious thing first, and I
 agree that it is the first thing to say: if there
 is "thorough-going competition" among
@@ -40,6 +41,7 @@ the real-wage adjustment needed for an
 increase in employment. (This is where the
 Pigou effect makes its appearance, of
 course.)
+
 It is what comes next that interests me. It
 is obvious to Pigou, writing in 1944, that the
 labor market does not behave as if workers
@@ -87,11 +89,13 @@ and custom play a large role in labor market
 behavior. From the prominence that he
 gives it, I gather that Pigou might have
 agreed.
+
 A second factor, which has been more
 often discussed, is trade unionism. Pigou
 does not have very much to say about collective
 bargaining, but what he says makes
 sense.
+
 Of course, these agencies in their decisions
 have regard to the general state
 of the demand for labour; they will

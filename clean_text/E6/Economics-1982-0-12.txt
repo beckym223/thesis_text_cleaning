@@ -15,6 +15,7 @@ the complementarity which leads firms and
 industries to turn out a multiplicity of products
 rather than specializing in the production
 of a single good.
+
 Now what, in such a case, corresponds to
 the flat bottom of an AC curve in a single
 product case? The answer is that the cost
@@ -37,6 +38,8 @@ the firm's total cost does have a region in
 which constant returns to scale occur, and
 which corresponds to the flat-bottomed segment
 of the A C curve.
+
+
 
 Moreover, as before, I have deliberately
 kept this segment quite narrow. Indeed, I

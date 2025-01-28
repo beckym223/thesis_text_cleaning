@@ -15,6 +15,7 @@ inputs in response to the rapid deployment of
 IT. It also encompasses costs of adjustment,
 while allowing financial markets to be modeled
 independently.
+
 As a consequence of the swift advance of
 information technology, a number of the most
 familiar concepts in growth economics have
@@ -36,8 +37,10 @@ from aggregate input X, consisting of
 capital services and labor services. Productivity
 is a "Hicks-neutral" augmentation of aggregate
 input.
+
 The production possibility frontier takes the
 form:
+
 (1) Y(In 9 IC , Is, It,9 Cn 9 Cc)
 where the outputs include non-IT investment
 goods I,, and investments in computers Ic, software
@@ -61,6 +64,7 @@ stocks with service prices as weights. Similarly,
 constant quality prices of IT capital services are
 used in deflating the nominal values of consumption
 of these services.
+
 Another important advantage of the production
 possibility frontier is the incorporation of costs of
 adjustment. For example, an increase in the output

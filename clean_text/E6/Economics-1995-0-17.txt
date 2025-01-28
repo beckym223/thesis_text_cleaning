@@ -17,6 +17,7 @@ function of the agents of public action. The
 additional assumption of homo economicus
 is not needed to point to this general
 lacuna.
+
 While this has been a somewhat neglected
 question in social choice theory
 (though partially dealt with in the related
@@ -35,6 +36,7 @@ supplementary work here, this is a helpfully
 permissive framework-not tied either to
 ceaseless do-gooding, or to uncompromising
 self-centeredness.
+
 Even with this extended framework, taking
 us well beyond the homo economicus,
 there remain some difficulties with the notion
@@ -74,6 +76,7 @@ component of democracy ("government by
 discussion") and that "individual values can
 and do change in the process of decisionmaking.
 "
+
 This issue has some real practical importance.
 To illustrate, in studying the fact that
 famines occur in some countries but not in

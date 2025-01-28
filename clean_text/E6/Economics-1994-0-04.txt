@@ -69,7 +69,9 @@ have been made in theory and in
 econometric techniques, but these will be
 wasted unless they are applied to the right
 data.
+
 I. The "Facts"
+
 There are three sets of "facts" to look at:
 what has happened to productivity, what
 has happened to investment in R&D and

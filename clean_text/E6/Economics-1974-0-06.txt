@@ -57,6 +57,7 @@ processes, the short-run changes
 which are responses to disequilibria, and it
 is here that the pressure for a more satisfactory
 model arises.
+
 Hold in abeyance for a moment our considerations
 about the market. Let us return
 to the optimization problem of the individual.

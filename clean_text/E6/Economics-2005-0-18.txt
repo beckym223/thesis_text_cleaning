@@ -2,6 +2,7 @@ that represent a claim on those real assets.) However,
 the initial generation of retirees had the good
 fortune to receive benefits without ever having
 paid taxes.
+
 It can be shown that aggregating the consumption
 losses of all generations of taxpayers back to
 the initial date using a discount rate equal to the
@@ -19,6 +20,7 @@ who will soon retire receive a windfall gain at the
 expense of all future generations but with no
 change in the present value of consumption over
 all generations.
+
 This neutrality result depends, however, on the
 implicit assumption that there are no distorting
 capital income taxes.17 With capital taxes, the
@@ -41,6 +43,7 @@ a pure pay-as-you-go program to a mixed program
 with a substantial investment-based portion would
 cause a large rise in the present value of
 consumption.
+
 The reduction in saving and in the present
 value of consumption is not the only adverse
 effect of a pay-as-you-go program. A second
@@ -60,6 +63,7 @@ individuals may also underestimate the effect of
 additional earnings on future benefits. In all of
 these cases, the payroll tax may create a substantial
 deadweight burden.
+
 This incremental deadweight loss from distorting
 the labor supply would be essentially
 eliminated if individuals earned a market return

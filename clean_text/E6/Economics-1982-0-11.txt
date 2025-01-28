@@ -40,6 +40,7 @@ existence problem disappears altogether, because
 the industry's AC curves will be horizontal
 for any output greater than Ym, That
 
+
 is, in any contestable market in which two or
 more firms operate the industry AC curve
 will be horizontal and MC pricing will always
@@ -53,6 +54,7 @@ out more than 1,000 but less than 2,000
 units. Hence, each of them will operate along
 the horizontal portion of its AC curve, as
 equilibrium requires.
+
 Thus, if the horizontal interval (yi, kym)
 happens to satisfy k , 2, there is no longer
 any problem for existence of equilibrium in a
@@ -62,6 +64,7 @@ that horizontal interval is quite short, that is,
 k is quite close to unity? Such a case is
 shown in our diagram where for illustration I
 have taken k =4/3.
+
 I should like to take advantage of your
 patience by dealing here not with the simplest
 case-that of the single product industry-
@@ -70,6 +73,7 @@ I do this partly to offer you some feeling of
 the way in which the multiproduct analysis,
 which is one of the hallmarks of our study,
 works out in practice.
+
 Because, as we have seen, there is no way
 one can measure average cost for all output
 combinations in the multiproduct case, I will

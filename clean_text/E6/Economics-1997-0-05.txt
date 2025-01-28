@@ -11,6 +11,7 @@ many analytical formulations, it was explicitly
 or implicitly assumed that labor was a
 free good while capital was the scarce factor
 of production.'0
+
 Related to the fourth premise was a fifth
 premise: that capital accumulation was crucial
 for growth, and in early stages of development
@@ -23,12 +24,14 @@ exchange earnings would not, it appeared that
 growth could follow only if domestic production
 of import-competing goods could expand
 rapidly.
+
 Yet a sixth widely accepted premise was
 that there was very little response to price
 incentives in developing countries: peasants
 were "traditional" in their behavior, and
 there were "structural" problems within the
 economy." '
+
 Based on these stylized facts and premises, it
 was a straightforward step to believe that the
 process of development was that of industrialization,
@@ -41,7 +44,9 @@ stated by Chenery (1958 p. 463) among many
 others: "Industrialization consists primarily in
 the substitution of domestic production of manufactured
 goods for imports."
+
 C. Initial Policies
+
 Policy prescriptions were derived from
 these propositions, or stylized facts. Since it
 was thought that industrialization was necessary

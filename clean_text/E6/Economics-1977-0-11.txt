@@ -9,6 +9,7 @@ mechanism the change in real money
 supply through prices has an even longer lag
 because of the sluggish response of wages to
 excess demand.
+
 These interferences are supported by simulations
 with econometric models like the MPS.
 Isolating, first, the working of the Hicksian
@@ -19,6 +20,7 @@ output which is barely more than 1 percent, rises
 to a peak of only about 2 percent a year later, and
 then declines slowly toward a level somewhat
 over 1.5 percent.
+
 Taking into account the wage price mechanism
 hardly changes the picture for the first
 year because of its inertia. Thereafter, however,
@@ -34,6 +36,7 @@ to oscillate around a positive value because normally,
 a demand shock requires eventually a
 change in interest rates and hence in velocity
 and money income.
+
 These results, which are broadly confirmed by
 other econometric models, certainly do not support
 the view of a highly unstable economy in
@@ -44,6 +47,7 @@ shocks hardly make a ripple and the effects of
 fiscal policy are puny and fast vanishing.
 C. The Monetarist Evidence and the
 St. Louis Quandary
+
 Monetarists, however, have generally been
 inclined to question this evidence. They countered
 at first with tests bearing on the stability of
@@ -78,6 +82,7 @@ impact was both small and fleeting: the effect
 peaked in but two quarters and was only around
 one, and disappeared totally by the fourth quarter
 following the change.
+
 These results were immediately attacked on
 the ground that the authors had used the wrong
 measure of monetary and fiscal actions, and it

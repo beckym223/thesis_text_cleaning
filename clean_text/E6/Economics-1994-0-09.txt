@@ -1,6 +1,7 @@
 bad, and row 3b in Table 1 indicates no
 decline in the R&D coefficient even without
 the computer industry.
+
 What is one to make of these conflicting
 stories? It seems that the observed decline
 in the R&D coefficients did not begin seriously

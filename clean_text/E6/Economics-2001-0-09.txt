@@ -11,6 +11,7 @@ were treated as purchases of nondurable
 goods. Software investment is growing rapidly
 and is now much more important than investment
 in computer hardware.
+
 Robert P. Parker and Grimm (2000) describe
 the new estimates of investment in software. BEA
 distinguishes among three types of softwareprepackaged,

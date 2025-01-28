@@ -2,6 +2,7 @@ mand prices needed to account for variation
 in components of final expenditure. This
 brings us to a fundamental set of new considerations
 on the supply side.
+
 II. The Task of Modeling Supply
 If sector prices by line of production are
 to be explained in a fundamental way by
@@ -38,6 +39,7 @@ of summarizing this idea is to use the
 KLEM production function, whose inputs
 consist of capital, labor, energy, and materials.
 
+
 The KLEM production function concept
 is useful in partial studies of separate industries
 or sectors, and has long been anticipated
@@ -63,6 +65,7 @@ together with labor and capital. The gross
 output concept consisted of a log-linear
 combination of ton miles and passenger
 miles.2
+
 These individual industry production
 functions with a small number of intermediate
 inputs are hardly substitutes for a detailed
@@ -72,6 +75,7 @@ analysis is to explain intermediate flows in
 the economic system. The full system is
 needed in order to provide an adequate supply
 analysis because
+
 (i) There is much more to economic activity
 than can be summarized by the
 system of final goods production.
@@ -79,6 +83,7 @@ system of final goods production.
 prices depends on highly specific
 types of intermediate, as well as final,
 goods/services prices.
+
 The occurrence of bottlenecks potential
 or realized as in the oil embargo of
 1973--74 or the diversion of large amounts

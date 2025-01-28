@@ -14,6 +14,7 @@ demand for shelter is closer to, but still below,
 1.0. On the other hand, the long-term income
 elasticities for leisure, education, and for medical
 services are over 1.O.7
+
 Table 4 differs from current official tabulations
 of household consumption in two principal
 respects. Official tabulations, with minor
@@ -37,8 +38,11 @@ While leisure (volwork) remains a relatively
 small share of expanded consumption in 1875,
 
 
+
+
 it accounts for two-thirds of expanded consumption
 in 1995.'
+
 The failure to include the value of volwork
 in the national income and product accounts is
 perhaps the most glaring example of the cultural
@@ -63,5 +67,6 @@ to go before it catches up with the economy.
 I1I. Shifting to Life-Cycle Data Sets for
 Successive Cohorts and to Intergenerational
 Data Sets
+
 It is no secret that cross-sectional data sets
 are cheaper to construct and more abundant

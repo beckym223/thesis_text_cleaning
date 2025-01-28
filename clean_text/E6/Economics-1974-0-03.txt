@@ -26,6 +26,7 @@ policy is dominant, though the lag may be
 as variable as and a good deal longer than
 that of the stock of money on money gross
 national product.
+
 It is now more fashionable than it used
 to be for statisticians to be told to take a
 good look at their data before fitting
@@ -46,6 +47,7 @@ of the economics of uncertainty;
 our lack of economic knowledge is, in good
 part, our difficulty in modelling the ignorance
 of the economic agent.
+
 Critical aspects of this need for reorientation
 of theory have been recognized by
 many scholars in the last quarter-century
@@ -53,6 +55,7 @@ and particularly in the last decade. I view
 my remarks today as a summary and perspective
 on a widely shared development
 of thinking.
+
 The starting point of discussion must
 still be the much-abused neoclassical
 theory. No really cohesive alternative

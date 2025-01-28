@@ -2,6 +2,7 @@ income is withdrawn from personal accounts,
 which can be bequeathed if the individual dies
 before exhausting the account or before annuitizing
 the accumulated balance.
+
 The analysis of these three types of distortion
 should make it clear that the shift to a "notional"
 defined contribution system would help only a
