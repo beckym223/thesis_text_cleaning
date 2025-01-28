@@ -1,4 +1,4 @@
-ulation to one representative can be coinputed from the population
+to one representative can be coinputed from the population
 of each state and the size of the House.
 The effect of this false start is felt in certain anomalies or paradoxes
 to which the Vinton method gives rise.
@@ -38,4 +38,4 @@ But if the same method had been reversed and the result approached
 by successive subtractions rather than successive additions,
 the outcome would have been just as definitely favorable to
 the small states.
-A method theoretically sound should hold the balance true be-
+A method theoretically sound should hold the balance true between
