@@ -159,7 +159,7 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     setup_logging(log_file,console_level=logging.INFO)
 
-    initialize_directories(source_dir,dest_dir,commit_changes)
+    initialize_directories(source_dir,dest_dir,False)
 
     handle_covers_and_references(dest_dir,commit_changes)
     
