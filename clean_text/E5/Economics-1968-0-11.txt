@@ -9,6 +9,7 @@ wages kept rising at a pace that was higher than the new rate
 of price rise, though lower than earlier. This is the result experienced,
 and to be expected, of all attempts to reduce the rate of inflation below
 that widely anticipated.5
+
 To avoid misunderstanding, let me emphasize that by using the term
 "natural" rate of unemployment, I do not mean to suggest that it is immutable
 and unchangeable. On the contrary, many of the market characteristics
@@ -21,6 +22,7 @@ about job vacancies and labor supply, and so on, would tend to lower
 the natural rate of unemployment. I use the term "natural" for the
 same reason Wicksell did-to try to separate the real forces from monetary
 forces.
+
 Let us assume that the monetary authority tries to peg the "market"
 rate of unemployment at a level below the "natural" rate. For definiteness,
 suppose that it takes 3 per cent as the target rate and that the

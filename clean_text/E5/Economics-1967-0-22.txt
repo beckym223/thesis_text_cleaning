@@ -18,6 +18,7 @@ stock) or at the expense of potential capital gains on treasury stock
 earmarked for such stock options, but which, on the other hand, may
 be a powerful force aligning the managers' personal interests with the
 goal of maximizing the net profits of the firm.
+
 The point of it all is that the total utility of managers can be increased
 by decisions which increase expenses at the expense of profits.
 (Of course, this is confined to situations where profits are high enough

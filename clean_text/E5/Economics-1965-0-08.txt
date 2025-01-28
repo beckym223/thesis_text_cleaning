@@ -1,7 +1,9 @@
 to accept as evidence selected corollaries of a general theory. The
 doctrine of nonintervention was powerful only so long and so far as
 men wished to obey.
+
 II
+
 There was no day on which economists ceased to commend reductions
 in the government's role in economic life and began to propose its
 expansion. The limitation of hours of work for children was supported
@@ -12,6 +14,7 @@ How else could it be? The distinction between ancient police functions
 admitted by all and new regulatory functions proposed by some
 was most elusive. The same economist could and did repel the state
 with one hand and beckon it with the other.'4
+
 The expansion of public control over economic life which took place
 in the mid-nineteenth century in England, and a trifle later in the
 United States, was usually of this sort: a traditional state function was
@@ -20,6 +23,7 @@ traditional functions. Economic effects were usually incidental to protective
 effects: the inspection of factories and mines, the sanitation
 laws for cities, the embryonic educational system, and most of the controls
 over railroads were of this sort [9] [4].
+
 One thing did not change at all, however, from the heyday of laissez
 faire: no economist deemed it necessary to document his belief that the
 state could effectively discharge the new duties he proposed to give to
@@ -29,6 +33,7 @@ powers by a democracy were deemed too prophetic to deserve
 the discourtesy of historical test. I shall illustrate this persistent neglect
 of empirical evidence with the writings of two economists who have
 almost nothing in common except great ability.
+
 The first is Jevons. Governmental operation of an industry was appropriate,
 Jevons believed, if four conditions were fulfilled: (1) The
 work must be of an invariable and routine-like nature, so as to be performed

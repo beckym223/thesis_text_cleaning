@@ -10,6 +10,7 @@ degrees of severity, others are more disciplined; a few have convertible
 currencies but the majority suffer from overvalued currencies and their
 trade is restricted and distorted by controls and multiple currency
 practices of varying impenetrability.
+
 In view of this great diversity of basic structures and policies, it is
 not surprising that the trade and growth performance of the less developed
 countries is very widely scattered. To search for systematic
@@ -17,6 +18,7 @@ connections between the latter-performance-and the former-basic
 structures and policies-would be a challenging task but cannot be undertaken
 in one lecture. It would seem possible, however, to draw some
 useful conclusions from the over-all picture.
+
 The most important fact is that the volume of trade of the less developed
 countries has grown and is growing at a substantial rate. The
 more rapid growth of the volume of imports than that of exports reflects
@@ -31,6 +33,7 @@ countries are their own best customers." But during the Great Depression
 trade in manufactured products (which can be taken as a rough
 index of trade of developed countries) contracted more sharply than
 the volume of trade in primary products.
+
 There are, however, good reasons to believe, as Professor Samuelson
 recently reminded us [17, p. 48], that lower total volume of trade
 between the developed and underdeveloped countries may bring more

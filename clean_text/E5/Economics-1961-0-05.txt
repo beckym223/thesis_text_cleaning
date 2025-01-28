@@ -13,6 +13,7 @@ analyses. Investment in human beings has accordingly seldom been
 incorporated in the formal core of economics, even though many
 economists, including Marshall, have seen its relevance at one point or
 another in what they have written.
+
 The failure to treat human resources explicitly as a form of capital,
 as a produced means of production, as the product of investment, has
 fostered the retention of the classical notion of labor as a capacity to
@@ -24,6 +25,7 @@ such a count as a measure of the quantity of an economic factor is
 no more meaningful than it would be to count the number of all manner
 of machines to determine their economic importance either as a stock
 of capital or as a flow of productive services.
+
 Laborers have become capitalists not from a diffusion of the ownership
 of corporation stocks, as folklore would have it, but from the acquisition
 of knowledge and skill that have economic value [9]. This
@@ -32,7 +34,9 @@ combined with other human investment, predominantly account for the
 productive superiority of the technically advanced countries. To omit
 them in studying economic growth is like trying to explain Soviet ideology
 without Marx.
+
 II. Economic Growth from Human Capital
+
 Many paradoxes and puzzles about our dynamic, growing economy
 can be resolved once human investment is taken into account. Let me
 begin by sketching some that are minor though not trivial.

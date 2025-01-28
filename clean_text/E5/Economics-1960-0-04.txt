@@ -2,6 +2,7 @@ mild setback. Since 1937 we have had five recessions, the longest of
 which lasted only 13 months. There is no parallel for such a sequence
 of mild-or such a sequence of brief-contractions, at least during the
 past hundred years in our own country.
+
 Nor is this all. The character of the business cycle itself appears to
 have changed, apart from the intensity of its over-all movement. We
 usually think of the business cycle as a sustained advance of production,
@@ -23,6 +24,7 @@ fell more closely into step with one another and thus justified our thinking
 of them as moving in a rough parallelism. In recent years, however,
 and especially since the second world war, the relations among these
 movements have become much looser.
+
 The structure of an economy inevitably leaves its stamp on the character
 of its fluctuations. In our generation the structure of the American
 economy has changed profoundly, partly as a result of deliberate economic
@@ -30,7 +32,9 @@ policies, partly as a result of unplanned developments. In considering
 problems of the future, we can proceed more surely by recognizing
 the changes in economic organization which already appear to have
 done much to blunt the impact of business cycles.
+
 I
+
 In the early decades of the nineteenth century the typical American
 worker operated his own farm or found scope for his energy on the
 family farm. Governmental activities were very limited. What there

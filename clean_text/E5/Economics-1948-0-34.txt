@@ -4,6 +4,8 @@ and be appreciably different from those in the iron and steel and heavy
 metals industries, etc. If, therefore, we could compute separate values
 
 
+
+
 of k and j for each of the various main groups of manufacturing and
 compare the actual with the resulting theoretical products, we could
 doubtless find the resulting deviations to be appreciably less than those

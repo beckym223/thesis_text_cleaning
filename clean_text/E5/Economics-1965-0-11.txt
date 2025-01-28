@@ -5,6 +5,7 @@ in the following remarks. These functions pose no question of
 the desirability of state action and very different questions of the economist'
 s role in policy. On the basis of a highly incomplete canvass of
 the literature, I propose three generalizations.
+
 First, there was a large and growing range of policy issues which
 economists essentially ignored. If we examine the English legislation
 governing shop closing hours, or pure food and drug inspection, or municipal
@@ -25,6 +26,7 @@ Second, even when economists took an active and direct interest in
 a policy issue, they did not make systematic empirical studies to establish
 the extent and nature of a problem or the probable efficiency of
 alternative methods of solving the problem.
+
 It is difficult to support allegations about the absence of a given type
 of scientific work; often the allegation illuminates only the reading
 habits of its author. I am reasonably confident, however, that the following

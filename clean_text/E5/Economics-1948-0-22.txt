@@ -6,9 +6,13 @@ For Victoria, the value of b was .97 and for New South Wales, 1.02. In all these
 moved up or down by the small difference between the values of b and unity. In the time
 series, of course, we are dealing with index numbers which show relative changes, not
 absolute values.
+
 B. Under formula (2) (i.e., P = bLkCJ) b deviates in a greater degree from unity because
 of the greater degree of freedom given to the exponent for capital. Here the values for
 the United States are:
+
 b b
+
 Series I .84 Series III 1.12
+
 Series II 1.38 Series IV 1.35

@@ -6,6 +6,7 @@ the nature of the production function itself. But the sad truth of
 the matter is that they have made little effort to find out and have
 instead turned their backs upon inductive research and have, in effect,
 been school men living within ivy-clad towers.
+
 II. The Early Studies of the Cobb-Douglas Production Function
 It was twenty years ago last spring that, having computed indexes
 for American manufacturing of the numbers of workers employed by
@@ -25,7 +26,9 @@ familiar with the Wicksteed analysis and Cobb was, of course, well
 versed in the history of the Euler theorem. At his suggestion, therefore,
 the sum of the exponents was tentatively made equal to unity in the
 formula
+
 P - bLkClk (1)
+
 Here it was only necessary to find the values of b and k. This was
 done by the method of least squares and the value of k was found to
 be .75. This was almost precisely what we had expected because of

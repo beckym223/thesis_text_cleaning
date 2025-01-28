@@ -1,6 +1,7 @@
 that many of the basic truths in the natural sciences were discovered
 by similar nonexact methods, long before the present accurate
 methods of measurement were known.
+
 Although exact scientific measurements are impossible for the solution
 of many economic problems, a scientific attitude is a sine qua non.
 By that term I refer, first and foremost, to complete honesty and impartiality.
@@ -28,6 +29,7 @@ idea that anyone but an economist has anything worthwhile to say on
 the solution of practical economic problems. Related is the idea that the
 only worth-while answers to economic questions are to be found in applications
 of general economic theory.
+
 A less extreme variant is the view that economists should deal only
 with the economic aspects of problems but should participate with other
 social scientists in interdisciplinary research. This calls for each group

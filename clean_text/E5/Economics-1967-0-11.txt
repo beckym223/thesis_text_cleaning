@@ -14,11 +14,13 @@ from the cause to the effect.4 This is altogether different from explaining
 the behavior of a firm. As the philosopher of science warns,
 we ought not to confuse the explanans with the explanandum.
 Misplaced Concreteness
+
 To confuse the firm as a theoretical construct with the firm as an
 empirical concept, that is, to confuse a heuristic fiction with a real organization
 like General Motors or Atlantic & Pacific, is to commit the
 "fallacy of misplaced concreteness." This fallacy consists in using theoretic
 symbols as though they had a direct, observable, concrete meaning.
+
 
 In some fields, investigators are protected from committing the fallacy,
 at least with regard to some of their problems, by the fact that a

@@ -1,5 +1,6 @@
 sharply for a spell while the farm assets percentage turned upward.
 They are now declining together again.
+
 Not included in productive assets in the foregoing are the quickturnover
 or circulating types of capital goods-on the farm, the commercial
 fertilizer and lime, the sprays, the feed for livestock, the fuel
@@ -15,7 +16,9 @@ of estimation for this occasion. It can be pointed out, however, that
 these types of capital goods are playing a larger and larger role in agriculture.
 They were a half larger in 1950 than in 1940 after adjusting
 for the rise in prices.
+
 Gross and Net National Product
+
 The measures which combine labor force with other productive
 agents are of course either total inputs or total outputs. The total input
 measure is dangerous to use because only arbitrary values can be
@@ -39,5 +42,6 @@ because of agriculture's larger use of capital goods especially from 1940
 on, and hence larger capital consumption. Except for this, the series
 for gross and for net product run in close parallel, and the gross product
 will serve our purpose best.
+
 In Chart I, the three series of agriculture's share which we have been
 exploring, the share in the labor force, the share in tangible assets used

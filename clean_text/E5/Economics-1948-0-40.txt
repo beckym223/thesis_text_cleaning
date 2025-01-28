@@ -1,10 +1,12 @@
 ratio of W/P was probably very close to .63 or the exact average
 value of k.
+
 I submit, therefore, that the degree of agreement between the values
 of k and of W/P is most striking and that the results conform to what
 normally would be expected to occur under competitive productivity
 theory. Hence, this constitutes a still further reinforcement to the
 productivity function itself.
+
 It should, however, be frankly recognized that there is a further
 problem of reconciling these results with the known facts of imperfect
 competition, oligopoly and monopoly. Such conditions, as has been
@@ -18,6 +20,7 @@ and oligopolies may have shared with their workers the excess gains
 which they have made at the expense of the consumers.
 We can make a further test of the degree to which W/P approxik
 
+
 mates k and by examining the results for the British Dominions
 of Australia, New Zealand, and Canada. This is done in Table IX.
 Taken in the large, the agreement in the cross-section studies for
@@ -26,16 +29,23 @@ and all of the five inter-industry studies for the Commonwealth, the
 differences never exceeded one standard error of k. For the five years
 as a whole, the average value of k and W/P were both .55. The average
 k
+
 value of was .56. It would scarcely be possible to have a closer
 k? j
+
 agreement than this.
+
 In the case of the four studies for the Australian states, the differences
 in the case of Victoria were not great, never exceeding two
 standard errors of k and being slightly reduced if the comparisons are
 k
+
 made between W/P and .29 For the three years as a whole, the
 k? j
+
 differences are largely ironed out since the average values of k are .65
 k
+
 and of W/P .66. The average value of was .70.
+
 k? j

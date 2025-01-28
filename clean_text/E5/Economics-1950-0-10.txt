@@ -7,6 +7,7 @@ ends. Alternatively, it might be said that with respect to these two
 optima the political choices have for their aim the improved operation of
 individual economic choice. These characteristics fade away progressively
 as we proceed to two further concepts of optimum.
+
 I refer first to the "optimum propensity to save," a magnitude implicit
 in the Keynesian general equilibrium theory, first made explicit by
 Oscar Lange.4 The idea of an optimum amount of saving is a part of the
@@ -31,6 +32,7 @@ the less well-to-do, but also that these income classes account for the
 largest part of savings. With them the motives thus far mentioned are
 exceptional and the one overwhelmingly important purpose is provision
 for the future.
+
 Now an economic optimum which runs in terms of limiting this
 activity is indeed a paradoxical kind of optimum. Providing security
 against the rainy day and old age from the fruits of one's own productive

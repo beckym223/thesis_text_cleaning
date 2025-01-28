@@ -11,6 +11,7 @@ of inflation. The widespread belief that there is a perma ient trade-off
 is a sophisticated version of the confusion between "high" and "rising"
 that we all recognize in simpler forms. A rising rate of inflation may
 reduce unemployment, a high rate will not.
+
 But how long, you will say, is "temporary"? For interest rates, we
 have some systematic evidence on how long each of the several effects
 takes to work itself out. For unemployment, we do not. I can at most
@@ -25,6 +26,7 @@ of inflation of the order of magnitude that has been experienced in the
 United States. For much more sizable changes, such as those experienced
 in South American countries, the whole adjustment process is
 greatly speeded up.
+
 To state the general conclusion still differently, the monetary authority
 controls nominal quantities-directly, the quantity of its own liabilities.
 In principle, it can use this control to peg a nominal quantity-an
@@ -37,7 +39,9 @@ to peg a real quantity-the real rate of interest, the rate of unemployment,
 the level of real national income, the real quantity of money,
 the rate of growth of real national income, or the rate of growth of the
 real quantity of money.
+
 II. What Monetary Policy Can Do
+
 Monetary policy cannot peg these real magnitudes at predetermined
 levels. But monetary policy can and does have important effects on
 these real magnitudes. The one is in no way inconsistent with the other.

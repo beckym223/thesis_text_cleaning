@@ -22,9 +22,11 @@ to public interest and patriotic causes, free time for leisure
 and recreation, and indications of influence over government, industry,
 and society. This list of variables is, of course, only representative, not
 exhaustive."2
+
 Now what can one do with a utility function of this sort? Will it be
 of much use in telling us what the firm will do with its freedom of action
 if it has to respond to a change in conditions?
+
 The answer will depend partly on a simple condition, namely,
 whether the acceptable trade-off ratios between all the factors contributing
 to total utility remain unchanged, or approximately the same,

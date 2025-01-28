@@ -1,12 +1,15 @@
 "For there are, ill the present times, two opinions: not, as in former ages the true and the
 false; but the outside and the inside."
+
 J. M. Keynes (1921)
+
 "The proper study of Mankind is man." So said the infallible poet.
 And past experience at these annual gatherings of the sons and daughters
 of Adam Smith suggests that the popular subject of discussion
 among economists is not so much economics as economists. Usually the
 annual presidential address is an exception-an exception that does
 not always improve upon the rule.
+
 According to our annals, an expiring president of this occult body
 begins with two choices. He may, on the one hand, give an address
 that summarizes his lifework or his basic contribution to some important
@@ -15,6 +18,7 @@ just as he was about to come out of his academic cocoon and emerge
 as a senatorial butterfly, gave his 1947 address on the Laws of Production,
 summarizing his decades of work measuring statistical production
 functions.
+
 I am afraid this choice is not open to me. My own scholarship has
 c,overed a great variety of fields. And many of them involve questions
 like welfare economics and factor-price equalization; turnpike theorems

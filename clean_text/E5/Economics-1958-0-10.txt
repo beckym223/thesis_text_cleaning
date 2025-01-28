@@ -7,6 +7,7 @@ on competition to produce an adjustment that conforms to sound public
 policy is in a market where there are many traders on both sides
 and where all terms except the prices are uniform and fixed so that
 perfect market conditions are approximated.
+
 Alternatively when price competition and competition on other terms
 of trade are combined, the regulatory function may be impaired. Indeed,
 as Henry Carter Adams long ago pointed out, in such circumstances
@@ -19,6 +20,7 @@ of sellers in a market is a further circumstance that may impair the
 regulatory function of competition, for it is likely to mean that the less
 numerous traders on the one side of the market are specialists at the
 trade, while the very much larger number on the other side are amateurs.
+
 
 Nonetheless, where the more numerous traders are buyers, even
 when sellers are competing in quality of product and in sales effort as

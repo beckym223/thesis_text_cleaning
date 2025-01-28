@@ -1,5 +1,6 @@
 curve for labor during this period would seem to be not far
 from 3.0, and for capital, to be around 1.5'"
+
 Let us now turn to the examination of the two time series and nine
 cross-section studies which have been made for Australia, and which
 are summarized in Table II, with its accompanying notes. In the Victorian
@@ -9,6 +10,7 @@ be noticed, however, that the respective standard errors of k and j
 are quite high and that the values of k under the original formula
 (P bLkClk) vary somewhat from those obtained under the second
 formula.
+
 As we would expect from the reasons which have been given, the
 values of k in the nine cross-section studies for Australia are somewhat
 lower. The combined average of the k's was .60 and of the j's
@@ -17,6 +19,7 @@ that we get identical results with either formula since the average of the
 k's under formula (1) is also .60. It should also be noted that the
 values of k are from 8 to 14 times and the j's from 3 to 10 times their
 standard errors.
+
 The results for the five Commonwealth studies differ somewhat from
 those for the separate states, having somewhat lower k's and higher j's.
 Thus, in the Commonwealth, the average of the k's is .55, with a spread
@@ -24,18 +27,31 @@ in individual years between .49 and .64, while the average for the four
 state studies is .65. On the other hand, the j's average .43 in the Commonwealth,
 as contrasted with .20 in the state studies.'8 After the text
 The marginal productivity of labor is
+
 c9P k k
+
 -a = - P = L bL kCi = MPL.
+
 OL L L
+
 The elasticity of the marginal productivity curve for labor is then defined as
 k P
+
 1 AIPL 1 L
+
 77 = .~ V ~= _- -
+
 =(MPr') L-k(k?-71)P L
+
 L L2
+
 then
+
 1
+
 k-i
+
 The flexibility of the marginal productivity curve for labor is defined as the reciprocal
 of the elasticity of this curve or
+
 = =-= k - 1.

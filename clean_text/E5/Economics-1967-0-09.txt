@@ -15,6 +15,7 @@ the consequences of a change in driving conditions if the number of
 automobiles on the highways is large. If the number is small, behavioral
 research will be needed, though it may or may not be worth the
 cost.
+
 Still another use can be made of our analogy: to show the vast
 differences in the scope of questions to which answers can or cannot be
 expected with the aid of a given theory, for example, from the theory
@@ -23,6 +24,7 @@ questions: (1) How fast will traffic move? (2) How fast will the automobile
 driven by Mr. X move? (3) How will the speed of traffic be
 affected by fog? (4) How will the speed of Mr. X's driving be affected
 by fog?
+
 The theory sketched by me offers no answer to the first question, because
 each of the variables specified may have very different values for
 different cars and drivers; it has no answer to the second question, and

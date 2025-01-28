@@ -8,6 +8,7 @@ observed that increases in national output have been large compared
 with the increases of land, man-hours, and physical reproducible capital.
 Investment in human capital is probably the major explanation for
 this difference.
+
 Much of what we call consumption constitutes investment in human
 capital. Direct expenditures on education, health, and internal
 migration to take advantage of better job opportunities are clear examples.
@@ -19,6 +20,7 @@ In these and similar ways the quality of human effort can be
 greatly improved and its productivity enhanced. I shall contend that
 such investment in human capital accounts for most of the impressive
 rise in the real earnings per worker.
+
 I shall comment, first, on the reasons why economists have shied away
 from the explicit analysis of investment in human capital, and then, on
 the capacity of such investment to explain many a puzzle about economic

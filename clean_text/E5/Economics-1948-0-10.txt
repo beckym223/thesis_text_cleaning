@@ -1,7 +1,9 @@
 An able young American scholar, David Durand,'2 had published
 in 1937, an excellent critical article of the earlier material, and had
 urged that the restricted function of
+
 P = bLkCl-k (1)
+
 be abandoned for one in which the exponent for capital was independently
 determined. As he correctly pointed out, the use of the k and 1-k
 function assumed the existence of an economic law which it should
@@ -13,6 +15,7 @@ true increasing and decreasing as well as constant returns to scale. We
 therefore decided that Durand's suggestion should be adopted and that
 we should try to find the values in terms of the formula:
 P - bLkC] (2)
+
 The second change was to broaden our fields of investigation.
 Hitherto, we had dealt only with time studies and had found the
 values of our exponents from index numbers of labor, capital, and
@@ -34,5 +37,6 @@ employees, officials and generally firm members and working proprietors
 dollars including both fixed and working capital, and (3) aggregates
 of the net value of product added by manufacturing expressed in terms
 of dollars (P).
+
 In these studies, differences between industries in the quantities of
 their net value product were presumed to be a function of the total

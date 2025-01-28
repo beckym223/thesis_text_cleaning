@@ -14,6 +14,7 @@ If such basic components of modern economic theory have escaped
 tests for quantitative significance, it is hardly surprising that our antitrust
 laws, our motor carrier regulation, and our control of insurance
 company investments have also escaped such tests.
+
 Still, there has been a difference. Empirical tests of economic
 theories have been made for generations, and with greater frequency
 and diligence than we encounter in the area of social experiments. Already
@@ -24,6 +25,7 @@ diligence or ingenuity can be found in the study of state controls at
 that time. A half century later Henry Moore was calculating statistical
 demand curves; again the study of the effects of public policies was
 lagging.
+
 The age of quantification is now full upon us. We are now armed
 with a bulging arsenal of techniques of quantitative analysis, and of
 a power-as compared to untrained common sense-comparable to
@@ -34,6 +36,7 @@ article of work as well as of faith of the modern economist that at a
 minimum one must establish orders of magnitude, and preferably one
 should ascertain the actual shapes of economic functions with tolerable
 accuracy.
+
 The growth of empirical estimation of economic relationships, please
 notice, did not come as a response to the assault on formal theory by
 the German Historical School, nor was it a reply to the denunciations

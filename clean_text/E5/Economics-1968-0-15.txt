@@ -9,6 +9,7 @@ its own. There is therefore a positive and important task for the monetary
 authority-to suggest improvements in the machine that will reduce
 the chances that it will get out of order, and to use its own powers
 so as to keep the machine in good working order.
+
 A second thing monetary policy can do is provide a stable background
 for the economy-keep the machine well oiled, to continue Mill's
 analogy. Accomplishing the first task will contribute to this objective,
@@ -23,6 +24,7 @@ to achieve changes in relative prices and wages that are required
 to adjust to dynamic changes in tastes and technology. We should not
 dissipate it simply to achieve changes in the absolute level of prices
 that serve no economic function.
+
 In an earlier era, the gold standard was relied on to provide confidence
 in future monetary stability. In its heyday it served that function
 reasonably well. It clearly no longer does, since there is scarce a country

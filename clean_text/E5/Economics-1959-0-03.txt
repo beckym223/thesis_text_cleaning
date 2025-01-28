@@ -12,6 +12,7 @@ theory Veblen said: "In the days of the early classical writers economics
 had a vital interest for the layman of the time, because it formulated
 the commonisense metaphysics of the time in its application
 to a department of human life" [31, p. 69].
+
 Wesley Clair Mitchell, close friend and admirer of Veblen, expressed
 a similar thought throughout his brilliant lectures on types of economic
 theory at Columbia University. Economic doctrines, he told his students,
@@ -23,5 +24,6 @@ of economic thought from Adam Smith to John R. Commons.
 As a background for a similar interpretation of current economic
 thikliing, I shall lean heavily upon what Mitchell had to say about what
 Adam Smith taught and why he taught it.
+
 Smith was primarily a political economist, not an economic logician.
 It is true that he formulated principles governing the determination of

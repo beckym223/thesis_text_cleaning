@@ -8,6 +8,7 @@ cities of 100,000 and over had risen in number eighteenfold to nearly
 700 and their relative population eightfold to 11 per cent of the world
 total. It is not entirely surprising, therefore, that Alfred Marshall
 could write in 1920 (Principles, preface):
+
 In the present age, the opening out of new countries aided by low
 transport charges on land and sea, has almost suspended the tendency
 to Diminishing Return . . . and yet, if the growth of population should
@@ -26,6 +27,7 @@ therefore, if her precarious economy any longer enjoyed a margin of
 safety against dislocation, a probable sequel to the treaty of Versailles
 [23]. At least four aspects of economists' response to Malthus's Essay
 in this period merit attention.
+
 1. Malthus's Essay directed attention to the critical role of limitational
 factors and to the impact of adverse externalities associated
 with population growth. His ultimate limitational factor was land or

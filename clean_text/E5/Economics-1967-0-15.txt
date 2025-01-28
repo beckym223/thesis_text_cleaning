@@ -1,5 +1,6 @@
 customers, bankers, government agencies [13, p. 340] [12, p. 270]
 [28, pp. 195-205].
+
 I shall not prolong this catalogue even if it is far from complete. Let
 us admit that each of the possible deviations from maximum profit
 may be "real" in some circumstances. But how effective and significant
@@ -10,15 +11,18 @@ decisions regarding prices, inputs and output, to a change in conditions
 would be turned around by any of the "forces" listed? Before we say
 apodictically no, we should examine a few of the reservations.
 Security and Managerial Coordination
+
 Let us single out two items which have been given especially wide
 play: the "objective of security" and the question of "managerial coordination.
 "
+
 The demand for the recognition of a separate "security motive"
 conflicting with the profit motive deserves a good discussion. But when
 I prepared for it, I reread what I had written on this subject and found
 that I could not improve on it. Will you do me the favor of reading it
 [23, pp. 51-53 and 424-28] and, if you like it, make your students
 read it?
+
 That there are no business profits without risks and that there is not
 much point in treating the two quite separately; that it would be silly
 to call a decision one of profit-maximizing if it increased risk and uncertainty
@@ -34,6 +38,7 @@ ventures and daring moves with mere responses to stimuli, obvious
 reactions to change. If a change in conditions calls for a certain reaction
 in the name of maximum profits, the very same reaction is called
 for also in the name of security of survival.
+
 The other matter is of a more "behavioral" nature: the coordination
 of different goals and judgments on the part of different members of
 the management and the deviations from profit maximization that may

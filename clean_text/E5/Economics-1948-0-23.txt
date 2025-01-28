@@ -1,6 +1,7 @@
 exponents approximates unity, fairly clearly suggests that there are
 laws of production which can be approximated by inductive studies
 and that we are at least approaching them.
+
 And yet it is proper to chronicle the fact that we have obtained
 some negative results. One persistent area of difficulty in these last
 months has been the Massachusetts time series. We tried to improve
@@ -28,6 +29,7 @@ importance of each. There is still much to be done in this direction and
 some hard puzzles remain to be solved, but Mr. Olson's comparative
 success offers us some hope that we may not face a completely blank
 wall in working with this third method for deriving the laws of production.
+
 
 Finally, I should like to point out that in the case of the United
 States, we were compelled because of lack of capital figures, to stop with

@@ -2,6 +2,7 @@ because it is so easy to think that democracy of any kind is purely a
 matter of sentiment, whereas it has a solid rational foundation. I shall
 now try to show what, in my opinion, that rational foundation is.
 Ideal Economy
+
 Economists hold in their hands the formula for the ideal economy.
 If it were not for a few obstacles like human selfishness, ignorance, and
 stupidity, they could abolish poverty in two generations. This, of
@@ -10,6 +11,7 @@ obstacles, or at least to render them comparatively innocuous, and such
 a task is obviously not going to be accomplished in two generations.
 Nevertheless, the general outline of the ideal economy gives the objective
 for the economist's over-all job analysis.
+
 The ideal economy, it scarcely need be said, is the perfectly balanced
 economic system or the general equilibrium of economic theory. Its
 essential features are quickly stated. All productive resources are
@@ -18,6 +20,7 @@ All productive plants are operated at the point of least unit-cost. Every
 productive factor is used where it is most needed. There is thus strict
 economy in the distribution and utilization of resources. The ideal result
 is the maximization of per capita real income.
+
 In the ideal economy, there would be no overbuilding of plant, no
 surplus productive capacity in any industry, and consequently no restriction
 of output. There would be no general overproduction, because
@@ -26,6 +29,7 @@ Demand for labor and consumption goods would be stable and continuous.
 General equilibrium is both the production and the consumption
 ideal. The only distributive ideal essential to it is that money income
 must go to people who will promptly spend it.
+
 I am aware, of course, that Lord Keynes has analyzed another kind
 of equilibrium, which falls short of full employment, but what Keynes
 is doing is to analyze certain obstacles to full-employment equilibrium.

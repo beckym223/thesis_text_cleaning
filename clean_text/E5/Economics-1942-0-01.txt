@@ -1,4 +1,5 @@
 I
+
 In 1940, output per man-hour in American nonagricultural industries
 was roughly double that of 1920. In few periods of history has capacity
 to produce goods grown more rapidly than in the last twenty years. The
@@ -13,6 +14,7 @@ future. It asked whether investment opportunities were becoming permanently
 insufficient, whether the rules for achieving prosperity were
 undergoing fundamental changes, whether new conditions were making
 its economic institutions no longer workable.
+
 This sense of doubt and inadequacy did not exist, in the United States
 at least, before 1929. It was created by the depression and by the disappointing
 recovery. The great national effort required by the war may

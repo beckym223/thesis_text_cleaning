@@ -3,8 +3,10 @@ South WVales, the differences were greater, amounting to between 3
 and 4 standard errors of estimate. In the case of Canada, however, the
 average degree of agreement was very close. The average value of k
 k
+
 for the four years was .47, and similarly, was .47; while the
 k?j.
+
 average ratio of W/P was .48. This is an almost precise agreement.
 This agreement was also true of the years 1923 and 1927 when they
 are considered individually. The years 1935 and 1937, however, exhibit
@@ -22,7 +24,9 @@ where a highly monopolized set of industries which are largely run by
 foreign employers or by men whose cultural interests are elsewhere, do
 not give to the laborers that which in a competitive society they would
 obtain.
+
 VII. Summary
+
 After working on this problem for the better part of twenty years,
 I think I am aware of the many difficulties which are involved. In a
 few cases, the method apparently breaks down and in other cases incongruous
@@ -31,6 +35,7 @@ the following tentative conclusions seem justified.
 1. That within a given country for the periods studied, there is a
 substantial and indeed a surprising degree of agreement in the values
 of k and of j which we obtain for various years.
+
 2. There is also a surprising degree of agreement between the results
 for the United States, Australia, and South Africa.
 3. It is hard to believe that these results can be purely accidental,

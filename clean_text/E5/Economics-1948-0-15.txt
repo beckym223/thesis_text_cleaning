@@ -1,5 +1,6 @@
 17 to 38 times their standard errors and the j's from 12 to 18 times as
 great as their standard errors.
+
 On the whole, we should not be surprised by the fact that we obtain
 higher values for k and lower values for j in our first three time series
 studies than we do for the cross-section studies. For as we have pointed
@@ -19,14 +20,17 @@ result is to keep the index numbers of Product (P), particularly during
 the latter years of a given period, closer to Labor (L) than in reality
 they should be and hence k is raised above and j is depressed below
 their "true" values.
+
 This weakness is absent from the cross-section or inter-industry
 studies, which are made for a given year, and we would, therefore,
 expect the k's to be lower and the j's to be higher in this group of
 studies. Such is, in fact, exactly the case.
+
 It may be of some significance that when the factor of time is
 eliminated from each of the three basic series of Labor, Capital, and
 Product, and the deviations from the trends are studied (as in Series
 IV), that the true value of k for the period of 1899-1922 is reduced to
 .63. This is identical with the average value of k for the six years for
 which inter-industry studies were made.
+
 It may also be of some significance that in three of the four time

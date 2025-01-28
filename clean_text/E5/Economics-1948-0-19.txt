@@ -1,6 +1,7 @@
 for this article had been prepared, Keith Campbell and George
 Brinegar, in their Queensland study for 1937-38, found k to have a
 value of .58 and j one of .45.19
+
 Since the sum of the exponents tends to be sliglhtly less than unity,
 there is an added slight suggestion of true diminishing returns. But
 here again, since the difference is less than the standard errors of
@@ -24,6 +25,7 @@ degree of steadiness in these results, which seem to indicate
 an elasticity of the marginal productivity curve for labor in that country
 as slightly less than 2.0 for the years studied and of capital as slightly
 more than that figure.
+
 One of the most interesting studies which has been made is that by
 G. W. G. Browne for South Africa for 1937-38. Taking the seventeen
 main groups of industry and treating all labor as homogeneous, Browne

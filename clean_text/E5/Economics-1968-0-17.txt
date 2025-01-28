@@ -6,6 +6,7 @@ guides for policy are exchange rates, the price level as defined by some
 index, and the quantity of a monetary total-currency plus adjusted
 demand deposits, or this total plus commercial bank time deposits, or a
 still broader total.
+
 For the United States in particular, exchange rates are an undesirable
 guide. It might be worth requiring the bulk of the economy to adjust
 to the tiny percentage consisting of foreign trade if that would
@@ -16,6 +17,7 @@ world adopt. Far better to let the market, through floating exchange
 rates, adjust to world conditions the 5 per cent or so of our resources
 devoted to international trade while reserving monetary policy to promote
 the effective use of the 95 per cent.
+
 Of the three guides listed, the price level is clearly the most important
 in its own right. Other things the same, it would be much the best
 of the alternatives-as so many distinguished economists have urged in
@@ -37,6 +39,7 @@ Accordingly, I believe that a monetary total is the best currently
 available immediate guLide or criterion for monetary policy-and
 I believe that it matters much less which particular total is chosen than
 that one be chosen.
+
 A second requirement for monetary policy is that the monetary authority
 avoid sharp swings in policy. In the past, monetary authorities
 have on occasion moved in the wrong direction-as in the episode of

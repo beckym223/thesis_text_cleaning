@@ -22,6 +22,7 @@ change that is likely to result from a specified change in conditions;
 and that other assumptions will not even do that much. In short, they
 are all irrelevant for purposes of competitive price theory.
 Oligopoly, Monopoly, and Managerial Discretion
+
 I repeat: In the theory of competitive price the "real existence" of
 firms is irrelevant; imaginary (postulated) agents pursuing a simple
 (postulated) goal react to assumed changes in conditions and thereby

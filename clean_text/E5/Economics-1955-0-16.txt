@@ -5,6 +5,7 @@ B causes a marked increase in inequality in the countrywide income
 distribution. We have here a demonstration of the effects upon trends
 in income inequality of interindustry shifts away from agriculture discussed
 above (pp. 7-8).
+
 Second, if the intrasector income distribution is the same for both
 sectors, and the widening inequality in the countrywide income distribution
 is due only to the increasing per capita income differential in favor
@@ -21,6 +22,7 @@ share of the 1st quintile, which bears the brunt of widening inequality:
 for the E distribution, the share drops from 10.5 (line 2, col. 1) to 5.9
 (line 12, col. 7); for the U distribution, from 3.8 (line 5, col. 1) to 3.1
 (line 15, col. 7).
+
 Third, if the per capita income differential between sectors is constant,
 but the intrasector distribution of B is more unequal than that of
 A, the widening inequality in the countrywide distribution is the
@@ -32,6 +34,7 @@ to 0.2 (line 10, col. 7). For a per capita income differential of 4 to 1, the
 widening of the range at the maximum is only from 44.2 (line 20, col.
 1) to 49.8 (line 20, col. 2) and then the range declines to 37.2 (line 20,
 col. 7), well below the initial level.
+
 Fourth, the assumptions utilized in the numerical illustration-of a
 rise in proportions of total number in section B, of greater inequality
 in the distribution within sector B, and of the growing excess of per

@@ -11,6 +11,7 @@ there is some evidence to suggest that it is stable at best, and tends to
 widen because per capita productivity in urban pursuits increases more
 rapidly than in agriculture. If this is so, inequality in the total income
 distribution should increase.
+
 Two questions then arise: First, why does the share of the topincome
 groups show no rise over time if the concentration of savings
 has a cumulative effect? Second, why does income inequality decline
@@ -18,8 +19,11 @@ and particularly why does the share of the lower-income groups rise if
 both the weight of the more unequal urban income distribution and the
 relative difference between per capita urban and per capita rural incomes
 increase?
+
 The first question has been discussed elsewhere, although the results
 are still preliminary hypotheses,5 and it would be impossible to
 do more here than summarize them briefly.
+
 Factors Counteracting the Concentration of Saving
+
 One group of factors counteracting the cumulative effect of concentration

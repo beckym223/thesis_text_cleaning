@@ -9,6 +9,7 @@ objective. And there is major disagreement about criteria of policy,
 varyino from emphasis on money market conditions, interest rates, and
 the quantity of money to the belief that the state of employment itself
 should be the proximate criterion of policy.
+
 I stress nonetheless the similarity between the views that prevailed in
 the late 'twenties and those that prevail today because I fear that, now
 as then, the pendulum may well have swung too far, that, now as then,
@@ -16,11 +17,13 @@ we are in danger of assigning to monetary policy a larger role than it
 can perform, in danger of asking it to accomplish tasks that it cannot
 achieve, and, as a result, in danger of preventing it from making the
 contribution that it is capable of making.
+
 Unaccustomed as I am to denigrating the importance of money, I
 therefore shall, as my first task, stress what monetary policy cannot do.
 I shall then try to outline what it can do and how it can best make its
 contribution, in the present state of our knowledge-or ignorance.
 I. What Monetary Policy Cannot Do
+
 From the infinite world of negation, I have selected two limitations
 of monetary policy to discuss: (1) It cannot peg interest rates for more
 than very limited periods; (2) It cannot peg the rate of unemployment
@@ -29,6 +32,7 @@ has been or is widely believed, because they correspond to the two main
 unattainable tasks that are at all likely to be assigned to monetary policy,
 and because essentially the same theoretical analysis covers both.
 Pegging of Interest Rates
+
 History has already persuaded many of you about the first limitation.
 As noted earlier, the failure of cheap money policies was a major
 source of the reaction against simple-minded Keynesianism. In the
@@ -37,5 +41,6 @@ wartime and postwar pegging of bond prices was a mistake, that the
 abandonment of this policy was a desirable and inevitable step, and
 that it hiad none of the disturbing and disastrous consequences that
 were so freely predicted at the time.
+
 The li'mitation derives from a much misunderstood feature of the relation
 between money and interest rates. Let the Fed set out to keep

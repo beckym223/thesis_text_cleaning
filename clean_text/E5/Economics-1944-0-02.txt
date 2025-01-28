@@ -16,6 +16,7 @@ unbiased, and objective in their collection and analysis of factual data,
 but also to distinguish between verbalisms and substantive reality, and
 to judge between the conflicting interests which economic and political
 institutions can be made to serve.
+
 It may seem that I am bent on breaking down the line-fence between
 economics and political science, and between these two disciplines on
 one side and social or moral philosophy on the other. That, indeed, is
@@ -26,7 +27,9 @@ unwilling to regard any social science as merely an indoor sport. Economics
 and political science are purposive sciences. Being purposive,
 they must be concerned with ends as well as instrumentalities. This
 means that they cannot escape value-judgments.
+
 Values
+
 The only final value is human life, or rather human living, with all its
 richness and fullness of experience. This, I take it, is what Ruskin
 meant when he exclaimed, "There is no wealth but life!" The intrinsic
@@ -39,4 +42,5 @@ kind, all our technological knowledge, all government, and all the economic
 processes of production and exchange. In fact all social institutions
 belong in this category of instrumental values-means to something
 nearer the heart of man.
+
 Contrary to totalitarian philosophy, no social institution, not even

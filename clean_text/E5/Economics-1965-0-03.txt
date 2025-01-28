@@ -4,6 +4,7 @@ Thus Smith says that to restrain people from entering voluntary
 transactions "is a manifest violation of that natural liberty which it is
 the proper business of law, not to infringe but to support"; yet he continues
 [11, p. 308]:
+
 But those exertions of the natural liberty of a few individuals, which might
 endanger the security of the whole society, are, and ought to be, restrained
 by the laws of all governments; of the most free, as well as of the most despotical.
@@ -18,6 +19,7 @@ which he believes will defraud the worker, and to put a limit on interest
 rates, because high interest rates encourage lenders to entrust their
 funds to improvident projectors, and to have a complicated tax system
 to change the uses of land.
+
 The second foundation of Smith's strong preference for private economic
 activity was that he deeply distrusted the state. This distrust, I
 must emphasize, was primarily a distrust of the motives rather than of
@@ -39,4 +41,5 @@ and in particular he asserts rather than proves that the mercantile system
 had a large effect upon the allocation of British resources. Nor does
 he demonstrate that the state is normally the captive of "partial interests.
 "
+
 Smith's intellectual heirs did little to strengthen his case for laissez

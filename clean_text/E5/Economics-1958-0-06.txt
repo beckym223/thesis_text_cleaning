@@ -2,6 +2,7 @@ the great depression a good deal of work was done on this phase of
 economic theory. But unfortunately since the early 1930's little attention
 has been paid to the subject. Surely it is time economists took it up
 again.
+
 I want therefore to indicate what a modernized version of Mill's last
 chapter would entail. I propose to do so by noting some of the main
 points-in addition to those relating to monopoly and to inadequate
@@ -9,6 +10,7 @@ aggregate demand-that it should deal with. These points can conveniently
 be grouped under two heads, those that relate particularly to the
 working of the profit system and those that relate primarily to the way
 competition works.
+
 Let us take the profit-system points first. The working of the profit
 system is inevitably conditioned by the legal rules that govern the conduct
 of business and by the business practices that have developed
@@ -24,6 +26,7 @@ economic institutions perform basic central-management functions, deficiencies
 in the way the profit system works, most of which are not
 suggested by the model-analysis type of statement of the free-enterprise
 way of organizing economic activity.
+
 Let me cite a number of illustrations or ways in which our legal system
 and practices within the law have been responsible historically for
 significant divergences between what is profitable and what is good
@@ -36,5 +39,6 @@ of the so-called wild animal theory of property to our subsoil
 mineral rights has led to competitive drilling and a consequent waste
 both in the excessive number of wells drilled and in the needlessly incomplete
 extraction and utilization of the oil and gas.2
+
 2. Short-term leases. As A. C. Pigou has so clearly explained in his
 Economics of Welfare, it is nearly impossible to draw a short-term lease

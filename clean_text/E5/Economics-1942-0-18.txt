@@ -6,6 +6,7 @@ some extent the government can assume this responsibility. The government
 has three principal ways of affecting the general level of employment:
 (1) the method of correction, (2) the method of compensation,
 and (3) the method of stimulation.
+
 The method of correction involves making changes in public policies
 or forcing changes in private policies in order to increase employment
 or, put in other words, altering the distribution of economic advantages
@@ -21,6 +22,7 @@ might exercise such control, but on the whole the possibilities
 are limited because, in many cases, control cannot be accomplished
 without a large number of detailed regulations which would be impracticable
 to administer.
+
 The method of compensation involves an attempt by deficit financing
 to offset the failure of private enterprise to provide a satisfactory
 amount of employment; note that I do not say "full employment."
@@ -34,6 +36,7 @@ private policies that are unfavorable to employment. Why should an
 up-and-coming labor movement, for example, permit the demand created
 by public spending to produce more employment rather than
 higher wages?
+
 The use of deficits to compensate for a chronic shortage of investment
 opportunities raises very different economic issues from those
 involved in the use of deficits in periods of depression when there are

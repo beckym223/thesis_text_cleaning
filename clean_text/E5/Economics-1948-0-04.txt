@@ -23,6 +23,7 @@ Indeed, schooled as they were to believe in the relativity of economic
 principles, they naturally averted their gaze from what gave every
 evidence of being an economic law, which was independent of time
 and place.
+
 It is to the glory of American economics that it was,-one of our
 own number, John Bates Clark, who at a meeting of our Association
 in 1888, fifty-nine years ago tonight, announced what was in effect
@@ -30,6 +31,7 @@ the rediscovery of the marginal productivity principle. Clark, who
 had studied in Germany, had possibly been unconsciously influenced
 by Von Thunen, but certainly he was not consciously following him
 when he stated:5
+
 An increasing amount of labor applied to a fixed amount of pure capital goods
 yields a smaller and smaller rate of return. . . . Let there be ten thousnd
 dollars worth of productive instruments and ten men to use them. Let each

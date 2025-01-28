@@ -8,6 +8,7 @@ optimum size and that the desire for the power and prestige which is
 attached to bigness may have caused firms to be conducted on a larger
 scale than that which was justified by the most efficient combination
 of the factors of production.
+
 While all due caution in drawing conclusions should be observed, it
 would seem that the most likely long-run norm for k during the period
 covered was between .63 and .64; and for j was approximately .34.
@@ -22,6 +23,7 @@ same direction of about thirty-four hundredths of one per cent. If both
 factors of production were increased by one per cent, then the total
 product would normally increase during this period by from ninetyseven
 to ninety-eight hundredths of one per cent.
+
 If we disregard the slight suggestion of decreasing returns and treat
 the most probable sum of the exponents as equal to unity, then an increase
 of one per cent in the quantities of both labor and capital would
@@ -34,9 +36,12 @@ an approximate increase of one-third of one per cent in the product.
 Perhaps this is as close a tentative conclusion as we should draw for
 this period although further studies may lead to some revision of these
 results.
+
 Since under these conditions (i.e., k + j 1.0) the clasticity of the
 marginal productivity curves for a given factor is equal to the reciprocal
 1 1
+
 of the exponent for the other factors, that is eL, = and ec - 1 ,
 1-k i -j
+
 it f ollows that the approximate elasticity of the normal marginal productivity

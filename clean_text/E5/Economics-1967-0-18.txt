@@ -12,6 +12,7 @@ satisfactorily modeled (for example, in a simulated computer program)
 predict decisions in other firms. I do not recall, moreover, that the behavior
 patterns in these cases were shown to be inconsistent with the
 postulate of profit maximization.
+
 Under these circumstances, retreat to simpler, less realistic models
 of firms in oligopoly and monopoly positions is indicated. The first approach
 is to apply the polypolistic model, in full awareness that the actual
@@ -28,4 +29,5 @@ provided he finds it worth while. It depends on the research interests
 and on the problems under examination how much effort one wishes to
 invest in behavioral research where the findings hold little promise of
 yielding generalizations of wide applicability.
+
 There are, however, some simple models of oligopolistic behavior

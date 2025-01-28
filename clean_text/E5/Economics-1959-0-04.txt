@@ -18,7 +18,9 @@ expounded his ideas the strands of this web had already been greatly
 weakened by economic forces set loose by the rise of capitalism, the
 accelerated pace of technological innovation, and the development of
 the factory system.
+
 I. The Classic Norm: Economic Individualism
+
 Smith, in defending economic individualism as a means of promoting
 the national welfare, conceived of the national income as the aggregate
 of individual incomes. As he put it, "the annual revenue of every society
@@ -28,15 +30,18 @@ with that exchangeable value" [26, p. 423]. The way to maximize it
 is to let individuals maximize their own income in their own way. He
 recognized, of course, that no individual is primarily concerned with
 promoting the general welfare. Of this he said,
+
 By preferrino the support of domestic to that of foreign industry, [every
 individual] intends only his own security; and by directing that industry
 in such a manner as its produce may be of the greatest value, he intends
 only his own gain, and he is in this, as in many other cases, led by an
 invisible hand to promote an end which was no part of his intention
 [26, p. 423].
+
 Promotion of the general welfare is a proper goal of statesmen, and
 they can achieve it by the abolition of all needless restrictions on economic
 activity. As Smith put it,
+
 All systems either of preference or of restraint, therefore, being thus
 completely taken away, the obvious and simple system of natural liberty
 establishes itself of its own accord. Every man, as long as he does not

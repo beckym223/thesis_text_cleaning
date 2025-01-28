@@ -8,6 +8,7 @@ thus requiring still more rapid inflation to hold down the market
 rate. Similarly, because of the Fisher effect, it will require not
 merely deflation but more and more rapid deflation to hold the market
 rate above the initial "natural" rate.
+
 This analysis has its close counterpart in the employment market. At
 any moment of time, there is some level of unemployment which has
 the property that it is consistent with equilibrium in the structure of
@@ -26,6 +27,7 @@ characteristics of the labor and commodity markets, including
 market imperfections, stochastic variability in demands and supplies,
 the cost of gathering information about job vacancies and labor availabilities,
 the costs of mobility, and so on.'
+
 You will recognize the close similarity between this statement and
 the celebrated Phillips Curve. The similarity is not coincidental. Phillips'
 analysis of the relation between unemployment and wage change is

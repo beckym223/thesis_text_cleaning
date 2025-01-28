@@ -25,6 +25,7 @@ however, is that both this defect and the omission of economies of
 scale are minor sources of discrepancy between the rates of growth
 of inputs and outputs compared to the improvements in human capacity
 that have been omitted.
+
 A small step takes us from these two puzzles raised by existing estimates
 to a third which brings us to the heart of the matter, namely the
 essentially unexplained large increase in real earnings of workers. Can
@@ -37,6 +38,7 @@ of labor constant over time although in fact this unit of labor has been
 increasing as a result of a steadily growing amount of human capital
 per worker. As I read our record, the human capital component has become
 very large as a consequence of human investment.
+
 Another aspect of the same basic question, which admits of the same
 resolution, is the rapid postwar recovery of countries that had suffered
 severe destruction of plant and equipment during the war. The toll

@@ -7,6 +7,7 @@ analysis of these variations is given in Table V. Here it will be
 seen that in every year more than 70 per cent of the actual values were
 within one standard error of estimate of the values which we would
 
+
 theoretically expect under the formula and that in two of the six years,
 over 80 per cent of the cases were within this range.
 Taking the 2185 industry observations in the United States as a
@@ -19,4 +20,5 @@ from the theoretical values by more than two standard errors of estimate
 come to as much as 6 per cent of the total while the average for
 all 2185 observations was 4 per cent as compared with the 5 per cent
 which we would normally expect.25
+
 In our American studies, the distribution of the actual values about

@@ -17,6 +17,7 @@ Bureau of Economic Research, we found that labor's share of the net
 value product of manufacturing during the decade 1909-1918, was
 estimated at 74.1 per cent, or almost precisely the value of the exponent
 for labor.
+
 Professor Cobb and I embodied the results of our inquiries in a
 paper which we read before this Association exactly twenty years ago
 tonight.9 We then determined to analyze more of such time series.
@@ -28,6 +29,7 @@ period was .74, or a virtual identity with the value of k.'0 A similar
 study, which was made in Chicago by Mr. Director for New South
 Wales manufacturing for the period 1901-1927, found k to have a value
 of .65.
+
 There the matter more or less rested when my book, The Theory of
 Wages, appeared in 1934. Three years later, with the aid of Mrs. Marjorie
 Handsaker, I resumed our analysis of time series, and after

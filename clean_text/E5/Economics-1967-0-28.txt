@@ -14,7 +14,9 @@ was satisfied before the change, we cannot infer any of these
 things. On the other hand, if we assume that firms prefer a larger
 profit to a smaller one, all the mentioned consequences follow from the
 simple model.
+
 The Twenty-one Concepts of the Firm
+
 Several times in this paper I have spoken of the fallacy of misplaced
 concreteness, committed by mistaking a thought-object for an object
 of sense perception, that is, for anything in the real, empirical world.
@@ -23,6 +25,7 @@ there are only two concepts of the firm. There are many more, and I
 do not wish to suppress altogether my strong taxonomic propensities. I
 shall offer a list of ten different contexts calling for even more different
 concepts, some theoretical, some more empirical.
+
 One of my favorite philosophers, who was a past-master of the art
 of making fine distinctions, enumerated 13 concepts of "pragmatism"
 [18], 66 concepts of "nature" [19, pp. 447-56], and "a great

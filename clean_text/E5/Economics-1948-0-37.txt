@@ -3,6 +3,7 @@ below the theoretical to exceed in number those where it was greater.
 This was exactly what happened from 1904 to 1919. Why the opposite
 result should have occurred in 1889 and to a much lesser degree in
 1899, however, merits further study.
+
 Even more important, however, is an analysis of each of the 87
 American cases where the deviations were more than two standard
 errors of estimate from the theoretical values and I only regret that
@@ -17,6 +18,7 @@ sub-standard industry. Three more, charcoal, waste, and canning
 oysters, have been distinctly disagreeable and badly "sweated" industries,
 while several others, such as grindstones, millstones, hooks and
 eyes, etc., were instances of contracting demand.
+
 On the other hand, the vast majority of the plus deviations which
 amounted to more than two standard errors of estimate can be explained
 as caused by (1) some form of quasi-monopoly or imperfect
@@ -25,10 +27,12 @@ Examples of the first are wood engraving, gold and silver reducing,
 lapidary work, music publishing, glucose, starch, linseed oil, patent
 medicines, tin plate, brass, and lead. These in themselves accounted
 for nineteen of the markedly plus deviations.
+
 Illustrations of the second group, namely those caused by an expanding
 demand, were cordials and flavoring syrups (1909, 1914,
 1919), oleomargarine (1914), perfumery (1919), and washing machines
 (1919).
+
 There is also a third class of plus deviations which was probably
 affected both by imperfect competition and by expanding demand. Illustrations
 of this group are airplanes (1914), chewing gum (1919),

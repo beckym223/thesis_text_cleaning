@@ -1,4 +1,5 @@
 I. Introduction
+
 A century and a third ago, in 1815, Malthus' and Sir Edward West2
 simultaneously pointed out that if successive combined doses of labor
 and capital were applied to a given piece of land, the amount of the
@@ -19,6 +20,7 @@ wages down to a fixed minimum which was at least close to basic subsistence
 and the low minimum needed to compensate savers and investors.
 Such was the classical theory of distribution which dominated
 economic thinking for over sixty years.
+
 Meanwhile, in Germany, during the 1840's, Von Thiinen had theoretically
 broken up the combined dose of labor and capital and had
 pointed out that when each of the factors was separately increased

@@ -6,6 +6,7 @@ distribution of errors of sampling and of measurement. It is submitted
 that the total number of observations, namely over 3,500, is sufficiently
 large so that if the results had been purely accidental, this degree of
 agreement would not have occurred.
+
 5. The instances of large deviations of the actual from the theoretical
 values can in most cases be explained as being caused by imperfect
 competition and by expanding demand in the case of the plus deviations
@@ -13,10 +14,12 @@ and by contracting demand, "sweating," and possibly "excessive" competition
 in the case of the minus industries. This would indicate that if
 these complications could be eliminated, the agreement between the
 actual and theoretical products would be greater.
+
 6. That, taken in the large, there is an almost precise degree of
 agreement between the actual share received by labor and that which,
 according to the theory of marginal productivity, we would expect labor
 to obtain.
+
 In conclusion, may I emphasize again that there is much work which
 remains to be done on this question and that a lifetime would be all too
 short to probe the many problems which present themselves. Is it too

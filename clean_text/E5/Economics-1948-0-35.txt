@@ -1,6 +1,7 @@
 industries, such differences tend to be more or less symmetrically distributed
 around the "normal" values which we have found in the given
 years for manufacturing as a whole.
+
 A further analysis of the plus and minus deviations offers interesting
 suggestions. We would expect industries characterized by monopoly
 and by highly imperfect competition to have a value product which
@@ -16,6 +17,7 @@ consequently lower the marginal productivity of one or both factors
 appreciably below their general levels, we would expect the value product
 per unit of labor and possibly also of capital, to be below the general
 average for society as a whole.
+
 Similarly, we would expect that the industries which are rapidly
 expanding because of an increase in demand or in the disposition of
 consumers income, or because of great technical progress, will have
@@ -24,6 +26,7 @@ Conversely, again, we would expect that the contracting industries,
 which are suffering from a decrease in demand and an obsolescence of
 technique, would produce less value product than that which our
 formula would predict.
+
 There are, moreover, a considerable number of industries which
 probably can best be described as "sweated." These are industries
 which have had large supplies of cheap labor, sometimes caused, as in
@@ -36,6 +39,7 @@ will commonly be translated into a lower sales price for the product
 than would normally be the case. The value product in these industries
 will, therefore, tend to be less than what would be shown under the
 formula for manufacturing as a whole.
+
 We can test the relative truth of these hypotheses both by statistical
 analysis and also by identifying the specific industries where the deviations
 of the actual from the theoretical values are great. In analyzing

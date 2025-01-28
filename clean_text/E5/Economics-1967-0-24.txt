@@ -3,6 +3,7 @@ and other benefits that accrue from having a sizable staff, would the
 marginal rates of substitution be adapted to the new cost relation. In
 such a case we might also perhaps be able to tell the kind of response
 of the decision-makers.
+
 Alas, the condition that the marginal rates of substitution are independent
 of the total funds available is not likely to be satisfied; in addition,
 certain types of change in conditions have the bad habit of
@@ -10,7 +11,9 @@ affecting at the same time funds available and relative costs of utilifactors.
 For example, an increase in the corporate income tax will change
 the trade-off ratio between expensable outlays and profits in favor of
 avoidable expenses.
+
 Marginalism Extended: Choice of Maximanda
+
 If we were interested only in a formal solution, and perhaps in a
 proof of "existence" of an equilibrium position, we might be satisfied
 with the maximization of total utility by those who effectively run the
@@ -24,6 +27,7 @@ firm that makes more than enough money need not go all out to maximize
 profits; it can afford to do a few other things that it likes, such as
 serving what by its own lights it regards as the national interest or indulging
 in other luxuries.
+
 Would this imply "giving up" the principle of marginalism in the
 theory of the profitable firm? This is chiefly a semantic question. I
 have been inclined to use a more extended definition. In 1946, I called
