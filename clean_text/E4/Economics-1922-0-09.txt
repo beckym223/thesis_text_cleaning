@@ -1,7 +1,7 @@
 part of our industrial scheme. Mediation and arbitration were finding
 use in systematized form. Collective bargaining, at least as a phrase,
-had entered into business terminology. The income tax had been in-
-corporated into the national revenue system. The theory of monopoly
+had entered into business terminology. The income tax had been incorporated
+into the national revenue system. The theory of monopoly
 price was definitely accepted as to the regulation of non-competitive
 industry. The Federal Reserve act had repaired the glaring defects
 in our banking organization. The Federal Farm Loan project gave
@@ -35,8 +35,8 @@ of great usefulness, of high importance, were rendered by almost every
 member of our body, and I shlould fail lamentably in my purpose did I
 seem to be insensible of this. But nowhere and at no time was the
 opportunity afforded to shape and direct. And on the other hand, in
-instance after instance, constructive discretion and responsible leader-
-ship were vested in men whose excellencies, high as the heavens, were
+instance after instance, constructive discretion and responsible leadership
+were vested in men whose excellencies, high as the heavens, were
 yet marked by absence of those qualities which we insist distinguish the
 scientifically equipped economist.
 This is no light statement. But it has not been hastily conceived

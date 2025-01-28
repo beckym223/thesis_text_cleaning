@@ -3,12 +3,12 @@ picture too complicated ever to be finished. A third point is that while a
 picture of perfect equilibrium deals in its way with forces which are at
 work in the actual world, the form in which it presents these forces will
 almost inevitably need to be modified when we move on to the task of
-studying them as they actually operate. The terms of a static demand sched-
-ule need to be changed in order to fashion it into a verifiable concept;
+studying them as they actually operate. The terms of a static demand schedule
+need to be changed in order to fashion it into a verifiable concept;
 and the tendency of prices toward cost of production does not operate
 unqualifiedly under all conditions. Some of these changes are likely to be
-of the sort which John Stuart Mill described as chemical rather than me-
-chanical, leading to results not deducible by the method of composition of
+of the sort which John Stuart Mill described as chemical rather than mechanical,
+leading to results not deducible by the method of composition of
 forces. And a fourth point is that the problems with which these theories
 of marginal equilibrium deal are not the whole of economics.
 In the period when the economics of marginal equilibrium held the
@@ -18,13 +18,13 @@ theory. Too much was expected of it.
 The Critical Movement
 At no time was the marginal economics free from disagreement and
 controversy; in fact, some of its family quarrels were famous. More serious
-criticism began to come from Thorstein Veblen even before the publica-
-tion of my father's Distribution of Wealth; but for some time he made
-little impression on those inside the citadel, save one of irritated puzzle-
-ment as to what he was driving at and why. But for some years before the
+criticism began to come from Thorstein Veblen even before the publication
+of my father's Distribution of Wealth; but for some time he made
+little impression on those inside the citadel, save one of irritated puzzlement
+as to what he was driving at and why. But for some years before the
 outbreak of the World War there was an increasing spirit of scepticism
-mixed with active iconoclasm, which before long came to seem the char-
-acteristic mood.
+mixed with active iconoclasm, which before long came to seem the characteristic
+mood.
 There were attacks on the hedonistic psychology underlying marginal
 utility, leading some to withdraw into psychological agnosticism. Some
 managed miraculously to keep a semblance of the doctrine while attempting
