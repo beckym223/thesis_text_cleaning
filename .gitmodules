@@ -1,4 +1,4 @@
 
 [submodule "manual_work"]
 	path = manual_work
-	url = /manual_work
+	url = git@github.com:beckym/manual_work.git
