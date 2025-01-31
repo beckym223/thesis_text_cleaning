@@ -112,11 +112,62 @@ def known_enough(word:str)->tuple[bool,float]:
     zfreq = zipf_frequency(word,'en')
     return zfreq>THRESHOLDS.get(len(word),e), zfreq
 
-import re
-import logging
-from collections import deque
-from networkx import DiGraph
-import more_itertools as mit
+def prune_graph(G: DiGraph, results: dict,logger):
+    """
+    Remove unnecessary nodes from the graph after each iteration.
+
+    Parameters:
+    - G (DiGraph): The graph to prune.
+    - results (dict): Dictionary of confirmed corrections.
+    - max_depth (int): Maximum depth level to keep nodes.
+    - logger: Logger instance.
+    """
+    to_remove = set()
+    
+    for node in list(G.nodes):
+        node_data = G.nodes[node]
+        root = node_data["root"]
+        # level = node_data.get("level", 0)
+
+        # Remove nodes that are:
+        # - Not in results
+        # - Have no outgoing edges (dead ends)
+        # - Are too deep in the graph
+        if root in results and node not in results.values():
+            if not list(G.successors(node)):  # No outgoing edges
+                to_remove.add(node)
+        # elif level > max_depth:  # Optional: Remove excessively deep nodes
+        #     to_remove.add(node)
+
+    G.remove_nodes_from(to_remove)
+    logger.info("Pruned %d nodes after this iteration.", len(to_remove))
+
+def clean_unconnected_nodes(G: DiGraph, results: dict, logger):
+    """
+    Remove nodes whose root is in results but are not connected to a valid correction.
+    
+    Parameters:
+    - G (DiGraph): The directed graph.
+    - results (dict): Dictionary of known corrections.
+    - logger: Logger instance for logging actions.
+    """
+    valid_nodes = set(results.values())  # Nodes that lead to a valid correction
+    to_remove = set()
+    
+    # Traverse the graph to mark reachable nodes from valid results
+    for node in G.nodes():
+        root = G.nodes[node]["root"]
+        
+        if root in results and node not in valid_nodes:
+            # Check if the node connects to a valid correction
+            reachable = any(final in valid_nodes for final in nx.descendants(G, node))
+            
+            if not reachable:
+                to_remove.add(node)
+
+    # Remove all unconnected nodes
+    G.remove_nodes_from(to_remove)
+    logger.notice("Removed %d unconnected nodes from the graph.", len(to_remove))
 
 def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections, max_iteration: int, logger):
     char_set = {char[0] for char in chars}  # Using set comprehension for efficiency
@@ -205,11 +256,12 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
                 next_char_queue.append(node_word)
 
         logger.notice("%d results found in iteration %d, total %d", len(results) - start_results, current_iter, len(results))
+        prune_graph(G,results,logger)
 
     still_out_there = {x for x in unknown_words if x not in results}
     logger.info("Total results: %d", len(results))
-
-    return unknown_words, results, still_out_there
+    clean_unconnected_nodes(G,results,logger)
+    return G, results, still_out_there
 
 
 def main():
