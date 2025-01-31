@@ -17,13 +17,15 @@ from custom_logger import MyLogger,setup_logger
 logger:MyLogger
 
 LEVEL_2_CHARS:list[tuple[str,str]] = [
+    ('e','C'),
+
     ('l','T'),
     ('l',"R"),
     ('l',"I"),
     ('t','L'),
     ('i','L'),
     
-    ('e','C'),
+    
     ("ml","RM"),
     (r'v\b','Y'),
     (r'r\b','Y'),
@@ -296,8 +298,13 @@ def main():
     # json.dump(results2_updated,open(save2,'w'))
     with open(save2,'w') as file:
         file.write(simplejson.dumps(results2_updated,indent="\t",sort_keys=True))
+    all_results = {**results_updated,**results2_updated}
     with open("still_out_there.txt",'w') as f:
-            f.writelines("\n".join(still_still_out_there))
+            for l in still_still_out_there:
+                if l in all_results:
+                    logger.notice("%s is not still out there, we got it",l)
+                else:
+                    f.write(f"{l}\n")
     
 
 if __name__=="__main__":
