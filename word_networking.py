@@ -265,7 +265,7 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
         logger.notice("%d results found in iteration %d, total %d", len(results) - start_results, current_iter, len(results))
         prune_graph(G,results,next_char_queue,new_words_for_next_iter,logger)
 
-    still_out_there = {x for x in unknown_words if x not in results}
+    still_out_there = set([x for x in unknown_words if x not in results])
     logger.info("Total results: %d", len(results))
     clean_unconnected_nodes(G,results,logger)
     return G, results, still_out_there
@@ -282,11 +282,14 @@ def main():
     unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger,G)
     with open("./unknown_words1.txt",'w') as f:
         f.writelines("\n".join(sorted(unknown_words)))
-    
-    with open("./still_unknown1.txt",'w') as f:
-        f.writelines("\n".join(sorted(still_out_there)))
-
     results_updated = {k:manual_corrections.get(v,v) for k,v in results.items()}
+    with open("./still_out_there.txt",'w') as f:
+            for l in still_out_there:
+                if l in results_updated:
+                    logger.info("%s is not still out there, we got it",l)
+                else:
+                    f.write(f"{l}\n")
+
     known_corrections = {**manual_corrections,**results_updated}
     with open(save_path,'w') as file:
         file.write(simplejson.dumps(results_updated,indent="\t",sort_keys=True))
