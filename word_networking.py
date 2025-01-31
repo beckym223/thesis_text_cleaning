@@ -143,7 +143,7 @@ def prune_graph(G: DiGraph, results: dict, next_char_queue: deque, new_words_for
                     to_remove.add(node)
 
     G.remove_nodes_from(to_remove)
-    logger.info("Pruned %d nodes after this iteration.", len(to_remove))
+    logger.notice("Pruned %d nodes after this iteration.", len(to_remove))
 
 
 def clean_unconnected_nodes(G: DiGraph, results: dict, logger):
@@ -180,6 +180,9 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
     logger.info("Getting unknown words")
     prelim_known = set(known_corrections.keys())
     unknown_words, all_words = get_unknown_words(unfixed_dir, pattern, prelim_known)
+    for n in G.nodes:
+        unknown_words.add(n.get("root",""))
+    unknown_words.discard("")
 
     logger.info("Initiating known words in graph")
     results = {}
@@ -278,6 +281,9 @@ def main():
     unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger,G)
     with open("./unknown_words1.txt",'w') as f:
         f.writelines("\n".join(sorted(unknown_words)))
+    
+    with open("./still_unknown1.txt",'w') as f:
+        f.writelines("\n".join(sorted(still_out_there)))
 
     results_updated = {k:results.get(v,v) for k,v in manual_corrections.items()}
     known_corrections = {**manual_corrections,**results_updated}
