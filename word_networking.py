@@ -131,7 +131,6 @@ def prune_graph(G: DiGraph, results: dict, next_char_queue: deque, new_words_for
         node_data = G.nodes[node]
         root = node_data["root"]
         level = node_data.get("level", 0)
-
         # Remove nodes that are:
         # - Not in results
         # - Have no outgoing edges (dead ends)
@@ -180,7 +179,7 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
     logger.info("Getting unknown words")
     prelim_known = set(known_corrections.keys())
     unknown_words, all_words = get_unknown_words(unfixed_dir, pattern, prelim_known)
-    unknown_words.update(set(G.nodes.data('root',"").values())) #type:ignore
+    unknown_words.update(set(value for key,value in G.nodes.data('root',""))) #type:ignore
     unknown_words.discard("")
 
     logger.info("Initiating known words in graph")
@@ -226,6 +225,7 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
                         previously_corrected = known_corrections.get(new_word)
 
                         if previously_corrected:
+
                             logger.info("Previously corrected: '%s' -> '%s'", root, previously_corrected)
                             node_data["final"] = previously_corrected
                             G.add_node(new_word, root=root, final=previously_corrected)
@@ -233,9 +233,9 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
                             node_solved = True
                         elif known:
                             results[root] = new_word
+                            
                             node_data["final"] = new_word
                             G.add_node(new_word, root=root, final=new_word, freq=zfreq)
-                            results_gotten.append(new_word)
                             node_solved = True
                             logger.info("New valid word: '%s' (freq: %.2f)", new_word, zfreq)
                         else:
@@ -284,7 +284,7 @@ def main():
     with open("./still_unknown1.txt",'w') as f:
         f.writelines("\n".join(sorted(still_out_there)))
 
-    results_updated = {k:results.get(v,v) for k,v in manual_corrections.items()}
+    results_updated = {k:manual_corrections.get(v,v) for k,v in results.items()}
     known_corrections = {**manual_corrections,**results_updated}
     with open(save_path,'w') as file:
         file.write(simplejson.dumps(results_updated,indent="\t",sort_keys=True))
