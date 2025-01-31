@@ -112,114 +112,105 @@ def known_enough(word:str)->tuple[bool,float]:
     zfreq = zipf_frequency(word,'en')
     return zfreq>THRESHOLDS.get(len(word),e), zfreq
 
-def run_cycle(unfixed_dir:str,chars:list[tuple[str,str]],known_corrections,max_iteration:int,logger:MyLogger):
-    char_set = set([char[0] for char in chars])
-    
-    pattern = re.compile("|".join([fr"\b[A-Za-z]*{char}[A-Za-z]*\b" for char in char_set]))
-    print("Getting unknown words")
-    prelim_known = set(known_corrections.keys())
-    unknown_words,all_words = get_unknown_words(unfixed_dir,pattern,prelim_known)
-    logging.info("Initiating known words in graph")
-    G=DiGraph()
-    results ={}
-    new_words_for_next_iter = deque()
- #put in the new queue
-    print("Initiating graph")
-    for word in unknown_words:
-        G.add_node(word,
-                   root=word,
-                   final = None,
-                   level = 0,
-                    )
-        new_words_for_next_iter.append(word)
-    #results.clear()
-    current_iter=0
-    while current_iter<max_iteration:
-        start_results = len(results)
-        current_iter+=1
-        logger.notice("Starting iteration %s",current_iter)
+import re
+import logging
+from collections import deque
+from networkx import DiGraph
+import more_itertools as mit
 
-        results_gotten=deque()
+def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections, max_iteration: int, logger):
+    char_set = {char[0] for char in chars}  # Using set comprehension for efficiency
+    pattern = re.compile("|".join(fr"\b[A-Za-z]*{re.escape(char)}[A-Za-z]*\b" for char in char_set))
+
+    logger.info("Getting unknown words")
+    prelim_known = set(known_corrections.keys())
+    unknown_words, all_words = get_unknown_words(unfixed_dir, pattern, prelim_known)
+
+    logger.info("Initiating known words in graph")
+    G = DiGraph()
+    results = {}
+    new_words_for_next_iter = deque(unknown_words)
+
+    logger.info("Initiating graph")
+    for word in unknown_words:
+        G.add_node(word, root=word, final=None, level=0)
+
+    current_iter = 0
+
+    while current_iter < max_iteration:
+        start_results = len(results)
+        current_iter += 1
+        logger.notice("Starting iteration %s", current_iter)
+
+        results_gotten = deque()
         next_char_queue = new_words_for_next_iter
         new_words_for_next_iter = deque()
 
-        
-        for old,new in chars:
-            logger.info("Chars %s to %s",old,new)
+        for old, new in chars:
+            logger.info("Processing character replacement: %s -> %s", old, new)
             char_queue = next_char_queue
-            next_char_queue=deque()
-            logger.info("In queue: %s",len(char_queue))
+            next_char_queue = deque()
 
             while char_queue:
-                node_word = char_queue.pop()
-                #logger.debug("Working with %s",node_word)
+                node_word = char_queue.popleft()  # Faster than .pop() for queue operations
                 node_data = G.nodes[node_word]
-                root = node_data.get("root")
+                root = node_data["root"]
+
                 if root in results:
-                    continue 
-                node_solved=False
-                i = None
-                for i in mit.locate(node_word,pred = lambda *x: mit.iequals(x,old),window_size=len(old)) if new!="" else [-1]:
-                    new_match:str|None = apply_t(node_word,old,new,i)
-                    new_word = new_match.lower()
-                    if not new_word in G:
+                    continue
+
+                node_solved = False
+                indices = mit.locate(node_word, pred=lambda *x: mit.iequals(x, old), window_size=len(old)) if new else [-1]
+
+                for i in indices:
+                    new_word = apply_t(node_word, old, new, i).lower()
+
+                    if new_word not in G:
                         known, zfreq = known_enough(new_word)
-                        previously_corrected_to = known_corrections.get(new_word)
-                        if previously_corrected_to is not None:
-                            logger.info("Saving '%s' in results since '%s' previously corrected to '%s'",root,new_word,previously_corrected_to)
-                            node_data.update({"final":previously_corrected_to})
-                            G.add_node(new_word,
-                                       root=root,
-                                       final=previously_corrected_to,
-                                       )
-                            results_gotten.append(previously_corrected_to)
+                        previously_corrected = known_corrections.get(new_word)
+
+                        if previously_corrected:
+                            logger.info("Previously corrected: '%s' -> '%s'", root, previously_corrected)
+                            node_data["final"] = previously_corrected
+                            G.add_node(new_word, root=root, final=previously_corrected)
+                            results[root] = previously_corrected
                             node_solved = True
-                            logger.info("SUCCESS - Likely found a new word: '%s' with frequency %.2f",new_word,zfreq)
-                            G.add_edge(node_word,new_word,old=old,new=new,i=i)
-                        if known:
-                            results.update({root:new_word})
-                            node_data.update({"final":new_word})
-                            G.add_node(new_word,
-                                       root=root,
-                                       final=new_word,
-                                       freq=zfreq,)
+                        elif known:
+                            results[root] = new_word
+                            node_data["final"] = new_word
+                            G.add_node(new_word, root=root, final=new_word, freq=zfreq)
                             results_gotten.append(new_word)
-                            
                             node_solved = True
-                            logger.info("SUCCESS - Likely found a new word: '%s' with frequency %.2f",new_word,zfreq)
-                            G.add_edge(node_word,new_word,old=old,new=new,i=i)
+                            logger.info("New valid word: '%s' (freq: %.2f)", new_word, zfreq)
                         else:
-                            logger.debug("Added %s to graph",new_word)
-
-                            G.add_node(new_word,
-                                       root=root,
-                                       final=None,
-                                       freq=zfreq,)
+                            G.add_node(new_word, root=root, final=None, freq=zfreq)
                             new_words_for_next_iter.append(new_word)
-                            node_solved = False
-                            G.add_edge(node_word,new_word,old=old,new=new,i=i)
-                        assert node_word in [*G.predecessors(new_word)]
-                    else:
-                        new_word_node = G.nodes[new_word]
-                        final = new_word_node.get('final')
+                            logger.debug("Added to graph: %s", new_word)
 
-                        if final is not None:
-                            logger.info("Made new word '%s' that connects to known word '%s'",new_word,final)
-                            results.update({root:final})
-                            node_data.update({'final':final})
-                            node_solved=True
-                        elif not G.has_edge(node_word,new_word):
-                            G.add_edge(node_word,new_word,old=old,new=new,i=i)
-                            node_solved=False
+                        G.add_edge(node_word, new_word, old=old, new=new, i=i)
+
+                    else:
+                        final = G.nodes[new_word].get("final")
+                        if final:
+                            results[root] = final
+                            node_data["final"] = final
+                            node_solved = True
+
+                        elif not G.has_edge(node_word, new_word):
+                            G.add_edge(node_word, new_word, old=old, new=new, i=i)
+
                     if node_solved:
-                        
                         break
-                
+
                 next_char_queue.append(node_word)
-        logger.notice("%d results found in iteration %d, %d total",len(results)-start_results,current_iter,len(results))
-    still_out_there = set([x for x in unknown_words if x not in results])
-    print(f"Total results: {len(results)}")
-    return unknown_words,results, still_out_there
+
+        logger.notice("%d results found in iteration %d, total %d", len(results) - start_results, current_iter, len(results))
+
+    still_out_there = {x for x in unknown_words if x not in results}
+    logger.info("Total results: %d", len(results))
+
+    return unknown_words, results, still_out_there
+
 
 def main():
     log_file_path = "./networking.log"
@@ -229,6 +220,9 @@ def main():
     logger = setup_logger(log_file_path,note,overwrite=True)
     manual_corrections = json.load(open('manual_work/corrections.json','r'))
     unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger)
+    with open("./unknown_words1.txt",'w') as f:
+        f.writelines("\n".join(sorted(unknown_words)))
+
     results_updated = {k:results.get(v,v) for k,v in manual_corrections.items()}
     known_corrections = {**manual_corrections,**results_updated}
     with open(save_path,'w') as file:
