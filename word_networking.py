@@ -249,11 +249,13 @@ def main():
     manual_corrections = json.load(open('manual_work/corrections.json','r'))
     prelim_known = set([*manual_corrections.values()])
     unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,prelim_known,5,logger)
+    results_updated = {k:results.get(v,v) for k,v in manual_corrections.items()}
+    known_corrections = {**manual_corrections,**results_updated}
     json.dump(results,open(save_path,'w'))
     prelim_known.update(results.keys())
     save2="./corrections2.json"
-    relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,prelim_known,4,logger)
-    results2_updated = {k:results.get(v,v) for k,v in results2.items()}
+    relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections.keys(),4,logger)
+    results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
     json.dump(results2_updated,open(save2,'w'))
     with open("still_out_there.txt",'w') as f:
             f.writelines("\n".join(still_still_out_there))
