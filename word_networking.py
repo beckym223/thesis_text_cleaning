@@ -112,7 +112,7 @@ def known_enough(word:str)->tuple[bool,float]:
     zfreq = zipf_frequency(word,'en')
     return zfreq>THRESHOLDS.get(len(word),e), zfreq
 
-def prune_graph(G: DiGraph, results: dict,logger):
+def prune_graph(G: DiGraph, results: dict, next_char_queue: deque, new_words_for_next_iter: deque, logger):
     """
     Remove unnecessary nodes from the graph after each iteration.
 
@@ -120,27 +120,31 @@ def prune_graph(G: DiGraph, results: dict,logger):
     - G (DiGraph): The graph to prune.
     - results (dict): Dictionary of confirmed corrections.
     - max_depth (int): Maximum depth level to keep nodes.
+    - next_char_queue (deque): Nodes that are still being processed in the current iteration.
+    - new_words_for_next_iter (deque): Nodes queued for the next iteration.
     - logger: Logger instance.
     """
     to_remove = set()
-    
+    queued_nodes = set(next_char_queue) | set(new_words_for_next_iter)  # Nodes still in process
+
     for node in list(G.nodes):
         node_data = G.nodes[node]
         root = node_data["root"]
-        # level = node_data.get("level", 0)
+        level = node_data.get("level", 0)
 
         # Remove nodes that are:
         # - Not in results
         # - Have no outgoing edges (dead ends)
         # - Are too deep in the graph
-        if root in results and node not in results.values():
-            if not list(G.successors(node)):  # No outgoing edges
-                to_remove.add(node)
-        # elif level > max_depth:  # Optional: Remove excessively deep nodes
-        #     to_remove.add(node)
+        # - Not in the queues for current or next iteration
+        if node not in queued_nodes:
+            if root in results and node not in results.values():
+                if not list(G.successors(node)):  # No outgoing edges
+                    to_remove.add(node)
 
     G.remove_nodes_from(to_remove)
     logger.info("Pruned %d nodes after this iteration.", len(to_remove))
+
 
 def clean_unconnected_nodes(G: DiGraph, results: dict, logger):
     """
@@ -169,7 +173,7 @@ def clean_unconnected_nodes(G: DiGraph, results: dict, logger):
     G.remove_nodes_from(to_remove)
     logger.notice("Removed %d unconnected nodes from the graph.", len(to_remove))
 
-def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections, max_iteration: int, logger):
+def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections, max_iteration: int, logger,G:DiGraph):
     char_set = {char[0] for char in chars}  # Using set comprehension for efficiency
     pattern = re.compile("|".join(fr"\b[A-Za-z]*{re.escape(char)}[A-Za-z]*\b" for char in char_set))
 
@@ -178,7 +182,6 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
     unknown_words, all_words = get_unknown_words(unfixed_dir, pattern, prelim_known)
 
     logger.info("Initiating known words in graph")
-    G = DiGraph()
     results = {}
     new_words_for_next_iter = deque(unknown_words)
 
@@ -256,7 +259,7 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
                 next_char_queue.append(node_word)
 
         logger.notice("%d results found in iteration %d, total %d", len(results) - start_results, current_iter, len(results))
-        prune_graph(G,results,logger)
+        prune_graph(G,results,next_char_queue,new_words_for_next_iter,logger)
 
     still_out_there = {x for x in unknown_words if x not in results}
     logger.info("Total results: %d", len(results))
@@ -271,7 +274,8 @@ def main():
     save_path = "corrections1.json"
     logger = setup_logger(log_file_path,note,overwrite=True)
     manual_corrections = json.load(open('manual_work/corrections.json','r'))
-    unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger)
+    G=DiGraph()
+    unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger,G)
     with open("./unknown_words1.txt",'w') as f:
         f.writelines("\n".join(sorted(unknown_words)))
 
@@ -281,7 +285,8 @@ def main():
         file.write(simplejson.dumps(results_updated,indent="\t",sort_keys=True))
 
     save2="./corrections2.json"
-    relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections,4,logger)
+
+    relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections,4,logger,G)
     results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
     # json.dump(results2_updated,open(save2,'w'))
     with open(save2,'w') as file:
