@@ -180,8 +180,7 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
     logger.info("Getting unknown words")
     prelim_known = set(known_corrections.keys())
     unknown_words, all_words = get_unknown_words(unfixed_dir, pattern, prelim_known)
-    for n in G.nodes:
-        unknown_words.add(n.get("root",""))
+    unknown_words.update(set(G.nodes.data('root',"").values())) #type:ignore
     unknown_words.discard("")
 
     logger.info("Initiating known words in graph")
