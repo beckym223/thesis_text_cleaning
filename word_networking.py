@@ -1,5 +1,6 @@
 from typing import Callable
 import json
+import simplejson #type:ignore
 import os
 import networkx as nx #type:ignore
 from networkx import DiGraph #type:ignore
@@ -230,12 +231,15 @@ def main():
     unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger)
     results_updated = {k:results.get(v,v) for k,v in manual_corrections.items()}
     known_corrections = {**manual_corrections,**results_updated}
-    json.dump(results_updated,open(save_path,'w'))
+    with open(save_path,'w') as file:
+        file.write(simplejson.dumps(results_updated,indent="\t",sort_keys=True))
 
     save2="./corrections2.json"
     relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections,4,logger)
     results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
-    json.dump(results2_updated,open(save2,'w'))
+    # json.dump(results2_updated,open(save2,'w'))
+    with open(save2,'w') as file:
+        file.write(simplejson.dumps(results2_updated,indent="\t",sort_keys=True))
     with open("still_out_there.txt",'w') as f:
             f.writelines("\n".join(still_still_out_there))
     
