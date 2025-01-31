@@ -111,12 +111,13 @@ def known_enough(word:str)->tuple[bool,float]:
     zfreq = zipf_frequency(word,'en')
     return zfreq>THRESHOLDS.get(len(word),e), zfreq
 
-def run_cycle(unfixed_dir:str,chars:list[tuple[str,str]],prelim_known,max_iteration:int,logger:MyLogger):
+def run_cycle(unfixed_dir:str,chars:list[tuple[str,str]],known_corrections,max_iteration:int,logger:MyLogger):
     char_set = set([char[0] for char in chars])
+    
     pattern = re.compile("|".join([fr"\b[A-Za-z]*{char}[A-Za-z]*\b" for char in char_set]))
     print("Getting unknown words")
+    prelim_known = set(known_corrections.keys())
     unknown_words,all_words = get_unknown_words(unfixed_dir,pattern,prelim_known)
-
     logging.info("Initiating known words in graph")
     G=DiGraph()
     results ={}
@@ -133,6 +134,7 @@ def run_cycle(unfixed_dir:str,chars:list[tuple[str,str]],prelim_known,max_iterat
     #results.clear()
     current_iter=0
     while current_iter<max_iteration:
+        start_results = len(results)
         current_iter+=1
         logger.notice("Starting iteration %s",current_iter)
 
@@ -161,8 +163,19 @@ def run_cycle(unfixed_dir:str,chars:list[tuple[str,str]],prelim_known,max_iterat
                     new_word = new_match.lower()
                     if not new_word in G:
                         known, zfreq = known_enough(new_word)
-                        
-                        if known or new_word in prelim_known:
+                        previously_corrected_to = known_corrections.get(new_word)
+                        if previously_corrected_to is not None:
+                            logger.info("Saving '%s' in results since '%s' previously corrected to '%s'",root,new_word,previously_corrected_to)
+                            node_data.update({"final":previously_corrected_to})
+                            G.add_node(new_word,
+                                       root=root,
+                                       final=previously_corrected_to,
+                                       )
+                            results_gotten.append(previously_corrected_to)
+                            node_solved = True
+                            logger.info("SUCCESS - Likely found a new word: '%s' with frequency %.2f",new_word,zfreq)
+                            G.add_edge(node_word,new_word,old=old,new=new,i=i)
+                        if known:
                             results.update({root:new_word})
                             node_data.update({"final":new_word})
                             G.add_node(new_word,
@@ -179,7 +192,7 @@ def run_cycle(unfixed_dir:str,chars:list[tuple[str,str]],prelim_known,max_iterat
 
                             G.add_node(new_word,
                                        root=root,
-                                       final=new_word,
+                                       final=None,
                                        freq=zfreq,)
                             new_words_for_next_iter.append(new_word)
                             node_solved = False
@@ -202,40 +215,7 @@ def run_cycle(unfixed_dir:str,chars:list[tuple[str,str]],prelim_known,max_iterat
                         break
                 
                 next_char_queue.append(node_word)
-
-        ## end of iteration
-
-        # gotten = deque(results.values())
-        # def recurse_and_remove(real_word:str,to_remove_from_queue):
-        #     nonlocal printed
-        #     assert real_word in G
-        #     preds= G.pred[new_word]
-        #     n = G[real_word]
-        #     for _,accessible_words in nx.predecessor(G,real_word,)
-        #         if not printed:
-        #             print(accessible_words)
-        #             printed=True
-        #         for accessible_word in accessible_words:
-
-        #             if accessible_word in gotten:
-        #                 gotten.remove(accessible_word)
-        #                 recurse_and_remove(accessible_word,to_remove_from_queue)
-        #             elif accessible_word in to_remove_from_queue:
-        #                 continue
-        #             else:
-        #                 d = G.nodes[accessible_word]
-        #                 d.update({final:real_word})
-        #                 to_remove_from_queue.add(accessible_word)
-        #     assert printed
-        # print(f"in results gotten: {len(gotten)}")
-        # while gotten:
-        #     real_word=gotten.pop()
-        #     recurse_and_remove(real_word,to_remove_from_queue)
-        
-        # logger.notice("Removing %s from queue because they're in results",len(to_remove_from_queue))
-        # for word in to_remove_from_queue:
-
-        #     new_words_for_next_iter.remove(word)
+        logger.notice("%d results found in iteration %d, %d total",len(results)-start_results,current_iter,len(results))
     still_out_there = set([x for x in unknown_words if x not in results])
     print(f"Total results: {len(results)}")
     return unknown_words,results, still_out_there
@@ -247,14 +227,13 @@ def main():
     save_path = "corrections1.json"
     logger = setup_logger(log_file_path,note,overwrite=True)
     manual_corrections = json.load(open('manual_work/corrections.json','r'))
-    prelim_known = set([*manual_corrections.values()])
-    unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,prelim_known,5,logger)
+    unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger)
     results_updated = {k:results.get(v,v) for k,v in manual_corrections.items()}
     known_corrections = {**manual_corrections,**results_updated}
-    json.dump(results,open(save_path,'w'))
-    prelim_known.update(results.keys())
+    json.dump(results_updated,open(save_path,'w'))
+
     save2="./corrections2.json"
-    relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections.keys(),4,logger)
+    relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections,4,logger)
     results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
     json.dump(results2_updated,open(save2,'w'))
     with open("still_out_there.txt",'w') as f:
