@@ -362,6 +362,8 @@ def main():
     with open(results_all_path,'w') as f:
         f.write(simplejson.dumps(all_results,item_sort_key=lambda item:item[1],indent="\t"))
 
+    git_commit(home_dir,f"Full corrections from run: {note}")
+
     
 
 if __name__=="__main__":
