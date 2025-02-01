@@ -300,6 +300,7 @@ def git_commit(path, message: Optional[str] = None) -> None:
     except Exception as e:
         logging.error("Error when committing: %s",e)
 def main():
+    os.chdir("/Users/BeckyMarcusMacbook/Thesis/TextCleaning/")
     home_dir = "networking/"
     log_file_path = "./networking.log"
 
