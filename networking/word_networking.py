@@ -348,7 +348,7 @@ def main():
     save2 = os.path.join(home_dir,results2_file)
     with open(save2,'w') as file:
         file.write(simplejson.dumps(results2_updated,indent="\t",sort_keys=True))
-    all_results = {**results1_updated,**results2_updated}
+    all_results = {**results2_updated,**results1_updated,}
 
 
 
