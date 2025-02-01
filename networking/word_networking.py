@@ -14,7 +14,7 @@ import itertools as it
 import logging
 import time
 from datetime import timedelta
-from .custom_logger import MyLogger,setup_logger
+from custom_logger import MyLogger,setup_logger
 logger:MyLogger
 
 LEVEL_2_CHARS:list[tuple[str,str]] = [
