@@ -272,7 +272,7 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
     return G, results, still_out_there
 
 
-def git_commit(*paths, message: Optional[str] = None) -> None:
+def git_commit(path, message: Optional[str] = None) -> None:
     """
     Commit changes from a specific file or directory in the repository to Git.
 
@@ -280,56 +280,85 @@ def git_commit(*paths, message: Optional[str] = None) -> None:
         path (str): The file or directory containing the changes to commit.
         message (str): The commit message.
     """
-    msg: str = message if message is not None else f"Modified {paths}"
+    msg: str = message if message is not None else f"Modified {path}"
     try:
-        subprocess.run(['git','add',*paths])
+        if not os.path.exists(path):
+            subprocess.run(["git", "rm", path], check=True)
+        else:
+            if os.path.isdir(path):
+            # Stage changes in the specified directory
+                subprocess.run(["git", "add", f"{path}/."], check=True)
+            elif os.path.isfile(path):
+                # Stage changes in the specified file
+                subprocess.run(["git", "add", path], check=True)
+            else:
+                raise ValueError(f"The specified path '{path}' is neither a file nor a directory.")
+            
             # Check if there are any staged changes
         subprocess.run(["git", "commit", "-m", msg], check=True)
-        logging.info(f"Committed changes from {paths} with message: '{msg}'")
+        logging.info(f"Committed changes from {path} with message: '{msg}'")
     except Exception as e:
         logging.error("Error when committing: %s",e)
 def main():
+    home_dir = "networking/"
     log_file_path = "./networking.log"
+
     unfixed_dir = "manual_work/E2/problematic_unfixed"
+
     note = input("enter note for run: ")
-    save_path = "corrections1.json"
+
+    results1_file = "corrections1.json"
+    results2_file= "currections2.json"
+
+    results_all_file = "all_results.json"
+
+    still_unknown_after_file = "still_out_there.txt"
+
+    manual_corrections_path = 'manual_work/corrections.json'
+
+
     logger = setup_logger(log_file_path,note,overwrite=True)
-    manual_corrections = json.load(open('manual_work/corrections.json','r'))
+    manual_corrections = json.load(open(manual_corrections_path,'r'))
     G=DiGraph()
-    unknown_words, results, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger,G)
-    with open("./unknown_words1.txt",'w') as f:
-        f.writelines("\n".join(sorted(unknown_words)))
-    results_updated = {k:manual_corrections.get(v,v) for k,v in results.items()}
-    with open("./still_out_there.txt",'w') as f:
+    unknown_words, results1, still_out_there = run_cycle(unfixed_dir,LEVEL_1_CHARS,manual_corrections,5,logger,G)
+    # with open("./unknown_words1.txt",'w') as f:
+    #     f.writelines("\n".join(sorted(unknown_words)))
+    results1_updated = {k:manual_corrections.get(v,v) for k,v in results1.items()}
+    still_unknown_path = os.path.join(home_dir,still_unknown_after_file)
+    with open(still_unknown_path,'w') as f:
             for l in still_out_there:
-                if l in results_updated:
+                if l in results1_updated:
                     logger.info("%s is not still out there, we got it",l)
                 else:
                     f.write(f"{l}\n")
+    known_corrections = {**manual_corrections,**results1_updated}
 
-    known_corrections = {**manual_corrections,**results_updated}
-    with open(save_path,'w') as file:
-        file.write(simplejson.dumps(results_updated,indent="\t",sort_keys=True))
 
-    save2="./corrections2.json"
+    save_path1 = os.path.join(home_dir,results1_file)
+    with open(save_path1,'w') as file:
+        file.write(simplejson.dumps(results1_updated,indent="\t",sort_keys=True))
+
+    git_commit(home_dir,f"Part 1 of corecting: {note}")
+
 
     relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections,4,logger,G)
-    print(results2.get("tillle"))
     results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
-    print(results2_updated.get("tillle"))
 
-    # json.dump(results2_updated,open(save2,'w'))
+    save2 = os.path.join(home_dir,results2_file)
     with open(save2,'w') as file:
         file.write(simplejson.dumps(results2_updated,indent="\t",sort_keys=True))
-    all_results = {**results_updated,**results2_updated}
-    with open("still_out_there.txt",'w') as f:
+    all_results = {**results1_updated,**results2_updated}
+
+
+
+    with open(still_unknown_path,'w') as f:
             for l in still_still_out_there:
                 if l in all_results:
                     logger.info("%s is not still out there, we got it",l)
                 else:
                     f.write(f"{l}\n")
-
-    with open("./all_results.json",'w') as f:
+    results_all_path = os.path.join(home_dir,results_all_file)
+    with open(results_all_path,'w') as f:
         f.write(simplejson.dumps(all_results,item_sort_key=lambda item:item[1],indent="\t"))
 
     
