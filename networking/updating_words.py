@@ -26,11 +26,11 @@ def fix_text(text:str,results:dict[str,str]):
         m = results.get(fix1)
         if m is None:
             return m
-        return (rf"([^\w])({t})([^\w])",f"\1**{match_case(t,m)}**\3")
+        return (re.compile(rf"([^\w])({t})([^\w])"),fr"\1**{match_case(t,m)}**\3")
 
     
     for pattern,rep in mit.filter_map(get_pattern_replacement,tokens):
-        text = re.sub(pattern,rep,text)
+        text = pattern.sub(rep,text)
     return text
 
 def main():
