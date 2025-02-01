@@ -1,4 +1,4 @@
-from typing import Callable
+from typing import Callable, Optional
 import json
 import simplejson #type:ignore
 import os
@@ -8,12 +8,13 @@ from wordfreq import zipf_frequency
 import math
 import re
 from collections import deque
+import subprocess
 import more_itertools as mit #type:ignore
 import itertools as it
 import logging
 import time
 from datetime import timedelta
-from custom_logger import MyLogger,setup_logger
+from .custom_logger import MyLogger,setup_logger
 logger:MyLogger
 
 LEVEL_2_CHARS:list[tuple[str,str]] = [
@@ -271,10 +272,26 @@ def run_cycle(unfixed_dir: str, chars: list[tuple[str, str]], known_corrections,
     return G, results, still_out_there
 
 
+def git_commit(*paths, message: Optional[str] = None) -> None:
+    """
+    Commit changes from a specific file or directory in the repository to Git.
+
+    Args:
+        path (str): The file or directory containing the changes to commit.
+        message (str): The commit message.
+    """
+    msg: str = message if message is not None else f"Modified {paths}"
+    try:
+        subprocess.run(['git','add',*paths])
+            # Check if there are any staged changes
+        subprocess.run(["git", "commit", "-m", msg], check=True)
+        logging.info(f"Committed changes from {paths} with message: '{msg}'")
+    except Exception as e:
+        logging.error("Error when committing: %s",e)
 def main():
     log_file_path = "./networking.log"
     unfixed_dir = "manual_work/E2/problematic_unfixed"
-    note = "First run fingers crossed"
+    note = input("enter note for run: ")
     save_path = "corrections1.json"
     logger = setup_logger(log_file_path,note,overwrite=True)
     manual_corrections = json.load(open('manual_work/corrections.json','r'))
@@ -297,7 +314,10 @@ def main():
     save2="./corrections2.json"
 
     relevant_unknown,results2,still_still_out_there  = run_cycle(unfixed_dir,LEVEL_2_CHARS,known_corrections,4,logger,G)
+    print(results2.get("tillle"))
     results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
+    print(results2_updated.get("tillle"))
+
     # json.dump(results2_updated,open(save2,'w'))
     with open(save2,'w') as file:
         file.write(simplejson.dumps(results2_updated,indent="\t",sort_keys=True))
@@ -305,9 +325,13 @@ def main():
     with open("still_out_there.txt",'w') as f:
             for l in still_still_out_there:
                 if l in all_results:
-                    logger.notice("%s is not still out there, we got it",l)
+                    logger.info("%s is not still out there, we got it",l)
                 else:
                     f.write(f"{l}\n")
+
+    with open("./all_results.json",'w') as f:
+        f.write(simplejson.dumps(all_results,item_sort_key=lambda item:item[1],indent="\t"))
+
     
 
 if __name__=="__main__":
