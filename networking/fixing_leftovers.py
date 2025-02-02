@@ -16,6 +16,7 @@ import time
 from datetime import timedelta
 from custom_logger import MyLogger,setup_logger
 logger:MyLogger
+FALSE_POSITIVES = set(['mall'])
 THRESHOLDS = {
     4:3,
     3:5,
@@ -30,7 +31,11 @@ LEVEL_2_CHARS:list[tuple[str,str]] = [
     ('l',"I"),
     ('t','L'),
     ('i','L'),
-    ('r','w'),
+    ('r','W'),
+    ('v','W'),
+    ('v','U'),
+    ('ld',"B"),
+    ('t',"R"),
     
     
     ("ml","RM"),
@@ -47,6 +52,7 @@ LEVEL_1_CHARS: list[tuple[str,str]] = [
     ("cl", "D"),
     ("cl",'A'),
     ("lll", "M"),
+    ("lil", "M"),
     ('ltl','M'),
     ("nl", "M"),
     ("ill","M"),
@@ -56,6 +62,7 @@ LEVEL_1_CHARS: list[tuple[str,str]] = [
     ('zn','M'),
     ('nz',"M"),
     ('ul',"M"),
+    ('lu',"M"),
     ("tn","M"),
     ('in',"M"),
 
@@ -88,10 +95,9 @@ e=math.e
 
 
 
-def apply_t(s,old,new,i)->str:
-    if i==-1:
-        return re.sub(old,new,s)
-    return s[:i] + new + s[i + len(old):] 
+def apply_t(s, new, i, match_length) -> str:
+    """Replace only the matched substring at index i based on its length."""
+    return s[:i] + new + s[i + match_length:] 
 
 def prune_graph(G: DiGraph, results: dict, next_char_queue: deque, new_words_for_next_iter: deque, logger):
     """
@@ -156,6 +162,8 @@ def known_enough(word:str,threshold:float)->tuple[bool,float]:
     zfreq = zipf_frequency(word,'en')
     return zfreq>THRESHOLDS.get(len(word),threshold), zfreq
 
+
+
 def run_cycle(unknown_words:set[str], chars: list[tuple[str, str]], known_corrections, max_iteration: int, logger, G:DiGraph,threshold=math.e):
     transformed_chars = [(rf"(?=({old}))", new) for old, new in chars]
     logger.info("Initiating unknown words in graph")
@@ -163,84 +171,115 @@ def run_cycle(unknown_words:set[str], chars: list[tuple[str, str]], known_correc
     new_words_for_next_iter = deque(unknown_words)
 
     for word in unknown_words:
-        G.add_node(word, root=word, final=None, level=0)
-
+        G.add_node(word, root=word, final=None, last_change_iter=0,match_word=word)
+    if max_iteration==-1:
+        max_iteration=100
     current_iter = 0
+    any_change=True
+    try:
+        while current_iter < max_iteration:
+            any_change=False
+            start_results = len(results)
+            current_iter += 1
+            logger.notice("Starting iteration %s", current_iter)
 
-    while current_iter < max_iteration:
-        start_results = len(results)
-        current_iter += 1
-        logger.notice("Starting iteration %s", current_iter)
+            to_remove=set()
+            next_char_queue = new_words_for_next_iter
+            new_words_for_next_iter = deque()
 
-        results_gotten = deque()
-        next_char_queue = new_words_for_next_iter
-        new_words_for_next_iter = deque()
+            for old, new in transformed_chars:
+                logger.info("Processing character replacement: %s -> %s", old, new)
+                char_queue = next_char_queue
+                next_char_queue = deque()
 
-        for old, new in transformed_chars:
-            logger.info("Processing character replacement: %s -> %s", old, new)
-            char_queue = next_char_queue
-            next_char_queue = deque()
+                while char_queue:
+                    node_word = char_queue.popleft()  # Faster than .pop() for queue operations
+                    node_data = G.nodes[node_word]
+                    
 
-            while char_queue:
-                node_word = char_queue.popleft()  # Faster than .pop() for queue operations
-                node_data = G.nodes[node_word]
-                root = node_data["root"]
+                    match_word = node_data['match_word']
+                    root = node_data["root"]
 
-                if root in results:
-                    continue
 
-                node_solved = False
-                indices = [m.start(1) for m in re.finditer(old, node_word)]
-                for i in indices:
-                    new_word = apply_t(node_word, old, new, i).lower()
+                    if node_data['last_change_iter']<current_iter-1 and not node_data['final']:
+                        logger.info("%s not changeable, continuing and removing")
+                        to_remove.add(node_word)
+                        continue
 
-                    if new_word not in G:
-                        known, zfreq = known_enough(new_word,threshold)
-                        previously_corrected = known_corrections.get(new_word)
 
-                        if previously_corrected:
+                    if root in results:
+                        continue
 
-                            logger.info("Previously corrected: '%s' -> '%s'", root, previously_corrected)
-                            node_data["final"] = previously_corrected
-                            G.add_node(new_word, root=root, final=previously_corrected)
-                            results[root] = previously_corrected
-                            node_solved = True
-                        elif known:
-                            results[root] = new_word
-                            
-                            node_data["final"] = new_word
-                            G.add_node(new_word, root=root, final=new_word, freq=zfreq)
-                            node_solved = True
-                            logger.info("New valid word: '%s' (freq: %.2f)", new_word, zfreq)
-                        else:
-                            G.add_node(new_word, root=root, final=None, freq=zfreq)
-                            new_words_for_next_iter.append(new_word)
-                            logger.debug("Added to graph: %s", new_word)
+                    
 
-                        G.add_edge(node_word, new_word, old=old, new=new, i=i)
+                    node_solved=False
+                    matches = [(m.start(1), len(m.group(1))) for m in re.finditer(old, match_word)]  # Store both index & match length
+                    i=None
+                    for i, match_length in matches:
+                        any_change=True
+                        new_match = apply_t(node_word, new, i, match_length)
+                        new_word = new_match.lower()
+                        if new_word in FALSE_POSITIVES:
+                            continue
+                        if new_word not in G:
+                            known, zfreq = known_enough(new_word,threshold)
+                            previously_corrected = known_corrections.get(new_word)
 
-                    else:
-                        final = G.nodes[new_word].get("final")
-                        if final:
-                            results[root] = final
-                            node_data["final"] = final
-                            node_solved = True
+                            if previously_corrected:
 
-                        elif not G.has_edge(node_word, new_word):
+                                logger.info("Previously corrected: '%s' -> '%s'", root, previously_corrected)
+                                node_data["final"] = previously_corrected
+                                G.add_node(new_word, root=root, final=previously_corrected,match_word=new_match,last_change_iter=current_iter)
+                                results[root] = previously_corrected
+                                node_solved = True
+                            elif known:
+                                results[root] = new_word
+                                
+                                node_data["final"] = new_word
+                                G.add_node(new_word, root=root, final=new_word, freq=zfreq,match_word=new_match,last_change_iter=current_iter)
+                                node_solved = True
+                                logger.info("New valid word: '%s' (freq: %.2f)", new_word, zfreq)
+                            else:
+                                G.add_node(new_word, root=root, final=None, freq=zfreq,match_word=new_match,last_change_iter=current_iter)
+                                new_words_for_next_iter.append(new_word)
+                                logger.debug("Added to graph: %s", new_word)
+
                             G.add_edge(node_word, new_word, old=old, new=new, i=i)
 
-                    if node_solved:
-                        break
+                        else:
+                            found_node =G.nodes[new_word]
+                            final = found_node.get("final")
+                            if final:
+                                results[root] = final
+                                node_data["final"] = final
+                                node_solved = True
 
-                next_char_queue.append(node_word)
+                            elif not G.has_edge(node_word, new_word):
+                                found_node['match_word']=combine_match(new_match,found_node['match_word'])
+                                G.add_edge(node_word, new_word, old=old, new=new, i=i)
 
-        logger.notice("%d results found in iteration %d, total %d", len(results) - start_results, current_iter, len(results))
-        prune_graph(G,results,next_char_queue,new_words_for_next_iter,logger)
+                        if node_solved:
+                            break
+                    if i is not None:
+                        node_data['last_change_iter'] = current_iter
+                    next_char_queue.append(node_word)
+                ## End of char thing
+                logger.info("End of char thing, removing %d nodes",len(to_remove))
+                G.remove_nodes_from(to_remove)
+                to_remove.clear()
 
-    still_out_there = set([x for x in unknown_words if x not in results])
-    logger.info("Total results: %d", len(results))
-    clean_unconnected_nodes(G,results,logger)
-    return G, results, still_out_there
+            logger.notice("%d results found in iteration %d, total %d", len(results) - start_results, current_iter, len(results))
+            prune_graph(G,results,next_char_queue,new_words_for_next_iter,logger)
+            if not any_change:
+                logger.notice("Ending at iteration %d due to lack of change",current_iter)
+                break
+    except KeyboardInterrupt:
+        logger.notice("Keyboard interupt at iteration %s", current_iter)
+    finally:
+        still_out_there = set([x for x in unknown_words if x not in results])
+        logger.info("Total results: %d", len(results))
+        clean_unconnected_nodes(G,results,logger)
+        return G, results, still_out_there
 
 def check_nodes(G:DiGraph,results:dict,logger):
     possible_children:dict[str,list[tuple[str,float]]] = defaultdict(list)
@@ -254,14 +293,15 @@ def check_nodes(G:DiGraph,results:dict,logger):
             possible_children[root].append((node,freq))
     return {root: sorted(v,key=lambda x: x[1],reverse=True) for root,v in possible_children.items() if len(v)>0}
 
-
+def combine_match(str1:str,str2:str):
+    return "".join([s.upper() if (str1[i].isupper() or str2[i].isupper()) else s for i,s in enumerate(str1)])
 
 
 def main():
     os.chdir("/Users/BeckyMarcusMacbook/Thesis/TextCleaning/")
 
     home_dir = "networking/"
-    log_file_path = "./networking.log"
+    log_file_path = "networking/networking.log"
     logger = setup_logger(log_file_path,notes =input("Note: "),overwrite=True)
 
     unknown_words_file = "networking/still_out_there.txt"
@@ -274,16 +314,16 @@ def main():
 
     results_all_file = "all_results_leftover.json"
 
-    still_unknown_after_file = "still_out_there2.txt"
+    still_unknown_after_file = "still_out_there21.txt"
 
-    possible_children_path = "networking/children_list.json"
+    possible_children_path = "networking/children_list_unedited.json"
 
     manual_corrections_path = '/Users/BeckyMarcusMacbook/Thesis/TextCleaning/networking/results_FINAL.json'
 
 
     manual_corrections = json.load(open(manual_corrections_path,'r'))
     G=DiGraph()
-    unknown_words, results1, still_out_there = run_cycle(unknown_words,LEVEL_1_CHARS,manual_corrections,5,logger,G)
+    unknown_words, results1, still_out_there = run_cycle(unknown_words,LEVEL_1_CHARS,manual_corrections,-1,logger,G)
     # with open("./unknown_words1.txt",'w') as f:
     #     f.writelines("\n".join(sorted(unknown_words)))
     results1_updated = {k:manual_corrections.get(v,v) for k,v in results1.items()}
@@ -302,7 +342,7 @@ def main():
         file.write(simplejson.dumps(results1_updated,indent="\t",sort_keys=True))
 
 
-    relevant_unknown,results2,still_still_out_there  = run_cycle(still_out_there,LEVEL_2_CHARS,known_corrections,4,logger,G)
+    relevant_unknown,results2,still_still_out_there  = run_cycle(still_out_there,LEVEL_2_CHARS,known_corrections,-1,logger,G)
     results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
 
     save2 = os.path.join(home_dir,results2_file)
