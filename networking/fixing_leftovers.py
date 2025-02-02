@@ -157,6 +157,7 @@ def known_enough(word:str,threshold:float)->tuple[bool,float]:
     return zfreq>THRESHOLDS.get(len(word),threshold), zfreq
 
 def run_cycle(unknown_words:set[str], chars: list[tuple[str, str]], known_corrections, max_iteration: int, logger, G:DiGraph,threshold=math.e):
+    transformed_chars = [(rf"(?=({old}))", new) for old, new in chars]
     logger.info("Initiating unknown words in graph")
     results = {}
     new_words_for_next_iter = deque(unknown_words)
@@ -175,7 +176,7 @@ def run_cycle(unknown_words:set[str], chars: list[tuple[str, str]], known_correc
         next_char_queue = new_words_for_next_iter
         new_words_for_next_iter = deque()
 
-        for old, new in chars:
+        for old, new in transformed_chars:
             logger.info("Processing character replacement: %s -> %s", old, new)
             char_queue = next_char_queue
             next_char_queue = deque()
@@ -189,13 +190,7 @@ def run_cycle(unknown_words:set[str], chars: list[tuple[str, str]], known_correc
                     continue
 
                 node_solved = False
-                indices = mit.locate(node_word, pred=lambda *x: mit.iequals(x, old), window_size=len(old)) if new else [-1]
-                if not indices:
-                    try:
-                        indices = [re.search(old,node_word).span()[0]] #type:ignore
-                    except AttributeError:
-                        pass
-
+                indices = [m.start(1) for m in re.finditer(old, node_word)]
                 for i in indices:
                     new_word = apply_t(node_word, old, new, i).lower()
 
