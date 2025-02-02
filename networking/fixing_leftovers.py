@@ -190,6 +190,11 @@ def run_cycle(unknown_words:set[str], chars: list[tuple[str, str]], known_correc
 
                 node_solved = False
                 indices = mit.locate(node_word, pred=lambda *x: mit.iequals(x, old), window_size=len(old)) if new else [-1]
+                if not indices:
+                    try:
+                        indices = [re.search(old,node_word).span()[0]] #type:ignore
+                    except AttributeError:
+                        pass
 
                 for i in indices:
                     new_word = apply_t(node_word, old, new, i).lower()
@@ -332,12 +337,5 @@ def main():
     
 
 if __name__=="__main__":
-    # import sys
-    # if len(sys.argv) != 2:
-    #     print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
-    #     sys.exit(1)
-
-    # unfixed_dir = sys.argv[1]
-    # save_path = sys.argv[2]
 
     main()
