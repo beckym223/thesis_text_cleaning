@@ -423,7 +423,7 @@ def number_path(path,number):
     except:
         logger.error("Could not properly split %s",path)
         raise
-    return f"{front}{number:.2f}.{dot_txt}"
+    return f"{front}{number:.2}.{dot_txt}"
 
 if __name__=="__main__":
 
