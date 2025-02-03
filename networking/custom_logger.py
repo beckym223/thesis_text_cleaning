@@ -26,12 +26,10 @@ def setup_logger(log_file_path, notes:str, overwrite = False,file_level:int = lo
 
     # File handler for INFO and above (temp file)
 
-    if not os.path.exists(log_file_path):
+    if not os.path.exists(log_file_path) or overwrite:
         os.makedirs(os.path.dirname(log_file_path),exist_ok=True)
         with open(log_file_path,'w') as f:
             f.write('')
-    elif overwrite:
-        os.remove(log_file_path)
     file_handler = logging.FileHandler(log_file_path)
     file_handler.setLevel(file_level)
     file_format = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
