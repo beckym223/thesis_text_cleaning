@@ -14,8 +14,15 @@ import itertools as it
 import logging
 import time
 from datetime import timedelta
+import argparse
 from custom_logger import MyLogger,setup_logger
 logger:MyLogger
+
+# Change working directory to script's directory
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+os.chdir(SCRIPT_DIR)
+
+
 FALSE_POSITIVES = set(['mall'])
 THRESHOLDS = {
     4:3,
@@ -280,7 +287,7 @@ def run_cycle(unknown_words: set[str], chars: list[tuple[str, str]], known_corre
         still_out_there = {x for x in unknown_words if x not in results}
         logger.info("Total results: %d", len(results))
         clean_unconnected_nodes(G, results, logger)
-        return G, results, still_out_there
+        return results, still_out_there
 
 
 def check_nodes(G:DiGraph,results:dict,logger):
@@ -298,81 +305,129 @@ def check_nodes(G:DiGraph,results:dict,logger):
 def combine_match(str1:str,str2:str):
     return "".join([s.upper() if (str1[i].isupper() or str2[i].isupper()) else s for i,s in enumerate(str1)])
 
+def get_unknown_words(unfixed_dir,pattern:re.Pattern,prelim_known:set[str],filter_func:Callable[[str],bool]|None=None)->tuple[set[str],set[str]]:
+    
+    def unknown_enough(word)->bool:
+        return zipf_frequency(word,'en')<(math.e if len(word)>4 else 3) and len(word)<20
+    filter_func =unknown_enough if filter_func is None else filter_func
+    text_words:set[str] = set()
 
-def main():
+    for file in os.listdir(unfixed_dir):
+        path = os.path.join(unfixed_dir,file)
+        text = open(path).read()
+        slightly_fixed1 = re.sub("1",'l',text)
+        slightly_fixed = re.sub(r"[^\w\s]?","",slightly_fixed1)
+        word_list:list[str] = [w.lower() for w in pattern.findall(slightly_fixed) if len(w)>=4]
+        text_words.update(word_list)
+    print(f"Known: {len(prelim_known)}")
+    prelim_unknown = text_words.difference(prelim_known)
+    print(f"Prelim unknown: {len(prelim_unknown)}")
+
+    unknown_words = set([word.lower() for word in prelim_unknown if filter_func(word)])
+    print("Filtered:",len(unknown_words))
+    return unknown_words, text_words
+
+def make_pattern(*char_list):
+    char_set = {char[0] for char in it.chain(*char_list)}  # Using set comprehension for efficiency
+    return re.compile("|".join(fr"\b[A-Za-z]*{re.escape(char)}[A-Za-z]*\b" for char in char_set))
+
+def get_unique_dir(base_dir):
+    """Generates a unique directory name by appending a number if it already exists."""
+    if not os.path.exists(base_dir):
+        return base_dir  # Return the original if it doesn’t exist
+
+    counter = 1
+    while True:
+        new_dir = f"{base_dir}_{counter}"
+        if not os.path.exists(new_dir):
+            return new_dir
+        counter += 1
+
+def main(run_save_dir, unknown_words_path, manual_corrections_path, read_dir=False):
+    run_save_dir = get_unique_dir(run_save_dir)
+    os.makedirs(run_save_dir, exist_ok=True)  # Create the unique directory
+ 
     os.chdir("/Users/BeckyMarcusMacbook/Thesis/TextCleaning/")
-
-    home_dir = "networking/"
-    log_file_path = "networking/networking.log"
+    log_file_path = os.path.join(run_save_dir,'word_correcting.log')
     logger = setup_logger(log_file_path,notes =input("Note: "),overwrite=True)
 
-    unknown_words_file = "networking/still_out_there.txt"
-    with open(unknown_words_file,'r') as f:
-        unknown_words = set([word.strip() for word in f.readlines()])
+
+    semi_results_file = os.path.join(run_save_dir,"cycle_corrections.json")
+
+    results_all_file = os.path.join(run_save_dir,"all_results.json")
+
+    still_unknown_after_file = os.path.join(run_save_dir,"remaining_after_cycle.txt")
+
+    final_unknown_file = os.path.join(run_save_dir,"remaining_after_run.txt")
+
+    possible_children_path = os.path.join(run_save_dir,"children_list_unedited.json")
+
+    known_corrections = json.load(open(manual_corrections_path,'r'))
+    
+
+    param_cycle = [(LEVEL_1_CHARS,-1),
+                   (LEVEL_2_CHARS,-1)]
+    if read_dir:
+        logger.info("Getting unknown words from directory %s",unknown_words_path)
+        pattern = make_pattern(*[param[0] for param in param_cycle])
+        unknown_words, _ =get_unknown_words(unknown_words_path,pattern,set(known_corrections.keys()))
+    else:
+        logger.info("reading unknown words from file %s",unknown_words_path)
+        with open(unknown_words_path,'r') as f:
+            unknown_words = set([word.strip() for word in f.readlines()])
+
+
     logger.notice("Starting with %d unknown words",len(unknown_words))
-
-    results1_file = "leftover_corrections1.json"
-    results2_file= "leftover_corrections2.json"
-
-    results_all_file = "all_results_leftover.json"
-
-    still_unknown_after_file = "still_out_there21.txt"
-
-    possible_children_path = "networking/children_list_unedited.json"
-
-    manual_corrections_path = '/Users/BeckyMarcusMacbook/Thesis/TextCleaning/networking/results_FINAL.json'
-
-
-    manual_corrections = json.load(open(manual_corrections_path,'r'))
+    all_results = {}
     G=DiGraph()
-    unknown_words, results1, still_out_there = run_cycle(unknown_words,LEVEL_1_CHARS,manual_corrections,-1,logger,G)
-    # with open("./unknown_words1.txt",'w') as f:
-    #     f.writelines("\n".join(sorted(unknown_words)))
-    results1_updated = {k:manual_corrections.get(v,v) for k,v in results1.items()}
-    still_unknown_path = os.path.join(home_dir,still_unknown_after_file)
-    with open(still_unknown_path,'w') as f:
-            for l in still_out_there:
-                if l in results1_updated:
-                    logger.info("%s is not still out there, we got it",l)
-                else:
-                    f.write(f"{l}\n")
-    known_corrections = {**manual_corrections,**results1_updated}
-
-
-    save_path1 = os.path.join(home_dir,results1_file)
-    with open(save_path1,'w') as file:
-        file.write(simplejson.dumps(results1_updated,indent="\t",sort_keys=True))
-
-
-    relevant_unknown,results2,still_still_out_there  = run_cycle(still_out_there,LEVEL_2_CHARS,known_corrections,-1,logger,G)
-    results2_updated = {k:known_corrections.get(v,v) for k,v in results2.items()}
-
-    save2 = os.path.join(home_dir,results2_file)
-    with open(save2,'w') as file:
-        file.write(simplejson.dumps(results2_updated,indent="\t",sort_keys=True))
-    all_results = {**results2_updated,**results1_updated,}
-    logger.notice("Total %d results out of %d",len(all_results),len(unknown_words))
+    for i, (char_corrections ,max_iter) in enumerate(param_cycle):
+        current_results, still_out_there = run_cycle(unknown_words,char_corrections,known_corrections,max_iter,logger,G)
+        unknown_words=still_out_there
+        results_updated = {k:known_corrections.get(v,v) for k,v in current_results.items()}
+        
+        still_unknown_path = number_path(still_unknown_after_file,i)
+        with open(still_unknown_path,'w') as f:
+                for l in still_out_there:
+                    if l in results_updated:
+                        logger.info("%s is not still out there, we got it",l)
+                    else:
+                        f.write(f"{l}\n")
+        known_corrections.update(results_updated)
+        result_save_path = number_path(semi_results_file,1)
+        with open(result_save_path,'w') as file:
+            file.write(simplejson.dumps(results_updated,indent="\t",sort_keys=True))
+        logger.info("Saving %d results in cycle %d",len(results_updated),i)
+        all_results = {**results_updated,**all_results}
 
     logger.notice("Looking for infrequent words in graph now")
 
-    possible_children = check_nodes(G,{**all_results,**manual_corrections},logger)
+    possible_children = check_nodes(G,known_corrections,logger)
 
     with open(possible_children_path,'w') as f:
-        f.write(simplejson.dumps(possible_children,sort_keys=True))
+        f.write(simplejson.dumps(possible_children,sort_keys=True,indent='\t'))
 
-    totally_unknown = set(still_still_out_there)-set(possible_children)
+    totally_unknown = set(unknown_words)-set(possible_children)
 
     logger.info("%d root words with no known children",len(totally_unknown))
-    with open(still_unknown_path,'w') as f:
+    with open(final_unknown_file,'w') as f:
             f.write("\n".join(totally_unknown))
-    results_all_path = os.path.join(home_dir,results_all_file)
-    with open(results_all_path,'w') as f:
+
+    with open(results_all_file,'w') as f:
         f.write(simplejson.dumps(all_results,item_sort_key=lambda item:item[1],indent="\t"))
 
 
 
-    
+def number_path(path,number):
+    front,dot_txt = path.split(".")
+    return f"{front}{number:.2f}.{dot_txt}"
 
 if __name__=="__main__":
 
-    main()
+    parser = argparse.ArgumentParser(description=f"Process text data with specified paths, relative to {SCRIPT_DIR}")
+    parser.add_argument("run_save_dir", help="Directory to save the run results")
+    parser.add_argument("unknown_words_path", help="Path to the unknown words file")
+    parser.add_argument("manual_corrections_path", help="Path to the manual corrections file")
+    parser.add_argument("--read_dir", action="store_true", help="Flag to indicate reading directory")
+
+    args = parser.parse_args()
+    main(args.run_save_dir, args.unknown_words_path, args.manual_corrections_path, args.read_dir)
