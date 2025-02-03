@@ -418,7 +418,11 @@ def main(run_save_dir, unknown_words_path, manual_corrections_path, read_dir=Fal
 
 
 def number_path(path,number):
-    front,dot_txt = path.split(".")
+    try:
+        front,dot_txt = path.rsplit(".",1)
+    except:
+        logger.error("Could not properly split %s",path)
+        raise
     return f"{front}{number:.2f}.{dot_txt}"
 
 if __name__=="__main__":
