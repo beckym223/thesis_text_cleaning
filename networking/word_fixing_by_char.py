@@ -18,9 +18,6 @@ import argparse
 from custom_logger import MyLogger,setup_logger
 logger:MyLogger
 
-# Change working directory to script's directory
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-os.chdir(SCRIPT_DIR)
 
 
 FALSE_POSITIVES = set(['mall'])
@@ -344,10 +341,15 @@ def get_unique_dir(base_dir):
         counter += 1
 
 def main(run_save_dir, unknown_words_path, manual_corrections_path, read_dir=False):
+    # Convert paths to absolute based on execution location
+    run_save_dir = os.path.abspath(run_save_dir)
+    unknown_words_path = os.path.abspath(unknown_words_path)
+    manual_corrections_path = os.path.abspath(manual_corrections_path)
+
+    # Ensure save directory is unique
     run_save_dir = get_unique_dir(run_save_dir)
-    os.makedirs(run_save_dir, exist_ok=True)  # Create the unique directory
- 
-    os.chdir("/Users/BeckyMarcusMacbook/Thesis/TextCleaning/")
+    os.makedirs(run_save_dir, exist_ok=True)
+
     log_file_path = os.path.join(run_save_dir,'word_correcting.log')
     logger = setup_logger(log_file_path,notes =input("Note: "),overwrite=True)
 
@@ -366,7 +368,8 @@ def main(run_save_dir, unknown_words_path, manual_corrections_path, read_dir=Fal
     
 
     param_cycle = [(LEVEL_1_CHARS,-1),
-                   (LEVEL_2_CHARS,-1)]
+                #    (LEVEL_2_CHARS,-1)
+                   ]
     if read_dir:
         logger.info("Getting unknown words from directory %s",unknown_words_path)
         pattern = make_pattern(*[param[0] for param in param_cycle])
@@ -375,7 +378,7 @@ def main(run_save_dir, unknown_words_path, manual_corrections_path, read_dir=Fal
         logger.info("reading unknown words from file %s",unknown_words_path)
         with open(unknown_words_path,'r') as f:
             unknown_words = set([word.strip() for word in f.readlines()])
-
+# /Users/BeckyMarcusMacbook/Thesis/TextCleaning/manual_work/corrections.json
 
     logger.notice("Starting with %d unknown words",len(unknown_words))
     all_results = {}
@@ -423,11 +426,11 @@ def number_path(path,number):
     except:
         logger.error("Could not properly split %s",path)
         raise
-    return f"{front}{number:.2}.{dot_txt}"
+    return f"{front}{number:02}.{dot_txt}"
 
 if __name__=="__main__":
 
-    parser = argparse.ArgumentParser(description=f"Process text data with specified paths, relative to {SCRIPT_DIR}")
+    parser = argparse.ArgumentParser(description=f"Process text data with specified paths")
     parser.add_argument("run_save_dir", help="Directory to save the run results")
     parser.add_argument("unknown_words_path", help="Path to the unknown words file")
     parser.add_argument("manual_corrections_path", help="Path to the manual corrections file")
