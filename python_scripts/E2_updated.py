@@ -64,9 +64,6 @@ def main(source_dir, dest_dir, log_file, commit_changes):
     remove_files(dest_dir,is_first_page,commit_changes)
 
     clean_text_files(dest_dir,commit_changes)
-
-    split_into_paras_at_length(dest_dir,40,commit_changes)
-
     # Run the cleaning steps
 
 
