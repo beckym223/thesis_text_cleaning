@@ -43,6 +43,9 @@ def handle_first_page(file:str, text:str)->str:
     return "\n".join(lines)
 
 def clean_headers_footers(dest_dir:str,commit_changes:bool):
+    patterns = {0:re.compile(r"\[\w+\n"),
+                1:re.compile(r"\d{1,2}\n")
+                }
     file:str
     try:
         for file in sorted(os.listdir(dest_dir)):
@@ -57,9 +60,8 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 
                 text = jstor_and_stripping(text)
                 if page>1:
-                    lines = text.split("\n")
-                    no_header = lines[3:]
-                    text = "\n".join(no_header)
+                    pattern = patterns[page%2]
+                    text = pattern.split(text,1)[-1]
                 else:
                     text = handle_first_page(file,text)
                 with open(path,'w') as f:
