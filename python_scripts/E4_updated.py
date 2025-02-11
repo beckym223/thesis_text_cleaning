@@ -7,7 +7,6 @@ from constants import E4_ABSTRACT_DICT, E4_FOOT_LINES
 
 def handle_first_page(file:str, text:str)->str:
     lines = text.split("\n")
-    save_path = os.path.join(dest_dir,file)
     after_abstract = E4_ABSTRACT_DICT.get(file)
     if after_abstract is not None:
         for i,line in enumerate(lines):
@@ -17,14 +16,9 @@ def handle_first_page(file:str, text:str)->str:
         #→find the line that starts with that text
         #delete everything before it
     else:
-        all_caps_line=0
-        #finding first all caps line
-        while re.search('[a-z]',lines[all_caps_line]) is not None:
-            all_caps_line+=1
-        #finding line with not all caps
-        first_real_line = all_caps_line+1
-        while re.search(r"[a-z]", lines[first_real_line]) is None:
-            first_real_line+=1
+        first_real_line=0
+        while two_line.search(lines[first_real_line]) is None:
+                first_real_line+=1
         if re.search("Presidential [aA]ddress",lines[first_real_line]) is not None:
             first_real_line+=2
             if "1933-0" in file or "1934-0" in file:
@@ -37,8 +31,7 @@ def handle_first_page(file:str, text:str)->str:
                     stop_line+=1
             except:
                 print(f"Presidential address not found in footnote for {file}")
-                with open(save_path,'w') as f:
-                    f.write("\n".join(lines))
+                return "\n".join(lines)
         lines = lines[first_real_line:stop_line]
     return "\n".join(lines)
 
@@ -47,6 +40,8 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 1:re.compile(r"\d{1,2}\n")
                 }
     file:str
+    global two_line 
+    two_line = re.compile(r"(\b[a-z]+\b\s?){2,}")
     try:
         for file in sorted(os.listdir(dest_dir)):
             try:
@@ -62,8 +57,19 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 if page>1:
                     pattern = patterns[page%2]
                     text = pattern.split(text,1)[-1]
+                    first_line=0
+                    lines = text.splitlines()
+                    try:
+                        while two_line.search(lines[first_line]) is None:
+                            first_line+=1
+                        
+                    except IndexError:
+                        logging.warning(f"wasnt able to find first line in {file}")
+                    else:
+                        text = "\n".join(lines[first_line:])
                 else:
                     text = handle_first_page(file,text)
+                
                 with open(path,'w') as f:
                     f.write(text.strip())
             except Exception as e:
@@ -80,6 +86,8 @@ def is_page_to_remove(file:str)->bool:
     return page==0 or ('1933-1' in file and page>=9)
     
 def handle_last_page_authors(dest_dir:str,commit_changes:bool):
+    author_pattern = re.compile(r"[A-Z\.\s]{5,}")
+    univ_pattern = re.compile(r"University|New School")
     try:
         last_pages:list[str] = []
         files = sorted(os.listdir(dest_dir))
@@ -88,15 +96,24 @@ def handle_last_page_authors(dest_dir:str,commit_changes:bool):
                 last_pages.append(files[i-1])
         for page in last_pages:
             try:
+                
                 path = os.path.join(dest_dir,page)
                 text = open(path,'r').read()
                 lines = text.split("\n")
+                line_num=-1
                 for line in lines[::-1]:
-                    found = re.search(r"[A-Z\.\s]{5,}",line)
+                    found = author_pattern.search(line)
                     if found is not None:
-                        new_page = text.rsplit(found.string,1)[0].strip()
+                        if univ_pattern.search(lines[line_num-1]) is not None:
+                            new_page = "\n".join(lines[:line_num-1])
+                        else:
+                            new_page = text.rsplit(found.string,1)[0].strip()
+
                         with open(path,'w') as f:
                             f.write(new_page)
+                        break
+                    line_num-=1
+                    
             except:
                 logging.error(f"Error finding author in file {last_pages}")
         if commit_changes:
@@ -115,13 +132,13 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     handle_last_page_authors(dest_dir,commit_changes)
 
-    remove_footnote_lines(dest_dir,E4_FOOT_LINES,commit_changes)
+    # remove_footnote_lines(dest_dir,E4_FOOT_LINES,commit_changes)
 
-    fix_dash_errors_in_dir(dest_dir,commit_changes)
+    # fix_dash_errors_in_dir(dest_dir,commit_changes)
     
-    handle_line_breaks_across_pages(dest_dir,commit_changes=True)
+    # handle_line_breaks_across_pages(dest_dir,commit_changes=True)
 
-    split_into_paras_at_length(dest_dir,50,commit_changes)
+    # split_into_paras_at_length(dest_dir,50,commit_changes)
 
 if __name__ == "__main__":
     import sys
