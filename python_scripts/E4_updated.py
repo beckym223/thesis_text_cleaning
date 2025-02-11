@@ -58,7 +58,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 text = jstor_and_stripping(text)
                 if page>1:
                     lines = text.split("\n")
-                    no_header = lines[1:]
+                    no_header = lines[3:]
                     text = "\n".join(no_header)
                 else:
                     text = handle_first_page(file,text)
