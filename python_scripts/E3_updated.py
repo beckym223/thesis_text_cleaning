@@ -65,13 +65,13 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     clean_headers_footers(dest_dir,commit_changes)
 
-    remove_footnote_lines(dest_dir,E3_FOOT_LINES,commit_changes)
+    # remove_footnote_lines(dest_dir,E3_FOOT_LINES,commit_changes)
 
-    fix_dash_errors_in_dir(dest_dir,commit_changes)
+    # fix_dash_errors_in_dir(dest_dir,commit_changes)
     
-    handle_line_breaks_across_pages(dest_dir,commit_changes=True)
+    # handle_line_breaks_across_pages(dest_dir,commit_changes=True)
 
-    split_into_paras_at_length(dest_dir,40,commit_changes)
+    # split_into_paras_at_length(dest_dir,40,commit_changes)
 
 if __name__ == "__main__":
     import sys
