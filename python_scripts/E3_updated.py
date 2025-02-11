@@ -3,7 +3,7 @@ import re
 import logging
 from utils import *
 from text_cleaning import *
-from constants import E3_FOOT_LINES
+from constants import E3_FOOT_PAGES
 import numpy as np
 
 def handle_first_page(file:str, text:str)->str:
@@ -65,7 +65,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
         git_commit(dest_dir,"Cleaned headers and footers")
     
 def find_footnote_lines(dest_dir,commit_changes):
-    for file in E3_FOOT_LINES:
+    for file in E3_FOOT_PAGES:
         path = os.path.join(dest_dir,file)
         with open(path,'r') as f:
             text = f.read()
