@@ -1,5 +1,6 @@
 wealth, by discovering, developing, and training the productive
 ability of its population.
+
 The American people have been much concerned of late about
 the conservation of their natural resources, and they may well be
 thus exercised. Waste represents an absolute loss in the human
@@ -21,10 +22,10 @@ in the cutting off of our forests, and have failed to observe that
 the larger interest of the community as a whole demanded a
 greater care in the removal of our timber wealth.
 But after all, the mere preservation of natural resources is not
-in any proper sense of that term a conservation of natural re-
-sources, that is, such a care of the natural resources as will work
-out the largest economic result. The American Indian had pre-
-served the natural resources of the North American continent
+in any proper sense of that term a conservation of natural resources,
+that is, such a care of the natural resources as will work
+out the largest economic result. The American Indian had preserved
+the natural resources of the North American continent
 up to the coming of Christopher Columbus, and for anything that
 we can see would have preserved them for countless generations.
 The Mexican peon still preserves the natural resources of great
@@ -32,6 +33,7 @@ stretches of the most fertile Mexican territory. The savages of
 Africa, and generally speaking of all countries, preserve the
 natural resources; but we can hardly speak of them as conserving
 them in any proper sense.
+
 There will naturally be great differences of opinion as to whether
 any particular policy in exploiting the forests or the mines or the
 fields is, economically speaking, wasteful or not. That which

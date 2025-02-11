@@ -1,16 +1,16 @@
 Massachusetts held a leading position. If there are eleven states,
-one of 10,000,000 and ten of 1,000,000, and all remainders are re-
-jected, the chances are that the ten remainders of the small states
+one of 10,000,000 and ten of 1,000,000, and all remainders are rejected,
+the chances are that the ten remainders of the small states
 will in combination be several times as great as the one remainder
 in the large state. Or in the case of Massachusetts in 1832, with
-a ratio of one representative to 47,000 people and 12 representa-
-tives, the apportionment against which Everett and Webster pro-
-tested, that state would have had, to be sure, only 197 representa-
-tives to 10,000,000 people, far short of the standard 213; but the
-smallest five states then in the Union, which together had a popu-
-lation somewhat less than that of Massachusetts, would have re-
-ceived only 172 representatives per 10,000,000 people. Massa-
-chusetts would have fallen 16 below the standard, but they would
+a ratio of one representative to 47,000 people and 12 representatives,
+the apportionment against which Everett and Webster protested,
+that state would have had, to be sure, only 197 representatives
+to 10,000,000 people, far short of the standard 213; but the
+smallest five states then in the Union, which together had a population
+somewhat less than that of Massachusetts, would have received
+only 172 representatives per 10,000,000 people. Massachusetts
+would have fallen 16 below the standard, but they would
 have fallen 25 below Massachusetts. Massachusetts would have
 had a rejected fraction of .99 but they would have had rejected
 fractions amounting in combination to 2.38.
@@ -24,18 +24,18 @@ include New York and Massachusetts, each of which received four
 more than it deserved, Pennsylvania, which received three more, and
 Virginia, which received two more. Among the smaller states
 Delaware should have had four more than it had, Vermont three
-more, New Jersey two more, Connecticut, North Carolina, Tennes-
-see and Missouri one more. Thus, during the first five decades of
-apportionment, the populous states as a group got thirteen rep-
-resentatives more than they were entitled to and the small states,
+more, New Jersey two more, Connecticut, North Carolina, Tennessee
+and Missouri one more. Thus, during the first five decades of
+apportionment, the populous states as a group got thirteen representatives
+more than they were entitled to and the small states,
 as a group, thirteen less. The efforts of Everett and Webster,
-called forth by what looked like a serious injustice to Massa-
-chusetts, led to the introduction ten years later of a better method,
+called forth by what looked like a serious injustice to Massachusetts,
+led to the introduction ten years later of a better method,
 but in so doing overturned a method by which in the long run
 Massachusetts had profited as much as any state in the Union.
 I conclude that the method of apportionment used between
-1790 and 1830, under which all fractional remainders were re-
-jected, is incorrect and unconstitutional and that for two reasons:
+1790 and 1830, under which all fractional remainders were rejected,
+is incorrect and unconstitutional and that for two reasons:
 first, it does not apportion in each state as near as may be to the
 standard and, secondly, it regularly results in over-representing
 the populous states.
