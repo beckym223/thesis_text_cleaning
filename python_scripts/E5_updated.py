@@ -6,33 +6,32 @@ from text_cleaning import *
 from constants import E5_SPLIT_RANGES
 import subprocess
 
-def remove_headers_normal_pages(text,file)->str:
+def remove_headers_normal_pages(text)->str:
     lines = text.splitlines()
-    first_line= 0
-    try:
-        while header_line.search(lines[first_line]) is None:
-            first_line+=1
-                        
-    except IndexError:
-        logging.warning(f"wasnt able to find first line in {file}")
-        return text
-    else:
-        return "\n".join(lines[first_line:])
+    first_line=0
+    while lowercase_words.search(lines[first_line]) is None:
+        first_line+=1
+    return "\n".join(lines[first_line:])
 
 
 def clean_headers_footers(dest_dir:str,commit_changes:bool):
     global header_line
-    header_line = re.compile(r"(\b[A-Z]+\b\s){2}|^\d{1,2}")
+    header_line = re.compile(r"(\b[A-Z]+\b\s){2,}|^\d{1,2,4}|\d+\]^|\[[A-Z]+")
+    global lowercase_words
+    lowercase_words = re.compile(r"(\b[a-z]+\b\s?){2,}")
     try:
         for file in sorted(os.listdir(dest_dir)):
+            path = os.path.join(dest_dir, file)
+            text = open(path,'r').read()
             try:
                 if file[0] =='.':
                     continue
                 disc,year,num,pagetxt = file.split("-")
                 page=int(pagetxt[:-4])
-                path = os.path.join(dest_dir, file)
-                text = open(path,'r').read()
                 text = jstor_and_stripping(text)
+                if "REFERENCES" in text:
+                    print(f"Reference at {file}")
+                    logging.info(f"Found reference start in {file}")
                 if page<4:
                     author_line =re.search("\n(By [^\n]+\n)",text)
                     if author_line is not None:
@@ -49,15 +48,18 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                             subprocess.run(["git", "rm", path], check=True)
                         continue
                     else:
-                        text = text.strip().split("\n",1)[1]
+                            text = remove_headers_normal_pages(text)
                 else:
-                    
-                    text = text.strip().split("\n",1)[1]
-                with open(path,'w') as f:
-                    f.write(text)
+                    text = remove_headers_normal_pages(text)
+            except IndexError:
+                logging.warning(f"Cannot find start line for {file}")  
             except:
                 logging.error(f"Exception when cleaning file {file}")
-                raise
+                raise    
+            finally:
+                with open(path,'w') as f:
+                    f.write(text)
+            
         if commit_changes:
             git_commit(dest_dir,"Cleaned headers and footers")
     except Exception as e:
