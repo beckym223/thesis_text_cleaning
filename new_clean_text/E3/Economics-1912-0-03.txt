@@ -7,11 +7,13 @@ takes the example of a protective tariff and shows that it would
 be quite impossible to find two nations which are exactly alike in
 every respect excepting only in the presence or absence of such a
 tariff.3
-The method of concomitant variations he thinks equally impos-
-sible, because every attribute of the social body is influenced by
+
+The method of concomitant variations he thinks equally impossible,
+because every attribute of the social body is influenced by
 innumerable causes. Hence the changes are the effects, not of a
 single cause, but of the combination of many causes.*
 4
+
 We may concede, the difficulty of applying the method of
 differences to test the effect of a protective tariff upon the general
 wealth of nations, and yet recognize the possibility of experiments
@@ -26,8 +28,8 @@ order to apply the experimental method to economic questions,
 we must apply it as it has been applied successfully to the natural
 sciences. Now the greatest achievements in science have been
 attained, not by putting such general questions as that instanced
-by Mill, but by making the questions more and more specific, tak-
-ing into account only a limited number of phenomena at a time.
+by Mill, but by making the questions more and more specific, taking
+into account only a limited number of phenomena at a time.
 Thus while it may well be impossible to trace the effect of a
 protective tariff upon the general wealth of the country, it is not
 so difficult to trace its effect on the separate factors entering into
@@ -35,4 +37,4 @@ that wealth, such as the distribution of wealth between different
 classes, the prices of protected commodities, the conservation of
 the natural resources of the country, the growth of monopoly, etc.
 In claiming for economic phenomena the value which we attach
-to experimentation, it should be understood that we are not deal-
+to experimentation, it should be understood that we are not dealing
