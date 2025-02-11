@@ -66,7 +66,7 @@ def clean_text_files(dir_path: str,commit_changes:bool):
         raise
     
 def remove_foot_lines(dest_dir:str,commit_changes:bool):
-    for file in os.listdir(dest_dir):
+    for file in sorted(os.listdir(dest_dir)):
         if file in E2_FN_PAGES:
             print(f"found file {file}")
             path = os.path.join(dest_dir,file)
@@ -75,6 +75,8 @@ def remove_foot_lines(dest_dir:str,commit_changes:bool):
             text = re.sub(r"\n\s?\*[^\*].$","",text,flags=re.DOTALL, count=1)
             with open(path,'w') as f:
                 f.write(text)
+        else:
+            print(f"{file} not in the list")
     if commit_changes:
         git_commit(dest_dir,"Removed foot lines for some files")
 
