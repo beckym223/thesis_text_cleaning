@@ -6,7 +6,17 @@ import logging
 from utils import *
 from text_cleaning import *
 from constants import E2_FOOT_LINES
-
+E2_FN_PAGES: list[str] = [
+    "Economics-1893-0-01.txt",
+    "Economics-1894-0-05.txt",
+    "Economics-1894-0-07.txt",
+    "Economics-1894-0-11.txt",
+    "Economics-1894-0-12.txt",
+    "Economics-1894-0-14.txt",
+    "Economics-1894-0-15.txt",
+    "Economics-1894-0-16.txt",
+    "Economics-1894-0-19.txt",
+    ]
 
 def clean_text_files(dir_path: str,commit_changes:bool):
     """
@@ -55,6 +65,18 @@ def clean_text_files(dir_path: str,commit_changes:bool):
         logging.error(f"Error cleaning text files after file {file}: {e}")
         raise
     
+def remove_foot_lines(dest_dir:str,commit_changes:bool):
+    for file in os.listdir(dest_dir):
+        if file in E2_FN_PAGES:
+            path = os.path.join(dest_dir,file)
+            with open(path,'r') as f:
+                text = f.read()
+            text = re.sub(r"\n\s?\*[^\*].$","",text, count=1)
+            with open(path,'w') as f:
+                f.write(text)
+    if commit_changes:
+        git_commit(dest_dir,"Removed foot lines for some files")
+
 def main(source_dir, dest_dir, log_file, commit_changes):
 
     setup_logging(log_file)
@@ -63,9 +85,10 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     remove_files(dest_dir,is_first_page,commit_changes)
 
-    remove_footnote_lines(dest_dir,E2_FOOT_LINES,commit_changes)
+    remove_foot_lines(dest_dir,commit_changes)
 
     clean_text_files(dest_dir,commit_changes)
+
     # Run the cleaning steps
 
 
