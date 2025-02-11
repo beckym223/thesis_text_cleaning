@@ -1,0 +1,47 @@
+6
+THE AMERICAN ECONOMIC REVIEW
+have the statistical information which would permit them to approxi-
+mate the production function, the elasticities of the marginal pro-
+ductivity curves, or to determine the degree to which the actual
+distribution of the product conforms to what one would expect from
+the nature of the production function itself. But the sad truth of
+the matter is that they have made little effort to find out and have
+instead turned their backs upon inductive research and have, in effect,
+been school men living within ivy-clad towers.
+II. The Early Studies of the Cobb-Douglas Production Function
+It was twenty years ago last spring that, having computed indexes
+for American manufacturing of the numbers of workers employed by
+years from 1899 to 1922, as well as indexes of the amounts of fixed
+capital in manufacturing deflated to dollars of approximately constant
+purchasing power, and then plotting these on a log scale together with
+the Day index of physical production for manufacturing, I observed
+that the product curve lay consistently between the two curves for the
+factors of production and tended to be approximately a quarter of the
+relative distance between the curve of the index for labor, which
+showed the least increase over the period, and that of the index for
+capital which showed the most. Since I was lecturing at Amherst
+College at the time, I suggested to my friend, Charles W. Cobb, that
+we seek to develop a formula which would measure the relative effect
+of labor and capital upon product during this period. We were both
+familiar with the Wicksteed analysis and Cobb was, of course, well
+versed in the history of the Euler theorem. At his suggestion, therefore,
+the sum of the exponents was tentatively made equal to unity in the
+formula
+P = bLk C¹-k
+(1)
+Here it was only necessary to find the values of b and k. This was
+done by the method of least squares and the value of k was found to
+be .75. This was almost precisely what we had expected because of
+the relative distance of the product curve from those of the two factors.
+The value of the capital exponent, or 1-k, was, of course, then taken
+as .25. Using these values, we then computed indexes of what we
+would theoretically have expected the product to be in each of the
+years had it conformed precisely to the formula. We found that the
+divergencies between the actual and theoretical product were not
+great since in only one year did they amount to more than 11 per cent,
+and that except for two years, the deviation of the differences was pre-
+cisely what we would expect from the imperfect nature of the indexes
+of capital and labor. Since our index of capital measured the quantities
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

@@ -1,0 +1,135 @@
+12
+THE AMERICAN ECONOMIC REVIEW
+TABLE I. THE VALUES OF THE PRODUCTION FUNCTION FOR AMERICAN
+MANUFACTURING 1889-1922
+P=bLkCi
+P=bLkC¹-k
+Years
+k
+σκ
+j
+σ; k+j
+b
+k
+σκ
+A. Time series
+Series Ia 1899-1922 .81 +.15 .23
+Series IIb 1899-1922 .78 ±.14 .15
+Series III° 1899-1922 .73 ±.12 .25
+Series IVd 1899-1922
+±.15 .30
+±.06 1.04
+.84
+.75
+±.04
+±.08
+.93
+1.38 .90
+±.04
+±.05
+.98
+1.12
+.76
+±.04
+.63
+±.05
+.93
+1.35
+.69
+±.05
+B. Cross-section or inter-
+industry studies based on
+industry aggregates®
+Year
+N
+1889
+363
+.51
+±.03 .43
+±.03 .94
+58.34
+.53
+±.03
+1899
+332
+.62
+±.02
+.33
+±.02 .95
+106.43
+.66
+±.02
+1904
+336
+.65
+±.02 .31
+±.02
+.96
+107.40 .68
+±.21
+1909
+258
+.63
+±.02
+.34
+±.02
+.97
+90.99 .66
+±.02
+1914
+340
+.61
+± .03
+.37
+± .02
+.98
+81.66 .63
+±.02
+1919
+556
+.76
+±.02
+.25
+±.02
+1.01
+244.21
+.75
+±.02
+Average
+.63
+.34
+.97
+.65
+* The original Cobb-Douglas series of Labor, Capital, and Product as published in the origi-
+nal paper in 1927, were as follows: (1) Labor (L)=average number of employed wage earners
+only. Salaried employees, officials, working proprietors, etc., were not included; (2) Capital
+(C) = value of plant, buildings, and tools and machinery reduced to dollars of constant pur-
+chasing power with annual increments of investment divided by a specially constructed index
+of the relative cost of capital goods in which the wholesale prices of metals and metal products,
+of building materials, and of wages were given the respective weights of 4, 2, and 3; (3) Prod-
+uct (P)=the original Day index of physical production as published in the Review of Economic
+Statistics, Vol. II (1920), pp. 328-29, and Vol. VI (1923), p. 201. For a fuller description see
+Cobb and Douglas, "A Theory of Production," Am. Econ. Rev., Vol. XVIII, Suppl. (Mar.,
+1928), pp. 139–65.
+b The basic data used in Series II differ from those in Series I in that (1) labor now includes
+clerical and salaried workers as well as wage earners; (2) The basic index of physical production
+used was the Day-Thomas revision as it appeared in The Growth of Manufactures, 1899–1923,
+Census Monograph VIII, instead of the earlier Day study which was used in Series I. Values
+for the intercensal years were interpolated by the use of the earlier Day series, while I con-
+structed a new index for leather. See Douglas, The Theory of Wages, pp. 174-76. The Day-
+Thomas index gave slightly lower values for P for the terminal years than the earlier index.
+• The main difference which distinguishes Series III from Series II is that Labor (L) is de-
+fined to be the relative total standard man hours worked in the various years by the combined
+force of wage earners and clerical and salaried employees. This was obtained by multiplying
+(a) the indexes of employment for the various years by (b) the indexes of the length in manu-
+facturing of the standard working week. For data and methods see Douglas, Real Wages in the
+United States, pp. 546-47.
+a The essential distinguishing feature of Series IV is that the factor of time was eliminated
+from the basic data, not from the logs of data. This was done by fitting trends to each of the
+three series and expressing each index for a given year as a percentage of its trend. The basic
+data themselves were, however, identical with those used in Series II.
+• The series of Labor, Capital, and Product in the six cross-section studies have now been
+reduced to an almost completely comparable basis: (1) Labor (L) = average number of wage
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

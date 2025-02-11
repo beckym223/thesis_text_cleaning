@@ -1,0 +1,103 @@
+36
+THE AMERICAN ECONOMIC REVIEW
+VI. To What Degree Do the Shares Which Labor and Capital Receive
+of the Product Approximate the Proportions Which We Would
+Expect from the Values of the Production Function?
+We now come to one of the most important features of the theory of
+production and of distribution, namely, the relative degree to which
+the actual shares received by labor and capital approximate those
+TABLE VIII.-A COMPARISON BY YEARS OF THE VALUES OF THE EXPONENTS OF LABOR AND
+CAPITAL IN THE PRODUCTION FUNCTION FOR AMERICAN MANUFACTURING (k AND j)
+WITH THE UNWEIGHTED AVERAGE OF THE SHARES OF THE NET VALUE
+PRODUCT RECEIVED BY LABOR (W/P)
+k
+Year
+N
+k
+k+j
+32
+W
+Degree to which W/P dif-
+k
+fers from k and
+in
+k+j
+terms of standard errors
+W
+W
+k
+P
+P k+j
+σκ
+σκ
+1889
+363
+.51
+.43
+.54
+.60
++3
++2
+1899
+332
+.62
+.33
+.65
+.58
+-3-4
+1904
+336
+.65
+.31
+.68
+.64
+-0-1
+1909
+258
+.63
+.34
+.65
+.63
+1914
+340
+.61
+.37
+.62
+.59
+-0-1
+1919
+556
+.76
+.25
+.75
+.59
+-8-9
+'2118
+Average
+.63
+.34
+.65
+.605
+-
+which we would expect from the values of the production function. As
+my associates and I have demonstrated mathematically a number of
+times, we would expect, under conditions of (1) true constant returns
+where the sum of the exponents is equal to unity and (2) perfect
+competition, that each factor of production would receive that fraction
+of the total product which is indicated by its exponent.26
+28 The share which labor receives:
+Let W= the amount of wages received.
+Marginal productivity of labor = k
+P
+L
+Similarly, for capital.
+W = Lk
+-
+P
+= kP
+L
+W = kP
+k = W/P
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

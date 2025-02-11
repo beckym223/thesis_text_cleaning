@@ -1,0 +1,50 @@
+DOUGLAS: ARE THERE LAWS OF PRODUCTION?
+17
+for this article had been prepared, Keith Campbell and George
+Brinegar, in their Queensland study for 1937-38, found k to have a
+value of .58 and j one of .45.19
+Since the sum of the exponents tends to be slightly less than unity,
+there is an added slight suggestion of true diminishing returns. But
+here again, since the difference is less than the standard errors of
+estimate, we should be chary about drawing definite conclusions.
+If we choose .60 as the most probable “normal” value of k and .37
+as the corresponding value of j, this would mean that the approximate
+elasticity of the marginal productivity curve in Australia for labor
+was somewhere around 2.7 and for capital of about 1.7.
+The third set of results which we should consider are those for New
+Zealand, Canada, and South Africa. These are shown in Table III.
+Using the formula of k and 1-k, Max Brown found for New Zealand a
+value of .51 for k for the period 1915-1935,20 and when we reworked
+the Brown series with the second formula, we found values of .42 for
+k and .49 for j. It is interesting that in the single cross-section study
+which has been made for New Zealand, namely, that made by Williams
+for 1938-39, k has a value of .46 and j of .51.20ª In the four Canadian
+studies which we made for so-called "normal" years, the k's range
+between .43 and .50, with an average of .47, and the j's between .48
+and .58, with an average of slightly more than .52. There is a con-
+siderable degree of steadiness in these results, which seem to indicate
+an elasticity of the marginal productivity curve for labor in that country
+as slightly less than 2.0 for the years studied and of capital as slightly
+more than that figure.
+One of the most interesting studies which has been made is that by
+G. W. G. Browne for South Africa for 1937-38. Taking the seventeen
+main groups of industry and treating all labor as homogeneous, Browne
+and Douglas, "The Production Function for Australian Manufacturing,” Quart. Jour. Econ.,
+Vol. LVI (Nov., 1941), pp. 108-129.
+d The definitions of terms in the studies for the separate Australian states were substantially
+similar to those in the four Commonwealth studies, except that (1) working proprietors were
+included in the definition of labor; (2) the estimated value of land was deducted from the capi-
+tal figures; (3) deductions were made from the value of product for (a) the estimated cost of
+local and state and federal taxes, (b) estimated fire insurance and workmen's compensation
+premiums, and (c) allowances for depreciation upon buildings, plant, and machinery. These
+were also the methods used in the Commonwealth Study of 1934-35. See Gunn and Douglas,
+"Further Measurements of Marginal Productivity," Quart. Jour. Econ., Vol. LIV (May
+1940), pp. 399-428.
+18 See an unpublished manuscript study by Keith O. Campbell and George K. Brinegar,
+The Production Function for Queensland Manufacturing in 1937-38 (1947).
+20 Brown omitted the war years of 1916-17 and 1917-18.
+20a In the cross-section study just completed for New Zealand, 1926-27, k has a value of
+.48 and j of .53.
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

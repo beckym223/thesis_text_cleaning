@@ -1,0 +1,115 @@
+28
+THE AMERICAN ECONOMIC REVIEW
+side of the line BB' two other pairs of lines at the respective distances
+of one and two standard errors of estimate. An inspection of these
+charts for American manufacturing for the years 1889, 1899, 1904,
+1909, 1914, and 1919, (Charts I, II, III, IV, V, and VI) show that in
+practice the actual values tend to be close to the line BB', and a sta-
+tistical analysis of these variations is given in Table V. Here it will be
+seen that in every year more than 70 per cent of the actual values were
+within one standard error of estimate of the values which we would
+TABLE V. DEGREE OF DEVIATION OF ACTUAL FROM THEORETICAL VALUES OF PRODUCT
+IN AMERICAN MANUFACTURING INDUSTRIES 1889-1919
+Census
+Year
+Number of
+Industries
+Deviation of Actual Product (P) from Theoretical Product
+(P') in Terms of Standard Errors of Estimate
+Number
+Per Cent
+or Observa-
+tions-N
+Less than
+1-2
+Over
+Less than
+1-2
+Over
+10
+σ
+20
+10
+σ
+20
+wwwww
+1889
+363
+280
+1899
+332
+250
+1904
+336
+236
+1909
+258
+215
+1914
+340
+243
+1919
+556
+453
+Total
+2185
+1677
+421
+Averages
+-
+-
+®☁8%8 ;།
+63
+70
+82
+38
+83
+85
+220548 50 1
+77.0
+17.0
+6.0
+12
+75.0
+21.0
+4.0
+18
+70.0
+25.0
+5.0
+83.0
+15.0
+2.0
+14
+72.0
+24.0
+4.0
+18
+82.0
+15.0
+3.0
+87
+76.5
+19.5
+4.0
+theoretically expect under the formula and that in two of the six years,
+over 80 per cent of the cases were within this range.
+Taking the 2185 industry observations in the United States as a
+whole, we find that in 76.5 per cent of the cases, the actual products
+were within one standard error of estimate of the theoretical products,
+whereas under a normal distribution we would only expect a little over
+68 per cent of the cases to lie within this range. Moreover, in only one
+year did the number of observations whose actual products varied
+from the theoretical values by more than two standard errors of esti-
+mate come to as much as 6 per cent of the total while the average for
+all 2185 observations was 4 per cent as compared with the 5 per cent
+which we would normally expect.²
+25
+25
+In our American studies, the distribution of the actual values about
+Incidentally, instead of 22 cases or 1.0 per cent of the total, which would normally
+expect to deviate by more than three standard errors of estimate, we find only 16 observations
+or three-quarters of one per cent in this class.
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

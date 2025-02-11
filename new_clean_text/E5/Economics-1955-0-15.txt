@@ -1,0 +1,113 @@
+KUZNETS: ECONOMIC GROWTH AND INCOME INEQUALITY
+TABLE I. PERCENTAGE SHARES OF 1ST AND 5TH QUINTILES IN THE INCOME DISTRIBUTION
+FOR TOTAL POPULATION UNDER VARYING ASSUMPTIONS CONCERNING PER CAPITA
+INCOME WITHIN THE SECTORS, PROPORTIONS OF SECTORS IN TOTAL NUMBER,
+AND INTRASECTOR INCOME DISTRIBUTIONS
+I. Per Capita Income of Sector A= 50;
+of Sector B=100
+1. Per capita income of total pop-
+ulation
+Distribution (E) for Both Sec-
+tors
+2. Share of 1st quintile
+3. Share of 5th quintile
+4. Range (3-2)
+Distribution (U) for Both Sec-
+tors
+5. Share of 1st quintile
+Proportion of Number in Sector A
+to Total Number
+13
+08 07 06 05 04 03 02
+60
+60
+65
+70
+75
+80
+60
+89
+85
+90
+90
+10.5 9.9 9.6
+34.2 35.8 35.7 34.7
+23.7 25.9 26.1 25.3
+9.3 9.4 9.8 10.2
+33.2 31.9 30.4
+23.9
+22.1
+20.2
+3.8 3.8 3.7 3.7 3.8
+40.7 41.9 42.9 42.7 41.5
+36.8 38.1 39.1
+39.0
+3.8
+3.9
+40.2
+38.7
+37.8
+36.4
+34.8
+6. Share of 5th quintile
+7. Range (6-5)
+Distribution (E) for Sector A,
+(U) for Sector B
+8. Share of 1st quintile
+9.3 8.3 7.4
+6.7
+6.0
+5.4
+4.9
+9. Share of 5th quintile
+37.7
+41.0 42.9 42.7
+41.5
+40.2 38.7
+10. Range (9-8)
+28.3
+32.7 35.4 36.0
+35.5
+34.8 33.8
+II. Per Capita Income of Sector A= 50;
+of Sector B=200
+11. Per capita income of total pop-
+ulation
+Distribution (E) for Both Sec-
+tors
+12. Share of 1st quintile
+60
+80
+95
+55
+110 125 140 155 170
+13. Share of 5th quintile
+14. Range (13-12)
+7.9 6.8 6.1
+5.6 5.4 5.4 5.9
+50.0 49.1 45.5 41.6 38.0 35.0 32.2
+42.1 42.3 39.4 36.0 32.6 29.6 26.3
+Distribution (U) for Both Sec-
+tors
+15. Share of 1st quintile
+16. Share of 5th quintile
+17. Range (16-15)
+3.1 2.9 2.7 2.6 2.6 2.7 3.1
+52.7 56.0 54.5 51.2 47.4 44.1 40.9
+49.6 53.1 51.8 48.6 44.8 41.4 37.9
+Distribution (E) for Sector A,
+(U) for Sector B
+18. Share of 1st quintile
+7.4 6.2 5.4 4.7 4.2 3.9 3.8
+51.6 56.0 54.6 51.2 47.4 44.1 40.9
+44.2 49.8 49.2 46.5 43.2 40.2 37.2
+19. Share of 5th quintile
+20. Range (19-18)
+For methods of calculating the shares of quintiles, see text (p. 12 and fn. 6). Some differences
+will not check because of rounding.
+cerning three sets of factors-intersector differences in per capita in-
+come, intrasector distributions, and sector weights-varying within the
+limitations just indicated, the following conclusions are suggested:
+This content downloaded from
+73.69.85.185 on Fri, 09 Sep 2022 01:18:50 UTC
+All use subject to https://about.jstor.org/terms

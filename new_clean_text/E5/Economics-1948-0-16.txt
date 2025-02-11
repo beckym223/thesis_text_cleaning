@@ -1,0 +1,52 @@
+14
+THE AMERICAN ECONOMIC REVIEW
+studies and in five of the six cross-section studies, the sum of k and j
+is slightly less than unity. While this by no means establishes the
+reality of true diminishing returns, since the differences between k+j
+and unity are well within the range of the standard errors, there is at
+least a faint suggestion to that effect. It is possible that American
+manufacturing industry during this period may have exceeded the
+optimum size and that the desire for the power and prestige which is
+attached to bigness may have caused firms to be conducted on a larger
+scale than that which was justified by the most efficient combination
+of the factors of production.
+While all due caution in drawing conclusions should be observed, it
+would seem that the most likely long-run norm for k during the period
+covered was between .63 and .64; and for j was approximately .34.
+This would mean that a change of one per cent in the quantity of labor
+(unaccompanied by any change in the quantity of capital) would
+normally result during this period in a change in the same direction of
+about sixty-three or sixty-four hundredths of one per cent in the
+quantity of product, and that similarly a change of one per cent in
+quantity of capital (unaccompanied by any change in the quantity of
+labor) would normally result, during this period, in a change in the
+same direction of about thirty-four hundredths of one per cent. If both
+factors of production were increased by one per cent, then the total
+product would normally increase during this period by from ninety-
+seven to ninety-eight hundredths of one per cent.
+If we disregard the slight suggestion of decreasing returns and treat
+the most probable sum of the exponents as equal to unity, then an in-
+crease of one per cent in the quantities of both labor and capital would
+normally result in a corresponding increase of one per cent in product.
+A one per cent increase in the quantity of labor alone would normally
+be accompanied, during this period, by an increase of approximately
+two-thirds of one per cent in product and an increase of one per cent
+in the quantity of capital alone would normally be accompanied by
+an approximate increase of one-third of one per cent in the product.
+Perhaps this is as close a tentative conclusion as we should draw for
+this period although further studies may lead to some revision of these
+results.
+Since under these conditions (i.e., k + j = 1.0) the clasticity of the
+marginal productivity curves for a given factor is equal to the reciprocal
+of the exponent for the other factors, that is eL
+1
+-
+and ec
+1-k
+-
+1
+1-j'
+it follows that the approximate elasticity of the normal marginal pro-
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

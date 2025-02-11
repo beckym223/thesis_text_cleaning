@@ -1,0 +1,48 @@
+14
+THE AMERICAN ECONOMIC REVIEW
+First, if the per capita income differential increases, or if the income
+distribution is more unequal for sector B than for sector A, or if both
+conditions are present, the rise over time in the relative weight of sector
+B causes a marked increase in inequality in the countrywide income
+distribution. We have here a demonstration of the effects upon trends
+in income inequality of interindustry shifts away from agriculture dis-
+cussed above (pp. 7-8).
+Second, if the intrasector income distribution is the same for both
+sectors, and the widening inequality in the countrywide income distribu-
+tion is due only to the increasing per capita income differential in favor
+of sector B, such widening is greater when the intrasector income dis-
+tributions are characterized by moderate rather than wide inequality.
+Thus, if the intrasector distributions are of the E type, the range in the
+countrywide distribution widens from 23.7 to 26.3 as proportion of A
+drops from 0.8 to 0.2 and as the ratio of per capita income of sector B
+to that of sector A changes from 2 to 4 (see line 4, col. 1, and line 14,
+col. 7). If the U distributions are used, the range, under identical con-
+ditions, widens only from 36.8 to 37.9 (see line 7, col. 1, and line 17,
+col. 7). This difference is revealed more clearly by the change in the
+share of the 1st quintile, which bears the brunt of widening inequality:
+for the E distribution, the share drops from 10.5 (line 2, col. 1) to 5.9
+(line 12, col. 7); for the U distribution, from 3.8 (line 5, col. 1) to 3.1
+(line 15, col. 7).
+Third, if the per capita income differential between sectors is con-
+stant, but the intrasector distribution of B is more unequal than that of
+A, the widening inequality in the countrywide distribution is the
+greater, the lower the assumed per capita income differential. Thus for
+a differential of 2 to 1, the range widens from 28.3 when the proportion
+of A is 0.8 (line 10, col. 1) to 36.0 at the peak when the proportion of
+A is 0.5 (line 10, col. 4) and is still 33.8 when the proportion of A drops
+to 0.2 (line 10, col. 7). For a per capita income differential of 4 to 1, the
+widening of the range at the maximum is only from 44.2 (line 20, col.
+1) to 49.8 (line 20, col. 2) and then the range declines to 37.2 (line 20,
+col. 7), well below the initial level.
+Fourth, the assumptions utilized in the numerical illustration-of a
+rise in proportions of total number in section B, of greater inequality
+in the distribution within sector B, and of the growing excess of per
+capita income in B over that in A-yield a decline in the share of the 1st
+quintile that is much more conspicuous than the rise in the share of the
+5th quintile. Thus the share of the 1st quintile, with the proportion of A
+at 0.8, distribution in B more unequal than in A, and a per capita in-
+come differential of 2 to 1, is 9.3 (line 8, col. 1). As we shift to a pro-
+portion of A of 0.2, and a per capita income differential of 4 to 1, the
+This content downloaded from
+73.69.85.185 on Fri, 09 Sep 2022 01:18:50 UTC
+All use subject to https://about.jstor.org/terms

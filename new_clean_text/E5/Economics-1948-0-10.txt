@@ -1,0 +1,47 @@
+8
+THE AMERICAN ECONOMIC REVIEW
+tions. An able young American scholar, David Durand,¹² had published
+in 1937, an excellent critical article of the earlier material, and had
+urged that the restricted function of
+P = bLkC¹-k
+(1)
+be abandoned for one in which the exponent for capital was independ-
+ently determined. As he correctly pointed out, the use of the k and 1-k
+function assumed the existence of an economic law which it should
+be one of the tasks of science to test, namely, the assumption of true
+constant returns. If we permitted the exponent for capital to be inde-
+pendently determined, it would then be possible for the sum of the
+exponents to be either greater or less than unity and hence to show
+true increasing and decreasing as well as constant returns to scale. We
+therefore decided that Durand's suggestion should be adopted and that
+we should try to find the values in terms of the formula:
+P = bLkCi
+(2)
+The second change was to broaden our fields of investigation.
+Hitherto, we had dealt only with time studies and had found the
+values of our exponents from index numbers of labor, capital, and
+product within a given economy, with each year serving as a separate
+observation. Here we measured the effect upon total physical product,
+of changes in the physical quantities of labor and of capital and from
+these we derived curves of diminishing incremental physical produc-
+tivity of the classical type. We now determined to open up another
+field for investigation and to make cross-section analyses between in-
+dustries in a given economy for specific years. Thus the annual statis-
+tics of manufacturing for the British Dominions (although not the
+British Census of Production itself) and the decennial and quin-
+quennial Censuses for Manufacturing for the United States up until
+1921 showed aggregates for each of a wide variety of industries from
+which it was possible to compute: (1) aggregates of the average
+numbers employed, including wage earners, clerical and salaried
+employees, officials and generally firm members and working pro-
+prietors (L), (2) aggregates of capital (C) expressed in terms of
+dollars including both fixed and working capital, and (3) aggregates.
+of the net value of product added by manufacturing expressed in terms
+of dollars (P).
+In these studies, differences between industries in the quantities of
+their net value product were presumed to be a function of the total
+12 David Durand, "Some Thoughts on Marginal Productivity with Special Reference to
+Professor Douglas' Analysis," Jour. Pol. Econ., Vol. XLV (Dec., 1937), pp. 740-58.
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

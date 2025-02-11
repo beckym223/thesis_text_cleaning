@@ -1,0 +1,153 @@
+16
+THE AMERICAN ECONOMIC REVIEW
+TABLE II. -THE VALUES OF THE PRODUCTION FUNCTION FOR MANUFACTURING IN AUSTRALIA
+P=bLkC¹-k
+Years
+A. Time series
+1907-29
+Victoriaa
+New South Wales b 1901-27
+B. Cross-section or inter-
+industry studies
+P=bLkCi
+N
+k
+σκ
+j
+σή
+k+j
+k
+σκ
+.71
+222
+.84
+26 .78
+28
+.34 .23
++.12 .20
++.17
+1.07
+.71
+.71
+±.07
+±.08 .98
+1.14
+.86
+± .05
+Australia
+Australia
+Australia
+Australia
+1912
+85 .52
+1922-23 87 .53
+1926-27 85 .59
+1934-35 138
+± .05
+±.05
+.47
++.05 .99 15.87
+.52
++.04
+.49
++.05 1.02 16.49
+.52
+±.05
+± .05
+34
++.04 .93 77.26
+.64
+± .05
+.64
+± .04
+.36
+±.04 1.00 39.79
+.64
+± .04
+Australia
+1936-37 87
+.49
+± .04
+.49
++.04
+.98 21.57
+.50
+±.04
+Victoriad
+1910-11 34
+.74
+± .08
+.25
++.11 .99 42.87
+.75
++.08
+Victoriad
+1923-24 38 .62
+±.08
+.31
++.10
+.93 96.93
+.61
+±.08
+Victoriad
+1927-28 35
+.59
+± .07
+.27
++.09
+.86 207.49
+.60
+± .05
+New South Walesd 1933-34 125
+.65
+± .04
+.34
+± .03
+.99 53.70 .66
+±.03
+Average all Commonwealth
+.60
+.37
+.97
+.60
+and state studies
+Average Commonwealth
+.55
+.43
+.98
+.56
+studies only
+Average state studies only
+.65
+65
+.29
+.94
+.66
+a The Victorian index numbers for Labor, Capital, and Product from which the results were
+computed, were constituted as follows: (1) Labor (L) = average number of persons employed
+including wage earners, salaried employees, supervisory officials, and working employers;
+(2) Capital (C) = fixed capital reduced to dollars of constant purchasing power but excluding
+land values and working capital; (3) Product (P) =index of physical production using 1911
+value weights. See Handsaker and Douglas, "The Theory of Marginal Productivity Tested by
+Data for Manufacturing in Victoria," Quart. Jour. Econ., Vol. LII (Nov., 1937), pp. 1–36.
+b The New South Wales study is based on series for Labor, Capital, and Product, which are
+virtually identical in their definition with those of Victoria. The capital index differs from that
+constructed earlier by Mr. Director in that it does not provide for the replacement at differing
+price levels for the estimated depreciation on capital. For the Director study, see Douglas,
+The Theory of Wages, pp. 167–172.
+In the Commonwealth cross-section studies, the terms are defined as follows: (1) Labor
+(L) = average number employed of wage earners and salaried employees but generally exclud-
+ing working proprietors (except in 1934–35); (2) Capital (C) = value of plant and machinery,
+buildings, and land, but excluding working capital. The exclusion of working capital is the
+chief dissimilarity between this series and the definition of total capital used in the case of the
+United States and Canadian cross-section studies. We will try to revise the Australian capital
+figures to include working capital but this may be difficult. (3) Product (P) = value added by
+manufacturing. For all the years except 1934-35, this was defined as gross sales value minus
+(a) cost of materials used, (b) cost of fuel and light, and (c) cost of replacing tools and repairs
+to plants. In the 1934-35 study estimated deductions were made for fire insurance and work-
+men's compensation premiums, and also for estimated depreciation rates on the various types
+of capital goods used based on the rates estimated in the Production Bulletin, No. 29, Com-
+monwealth Bureau of Census and Statistics. For a further discussion of these issues, see Gunn
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

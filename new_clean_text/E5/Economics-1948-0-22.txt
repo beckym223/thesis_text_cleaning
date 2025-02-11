@@ -1,0 +1,99 @@
+20
+THE AMERICAN ECONOMIC REVIEW
+It is submitted that the results are, on the whole, corroborative. If
+they were purely accidental, as some have charged, they would show
+widely varying results. The fact that on the basis of fairly wide studies
+there is an appreciable degree of uniformity, and that the sum of the
+For Victoria, the value of b was .97 and for New South Wales, 1.02. In all these cases, b
+represents the value of the intercept with the functional plane of theoretical product merely
+moved up or down by the small difference between the values of b and unity. In the time
+series, of course, we are dealing with index numbers which show relative changes, not
+absolute values.
+B. Under formula (2) (i.e., P= bL*C³) b deviates in a greater degree from unity because
+of the greater degree of freedom given to the exponent for capital. Here the values for
+the United States are:
+Series I
+Series II
+b
+.84
+Series III
+1.38 Series IV
+For Victoria b is .71 and for New South Wales, .97.
+b
+1.12
+1.35
+C. In the cross-section or inter-industry studies, b still represents the intercept but it is
+also a conversion factor which translates the number of employees and dollars of invested
+capital into dollars of net value product. As in the case of the time series based on index
+numbers, b is generally higher under formula (2) when the values of j are independently
+determined than under formula (1). It also tends to move in some direct ratio with changes
+in the general price level, being generally higher in those years when the price level is
+higher and vice versa. There are, however, occasional exceptions to this rule. These tendencies
+are shown in the following tables for the United States:
+Year
+1889
+Values of b
+Formula (1)
+28.58
+1899
+69.66
+1904
+79.62
+1909
+98.63
+1914
+66.22
+1919
+258.82
+Formula (2)
+58.34
+106.43
+120.23
+90.99
+81.66
+244.21
+For the Commonwealth of Australia the corresponding values are
+Values of b
+Year
+Formula (1)
+Formula (2)
+1912
+14.79
+15.87
+1922-23
+19.72
+16.49
+1926-27
+41.50
+77.26
+1934-35
+37.15
+39.79
+1936-37
+17.99
+21.57
+It will, of course, be remembered that Australian prices and values are expressed in terms
+of pounds.
+For Canada, the values are
+Year
+1923
+1927
+1935
+1937
+Values of b
+Formula (1)
+Formula (2)
+38.55
+48.53
+28.51
+33.04
+24.38
+22.23
+16.48
+15.42
+I hope to give a fuller treatment of the significance of the 6 term in the regression
+equations in a book on The Theory of Production which I hope shortly to publish with
+Miss Grace Gunn.
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms

@@ -1,0 +1,50 @@
+DOUGLAS: ARE THERE LAWS OF PRODUCTION?
+13
+17 to 38 times their standard errors and the j's from 12 to 18 times as
+great as their standard errors.
+On the whole, we should not be surprised by the fact that we obtain
+higher values for k and lower values for j in our first three time series
+studies than we do for the cross-section studies. For as we have pointed
+out, the two functions are, in fact, somewhat different and we should
+not necessarily expect identical results. Moreover, in the time studies,
+there tends to be a systematic downward bias to the index of produc-
+tion which keeps it closer to the index of labor than it should be in
+reality and hence gives an excessive value to k. This downward bias is
+caused by two factors: (1) Since the indexes are primarily based on
+the quantities of raw material produced, they do not include the in-
+creased fabrication and reworking of these materials which is a pro-
+nounced, although not a universal, tendency of industry. (2) It is in
+practice not possible to include with sufficient rapidity the new
+products which are continually pushing themselves forward, nor to drop
+in adequate time the products which are becoming obsolete. The net
+result is to keep the index numbers of Product (P), particularly during
+the latter years of a given period, closer to Labor (L) than in reality
+they should be and hence k is raised above and j is depressed below
+their "true" values.
+This weakness is absent from the cross-section or inter-industry
+studies, which are made for a given year, and we would, therefore,
+expect the k's to be lower and the j's to be higher in this group of
+studies. Such is, in fact, exactly the case.
+It may be of some significance that when the factor of time is
+eliminated from each of the three basic series of Labor, Capital, and
+Product, and the deviations from the trends are studied (as in Series
+IV), that the true value of k for the period of 1899-1922 is reduced to
+.63. This is identical with the average value of k for the six years for
+which inter-industry studies were made.
+It may also be of some significance that in three of the four time
+earners, salaried employees, supervisory officials, firm members, and working proprietors;
+(2) Capital (C)= total fixed and working capital; (3) Product (P) = gross sales value minus
+(a) cost of raw materials, (b) cost of fuel, heat, power, and rent, (c) taxes and insurance pay-
+ments, (d) amounts paid to contractors, (e) cost of repairs, (f) sundries. No deduction has been
+made for the depreciation of fixed capital except that included under the heading of "repairs."
+For earlier studies on four of these years see Gunn and Douglas, "The Production Function
+for American Manufacturing for 1919," Am. Econ. Rev., Vol. XXXI (Mar., 1941) pp. 67–80;
+Gunn and Douglas, "The Production Function for American Manufacturing for 1914," Jour.
+Pol. Econ., Vol. L (Aug., 1942), pp. 595-602; Bronfenbrenner and Douglas, "Cross-Section
+Studies in the Cobb-Douglas Function," Jour. Pol. Econ., Vol. XLVII (Dec., 1939), pp.
+761-85; Daly, Olson and Douglas, "The Production Function for Manufacturing in the United
+States in 1904," Jour. Pol. Econ., Vol. LI (Feb., 1943), pp. 61-65. A more complete description
+of the methods and results for 1889 will shortly be published by Miss Estelle Mass.
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms
