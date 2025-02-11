@@ -26,13 +26,4 @@ service of the United States the income tax on the excess
 of salaries above $4,000 is to be withheld from the salary
 when paid, so that for this class of persons and to this ex-
 tent the tax is laid upon the income of the current year,
-and not of that preceding. +
-*This is easily done of course with all fixed incomes from investments.
-Variable and business incomes are to be returned at the average of the last
-three years. See § 10 of the law of 1891.
-† It was the intention at one stage of the bill to extend the provision for the
-deduction of the tax from salaries, so as to require some employers besides the
-United States to withhold the tax on any excess of salaries over $4,000, and to
-pay it to the proper collecting officer; and § 28 contains two references to "that
-portion of any salary upon which the employer is required by law to withhold,
-and does withhold, the tax." In the final draft of the act, however, as printed
+and not of that preceding. +\n\n**\*d**
