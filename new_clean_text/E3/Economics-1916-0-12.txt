@@ -1,4 +1,4 @@
-the large and the small states. That the Vinton method
+tween the large and the small states. That the Vinton method
 has a tendency, slight but persistent, to over-represent the large
 states is demonstrable. The tendency may be illustrated by the
 difference between the results of the two methods applied to 357
@@ -7,29 +7,28 @@ each 2 representatives, while the method of major fractions gave
 them 3; the Vinton method gave Michigan 12 and Texas 15,
 while the method of major fractions gave Michigan 11 and Texas
 14. Which is correct? The standard is the assumed or computed
-ratio, the two differing slightly but each indicating 48 representatives
-to 10,000,000 people. If each of the small states received
+ratio, the two differing slightly but each indicating 48 representa-
+tives to 10,000,000 people. If each of the small states received
 3 seats, their ratio would be 56 to 10,000,000, an excess of 8;
 if each received 2, their ratio would be 38 to 10,000,000, a
 shortage of 10. Obviously the result giving each of them 3,
 reached by the method of major fractions, is "as near as may be."
 Obviously, too, the Vinton method results in under-representing
 the small states.
-
 For the populous states the outcome depends upon whether the
-assumed or the computed ratio is made the standard. If the assumed
-ratio is accepted, then to apportion the smaller numbers to
+assumed or the computed ratio is made the standard. If the as-
+sumed ratio is accepted, then to apportion the smaller numbers to
 the populous states gives to those states ratios nearer the standard,
 but if the computed ratio is accepted, there is a very slight balance
 in favor of the larger numbers. Even if the computed ratio is used,
 however, the net balance tips in favor of assigning the two seats in
-question to the smaller states. The result is confirmed by examining
-the figures for each state separately. Our analysis of this
-example, then, shows that the Vinton method unjustly, and therefore
-unconstitutionally, under-represents the small states and
+question to the smaller states. The result is confirmed by examin-
+ing the figures for each state separately. Our analysis of this
+example, then, shows that the Vinton method unjustly, and there-
+fore unconstitutionally, under-represents the small states and
 over-represents the large ones. These results might be confirmed,
-if there were time, by making a similar examination of the apportionment
-of 386 seats in 1900 under the two methods. It would
+if there were time, by making a similar examination of the appor-
+tionment of 386 seats in 1900 under the two methods. It would
 show also that the apportionment of 386 seats by the method of
 major fractions gives exactly the results which Congress secured
 illegitimately, as we then believed, by starting with the Vinton table

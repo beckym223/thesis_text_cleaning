@@ -1,12 +1,11 @@
-to one representative can be computed from the population
+ulation to one representative can be computed from the population
 of each state and the size of the House.
-The effect of this false start is felt in certain anomalies or paradoxes
-to which the Vinton method gives rise.
-
+The effect of this false start is felt in certain anomalies or para-
+doxes to which the Vinton method gives rise.
 A method theoretically sound should apply equally well to the
 entire range of possibilities whether of interest to Congress or not.
-The smallest possible House would consist of 49 members, 48 unapportionable
-and one apportionable, the last obviously going to
+The smallest possible House would consist of 49 members, 48 un-
+apportionable and one apportionable, the last obviously going to
 New York. But if the population of the country is divided by 49
 and the population of each state divided by the quotient, as the
 Vinton method prescribes, New York and Pennsylvania would
@@ -16,11 +15,11 @@ other 46 states. Near the lower limit of possibilities the Vinton
 method yields results which are obviously absurd.
 A method theoretically sound should never produce the Alabama
 paradox; under the Vinton method this paradox frequently occurs.
-In 1901 the majority of the House Committee on the Census recommended
-that there should be no increase in the size of the House,
-its number at the time being 357. But in the set of tables we prepared
-under the Vinton method Colorado received two representatives
-with a House of 357 or 358 members and three not merely
+In 1901 the majority of the House Committee on the Census recom-
+mended that there should be no increase in the size of the House,
+its number at the time being 357. But in the set of tables we pre-
+pared under the Vinton method Colorado received two representa-
+tives with a House of 357 or 358 members and three not merely
 for every higher number but also for every lower number down to
 350, where the series of tables began. It was more than difficult,
 it was impossible, to persuade the House that these results were
@@ -28,7 +27,6 @@ equitable, and its dissatisfaction with them had no little influence
 upon its decision to reject the report of the majority and accept
 that of the minority, substituting another number and table from
 which the Alabama paradox was absent.
-
 A method theoretically sound must be reversible. Thus, if the
 House is to contain 435 members, that result might be approached
 either by adding representatives seriatim from the minimum of
@@ -36,9 +34,8 @@ either by adding representatives seriatim from the minimum of
 method proposed by Seaton and endorsed by Walker in 1882 was
 tested by Congress far enough to show that it uniformly favored
 the populous states and was incontinently rejected on that ground.
-But if the same method had been reversed and the result approached
-by successive subtractions rather than successive additions,
-the outcome would have been just as definitely favorable to
+But if the same method had been reversed and the result ap-
+proached by successive subtractions rather than successive addi-
+tions, the outcome would have been just as definitely favorable to
 the small states.
-
-A method theoretically sound should hold the balance true between
+A method theoretically sound should hold the balance true be-

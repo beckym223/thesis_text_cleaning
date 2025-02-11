@@ -8,15 +8,13 @@ characteristic mentioned as desirable and have no characteristic
 mentioned as undesirable in the congressional debates of the last
 eighty years. They were accepted in 1911 without any opposition
 in committee, House, or Senate.
-
 Here the case might be rested and a verdict awaited. But before
 the bar of theory, or in the judgment of an Association like ours,
 the verdict of Congress will not be conclusive. I turn, therefore,
 to an examination of the theoretical advantages and disadvan
 tages of the two competing methods.
-
-The Vinton method starts with an assumed number of representatives
-and divides the constitutional population of the United
+The Vinton method starts with an assumed number of represen-
+tatives and divides the constitutional population of the United
 States by that number to determine the ratio. This step involves
 a fundamental theoretical error. It overlooks the crucial fact that.
 seats in the House of Representatives are of two classes, the 48,
@@ -29,13 +27,15 @@ fact that they are not individually distinguishable has apparently
 been responsible for the failure to recognize their existence.
 To get this theoretical requirement clearly in mind it may be
 helpful to think of the seats in the House of Representatives as
-numbered. The first 48 seats, one for each state, would be numbered
-one to indicate that there is no basis for distinguishing between
-them. The next seat, numbered 49, would be apportioned
+numbered. The first 48 seats, one for each state, would be num-
+bered one to indicate that there is no basis for distinguishing be-
+tween them. The next seat, numbered 49, would be apportioned
 to New York, number 50 to Pennsylvania, and so on.
 If the first representative falling to Pennsylvania or New York is
 as irrelevant or disturbing a factor for determining the ratio as
 the single representative falling to Nevada or Wyoming, then
 clearly the ratio cannot be found by dividing the constitutional
 population of the United States by the number of representatives.
-Nor have I been able to discover any other way by which the population
+Nor have I been able to discover any other way by which the pop-
+*See the writer's letter of explanation in 61st Cong., 3d sess., H. R. 1911,
+pp. 9-44.
