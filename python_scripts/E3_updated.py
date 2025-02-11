@@ -63,7 +63,7 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     remove_files(dest_dir,is_first_page,commit_changes)
 
-    # clean_headers_footers(dest_dir,commit_changes)
+    clean_headers_footers(dest_dir,commit_changes)
 
     # # remove_footnote_lines(dest_dir,E3_FOOT_LINES,commit_changes)
 
