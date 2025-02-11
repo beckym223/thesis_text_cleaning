@@ -48,7 +48,7 @@ if [ $? -eq 0 ]; then
     echo "Merge successful. Changes have been merged from $TEMP_BRANCH to $PARENT_BRANCH."
     
     # Delete the temporary branch
-    git branch -d "$TEMP_BRANCH"
+    git branch -D "$TEMP_BRANCH"
     
     # Push the changes if required
     # git push origin "$PARENT_BRANCH"
