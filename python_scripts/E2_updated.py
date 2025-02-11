@@ -68,6 +68,7 @@ def clean_text_files(dir_path: str,commit_changes:bool):
 def remove_foot_lines(dest_dir:str,commit_changes:bool):
     for file in os.listdir(dest_dir):
         if file in E2_FN_PAGES:
+            print(f"found file {file}")
             path = os.path.join(dest_dir,file)
             with open(path,'r') as f:
                 text = f.read()
