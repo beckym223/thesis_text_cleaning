@@ -71,7 +71,7 @@ def remove_foot_lines(dest_dir:str,commit_changes:bool):
             path = os.path.join(dest_dir,file)
             with open(path,'r') as f:
                 text = f.read()
-            text = re.sub(r"\n\s?\*[^\*].$","",text, count=1)
+            text = re.sub(r"\n\s?\*[^\*].$","",text,flags=re.DOTALL, count=1)
             with open(path,'w') as f:
                 f.write(text)
     if commit_changes:
