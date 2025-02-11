@@ -89,6 +89,12 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     clean_text_files(dest_dir,commit_changes)
 
+
+    fix_dash_errors_in_dir(dest_dir,commit_changes)
+    
+    handle_line_breaks_across_pages(dest_dir,commit_changes)
+
+
     # Run the cleaning steps
 
 
