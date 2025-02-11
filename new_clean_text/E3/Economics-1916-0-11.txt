@@ -1,5 +1,3 @@
-The Apportionment of Representatives
-13
 ulation to one representative can be computed from the population
 of each state and the size of the House.
 The effect of this false start is felt in certain anomalies or para-
@@ -41,6 +39,3 @@ proached by successive subtractions rather than successive addi-
 tions, the outcome would have been just as definitely favorable to
 the small states.
 A method theoretically sound should hold the balance true be-
-This content downloaded from
-138.110.143.49 on Sat, 01 Oct 2022 03:47:47 UTC
-All use subject to https://about.jstor.org/terms
