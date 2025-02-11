@@ -52,7 +52,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                     lines= text.splitlines()
                     to_change = np.array(lines[:10])
                     order =  [3,4,5,6,7,0,8,1,9,2]
-                    text = "\n".join([" ".join(to_change[order]),*lines[10:]])
+                    text = "\n".join(["\n".join(to_change[order]),*lines[10:]])
 
                 with open(path,'w') as f:
                     f.write(text.strip())
@@ -70,7 +70,7 @@ def find_footnote_lines(dest_dir,commit_changes):
         with open(path,'r') as f:
             text = f.read()
         lines = text.splitlines()
-        p = re.compile(r"^\s?(¹|\*|[A-Z]([a-z]+|\.)? [A-Z]\.)|'|\d{1,2}|System of")
+        p = re.compile(r"^\s?(¹|\*|[A-Z]([a-z]+|\.)? [A-Z]\.)|'|\d{1,2}(?!\d)|System of")
         fn_start = None
         i = -1
         since_last=0
@@ -79,7 +79,7 @@ def find_footnote_lines(dest_dir,commit_changes):
             if p.match(line):
                 since_last=0
                 fn_start = i
-                lines[i] = f"{i}-->{line}"
+                lines[i] = re.sub(r"\*",r"\*",line)
                 
             else:
                 since_last+=1
@@ -87,14 +87,51 @@ def find_footnote_lines(dest_dir,commit_changes):
 
         if fn_start is not None:
             with open(path,'w') as f:
-                f.write('\n'.join(lines[:fn_start]))
+                f.write('\n'.join(lines[:fn_start])+f"\n\n**{'\n'.join(l for l in lines[fn_start:] if l).strip()}**")
         else:
             logging.warning(f"Could not find footnote for {path}")
     if commit_changes:
-        git_commit(dest_dir,"Removed footnote lines")
+        git_commit(dest_dir,"Bolded footnote lines")
+        # i = -1
+        # since_last=0
 
-    
-            
+
+def handle_line_breaks_across_pages(dir_path: str,commit_changes:bool):
+    """
+    Fixes line breaks across pages by merging broken words from consecutive files.
+    """
+    try:
+        files = sorted(os.listdir(dir_path))
+        for first, second in it.pairwise(files):
+            try:
+                if first.split("-")[:3] != second.split("-")[:3]:
+                    continue
+
+                path1 = os.path.join(dir_path, first)
+                path2 = os.path.join(dir_path, second)
+
+                with open(path1, 'r') as f1, open(path2, 'r') as f2:
+                    text1 = f1.read()
+                    text2 = f2.read()
+                split = text1.rsplit("**",2)
+                text1_temp= split.pop(0).strip()
+                
+                if text1_temp.endswith("-"):
+                    first_word = re.match(r"^\S+", text2).group() #type:ignore
+                    new_text2 = re.sub(r"^\S+\s", "", text2)
+                    new_text1 = text1_temp[:-1] + first_word + (f"\n\n**{split[0]}**{split[1]}" if len(split)==2 else "")
+
+                    with open(path1, 'w') as f1, open(path2, 'w') as f2:
+                        f1.write(new_text1.strip())
+                        f2.write(new_text2.strip())
+
+                    logging.info(f"Merged line break between {first} and {second}")
+
+            except Exception as e:
+                logging.warning(f"Error handling line break between {first} and {second}: {e}")
+    except Exception as e:
+        logging.error(f"Error handling line breaks: {e}")
+        raise
 
 def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
