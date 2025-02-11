@@ -1,5 +1,3 @@
-DOUGLAS: ARE THERE LAWS OF PRODUCTION?
-9
 number of employees and of the total quantities of fixed and working
 capital with each industry serving as a separate observation. This is
 obviously a somewhat different production function from that which is

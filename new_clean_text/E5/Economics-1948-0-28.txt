@@ -1,5 +1,3 @@
-26
-THE AMERICAN ECONOMIC REVIEW
 the standard errors of estimate (S) for each study. Under a normal
 distribution of cases with the only departures of the actual from
 theoretical values being those caused by random errors of measure-

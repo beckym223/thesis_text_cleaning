@@ -1,5 +1,3 @@
-2
-THE AMERICAN ECONOMIC REVIEW
 of income per capita, we should measure shares of some fixed ordinal
 groups-percentiles, deciles, quintiles, etc. In the underlying array the
 units should be classified by average income levels for a sufficiently long
