@@ -8,16 +8,17 @@ from constants import E3_FOOT_LINES
 def handle_first_page(file:str, text:str)->str:
     disc,year,num,pagetxt = file.split("-")
     lines = text.split("\n")
-    line_num = 0
+    line_num = -1
     if int(year)<1912:
         num_lowercase_lines =0
         while num_lowercase_lines<2:
+            line_num+=1
             line = lines[line_num]
             if re.search(r"[a-z]{3,}",line) is not None:
                 num_lowercase_lines+=1
             else:
                 num_lowercase_lines = 0
-            line_num+=1
+            
         start_line = line_num-1  
         
     else:
