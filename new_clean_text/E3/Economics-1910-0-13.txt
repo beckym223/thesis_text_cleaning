@@ -32,5 +32,3 @@ continues, “We must decompose each chaos into single
 facts. We must learn to see in the chaotic antecedent a
 multitude of distinct antecedents, in the chaotic conse-
 quent a multitude of distinct consequents."1 Nor am I
-1
-* Logic, Book 3, ch. 7, sect. I.
