@@ -19,10 +19,12 @@ def handle_first_page(file:str, text:str)->str:
                 num_lowercase_lines = 0
             line_num+=1
         start_line = line_num-1  
+        
     else:
         while re.search(r"\b[a-z]+\b", lines[line_num]) is None:
             line_num+=1
         start_line = line_num+1
+    logging.info(f"Found start line for {file} at line {start_line}")
     return "\n".join(lines[start_line:])
 def clean_headers_footers(dest_dir:str,commit_changes:bool):
     file:str
@@ -40,7 +42,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                 text = jstor_and_stripping(text)
                 if page>1:
                     lines = text.split("\n")
-                    no_header = lines[1:]
+                    no_header = lines[2:]
                     text = "\n".join(no_header)
                 else:
                     text = handle_first_page(file,text)
