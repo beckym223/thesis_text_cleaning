@@ -6,7 +6,23 @@ from text_cleaning import *
 from constants import E5_SPLIT_RANGES
 import subprocess
 
+def remove_headers_normal_pages(text,file)->str:
+    lines = text.splitlines()
+    first_line= 0
+    try:
+        while header_line.search(lines[first_line]) is None:
+            first_line+=1
+                        
+    except IndexError:
+        logging.warning(f"wasnt able to find first line in {file}")
+        return text
+    else:
+        return "\n".join(lines[first_line:])
+
+
 def clean_headers_footers(dest_dir:str,commit_changes:bool):
+    global header_line
+    header_line = re.compile(r"(\b[A-Z]+\b\s){2}|^\d{1,2}")
     try:
         for file in sorted(os.listdir(dest_dir)):
             try:
@@ -35,6 +51,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                     else:
                         text = text.strip().split("\n",1)[1]
                 else:
+                    
                     text = text.strip().split("\n",1)[1]
                 with open(path,'w') as f:
                     f.write(text)
@@ -60,13 +77,13 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     clean_headers_footers(dest_dir,commit_changes)
 
-    apply_splits_to_pages(dest_dir,E5_SPLIT_RANGES,commit_changes)
+    # apply_splits_to_pages(dest_dir,E5_SPLIT_RANGES,commit_changes)
 
-    fix_dash_errors_in_dir(dest_dir,commit_changes)
+    # fix_dash_errors_in_dir(dest_dir,commit_changes)
     
-    handle_line_breaks_across_pages(dest_dir,commit_changes)
+    # handle_line_breaks_across_pages(dest_dir,commit_changes)
 
-    split_into_paras_at_length(dest_dir,50,commit_changes)
+    # split_into_paras_at_length(dest_dir,50,commit_changes)
 
 if __name__ == "__main__":
     import sys
