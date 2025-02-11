@@ -1,12 +1,13 @@
 over the lay notions bodily. Some of them have, in fact, given them a
 theoretical elaboration which for subtlety, refinement, and elegance need
 make no apologies to the older economics, and which remains faithful
-to older theorizing in at least one respect, that the tradition of unintelligi-
-bility to the layman is scrupulously observed. It is the quality of the judg-
-ment displayed, and not the quality of the analytical skill, which I ven-
-ture to question. No matter how refined and how elaborate the analysis,
-if it rests solely on the short view it will still be close to the layman's eco-
-nomics and still be a structure built on shifting sands.
+to older theorizing in at least one respect, that the tradition of unintelligibility
+to the layman is scrupulously observed. It is the quality of the judgment
+displayed, and not the quality of the analytical skill, which I venture
+to question. No matter how refined and how elaborate the analysis,
+if it rests solely on the short view it will still be close to the layman's economics
+and still be a structure built on shifting sands.
+
 My aim this evening is not to praise the old-fashioned economic theorist,
 but only to help protect him from premature burial. The strongest line of
 defense I find available is the argument that he is the special custodian for
@@ -28,8 +29,8 @@ English prototype would confirm, the economists of the time believed that,
 despite wars, mistakes in government policy, and cyclical disturbances,
 private initiative, technological progress, and the improvement and wider
 diffusion of education had resulted in and would continue to result in a
-slowly rising secular trend of per capita income, enjoyed by steadily-grow-
-ing populations. Imbued with this moderately optimistic long view, the
+slowly rising secular trend of per capita income, enjoyed by steadily-growing
+populations. Imbued with this moderately optimistic long view, the
 economists listened neither to the occasional prophets of impending and
 lasting woe nor to the more frequent peddlers of patented devices for
 antedating the millennium. For the period up to 1914 at least, they proved
@@ -38,6 +39,6 @@ we were told: that what was then would continue to be, forever and ever;
 that the problem of the cycle had been solved by the Federal Reserve Board;
 and that we had entered upon a new era of perpetual boom. The great
 bulk of the economic profession, taking the long view, refused to give
-credence to this blissful picture. How right they proved we are unfortu-
-nately only too well aware. The perpetual boom having come to its dramatic
+credence to this blissful picture. How right they proved we are unfortunately
+only too well aware. The perpetual boom having come to its dramatic
 end, it later subsequently became increasingly apparent that all the days

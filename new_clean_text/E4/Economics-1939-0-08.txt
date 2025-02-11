@@ -1,30 +1,31 @@
 proportion of investment in the nineteenth century which could be attributed
 (a) to population growth, (b) to the opening up of new territory and the
-discovery of new resources, and (c) to technical innovations. Such an analy-
-sis it has not been possible for me to make, and I shall venture only a few
+discovery of new resources, and (c) to technical innovations. Such an analysis
+it has not been possible for me to make, and I shall venture only a few
 rough estimates together with some qualitative judgments. With respect to
 population growth some insight into the problem may perhaps be gained by
 considering first the rôle of population growth in the rise of aggregate real
-income. The various estimates agree that the annual rate of growth of physi-
-cal output up to the World War was roughly three per cent in western
+income. The various estimates agree that the annual rate of growth of physical
+output up to the World War was roughly three per cent in western
 Europe and nearly four per cent in the United States. Of this average annual
 increase something less than half of the three per cent increase in western
 Europe can be attributed to population growth, while something more than
 half of the annual increase in the United States can be assigned to the
-increase in the labor supply. Thus it appears that per capita output has in-
-creased both in western Europe and in the United States at approximately
+increase in the labor supply. Thus it appears that per capita output has increased
+both in western Europe and in the United States at approximately
 one and one-half per cent per annum. This increase can be attributed mainly
 to changes in technique and to the exploitation of new natural resources.
 We have already noted that capital formation has progressed at about the
 same rate as the rise in aggregate output. Thus, as a first approximation, we
 may say that the growth of population in the last half of the nineteenth
 century was responsible for about forty per cent of the total volume of capital
-formation in western Europe and about sixty per cent of the capital forma-
-tion in the United States. If this is even approximately correct, it will be seen
+formation in western Europe and about sixty per cent of the capital formation
+in the United States. If this is even approximately correct, it will be seen
 what an important outlet for investment is being closed by reason of the
 current rapid decline in population growth.
-Obviously the growth of population affects capital formation most di-
-rectly in the field of construction, especially residential building. From
+
+Obviously the growth of population affects capital formation most directly
+in the field of construction, especially residential building. From
 decade to decade the increase in the number of dwellings had maintained a
 close relation to the increase in population. In the decade of the twenties,
 however, the increase in houses ran about twenty-five per cent in excess of
@@ -32,12 +33,13 @@ previous decennial increases in relation to population. According to Kuznets,
 during the seven prosperous years 1923 to 1929, a quarter of the net capital
 formation was residential building. But the effect of population growth on
 capital formation is, of course, felt in other spheres as well. This is notably
-true of all the various municipal and public utilities, and also of the manu-
-facture of essential consumers' goods.
-An interesting excursus would lead us into a consideration of the prob-
-lem how far an increase in population itself contributed to a more efficient
-technique and so was in part responsible for the rise in per capita real in-
-come. According to the older Malthusian view, the growth of population
+true of all the various municipal and public utilities, and also of the manufacture
+of essential consumers' goods.
+
+An interesting excursus would lead us into a consideration of the problem
+how far an increase in population itself contributed to a more efficient
+technique and so was in part responsible for the rise in per capita real income.
+According to the older Malthusian view, the growth of population
 would act counter to the effect of technological progress upon per capita
 productivity, and would thus slow down the rise in per capita real income.
 If this were correct, population growth considered by itself alone would

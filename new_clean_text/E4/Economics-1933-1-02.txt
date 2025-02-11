@@ -12,6 +12,7 @@ unions do not use the traditional devices of trade unions. It may safely
 be said that the American trade-union movement in 1924-29, for the
 first time in its history, did not reflect a great period of prosperity by
 a growth of membership.
+
 The full explanation of this phenomenon is not easy, and doubtless
 many factors are responsible. The first explanation which suggests itself
 is that the area within which American trade unions operate successfully
@@ -21,23 +22,24 @@ total number of gainful workers increased from 41.6 millions to 48.8
 millions, a gain of over seven millions or approximately 17 per cent.
 Of these the gain in trade, professional service, domestic service and
 clerical occupations account for over five millions; in manufacturing
-and mechanical trades (including the building trades), mining, trans-
-portation and communication, the traditional strongholds of trade
+and mechanical trades (including the building trades), mining, transportation
+and communication, the traditional strongholds of trade
 unionism, less than two millions of the newcomers found placement. The
-growth of the first four groups of industries were at the rates respec-
-tively of 40 per cent, 50 per cent, 45 per cent and 30 per cent, while in the
+growth of the first four groups of industries were at the rates respectively
+of 40 per cent, 50 per cent, 45 per cent and 30 per cent, while in the
 great fields in which trade unionism has been able to establish itself
 successfully the rates of growth were 10 per cent, -10 per cent, and 20
 per cent. To put the matter in another way, if we exclude agriculture,
 which showed a slight decrease, forestry and fishing, a stationary group,
 and public service, which showed some gain, the fields in which trade
 unionism has been successful showed an increase in gainful workers
-of slightly over 11 per cent, while the occupations in which trade union-
-ism has never been strong showed a gain of 40 per cent.
+of slightly over 11 per cent, while the occupations in which trade unionism
+has never been strong showed a gain of 40 per cent.
 These occupational changes are in striking contrast with those from
 1910 to 1920. In that period the gain in the occupations in which trade
 unionism is effective was at practically the same rate as the gain in the
 non-organized groups.
+
 American trade unionism remains today as it was 30 years ago,
 largely confined to the occupations included in the three census categories
 of mining, manufacturing and mechanical, including the building trades,

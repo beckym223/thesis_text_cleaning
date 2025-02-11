@@ -1,8 +1,9 @@
 To the economist conflict is neither a new nor a strange phenomenon.
 Very early in human history man learned that he could eat bread only
 by the sweat of his face, and the lesson thus learned was rephrased by
-the early economists into the doctrine that labor is the price of all eco-
-nomic goods.
+the early economists into the doctrine that labor is the price of all economic
+goods.
+
 Man's first struggle was with the earth itself which grudgingly yielded
 him a living; but this earthy contact gave him like Antaeus new strength
 for the conflict. Man soon discovered, however, that his was not the only
@@ -14,5 +15,6 @@ persistent has been this struggle for survival between man and other
 organisms that a prominent entomologist has only recently declared that
 it is still uncertain whether in the contest between the human and the
 insect species it will be man who will survive.
+
 Somewhere in the age-long struggle man discovered that conflict need
 not always end in the destruction of the defeated party. His own

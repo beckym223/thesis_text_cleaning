@@ -1,29 +1,31 @@
 regulation have in recent years trenched deeply upon the areas of free
 action. There may be a return, but he would be a rash man who would set
 a time for it.
+
 In stressing the mechanistic background of certain of the concepts that
 have been employed in the study of the market, I have not meant to imply
 that sheer mechanism plays an important rôle in contemporary theory. In
 its obvious form it does not. We have been slow, however, to shake off
 elements that derive from the static character of these antecedents. The
-notion of a fixed order of things is still deeply imbedded in formal eco-
-nomics. But the outstanding fact of economic life is change, change in the
-institutional framework and change in the working elements of our eco-
-nomic system. To recognize this is one thing. To take adequate account of
+notion of a fixed order of things is still deeply imbedded in formal economics.
+But the outstanding fact of economic life is change, change in the
+institutional framework and change in the working elements of our economic
+system. To recognize this is one thing. To take adequate account of
 it in seeking to interpret economic events, to incorporate the contingent
 and the uncertain into our concepts, is yet another. This is one of the tasks
 that confront our generation of economists.
+
 This brief summary has dealt with facts that are largely familiar, but
 they are facts that cannot be ignored in any review of the problems before
 economists today. It must be a matter of major concern to us that there
 exists a cleavage between the observed facts of economic life and the
 formal systems of thought wherewith we seek to interpret and unify these
 observations. Descriptive, piecemeal accounts of institutions and activities
-and their shifting forms we have, in number. Perhaps the distinctive con-
-tribution of our time has been the development of specialized bodies of
+and their shifting forms we have, in number. Perhaps the distinctive contribution
+of our time has been the development of specialized bodies of
 knowledge and specialized instruments of economic intelligence. We know
-far more about national income, the structure of credit, industrial produc-
-tivity, the formation of capital, the earnings of labor, than we did fifty
+far more about national income, the structure of credit, industrial productivity,
+the formation of capital, the earnings of labor, than we did fifty
 years ago. But the circle completes itself. Variety in detail cries again for
 simplifying principles. Conceptual systems that would interrelate these
 diverse facts and their changes over time, systems with the sweep, generality
@@ -31,9 +33,10 @@ and apparent unifying power that were the impressive features of classical
 economics in the heyday of its acceptance we have not. Which is another way
 of saying that understanding has not kept pace with observation. Intellectual
 discomfort is a natural result.
+
 I would not suggest that in a universe of variation and discontinuous
-change we may hope to create theoretical systems that are at once all-
-embracing and completely consistent with the perceptual world. In limited
+change we may hope to create theoretical systems that are at once allembracing
+and completely consistent with the perceptual world. In limited
 areas and for limited times agreement between concepts and apparent
 reality may be close, but disturbing discrepancies will persist. Driven to
 seek understanding of complex phenomena, we shall continue to construct

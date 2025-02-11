@@ -5,6 +5,7 @@ not necessarily argue against collective bargaining. It argues rather for the
 industrial union so that craft wages will not be out of line with wages of
 the unskilled, and for government action to provide needed data and
 efficient conciliation and arbitration machinery.
+
 I pass to the incidence of wage increases exacted. As to the effects of
 increased wages, economists, as well as business men, when confronted by
 demands for higher union wages, all too frequently assume that both labor
@@ -12,17 +13,18 @@ costs and total costs are increased by the amount the rate of pay is increased.
 The fact is that other things do not necessarily remain equal; we are entirely
 too much inclined to assume that they do. In a dynamic situation, there is
 no necessary and inevitable relationship between a change in wage rates,
-especially on a time basis, and labor cost, and there is no necessary and in-
-evitable relationship between a changed labor cost and total cost. For what
+especially on a time basis, and labor cost, and there is no necessary and inevitable
+relationship between a changed labor cost and total cost. For what
 would be an increased cost due to higher wages may, like some taxes, be
 transformed or offset in some way or other.
+
 A wage increase may lead the employer to select and train his workers
 more carefully. More important, when the union comes in, the turnover
 of labor is generally reduced to a fraction of what it has been; the cost of
 acquiring new workers and training them, and the losses from interrupted
 operation due to unbalanced sections are reduced. Generally the cost of
-supervision is also reduced in the union shop. Again, the union may coöper-
-ate in introducing or extending piece work where all previous attempts
+supervision is also reduced in the union shop. Again, the union may coöperate
+in introducing or extending piece work where all previous attempts
 have failed. In a Chicago instance, in spite of the dilution of labor made
 during a labor shortage in 1919, a clothing firm found that after piece
 work had been introduced with the active coöperation of the union, the
@@ -32,6 +34,7 @@ of union-management coöperation-which is by no means limited to well
 known railway shops-exceptional gains in efficiency and economies may
 result. Not infrequently the higher wages are earned, if labor cost is the
 test.
+
 On the other hand, it must be admitted that the union shop may be
 accompanied by enhanced labor costs exceeding any increase in wage rates
 secured. Possibly management loses adequate control over hiring, lay-off
@@ -39,4 +42,4 @@ and discharge; for hiring may be controlled by the union and discharge may
 be for "cause" only, thus making it difficult to weed out the less desirable.
 More frequently than they coöperate in the extension of piece work, unions
 oppose it; seldom are bonus systems tolerated in the organized trades. The
-union may have bad morale, due to defeat in some objectives, or to a mili-
+union may have bad morale, due to defeat in some objectives, or to a militant

@@ -2,11 +2,11 @@ to be right; and the government will be free to select those theories and
 proposals which best fit the tone of the administrative mind.
 This difficulty will probably always be with us. In the face of it, what
 is the best we can do? Few would nowadays attempt to draw solutions
-ready-made from traditional theories. I can think of instances which approx-
-imate this, but they are rare. And the economist who does this is hardly
+ready-made from traditional theories. I can think of instances which approximate
+this, but they are rare. And the economist who does this is hardly
 less risky a guide than the one who follows the more popular course,
-throwing all received theories overboard and trying to work out every prob-
-lem as a fresh and disconnected exercise. What is needed is a readiness
+throwing all received theories overboard and trying to work out every problem
+as a fresh and disconnected exercise. What is needed is a readiness
 to use accepted theories, and the methods by which they were derived,
 as tools of analysis, with a clear eye for the limitations of their applicability
 to the specific conditions of the problem in hand, and a readiness to make
@@ -20,13 +20,13 @@ of government to business. Earlier controls dealt with localized sections
 of industry, applying standards derived from the unregulated field; or
 they dealt with particular incidental aspects other than the central question
 what and how much to produce and at what price. Now we are dealing
-with industry as a whole and going to the core of the matter. Earlier con-
-trols dealt mainly in restraints on particular abuses; the present problem
+with industry as a whole and going to the core of the matter. Earlier controls
+dealt mainly in restraints on particular abuses; the present problem
 is not one of restraints on abuses of vigorous private activities, but one of
 supplying motive force itself where motive force is lacking. Earlier attacks
 left unquestioned the main redeeming feature of private industry-its
-power to produce goods plentifully and efficiently; now this main redeem-
-ing feature is called in question. And apparently few leaders of private
+power to produce goods plentifully and efficiently; now this main redeeming
+feature is called in question. And apparently few leaders of private
 industry yet realize the seriousness of the situation.
 The issue seems to be wrongly put by many, who ask whether in the
 face of the weakness of private industry and our fumbling attempts to
@@ -38,6 +38,7 @@ in industry itself. The system has been changing its character constantly
 during the last hundred and fifty years, and as much through the action
 of industry as that of government. More changes are in store; and we can
 set no ultimate limit on their extent.
+
 The present system is failing to use the productive powers it has so
 plentifully developed, and to give everyone an opportunity to produce and
 to earn a living. Can a system which will do these things be fashioned

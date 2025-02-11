@@ -4,8 +4,8 @@ formal economics. It provided the concept of law as a ruling force, the
 notion of a fixed order in Nature, and a variety of analogies suggestive of
 ways in which the data of economics might be organized.
 A particular conjuncture served to give this approach prestige, historical
-timeliness and no small degree of validity. Just when the mechanistic pat-
-tern was becoming the model of scientific perfection, the move for a free
+timeliness and no small degree of validity. Just when the mechanistic pattern
+was becoming the model of scientific perfection, the move for a free
 market was given impetus from other quarters and on other grounds. Adam
 Smith's protests against the fettering restrictions of mercantilism were
 rooted in the needs of rising English industrialism. But it was precisely to
@@ -14,30 +14,31 @@ the sovereign market, characterized by competitive individualism, free
 contract and complete mobility of factors, and subject to no important
 changes over time, the physical concepts of force, equilibrium, action and
 reaction had their analogues. Orderliness was generated through the "nicely
-adjusted mechanism of nature," without design or conscious control, pre-
-cisely as it seemed to be in the cosmos. It was, then, at a time when the
+adjusted mechanism of nature," without design or conscious control, precisely
+as it seemed to be in the cosmos. It was, then, at a time when the
 practical requirements of British industrialism, and the ideas of economic
 liberalism were leading to the removal of market restrictions, that the
 architecture of a science appropriate to the free market was suggested by
 Newtonian mechanics. Out of this conjuncture came a dominant tradition
 in our discipline.
-The body of economic thought defining the play of forces in a free mar-
-ket, and illuminating the extraordinary order-creating qualities of such a
+
+The body of economic thought defining the play of forces in a free market,
+and illuminating the extraordinary order-creating qualities of such a
 market, is one of the great constructs of the human mind. It enabled men to
-perceive, beneath the apparent chaos and bewildering complexity of observ-
-able economic activities, the working of a vast coöperative scheme by which
+perceive, beneath the apparent chaos and bewildering complexity of observable
+economic activities, the working of a vast coöperative scheme by which
 the diverse needs of millions of individuals were satisfied. The analogy that
-lay behind this construct was never perfect, it is true. There was never com-
-plete concordance between the thought systems of classical economics and
+lay behind this construct was never perfect, it is true. There was never complete
+concordance between the thought systems of classical economics and
 the real world- a fact of which the framers of these systems were fully
-aware. For the completely free market was never achieved; the world of eco-
-nomic events was always marked by a diversity of frictions and retardations.
+aware. For the completely free market was never achieved; the world of economic
+events was always marked by a diversity of frictions and retardations.
 The equilibrium, in Edgeworth's phrase, was that of the surface of the sea,
 a sluggish sea with viscous wave. The laws of formal theory represented
 conditions at the limit, not those open to actual observation. Change over
 time, too, lay outside the realm of a mechanistically conceived economics
-with its static models, but if it could be believed that the institutional de-
-velopment had found its terminus, that the framework would, in its essen-
-tials, change no more, this was not a serious limitation.
+with its static models, but if it could be believed that the institutional development
+had found its terminus, that the framework would, in its essentials,
+change no more, this was not a serious limitation.
 Of course, mechanistic concepts have not prevailed in unsullied form, or
 to the exclusion of other ideas. A literary and humanistic tradition has

@@ -4,32 +4,34 @@ as it has been assigned a relatively inconspicuous place in a greater
 cosmos. New elements have been discovered, and the forces of nature
 have been captured and harnessed to man's uses. But we remain still
 on the threshold of the universe.
-A generation or two ago the physicist was one of the most cock-
-sure of our scientific colleagues; today he is the most humble. New vistas
+
+A generation or two ago the physicist was one of the most cocksure
+of our scientific colleagues; today he is the most humble. New vistas
 of knowledge have been opened up to him, on the frontier of which
-he now stands. He has learned to utilize the force of electricity, but re-
-mains perplexed before the movements of the electrons in their courses
+he now stands. He has learned to utilize the force of electricity, but remains
+perplexed before the movements of the electrons in their courses
 within the atom. In the field of metallurgy he has discovered, if not new
 metals, at least new combinations that have given the lightness with
 strength which make possible the ever-longer flights of airplanes, the
-hardness that is necessary for an automobile crankshaft, and the bright-
-ness which is found in the trimmings of even the cheapest era. And yet
+hardness that is necessary for an automobile crankshaft, and the brightness
+which is found in the trimmings of even the cheapest era. And yet
 in this very domain, which he had apparently exploited so thoroughly,
-the metallurgist and engineer finds himself on the frontier of new scien-
-tific knowledge. "What is cohesion?" asked Sir Oliver Lodge. "Why,
+the metallurgist and engineer finds himself on the frontier of new scientific
+knowledge. "What is cohesion?" asked Sir Oliver Lodge. "Why,
 when I pick up one end of my walking stick, does the other end come
 up too?" The honest physicist answers that he does not know. He may
 talk about attraction among atoms, but that is merely giving a name
 to the unknown. The essential nature of cohesion is still a matter of
 speculation.
+
 Our material civilization today is based primarily upon the utilization
 of power, most of which is derived from the stores of coal and oil which
 are rapidly being depleted if not exhausted. But at almost every stage
 the processes of production and utilization are still woefully wasteful.
 In the present state of the exploitation of petroleum about three-fourths
 of the oil remains in the soil. The recovery of the balance is a standing
-challenge to science. In the case of coal the amount recovered varies ac-
-cording to conditions; in the bituminous mines of Illinois only about
+challenge to science. In the case of coal the amount recovered varies according
+to conditions; in the bituminous mines of Illinois only about
 half of the coal is brought to the surface. Even more wasteful is the
 utilization of oil and coal for power or heating. In spite of the continuous
 improvement of the steam engine, or its replacement by the turbine or

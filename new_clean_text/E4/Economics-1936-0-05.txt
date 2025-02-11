@@ -2,21 +2,23 @@ in the theories and assumptions which the oncoming generation will find
 useful and necessary in the positive work which it will do. Judging by
 present indications, the effect in the long run will not be one of complete
 destruction.
+
 Modern inductive and quantitative studies are already making use of
 bits of the equilibrium theory as hypotheses, although they have usually
 had to be reformulated to adapt them to the requirements of verification.
 Even in the study of disturbances themselves, pictures of the conditions
 necessary to equilibrium often furnish a starting-point in the analysis of
-why equilibrium is not reached. This method has its dangers; for the in-
-vestigator is prone to rest content when he has found one cause which
+why equilibrium is not reached. This method has its dangers; for the investigator
+is prone to rest content when he has found one cause which
 seems sufficient to explain the general fact of disturbance, and emerges
 with a one-sided and inadequate theory. Such reasoning should be based
-on an adequate factual picture; but the factual picture alone is not suffi-
-cient.
+on an adequate factual picture; but the factual picture alone is not sufficient.
+
+
 An interesting case is afforded by the question whether statistical studies
 reveal evidence of a tendency of price toward "normal." Construing this
-for the moment in the limited sense of a normal relation of price to ex-
-pense of production, the figures show a tendency of price to fluctuate
+for the moment in the limited sense of a normal relation of price to expense
+of production, the figures show a tendency of price to fluctuate
 around some kind of typical or average relation to cost, and in this sense
 a normal price persists. What the figures do not show is a separate force
 tending to cause prices to return to this normal relation to costs whenever
@@ -24,21 +26,23 @@ they have departed from it in the smallest degree, beginning to act as
 soon as any discrepancy shows itself, continuing until prices have returned
 to normal, and then ceasing. This latter concept of the tendency to normal,
 which is appropriate to a static state, is too simple to represent the forces
-acting under dynamic conditions. Instead, it seems probable that the self-
-limiting and the cumulative forces are not neatly separated from each
+acting under dynamic conditions. Instead, it seems probable that the selflimiting
+and the cumulative forces are not neatly separated from each
 other, but may represent the same forces or factors acting differently under
 different conditions.
+
 Another aspect of the static normal is the tendency to full utilization
-of the productive factors. It is obvious that actual conditions cannot fluctu-
-ate around this as an average, since they can depart from it in only one
+of the productive factors. It is obvious that actual conditions cannot fluctuate
+around this as an average, since they can depart from it in only one
 direction. Hence the typical or average condition is necessarily below the
 static norm; and a "normal" percentage of utilization derived from the
 average
-of observed behavior is necessarily a dynamic factor and not any-
-thing pertinent to a static state of perfect and stable equilibrium.
-When equilibrium theories are used as devices to analyze actual con-
-ditions which do not follow the equilibrium model, one curious and interest-
-ing result sometimes follows-namely, a fuller development of the equi-
-librium theory itself. The conditions necessary to equilibrium often have
+
+of observed behavior is necessarily a dynamic factor and not anything
+pertinent to a static state of perfect and stable equilibrium.
+When equilibrium theories are used as devices to analyze actual conditions
+which do not follow the equilibrium model, one curious and interesting
+result sometimes follows-namely, a fuller development of the equilibrium
+theory itself. The conditions necessary to equilibrium often have
 to be more carefully and rigorously stated than ever before, in order to
 show how actual conditions differ and why they lead to a different result.

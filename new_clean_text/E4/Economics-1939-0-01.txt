@@ -2,17 +2,18 @@ The main papers and the round tables in this year's program, like those
 of a year ago, concern a single, though broadly inclusive, subject. A year ago
 we considered the various factors which influence fluctuations in the rate of
 investment, income and employment. In selecting the topic for this year
-we have turned away in large measure from the ever-present and all-ab-
-sorbing problem of cyclical fluctuations and have set ourselves the task of
+we have turned away in large measure from the ever-present and all-absorbing
+problem of cyclical fluctuations and have set ourselves the task of
 probing the problems of structural change in our economy, involving among
 other things also how these structural changes in various countries have
-affected the cycle itself. In the main sessions and in the round-table dis-
-cussions various aspects of "The Changing American Economy” are con-
-sidered—changes in the structure and functioning of our economic institu-
-tions. The topic is, however, so vast that even in a meeting as large as ours
+affected the cycle itself. In the main sessions and in the round-table discussions
+various aspects of "The Changing American Economy” are considered—
+changes in the structure and functioning of our economic institutions.
+The topic is, however, so vast that even in a meeting as large as ours
 it is quite impossible to include all aspects pertinent to the subject; and
 doubtless many members will feel that important segments of the problem
 have been overlooked by our program committee.
+
 One may ask: "Is there any special reason why in the year 1938 we
 should devote our attention as economists to the general subject "The
 Changing Character of the American Economy"? Throughout the modern
@@ -22,8 +23,8 @@ quarter century offers, however, overwhelming testimony in support of the
 thesis that the economic order of the western world is undergoing in this
 generation a structural change no less basic and profound in character than
 that transformation of economic life and institutions which we are wont to
-designate loosely by the phrase "the Industrial Revolution." We are pass-
-ing, so to speak, over a divide which separates the great era of growth and
+designate loosely by the phrase "the Industrial Revolution." We are passing,
+so to speak, over a divide which separates the great era of growth and
 expansion of the nineteenth century from an era which no man, unwilling
 to embark on pure conjecture, can as yet characterize with clarity or precision.
 We are moving swiftly out of the order in which those of our generation

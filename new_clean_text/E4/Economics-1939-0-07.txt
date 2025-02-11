@@ -1,14 +1,14 @@
 try, according to his findings, capital investment has risen no more rapidly
-than value of product, while in the electrical industries, invested capital in-
-creased at a slower rate than output after 1907. Considering the economy as
+than value of product, while in the electrical industries, invested capital increased
+at a slower rate than output after 1907. Considering the economy as
 a whole, including fields of economic activity other than manufacturing,
-there is no good evidence that the advance of technique has resulted in re-
-cent decades, certainly not in any significant measure, in any deepening of
+there is no good evidence that the advance of technique has resulted in recent
+decades, certainly not in any significant measure, in any deepening of
 capital. Apparently, once the machine technique has been developed in any
 field, further mechanization is likely to result in an increase in output at'
 least proportional to and often in excess of the net additions to real capital.
-Though the deepening process is all the while going on in certain areas, else-
-where capital-saving inventions are reducing the ratio of capital to output.
+Though the deepening process is all the while going on in certain areas, elsewhere
+capital-saving inventions are reducing the ratio of capital to output.
 In order to get some insight into the effect of population growth upon
 capital formation, it is necessary to consider the rôle it plays in conjunction
 with other factors in the widening and deepening process. The widening
@@ -18,13 +18,14 @@ productivity, arising from causes other than a larger use of capital per unit
 of output. On the other hand, the deepening of capital results partly from
 cost-reducing changes in technique, partly (though this is probably a much
 less significant factor) from a reduction in the rate of interest, and partly
-from changes in the character of the output as a whole, with special refer-
-ence to the amount of capital required to produce it.
+from changes in the character of the output as a whole, with special reference
+to the amount of capital required to produce it.
+
 Now the rate of population growth must necessarily play an important
-rôle in determining the character of the output; in other words, the com-
-position of the flow of final goods. Thus a rapidly growing population will
-demand a much larger per capita volume of new residential building con-
-struction than will a stationary population. A stationary population with its
+rôle in determining the character of the output; in other words, the composition
+of the flow of final goods. Thus a rapidly growing population will
+demand a much larger per capita volume of new residential building construction
+than will a stationary population. A stationary population with its
 larger proportion of old people may perhaps demand more personal services;
 and the composition of consumer demand will have an important influence
 on the quantity of capital required. The demand for housing calls for large
@@ -40,4 +41,5 @@ rapidly diminished. And now with the rapid cessation of population growth,
 even the widening process may slow down. Moreover it is possible that
 capital-saving inventions may cause capital formation in many industries to
 lag behind the increase in output.
+
 An interesting problem for statistical research would be to determine the

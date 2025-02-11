@@ -8,8 +8,8 @@ periodicals, rise, up to given rate of speed, and then fall.
 This is quite parallel to the results obtained in the cultivation of
 land. Such is the pressure of our recurring need for food that we
 cannot disregard time. We cannot wait for the accumulation of two,
-three or more harvests. How much we can get in one season is the all-
-important consideration, and ordinarily we operate land at high speed
+three or more harvests. How much we can get in one season is the allimportant
+consideration, and ordinarily we operate land at high speed
 considering the state of the existing arts of cultivation. This we do
 not so often do with mechanical appliances, for thanks to the excess
 of power which many of them develop and to the ease of duplicating
@@ -18,10 +18,11 @@ to the limit of their capacity. It is also true that any worker who
 is required or attempts to work at a speed beyond that at which his
 physical powers operate at their greatest efficiency gives or receives a
 diminishing return upon the effort put forth.
+
 The relation of this to income may now be set forth, somewhat in the
 form of a thesis. Income is essentially wealth available for recurrent
-consumption, recurrently (or periodically) received. Its three essen-
-tial characteristics are: receipt, recurrence, and expendability. It is
+consumption, recurrently (or periodically) received. Its three essential
+characteristics are: receipt, recurrence, and expendability. It is
 wealth looked at primarily from the point of view of time. Income is
 distinguished from capital in that capital is thought of as possessed,
 not as being received; capital is regarded as continuing or enduring
@@ -29,6 +30,7 @@ and not as recurring; as wearing out, but not as recurrently consumed
 or used to live on; and as something to be maintained in as enduring
 a form as possible. Capital is wealth looked at primarily as standing
 in space.
+
 What constitutes "receiving income" and what is the criterion of
 "spendability" are two very interesting matters which I may not stop
 to discuss, save very briefly, if I am to make clear in the short time
@@ -37,8 +39,9 @@ of income. So too I am forced to omit any consideration of the way
 in which capital may emerge out of income by saving, or the manner in
 which capital goods may under certain circumstances be included in
 income.
+
 That recurrence, more often expressed as regularity, is an essential
 feature of income has been pointed out by many writers. But most of
 them express it by saying that income is a "flow of wealth," a metaphor
 which involves serious logical difficulties and overstresses the idea of
-regularity or continuity. As I use it here, recurrence does not neces-
+regularity or continuity. As I use it here, recurrence does not necessarily
