@@ -1,0 +1,43 @@
+and the other that "each state shall have at least one
+representative."
+
+Between 1790 and 1911, inclusive, two fundamentally different
+methods of apportionment were employed, one method in seven
+apportionments and the other in six. It is theoretically possible,
+of course, that the two methods may be equally good or equally bad,
+but probably one method is better than the other and possibly one
+method is wrong and the other right. The two methods differ in
+that one, which I will venture to call the method of an assumed
+ratio, starts from an assumed number of persons to one representative,
+the number being usually but not necessarily a whole number
+of hundreds or thousands; and the other, which, but for the fact
+that it has long been called the Vinton method from the name of
+the representative who introduced it, might be named, in contrast
+to the first, the method of a computed ratio, starts from an assumed
+number of representatives in the House and computes the
+average number of persons to a representative by dividing the
+constitutional or representative population of the United States.
+by that number. The quotient is then used as a divisor for the
+population of each of the states, a representative is apportioned
+for each unit in the resulting series of quotients, the sum of which
+under all ordinary circumstances is less than the number of representatives
+to be apportioned, the remainders are arranged in order
+of size, and a representative assigned to each in succession until the
+desired total is secured. This method sometimes leaves one or more
+major fractions, or fractions larger than one half, without an additional
+representative and sometimes gives an additional representative
+for one or more minor fractions, results which have been serious
+stumbling-blocks to Congress but are inherent in the method.
+The Vinton method was used at every census between 1850 and
+1900, inclusive; the method of an assumed ratio was used at every
+census between 1790 and 1840, inclusive, and again in 1910. The
+latter method has taken two forms, one in which all fractions after
+division are disregarded in the apportionment, and the other in
+which all fractions larger than one half entitle the states wherein
+they occur to an additional representative. These two may be
+called the method of rejected fractions and the method of major
+fractions.
+
+After this preliminary clearing of the ground my main thesis
+may be stated as follows: The method of major fractions is the
+correct and constitutional method of apportionment.

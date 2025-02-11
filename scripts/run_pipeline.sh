@@ -90,14 +90,6 @@ if [ ! -f "$LOG_FILE" ]; then
     touch "$LOG_FILE"
 fi
 
-# Check for unstaged changes and stash them
-if [ -n "$(git status --porcelain)" ]; then
-    echo "$(date +'%Y-%m-%d %H:%M:%S') - INFO - Unstaged changes detected. Stashing changes before running the pipeline." >> "$LOG_FILE"
-    git stash push -m "Auto-stash before pipeline run"
-    STASHED=true
-else
-    STASHED=false
-fi
 
 # Get the current branch \n----PIPELINE RUN AT 
 CURRENT_BRANCH=$(git branch --show-current)
@@ -190,8 +182,4 @@ else
     echo "After reviewing changes, run 'scripts/cleanup.sh $BRANCH_NAME' to merge changes and delete the temporary branch."
 fi
 
-if [ "$STASHED" = true ]; then
-    echo "Restoring stashed changes after pipeline run."
-    git stash pop
-fi
 

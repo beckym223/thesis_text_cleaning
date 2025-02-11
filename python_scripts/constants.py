@@ -11,34 +11,34 @@ E2_FOOT_LINES: dict[str, int] = {
     "Economics-1894-0-19.txt": 29,
 }
 
-E3_FOOT_LINES: dict[str, int] = {
-    "Economics-1907-0-14.txt": 26,
-    "Economics-1907-0-17.txt": 34,
-    "Economics-1908-0-01.txt": 28,
-    "Economics-1908-1-01.txt": 23,
-    "Economics-1910-0-01.txt": 28,
-    "Economics-1910-0-13.txt": 34,
-    "Economics-1911-0-24.txt": 31,
-    "Economics-1912-0-01.txt": 33,
-    "Economics-1912-0-03.txt": 37,
-    "Economics-1912-0-04.txt": 39,
-    "Economics-1912-0-06.txt": 38,
-    "Economics-1912-0-07.txt": 38,
-    "Economics-1912-0-08.txt": 36,
-    "Economics-1912-0-09.txt": 39,
-    "Economics-1912-0-12.txt": 38,
-    "Economics-1913-0-09.txt": 34,
-    "Economics-1913-0-12.txt": 38,
-    "Economics-1915-0-05.txt": 38,
-    "Economics-1915-0-14.txt": 40,
-    "Economics-1915-0-16.txt": 37,
-    "Economics-1915-0-21.txt": 14,
-    "Economics-1916-0-01.txt": 31,
-    "Economics-1916-0-02.txt": 40,
-    "Economics-1916-0-04.txt": 39,
-    "Economics-1916-0-10.txt": 39,
-    "Economics-1917-0-01.txt": 33,
-}
+E3_FOOT_PAGES = [
+    "Economics-1907-0-14.txt",
+    "Economics-1907-0-17.txt",
+    "Economics-1908-0-01.txt",
+    "Economics-1908-1-01.txt",
+    "Economics-1910-0-01.txt",
+    "Economics-1910-0-13.txt",
+    "Economics-1911-0-24.txt",
+    "Economics-1912-0-01.txt",
+    "Economics-1912-0-03.txt",
+    "Economics-1912-0-04.txt",
+    "Economics-1912-0-06.txt",
+    "Economics-1912-0-07.txt",
+    "Economics-1912-0-08.txt",
+    "Economics-1912-0-09.txt",
+    "Economics-1912-0-12.txt",
+    "Economics-1913-0-09.txt",
+    "Economics-1913-0-12.txt",
+    "Economics-1915-0-05.txt",
+    "Economics-1915-0-14.txt",
+    "Economics-1915-0-16.txt",
+    "Economics-1915-0-21.txt",
+    "Economics-1916-0-01.txt",
+    "Economics-1916-0-02.txt",
+    "Economics-1916-0-04.txt",
+    "Economics-1916-0-10.txt",
+    "Economics-1917-0-01.txt",
+]
 
 E4_ABSTRACT_DICT: dict[str, str] = {
     "Economics-1930-0-01.txt": "If the shoemaker",
@@ -643,7 +643,7 @@ E5_SPLIT_RANGES: dict[str, list[tuple[int, int]]] = {
     "Economics-1968-0-19.txt": [(0, 818)],
 }
 
-E6_SPLIT_RANGES:dict[str, list[tuple[int, int]]] = {
+E6_SPLIT_RANGES: dict[str, list[tuple[int, int]]] = {
     "Economics-1969-0-01.txt": [(0, 3111)],
     "Economics-1969-0-04.txt": [(0, 3789)],
     "Economics-1969-0-05.txt": [(0, 3866)],

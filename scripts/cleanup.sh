@@ -41,14 +41,14 @@ if $DELETE_BRANCH; then
 
 fi
 # Merge the changes from the temporary branch (fast-forward only)
-git merge --squash --no-edit "$TEMP_BRANCH"
+git merge --squash --no-edit "$TEMP_BRANCH" -m "Merging from $TEMP_BRANCH"
 
 # Check if the merge was successful
 if [ $? -eq 0 ]; then
     echo "Merge successful. Changes have been merged from $TEMP_BRANCH to $PARENT_BRANCH."
     
     # Delete the temporary branch
-    git branch -d "$TEMP_BRANCH"
+    git branch -D "$TEMP_BRANCH"
     
     # Push the changes if required
     # git push origin "$PARENT_BRANCH"
