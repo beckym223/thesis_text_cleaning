@@ -63,6 +63,8 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     remove_files(dest_dir,is_first_page,commit_changes)
 
+    remove_footnote_lines(dest_dir,E2_FOOT_LINES,commit_changes)
+
     clean_text_files(dest_dir,commit_changes)
     # Run the cleaning steps
 
