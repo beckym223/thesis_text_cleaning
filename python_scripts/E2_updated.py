@@ -1,11 +1,16 @@
-import os
-import shutil
-import re
 import itertools as it
 import logging
-from utils import *
-from text_cleaning import *
-from constants import E2_FOOT_LINES
+import os
+import re
+import shutil
+
+from constants import FOOTNOTE_SEPARATER
+from text_cleaning import (fix_dash_errors_in_dir,
+                           fix_line_breaks_across_footnote_pages,
+                           is_first_page, jstor_and_stripping, remove_files,
+                           split_into_paras_at_length)
+from utils import git_commit, initialize_directories, setup_logging
+
 E2_FN_PAGES: list[str] = [
     "Economics-1893-0-01.txt",
     "Economics-1894-0-05.txt",
@@ -65,13 +70,13 @@ def clean_text_files(dir_path: str,commit_changes:bool):
         logging.error(f"Error cleaning text files after file {file}: {e}")
         raise
     
-def separate_foot_lines(dest_dir:str,commit_changes:bool):
+def separate_foot_lines(dest_dir:str,sep_str:str,commit_changes:bool):
     for file in E2_FN_PAGES:
         logging.info(f"Separating footnotes in {file}")
         path = os.path.join(dest_dir,file)
         with open(path,'r') as f:
             text = f.read()
-        new_text = re.sub(r"\n\s?\*([^\*]*)$",lambda m: "\n\n#### Footnotes:\n"+fr"\*{m.group(1)}",text,flags=re.DOTALL, count=1)
+        new_text = re.sub(r"\n\s?\*([^\*]*)$",lambda m:sep_str+fr"\*{m.group(1)}",text,flags=re.DOTALL, count=1)
         if text==new_text:
             logging.warning(f"No footnote detected in file: {file}")
         with open(path,'w') as f:
@@ -81,6 +86,7 @@ def separate_foot_lines(dest_dir:str,commit_changes:bool):
 
 
 def main(source_dir, dest_dir, log_file, commit_changes):
+    fn_sep = FOOTNOTE_SEPARATER
 
     setup_logging(log_file)
 
@@ -90,11 +96,13 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     clean_text_files(dest_dir,commit_changes)
 
-    separate_foot_lines(dest_dir,commit_changes)
+    separate_foot_lines(dest_dir,fn_sep,commit_changes)
 
     fix_dash_errors_in_dir(dest_dir,commit_changes)
     
-    fix_line_breaks_across_footnote_pages(dest_dir,commit_changes,split_before = '\n\n####')
+    fix_line_breaks_across_footnote_pages(dest_dir,commit_changes,fn_sep)
+
+    split_into_paras_at_length(dest_dir,40,commit_changes)
 
 
 
