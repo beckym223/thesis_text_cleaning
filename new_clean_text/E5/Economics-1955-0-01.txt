@@ -1,9 +1,3 @@
-The American Economic Review
-VOLUME XLV
-MARCH, 1955
-NUMBER ONE
-ECONOMIC GROWTH AND INCOME INEQUALITY*
-By SIMON KUZNETS
 The central theme of this paper is the character and causes of long-
 term changes in the personal distribution of income. Does inequality
 in the distribution of income increase or decrease in the course of a
@@ -31,8 +25,8 @@ cluding income in kind, before and after direct taxes, excluding capital
 gains. Fifth, the units should be grouped by secular levels of income,
 free of cyclical and other transient disturbances.
 For such a distribution of mature expenditure units by secular levels
+
+####Footnote:
+
 * Presidential address delivered at the Sixty-seventh Annual Meeting of the American
 Economic Association, Detroit, Michigan, December 29, 1954.
-This content downloaded from
-73.69.85.185 on Fri, 09 Sep 2022 01:18:50 UTC
-All use subject to https://about.jstor.org/terms
