@@ -108,7 +108,6 @@ def fix_line_breaks_across_footnote_pages(dir_path: str,commit_changes:bool,spli
     """
     Fixes line breaks across pages by merging broken words from consecutive files.
     """
-    logging.info(f"Fixing line breaks across pages before break '{re.escape(split_before or "")}'")
     try:
         files = sorted(os.listdir(dir_path))
         for first, second in it.pairwise(files):
@@ -131,7 +130,7 @@ def fix_line_breaks_across_footnote_pages(dir_path: str,commit_changes:bool,spli
                 if text1_temp.endswith("-"):
                     first_word = re.match(r"^\S+", text2).group() #type:ignore
                     new_text2 = re.sub(r"^\S+\s", "", text2)
-                    new_text1 = text1_temp[:-1] + first_word + (f"\n\n**{split[0]}**{split[1]}" if len(split)==2 else "")
+                    new_text1 = text1_temp[:-1] + first_word + (f'{split_before}{split[0]}'if split else "")
 
                     with open(path1, 'w') as f1, open(path2, 'w') as f2:
                         f1.write(new_text1.strip())
