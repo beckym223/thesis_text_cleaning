@@ -65,55 +65,20 @@ def clean_text_files(dir_path: str,commit_changes:bool):
         logging.error(f"Error cleaning text files after file {file}: {e}")
         raise
     
-def remove_foot_lines(dest_dir:str,commit_changes:bool):
-    for file in sorted(os.listdir(dest_dir)):
-        if file in E2_FN_PAGES:
-            path = os.path.join(dest_dir,file)
-            with open(path,'r') as f:
-                text = f.read()
-            text = re.sub(r"\n\s?\*([^\*]*)$",lambda m: "\n\n#### Footnotes:\n"+fr"\*{m.group(1)}",text,flags=re.DOTALL, count=1)
-            with open(path,'w') as f:
-                f.write(text)
+def separate_foot_lines(dest_dir:str,commit_changes:bool):
+    for file in E2_FN_PAGES:
+        logging.info(f"Separating footnotes in {file}")
+        path = os.path.join(dest_dir,file)
+        with open(path,'r') as f:
+            text = f.read()
+        new_text = re.sub(r"\n\s?\*([^\*]*)$",lambda m: "\n\n#### Footnotes:\n"+fr"\*{m.group(1)}",text,flags=re.DOTALL, count=1)
+        if text==new_text:
+            logging.warning(f"No footnote detected in file: {file}")
+        with open(path,'w') as f:
+            f.write(new_text)
     if commit_changes:
-        git_commit(dest_dir,"Removed foot lines for some files")
+        git_commit(dest_dir,"separated foot lines for some files")
 
-def handle_line_breaks_across_pages(dir_path: str,commit_changes:bool):
-    """
-    Fixes line breaks across pages by merging broken words from consecutive files.
-    """
-    try:
-        files = sorted(os.listdir(dir_path))
-        split_before = "\n####"
-        for first, second in it.pairwise(files):
-            try:
-                if first.split("-")[:3] != second.split("-")[:3]:
-                    continue
-
-                path1 = os.path.join(dir_path, first)
-                path2 = os.path.join(dir_path, second)
-
-                with open(path1, 'r') as f1, open(path2, 'r') as f2:
-                    text1 = f1.read()
-                    text2 = f2.read()
-                split = text1.rsplit(split_before,1)
-                text1_temp= split.pop(0).strip()
-                
-                if text1_temp.endswith("-"):
-                    first_word = re.match(r"^\S+", text2).group() #type:ignore
-                    new_text2 = re.sub(r"^\S+\s", "", text2)
-                    new_text1 = text1_temp[:-1] + first_word + (f'{split_before}{split[0]}'if split else "")
-
-                    with open(path1, 'w') as f1, open(path2, 'w') as f2:
-                        f1.write(new_text1.strip())
-                        f2.write(new_text2.strip())
-
-                    logging.info(f"Merged line break between {first} and {second}")
-
-            except Exception as e:
-                logging.warning(f"Error handling line break between {first} and {second}: {e}")
-    except Exception as e:
-        logging.error(f"Error handling line breaks: {e}")
-        raise
 
 def main(source_dir, dest_dir, log_file, commit_changes):
 
@@ -125,14 +90,12 @@ def main(source_dir, dest_dir, log_file, commit_changes):
 
     clean_text_files(dest_dir,commit_changes)
 
-    remove_foot_lines(dest_dir,commit_changes)
+    separate_foot_lines(dest_dir,commit_changes)
 
     fix_dash_errors_in_dir(dest_dir,commit_changes)
     
-    handle_line_breaks_across_pages(dest_dir,commit_changes)
+    fix_line_breaks_across_footnote_pages(dest_dir,commit_changes,split_before = '\n\n####')
 
-
-    # Run the cleaning steps
 
 
 if __name__ == "__main__":
