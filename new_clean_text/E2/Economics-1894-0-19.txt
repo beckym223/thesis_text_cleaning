@@ -27,7 +27,9 @@ of salaries above $4,000 is to be withheld from the salary
 when paid, so that for this class of persons and to this ex-
 tent the tax is laid upon the income of the current year,
 and not of that preceding. +
-*This is easily done of course with all fixed incomes from investments.
+
+#### Footnotes:
+\*This is easily done of course with all fixed incomes from investments.
 Variable and business incomes are to be returned at the average of the last
 three years. See § 10 of the law of 1891.
 † It was the intention at one stage of the bill to extend the provision for the
