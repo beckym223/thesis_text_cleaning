@@ -1,3 +1,4 @@
+FOOTNOTE_SEPARATER = "\n\n####Footnote:\n"
 E2_FOOT_LINES: dict[str, int] = {
     "Economics-1893-0-01.txt": 28,
     "Economics-1894-0-05.txt": 29,
@@ -440,7 +441,6 @@ E5_SPLIT_RANGES: dict[str, list[tuple[int, int]]] = {
     "Economics-1958-0-14.txt": [(0, 2933)],
     "Economics-1958-0-15.txt": [(0, 2760)],
     "Economics-1958-0-16.txt": [(0, 2830)],
-    "Economics-1958-0-17.txt": [(0, 2941)],
     "Economics-1958-0-18.txt": [(0, 2853)],
     "Economics-1958-0-19.txt": [(0, 1659)],
     "Economics-1959-0-03.txt": [(0, 1821)],
