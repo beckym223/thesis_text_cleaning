@@ -1,3 +1,5 @@
+14
+THE AMERICAN ECONOMIC REVIEW
 studies and in five of the six cross-section studies, the sum of k and j
 is slightly less than unity. While this by no means establishes the
 reality of true diminishing returns, since the differences between k+j
@@ -45,3 +47,6 @@ and ec
 1
 1-j'
 it follows that the approximate elasticity of the normal marginal pro-
+This content downloaded from
+73.69.85.185 on Sat, 01 Oct 2022 01:59:33 UTC
+All use subject to https://about.jstor.org/terms
