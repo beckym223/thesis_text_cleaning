@@ -1,14 +1,14 @@
 bers of the American Economic Association that modern
-political economy contains two distinct parts-often in-
-extricably intermingled in fact, yet always separate in
-principle-a theory of distribution and a theory of pros-
-perity. The theory of distribution shows how the pub-
-lic wealth is divided among the different members of
-the community. It shows what are the effects of a sys-
-tem of laws or a group of commercial conditions on the
+political economy contains two distinct parts-often inextricably
+intermingled in fact, yet always separate in
+principle-a theory of distribution and a theory of prosperity.
+The theory of distribution shows how the public
+wealth is divided among the different members of
+the community. It shows what are the effects of a system
+of laws or a group of commercial conditions on the
 relative well-being of the different classes concerned.
-It tries to predict how changes in these laws will in-
-crease the material comfort of some individuals and
+It tries to predict how changes in these laws will increase
+the material comfort of some individuals and
 diminish that of others. The theory of prosperity, on
 the other hand, is concerned primarily with the good or
 evil of the nation as a whole. It deals with aggregate
@@ -17,8 +17,8 @@ itself with the separate parts only as they must be
 studied in order to understand that aggregate effect.
 The distinction between these two sets of theories is
 not quite the same as that between static and dynamic
-economics; for a considerable part of the theory of dis-
-tribution deals with dynamic problems-with effects
+economics; for a considerable part of the theory of distribution
+deals with dynamic problems-with effects
 which are essentially the result of industrial progress
 rather than of static adjustment. It much more nearly
 coincides with the old antithesis between deductive and
@@ -29,6 +29,6 @@ they failed to grasp or formulate in precise fashion—a
 failure which reacted seriously upon the influence of
 this school in matters of economic controversy. Be this
 as it may, the distinction is a real and permanent one.
-Men may agree absolutely in their theories of distribu-
-tion and disagree toto coelo in their theories of pros-
-perity. Marx, in his theory of distribution, followed
+Men may agree absolutely in their theories of distribution
+and disagree toto coelo in their theories of prosperity.
+Marx, in his theory of distribution, followed
