@@ -1,10 +1,15 @@
+import logging
 import os
 import re
-import logging
-from utils import *
-from text_cleaning import *
-from constants import E3_FOOT_PAGES
+
 import numpy as np
+from constants import E3_FOOT_PAGES, FOOTNOTE_SEPARATER
+from text_cleaning import (fix_dash_errors_in_dir,
+                           fix_line_breaks_across_footnote_pages,
+                           is_first_page, jstor_and_stripping, remove_files,
+                           split_into_paras_at_length)
+from utils import git_commit, initialize_directories, setup_logging
+
 
 def handle_first_page(file:str, text:str)->str:
     disc,year,num,pagetxt = file.split("-")
@@ -30,6 +35,7 @@ def handle_first_page(file:str, text:str)->str:
     return "\n".join(lines[start_line:])
 def clean_headers_footers(dest_dir:str,commit_changes:bool):
     file:str
+    line_num = re.compile(r"\n(\d{1,3}\n*)$")
     try:
         for file in sorted(os.listdir(dest_dir)):
             try:
@@ -53,7 +59,7 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
                     to_change = np.array(lines[:10])
                     order =  [3,4,5,6,7,0,8,1,9,2]
                     text = "\n".join(["\n".join(to_change[order]),*lines[10:]])
-
+                text = line_num.sub("",text,1)
                 with open(path,'w') as f:
                     f.write(text.strip())
             except Exception as e:
@@ -64,22 +70,26 @@ def clean_headers_footers(dest_dir:str,commit_changes:bool):
     if commit_changes:
         git_commit(dest_dir,"Cleaned headers and footers")
     
-def find_footnote_lines(dest_dir,commit_changes):
+def find_footnote_lines(dest_dir,split_str,commit_changes):
     for file in E3_FOOT_PAGES:
         path = os.path.join(dest_dir,file)
         with open(path,'r') as f:
             text = f.read()
         lines = text.splitlines()
-        p = re.compile(r"^\s?(¹|\*|[A-Z]([a-z]+|\.)? [A-Z]\.)|'|\d{1,2}(?!\d)|System of")
+        start_options = [r'¹', r'\*', r'[A-Z]([a-z]+|\.) [A-Z]\.', r"'", r'\d{1,2}(?!\d)', r'System of']
+
+        p = re.compile(fr"^\s?(?P<line_start>{'|'.join(start_options)})(?P<rest>.*)$")
         fn_start = None
         i = -1
         since_last=0
-        while i>=-1*len(lines) and since_last<5:
+        while i>=-10 or since_last<5:
             line = lines[i]
-            if p.match(line):
+            m = p.match(line)
+            if m:
                 since_last=0
                 fn_start = i
-                lines[i] = re.sub(r"\*",r"\*",line)
+                symbol =m.group('line_start')
+                lines[i] = f"{re.escape(symbol) if symbol=="*" else symbol}{m.group('rest')}"
                 
             else:
                 since_last+=1
@@ -87,54 +97,17 @@ def find_footnote_lines(dest_dir,commit_changes):
 
         if fn_start is not None:
             with open(path,'w') as f:
-                f.write('\n'.join(lines[:fn_start])+f"\n\n**{'\n'.join(l for l in lines[fn_start:] if l).strip()}**")
+                f.write('\n'.join(lines[:fn_start])+f"{split_str}{'\n'.join(l for l in lines[fn_start:] if l).strip()}")
         else:
             logging.warning(f"Could not find footnote for {path}")
+
     if commit_changes:
-        git_commit(dest_dir,"Bolded footnote lines")
-        # i = -1
-        # since_last=0
+        git_commit(dest_dir,"separated footnote lines")
 
-
-def handle_line_breaks_across_pages(dir_path: str,commit_changes:bool):
-    """
-    Fixes line breaks across pages by merging broken words from consecutive files.
-    """
-    try:
-        files = sorted(os.listdir(dir_path))
-        for first, second in it.pairwise(files):
-            try:
-                if first.split("-")[:3] != second.split("-")[:3]:
-                    continue
-
-                path1 = os.path.join(dir_path, first)
-                path2 = os.path.join(dir_path, second)
-
-                with open(path1, 'r') as f1, open(path2, 'r') as f2:
-                    text1 = f1.read()
-                    text2 = f2.read()
-                split = text1.rsplit("**",2)
-                text1_temp= split.pop(0).strip()
-                
-                if text1_temp.endswith("-"):
-                    first_word = re.match(r"^\S+", text2).group() #type:ignore
-                    new_text2 = re.sub(r"^\S+\s", "", text2)
-                    new_text1 = text1_temp[:-1] + first_word + (f"\n\n**{split[0]}**{split[1]}" if len(split)==2 else "")
-
-                    with open(path1, 'w') as f1, open(path2, 'w') as f2:
-                        f1.write(new_text1.strip())
-                        f2.write(new_text2.strip())
-
-                    logging.info(f"Merged line break between {first} and {second}")
-
-            except Exception as e:
-                logging.warning(f"Error handling line break between {first} and {second}: {e}")
-    except Exception as e:
-        logging.error(f"Error handling line breaks: {e}")
-        raise
 
 def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
-
+    fn_sep = FOOTNOTE_SEPARATER
+    
     setup_logging(log_file)
 
     initialize_directories(source_dir,dest_dir,False)
@@ -143,11 +116,11 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     clean_headers_footers(dest_dir,commit_changes)
 
-    find_footnote_lines(dest_dir,commit_changes)
+    find_footnote_lines(dest_dir,fn_sep,commit_changes)
 
     fix_dash_errors_in_dir(dest_dir,commit_changes)
     
-    handle_line_breaks_across_pages(dest_dir,commit_changes=True)
+    fix_line_breaks_across_footnote_pages(dest_dir,commit_changes=True,split_before=fn_sep)
 
     split_into_paras_at_length(dest_dir,40,commit_changes)
 
