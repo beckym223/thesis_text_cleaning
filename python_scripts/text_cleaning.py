@@ -4,7 +4,7 @@ import re
 import itertools as it
 from collections.abc import Callable
 from utils import commit, apply_func_to_txt_dir
-from typing import Any
+from typing import Any, Optional
 
 @commit(commit_msg="Removed files")
 def remove_files(dir_path: str,
@@ -103,6 +103,49 @@ def remove_footnote_lines(dir_path:str,foot_dict:dict[str,int],commit_changes:bo
         except Exception as e:
             logging.error(f"Exception when removing footnote lines with file {file}: {e}")
 
+@commit(commit_msg="Joined dash breaks across pages")
+def fix_line_breaks_across_footnote_pages(dir_path: str,commit_changes:bool,split_before:Optional[str]=None,):
+    """
+    Fixes line breaks across pages by merging broken words from consecutive files.
+    """
+    logging.info(f"Fixing line breaks across pages before break '{re.escape(split_before or "")}'")
+    try:
+        files = sorted(os.listdir(dir_path))
+        for first, second in it.pairwise(files):
+            try:
+                if first.split("-")[:3] != second.split("-")[:3]:
+                    continue
+
+                path1 = os.path.join(dir_path, first)
+                path2 = os.path.join(dir_path, second)
+
+                with open(path1, 'r') as f1, open(path2, 'r') as f2:
+                    text1 = f1.read()
+                    text2 = f2.read()
+                if split_before is None:
+                    split_before = "\n"
+                    text1+="\n"
+                split = text1.rsplit(split_before,1)
+                text1_temp= split.pop(0).strip()
+                
+                if text1_temp.endswith("-"):
+                    first_word = re.match(r"^\S+", text2).group() #type:ignore
+                    new_text2 = re.sub(r"^\S+\s", "", text2)
+                    new_text1 = text1_temp[:-1] + first_word + (f"\n\n**{split[0]}**{split[1]}" if len(split)==2 else "")
+
+                    with open(path1, 'w') as f1, open(path2, 'w') as f2:
+                        f1.write(new_text1.strip())
+                        f2.write(new_text2.strip())
+
+                    logging.info(f"Merged line break between {first} and {second}")
+
+            except Exception as e:
+                logging.warning(f"Error handling line break between {first} and {second}: {e}")
+    except Exception as e:
+        logging.error(f"Error handling line breaks: {e}")
+        raise
+
+
 def split_text(text:str,splits:list[tuple[int,int]])->str:
     return "\n".join(text[start:end] for start,end in splits)
 
@@ -124,10 +167,10 @@ def apply_splits_to_pages(dir_name:str,split_dict:dict[str,list[tuple[int,int]]]
             raise
 
 @commit(commit_msg="Broke into pararaphs with short lines")
-def split_into_paras_at_length(dest_dir,min_length,commit_changes):
+def split_into_paras_at_length(dest_dir,min_length,commit_changes,pred: Optional[Callable[[str],bool]]=None,):
     def split_text(text:str):
         lines = text.strip().splitlines()
-        return "\n".join([l+"\n" if len(l)<(min_length) else l for l in lines])
+        return "\n".join([l+"\n" if (len(l)<(min_length) and (pred(l) if pred else True)) else l for l in lines])
     apply_func_to_txt_dir(dest_dir,dest_dir,split_text)
     logging.info(f"Broke into paragraphs when shorter than {min_length} chars")
 
