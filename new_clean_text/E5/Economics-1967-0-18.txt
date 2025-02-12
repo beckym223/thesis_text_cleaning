@@ -1,0 +1,47 @@
+empirical counterpart to the theoretical construct) is required, because
+the explanation of changes in prices, inputs, and outputs is at the same
+time an explanation of decisions of some particular firms, in the sense
+of organizations of men acting in particular, sometimes unpredictable,
+ways. Various attempts have been made to develop patterns of oligopo-
+listic and monopolistic conduct and to correlate these patterns with
+types of organization or with types of personalities exercising ultimate
+decision-making power. The success has thus far been small; even if
+the decision-making (say, pricing) in a particular firm was sometimes
+satisfactorily modeled (for example, in a simulated computer pro-
+gram), the model has usually not been transferable to other cases, to
+predict decisions in other firms. I do not recall, moreover, that the be-
+havior patterns in these cases were shown to be inconsistent with the
+postulate of profit maximization.
+Under these circumstances, retreat to simpler, less realistic models
+of firms in oligopoly and monopoly positions is indicated. The first ap-
+proach is to apply the polypolistic model, in full awareness that the ac-
+tual facts are entirely different. In many instances the use of the po-
+lypolistic model for situations which in our judgment would merit to
+be labeled as oligopolistic will still yield satisfactory explanations and
+predictions. Where this is not so, the analyst will resort to the use of
+models of oligopolistic or monopolistic firms, postulating the simplest
+possible pattern of action and reaction, dispensing with all peculiar at-
+titudes and "special" strategies. Only where these simple models of oli-
+gopolistic and monopolistic firms yield quite unsatisfactory predictions
+will the analyst need to go further, to more special types of behavior,
+provided he finds it worth while. It depends on the research interests
+and on the problems under examination how much effort one wishes to
+invest in behavioral research where the findings hold little promise of
+yielding generalizations of wide applicability.
+There are, however, some simple models of oligopolistic behavior.
+tinuing shifts of position of competing oligopolists, and we have to turn to "the observa-
+tion of facts," which would show us the variety of possibilities [29, pp. 601-2].
+Schumpeter, in 1928, had this to say about the dichotomy: "We have much less reason
+to expect that monopolists will . . . charge an equilibrium price than we have in the case
+of perfect competition; for competing producers must charge it as a rule under penalty
+of economic death, whilst monopolists, although having a motive to charge the monopo-
+listic equilibrium price, are not forced to do so, but may be prevented from doing so by
+other motives" [33, p. 371].
+Finally, Scitovsky in 1951 stated that "not only does the monopolist's secure market
+position enable him to relax his efforts of maximizing profit, but his very position may
+prevent his aiming at maximum profit. He may regard his immunity from competition as
+precarious or be afraid of unfavorable publicity and public censure; and for either reason,
+he may judge it wiser to refrain from making full use of his monopoly position. We con-
+clude, therefore, that although in some cases the monopolist will aim at maximizing his
+profit . . . in other cases-which may well be the important ones he will refrain from
+maximizing profit" [37, p. 377].

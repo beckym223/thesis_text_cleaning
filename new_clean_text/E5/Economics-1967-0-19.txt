@@ -1,0 +1,43 @@
+which seem to be of sufficiently wide applicability. A model that equips
+the oligopolistic decision-maker not under heavy competitive pressure
+with an objective of gross-revenue ("sales") maximization, subject to
+the constraint of satisfactory net-revenue ("profit") [2, p. 49], suc-
+ceeds in explaining the lack of response to some cost-increasing events
+observed in several instances. There are other simple models ex-
+plaining the same phenomenon, and one may think of good reasons for
+finding one model or another more satisfactory. If the sales-maximiza-
+tion hypothesis can explain a greater variety of observed responses or
+nonresponses than other hypotheses can, and if it seems to correspond
+better with self-interpretations offered by interviewed businessmen, it
+merits acceptance, at least for the time being.
+An alternative to the maximization of sales is the maximization of
+the growth rate of sales [3, p. 1086]. This hypothesis is especially
+interesting because it involves an endogenous relation with profits:
+while some of the growth of gross revenue may encroach on profits, it
+does so with an automatic limit in that profits are needed to finance the
+investment required for the growth of sales.
+Another extension of the objective function proposed on the basis of
+behavioral research combines two managerial preferences for specific
+expenses of the firm with the usual profit motive. The two additional
+motives are expenditures for staff personnel and expenditures for man-
+agerial emoluments; both figure prominently in the utility functions of
+executives of companies which, sheltered from competitive pressures,
+make enough profits to allow management to indulge in these personal
+desires [48, pp. 38-60].
+All these "managerial-discretion models" are simple and sufficiently
+general to allow relatively wide application. We shall have more to say
+about them later.
+Effective Competition and Managerial Discretion
+In mapping out the area of applicability for theories of managerial
+discretion, we have spoken of "oligopoly," "monopoly," and of "firms
+not under heavy competitive pressure." These are rather vague guide-
+posts, but unfortunately the literature has not been very helpful in as-
+certaining precisely what it is that allows or restricts the exercise of
+wide managerial discretion.
+Some writers stress the size of the firm, suggesting that it is only in
+the large firm that management can exercise discretion. Others stress
+the condition of diffused ownership as the one that affords management
+the opportunity of pursuing objectives other than maximization of
+profits. Those who stress oligopoly as the domain for which objective
+functions richer than profit maximization are needed are usually not
+quite specific as to their criterion of an oligopoly position: it may be

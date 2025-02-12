@@ -1,0 +1,44 @@
+bility. Theory enables us to predict that traffic will be slower and acci-
+dents more frequent, but it does not enable us to predict that any par-
+ticular driver will drive more slowly or have an accident. The model of
+the reactions of the individual driver was not designed to explain the
+actual driving of any particular operator but only to explain the ob-
+servable consequences of the observed change of conditions by deduc-
+ing from the model the theoretical reactions of a hypothetical driver.
+Our analogy can also show us the limitations of the model: the pre-
+diction will hold only if there is a large number of automobiles on the
+road. If only a very few cars are around, there may be no accident and
+there need not be a reduction in their speed. Conceivably, the opera-
+tors may all be good and self-confident drivers. Marginal analysis of
+hypothetical driver reaction will suffice for explaining and predicting
+the consequences of a change in driving conditions if the number of
+automobiles on the highways is large. If the number is small, behav-
+ioral research will be needed, though it may or may not be worth the
+cost.
+Still another use can be made of our analogy: to show the vast
+differences in the scope of questions to which answers can or cannot be
+expected with the aid of a given theory, for example, from the theory
+of overtaking as sketched in my article. Compare the following four
+questions: (1) How fast will traffic move? (2) How fast will the auto-
+mobile driven by Mr. X move? (3) How will the speed of traffic be
+affected by fog? (4) How will the speed of Mr. X's driving be affected
+by fog?
+The theory sketched by me offers no answer to the first question, be-
+cause each of the variables specified may have very different values for
+different cars and drivers; it has no answer to the second question, and
+only a suggestion, a rebuttable presumption, for answering the fourth
+question, because the theory is not really concerned with particular
+persons or their actions and reactions. The theory is equipped only to
+answer the third question, regarding the effects of a change in driving
+conditions on automobile traffic in general, and even this answer will
+be qualitative only, without good clues to numerical results. It may be
+interesting to get answers to all four questions, but since Question 3
+can be answered with a fraction of the information that would be
+needed to answer the other questions, it would be foolish to burden the
+models designed for Question 3 with irrelevant matters, or to reject
+such models because they cannot do what they are not designed to do.³
+A behavioral theory of automobile driving would probably study the process by which
+the decision to pass a truck is arrived at in a sequence of bickering among the members
+of the family: Mama and Sis trying to argue against taking an unnecessary risk, Sonny
+egging on his Dad to speed up and pass the truck "crawling" ahead of them. Moreover,
+the theory would not be satisfied with "explaining" the decision to overtake but it would

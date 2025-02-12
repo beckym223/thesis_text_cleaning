@@ -1,0 +1,47 @@
+be much more richly endowed with variables and functions for which
+information could be obtained only at considerable effort and with re-
+sults that may or may not be worth the cost of the required research.
+My charge that there is widespread confusion regarding the pur-
+poses of the "theory of the firm" as used in traditional price theory re-
+fers to this: The model of the firm in that theory is not, as so many
+writers believe, designed to serve to explain and predict the behavior
+of real firms; instead, it is designed to explain and predict changes in
+observed prices (quoted, paid, received) as effects of particular
+changes in conditions (wage rates, interest rates, import duties, excise
+taxes, technology, etc.). In this causal connection the firm is only a
+theoretical link, a mental construct helping to explain how one gets
+from the cause to the effect. This is altogether different from ex-
+plaining the behavior of a firm. As the philosopher of science warns,
+we ought not to confuse the explanans with the explanandum.
+Misplaced Concreteness
+To confuse the firm as a theoretical construct with the firm as an
+empirical concept, that is, to confuse a heuristic fiction with a real or-
+ganization like General Motors or Atlantic & Pacific, is to commit the
+"fallacy of misplaced concreteness." This fallacy consists in using the-
+oretic symbols as though they had a direct, observable, concrete mean-
+ing.
+In some fields, investigators are protected from committing the fal-
+lacy, at least with regard to some of their problems, by the fact that a
+search for any empirical counterpart to the theoretical construct seems
+hopeless. Thus, some physicists working on particle theory were able
+* The same statement can be made about the household. The "household" in price theory
+is not an object of study; it serves only as a theoretical link between changes in prices
+and changes in labor services supplied and in consumer goods demanded. The hypothetica!
+reactions of an imaginary decision-maker on the basis of assumed, internally consistent
+preference functions serve as the simplest and heuristically satisfactory explanation of
+empirical relationships between changes in prices and changes in quantities. In other words,
+the household in price theory is not an object of study.
+Behavioral studies of real households are something entirely different. A realistic, be-
+havioral theory of the household might conceivably distinguish the large, children-domi-
+nated household from a simpler, father-dominated one. The decisions in the children-
+dominated household, where mother frequently and father occasionally try to exercise
+some influence, are probably not consistent, since different preference systems are made
+explicit at various times, with varying decibels and gestures deployed to make them pre-
+vail over the preferences of other members of the family.
+One can imagine studies on the behavior of particular households selected at random or
+in structured samples. If the researcher learns that a spoiled brat in a family wants to
+eat nothing but beef and throws a tantrum every time his mother tries to feed him other
+kinds of meat, a reduction in the price of chicken will probably not substantially increase
+the consumption of chicken in this family. Thus, the weight of the child's taste in the
+decision process of the family can explain a low elasticity of its demand for chicken. But
+none of this has much bearing on general price theory.
