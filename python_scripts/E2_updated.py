@@ -71,7 +71,7 @@ def remove_foot_lines(dest_dir:str,commit_changes:bool):
             path = os.path.join(dest_dir,file)
             with open(path,'r') as f:
                 text = f.read()
-            text = re.sub(r"\n\s?\*([^\*]*)$",lambda m: "\n\n"+fr"**\*{m.group(1)}**",text,flags=re.DOTALL, count=1)
+            text = re.sub(r"\n\s?\*([^\*]*)$",lambda m: "\n\n#### Footnotes:\n"+fr"\*{m.group(1)}",text,flags=re.DOTALL, count=1)
             with open(path,'w') as f:
                 f.write(text)
     if commit_changes:
@@ -83,6 +83,7 @@ def handle_line_breaks_across_pages(dir_path: str,commit_changes:bool):
     """
     try:
         files = sorted(os.listdir(dir_path))
+        split_before = "\n####"
         for first, second in it.pairwise(files):
             try:
                 if first.split("-")[:3] != second.split("-")[:3]:
@@ -94,13 +95,13 @@ def handle_line_breaks_across_pages(dir_path: str,commit_changes:bool):
                 with open(path1, 'r') as f1, open(path2, 'r') as f2:
                     text1 = f1.read()
                     text2 = f2.read()
-                split = text1.rsplit("**",2)
+                split = text1.rsplit(split_before,1)
                 text1_temp= split.pop(0).strip()
                 
                 if text1_temp.endswith("-"):
                     first_word = re.match(r"^\S+", text2).group() #type:ignore
                     new_text2 = re.sub(r"^\S+\s", "", text2)
-                    new_text1 = text1_temp[:-1] + first_word + (f"\n\n**{split[0]}**{split[1]}" if len(split)==2 else "")
+                    new_text1 = text1_temp[:-1] + first_word + (f'{split_before}{split[0]}'if split else "")
 
                     with open(path1, 'w') as f1, open(path2, 'w') as f2:
                         f1.write(new_text1.strip())
