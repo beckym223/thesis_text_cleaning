@@ -5,6 +5,7 @@ dollars, for the first time in eighteen years, and with no visible
 signs of panic. These seem long steps toward a revival of a flexible interest-
 rate policy, without which no general monetary control seems
 to me possible.
+
 One source of confusion still in our thinking is the distinction between
 the flexibility of interest rates and the level of rates. Many a
 red herring has been drawn across this trail. When the emphasis was
@@ -23,7 +24,9 @@ the level of rates-the present level may well be the long-run average
 had better not alter rates because any upward shift might be permanent,
 and that to avoid such a shift we should fight inflation entirely
 by other means.
+
 17
+
 Despite, however, some recent steps in the right direction, the problem
 of coordinating debt management and monetary control still remains
 a dilemma. We shall be at best for some time in the pioneering
@@ -32,7 +35,10 @@ policy provide little guidance. To pose the problem as merely one of
 defining spheres of jurisdiction (though that is not unimportant) is to
 
 
+
+
 #### Split:
+
 16 One of Keynes' great virtues was that, despite his propensity to theorize, and to
 project each new theory into universal time and space (which suggests the analogy of
 the detective story writer who becomes absorbed in the internal consistency of his plot,
@@ -43,6 +49,7 @@ for example, in addition to his changed views about the interest rate, his artic
 "National Self-Sufficiency," Yale Review, Vol. XXII, Summer 1933, as contrasted with
 the posthumous article on "The Balance of Payments of the United States," Economic
 Journal, Vol. LVI, June 1946.
+
 17 Including fiscal policy, direct monetary controls, and quite possibly other direct controls.
 There is not space to deal with direct monetary controls, but I do favor their
 permanent retention, as probably the most acceptable form of direct controls, and among

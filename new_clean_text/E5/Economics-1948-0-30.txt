@@ -9,96 +9,187 @@ within one standard error of estimate of the values which we would
 TABLE V. DEGREE OF DEVIATION OF ACTUAL FROM THEORETICAL VALUES OF PRODUCT
 
 
+
+
 #### Split:
+
 IN AMERICAN MANUFACTURING INDUSTRIES 1889-1919
 
 
+
+
+
 #### Split:
+
 Census
 
 
+
+
+
 #### Split:
+
 Year
+
 Number of
+
 Industries
+
 Deviation of Actual Product (P) from Theoretical Product
 (P') in Terms of Standard Errors of Estimate
+
 Number
+
 Per Cent
+
 or Observations-
+
 N
+
 Less than
+
 1-2
+
 Over
+
 Less than
+
 1-2
+
 Over
+
 10
+
 σ
+
 20
+
 10
+
 σ
+
 20
+
 wwwww
+
 1889
+
 363
+
 280
+
 1899
+
 332
+
 250
+
 1904
+
 336
+
 236
+
 1909
+
 258
+
 215
+
 1914
+
 340
+
 243
+
 1919
+
 556
+
 453
+
 Total
+
 2185
+
 1677
+
 421
+
 Averages
+
 -
+
 -
+
 ®☁8%8 ;།
+
 63
+
 70
+
 82
+
 38
+
 83
+
 85
+
 220548 50 1
+
 77.0
+
 17.0
+
 6.0
+
 12
+
 75.0
+
 21.0
+
 4.0
+
 18
+
 70.0
+
 25.0
+
 5.0
+
 83.0
+
 15.0
+
 2.0
+
 14
+
 72.0
+
 24.0
+
 4.0
+
 18
+
 82.0
+
 15.0
+
 3.0
+
 87
+
 76.5
+
 19.5
+
 4.0
+
 theoretically expect under the formula and that in two of the six years,
 over 80 per cent of the cases were within this range.
 Taking the 2185 industry observations in the United States as a
@@ -111,8 +202,11 @@ from the theoretical values by more than two standard errors of estimate
 come to as much as 6 per cent of the total while the average for
 all 2185 observations was 4 per cent as compared with the 5 per cent
 which we would normally expect.²
+
 25
+
 25
+
 In our American studies, the distribution of the actual values about
 Incidentally, instead of 22 cases or 1.0 per cent of the total, which would normally
 expect to deviate by more than three standard errors of estimate, we find only 16 observations

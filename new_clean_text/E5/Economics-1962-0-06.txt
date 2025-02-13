@@ -12,6 +12,7 @@ one time Alfred Marshall was overpraised and quoted at an inflated
 price which left little of consumer's surplus to the buyer, he had to
 pay for this by later being sold at an overdiscount-as will become
 evident.
+
 Since I ought not to leave you waiting for the other shoes to drop,
 I hasten to name the other Frenchmen. One is Cournot, a choice that
 will not seem too surprising. Certainly there is a professional competence
@@ -25,12 +26,15 @@ of the circular flow of economic life. Back in the days before
 Leontief and the resurrection of Karl Marx's Volume 2 model of circular
 reproduction, I thought this last choice even more far-fetched than
 I do today.
+
 II. The Pecking-Order of Analysts
+
 I need not labor the point farther. Within economics, we economists
 rate writers of the past in a quite different order than does the outside
 world. And, as far as economic analysis itself is concerned, the present
 generation of economists gives a quite different ranking than did earlier
 generations of economists.¹
+
 Now I am not really concerned here with the history of pure theory
 and the changing fortunes of different writers. A critic can rightly
 argue that Gide and Rist were writing a history of economic doctrines,
@@ -40,7 +44,10 @@ difference in emphasis. Who would want to deny that Cournot,
 1 There is a great deal of evidence that this is more than the view of the avant garde
 
 
+
+
 #### Split:
+
 and more than a passing fad. One straw in the wind would be to examine the successive
 revisions since 1939 of a book that did not begin with any prejudice in favor of economic
 analytics, Eric Roll, A History of Economic Thought, 3d ed., Englewood Cliffs, N.J., 1956.

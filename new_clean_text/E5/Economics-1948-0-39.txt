@@ -2,12 +2,16 @@ Let us, therefore, compare the actual share which wages and salaries
 formed of the net value product (i.e., W/P) in the various years with
 the values of k. It will also be instructive to compare W/P with the
 ratio of
+
 k
+
 k + j
+
 since the latter is a rough measure of what we would
 approximately expect to occur if the total product were to be divided
 between labor and capital so as to eliminate either net residual profits
 or losses.
+
 This is shown for the United States cross-section studies in Table
 VIII. From an examination of this table, it will be seen that in five
 of the six years there was a very close agreement between the values
@@ -17,12 +21,18 @@ were approximately only one standard error, while in two more (1889
 and 1899), they amounted to two to three standard errors. The biggest
 difference was in 1919 when W/P was less than k by over eight standard
 errors.
+
 27
+
 Taking the average for the six years as a whole, we find that k
 averages .63,
+
 k
+
 k+j
+
 equals .65, and labor's actual share or W/P was
+
 .605. There was, therefore, a close average agreement for the period
 between what we would have theoretically expected the distribution of
 the product to be under conditions of perfect competition and that
@@ -32,10 +42,14 @@ the true values of W/P are probably understated by approximately
 3 percentage points, 28 and that, therefore, the average
 
 
+
+
 #### Split:
+
 "The year 1919 was one in which prices rose with great rapidity. It would be expected,
 therefore, that wages would lag behind in such a period.
 28
+
 * On the basis of Dr. Fabricant's estimate of depreciation totals for manufacturing as
 a whole in 1919, it appears that these amounted to approximately five per cent of the value
 added by manufacturing in that year. If this had been deducted, labor's share would, therefore,
@@ -47,6 +61,7 @@ minus rent and taxes minus cost of contract work) was 22,486 millions of dollars
 comes to a depreciation rate in terms of net value of product of 5.1 per cent. If we deduct
 such estimated charges, we would raise labor's share by almost precisely 3 points (i.e.,
 5995 =
+
 .62). Due to the smaller quantity of capital used per unit of product, in the earlier
 years the additional "loading" required to approximate labor's share would then have been
 somewhat less, and for 1889 and 1899 would probably have been nearer two percentage

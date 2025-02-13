@@ -5,33 +5,62 @@ metals industries, etc. If, therefore, we could compute separate values
 CHART VI-DEVIATIONS OF ACTUAL FROM THEORETICAL VALUES OF LOG P
 
 
+
+
 #### Split:
+
 UNITED STATES MANUFACTURING 1919
 
 
+
+
+
 #### Split:
+
 LOG P'
 
 
+
+
+
 #### Split:
+
 9.0
+
 B'
+
 8.0
+
 7.0
+
 6.0
+
 5.0
+
 80
+
 °
+
 °
+
 ox
+
 4.0
+
 B 4.0
+
 5.0
+
 6.0
+
 7.0
+
 8.0
+
 90
+
 LOG P
+
 of k and j for each of the various main groups of manufacturing and
 compare the actual with the resulting theoretical products, we could
 doubtless find the resulting deviations to be appreciably less than those

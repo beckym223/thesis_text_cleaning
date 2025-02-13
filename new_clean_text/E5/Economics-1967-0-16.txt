@@ -8,7 +8,9 @@ prices. No matter what their compromise will be, it is likely to conform
 with what the simple rule suggests. But if not, so what? Remember
 we are talking about industries with more than a few firms and
 with free entry."
+
 Other Qualifications to Competitive Price Theory
+
 Substitution between income and leisure looks like the strongest
 reason for a qualification in cases in which the change in conditions is
 such that not only the locus of maximum profits is shifted but also the
@@ -41,7 +43,10 @@ The question is not whether the firms of the real world will really max-
 "A great champion of more realistic theories of the firm summed up his reflections on
 
 
+
+
 #### Split:
+
 their implications for general economics with this statement: "We shall not be far wrong
 in concluding ... that the impact of more realistic theories of the firm on static price
 analysis is likely to be small" [6, p. 42].

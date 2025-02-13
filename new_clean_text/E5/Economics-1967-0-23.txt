@@ -22,10 +22,13 @@ to public interest and patriotic causes, free time for leisure
 and recreation, and indications of influence over government, industry,
 and society. This list of variables is, of course, only representative, not
 exhaustive.¹
+
 12
+
 Now what can one do with a utility function of this sort? Will it be
 of much use in telling us what the firm will do with its freedom of action
 if it has to respond to a change in conditions?
+
 The answer will depend partly on a simple condition, namely,
 whether the acceptable trade-off ratios between all the factors contributing
 to total utility remain unchanged, or approximately the same,
@@ -37,12 +40,17 @@ remain unchanged with changes in conditions that increase or decrease
 the total of funds available. Only if the cost of any of the factors
 
 
+
+
 #### Split:
+
 wasteful, that is, contributing nothing, and economizing nothing but managerial effort or
 capability.
+
 This list may be suggestive of the actions that may have to be taken when, after years
 of ease and growth, the firm finds its profits declining or disappearing.
 12
+
 Perhaps there ought to be a place on the list for some gratifications that are more
 stable, less subject to quantitative variation, such as the pleasure of being known for
 honesty and fairness, on the one hand, and for sharpness and shrewdness, on the other,

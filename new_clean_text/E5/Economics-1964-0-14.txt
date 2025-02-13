@@ -1,5 +1,6 @@
 would gather from current statements of many experts, not to mention
 politicians, statesmen, and other laymen.
+
 Let me first discuss the case of the highly developed industrial
 countries. As far as Continental Europe, Japan, and Australia are concerned,
 my optimistic statement will probably not be questioned.
@@ -20,6 +21,7 @@ during the whole interwar period, but for any period of similar length
 GNP figures begin. In the nineteenth century, aggregate GNP grew
 faster, but as far as we can tell per head or per man-hour growth was
 slower than during the postwar period.
+
 The great improvement of the postwar years over earlier periods is,
 of course, the complete absence of deep depressions. This is common
 knowledge and it is, I think, fairly generally agreed now that there are
@@ -28,6 +30,7 @@ past. I share this conviction and shall not repeat the well-known argument.
 But let us recall that this consensus, which now seems to extend
 even to Marxist economists, did not exist or was at least much less
 widespread only ten years ago.
+
 But how about the last five years of somewhat slower growth and
 higher unemployment? The critics of our economic system call it semidepression,
 just about the best one can expect under a capitalist free
@@ -38,9 +41,13 @@ not be enough, that drastic structural reforms (retraining of workers
 on a massive scale, redistribution of income, and others) would be required
 to get the economy back to a high level of employment and to
 keep it there. 13
+
 To me any comparison with the 1930's, quantitative or qualitative,
 seems to be entirely unwarranted, and structural factors explain only
 
 
+
+
 #### Split:
+
 * The most extreme position has been taken by Gunnar Myrdal in [14].

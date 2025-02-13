@@ -14,6 +14,7 @@ some problems to which behavioral theory may be the most helpful approach.
 My impression is that it will be entirely concerned with particular
 firms and perhaps designed to give answers of a normative, that
 is, advisory nature.
+
 It looks as if I had prepared the ground for a love feast: I have
 made polite bows in all directions and have tuned up for a hymn in
 praise of peaceful coexistence of allegedly antagonistic positions. But I
@@ -23,6 +24,7 @@ effective increase in minimum wages upon the employment of labor of
 low productivity can, at our present state of knowledge, be fruitfully
 analyzed with any other model than that of simple marginalism based
 on unadulterated profit maximization.
+
 If I answer in the negative, does this mean that we are back at the
 old quarrel and have not learned anything? It does not mean this.
 Deficiencies in marginal analysis have been shown and recognized;
@@ -36,10 +38,15 @@ of the firm, according to their proponents, do not apply. On this
 narrow issue, therefore, the old-type marginalist cannot retreat.
 
 
+
+
 #### Split:
+
 18 As a matter of fact, it will also depend on the research techniques which the appointed
 analyst has learned to master; we can eliminate this bias by assuming an ideal analyst
 equally adept in all techniques.
+
 REFERENCES
+
 1. C. I. BARNARD, Functions of the Executive. Cambridge, Mass. 1938.
 2. W. J. BAUMOL, Business Behavior, Value and Growth. New York 1959.

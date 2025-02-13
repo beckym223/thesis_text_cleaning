@@ -16,6 +16,7 @@ peacetime production, monetary policy can ease the transition by a
 higher rate of monetary growth than would otherwise be desirable--
 though experience is not very encouraging that it can do so without
 going too far.
+
 I have put this point last, and stated it in qualified terms-as referring
 to major disturbances-because I believe that the potentiality of
 monetary policy in offsetting other forces making for instability is far
@@ -29,13 +30,16 @@ area particularly the best is likely to be the enemy of the good. Experience
 suggests that the path of wisdom is to use monetary policy explicitly
 to offset other disturbances only when they offer a "clear and present
 danger."
+
 III. How Should Monetary Policy Be Conducted?
+
 How should monetary policy be conducted to make the contribution
 to our goals that it is capable of making? This is clearly not the occasion
 for presenting a detailed "Program for Monetary Stability"-to
 use the title of a book in which I tried to do so [3]. I shall restrict
 myself here to two major requirements for monetary policy that follow
 fairly directly from the preceding discussion.
+
 The first requirement is that the monetary authority should guide itself
 by magnitudes that it can control, not by ones that it cannot control.
 If, as the authority has often done, it takes interest rates or the

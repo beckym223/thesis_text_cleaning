@@ -13,6 +13,7 @@ measures being taken in different countries with different degrees
 of vigor and success, it would be very surprising indeed if strains in
 the international payments system did not develop from time to time
 in different places.
+
 The extreme reluctance to change any exchange rate and the stubborn
 rejection of floating rates not only for reserve currencies, which
 is understandable, but also for nonreserve currencies throw a very
@@ -26,6 +27,7 @@ of stable exchange rates, we can only hope that sufficient discipline will
 in fact be forthcoming to bring about the necessary adjustments
 smoothly and speedily without causing severe restrictions of trade or
 serious unemployment in the process.
+
 I suppose I have to mention international liquidity. I can only say
 that it does not strike me as a problem of major importance or difficulty.
 The policy-makers have a great number of plans to choose from
@@ -37,10 +39,14 @@ lavishly on that issue were diverted to the basic and much more difficult
 problems of internal price and wage restraints and adjustments.
 
 
+
+
 #### Split:
+
 24 Another acute danger, which cannot be discussed here, is regimentation, contraction,
 and distortion of trade through the numerous international price-support schemes of important
 commodities now under active consideration.
+
 25 I would agree that a floating rate system, too, requires price and wage discipline for
 successful operation. But I would argue that the fixed rate system calls for much sterner
 discipline.

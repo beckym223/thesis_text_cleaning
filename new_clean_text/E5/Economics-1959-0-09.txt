@@ -5,6 +5,7 @@ had permeated the whole fabric of eighteenth-century English society.²
 It has been said that no economist has encompassed his age so thoroughly
 as did Adam Smith. It is perhaps equally true that no economist
 was so encompassed by his age as was Adam Smith.
+
 Nothing pleases the educated mind so much as the systematic,
 philosophical expression of ideas with which it is familiar and which
 it deems good, by one whose eloquence, erudition, and profundity it can
@@ -24,6 +25,7 @@ belated recognition of the fact that England's industry and manufacturing
 were the world's best and that the interests of English businessmen
 demanded free access to markets and raw materials.
 II. The Organizational Revolution
+
 But economic individualism, the philosophical product of individualistic
 capitalism, had no sooner conquered men's minds than the
 great transformation was ushering in the next sequence in the inexorable
@@ -39,7 +41,10 @@ of twentieth-century social and intellectual life-business, sports, re-
 "Throughout the eighteenth century individualism also found in the American colonies
 
 
+
+
 #### Split:
+
 an environment peculiarly suited to its development. Under the leveling influence of the
 frontier, the Western ideals of individual freedom and equality flourished. The Declaration
 of Independence may appropriately be regarded as a political counterpart of The Wealth

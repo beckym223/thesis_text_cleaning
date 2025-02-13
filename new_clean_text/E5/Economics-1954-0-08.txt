@@ -17,6 +17,7 @@ away from the position that monopoly and quasimonopoly in its various
 forms and manifestations, and imperfections and impurities in competition,
 are perhaps as great or even of greater importance in the economy
 than is competition itself.
+
 The reason for this shift has not been so much any change in what
 economists consider to be the actual institutional character of our
 system. I doubt whether the necessarily incomplete data which we have
@@ -34,6 +35,7 @@ Friedman, Slichter and others, who hold that our economy is still in the
 main competitive and that an economic theory which has developed on
 this assumption need not be substantially altered to fit reasonably
 effectively the actually existing system.
+
 It is not quite clear whether our system is supposed still to be characteristically
 competitive because our antitrust and related legislation
 and its administration has in fact been quite efficient in maintaining

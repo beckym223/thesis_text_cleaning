@@ -10,6 +10,7 @@ have done [3]. Let us not forget that Western economists during the
 early decades of industrialization and even in the time of Marshall and
 Pigou often connected additional food for workers with increases in
 labor productivity.
+
 Let me now pass on to three major perplexing questions closely connected
 with the riddle of economic growth. First, consider the longperiod
 behavior of the capital-income ratio. We were taught that a country
@@ -37,10 +38,13 @@ maintain roughly a constant ratio between all capital and income, the
 decline in the estimated capital-income ratio³ is simply a signal that
 human capital has been increasing relatively not only to conventional
 capital but also to income.
+
 The bumper crop of estimates that show national income increasI
 leave aside here the difficulties inherent in identifying and measuring both the noning
 
+
 #### Split:
+
 human capital and the income entering into estimates of this ratio. There are index number
 and aggregation problems aplenty, and not all improvements in the quality of this capital
 have been accounted for, as I shall note later.

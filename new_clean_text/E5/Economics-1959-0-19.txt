@@ -1,5 +1,6 @@
 welfare of society. The late chairman of the Johns-Manville Corporation
 put it this way:
+
 In the evolution of a complex industrial society the social responsibility of
 management has broadened correspondingly. Management no longer represents,
 as it once did, merely the single interest of ownership; increasingly
@@ -8,6 +9,7 @@ between four basic interlocking groups, a proper balance of equity. Today
 the executive head of every business is accountable not only to his shareholders,
 but to the members of his working organization, to his customers,
 and to the public [9, p. 49].
+
 Fortune, the magazine of big business, tells us that "one of the
 most obvious yet least recognized facts of our time is that the large
 corporation is becoming one of free society's major instruments of
@@ -38,7 +40,11 @@ press through which they try to shape attitudes, curb or create
 6
 
 
+
+
+
 #### Split:
+
 * This point of view represents a significant contrast with Adam Smith's and suggests
 how far current thinking on economic matters has been affected by institutional arrangements.
 Smith said, "It is not from the benevolence of the butcher, the brewer, or the

@@ -1,10 +1,12 @@
 I
+
 It is well known that the original name for what is now generally
 called "economics" was “political economy." Most of the treatises
 written by the classical economists were books which they entitled
 Political Economy. At its first annual meeting in 1886, the American
 Economic Association adopted a four-point "platform," the first two
 and the last paragraphs of which read:"
+
 1. We regard the state as an agency whose positive assistance is one
 of the indispensable conditions of human progress.
 2. We believe that political economy as a science is still at an early
@@ -12,25 +14,36 @@ stage of its development. While we appreciate the work of former
 economists, we look not so much to speculation as to the historical
 and statistical study of actual conditions of economic life for the satisfactory
 accomplishment of that development.
+
 4. In the study of industrial and commercial policy we take no partisan
 attitude. We believe in a progressive development of economic conditions,
 which must be met by a corresponding development of
 legislative policy.
+
 And it also is noteworthy that the first publication of the American
 Economic Association was Henry C. Adams' essay on The Relation of
 the State to Industrial Action²-to my way of thinking still one of the
 soundest treatments of the subject.
 
 
-#### Split:
+
+
 
 #### Split:
+
+
+
+#### Split:
+
+
 
 * Presidential address delivered at the Sixty-ninth Annual Meeting of the American Economic
 Association, Cleveland, Ohio, December 28, 1956.
+
 1 For a more complete account of this early chapter in the history of the American Economic
 Association, see Joseph Dorfman, The Economic Mind in American Civilization (New York,
 1949), Vol. III, pp. 205–12.
+
 2 Publications of the American Economic Association, Jan. 1887, I, 465-549; reprinted by the
 Columbia University Press, 1954, in Relation of the State to Industrial Action and Economics and
 Jurisprudence (edited by Joseph Dorfman).

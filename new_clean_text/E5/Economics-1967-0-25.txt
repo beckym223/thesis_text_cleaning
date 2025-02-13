@@ -4,6 +4,7 @@ among these goals that we accept is, admittedly, a somewhat
 "subjective" standard of selection, but perfectly in line with the standard
 accepted in all scientific fields. Concessions to any one of these
 desiderata must be at the expense of the others.
+
 Let us list some of the alternative maximanda that have been suggested
 and are available for our choice: Total quasi-rents over a short
 period of time (But how short? This is good only for a freshman
@@ -32,13 +33,17 @@ long run if it completely disregarded the interests of the stockholders.
 Hence, all maximanda are subject to the constraint of some minimum
 benefits to the owners of the business in the form of dividends, capital
 gains, or both."
+
 Subjective Information and the Charge of Tautology
 I have a few remaining tasks, and one of them is to lay a ghost, one
 that has long played tricks on economists and led them astray. He has
 13 The four "managerial" variables included in the list-sales, growth of sales, expenses for
 
 
+
+
 #### Split:
+
 staff, and emoluments to the management-may well be the most important deviations from
 profit maximization, although I may easily be persuaded of the existence of other “extravagances"
 of management. Among the managements of our large corporations there are so

@@ -19,6 +19,7 @@ the empirical evidence that we have. Can we assume that in the earlier
 periods the internal distribution for sector B was not more unequal than
 for sector A, despite the more recent indications that urban income distribution
 is more unequal than the rural?
+
 There is, obviously, room for conjecture. It seems most plausible
 to assume that in earlier periods of industrialization, even when the
 nonagricultural population was still relatively small in the total, its income
@@ -33,6 +34,7 @@ top-income groups. The urban income inequalities might be assumed to
 be far wider than those for the agricultural population which was organized
 in relatively small individual enterprises (large-scale units were
 rarer then than now).
+
 If we grant the assumption of wider inequality of distribution in sector
 B, the shares of the lower-income brackets should have shown a
 downward trend. Yet the earlier summary of empirical evidence indicates

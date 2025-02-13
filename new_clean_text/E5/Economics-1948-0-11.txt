@@ -12,6 +12,7 @@ industries will, therefore, be affected in these cases not only by
 the quantities produced but also by the respective demand curves for
 the products. Changes in each of these variables will affect the total
 exchange value produced.
+
 Some critics will, of course, object that this second type of study,
 since it includes both quantities and prices, does not measure production
 at all and is in no sense a test of marginal productivity theory. It
@@ -27,6 +28,7 @@ incremental value productivity is an essential part of economic theory
 and is worthy of consideration. There is no reason why a production
 function which deals with it should not also be worthy of consideration
 and treatment.
+
 Although interrupted by the war, we now have completed six crosssection
 or inter-industry studies for American manufacturing, namely,
 for the years 1889, 1899, 1904, 1909, 1914, and 1919; four crosssection

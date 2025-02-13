@@ -1,6 +1,7 @@
 Europe inflation was stopped abruptly in a series of successful stabilization
 efforts between 1922 and 1925 without any immediate depressive
 effects.
+
 By the middle of the 1920's the world was back on what looked
 like a normal course with most currencies again convertible. It is true,
 tariffs were higher and less stable than before and had a tendency to
@@ -11,6 +12,7 @@ like 30 per cent above the prewar level. The effective exclusion
 of Russia from the world economy, although an event of tremendous
 political consequence, had a very limited economic impact on the world.
 economy during the interwar period.¹
+
 Then came the Great Depression and the picture changed completely.
 The few remaining free trade countries, Great Britain¹a first, switched
 abruptly to high protection. Tariffs everywhere were raised rapidly and
@@ -23,6 +25,7 @@ The quantum of trade in manufactured articles declined much faster
 than that of trade in primary products, but the value of the latter
 fell more, which reflects the extremely sharp deterioration of the terms
 of trade for the exporters of primary products.
+
 In 1938 the quantum of trade of primary products was again 16 per
 cent above the 1913 level. While the world index of manufacturing
 activity in 1936-38 was 85 per cent above the 1913 level, the quantum
@@ -34,7 +37,10 @@ to express my views on the basic causes of the exceptional severity and
 length of the Great Depression. At the time when it happened most
 
 
+
+
 #### Split:
+
 "It is interesting that only at the lowest point of the depression in 1931-32 did trade with
 Russia temporarily assume a somewhat greater importance for some European countries.
 ¹a It is true that during and immediately after World War I Great Britain applied a stiff
@@ -45,4 +51,5 @@ by Philip Snowden, Chancellor of the Exchequer in the first MacDonald ministry i
 measure arbitrary and imprecise. But the statements in the text could be restated in terms
 of GNP, industrial production, and trade of the major countries, concepts that are less objectionable
 than "world production,” etc.
+
 2

@@ -18,18 +18,24 @@ one, but with all its theories. Is it not time ... to forget the glittering
 prize of achieving the theory of the trade cycle, and concentrate upon
 the systematic and pedestrian attempt to discover how the economy
 works and grows in its parts and as a whole?"¹³
+
 We do not escape the limitations of the systematizing process when
 we embark on theories of long-run growth and change, as Schumpeter
 and Marx have done. This, however, does seem to me the kind of
 theorizing we stand most in need of, and I regret that it would go far
 beyond the limits of my paper to discuss it.
+
 I come back then to the question with which I began my paper. Are
 we, through our economic policies, making headway toward doing the
 "T. W. Swan, "Progress Report on the Trade Cycle," Econ. Record, Vol. XXVI (Dec.,
 
 
+
+
 #### Split:
+
 1950), pp. 186-200.
+
 12 I pause over this sentence. Possibly it is true, but in business-cycle theorizing so much
 depends upon selection and emphasis that theories can even be misleading. Recognition of
 such defects then induces some other theorist to present a counter-theory, and so the
@@ -43,6 +49,7 @@ Such work performs an invaluable service for the graduate students, whose succes
 in their doctoral examinations turns so much upon the compendiousness of their knowledge
 of the literature. (I had wanted to say "compendiosity," but cannot find it in the
 dictionary.)
+
 There is, at the opposite extreme, the all-inclusive type of business-cycle theory (for
 which Swan nominates Kaldor's theory) into which almost any particular theory can be
 fitted; but this sort of theory is apt to be so generalized as to be merely truistic.

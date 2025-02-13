@@ -1,6 +1,7 @@
 And the merger movement of the 1950's has steadily progressed in
 the face of the Celler-Kefauver amendment to Section 7 of the Clayton
 Act, which was designed to stop it.
+
 That the combination movement has proceeded apace while an
 articulate minority has tried to stem it reflects, I believe, the wholehearted
 acceptance of the modern corporation by contemporary society.
@@ -8,6 +9,7 @@ In manufacturing, mining, wholesaling, indeed in the whole range of
 economic activities loosely designated by the term industry, corporate
 enterprise has replaced the individual entrepreneur as a characteristic
 business institution.*
+
 The several combination movements have resulted from complex
 causes, but they have all represented in greater or less degree a quest
 by business for security. Business firms have sought through mergers
@@ -16,11 +18,13 @@ combination movement has been paralleled by the growth of powerful
 labor unions that, whatever their incidental benefit to individual workers,
 have had as their primary goal the sale of labor under noncompetitive
 conditions.
+
 The use of the organization as an instrument for carrying on activity
 has not been confined to business and labor. To an impressive extent it
 has supplanted the individual in the educational and cultural areas
 of American life: science, creative scholarship, sports, philanthropy,
 religion, civil liberties, and the like.
+
 The growth of knowledge is essentially a social process in which
 each generation starts with the accumulated wisdom of previous ages.
 Although a single generation's contribution may bulk large in comparison
@@ -37,7 +41,10 @@ that the rewards of technological improvement shall go to
 the individual inventor. It makes no provision for teamwork or group
 
 
+
+
 #### Split:
+
 *In emphasizing the role of the modern corporation as an organizational force in
 American industry and the extent to which it has supplanted the individual entrepreneur,
 I am not unmindful that the corporation has frequently been the means by which

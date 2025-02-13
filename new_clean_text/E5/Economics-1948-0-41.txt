@@ -1,139 +1,273 @@
 TABLE IX.-A COMPARISON BY YEARS OF THE VALUES OF THE EXPONENTS OF LABOR AND
 
 
+
+
 #### Split:
+
 CAPITAL IN THE PRODUCTION FUNCTION FOR THE BRITISH DOMINIONS (k AND j)
 WITH THE UNWEIGHTED AVERAGE OF THE SHARES OF THE NET VALUE
 PRODUCT RECEIVED BY LABOR (W/P)
+
 Dominion and Year
+
 N
+
 k
+
 I. Australian time series
+
 Victoria
+
 1907-1929
+
 New Zealand (Brown)
+
 (1915-16)-(1934-35)
+
 New Zealand (Williams)
+
 1923-1940b
+
 II. Cross-section studies
+
 Australia
+
 1912
+
 Australia
+
 1922-23
+
 Australia
+
 1926-27
+
 Australia
+
 1934-35
+
 Australia
+
 1936-37
+
 Victoria
+
 1910-11
+
 Victoria
+
 1923-24
+
 Victoria
+
 1927-28
+
 New South Wales
+
 1933-34
+
 Average All Commonwealth
+
 and State Studies
+
 Average Commonwealth
+
 Studies Only
+
 New Zealand
+
 1938-39
+
 Canada
+
 1923
+
 Canada
+
 1927
+
 Canada
+
 1935
+
 Canada
+
 1937
+
 ·
+
 k
+
 k+j
+
 Differences between W/P
+
 and k in terms of
+
 standard error
+
 32
+
 W
+
 W
+
 σκ
+
 W
+
 P k+j
+
 σκ
+
 22
+
 .84
+
 .23 .79
+
 18 .42
+
 18 .54
+
 .49 .46 .52a +0-1
+
 .54
+
 +0-1
+
 85 .52
+
 .47 .53 .54
+
 +0-1
+
 +0-1
+
 87
+
 .53 .49 .52 .54
+
 +0-1
+
 +0-1
+
 95
+
 85
+
 .59 .34 .63 .57
+
 -0-1
+
 -1-2
+
 138
+
 87
+
 34
+
 38
+
 ཙུ ¥ € 8
+
 .64.36.64.61
+
 +0-1
+
 -0-1
+
 .49 .49 .50 .51
+
 +0-1
+
 +0-1
+
 .74 .25 .75 .64
+
 -1-2
+
 -1-2
+
 .62 .31 .67 .65
+
 +0-1
+
 -0-1
+
 125
+
 1585
+
 35
+
 .59 .27
+
 .69 .68
+
 +1-2
+
 -0-1
+
 .65 .34 .66 .51
+
 -3-4
+
 -3-4
+
 .60 .37 .62 .58
+
 .55 .43 .56 .55
+
 61 .46 .51 .47
+
 7.57
+
 167
+
 .48 .48
+
 163 .46 .52
+
 165 .50 .52
+
 .50
+
 0.50
+
 +0-1
+
 0
+
 .47 .48
+
 +0-1
+
 +0-1
+
 .49 .40
+
 -2-3
+
 -2-3
+
 164
+
 77
+
 .43 .58 .43 .52 +2-3
+
 +2-3
+
 .47
+
 .52 .47 .48
+
 Average Canadian Studies
+
 a For the years 1924-1935 only.
+
 b In the Williams study, the values of k were computed using formula (1). All other values
 were computed under formula (2).

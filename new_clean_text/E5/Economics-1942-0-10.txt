@@ -5,7 +5,9 @@ throughout the twenties. 16 Too much attention has been paid by
 recent economic theory to mere changes in the amount of thriftiness and
 too little to changes in the kind of thriftiness and to shifts in the propensity
 to invest. 17
+
 VII
+
 The effect of the drop in the rate of population growth upon investment
 opportunity might seem to depend in the main upon how rapidly
 the marginal return on capital falls as capital per worker increases.
@@ -28,10 +30,15 @@ the movement of interest rates and the marginal physical productivity
 of capital suggests in how great measure the marginal return
 
 
+
+
 #### Split:
+
 18
+
 sufficient to provide plant and equipment necessary to enable the increment of workers to
 earn the prevailing scale of wages.
+
 16 Colin Clark, National Income and Outlay, p. 185.
 "Liquidity preference appears to be sensitive to changes in investment opportunity. An
 improvement in the marginal efficiency of capital not only produces more investment under
@@ -43,8 +50,10 @@ a further rise in liquidity preference. Because the marginal efficiency of capit
 schedule of liquidity preference are not independent variables, a change in either one of them
 is more important in determining the capacity of the economy to expand than changes
 in the consumption function.
+
 18 P. H. Douglas, The Theory of Wages, pp. 121, 125, 130, and 146.
 19
+
 'Macaulay's index of the adjusted yield of railroad bonds rose from 3.182 in 1900 to
 5.168 in 1920. F. R. Macaulay, The Movements of Interest Rates, Bond Yields and Stock
 Prices in the United States Since 1856, pp. A 152, A 157.

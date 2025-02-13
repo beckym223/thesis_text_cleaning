@@ -2,12 +2,14 @@ but I shall exercise great forbearance and confine myself to a selection.
 Everyone may join in the game and fill in what I leave out. I shall first
 state the context, then delimit the concept, and finally add a few words
 of explanation.
+
 1. In the theory of competitive prices and allocation, the firm is an
 imaginary reactor to environmental changes. By "imaginary" I mean
 to stress that this a pure construct for which there need not exist an
 empirical counterpart. By “reactor" I mean to deny that this robot or
 puppet can ever have a will of his own: he is the theorist's creature,
 programmed to respond in the predetermined way.
+
 2. In the theory of innovation and growth, the firm is an imaginary
 or a typical reactor or initiator. Depending on which theory one has in
 mind, we see that several combinations are possible. In the theory of
@@ -21,6 +23,7 @@ are also theories of "induced invention"-assuming latent inventiveness
 (though an invention can never be a mere reaction)—and theories
 of "induced growth," employing the construct of the imaginary reactor.
 
+
 3. In welfare economics, the firm is an imaginary or a typical reactor
 or initiator with accurate knowledge of his opportunities. Depending
 on the proposition in question, all combinations are again possible,
@@ -32,13 +35,16 @@ price, input, and output will move in response to a change, but also
 whether this move will increase or reduce welfare. For such an exercise
 it is no longer irrelevant whether the subjective information of the
 firms is correct or false.
+
 4. In the theory of oligopoly and monopoly, the firm is a typical
 reactor and initiator in a small (or zero) interacting group. I have explained
 earlier why a theory of oligopoly with nothing but imaginary
 reactors may not be widely applicable.
+
 5. In the theory of organization (or bureaucracy), the firm is a typical
 cooperative system with authoritative coordination. I have accepted
 this formulation from one of the authorities [28, p. 187] and
 thus may disclaim responsibility for it.
+
 6. In management science (or the art of business management), the
 firm is a functional information system and decision-making system

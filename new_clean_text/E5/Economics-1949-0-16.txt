@@ -12,6 +12,7 @@ the inevitability of its emergence, about the social costs involved in
 destroying existing structures, about the futility of the hallowed ideal
 of pure competition- or in fact ever elicits any response other than
 most obviously sincere indignation.
+
 Even as thus extended, our examples, while illustrating well enough
 what ideology is, are quite inadequate to give us an idea of the range of
 its influence. The influence shows nowhere more strongly than in
@@ -32,13 +33,17 @@ time, we could everywhere observe the same phenomenon: that ideologies
 crystallize, that they become creeds which for the time being are
 impervious to argument; that they find defenders whose very souls
 go into the fight for them.
+
 There is little comfort in postulating, as has been done sometimes,
 the existence of detached minds that are immune to ideological bias
 and ex hypothesi able to overcome it. Such minds may actually exist
 "I am not aware of any instances in which the rules of inference themselves have been
 
 
+
+
 #### Split:
+
 ideologically distorted. All the more frequent are instances in which the rigor of tests
 is relaxed or tightened according to the ideological appeal of the proposition under discussion.
 Since acceptance or rejection of a given statistical result always involves some

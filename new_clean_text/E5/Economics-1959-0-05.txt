@@ -2,6 +2,7 @@ violate the laws of justice, is left perfectly free to pursue his own interest
 his own way, and to bring both his industry and capital into competition
 with those of any other man, or order of men [26, p. 651].¹
 3
+
 These are doctrines with which, of course, we are all familiar. What
 we sometimes overlook is that Smith in his exposition of economic
 liberalism was the spokesman of an age that needed little persuasion to
@@ -27,6 +28,7 @@ assumed responsibility for the conduct of economic affairs. Smith's interest
 in economic problems may well have stemmed from these associations,
 and his ideas about these problems no doubt were shaped
 in part by them.
+
 No society is static. As E. Lipson, the economic historian, has said:
 "Every social system contains within itself the seeds of its own decay;
 it is always dissolving and reforming in an infinite sequence" [18,
@@ -42,7 +44,11 @@ gave it a push, but economic forces propelled it as no philosopher,
 however potent his pen, could have done.
 
 
+
+
+
 #### Split:
+
 * Smith, of course, was wise and humane enough to recognize the limitations of competition
 as a means of promoting the general welfare and to assign important functions
 to the state.

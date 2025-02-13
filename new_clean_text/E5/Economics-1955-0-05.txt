@@ -1,5 +1,6 @@
 groups that, judged by their secular levels, migrate upward or downward
 on the income scale.
+
 Even if we had data to approximate the income structure just outlined,
 the broad question posed at the start-how income inequality
 changes in the process of a country's economic growth-could be
@@ -29,6 +30,7 @@ distressingly vague; and most important of all, it propels us
 toward a deliberate construction of testable bridges between the available
 data and the income structure that is the real focus of our interest.
 I. Trends in Income Inequality
+
 Forewarned of the difficulties, we turn now to the available data.
 These data, even when relating to complete populations, invariably
 classify units by income for a given year. From our standpoint, this is

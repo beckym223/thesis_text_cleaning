@@ -4,6 +4,7 @@ a Keynes to have been minor revisions compared to the vast implications
 of the growing insistence upon quantification. I am convinced
 that economics is finally at the threshold of its golden age-nay, we
 already have one foot through the door.
+
 The revolution in our thinking has begun to reach public policy, and
 soon it will make irresistible demands upon us. It will become inconceivable
 that the margin requirements on securities markets will be
@@ -24,6 +25,7 @@ when it is backed by successful examples. I have no reason to believe
 that you left your tough-mindedness at home tonight, and I shall respect
 it. I assert, not that we should make the studies I wish for, but
 that no one can delay their coming.
+
 I would gloat for one final moment over the pleasant prospects of
 our discipline. That we are good theorists is not open to dispute: for
 200 years our analytical system has been growing in precision, clarity,
@@ -39,11 +41,18 @@ society whose opinions on economic policy shall prevail.
 REFERENCES
 
 
+
+
+
 #### Split:
+
 1. W. S. JEVONS, Methods of Social Reform. London 1883.
 2.
+
 ,
+
 The State in Relation to Labour. London 1882.
+
 3. MOUNTIFORT LONGFIELD, Lectures on Political Economy (1834).
 4. OLIVER MACDONAGH, A Pattern of Government Growth, 1800-60. London
 1961.

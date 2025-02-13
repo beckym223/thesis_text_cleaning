@@ -1,6 +1,7 @@
 profits slumped. In the end, the aggregate of personal incomes,
 after taxes, declined less than 1 per cent and the decline was
 over before the recession ended.
+
 Although the details have varied from one case to the next, a marked
 divergence between the movements of personal income and production
 has occurred in each of the postwar recessions. Indeed, during 1953-54
@@ -9,7 +10,9 @@ continuing to increase. This unique achievement was due to the tax
 reduction that became effective soon after the onset of recession as well
 as to the structural changes that have reduced the dependence of personal
 income on the short-run movements of production.
+
 II
+
 When we turn from personal income to employment, we find that the
 imprint of the business cycle is still strong. During each recession since
 1948, unemployment reached a level which, while decidedly low in comparison
@@ -18,6 +21,7 @@ concern. But although the fluctuations of employment have continued
 to synchronize closely with the movements of production, the
 relation between the two has been changing in ways which favor greater
 stability of employment in the future.
+
 As the industrialization of our economy proceeded during the nineteenth
 century, an increasing part of the population became exposed to
 the hazards of the business cycle. Manufacturing, mining, construction,
@@ -37,6 +41,7 @@ shrunk drastically, and this shrinkage was offset only in part by the
 relative gain of other stable sources of employment. Consequently, the
 proportion of employees in the cyclical industries kept rising, decade
 after decade, and reached 36 per cent in 1919.
+
 Clearly, the broad effect of economic evolution until about 1920 was
 to increase the concentration of jobs in the cyclically volatile industries,
 and this was a major force tending to intensify declines of employment

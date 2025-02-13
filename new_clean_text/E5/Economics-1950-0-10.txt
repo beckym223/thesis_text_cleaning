@@ -7,7 +7,9 @@ ends. Alternatively, it might be said that with respect to these two
 optima the political choices have for their aim the improved operation of
 individual economic choice. These characteristics fade away progressively
 as we proceed to two further concepts of optimum.
+
 4
+
 I refer first to the "optimum propensity to save," a magnitude implicit
 in the Keynesian general equilibrium theory, first made explicit by
 Oscar Lange. The idea of an optimum amount of saving is a part of the
@@ -32,6 +34,7 @@ the less well-to-do, but also that these income classes account for the
 largest part of savings. With them the motives thus far mentioned are
 exceptional and the one overwhelmingly important purpose is provision
 for the future.
+
 Now an economic optimum which runs in terms of limiting this
 activity is indeed a paradoxical kind of optimum. Providing security
 against the rainy day and old age from the fruits of one's own productive
@@ -39,9 +42,13 @@ activity may be an old-fashioned virtue, but it nevertheless provides
 substantial net social saving. This does not imply opposition to
 
 
+
+
 #### Split:
+
 * Oscar Lange, "The Rate of Interest and the Optimum Propensity to Consume,”
 Economica (Feb., 1938), pp. 12-32.
+
 5 Actually, Lange's argument results in optimum investment and not optimum saving.
 But for the present analysis, I accept the author's intended position and the usual interpretation
 of his argument.

@@ -1,113 +1,210 @@
 TABLE I. AGRICULTURE'S SHARE IN THE LABOR FORCE, 1910 TO 1955.
 Total Civilian
+
 Labor Forcea
+
 (thousands)
+
 Employed
+
 Mainly in
+
 Agriculture³
+
 (thousands)
+
 Percentage of
+
 Civilian
+
 Labor Force
+
 Employed
+
 Mainly in
+
 Agriculture
+
 3
+
 Total Farm
+
 Employment
+
 Nonfarm
+
 Labor Forceb
+
 (thousands)
+
 (thousands)
+
 (1)
+
 (2)
+
 (3)
+
 (4)
+
 (5)
+
 1910
+
 37,371
+
 11,592
+
 13,555
+
 31.02
+
 25,779
+
 1920
+
 42,434
+
 11,449
+
 13,482
+
 26.98
+
 30,985
+
 1930
+
 48,595
+
 10,161
+
 12,497
+
 20.91
+
 38,434
+
 1940
+
 55,640
+
 9,540
+
 10,979
+
 17.15
+
 46,100
+
 1950
+
 63,099
+
 7,507
+
 9,342
+
 11.90
+
 55,592
+
 1951
+
 62,884
+
 7,054
+
 8,985
+
 11.22
+
 55,830
+
 1952
+
 62,996
+
 6,805
+
 8,669
+
 10.81
+
 56,191
+
 1953
+
 63,815
+
 6,562
+
 8,580
+
 10.28
+
 57,253
+
 1954
+
 64,468
+
 6,504
+
 8,451
+
 10.09
+
 57,964
+
 1955
+
 65,411°
+
 6,583
+
 10.06
+
 58,828
+
 Source: Columns 1 and 2 from Statistical Abstract of the U.S.: 1955, Tables 218 and 220,
 and column 3 from the Farm Income Situation, U.S.D.A., Release October 31, 1955, Table 8.
 a The data for 1910, 1920 and 1930 are based on the gainful worker concept. Data for 1910
 and 1920 include workers 10 to 14 years old. In 1930, there were 310,000 workers under 14
 years old in agriculture.
+
 b Difference between the first two columns.
+
 с
+
 ⚫ Preliminary.
+
 workers were dammed up back on the farms because there were few
 
 
+
+
 #### Split:
+
 jobs open to them in the cities.
 
 
+
+
+
 #### Split:
+
 In terms of total farm employment considered by itself, the decline
 from 1940 to 1950 was 1.5 per cent a year compared with 0.7 per cent in
 1920-1930. In the three years from 1950 to 1953, it was at the rate of
 2.7 per cent a year. The 1955 index of farm labor employment is 61
 as compared with 62 in 1954 with 1910-14 as 100.
+
 A hundred years earlier (1850), nearly two-thirds (64 per cent) of
 the U.S. labor force was working on its farms. The nonfarm labor
 force multiplied 20 times during the century; the farm labor force
 multiplied 2.4 times to its peak in 1910 and then fell more than onethird.
+
 
 Closely related to the foregoing is the percentage of the nation's
 population living on farms-13.5 per cent in 1955 as compared with

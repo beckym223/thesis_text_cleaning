@@ -11,6 +11,7 @@ a great limitation of parity prices as a standard by which to measure
 farm prosperity and well-being-they leave out entirely the contribution
 to income of increases in output per worker and per farm.
 Per Capita
+
 A full comparison of incomes and well-being, however, requires that
 farm and nonfarm incomes be put on a per capita basis in terms of
 the populations respectively supported by them, and also that any income
@@ -26,11 +27,13 @@ and the same is done for nonfarm income using cost-of-living index
 numbers, the comparison becomes 1.5 farm and 1.4 nonfarm. It will
 be noted that the per capita farm population income has declined each
 year but one since the 1951 peak.
+
 In the period from 1934 to 1954, the income from other than farming
 has ranged mostly between a third and fourth of the total income
 of the farm population. In contrast, the income of the nonfarm population
 from agricultural sources-rents, mortgage interest, etc.-ranged
 between 1 and 2 per cent of its total.
+
 For the whole period from 1910 to 1954, total income of the farm
 population has increased 2.4 times in constant purchasing power dollars,
 and that of the nonfarm population something less than 2.0 times,

@@ -34,7 +34,9 @@ necessarily low. The Horvat [8] formulation of the optimum rate of
 investment which treats knowledge and skill as a critical investment
 variable in determining the rate of economic growth is both relevant
 and important.
+
 III. Scope and Substance of These Investments
+
 What are human investments? Can they be distinguished from consumption?
 Is it at all feasible to identify and measure them? What do
 they contribute to income? Granted that they seem amorphous compared

@@ -12,6 +12,7 @@ satisfactorily modeled (for example, in a simulated computer program)
 predict decisions in other firms. I do not recall, moreover, that the behavior
 patterns in these cases were shown to be inconsistent with the
 postulate of profit maximization.
+
 Under these circumstances, retreat to simpler, less realistic models
 of firms in oligopoly and monopoly positions is indicated. The first approach
 is to apply the polypolistic model, in full awareness that the actual
@@ -28,10 +29,14 @@ provided he finds it worth while. It depends on the research interests
 and on the problems under examination how much effort one wishes to
 invest in behavioral research where the findings hold little promise of
 yielding generalizations of wide applicability.
+
 There are, however, some simple models of oligopolistic behavior.
 
 
+
+
 #### Split:
+
 tinuing shifts of position of competing oligopolists, and we have to turn to "the observation
 of facts," which would show us the variety of possibilities [29, pp. 601-2].
 Schumpeter, in 1928, had this to say about the dichotomy: "We have much less reason
@@ -40,6 +45,7 @@ of perfect competition; for competing producers must charge it as a rule under p
 of economic death, whilst monopolists, although having a motive to charge the monopolistic
 equilibrium price, are not forced to do so, but may be prevented from doing so by
 other motives" [33, p. 371].
+
 Finally, Scitovsky in 1951 stated that "not only does the monopolist's secure market
 position enable him to relax his efforts of maximizing profit, but his very position may
 prevent his aiming at maximum profit. He may regard his immunity from competition as

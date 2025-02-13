@@ -6,53 +6,101 @@ where the deviations amounted to more than two standard errors of
 TABLE VII. AN ANALYSIS OF THE COMPARATIVE DEGREES OF PLUS AND MINUS DEVIATIONS
 
 
+
+
 #### Split:
+
 OF ACTUAL FROM THEORETICAL PRODUCTS IN AMERICAN MANUFACTURING
 
 
+
+
 #### Split:
+
 INDUSTRIES 1889-1919
 
 
+
+
+
 #### Split:
+
 Year
+
 Number of Industries with Deviations
+
 of Less Than Two Standard
+
 Errors of Estimate
+
 Number of Industries with Deviations
+
 of More Than Two Standard
+
 Errors of Estimate
+
 Plus
+
 Minus
+
 Plus
+
 Minus
+
 1889
+
 190
+
 153
+
 16
+
 1899
+
 166
+
 154
+
 5
+
 7
+
 1904
+
 144
+
 174
+
 11
+
 1909
+
 122
+
 131
+
 3
+
 1914
+
 152
+
 174
+
 10
+
 1919
+
 230
+
 308
+
 16
+
 -7242
+
 2
+
 estimate, 16 had their actual products in excess of the theoretical
 values, while in only two cases did they fall below. On the other hand,
 of the 538 industries in 1919 where the deviations amounted to less
@@ -66,6 +114,7 @@ three years there were only 504 industries which had actual products
 which exceeded the theoretical values up to two standard errors as
 contrasted with 613 industries where the actual products fell below
 the theoretical by these amounts.
+
 The general framework of these later results is approximately what
 we would expect on theoretical grounds. The monopolistic and expanding
 industries tend to absorb large quantities of purchasing power at

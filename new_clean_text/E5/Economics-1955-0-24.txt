@@ -14,6 +14,7 @@ pressure to raise the relative position of the bottom-income
 groups; but the fact remains that the lower limit of the proportional
 share in the secular income structure is higher when the real countrywide
 per capita income is low than when it is high.
+
 If the long-term share of the lower-income groups is larger in the
 underdeveloped than in the average countries, income inequality in the
 former should be narrower, not wider as we have found. However, if
@@ -37,6 +38,7 @@ by a much more gradual rise from low to high shares, with substantial
 groups receiving more than the high countrywide income
 average, and the top groups securing smaller shares than the comparable
 ordinal groups in underdeveloped countries.
+
 It is, therefore, possible that even the distributions of secular income
 levels would be more unequal in underdeveloped than in developed
 countries not in the sense that the shares of the lower brackets would

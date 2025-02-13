@@ -19,6 +19,7 @@ And if the results appear too odd, appropriate qualifications may
 still be able to take care of them more simply than if he had started
 with a cumbersome managerial model. (In saying this, I am showing
 my bias.)
+
 It is revealing to ask what kind of theory we would apply, at least in
 a first approximation, if we were called upon to predict the results of
 various kinds of public-policy measures. For questions regarding
@@ -40,4 +41,5 @@ The old theory of the firm, where all firms are pure fictions, may give
 me in this case-most of the answers, in a rough and ready way, not
 with any numerical precision, but with sufficient reliability regarding
 the directions of change.
+
 I conclude that the choice of the theory has to depend on the problem

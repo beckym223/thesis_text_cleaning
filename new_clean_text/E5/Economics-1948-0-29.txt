@@ -5,35 +5,64 @@ a slope of unity) is the locus of all those points for which the theoretical
 CHART III-DEVIATIONS OF ACTUAL FROM THEORETICAL VALUES OF LOG P
 
 
+
+
 #### Split:
+
 UNITED STATES MANUFACTURING 1904
 
 
+
+
+
 #### Split:
+
 LOG P'
 
 
+
+
+
 #### Split:
+
 9.0
+
 8.0
+
 7.0
+
 6.0
+
 5.0
+
 ogo a e
+
 8
+
 00
+
 B'
+
 4.0
+
 B 4.0
+
 5.0
+
 6.0
+
 7.0
+
 8.0
+
 9.0
+
 LOG P
+
 values of the product are identical with the actual values. In these
 studies for a given year, it will be remembered that each industry
 constitutes a separate observation.
+
 The degree of departure of the actual from the theoretical values is,
 therefore, shown by either the horizontal or the vertical distance of a
 given point from the line BB'. We have, therefore, marked out on each

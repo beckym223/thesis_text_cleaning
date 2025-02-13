@@ -1,6 +1,7 @@
 share of the 1st quintile drops to 3.8 (line 18, col. 7). Under the same
 conditions, the share of the 5th quintile changes from 37.7 (line 9, col.
 1) to 40.9 (line 19, col. 7).
+
 Fifth, even if the differential in per capita income between the two
 sectors remains constant and the intrasector distributions are identical
 for the two sectors, the mere shift in the proportions of numbers produces

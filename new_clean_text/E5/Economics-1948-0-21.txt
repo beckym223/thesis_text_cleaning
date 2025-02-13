@@ -8,6 +8,7 @@ period 1889-1919 and not far from the Australian results. This would
 be equivalent to an elasticity of approximately 3.0 for the marginal
 productivity curve for labor and of 1.5 for the marginal productivity
 curve for capital.
+
 If we try to summarize our results, we do find a relatively close
 agreement between the values of k and j which we obtain from the
 cross-section studies for the United States, Australia, and South Africa.
@@ -22,26 +23,44 @@ within countries and that differences in technique, differences in the
 relative importance of given industries, and differences in the ratios
 of capital to labor may account for such deviations in the values of the
 exponents as exist. 22
+
 21
+
 'Douglas, The Theory of wages, pp. 203-4.
+
 22 The economic and statistical meaning of b deserves to be considered.
 A. In the four time series for the United States, the values of b under formula (1) are
 closely approximate to unity. For the United States the values are the same for each of
 the four series.
+
 Series I
+
 Series II
+
 b
+
 1.01
+
 Series III
+
 1.01
+
 Series IV
+
 b
+
 1.01
+
+
+
 
 
 #### Split:
+
 1.01
+
 (Footnote 22 continued on next page)
+
 ers, salaried workers, etc.; (2) Capital (C) = total capital used, i.e., (a) fixed capital in the form
 of land, buildings, plant, tools, and machinery plus (b) working capital including materials,
 goods in process, and goods in storage. The inclusion of working capital makes the results
@@ -50,6 +69,7 @@ the series used in Australia, New Zealand, and South Africa. (3) Product (P)= gr
 value minus cost of materials, fuel, electricity, etc., used. See Patricia Daly (Ogburn) and
 Paul H. Douglas, "The Production Function for Canadian Manufactures," Jour. Am. Stat.
 Assoc., Vol. XXXVIII (1943), pp. 178–86.
+
 * Professor Williams defined his terms as follows: (1) Labor (L) = number of persons engaged;
 (2) Capital (C) = value of land, buildings, plant, and machinery, i.e., fixed capital.
 (3) Product (P) = gross sales value of product minus cost of materials, fuel, and power. See

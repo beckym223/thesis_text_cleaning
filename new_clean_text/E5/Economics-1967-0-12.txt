@@ -9,6 +9,7 @@ the discovery of any empirical referents [42, p. 814]. Economists,
 however, know for sure that firms exist as empirical entities and,
 hence, they have a hard time keeping the theoretical firm and the empirical
 firm apart.
+
 For certain economic problems the existence of the firm is of the essence.
 For example, if we study the size distribution of firms or the
 growth of the firm, the organization and some of its properties and
@@ -18,6 +19,7 @@ thought-object) and the observed object. For other problems, however,
 as for problems of competitive-price theory, any likeness between the
 theoretical construct of the firm and the empirical firm is purely coincidental.
 
+
 Economists trained in scientific methodology understand this clearly.
 I might quote a dozen or more writers, but will confine myself to
 one quotation, which states that "in economic analysis, the business
@@ -26,8 +28,10 @@ me add the statement of another writer, who however was plaintiff
 rather than advocate when he wrote that "It is a fascinating paradox
 that the received theory of the firm, by and large, assumes that the
 firm does not exist" [45, p. 249].
+
 Here is what I wrote on one of the several occasions when I have
 discussed this problem:
+
 the firm in the model world of economic micro-theory ought not to
 call forth any irrelevant associations with firms in the real world. We
 know, of course, that there are firms in reality and that they have boards
@@ -37,6 +41,7 @@ irrelevant for the microtheoretical model. The fictitious firm of the model
 is a "uni-brain," an individual decision-unit that has nothing to do but
 adjust the output and the prices of one or two imaginary products to very
 simple imagined changes in data [26, p. 133].
+
 I went on, of course, to say that this purely fictitious single-minded
 firm, helpful as it is in competitive-price theory, will not do so much
 for us in the theory of monopoly and oligopoly. To explain and predict

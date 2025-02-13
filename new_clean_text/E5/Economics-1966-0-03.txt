@@ -1,11 +1,15 @@
 No quantity can increase by compound interest and remain within
 finite limits.
+
 -LAWRENCE DENNIS
+
 Man's industrial activities are merely a highly specialized and greatly
 developed form of the general biological struggle for existence.
 In Megalopolis the sentiment of friendship wastes away.
 A. J. LOTKA
+
 -R. M. WEAVER
+
 My concern is to put the population question in temporal and statistical
 perspective. I pass over classical concern lest numbers become excessive
 and Asian and Roman concern lest they not become extensive
@@ -18,6 +22,7 @@ it was at the start of the Christian era, though growing faster than ever
 before, now that pestilence had been partially tamed and the supply of
 the means of existence had become more elastic and more stable.
 I. The Malthusian Age: 1800-1930
+
 Malthus may well serve as eponym to the period 1800-1930, since it
 was he who conceptualized and put into paradigm the demographic issues
 which dominated it. At its start Malthus was warning that an unfettered
@@ -27,8 +32,14 @@ world's rate of population growth was double what it had been in 1800,
 
 
 
+
+
+
 #### Split:
+
 #### Split:
+
+
 
 * Presidential address delivered at the Seventy-eighth Annual Meeting of the American
 Economic Association, New York, December 29, 1965. The author is indebted for suggestions

@@ -9,6 +9,7 @@ same conclusion, but for different reasons. They see, in their mind's
 eye, a negatively sloping liquidity preference schedule. How can people
 be induced to hold a larger quantity of money? Only by bidding down
 interest rates.
+
 Both are right, up to a point. The initial impact of increasing the
 quantity of money at a faster rate than it has been increasing is to
 make interest rates lower for a time than they would otherwise have
@@ -27,6 +28,7 @@ rates to the level they would otherwise have had. Indeed, given the tendency
 for the economy to overreact, they are highly likely to raise interest
 rates temporarily beyond that level, setting in motion a cyclical
 adjustment process.
+
 A fourth effect, when and if it becomes operative, will go even farther,
 and definitely mean that a higher rate of monetary expansion will
 correspond to a higher, not lower, level of interest rates than would

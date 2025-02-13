@@ -1,5 +1,6 @@
 of empirical demonstration on the economic competence of the state
 has been the telling anecdote.
+
 Third, the economist's influence upon the formulation of economic
 policy has usually been small. It has been small because he lacked special
 professional knowledge of the comparative competence of the state
@@ -10,7 +11,9 @@ to which I shall immediately turn, economic theory has not been an
 adequate platform. Lacking real expertise, and lacking also evangelical
 ardor, the economist has had little influence upon the evolution of
 economic policy.
+
 III
+
 If economists have lacked a firm empirical basis for their policy
 views, one might expect that guidance could be derived from their
 theoretical systems. In fact, to the degree that a theoretical system has
@@ -19,6 +22,7 @@ reliable knowledge than an empirical uniformity in solitary confinement.
 The theory allows tests of the relationship incorporated in the
 theory that are outside the view of the discoverer of the theory, so these
 tests are more challenging.
+
 The economists' policy views have in fact been much influenced by
 their theories. The vast preference for free international trade is surely
 based in good part upon the acceptance of the classical theory of comparative

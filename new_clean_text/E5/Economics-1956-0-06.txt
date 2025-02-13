@@ -1,7 +1,9 @@
 Thus a large part of the retreat out of agriculture since 1940 has meant
 actual physical migration only to the extent of traveling to work and
 back each day.
+
 Tangible Productive Assets
+
 A full measure of agriculture's magnitude, however, requires including
 its land and capital goods as well as its labor force, the capital
 goods being largely stored-up labor used in further production in the
@@ -16,132 +18,255 @@ These in general have their high and low points at about the same
 time, but the farm-product prices move over the widest range and the
 
 
+
+
 #### Split:
+
 TABLE II. AGRICULTURE'S SHARE IN TOTAL PRIVATELY OWNED TANGIBLE
 ASSETS USED IN PRODUCTION, 1910 TO 1955
+
 Index Numbers
+
 (1910-14=100)
+
 Productive
+
 Assets
+
 Per Worker
+
 Farm Nonfarm
+
 Assets* Assetsa
+
 (billions) (billions)
+
 Percentage
+
 of Total
+
 in AgriGeneral
+
+
 
 Wholeculture
 
+
+
 sale
+
 Price
+
 Farm
+
 Real
+
 Estate
+
 Level
+
 Prices
+
 Prices
+
 Received
+
 by
+
 Farmers
+
 (dollars)
+
 Farmb
+
 Nonfarm
 
+
+
 1910
+
 38.9°
+
 53.0
+
 42.3
+
 103
+
 97
+
 104
+
 3,370 2,060
+
 1920
+
 71.4°
+
 139.3
+
 33.8
+
 225
+
 173
+
 211
+
 6,230 4,506
+
 1930
+
 47.2°
+
 160.0
+
 23.9
+
 126
+
 115
+
 125
+
 4,650 4,160
+
 1940
+
 39.8
+
 147.2
+
 21.3
+
 115
+
 82
+
 100
+
 4,170 3,190
+
 1945
+
 71.2
+
 165.7
+
 30.0
+
 154
+
 124
+
 207
+
 8,356 3,745
+
 1949
+
 104.3
+
 250.0
+
 27.3
+
 226
+
 172
+
 250
+
 11,820 4,930
+
 1950
+
 102.3
+
 292.0
+
 26.0
+
 236
+
 168
+
 258
+
 13,630 5,567
+
 1951
+
 117.6
+
 263
+
 193
+
 302
+
 16,670
+
 1952
+
 130.5
+
 370.0
+
 26.0
+
 258
+
 211
+
 288
+
 19,180 6,790
+
 1953 125.6
+
 253
+
 209
+
 258
+
 19,140
+
 23.0
+
 254
+
 201
+
 249
+
 18,480
+
 420.0
+
 22.4
+
 252
+
 206
+
 237
+
 18,470 7,140
+
 1954 120.2
+
 1955 121.6
+
 "
+
 Agricultural Research and Agricultural Marketing Service data, and Statistical Abstract
 of the U.S., Table 359. Included in neither farm nor nonfarm are values of dwellings and consumer
 durables (including the consumption share of automobiles), public and institutional
 property, monetary gold and silver, and foreign assets. Producer durables are divided between
 farm and nonfarm.
+
 b Per worker mainly employed in agriculture, in Table I.
 *Not fully comparable with later years. Does not include demand deposits, included in
 part in the series from 1940 forward.

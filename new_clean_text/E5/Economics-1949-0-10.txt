@@ -21,9 +21,11 @@ incongruous to their vision in marginal-productivity analysis. Yet it
 can be shown that the latter's purely formal apparatus is compatible
 with any vision of economic reality that anyone ever had.*
 IV
+
 Let us now look for ideological elements in three of the most influential
 structures of economic thought, the works of Adam Smith, of
 Marx, and of Keynes.
+
 In Adam Smith's case the interesting thing is not indeed the absence
 but the harmlessness of ideological bias. I am not referring to his
 time- and country-bound practical wisdom about laissez-faire, free
@@ -35,7 +37,10 @@ support of them. I am exclusively referring to this analytical work
 * The contrary opinion that is sometimes met with is to be attributed to the simplified
 
 
+
+
 #### Split:
+
 versions of the marginal-productivity theory that survive in textbooks and do not take
 into account all the restrictions to which production functions are subject in real life,
 especially if they are production functions of going concerns for which a number of

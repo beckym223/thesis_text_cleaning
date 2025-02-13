@@ -2,6 +2,7 @@ unit of output than a somewhat higher rate of exchange. But there still
 remains the implication that, in some significant sense, a maximum favorable
 balance of trade and its accompanying exchange rate are
 optimal. What is this sense?
+
 There are indeed many possibilities, but the one most characteristic
 of formal Keynesian theory would involve the multiplier effect from the
 stimulus to effective domestic demand proceeding from a favorable
@@ -18,7 +19,9 @@ at the expense of free individual choice for the foreigners. There can be
 little doubt whatever the intent of the author of this theoretical concept
 that substantially this course has been actively advocated by
 Balogh, Schumacher, and kindred spirits.³
+
 III
+
 I have maintained the thesis that the central economic problem is the
 application of scarce means to unlimited wants; that scarcity resolves
 itself principally into cost to individuals and the uncovered demand
@@ -30,6 +33,7 @@ or definitional, because they are set together of a straight-forward logical
 sequence. On the other hand, the propositions merely distinguish
 economic choices from those arrived at on ethical, social, or political
 grounds, without prejudice to any of these.
+
 What useful inferences, then, can possibly be drawn from such innocuous
 analysis? The review of economic or quasi-economic maxima
 illustrates one point with what I believe to be sufficient clarity: the ease
@@ -37,7 +41,9 @@ with which it is possible to pass by small gradations from economic
 maxima reflecting the free choice of individuals in market decisions,
 to maxima more or less heavily imbued with political or ethical judgments,
 
+
 #### Split:
+
 "Op. cit., 1st ed., pp. 210-28; 2nd ed., pp. 156-70.
 8 Cf. Thomas Balogh, "A Case for Export Subsidies," The Banker (August, 1943), pp. 71-
 75; E. F. Schumacher, "Export Policy and Full Employment,” Fabian Research Series, No.

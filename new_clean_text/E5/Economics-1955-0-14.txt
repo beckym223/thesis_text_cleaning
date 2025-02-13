@@ -3,6 +3,7 @@ next section, no firm conclusion as to trends of upper-income shares
 can be derived from the bare model discussed. Search for further data
 might yield evidence that would permit a reasonably rough but determinate
 conclusion; but I have no such evidence at hand.
+
 The Shift from Agricultural to Nonagricultural Sectors
 What about the trend toward greater inequality due to the shift
 from the agricultural to the nonagricultural sectors? In view of the importance
@@ -10,6 +11,7 @@ of industrialization and urbanization in the process of economic
 growth, their implications for trends in the income distribution
 should be explored-even though we have neither the necessary data
 nor a reasonably complete theoretical model.
+
 The implications can be brought out most clearly with the help of a
 numerical illustration (see Table I). In this illustration we deal with
 two sectors: agriculture (A) and all others (B). For each sector we
@@ -24,6 +26,7 @@ incomes to each sector: 50 units to A and 100 units to B in case I (lines
 1-10 in the illustration); 50 to A and 200 to B in case II (lines 11-20).
 Finally, we allow the proportion of the numbers in sector A in the total
 number to decline from 0.8 to 0.2.
+
 The numerical illustration is only a partial summary of the calculations,
 showing the shares of the lowest and highest quintiles in the income
 distribution for the total population under different assumptions.*
@@ -33,8 +36,11 @@ that the proportion of sector A in the total number declines; and that
 the inequality of the income distribution within sector A may be as
 wide as that within sector B but not wider. With the assumptions conTABLE
 
+
 #### Split:
+
 6
+
 * The underlying calculations are quite simple. For each case we distinguish 20 cells within
 the total distribution-sets of ten deciles for each sector. For each cell we compute the
 percentage shares of both number and income in the number and income of total population,

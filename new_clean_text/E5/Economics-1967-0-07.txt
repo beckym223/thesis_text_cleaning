@@ -12,6 +12,7 @@ in motivation" [48, p. 11]. Such realism in motivation is felt to
 be needed chiefly because of the separation of ownership and control in
 the modern corporation, whose managements have great power and
 wide discretion.
+
 In principle, I could expect three different views to be taken
 regarding the relative independence of corporation management:
 (1) Whereas owners would run their business chiefly with a view to a
@@ -25,6 +26,7 @@ seeking other goals as long as profits look satisfactory, they are as
 professionals, trained in the art and science of management, able to
 make better profits than the owners could ever hope to make running
 their own show.
+
 What consequences can be drawn from this? One attitude would be
 to stick with the assumption of profit maximization because it is the
 simplest and is applicable with much less detailed information to the
@@ -34,7 +36,10 @@ each firm. A third attitude would be to select two or three of the most
 1 "To use marginalism in the theory of the firm it is not necessary to assert that firms
 
 
+
+
 #### Split:
+
 attempt to maximize money profits only nor to deny that a goodly portion of all business
 behavior may be nonrational, thoughtless, blindly repetitive, deliberately traditional, or
 motivated by extra-economic objectives. It merely presupposes that the 'rational-economic'

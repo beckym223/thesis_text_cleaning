@@ -2,12 +2,14 @@ construct of a profit-maximizing reactor.³ I shall come back to this
 after discussing the demands for "more realistic" assumptions where
 they are plainly irrelevant and therefore out of place.
 Realistic Models of the Firm under Competition
+
 Many of the proponents and protagonists of a more realistic theory
 of the firm are quite aware of the fact that the managerial extension
 and enrichment of the concept of the firm was not needed except where
 firms in the industry were large and few, and not under the pressure of
 competition. There are many very quotable statements to this effect.
 6
+
 Too many students, however, want a realistic model of the firm for
 all purposes. They forget the maxim of Occam's Razor that unnecessary
 terms in a theory be kept out (or shaved off). These students
@@ -15,7 +17,10 @@ seem to miss in a simplified model the realistic trimmings of the observable
 world; they distrust such a model because it is obviously
 
 
+
+
 #### Split:
+
 * You may wonder whether I have changed my mind on these matters. Incidentally, I
 hold that it is important for scholars and scientists to have an open mind, and the only
 evidence showing that they do are instances in which they have actually changed their
@@ -28,6 +33,7 @@ behind the actions of a small number of people. . . . Even the most superficial 
 have to include many more ideal types of behavior in order to handle the problem of
 few sellers than it takes to handle the problem of a mass of competitive sellers"
 [20, p. 235].
+
 On the other hand, I must plead guilty to a charge of the same error of misplaced
 concreteness against which I have just warned. It occurred in a sentence in which I spoke
 of various magnitudes (subjectively) “perceived or fancied by the men whose decisions or
@@ -41,6 +47,7 @@ question were real men (real businessmen, whom you could interview) and (2) it s
 that the actions of these men were to be explained, whereas the purpose of the theory
 was not to explain observed actions but only observable results of imtgined (postulated)
 reactions to observable events.
+
 I apologize for this error. Not that I do not approve of a busy shuttle-traffic between
 the domain of theoretical construction and the domain of empirical observation, but we
 must never fail to specify the side of the frontier on which we happen to be. The

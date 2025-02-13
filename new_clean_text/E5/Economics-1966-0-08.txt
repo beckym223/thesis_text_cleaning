@@ -11,6 +11,7 @@ modified version of this view. Not until the 1950's, however, did H.
 Leibenstein and R. Nelson incorporate a Mill-like view into growth
 models entailing the displacement of populations from the Malthusian
 equilibria in which they had been trapped.
+
 The Malthusian period witnessed many improvements in both the
 art of population projection and the quantity and quality of statistical
 data, together with the instruments employed to analyze them. A
@@ -32,6 +33,7 @@ by Raymond Pearl and L. J. Reed, who forecast a maximum
 world population of about 2,646 million and a maximum American
 population of about 197 million as of around A.D. 2100 [10].
 II. A Time of Reconsideration: 1930-65
+
 Opinion on population issues was homogeneous during the period
 1800-1930. All but Marxian opinion, whether critical or affirmative of
 Malthus's views, took his model as a point of departure. Not so in the

@@ -1,6 +1,7 @@
 unfavorable shift in the investment function is not offset within the
 usual range of national income by the favorable effect of the redistribution
 upon the savings function.
+
 The problem which confronts the individual investor or the enterprise
 is not the effect of general increases in wages on prices, but the effect
 of the spread of union organization upon the probable return from a
@@ -23,6 +24,7 @@ produced by the encroachment of unions on the profits of the most
 successful concerns. For the time being, however, one must conclude
 that the spread of unionization tends to reduce the marginal return of
 capital.
+
 Are unions likely to reduce the return so seriously as to limit materially
 the capacity of the economy to expand? That is a possibility, but
 not a necessity, as the experience of the United Kingdom and Sweden.
@@ -31,7 +33,10 @@ powerful labor movement will be less harmful to expected returns on
 investments than the shift in power that has been going on since 1933.25
 
 
+
+
 #### Split:
+
 volume of transactions. Hence two zones might be distinguished: one in which expenditures
 change proportionately less than changes in wages and in which wage increases are
 unfavorable to employment; and one in which expenditures change proportionately more
@@ -44,6 +49,7 @@ increases, by reducing unemployment, would produce more wage increases and becau
 wage cuts, by producing more unemployment, would produce more wage cuts. As a
 matter of fact, wages in relation to prices apparently never get down into the zone of
 instability.
+
 25 Such a period of shifting creates great uncertainty over the future of costs. In the
 face of such uncertainty managers may be more reluctant to make long-term commitments
 than they would be after unions are better established and stronger but when economic

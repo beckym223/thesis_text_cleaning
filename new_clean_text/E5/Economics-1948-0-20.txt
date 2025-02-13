@@ -1,91 +1,178 @@
 TABLE III.—THE VALUES OF THE PRODUCTION FUNCTION FOR MANUFACTURING IN
 
 
+
+
 #### Split:
+
 NEW ZEALAND, CANADA, AND SOUTH AFRICA
+
 P=bL*Ci
+
 P=bLkC¹-k
+
 Years
+
 N
+
 k
+
 σκ j
+
 ση k+j
+
 b
+
 k
+
 σκ
+
 A. Time studies
+
 New Zealanda
+
 1915-16
+
 18
+
 .42 .11 .49 ±.03 .91 2.03 .51 ±.03
+
 (Brown)
+
 1918-35
+
 New Zealand b
+
 (Williams)
+
 1923-40
+
 18
+
 | - - - - - -| .54 ± .02
+
 B. Cross-section or interindustry
+
 studies
+
 South Africa°
+
 (Browne)
+
 1937-38
+
 17.66 ± .08 .32
+
 ±.08 .98 54.48
+
 I
+
 |
+
 South Africad
+
 (Browne)
+
 1937-38
+
 85 .65
+
 1
+
 .37
+
 Canada
+
 1923
+
 167 .48
+
 ± .04 .48
+
 ±.08 1.02 55.25
+
 ±.04
+
 .96
+
 48.53
+
 .52
+
 ± .04
+
 Canada
+
 1927
+
 163 .46
+
 ±.04
+
 .52
+
 ± .04
+
 .98 33.04
+
 .48
+
 ± .04
+
 Canada
+
 1935
+
 165 .50
+
 ± .04
+
 .52
+
 ± .04
+
 1.02 22.23
+
 .48
+
 ± .04
+
 Canada
+
 1937
+
 164 .43
+
 ±.04
+
 .58
+
 ±.04
+
 1.01 15.42
+
 .42
+
 ±.04
+
 New Zealand'
+
 (Williams)
+
 1938-39 61 .46
+
 -
+
 .51
+
 -
+
 .97 .73
+
 -
+
 -
+
 Dr. Max Brown, in his study, The Relation Between Capital and Labour in New Zealand
 (an unpublished doctoral dissertation at Cambridge University), defined Product (P) as the
 total money value of production divided by the price index of locally produced goods. His
@@ -103,6 +190,7 @@ money value of additions to capital in each year adjusted for changes in the ind
 prices for buildings and construction; (3) Labor (L) = number of persons employed. See J. W.
 Williams, "Professor Douglas' Production Function," Econ. Record, Vol. XXI (1945), pp.
 55-63.
+
 • Professor Browne defined his units as follows: (1) Product (P)=net value added by manufacturing
 or the gross value of output minus cost of materials, fuel, light, and power; (2) Labor
 (L) = average number of employees, including wage earners, salaried staff, managers, accountants,

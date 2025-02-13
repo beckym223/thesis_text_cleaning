@@ -1,6 +1,7 @@
 for this article had been prepared, Keith Campbell and George
 Brinegar, in their Queensland study for 1937-38, found k to have a
 value of .58 and j one of .45.19
+
 Since the sum of the exponents tends to be slightly less than unity,
 there is an added slight suggestion of true diminishing returns. But
 here again, since the difference is less than the standard errors of
@@ -24,14 +25,19 @@ degree of steadiness in these results, which seem to indicate
 an elasticity of the marginal productivity curve for labor in that country
 as slightly less than 2.0 for the years studied and of capital as slightly
 more than that figure.
+
 One of the most interesting studies which has been made is that by
 G. W. G. Browne for South Africa for 1937-38. Taking the seventeen
 main groups of industry and treating all labor as homogeneous, Browne
 and Douglas, "The Production Function for Australian Manufacturing,” Quart. Jour. Econ.,
 
 
+
+
 #### Split:
+
 Vol. LVI (Nov., 1941), pp. 108-129.
+
 d The definitions of terms in the studies for the separate Australian states were substantially
 similar to those in the four Commonwealth studies, except that (1) working proprietors were
 included in the definition of labor; (2) the estimated value of land was deducted from the capital
@@ -41,6 +47,7 @@ premiums, and (c) allowances for depreciation upon buildings, plant, and machine
 were also the methods used in the Commonwealth Study of 1934-35. See Gunn and Douglas,
 "Further Measurements of Marginal Productivity," Quart. Jour. Econ., Vol. LIV (May
 1940), pp. 399-428.
+
 18 See an unpublished manuscript study by Keith O. Campbell and George K. Brinegar,
 The Production Function for Queensland Manufacturing in 1937-38 (1947).
 20 Brown omitted the war years of 1916-17 and 1917-18.

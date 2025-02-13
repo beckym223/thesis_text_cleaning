@@ -5,6 +5,7 @@ from the standpoint of policy, or of freedom as a policy. This
 will be followed by an even briefer glance at the alternatives and the
 final practical problem, making up the classical three parts of the
 argument.
+
 There is a paradox about the general problem of economic organization.
 One can state a case which sounds much like an “air-tight” justification
 of market freedom or laissez-faire. But if it is easy to "riddle"

@@ -9,6 +9,7 @@ wages kept rising at a pace that was higher than the new rate
 of price rise, though lower than earlier. This is the result experienced,
 and to be expected, of all attempts to reduce the rate of inflation below
 that widely anticipated.5
+
 To avoid misunderstanding, let me emphasize that by using the term
 "natural" rate of unemployment, I do not mean to suggest that it is immutable
 and unchangeable. On the contrary, many of the market characteristics
@@ -21,6 +22,7 @@ about job vacancies and labor supply, and so on, would tend to lower
 the natural rate of unemployment. I use the term "natural" for the
 same reason Wicksell did-to try to separate the real forces from monetary
 forces.
+
 Let us assume that the monetary authority tries to peg the "market"
 rate of unemployment at a level below the "natural" rate. For definiteness,
 suppose that it takes 3 per cent as the target rate and that the
@@ -31,7 +33,11 @@ monetary growth. This will be expansionary. By making nominal cash
 4
 
 
+
+
+
 #### Split:
+
 * Strictly speaking, the rise in nominal wages will be less rapid than the rise in anticipated
 nominal wages to make allowance for any secular changes in real wages.
 5 Stated in terms of the rate of change of nominal wages, the Phillips Curve can be
@@ -45,6 +51,7 @@ the curve. For periods or countries for which the rate of change of prices varie
 the Phillips Curve will not be well defined. My impression is that these statements
 accord reasonably well with the experience of the economists who have explored empirical
 Phillips Curves.
+
 Restate Phillips' analysis in terms of the rate of change of real wages-and even more
 precisely, anticipated real wages-and it all falls into place. That is why students of
 empirical Phillips Curves have found that it helps to include the rate of change of the

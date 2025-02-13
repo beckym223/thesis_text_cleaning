@@ -20,7 +20,9 @@ there was no place for induced investment. Investment was the independent
 factor, tending to decline, and consumption was the induced
 factor, dependent upon income, in accordance with the fundamental
 law of the propensity to consume.
+
 V
+
 Economic theorizing seems to me pointless unless it is aimed at what
 to do. All the great theorists, I think, have had policy as their central
 interest, even if their policy were merely laissez faire. Keynes' greatest
@@ -31,12 +33,17 @@ requirements of the time and built his theory around them. I find this
 quite understandable, and my main objection, as outlined above, is to
 the pretension to universality which seems to be the inescapable bane
 of theorizing.
+
 9
+
 We do not escape this bane when we turn from “general theory" to
 * Probably, along with the rising bottom of autonomous investment, Hicks would
 
 
+
+
 #### Split:
+
 regard as the most unique feature of his theory the concept of a full-employment ceiling
 which provides the downward turning point in induced investment. The autonomous investment
 floor remains throughout as an unexamined assumption, and the full-employment

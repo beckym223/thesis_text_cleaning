@@ -4,6 +4,7 @@ income average. This is even more likely to be true of the distribution
 of income net of direct taxes and inclusive of free government benefits.
 But whether a high probability weight can be attached to this conjecture
 is a matter for further study.
+
 In the absence of evidence to the contrary, I assume that it is true:
 that the secular income structure is somewhat more unequal in underdeveloped
 countries than in the more advanced-particularly in those
@@ -12,6 +13,7 @@ descendants in the New World (the United States, Canada, Australia,
 and New Zealand). This conclusion has a variety of important implications
 and leads to some pregnant questions, of which only a few can
 be stated here.
+
 In the first place, the wider inequality in the secular income structure
 of underdeveloped countries is associated with a much lower level of
 average income per capita. Two corollaries follow-and they would
@@ -30,6 +32,7 @@ more pronounced than in the developed countries; and the effects of
 such concentration in the past may serve to explain the peculiar characteristics
 of the secular income structure in underdeveloped countries
 today.
+
 The second implication is that this unequal income structure presumably
 coexisted with a low rate of growth of income per capita. The
 underdeveloped countries today have not always lagged behind the

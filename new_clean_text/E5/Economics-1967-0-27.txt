@@ -2,6 +2,7 @@ Since ghosts are hardy creatures, the laying of this one will probably
 not constitute a once-and-for-all execution. We shall probably see him
 again thumbing his nose at us in the next textbook or in the next issue
 of one of our journals.
+
 Imperfect Information and the Question of "Satisficing" Behavior
 The same confusion sometimes encumbers the discussions about the
 alleged "imperfection" of knowledge available to firms for their rational
@@ -15,6 +16,7 @@ across? Yet this, and this alone, is the information that is essentially
 involved in the theory of prices and allocation, since it is the adjustment
 to such changes in conditions for which the postulate of maximizing
 behavior is employed.
+
 One can understand, of course, how the confusion arose. The proponents
 of managerial analysis have the creditable ambition to reorganize
 firms in such a way that their managements can really, as a matter
@@ -25,7 +27,9 @@ they operate. Incidentally, not only "normative micro-economics," as
 management science has been called [40, p. 279], has this ambition;
 many propositions of welfare economics are also based on such presuppositions.
 
+
 14
+
 As a matter of fact, the interesting distinction made between
 "satisficing" and "maximizing” or “optimizing" behavior [39, pp. xxivxxvi]
 [40, pp. 262-65] had its origin in precisely the same issue;
@@ -36,7 +40,9 @@ less: its behavior will be only “satisficing." What behavior? The
 mere adjustment to a simple change or the coordinated, integrated
 whole of its activities? Evidently, only the latter is the overly ambitious
 
+
 #### Split:
+
 14 "Economic man deals with the 'real world' in all its complexity," says Herbert Simon
 [39, p. xxv]. The homo oeconomicus I have encountered in the literature was not such a
 perfectionist. Incidentally, even Simon's "economic man," two years before the ambitious

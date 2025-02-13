@@ -3,6 +3,7 @@ group, declined only 3 per cent. This sort of difference has been characteristic
 of recessions generally, not only the most recent episode, and
 on a smaller scale it has also been characteristic of industry generally,
 not only of manufacturing.
+
 It appears, therefore, that changes in the occupational structure of
 the labor force, if not also in the industrial structure, have been tending
 of late to loosen the links which, over a considerable part of our economic
@@ -30,15 +31,20 @@ was fairly similar. In other words, as a result of some of the structural
 changes on which I dwelt earlier, the size of the income-receiving population
 has grown steadily and escaped cyclical fluctuations entirely.¹
 III
+
 Turning next to consumer spending, we must try once again to see
 recent developments in historical perspective. The fact that stands out
 is that the impact of business cycles on consumption has recently diminished,
 while the effects of consumption on the business cycle have
 become more decisive.
+
 In the classical business cycle, as we came to know it in this country,
 
 
+
+
 #### Split:
+
 This upward trend would appear steeper than I have suggested if recipients of property
 income and of public assistance were included in the count. In the present context, however,
 it has seemed best to restrict the income-receiving population to the working class, or

@@ -6,7 +6,9 @@ many points that are commonplaces for all of you along with less
 familiar ones. Instead, therefore, I have decided to concentrate on
 some of the leading public-policy implications that such a statement
 would entail.
+
 I
+
 When we speak of a nation or community as having a free enterprise
 economic system, we imply by the word system that while there
 is no general manager managing its economic activities, the people that
@@ -28,6 +30,7 @@ give us only a part of the answer to the question, What public economic
 policies should we adopt? But it is a significant part, because the functions
 provide something like an objective basis for policy judgments.
 Much of what I want to say relates to this part.
+
 But what central management functions do institutions perform in
 our economy? In the interests of brevity I will not attempt to enumerate
 them systematically. There are four that are our immediate concern;
@@ -39,4 +42,5 @@ fourth, determining the distribution of the economy's product. These
 central management functions are all quite familiar. In fact they may
 be said to be a primary concern of the principles-of-economics or modelanalysis
 type of statement of our free-enterprise system.
+
 The list of institutions that participate in the performance of these

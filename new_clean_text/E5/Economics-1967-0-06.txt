@@ -6,6 +6,7 @@ of the best-known alternatives to marginalism, is expected
 chiefly with regard to industries where firms are few and competition is
 ineffective. The marginalist solution of price determination under conditions
 of heavy competition is not seriously contested.
+
 In pointing this out, I am not trying to claim that marginal analysis
 is invincible and forever irreplaceable. If I follow the philosophy of
 science which, instead of pronouncing theories "false" or "true," distinguishes
@@ -17,6 +18,7 @@ in recent years to a number of revisions in the marginal analysis of the
 firm which amount to the incorporation of other goals besides money
 profits into expanded marginalist objective functions.
 The Alternative Approaches
+
 In their arguments against the profit-maximization model the various
 alternative approaches to the theory of the firm are very much
 alike; only their positive programs can distinguish them.
@@ -28,6 +30,7 @@ with given means, and that business action can be deduced from a postulate
 that firms attempt to maximize money profits. Instead, we are
 directed to observe how businessmen really act and by what processes
 they reach decisions.
+
 Perhaps it is not entirely fair to suggest here an association between
 "behaviorism" and the working program of the proponents of a “behavioral
 theory of the firm" [10]. In any case, behavioral research

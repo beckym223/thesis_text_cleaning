@@ -3,12 +3,15 @@ successful ventures and at the same time was severely limiting the possibility
 of charging unsuccessful ventures against successful ones. Can
 one imagine a better arrangement for encouraging investors to avoid
 venturesome commitments?
+
 VI
+
 What of the long-range outlook? If to shifts in economic and political
 power, which have already created difficult problems, is added a narrowed
 opportunity for extensive investment, does not the problem of
 providing employment become so formidable as to require great changes
 in policies and institutions?
+
 One may assert with reasonable confidence, I think, that the consumption
 function will slowly become more favorable to employment.
 For more than a generation the propensity to consume has been rising
@@ -23,18 +26,25 @@ have been for nearly a decade, in devoting part of their income to capital
 11
 
 
+
+
+
 #### Split:
+
 per cent as a loss. The act of 1932 greatly restricted the deduction of short-term losses and
 the act of 1934 restricted the deductions of all capital losses to the amount of capital gains
 plus $2,000.
+
 Mr. Alexander Sachs stresses the deterring effects in the act of 1938 of the disconnection
 between long-term and short-term gains and losses. If a long-term gain and a short-term
 loss are realized in the same year, the latter cannot be used to offset the former. Furthermore,
 if the short-term gain is not realized, the enterpriser is exposed to the danger that, in the
 event of the gain's becoming a loss, it can be credited only to the extent of 15 per cent or
 20 per cent.
+
 "S. S. Kuznets, "Capital Formation, 1879-1938," University of Pennsylvania Bicentennial
 Conference, p. 70.
+
 The real rise in the individual propensity to consume was considerably more than is
 indicated by the figures of gross capital formation. The change in individual propensities
 to consume cannot be inferred entirely from the proportion of output devoted to capital
@@ -47,6 +57,7 @@ liquidation of Liberty Bonds for that purpose. This may have been true for the f
 several years of the decade. But annual figures on capital formation indicate that the proportion
 of output devoted to capital formation tended to decline between 1923 and 1929,
 despite a rise in per capita real income.
+
 Capital formation by corporations was facilitated by the fact that managements were
 not under pressure to restore previously high dividend rates and hence were fairly free to
 plow back a large proportion of increased earnings.

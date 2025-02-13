@@ -1,6 +1,7 @@
 seemed to me peculiarly inapt as a starting point for an analysis of
 growth and change, and in this regard inferior to the classical theory it
 was intended to supplant.
+
 It is not surprising therefore that one major feature of contemporary
 economic thinking is the attempt to dynamize the Keynesian statics.
 We now have, for example, from ardent Keynesians, books with such
@@ -23,6 +24,7 @@ years ago, I hoped and believed that we would find ourselves bringing
 back the things he temporarily submerged, the study of the processes
 of short- and long-run change, the emphasis on growth and productivity,
 and on price-cost-profit relationships.
+
 Now this process is in full swing, and classes in the colleges that
 earlier had dealt mainly with Keynes' General Theory are wrestling
 with the business-cycle theories of Hicks, Harrod, and other leading
@@ -41,7 +43,11 @@ for bigger booms. To explain the booms, induced investment
 8
 
 
+
+
+
 #### Split:
+
 * See J. R. Hicks, A Contribution to the Theory of the Trade Cycle (London, Oxford
 University Press, 1950); and R. F. Harrod, Towards a Dynamic Economics (London,
 Macmillan, 1948).

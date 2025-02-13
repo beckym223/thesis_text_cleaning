@@ -18,6 +18,7 @@ stock) or at the expense of potential capital gains on treasury stock
 earmarked for such stock options, but which, on the other hand, may
 be a powerful force aligning the managers' personal interests with the
 goal of maximizing the net profits of the firm.
+
 The point of it all is that the total utility of managers can be increased
 by decisions which increase expenses at the expense of profits.
 (Of course, this is confined to situations where profits are high enough
@@ -29,12 +30,17 @@ gratification of preferences for certain expenses of the firm that compete
 with the maximization of profits."
 
 
+
+
+
 #### Split:
+
 11 Instead of cataloguing the various contributions to the "utility” of the management
 and their relationships to the sources and uses of the firm's funds, one may wish to classify
 the expenses of the firm with reference to "discretionary" decisions of the management
 influenced by the decision-makers' preferences. Here is a tentative classification of this
 sort:
+
 1. Expenses required for the production of (a) current output of unchanged size,
 (b) additional current output, with marginal cost not exceeding marginal revenue (hence,
 contributing to higher profits), and (c) additional current output, with marginal cost

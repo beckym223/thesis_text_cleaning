@@ -5,6 +5,7 @@ in the "theory of the firm," and to examine their relevance to the theory
 of competitive price. The following considerations are supposed to
 supplement, qualify, restrict, or replace the objective of maximizing
 money profits.
+
 (1) Entrepreneurs and managers cannot be expected to have an inelastic
 demand for leisure; indeed, one must assume that this demand
 is income-elastic so that higher profit expectations will cause them to

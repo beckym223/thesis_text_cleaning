@@ -1,5 +1,6 @@
 the two great wars are, however, likely to present difficulties.
 41
+
 4. The deviations of the actual or observed values from those which
 we would theoretically expect to prevail under the formula are not large
 and indeed are slightly less than we would expect under the random
@@ -7,6 +8,7 @@ distribution of errors of sampling and of measurement. It is submitted
 that the total number of observations, namely over 3,500, is sufficiently
 large so that if the results had been purely accidental, this degree of
 agreement would not have occurred.
+
 5. The instances of large deviations of the actual from the theoretical
 values can in most cases be explained as being caused by imperfect
 competition and by expanding demand in the case of the plus deviations.
@@ -14,10 +16,12 @@ and by contracting demand, "sweating," and possibly "excessive" competition
 in the case of the minus industries. This would indicate that if
 these complications could be eliminated, the agreement between the
 actual and theoretical products would be greater.
+
 6. That, taken in the large, there is an almost precise degree of
 agreement between the actual share received by labor and that which,
 according to the theory of marginal productivity, we would expect labor
 to obtain.
+
 In conclusion, may I emphasize again that there is much work which
 remains to be done on this question and that a lifetime would be all too
 short to probe the many problems which present themselves. Is it too
@@ -31,8 +35,13 @@ applicable to the studies which I have attempted, upon that note I shall
 end.
 
 
+
+
+
 #### Split:
+
 31
+
 "Some of the studies which badly need to be carried out are (1) to develop the production
 function for each and every year over a long period, say 1910-1940, for Australia, New
 Zealand, and Canada; (2) to carry on studies of the production function for a large

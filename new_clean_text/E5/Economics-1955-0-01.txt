@@ -3,12 +3,14 @@ changes in the personal distribution of income. Does inequality
 in the distribution of income increase or decrease in the course of a
 country's economic growth? What factors determine the secular level
 and trends of income inequalities?
+
 These are broad questions in a field of study that has been plagued
 by looseness in definitions, unusual scarcity of data, and pressures of
 strongly held opinions. While we cannot completely avoid the resulting
 difficulties, it may help to specify the characteristics of the size-ofincome
 distributions that we want to examine and the movements of
 which we want to explain.
+
 Five specifications may be listed. First, the units for which incomes
 are recorded and grouped should be family-expenditure units, properly
 adjusted for the number of persons in each-rather than income recipients
@@ -27,9 +29,15 @@ free of cyclical and other transient disturbances.
 For such a distribution of mature expenditure units by secular levels
 
 
-#### Split:
+
 
 #### Split:
+
+
+
+#### Split:
+
+
 
 * Presidential address delivered at the Sixty-seventh Annual Meeting of the American
 Economic Association, Detroit, Michigan, December 29, 1954.

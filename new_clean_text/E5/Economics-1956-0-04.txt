@@ -15,8 +15,11 @@ and U.S.D.A. series on farm labor force. The writer assumes full responsibility
 for this choice. Finally, no official data are available for
 some of the series before 1929. The writer has extrapolated for these
 years in a few cases.
+
 Labor Force
+
 I. Agriculture in the Nation's Economy
+
 The magnitude and importance of agriculture in the nation's economy
 can be measured in several ways, with wide differences in the results.
 No one of these measures gives the whole picture. Table I assembles
@@ -36,6 +39,7 @@ series does not include unemployed farm laborers. These averaged only
 143,000 in 1954 and 173,000 in 1950. It will be noted that there has been
 no decline in the farm labor force since 1953. In fact, it was higher last
 fall than in any fall since 1950.
+
 It will be noticed from Table I that the decline in the percentage
 of the labor force employed mainly in agriculture has been 1.84 in the
 five years since 1950, as against 5.25 in the war decade of the 1940's.

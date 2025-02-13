@@ -6,6 +6,7 @@ be justified on infant-industry, terms-of-trade, or any other rational
 grounds. But whether one accepts this judgment or not, high protection
 reduces the volume of trade¹ and by the same token increases
 the marginal benefit from trade.
+
 As for the terms of trade, the deterioration from the early 1950's is,
 of course, regrettable in the sense that the less developed countries
 would be better off if in 1960 their terms of trade were the same as in
@@ -24,13 +25,17 @@ greater to the extent of $2.3 billion." This is not a negligible sum, but
 compared with the national income of the less developed areas of the
 
 
+
+
 #### Split:
+
 fact. See also D. H. Robertson [16]. It should be observed, however, that freer trade between
 the industrial countries, although it may be less valuable than trade between industrial
 and tropical countries on comparative cost grounds, can be beneficial through stimulating
 competition and counteracting monopolistic tendencies. This effect of free trade has been
 stressed by J. S. Mill and reiterated by modern theorists of integration, e.g., by Tibor
 Scitovsky and Harry Johnson.
+
 19 In underdeveloped countries the theory has been widely accepted that in less developed
 countries import restrictions do not reduce the volume of imports or exports; they merely
 cause a shift of imports from, say, luxury goods to capital goods. In the developed industrial
@@ -44,6 +49,7 @@ disguised unemployment (including that of skilled workers), of surplus capacity,
 elastic capital supply could the conclusion be overthrown that export supply will contract as
 a consequence of massive import substitution brought about by heavy protection.
 20
+
 'Kindleberger's figures are not quite comparable with the U.N. figures because his area
 breakdown is a different one. The figure quoted in the text refers to industrial Europe's terms
 of trade with "all other areas," i.e., the world excluding the rest of Europe, the United States,

@@ -3,6 +3,7 @@ analysis and to combine them in a single manageable “objective
 function." This third approach merges marginalism with managerialism
 in that it integrates money profits with other managerial goals
 within one formula of "maximizing behavior."
+
 The question is whether managerial marginalism is prescribed for
 general application or only for so-called noncompetitive cases. Its most
 prominent proponents prefer to use the old formula, based on profit
@@ -11,11 +12,13 @@ discretion therefore narrowly circumscribed. In the next sections
 we shall discuss matters that at first blush may seem unrelated to this
 issue but on reflection can shed indirect light on it.
 The Analogy of the Theoretical Automobile Driver
+
 One of the best remembered points in my exposition was the use of
 an analogy designed to warn against mistaking theoretical variables
 and their links for realistic descriptions of observable processes. This
 was the analogy of the "theory of overtaking" automobiles on the highways
 [21, pp. 534-35].
+
 Analogies are often misleading, but in this particular case it served
 its main purpose: to show that the theoretical variables need not be
 estimated and the theoretical equations need not be solved through actual
@@ -26,6 +29,7 @@ marginal analysis believed they had refuted it if they could show that
 the exact numerical calculations of marginal magnitudes-cost, revenue,
 productivity-were difficult or impossible to perform by real decision-
 makers.
+
 Yet, my analogy was only partially successful. An implication which
 should have been obvious has been widely overlooked: that the type of
 action assumed to be taken by the theoretical actor in the model under
@@ -34,13 +38,17 @@ to be taken by any particular real actor. The empiricist's inclination
 is to verify the theoretically deduced action by testing individual
 behavior, although the theory serves only to explain and predict
 effects of mass behavior.
+
 We may illustrate this again by means of the same analogy, the theory
 of overtaking. Assume a change of driving conditions occurs, say,
 that the roads have become wet and slippery and fog has reduced visi-
 *The theoretical automobile driver had to estimate, among other things, the speeds of
 
 
+
+
 #### Split:
+
 three vehicles and the distances between them, and to perform calculations involving potential
 acceleration and a few other things, before he could decide to overtake the truck
 ahead of him. An actual driver simply "sizes up" the situation and goes ahead.

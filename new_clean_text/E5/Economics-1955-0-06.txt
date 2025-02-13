@@ -1,6 +1,7 @@
 data, and so on through a long list. Consequently, the trends in the
 income structure can be discerned but dimly, and the results considered
 as preliminary informed guesses.
+
 The data are for the United States, England, and Germany-a scant
 sample, but at least a starting point for some inferences concerning
 long-term changes in the presently developed countries. The general
@@ -9,6 +10,7 @@ measured by annual income incidence in rather broad classes, has been
 moving toward equality-with these trends particularly noticeable
 since the 1920's but beginning perhaps in the period before the first
 world war.
+
 Let me cite some figures, all for income before direct taxes, in support
 of this impression. In the United States, in the distribution of income
 among families (excluding single individuals), the shares of the
@@ -37,10 +39,14 @@ begins to return to prewar levels during the depression of the 1930's.¹
 1 The following sources were used in calculating the figures cited:
 
 
+
+
 #### Split:
+
 United States. For recent years we used Income Distribution by Size, 1944-1950 (Washington,
 1953) and Selma Goldsmith and others, “Size Distribution of Income Since the
 Mid-Thirties," Rev. Econ. Stat., Feb. 1954, XXXVI, 1-32; for 1929, the Brookings Institution
 data as adjusted in Simon Kuznets, Shares of Upper Groups in Income and Savings
 (New York, 1953), p. 220.
+
 United Kingdom. For 1938 and 1947, Dudley Seers, The Levelling of Income Since 1938

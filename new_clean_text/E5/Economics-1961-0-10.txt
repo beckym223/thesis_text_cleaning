@@ -1,5 +1,6 @@
 they are rather like the contents of Pandora's box, full of difficulties
 and hope.
+
 Human resources obviously have both quantitative and qualitative
 dimensions. The number of people, the proportion who enter upon useful
 work, and hours worked are essentially quantitative characteristics.
@@ -9,6 +10,7 @@ attributes that affect particular human capabilities to do productive
 work. In so far as expenditures to enhance such capabilities also increase
 the value productivity of human effort (labor), they will yield
 a positive rate of return.*
+
 How can we estimate the magnitude of human investment? The
 practice followed in connection with physical capital goods is to estimate
 the magnitude of capital formation by expenditures made to produce
@@ -33,10 +35,12 @@ investment becomes a part of the human agent and hence cannot be
 sold; it is nevertheless "in touch with the market place" by affecting
 the wages and salaries the human agent can earn. The resulting increase
 in earnings is the yield on the investment.5
+
 Despite the difficulty of exact measurement at this stage of our
 understanding of human investment, many insights can be gained by
 examining some of the more important activities that improve human
 4
+
 * Even so, our observed return can be either negative, zero or positive because our
 observations are drawn from a world where there is uncertainty and imperfect knowledge
 and where there are windfall gains and losses and mistakes aplenty.

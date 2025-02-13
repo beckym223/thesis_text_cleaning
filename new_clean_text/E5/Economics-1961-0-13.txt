@@ -1,6 +1,7 @@
 ments, the rise of the stock of education in the labor force, returns to
 education, and the contribution that the increase in the stock of education
 may have made to earnings and to national income.
+
 It is not difficult to estimate the conventional costs of education consisting
 of the costs of the services of teachers, librarians, administrators,
 of maintaining and operating the educational plant, and interest on the
@@ -23,6 +24,7 @@ gross formation of physical capital in dollars. If we were to treat education
 as pure investment this result would suggest that the returns to
 education were relatively more attractive than those to nonhuman
 capital.¹²
+
 Much schooling is acquired by persons who are not treated as income
 earners in most economic analysis, particularly, of course,
 women. To analyze the effect of growth in schooling on earnings, it is
