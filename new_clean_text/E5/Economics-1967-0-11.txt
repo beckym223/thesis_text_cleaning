@@ -1,4 +1,4 @@
-be much more richly endowed with variables and functions for which
+much more richly endowed with variables and functions for which
 information could be obtained only at considerable effort and with results
 that may or may not be worth the cost of the required research.
 My charge that there is widespread confusion regarding the purposes

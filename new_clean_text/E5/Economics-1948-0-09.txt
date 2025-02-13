@@ -34,8 +34,7 @@ Handsaker, I resumed our analysis of time series, and after
 working up data for Victorian manufacturing for the period 1907-1929,
 we found the value of k under the k and 1-k formula to be .71.¹¹ Labor's
 share of the net product or W/P was found to be .61 for this period.
-We then introduced two important new features into our investiga-
-
+We then introduced two important new features into our investigations.
 
 #### Split:
 11

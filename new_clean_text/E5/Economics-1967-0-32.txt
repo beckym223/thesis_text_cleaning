@@ -40,4 +40,4 @@ The old theory of the firm, where all firms are pure fictions, may give
 me in this case-most of the answers, in a rough and ready way, not
 with any numerical precision, but with sufficient reliability regarding
 the directions of change.
-I conclude that the choice of the theory has to depend on the prob-
+I conclude that the choice of the theory has to depend on the problem

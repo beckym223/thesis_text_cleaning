@@ -37,8 +37,7 @@ the model is used to predict, not the actual reactions of any one particular
 firm, but only the effects of the hypothetical reactions of numerous
 anonymous "reactors” (symbolic firms). If it were to be applied to
 predictions of reactions of a particular firm, the model would have to
-also wish to determine the speed of driving, the frequency and length of stops at road-
-
+also wish to determine the speed of driving, the frequency and length of stops at roadbe
 
 #### Split:
 side stands, and all the rest.

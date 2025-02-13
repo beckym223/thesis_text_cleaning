@@ -44,4 +44,4 @@ and ec
 -
 1
 1-j'
-it follows that the approximate elasticity of the normal marginal pro-
+it follows that the approximate elasticity of the normal marginal productivity

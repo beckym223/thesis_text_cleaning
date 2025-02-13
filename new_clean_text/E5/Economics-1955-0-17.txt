@@ -40,4 +40,4 @@ Granted that several of the conclusions could be generalized in formal
 mathematical terms, useful inferences would be within our reach only if
 we knew more about the specific sector distributions and the levels and
 trends in per capita income differentials among the sectors.
-If then we limit ourselves to what is known or can be plausibly as-
+If then we limit ourselves to what is known or can be plausibly assumed,

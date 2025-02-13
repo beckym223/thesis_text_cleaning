@@ -1,4 +1,4 @@
-prices. If an index of prices paid by farmers for family living items is
+If an index of prices paid by farmers for family living items is
 used instead, the constant dollar farm series will be 2.0, 1.7, and −0.4.5
 A main reason for the greater gain in farm than in nonfarm income per
 worker is the greater increase in total inputs used per worker in agriculture
