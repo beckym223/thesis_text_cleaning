@@ -25,6 +25,9 @@ total-utility model and obtain from it definite predictions of the effects
 of changes in conditions upon the dispositions of the managers, one
 merely has to visualize the large variety of possible "satisfactions" and
 the still larger variety of things that may contribute to their attain-
+
+
+#### Split:
 For competition to be effective it is not necessary that competition is either pure or
 perfect or that all or any of the markets in which the firm buys or sells are perfect.
 10 Several of my statements, if I presented them without source reference, might well be

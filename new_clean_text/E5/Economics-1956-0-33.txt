@@ -2,8 +2,17 @@ following are percentages of the sum of the three incomes, not of total
 national income because military and government civilian incomes are
 excluded.
 Capital
+
+
+#### Split:
 Farm
+
+
+#### Split:
 Labor
+
+
+#### Split:
 1929
 7.2
 56

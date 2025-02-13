@@ -32,6 +32,9 @@ of sector B (nonagricultural) is always higher than that of sector A;
 that the proportion of sector A in the total number declines; and that
 the inequality of the income distribution within sector A may be as
 wide as that within sector B but not wider. With the assumptions con-
+
+
+#### Split:
 6
 * The underlying calculations are quite simple. For each case we distinguish 20 cells within
 the total distribution-sets of ten deciles for each sector. For each cell we compute the

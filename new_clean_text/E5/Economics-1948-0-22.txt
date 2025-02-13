@@ -17,6 +17,9 @@ b
 Series III
 1.38 Series IV
 For Victoria b is .71 and for New South Wales, .97.
+
+
+#### Split:
 b
 1.12
 1.35

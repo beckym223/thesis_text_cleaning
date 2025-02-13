@@ -7,8 +7,17 @@ tistical analysis of these variations is given in Table V. Here it will be
 seen that in every year more than 70 per cent of the actual values were
 within one standard error of estimate of the values which we would
 TABLE V. DEGREE OF DEVIATION OF ACTUAL FROM THEORETICAL VALUES OF PRODUCT
+
+
+#### Split:
 IN AMERICAN MANUFACTURING INDUSTRIES 1889-1919
+
+
+#### Split:
 Census
+
+
+#### Split:
 Year
 Number of
 Industries

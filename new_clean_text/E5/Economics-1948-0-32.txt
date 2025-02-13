@@ -2,8 +2,17 @@ and that between 94 and 95 per cent deviated by less than two stand-
 ard errors of estimate. The distribution of the observations in this
 sample is, therefore, somewhat better than that which we would expect
 CHART IV DEVIATIONS OF ACTUAL FROM THEORETICAL VALUES OF LOG P
+
+
+#### Split:
 LOG P'
+
+
+#### Split:
 9.0
+
+
+#### Split:
 UNITED STATES MANUFACTURING 1909
 B'
 8.0

@@ -3,9 +3,21 @@ IN AGRICULTURE, 1820-1955, AND PROJECTED TO 1975 AND 2000.
 (1955-75 projection - - -: 1975-2000 projection x xxx)
 increasing development and use of power equipment fitted to smaller
 farms. The Census data for 1954 indicate that 60 per cent of the farms
+
+
+#### Split:
 had one or more tractors, and 45 per cent had one or more motor trucks
+
+
+#### Split:
 at the time of the enumeration. The net effect will be a further reduction
+
+
+#### Split:
 in the number of farms and probably a reduction in farm labor force
+
+
+#### Split:
 per farm along with this. The following data are pertinent in this con-
 nection:
 Number of

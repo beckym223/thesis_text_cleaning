@@ -35,6 +35,9 @@ mination of "optimal" decisions, cannot help being satisfied with some-
 thing less: its behavior will be only “satisficing." What behavior? The
 mere adjustment to a simple change or the coordinated, integrated
 whole of its activities? Evidently, only the latter is the overly ambi-
+
+
+#### Split:
 14 "Economic man deals with the 'real world' in all its complexity," says Herbert Simon
 [39, p. xxv]. The homo oeconomicus I have encountered in the literature was not such a
 perfectionist. Incidentally, even Simon's "economic man," two years before the ambitious

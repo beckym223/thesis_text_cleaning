@@ -3,8 +3,17 @@ distribution of cases with the only departures of the actual from
 theoretical values being those caused by random errors of measure-
 ment and of sampling, we would expect that in 68.3 per cent of the cases
 CHART II-DEVIATIONS OF ACTUAL FROM THEORETICAL VALUES OF LOG P
+
+
+#### Split:
 UNITED STATES MANUFACTURING 1899
+
+
+#### Split:
 LOG P'
+
+
+#### Split:
 9.0
 8.0
 7.0

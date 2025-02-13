@@ -33,6 +33,9 @@ beyond the range of my remarks or rather they enter this range only
 so far as the factual and theoretical analysis does that is presented in
 support of them. I am exclusively referring to this analytical work
 * The contrary opinion that is sometimes met with is to be attributed to the simplified
+
+
+#### Split:
 versions of the marginal-productivity theory that survive in textbooks and do not take
 into account all the restrictions to which production functions are subject in real life,
 especially if they are production functions of going concerns for which a number of

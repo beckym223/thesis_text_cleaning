@@ -36,6 +36,9 @@ Subjective Information and the Charge of Tautology
 I have a few remaining tasks, and one of them is to lay a ghost, one
 that has long played tricks on economists and led them astray. He has
 13 The four "managerial" variables included in the list-sales, growth of sales, expenses for
+
+
+#### Split:
 staff, and emoluments to the management-may well be the most important deviations from
 profit maximization, although I may easily be persuaded of the existence of other “extrava-
 gances" of management. Among the managements of our large corporations there are so

@@ -40,6 +40,9 @@ ports the whole scheme of mercantilist controls was already obsolete
 and was rapidly passing into the limbo of outworn notions. Smith
 gave it a push, but economic forces propelled it as no philosopher,
 however potent his pen, could have done.
+
+
+#### Split:
 * Smith, of course, was wise and humane enough to recognize the limitations of com-
 petition as a means of promoting the general welfare and to assign important functions
 to the state.

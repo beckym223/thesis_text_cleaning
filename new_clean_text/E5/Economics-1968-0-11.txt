@@ -29,6 +29,9 @@ at a time when prices have been stable and when unemployment is
 higher than 3 per cent. Accordingly, the authority increases the rate of
 monetary growth. This will be expansionary. By making nominal cash
 4
+
+
+#### Split:
 * Strictly speaking, the rise in nominal wages will be less rapid than the rise in antici-
 pated nominal wages to make allowance for any secular changes in real wages.
 5 Stated in terms of the rate of change of nominal wages, the Phillips Curve can be

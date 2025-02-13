@@ -2,8 +2,17 @@ on the plant average basis than they are when industry aggregates are
 used and, indeed, average only .92. This gives an unmistakable in-
 dication of true diminishing returns so far as the size of individual
 TABLE IV. A COMPARISON OF THE VALUES OF k AND j OBTAINED BY THE METHOD OF
+
+
+#### Split:
 PLANT AVERAGES WITH THOSE OBTAINED BY THE METHOD OF INDUSTRY AGGREGATES
+
+
+#### Split:
 (P=bLkCi)a
+
+
+#### Split:
 Values According to Method
 of Plant Averages
 Difference (In Points) from Those

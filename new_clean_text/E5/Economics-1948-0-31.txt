@@ -4,8 +4,17 @@ of measurement. Belief in the reliability of the formula as a descrip-
 tion of production during this period is, therefore, strengthened, rather
 than weakened.
 TABLE VI. DEGREE OF DEVIATION OF ACTUAL FROM THEORETICAL VALUES OF PRODUCT
+
+
+#### Split:
 IN MANUFACTURING INDUSTRIES OF BRITISH DOMINIONS FOR SPECIFIC YEARS
+
+
+#### Split:
 Deviation of Actual Product (P) from Theoretical
+
+
+#### Split:
 Product (P') in Terms of Standard
 Errors of Estimate (σ)
 Num-

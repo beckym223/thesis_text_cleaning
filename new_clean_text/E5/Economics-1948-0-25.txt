@@ -36,6 +36,9 @@ amount of this difference ranged between 5 and 6 points, as in 1904 and
 always higher under the methods of plant averages than under that of
 industry aggregates but the amounts of these differences were much less.
 As a result, the combined values of k + jare less by from 3 to 8 points
+
+
+#### Split:
 22 William H. Nicholls, Labor Productivity Functions in Meat Packing, to be published
 by University of Chicago Press, 1948.
 23 This is not quite the same as the so-called "representative" firm because many firms

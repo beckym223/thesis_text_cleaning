@@ -38,6 +38,9 @@ mum obtainable would in fact be net losses in an economic sense.
 These two reasons do not hold in the theories of oligopoly and mo-
 nopoly price. For these theories the real existence of firms (that is, an
 8
+
+
+#### Split:
 The idea that profit maximization is the appropriate hypothesis for the theory of com-
 petitive price but not necessarily for the theory of monopoly or oligopoly price has been
 expressed repeatedly over the last century.

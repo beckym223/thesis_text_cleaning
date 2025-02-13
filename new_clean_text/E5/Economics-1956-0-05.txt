@@ -92,7 +92,13 @@ b Difference between the first two columns.
 с
 ⚫ Preliminary.
 workers were dammed up back on the farms because there were few
+
+
+#### Split:
 jobs open to them in the cities.
+
+
+#### Split:
 In terms of total farm employment considered by itself, the decline
 from 1940 to 1950 was 1.5 per cent a year compared with 0.7 per cent in
 1920-1930. In the three years from 1950 to 1953, it was at the rate of

@@ -30,6 +30,9 @@ which actually occurred. It should be remembered, moreover, that due
 to our inability to deduct allowances for depreciation in specific in-
 dustries, the true values of W/P are probably understated by ap-
 proximately 3 percentage points, 28 and that, therefore, the average
+
+
+#### Split:
 "The year 1919 was one in which prices rose with great rapidity. It would be ex-
 pected, therefore, that wages would lag behind in such a period.
 28

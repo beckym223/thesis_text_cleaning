@@ -38,6 +38,9 @@ ticipated that nominal prices would be stable and in which that antici-
 pation remained unshaken and immutable whatever happened to actual
 prices and wages. Suppose, by contrast, that everyone anticipates that
 prices will rise at a rate of more than 75 per cent a year-as, for exam-
+
+
+#### Split:
 3 It is perhaps worth noting that this "natural" rate need not correspond to equality
 between the number unemployed and the number of job vacancies. For any given structure
 of the labor market, there will be some equilibrium relation between these two magnitudes,

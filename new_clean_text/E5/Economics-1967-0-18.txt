@@ -29,6 +29,9 @@ and on the problems under examination how much effort one wishes to
 invest in behavioral research where the findings hold little promise of
 yielding generalizations of wide applicability.
 There are, however, some simple models of oligopolistic behavior.
+
+
+#### Split:
 tinuing shifts of position of competing oligopolists, and we have to turn to "the observa-
 tion of facts," which would show us the variety of possibilities [29, pp. 601-2].
 Schumpeter, in 1928, had this to say about the dichotomy: "We have much less reason

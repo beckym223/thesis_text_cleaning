@@ -25,6 +25,9 @@ lacy, at least with regard to some of their problems, by the fact that a
 search for any empirical counterpart to the theoretical construct seems
 hopeless. Thus, some physicists working on particle theory were able
 * The same statement can be made about the household. The "household" in price theory
+
+
+#### Split:
 is not an object of study; it serves only as a theoretical link between changes in prices
 and changes in labor services supplied and in consumer goods demanded. The hypothetica!
 reactions of an imaginary decision-maker on the basis of assumed, internally consistent

@@ -36,6 +36,9 @@ There is little comfort in postulating, as has been done sometimes,
 the existence of detached minds that are immune to ideological bias
 and ex hypothesi able to overcome it. Such minds may actually exist
 "I am not aware of any instances in which the rules of inference themselves have been
+
+
+#### Split:
 ideologically distorted. All the more frequent are instances in which the rigor of tests
 is relaxed or tightened according to the ideological appeal of the proposition under dis-
 cussion. Since acceptance or rejection of a given statistical result always involves some

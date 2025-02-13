@@ -30,6 +30,9 @@ IV), that the true value of k for the period of 1899-1922 is reduced to
 .63. This is identical with the average value of k for the six years for
 which inter-industry studies were made.
 It may also be of some significance that in three of the four time
+
+
+#### Split:
 earners, salaried employees, supervisory officials, firm members, and working proprietors;
 (2) Capital (C)= total fixed and working capital; (3) Product (P) = gross sales value minus
 (a) cost of raw materials, (b) cost of fuel, heat, power, and rent, (c) taxes and insurance pay-

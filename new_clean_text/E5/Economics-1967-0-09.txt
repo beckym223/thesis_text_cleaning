@@ -37,6 +37,9 @@ can be answered with a fraction of the information that would be
 needed to answer the other questions, it would be foolish to burden the
 models designed for Question 3 with irrelevant matters, or to reject
 such models because they cannot do what they are not designed to do.³
+
+
+#### Split:
 A behavioral theory of automobile driving would probably study the process by which
 the decision to pass a truck is arrived at in a sequence of bickering among the members
 of the family: Mama and Sis trying to argue against taking an unnecessary risk, Sonny

@@ -35,6 +35,9 @@ ment). For, if the marginal rates of substitution among all the various
 “utilifactors” are constant, the distribution of funds among them will
 remain unchanged with changes in conditions that increase or decrease
 the total of funds available. Only if the cost of any of the factors
+
+
+#### Split:
 wasteful, that is, contributing nothing, and economizing nothing but managerial effort or
 capability.
 This list may be suggestive of the actions that may have to be taken when, after years

@@ -39,5 +39,8 @@ serve either an ideal or an interest. But such misconduct is not neces-
 sarily inherent in a worker's arguing from "axiological premises" or
 in advocacy per se.¹ Examples abound in which economists have estab-
 * The above passage should be clear. But it may be as well to make its meaning more
+
+
+#### Split:
 explicit. The misconduct in question consists, as stated, in “bending facts or logic in
 order to gain a point for either an ideal or an interest" irrespective of whether a writer

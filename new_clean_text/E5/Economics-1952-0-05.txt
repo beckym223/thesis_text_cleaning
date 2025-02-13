@@ -39,4 +39,7 @@ dynamics." It makes not a single reference to Adam Smith, but gives
 an excellent analysis of Ricardian economics. Yet surely Smith de-
 serves a high place, and perhaps the highest, in any historical account
 of dynamic economics. The point evidently is that, while Smith pro-
+
+
+#### Split:
 2 William J. Baumol, Economic Dynamics (New York, Macmillan, 1951).

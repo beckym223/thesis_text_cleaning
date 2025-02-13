@@ -43,6 +43,9 @@ differences are largely ironed out since the average values of k are .65
 k
 and of W/P .66. The average value of
 was .70.
+
+
+#### Split:
 k + j
 29 In the Queensland study the value of W/P was .614 or less than one standard error
 more than the value of k.

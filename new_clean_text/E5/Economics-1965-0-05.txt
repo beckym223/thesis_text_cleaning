@@ -31,6 +31,9 @@ cism with a passage that reads better than it reasons:
 The principle of non-interference can be applicable to those circum-
 stances only, in which interference would be productive of mischief; in
 * Mill's essay elicited a brilliant attack by Macaulay, who turned Mill's argument that
+
+
+#### Split:
 every man seeks only his own interests against the plea for universal suffrage:
 That the property of the rich minority can be made subservient to the pleasures of
 the poor majority will scarcely be denied. But Mr. Mill proposes to give the poor

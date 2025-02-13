@@ -35,6 +35,9 @@ the shift is usually, though not always, independent of the shape and
 position of the original curve. We need not fuss about the curve
 reflecting "accurate information" if we only want to see what happens
 when the curve shifts in a certain direction.
+
+
+#### Split:
 common good. I hope I am not excessively naive if I believe that the excess profits
 secured through restrictions on competition are to no small extent used for what the
 discretionary managers believe to be worthy causes. But I see no way of formulating any

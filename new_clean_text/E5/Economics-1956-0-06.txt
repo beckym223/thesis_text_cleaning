@@ -14,6 +14,9 @@ price level, particularly as it affects different types of assets. It is for
 this reason that the three price index series are included in Table II.
 These in general have their high and low points at about the same
 time, but the farm-product prices move over the widest range and the
+
+
+#### Split:
 TABLE II. AGRICULTURE'S SHARE IN TOTAL PRIVATELY OWNED TANGIBLE
 ASSETS USED IN PRODUCTION, 1910 TO 1955
 Index Numbers

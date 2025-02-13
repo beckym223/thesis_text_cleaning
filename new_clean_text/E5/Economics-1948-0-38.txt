@@ -4,8 +4,17 @@ We now come to one of the most important features of the theory of
 production and of distribution, namely, the relative degree to which
 the actual shares received by labor and capital approximate those
 TABLE VIII.-A COMPARISON BY YEARS OF THE VALUES OF THE EXPONENTS OF LABOR AND
+
+
+#### Split:
 CAPITAL IN THE PRODUCTION FUNCTION FOR AMERICAN MANUFACTURING (k AND j)
+
+
+#### Split:
 WITH THE UNWEIGHTED AVERAGE OF THE SHARES OF THE NET VALUE
+
+
+#### Split:
 PRODUCT RECEIVED BY LABOR (W/P)
 k
 Year

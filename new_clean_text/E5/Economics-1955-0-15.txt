@@ -105,5 +105,11 @@ Distribution (E) for Sector A,
 For methods of calculating the shares of quintiles, see text (p. 12 and fn. 6). Some differences
 will not check because of rounding.
 cerning three sets of factors-intersector differences in per capita in-
+
+
+#### Split:
 come, intrasector distributions, and sector weights-varying within the
+
+
+#### Split:
 limitations just indicated, the following conclusions are suggested:

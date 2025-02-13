@@ -114,7 +114,13 @@ b 1910-53, Survey of Current Business, August 1954, p. 22, Table 1.
 d Estimated from gross national product and national income data for first three quarters
 of 1955.
 in production, and the share in GNP, are plotted for 1910 to 1955. The
+
+
+#### Split:
 overriding factor in the situation is that as our country has progressed
+
+
+#### Split:
 economically, it has devoted a smaller share of its productive effort and
 resources to producing agricultural products, as indicated by the series
 for share of the GNP. Consequently, although agriculture has grown

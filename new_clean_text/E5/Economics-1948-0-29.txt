@@ -3,8 +3,17 @@ on the vertical scale and of the actual products on the horizontal scale.
 Since the values of scale are the same on both axes, the line BB' (with
 a slope of unity) is the locus of all those points for which the theoretical
 CHART III-DEVIATIONS OF ACTUAL FROM THEORETICAL VALUES OF LOG P
+
+
+#### Split:
 UNITED STATES MANUFACTURING 1904
+
+
+#### Split:
 LOG P'
+
+
+#### Split:
 9.0
 8.0
 7.0

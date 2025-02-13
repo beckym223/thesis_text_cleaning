@@ -2,8 +2,17 @@ under the formula than we would normally expect, is all the more
 striking in view of the fact that the values of the production function
 need not be the same within all industries or allied groups of industries.
 CHART V-DEVIATIONS OF ACTUAL FROM THEORETICAL VALUES OF LOG P
+
+
+#### Split:
 UNITED STATES MANUFACTURING 1914
+
+
+#### Split:
 LOG P'
+
+
+#### Split:
 9.0
 8.0
 7.0

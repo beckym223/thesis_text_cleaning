@@ -34,6 +34,9 @@ We may learn how a theorist coped with the problem by turning to
 my second economist, Pigou. In Wealth and Welfare [8] he recited
 four reasons for distrusting the ability of legislatures to control mo-
 15 It should be a source of morbid instruction to us, that immediately after laying down
+
+
+#### Split:
 this dogmatic rule on how to treat with dangerous machinery, Jevons denounces those
 who view the economist as a "presumptuous theorist, who is continually laying down hard-
 and-fast rules for the conduct of other people" [2, p. 8].

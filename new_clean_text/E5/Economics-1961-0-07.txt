@@ -39,6 +39,9 @@ human capital has been increasing relatively not only to conventional
 capital but also to income.
 The bumper crop of estimates that show national income increas-
 I leave aside here the difficulties inherent in identifying and measuring both the non-
+
+
+#### Split:
 human capital and the income entering into estimates of this ratio. There are index number
 and aggregation problems aplenty, and not all improvements in the quality of this capital
 have been accounted for, as I shall note later.

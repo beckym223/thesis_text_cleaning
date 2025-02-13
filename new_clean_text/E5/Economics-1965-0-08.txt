@@ -36,6 +36,9 @@ formed according to fixed rules. (2) It must be performed under the
 public eye, or for the service of individuals, who will immediately de-
 tect and expose any failure or laxity. (3) There must be very little
 capital expenditure, so that each year's revenue and expense account
+
+
+#### Split:
 14 Thus McCulloch said of the post office: "It does not seem, though the contrary has
 been sometimes contended, that the Postoffice could be so well conducted by anyone
 else as by government: the latter alone can enforce perfect regularity in all its subordinate

@@ -4,8 +4,17 @@ and 1919, the big deviations were predominantly on the plus, and the
 minor deviations on the minus, side. Thus, in 1919, of the 18 industries
 where the deviations amounted to more than two standard errors of
 TABLE VII. AN ANALYSIS OF THE COMPARATIVE DEGREES OF PLUS AND MINUS DEVIATIONS
+
+
+#### Split:
 OF ACTUAL FROM THEORETICAL PRODUCTS IN AMERICAN MANUFACTURING
+
+
+#### Split:
 INDUSTRIES 1889-1919
+
+
+#### Split:
 Year
 Number of Industries with Devia-
 tions of Less Than Two Standard
