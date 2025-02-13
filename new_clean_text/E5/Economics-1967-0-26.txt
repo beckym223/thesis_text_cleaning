@@ -1,14 +1,14 @@
-done this in their discussions of the subject of information, its avail-
-ability, its uncertainty, and its subjectivity. I mean, of course, infor-
-mation available to the "firm," and this raises the question whether we
-mean the firm as a purely theoretical construct or the firm as an orga-
-nization of real people or anything else.
-The firm as a theoretical construct has exactly the kind of informa-
-tion the theorist chooses to endow it with in order to design a good,
-useful theory. The firm as an organization of real people has the infor-
-mation system that it actually happens to have and which, in some in-
-stances, the management scientists (operations researchers) have suc-
-ceeded in developing. For purposes of competitive price and allocation
+done this in their discussions of the subject of information, its availability,
+its uncertainty, and its subjectivity. I mean, of course, information
+available to the "firm," and this raises the question whether we
+mean the firm as a purely theoretical construct or the firm as an organization
+of real people or anything else.
+The firm as a theoretical construct has exactly the kind of information
+the theorist chooses to endow it with in order to design a good,
+useful theory. The firm as an organization of real people has the information
+system that it actually happens to have and which, in some instances,
+the management scientists (operations researchers) have succeeded
+in developing. For purposes of competitive price and allocation
 theory, it does not make much difference whether the information
 which we assume the firm to have concerning the conditions of supply,
 production, and demand under which it works is correct or incorrect,
@@ -18,16 +18,16 @@ in wage rates or tax rates or something of this sort, we must of course
 take it for granted that the decision-makers who supposedly react to
 the change have taken notice of it. But whether their “previous” store
 of information-from which they started when the change occurred—
-was accurate or not will only in exceptional instances make a qualita-
-tive difference to the reactions.
+was accurate or not will only in exceptional instances make a qualitative
+difference to the reactions.
 This important difference between information about conditions and
 information about changes in conditions has eluded several writers,
 who shouted "tautology" when they confronted my statements about
 the subjectivity of information. They reasoned like this: If firms act
 on the basis of information which is entirely subjective, then anything
 they do may be said to follow from whatever they believe they know:
-hence, the assumption of subjectivism defeats any explanatory pur-
-poses. This is a sad confusion. In teaching elementary economics we
+hence, the assumption of subjectivism defeats any explanatory purposes.
+This is a sad confusion. In teaching elementary economics we
 ought to be able to make our students grasp the difference between the
 shape and position of a curve, on the one hand, and the shift of a
 curve, on the other. The direction of the effects which we derive from

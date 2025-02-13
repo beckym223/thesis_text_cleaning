@@ -15,8 +15,8 @@ of k and of W/P. In one year (1909), there was precise agreement
 between the two; in two of the years (1904 and 1914), the differences
 were approximately only one standard error, while in two more (1889
 and 1899), they amounted to two to three standard errors. The biggest
-difference was in 1919 when W/P was less than k by over eight stand-
-ard errors.
+difference was in 1919 when W/P was less than k by over eight standard
+errors.
 27
 Taking the average for the six years as a whole, we find that k
 averages .63,
@@ -27,19 +27,19 @@ equals .65, and labor's actual share or W/P was
 between what we would have theoretically expected the distribution of
 the product to be under conditions of perfect competition and that
 which actually occurred. It should be remembered, moreover, that due
-to our inability to deduct allowances for depreciation in specific in-
-dustries, the true values of W/P are probably understated by ap-
-proximately 3 percentage points, 28 and that, therefore, the average
+to our inability to deduct allowances for depreciation in specific industries,
+the true values of W/P are probably understated by approximately
+3 percentage points, 28 and that, therefore, the average
 
 
 #### Split:
-"The year 1919 was one in which prices rose with great rapidity. It would be ex-
-pected, therefore, that wages would lag behind in such a period.
+"The year 1919 was one in which prices rose with great rapidity. It would be expected,
+therefore, that wages would lag behind in such a period.
 28
 * On the basis of Dr. Fabricant's estimate of depreciation totals for manufacturing as
 a whole in 1919, it appears that these amounted to approximately five per cent of the value
-added by manufacturing in that year. If this had been deducted, labor's share would, there-
-fore, have been raised in 1919 by about three percentage points, or to approximately .62.
+added by manufacturing in that year. If this had been deducted, labor's share would, therefore,
+have been raised in 1919 by about three percentage points, or to approximately .62.
 Thus, Fabricant's careful allowance for depreciation in 1919 was 1151 millions of dollars.
 (Solomon Fabricant, Capital Consumption and Adjustment, pp. 260-61.) The total value
 added by manufacturing in that year, (i.e., value of product minus cost of raw material

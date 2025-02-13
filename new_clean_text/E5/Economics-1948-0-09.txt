@@ -15,13 +15,13 @@ expect a factor to receive as its share of the product, the proportion
 indicated by its exponent. From the income studies of the National
 Bureau of Economic Research, we found that labor's share of the net
 value product of manufacturing during the decade 1909-1918, was
-estimated at 74.1 per cent, or almost precisely the value of the ex-
-ponent for labor.
+estimated at 74.1 per cent, or almost precisely the value of the exponent
+for labor.
 Professor Cobb and I embodied the results of our inquiries in a
 paper which we read before this Association exactly twenty years ago
 tonight. We then determined to analyze more of such time series.
-Cobb computed indexes of labor, capital, and product in Massachu-
-setts manufacturing for the period 1890-1926, and found the value of
+Cobb computed indexes of labor, capital, and product in Massachusetts
+manufacturing for the period 1890-1926, and found the value of
 k to be .743. Interestingly enough, it was also found that the average
 of labor's share of the net value of the product in that state for that
 period was .74, or a virtual identity with the value of k. 10 A similar
@@ -29,8 +29,8 @@ study, which was made in Chicago by Mr. Director for New South
 Wales manufacturing for the period 1901-1927, found k to have a value
 of .65.
 There the matter more or less rested when my book, The Theory of
-Wages, appeared in 1934. Three years later, with the aid of Mrs. Mar-
-jorie Handsaker, I resumed our analysis of time series, and after
+Wages, appeared in 1934. Three years later, with the aid of Mrs. Marjorie
+Handsaker, I resumed our analysis of time series, and after
 working up data for Victorian manufacturing for the period 1907-1929,
 we found the value of k under the k and 1-k formula to be .71.¹¹ Labor's
 share of the net product or W/P was found to be .61 for this period.

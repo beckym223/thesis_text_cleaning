@@ -19,8 +19,8 @@ which has been made for New Zealand, namely, that made by Williams
 for 1938-39, k has a value of .46 and j of .51.20ª In the four Canadian
 studies which we made for so-called "normal" years, the k's range
 between .43 and .50, with an average of .47, and the j's between .48
-and .58, with an average of slightly more than .52. There is a con-
-siderable degree of steadiness in these results, which seem to indicate
+and .58, with an average of slightly more than .52. There is a considerable
+degree of steadiness in these results, which seem to indicate
 an elasticity of the marginal productivity curve for labor in that country
 as slightly less than 2.0 for the years studied and of capital as slightly
 more than that figure.
@@ -34,8 +34,8 @@ and Douglas, "The Production Function for Australian Manufacturing,” Quart. Jo
 Vol. LVI (Nov., 1941), pp. 108-129.
 d The definitions of terms in the studies for the separate Australian states were substantially
 similar to those in the four Commonwealth studies, except that (1) working proprietors were
-included in the definition of labor; (2) the estimated value of land was deducted from the capi-
-tal figures; (3) deductions were made from the value of product for (a) the estimated cost of
+included in the definition of labor; (2) the estimated value of land was deducted from the capital
+figures; (3) deductions were made from the value of product for (a) the estimated cost of
 local and state and federal taxes, (b) estimated fire insurance and workmen's compensation
 premiums, and (c) allowances for depreciation upon buildings, plant, and machinery. These
 were also the methods used in the Commonwealth Study of 1934-35. See Gunn and Douglas,

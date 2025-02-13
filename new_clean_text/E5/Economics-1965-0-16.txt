@@ -1,25 +1,25 @@
-stickier than unregulated prices? The empirical answers would ob-
-viously have contributed both to public policy and to the development
+stickier than unregulated prices? The empirical answers would obviously
+have contributed both to public policy and to the development
 of a general theory of public and private economy.
 Here we must pause, not without embarrassment, to notice that we
 could ask for empirical studies in areas traditional to economics as well
 as in the netherland of half economics, half political science. We need
 not be surprised, I suppose, that we know little of the effects of state
-regulation, when we also know very little about how oligopolists be-
-have. Marshall's theory that the differences between short- and long-
-run prices and profits are regulated by the differences between short- and
+regulation, when we also know very little about how oligopolists behave.
+Marshall's theory that the differences between short- and longrun
+prices and profits are regulated by the differences between short- and
 long-run reactions of supply will be 75 years old next year. Despite its
 immense influence, this theory has yet to receive a full empirical test.
 If such basic components of modern economic theory have escaped
-tests for quantitative significance, it is hardly surprising that our anti-
-trust laws, our motor carrier regulation, and our control of insurance
+tests for quantitative significance, it is hardly surprising that our antitrust
+laws, our motor carrier regulation, and our control of insurance
 company investments have also escaped such tests.
 Still, there has been a difference. Empirical tests of economic
 theories have been made for generations, and with greater frequency
-and diligence than we encounter in the area of social experiments. Al-
-ready in 1863 Jevons had ascertained the serious fall in the value of
-gold consequent upon the Californian and Australian gold discov-
-eries—it was 26 per cent over the 13-year period, 1849-62. No such
+and diligence than we encounter in the area of social experiments. Already
+in 1863 Jevons had ascertained the serious fall in the value of
+gold consequent upon the Californian and Australian gold discoveries—
+it was 26 per cent over the 13-year period, 1849-62. No such
 diligence or ingenuity can be found in the study of state controls at
 that time. A half century later Henry Moore was calculating statistical
 demand curves; again the study of the effects of public policies was
@@ -37,8 +37,8 @@ accuracy.
 The growth of empirical estimation of economic relationships, please
 notice, did not come as a response to the assault on formal theory by
 the German Historical School, nor was it a reply to the denunciations
-of theory by the American Institutionalists. It has been a slow develop-
-ment, contributed to by an earlier development in some natural sci-
-ences but mostly by the demonstrated successes of the pioneers of the
+of theory by the American Institutionalists. It has been a slow development,
+contributed to by an earlier development in some natural sciences
+but mostly by the demonstrated successes of the pioneers of the
 quantitative method-the Jevons, the Mitchells, the Moores, the
 Fishers.

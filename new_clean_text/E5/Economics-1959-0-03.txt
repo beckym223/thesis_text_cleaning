@@ -1,22 +1,22 @@
 Economists are indebted to Thorstein Veblen for his emphasis on
 the role that institutional factors play in economic thinking. To Veblen,
-what economists believed and had to say about the operation of eco-
-nomic forces in a price system was essentially a logical formulation
+what economists believed and had to say about the operation of economic
+forces in a price system was essentially a logical formulation
 of the preconceptions and observations of those whose daily lives
 were subjected to the impact of the system. As he expressed it, "The
 higher theoretical knowledge, that body of tenets which rises to the
 dignity of a philosophical or scientific system . . . is a complex of habits
 of thought which reflect the habits of life embodied in the institutional
 structure of society..." [31, p. 44]. More specifically, about classical
-theory Veblen said: “In the days of the early classical writers eco-
-nomics had a vital interest for the layman of the time, because it for-
-mulated the commonsense metaphysics of the time in its application
+theory Veblen said: “In the days of the early classical writers economics
+had a vital interest for the layman of the time, because it formulated
+the commonsense metaphysics of the time in its application
 to a department of human life" [31, p. 69].
 Wesley Clair Mitchell, close friend and admirer of Veblen, expressed
 a similar thought throughout his brilliant lectures on types of economic
-theory at Columbia University. Economic doctrines, he told his stu-
-dents, represent intellectual responses to ever-changing economic prob-
-lems. The problems economists think about and the way they think
+theory at Columbia University. Economic doctrines, he told his students,
+represent intellectual responses to ever-changing economic problems.
+The problems economists think about and the way they think
 about them are determined by the institutional matrix in which they
 find themselves. Around this idea he built his course in the development
 of economic thought from Adam Smith to John R. Commons.
@@ -34,5 +34,5 @@ It is true that he formulated principles governing the determination of
 * Presidential address delivered at the Seventy-first Annual Meeting of the American
 Economic Association, Chicago, Ill., December 28, 1958. The author is grateful to his
 colleague, Elizabeth R. Post, and to C. A. Stocking, I. H. Siegel, and G. H. Hildebrand
-for reading a draft of this paper critically. It has been improved by such of their sug-
-gestions as he has adopted.
+for reading a draft of this paper critically. It has been improved by such of their suggestions
+as he has adopted.

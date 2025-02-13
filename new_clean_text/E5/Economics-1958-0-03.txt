@@ -2,26 +2,26 @@ We in the West are proud-and justly proud of our free enterprise
 economic system. Nonetheless, if you look for the kind of rounded
 description and explanation of this type of system that the proverbial
 man-from-Mars would need in order to understand in broad terms
-what it is and how it works, you will not find one. I know of no pub-
-lished explanation that does not leave important gaps and does not
+what it is and how it works, you will not find one. I know of no published
+explanation that does not leave important gaps and does not
 badly need to have a number of qualifications attached to it.
 Such descriptions and explanations of the free enterprise way of
 organizing economic activity as we have are to be found chiefly in
-connection with statements of principles of economics in general in-
-troductory texts and texts on intermediate theory. These statements
+connection with statements of principles of economics in general introductory
+texts and texts on intermediate theory. These statements
 commonly tell only a part of the story of free enterprise and a rather
 misleading part at that. The aspects of a free-enterprise economy that
 they typically select for consideration can fairly be characterized as
 mechanisms, aspects that lend themselves to the techniques of model
 analysis. And they slight what may be called the organic aspects of a
 private-enterprise economy, particularly those aspects that reflect
-changes in legal and economic institutions, and those like the master-
-servant relationship that are not easily treated in the terms of an
+changes in legal and economic institutions, and those like the masterservant
+relationship that are not easily treated in the terms of an
 individualistic ideology. I do not mean to say that most introductory
 and intermediate theory texts neglect these organic aspects entirely;
-only that consideration of them is often very scanty and is quite com-
-monly put in a separate chapter rather than made a part of the ex-
-planation of the private enterprise way of organizing economic activity.
+only that consideration of them is often very scanty and is quite commonly
+put in a separate chapter rather than made a part of the explanation
+of the private enterprise way of organizing economic activity.
 But such scantiness and separateness of treatment can be an extremely
 serious fault, particularly when one is concerned with the public-policy
 implications of a statement of principles of economics.
@@ -31,7 +31,7 @@ implications of a statement of principles of economics.
 
 #### Split:
 
-* Presidential address delivered at the Seventieth Annual Meeting of the American Eco-
-nomic Association, Philadelphia, Pa., December 28, 1957. The author gratefully acknowl-
-edges the helpful criticisms of drafts of this paper given him by his colleagues Douglas
+* Presidential address delivered at the Seventieth Annual Meeting of the American Economic
+Association, Philadelphia, Pa., December 28, 1957. The author gratefully acknowledges
+the helpful criticisms of drafts of this paper given him by his colleagues Douglas
 Dowd, Alfred E. Kahn, and Chandler Morse.

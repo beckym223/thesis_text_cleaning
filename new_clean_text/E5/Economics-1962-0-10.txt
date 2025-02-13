@@ -3,10 +3,10 @@ generally chose to controvert the Wealth of Nations rather than the
 writings of later members of his school.
 David Ricardo. In time Ricardo came to be the whipping boy for
 continental romantics and historicists. Yet there is not much evidence
-that they had to read him closely in order to find fault with his ab-
-stract methodology. I must confess that I find Ricardo hard to give
-semester-type grades to. He is par excellence an economist's econo-
-mist. A sweet man, Ricardo is certainly one of the luckiest that ever
+that they had to read him closely in order to find fault with his abstract
+methodology. I must confess that I find Ricardo hard to give
+semester-type grades to. He is par excellence an economist's economist.
+A sweet man, Ricardo is certainly one of the luckiest that ever
 lived. And here I have not so much in mind his success in speculating;
 although he was no slouch in that department, as some facts from his
 biography illustrate.*
@@ -28,9 +28,9 @@ means and a convex-from-above utility function, lived to reproach himself for no
 followed that advice. Retiring young from business to devote himself to leisure, study,
 politics, and being a gentleman, Ricardo astutely realized that his numerous children were
 not chips off the old block in financial acumen; so, and this is purely my conjecture,
-being convinced by his studies that land rent tends to rise as capital and labor progres-
-sively grow, Ricardo arranged to buy self-sufficient gentry estates for his offspring, suc-
-ceeding so well in his purpose as to keep his descendants out of shirtsleeves until the
+being convinced by his studies that land rent tends to rise as capital and labor progressively
+grow, Ricardo arranged to buy self-sufficient gentry estates for his offspring, succeeding
+so well in his purpose as to keep his descendants out of shirtsleeves until the
 end of the century and, at the same time, conferring upon them the bonus of being
 absorbed into county society. At the urging of his friends, Ricardo indulged in conspicuous
 consumption by buying his way into Parliament. (He did this by invoking the later
@@ -42,8 +42,8 @@ Ricardo was a genuinely disinterested man and generally favored measures that we
 against the interest of landlords. When once accused of having a special interest in some
 proposal, he candidly replied that his interests were so diverse that he himself could not
 tell on which side the balance of his Hicksian income effects would fall, thus showing
-himself to be a master of quadratic programming of the type needed for optimal Marko-
-witz portfolio balancing; and little wonder, since in 1817 Ricardo's comparative cost
+himself to be a master of quadratic programming of the type needed for optimal Markowitz
+portfolio balancing; and little wonder, since in 1817 Ricardo's comparative cost
 theory had involved him in linear programming. One feels he was a natural at trading
 in, and arbitraging, Lagrangean multipliers and other dual-price variables. See Volume 10
 of the Sraffa edition of Ricardo's work for most of the facts from which this account

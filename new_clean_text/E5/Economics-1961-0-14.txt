@@ -1,22 +1,22 @@
-qualifications.13 Nevertheless, both the magnitude and the rate of in-
-crease of this form of human capital have been such that they could be
+qualifications.13 Nevertheless, both the magnitude and the rate of increase
+of this form of human capital have been such that they could be
 an important key to the riddle of economic growth."
 The exciting work under way is on the return to education. In spite
 of the flood of high school and college graduates, the return has not
-become trivial. Even the lower limits of the estimates show that the re-
-turn to such education has been in the neighborhood of the return to
+become trivial. Even the lower limits of the estimates show that the return
+to such education has been in the neighborhood of the return to
 nonhuman capital. This is what most of these estimates show when they
 treat as costs all of the public and private expenditures on education
 and also the income foregone while attending school, and when they
 treat all of these costs as investment, allocating none to consumption.15
-But surely a part of these costs are consumption in the sense that edu-
-cation creates a form of consumer capital 16 which has the attribute of
-13 From [19, Sec. 4]. These estimates of the stock of education are tentative and in-
-complete. They are incomplete in that they do not take into account fully the increases
+But surely a part of these costs are consumption in the sense that education
+creates a form of consumer capital 16 which has the attribute of
+13 From [19, Sec. 4]. These estimates of the stock of education are tentative and incomplete.
+They are incomplete in that they do not take into account fully the increases
 in the average life of this form of human capital arising out of the fact that relatively
 more of this education is held by younger people in the labor force than was true in earlier
-years; and, they are incomplete because no adjustment has been made for the improve-
-ments in education over time, increasing the quality of a year of school in ways other than
+years; and, they are incomplete because no adjustment has been made for the improvements
+in education over time, increasing the quality of a year of school in ways other than
 those related to changes in the proportions represented by elementary, high school and
 higher education. Even so the stock of this form of human capital rose 8.5 times between
 1900 and 1956 while the stock of reproducible nonhuman capital increased only 4.5 times,
@@ -28,23 +28,23 @@ as large.
 to have declined substantially between the late 'thirties and early 'fifties and since then
 has leveled off, perhaps even risen somewhat, indicating a rate of return toward the end
 of the 'fifties about as high as that to higher education. (2) The return to college education
-seems to have risen somewhat since the late 'thirties in spite of the rapid influx of college-
-trained individuals into the labor force. (3) Becker's estimates based on the difference in
+seems to have risen somewhat since the late 'thirties in spite of the rapid influx of collegetrained
+individuals into the labor force. (3) Becker's estimates based on the difference in
 income between high school and college graduates based on urban males adjusted for
 ability, race, unemployment and mortality show a return of 9 per cent to total college
 costs including both earnings foregone and conventional college costs, public and private
-and with none of these costs allocated to consumption (see his paper given at the Ameri-
-can Economic Association meeting, December 1959 [2]). (4) The returns to this educa-
-tion in the case of nonwhite urban males, of rural males, and of females in the labor force
+and with none of these costs allocated to consumption (see his paper given at the American
+Economic Association meeting, December 1959 [2]). (4) The returns to this education
+in the case of nonwhite urban males, of rural males, and of females in the labor force
 may have been somewhat lower (see Becker [2]). (5) My own estimates, admittedly less
 complete than those of Becker and thus subject to additional qualifications, based mainly
 on lifetime income estimates of Herman P. Miller [12], lead to a return of about 11 per
 cent to both high school and college education as of 1958. See [19, Sec. 5].
 Whether the consumption component in education will ultimately dominate, in the
-sense that the investment component in education will diminish as these expenditures in-
-crease and a point will be reached where additional expenditures for education will be
-pure consumption (a zero return on however small a part one might treat as an invest-
-ment), is an interesting speculation. This may come to pass, as it has in the case of food
+sense that the investment component in education will diminish as these expenditures increase
+and a point will be reached where additional expenditures for education will be
+pure consumption (a zero return on however small a part one might treat as an investment)
+, is an interesting speculation. This may come to pass, as it has in the case of food
 and shelter, but that eventuality appears very remote presently in view of the prevailing
 investment value of education and the new demands for knowledge and skill inherent in
 the nature of our technical and economic progress.

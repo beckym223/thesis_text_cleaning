@@ -16,8 +16,8 @@ Haven 1964.
 7. On Quantative Thinking in Economics. Oxford 1935.
 8. COLIN CLARK, Conditions of Economic Progress, 2nd ed., London 1951,
 3rd ed., 1957.
-9. COLIN CLARK AND M. R. HASWELL, The Economics of Subsistence Agri-
-culture. London 1964.
+9. COLIN CLARK AND M. R. HASWELL, The Economics of Subsistence Agriculture.
+London 1964.
 10. M. CLAWSON et al., Land for the Future, Baltimore 1960; IRENE B.
 TAEUBER, "The Development of Population Predictions in Europe and
 the Americas," Estadistica, Sept. 1944, No. 7, 323–46; J. J. SPENGLER
@@ -29,14 +29,14 @@ in Louis Henry and Wilhelm Winkler, eds., International Population
 Conference, Vienna 1959.
 12.
 ,
-ed., Demographic and Economic Change in Developed Coun-
-tries. Princeton 1960.
+ed., Demographic and Economic Change in Developed Countries.
+Princeton 1960.
 13. J. S. DAVIS, "The Specter of Dearth of Food; History's Answer to Sir
-William Crookes," in Facts and Factors in Economic History, Cam-
-bridge 1932, pp. 732–54.
+William Crookes," in Facts and Factors in Economic History, Cambridge
+1932, pp. 732–54.
 14. J. F. DEWHURST et al., Europe's Needs and Resources, New York
-1961; S. N. PROKOPOVICZ, l'industrialisation des pays agricoles et la struc-
-ture de l'économie mondiale après la guerre, Neuchatel 1946.
+1961; S. N. PROKOPOVICZ, l'industrialisation des pays agricoles et la structure
+de l'économie mondiale après la guerre, Neuchatel 1946.
 15. L. I. DUBLIN, ed., Population Problems in the United States and
 Canada. New York 1926.
 16.
@@ -44,5 +44,5 @@ et al., Length of Life, rev. ed., New York 1949; R. R. KucZYN-
 * Bibliographical note: For statistical and background information I have drawn on
 W. S. and E. S. Woytinsky, World Population and Production, New York 1953; United
 Nations, Population Bulletin, Nos. 6-7, and Provisional Report on World Population
-Prospects. . . in 1963, New York 1964; D. V. Glass and D. E. C. Eversley, eds., Popula-
-tion in History, Chicago 1965.
+Prospects. . . in 1963, New York 1964; D. V. Glass and D. E. C. Eversley, eds., Population
+in History, Chicago 1965.

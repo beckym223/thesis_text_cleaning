@@ -10,8 +10,8 @@ agreement would not have occurred.
 5. The instances of large deviations of the actual from the theoretical
 values can in most cases be explained as being caused by imperfect
 competition and by expanding demand in the case of the plus deviations.
-and by contracting demand, "sweating," and possibly "excessive" com-
-petition in the case of the minus industries. This would indicate that if
+and by contracting demand, "sweating," and possibly "excessive" competition
+in the case of the minus industries. This would indicate that if
 these complications could be eliminated, the agreement between the
 actual and theoretical products would be greater.
 6. That, taken in the large, there is an almost precise degree of
@@ -33,8 +33,8 @@ end.
 
 #### Split:
 31
-"Some of the studies which badly need to be carried out are (1) to develop the produc-
-tion function for each and every year over a long period, say 1910-1940, for Australia, New
+"Some of the studies which badly need to be carried out are (1) to develop the production
+function for each and every year over a long period, say 1910-1940, for Australia, New
 Zealand, and Canada; (2) to carry on studies of the production function for a large
 number of specific firms and within specific industries and hence connect the theory of the
 firm and of the industry with that of the economy; (3) to carry on further studies, along

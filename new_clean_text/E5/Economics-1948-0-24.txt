@@ -7,25 +7,25 @@ extraordinary in that we had high prosperity from 1922 to the fall of
 1929 and that we did not fully recover from the collapse which then
 set in until 1941. It was this fundamental difficulty which prevented one
 of my students, Mr. Leonard Felsenthal, from developing a satisfactory
-production function for Germany in the inter-war period. I shall, there-
-fore, await with sympathetic interest the paper on this subject which
+production function for Germany in the inter-war period. I shall, therefore,
+await with sympathetic interest the paper on this subject which
 Mr. Burton Wall is to give tomorrow.
 IV. The Production Function as Based on Plant Averages Rather
 than Industry Aggregates
 The inductive values which have thus far been developed in the
 cross-section or inter-industry studies have been based on industry
 aggregates, namely the totals of workers, capital, and net values added
-by manufacturing in each industry. This method is somewhat discon-
-certing to those who are accustomed in their a priori reasoning to start
+by manufacturing in each industry. This method is somewhat disconcerting
+to those who are accustomed in their a priori reasoning to start
 with the theory of production for the individual firm and who then.
-move to a model for a given industry but who shy away from develop-
-ing a theory of production for the economy as a whole or from the
-manufacturing sector of that economy. Such theorists probably be-
-lieve that we are starting at the wrong end and that we should begin
+move to a model for a given industry but who shy away from developing
+a theory of production for the economy as a whole or from the
+manufacturing sector of that economy. Such theorists probably believe
+that we are starting at the wrong end and that we should begin
 instead with the individual firm rather than the whole manufacturing
-sector of the economy and that we should consider the production func-
-tion within these units rather than deal with inter-industry and aggre-
-gate functions.
+sector of the economy and that we should consider the production function
+within these units rather than deal with inter-industry and aggregate
+functions.
 There are two answers to this position. The first is that I should be
 very glad indeed to make studies of individual firms if the necessary
 data were available. But statistics on the changing quantities of labor
@@ -36,6 +36,6 @@ to believe that we should stop all our investigations until all of these
 facts are forthcoming for a multitude of firms.
 Secondly, I personally see no reason why we cannot approach this
 problem from either end and study the macrocosm as well as the
-microcosm. No one, for example, in the physical sciences would pro-
-pose that we give up using the telescope because the microscope had
+microcosm. No one, for example, in the physical sciences would propose
+that we give up using the telescope because the microscope had
 not yielded all its secrets. Why should we not, therefore, study the

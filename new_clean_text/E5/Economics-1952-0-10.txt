@@ -1,38 +1,38 @@
 war, we have been faced with a condition of inflation, seemingly as
 intractable as the deflationary conditions which found expression in
 Keynes' theory. We may still argue, as many Keynesians do, that the
-income equation is still as applicable as it appeared to be in the begin-
-ning. But to my mind this is either mysticism or the familiar confusion
+income equation is still as applicable as it appeared to be in the beginning.
+But to my mind this is either mysticism or the familiar confusion
 between an identity equation and a law. It was over this same sort
 of confusion that the long controversies about the quantity-of-money
-equation became so sterile. Certainly, in recent years, Keynesian eco-
-nomics has been undergoing fundamental changes. We have become
+equation became so sterile. Certainly, in recent years, Keynesian economics
+has been undergoing fundamental changes. We have become
 dissatisfied with the “law,” as Keynes gave it to us. One form that this
 has taken has been the further analysis of the consumption function.
 It seems now agreed among econometricians that the “simple relation"
 between income and consumption, as Keynes stated it, is unstable, and
-in searching for a more complex relation which may have some prom-
-ise of greater stability various hypotheses have been introduced which
-contradict Keynes' own theory. For example, liquidity is now com-
-monly accepted as a factor influencing consumption, whereas in
+in searching for a more complex relation which may have some promise
+of greater stability various hypotheses have been introduced which
+contradict Keynes' own theory. For example, liquidity is now commonly
+accepted as a factor influencing consumption, whereas in
 Keynes' theory it affected only investment. We have been working with
 various hypotheses, including saving out of past income, liquid assets,
-capital gains, the last highest income reached during a boom, expecta-
-tions of future income, and other possible factors affecting the income-
-consumption relation. The broad fact seems to be that we have nothing
-left of this basic concept of the Keynesian theory other than that con-
-sumption is an important component of income and deserves all the
+capital gains, the last highest income reached during a boom, expectations
+of future income, and other possible factors affecting the incomeconsumption
+relation. The broad fact seems to be that we have nothing
+left of this basic concept of the Keynesian theory other than that consumption
+is an important component of income and deserves all the
 study we can give it."
 One over-all criticism of Keynesian economics that seems to me
 justified is that Keynes' emphasis on the demand side-his principle
 of effective demand-sins quite as much in its taking for granted the
 adaptability of supply as the classical economists did in their reverse
-emphasis. This has interested me particularly in connection with prob-
-lems of international trade adjustment, and how to effect the grand rec-
-onciliation between internal full-employment policies and a country's
+emphasis. This has interested me particularly in connection with problems
+of international trade adjustment, and how to effect the grand reconciliation
+between internal full-employment policies and a country's
 balance-of-payments position, by some method other than mere grants
-of aid. But its applicability is general and the place to begin the correc-
-tion would be in the internal economy, even if we were considering, as
+of aid. But its applicability is general and the place to begin the correction
+would be in the internal economy, even if we were considering, as
 Keynes mostly did, a closed economic system. Assuming, as Keynes did,
 constant technique, and confining himself to short-period analysis,
 with no analysis at all of economic processes-how we get from one
@@ -41,6 +41,6 @@ state of static equilibrium to another-Keynes' theory has always
 
 #### Split:
 "I have taken part of this paragraph, and some scattered comments elsewhere, from
-my paper presented at our Annual Meeting in 1947, "An Appraisal of Keynesian Eco-
-nomics," Proceedings of the American Economic Association, Am. Econ. Rev., Vol.
+my paper presented at our Annual Meeting in 1947, "An Appraisal of Keynesian Economics,
+" Proceedings of the American Economic Association, Am. Econ. Rev., Vol.
 XXXVIII, No. 2 (May, 1948), pp. 273-90.

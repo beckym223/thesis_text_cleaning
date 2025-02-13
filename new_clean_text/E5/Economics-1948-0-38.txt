@@ -23,8 +23,8 @@ k
 k+j
 32
 W
-Degree to which W/P dif-
-k
+Degree to which W/P difk
+
 fers from k and
 in
 k+j

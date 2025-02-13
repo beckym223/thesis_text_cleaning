@@ -9,10 +9,10 @@ firms in the industry were large and few, and not under the pressure of
 competition. There are many very quotable statements to this effect.
 6
 Too many students, however, want a realistic model of the firm for
-all purposes. They forget the maxim of Occam's Razor that unneces-
-sary terms in a theory be kept out (or shaved off). These students
-seem to miss in a simplified model the realistic trimmings of the ob-
-servable world; they distrust such a model because it is obviously
+all purposes. They forget the maxim of Occam's Razor that unnecessary
+terms in a theory be kept out (or shaved off). These students
+seem to miss in a simplified model the realistic trimmings of the observable
+world; they distrust such a model because it is obviously
 
 
 #### Split:
@@ -47,8 +47,8 @@ must never fail to specify the side of the frontier on which we happen to be. Th
 theoretical terms may have empirical referents (counterparts), but to believe, or allow
 an impression of belief, that the two are identical is a methodological fallacy.
 "When the conditions of competition are relaxed . . . the opportunity set of the firm
-is expanded. In this case, the behavior of the firm as a distinct operating unit is of sepa-
-rate interest. Both for purposes of interpreting particular behavior within the firm as
+is expanded. In this case, the behavior of the firm as a distinct operating unit is of separate
+interest. Both for purposes of interpreting particular behavior within the firm as
 well as for predicting responses of the industry aggregate, it may be necessary to identify
 the factors that influence the firm's choices within this expanded opportunity set and
 embed these in a formal model" [48, pp. 2-3].

@@ -7,19 +7,19 @@ in genetics warned, after empirical genes were discovered, that these
 genes," which had been useful constructs in explanatory models before
 the discovery of any empirical referents [42, p. 814]. Economists,
 however, know for sure that firms exist as empirical entities and,
-hence, they have a hard time keeping the theoretical firm and the em-
-pirical firm apart.
-For certain economic problems the existence of the firm is of the es-
-sence. For example, if we study the size distribution of firms or the
+hence, they have a hard time keeping the theoretical firm and the empirical
+firm apart.
+For certain economic problems the existence of the firm is of the essence.
+For example, if we study the size distribution of firms or the
 growth of the firm, the organization and some of its properties and
 processes are the very objects of the investigation. In such studies we
 insist on a high degree of correspondence between the model (the
 thought-object) and the observed object. For other problems, however,
 as for problems of competitive-price theory, any likeness between the
-theoretical construct of the firm and the empirical firm is purely coin-
-cidental.
-Economists trained in scientific methodology understand this clear-
-ly. I might quote a dozen or more writers, but will confine myself to
+theoretical construct of the firm and the empirical firm is purely coincidental.
+
+Economists trained in scientific methodology understand this clearly.
+I might quote a dozen or more writers, but will confine myself to
 one quotation, which states that "in economic analysis, the business
 firm is a postulate in a web of logical connections" [15, p. 196]. Let
 me add the statement of another writer, who however was plaintiff

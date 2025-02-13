@@ -1,12 +1,12 @@
 ing professional language. Their competence consists in understanding
-how an economic system works under alternative institutional frame-
-works. If they have anything of their own to contribute to the popular
+how an economic system works under alternative institutional frameworks.
+If they have anything of their own to contribute to the popular
 discussion of economic policy, it is some special understanding of the
 relationship between policies and results of policies.
 The basic role of the scientist in public policy, therefore, is that of
-establishing the costs and benefits of alternative institutional arrange-
-ments. Smith had no professional right to advise England on the Navi-
-gations Acts unless he had evidence of their effects and the probable
+establishing the costs and benefits of alternative institutional arrangements.
+Smith had no professional right to advise England on the Navigations
+Acts unless he had evidence of their effects and the probable
 effects of their repeal. A modern economist has no professional right to
 advise the federal government to regulate or deregulate the railroads
 unless he has evidence of the effects of these policies.
@@ -17,23 +17,23 @@ if a subject is capable of study, a scholar ought to study it before he
 advises legislators. Suppose you deplore disease or, conversely, that
 you greatly admire the much-persecuted germ. My assertion is that
 however you stand, you should not support proposals to compel or to
-forbid people to go to a doctor until you find out whether their attend-
-ance on a doctor will increase or decrease the incidence of disease. If this
-particular example strikes you as absurdly pedantic, I offer two re-
-sponses. First, will your answer be the same whatever the state of
-medical science in a country? Second, we shall come to harder prob-
-lems.
+forbid people to go to a doctor until you find out whether their attendance
+on a doctor will increase or decrease the incidence of disease. If this
+particular example strikes you as absurdly pedantic, I offer two responses.
+First, will your answer be the same whatever the state of
+medical science in a country? Second, we shall come to harder problems.
+
 My task, then, is to ask in as hardheaded a way as possible what
-precisely was the evidence economists provided for their policy recom-
-mendations, evidence that successfully linked their proposals with the
+precisely was the evidence economists provided for their policy recommendations,
+evidence that successfully linked their proposals with the
 goals they were seeking to achieve. I begin with Adam.
 I
-Smith bases his proposals for economic policy upon two main posi-
-tions. Neither basis is presented in a formal and systematic fashion,
+Smith bases his proposals for economic policy upon two main positions.
+Neither basis is presented in a formal and systematic fashion,
 and there are serious problems in determining exactly why he wishes
 most economic life to be free of state regulation.
-Smith's first basis for his economic policies was his belief in the effi-
-ciency of the system of natural liberty. There can be little doubt that
+Smith's first basis for his economic policies was his belief in the efficiency
+of the system of natural liberty. There can be little doubt that
 this tough-minded Scotsman, this close friend of that cool and clear
 thinker, David Hume, had a deep attachment to the natural law of the
 late enlightenment. But Smith did not propose natural liberty as a lay

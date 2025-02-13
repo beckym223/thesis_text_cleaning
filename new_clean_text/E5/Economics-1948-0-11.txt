@@ -7,36 +7,36 @@ also rough measurements of relative physical amounts. But since
 product is also expressed in value terms, this is the result not only of:
 (a) changes in the increments to the total physical product but also
 of (b) changes in the exchange value, or the relative price per unit of
-the products of an industry. The net values turned out by the respec-
-tive industries will, therefore, be affected in these cases not only by
+the products of an industry. The net values turned out by the respective
+industries will, therefore, be affected in these cases not only by
 the quantities produced but also by the respective demand curves for
 the products. Changes in each of these variables will affect the total
 exchange value produced.
 Some critics will, of course, object that this second type of study,
-since it includes both quantities and prices, does not measure produc-
-tion at all and is in no sense a test of marginal productivity theory. It
+since it includes both quantities and prices, does not measure production
+at all and is in no sense a test of marginal productivity theory. It
 is certainly a somewhat different type of production function from
 that which is based on index numbers of quantities. But marginal
 productivity theory has always implicitly dealt in terms of values as
 well as of physical quantities since it assumes that the supplies of labor
-and capital in each of the various industries are regulated by the prin-
-ciple that the respective marginal laborers will produce equal amounts
+and capital in each of the various industries are regulated by the principle
+that the respective marginal laborers will produce equal amounts
 of value as will the marginal units of capital. In the apportionment
 of resources within an economy, therefore, the principle of diminishing
 incremental value productivity is an essential part of economic theory
 and is worthy of consideration. There is no reason why a production
 function which deals with it should not also be worthy of consideration
 and treatment.
-Although interrupted by the war, we now have completed six cross-
-section or inter-industry studies for American manufacturing, namely,
-for the years 1889, 1899, 1904, 1909, 1914, and 1919; four cross-
-section studies for Canada covering the years 1923, 1927, 1935, and
+Although interrupted by the war, we now have completed six crosssection
+or inter-industry studies for American manufacturing, namely,
+for the years 1889, 1899, 1904, 1909, 1914, and 1919; four crosssection
+studies for Canada covering the years 1923, 1927, 1935, and
 1937; three studies for Victoria for the years 1910-11, 1923-24, and
 1927-28; one study for New South Wales for 1933-34, and five studies
 for the Commonwealth of Australia, namely, 1912, 1922-23, 1926-27,
 1934-35, and 1936-37. Two of my students, Messrs. G. Brinegar and
 K. O. Campbell, have just finished such a study for Queensland for
 1937-38, and two more, Messrs. B. Solomon and N. A. Deif, are
-completing another study for New Zealand for 1926-27. In all, there-
-fore, twenty-one cross-section studies have been carried through by
+completing another study for New Zealand for 1926-27. In all, therefore,
+twenty-one cross-section studies have been carried through by
 our Chicago group to add to our previous four time studies, namely,

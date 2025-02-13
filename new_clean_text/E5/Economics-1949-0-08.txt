@@ -7,8 +7,8 @@ conceptualized and the relations between them explicitly formulated,
 either as assumptions or as propositions (theorems). This primitive
 way of putting it may not satisfy the logician but it is all we need
 for our hunt for ideological bias. Two things should be observed.
-First, that perception of a set of related phenomena is a pre-
-scientific act. It must be performed in order to give to our minds
+First, that perception of a set of related phenomena is a prescientific
+act. It must be performed in order to give to our minds
 something to do scientific work on-to indicate an object of research
 -but it is not scientific in itself. But though prescientific, it is not
 preanalytic. It does not simply consist in perceiving facts by one or
@@ -19,8 +19,8 @@ be recognized as related—so that we might separate them from others
 This mixture of perceptions and prescientific analysis we shall call the
 research worker's Vision or Intuition. In practice, of course, we hardly
 ever start from scratch so that the prescientific act of vision is not
-entirely our own. We start from the work of our predecessors or con-
-temporaries or else from the ideas that float around us in the public
+entirely our own. We start from the work of our predecessors or contemporaries
+or else from the ideas that float around us in the public
 mind. In this case our vision will also contain at least some of the
 results of previous scientific analysis. However, this compound is still
 given to us and exists before we start scientific work ourselves.

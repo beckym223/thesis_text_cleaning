@@ -17,14 +17,14 @@ is a typical initiator. By “typical” I do not refer to the ideal type of
 German sociology [47, p. 44] [35, pp. 20-63, 81] [25, pp. 21-57],
 but rather to the common-sense kind of person that many of us have
 met in person or, at least, have heard about. On the other hand, there
-are also theories of "induced invention"-assuming latent inventive-
-ness (though an invention can never be a mere reaction)—and theories
-of "induced growth," employing the construct of the imaginary reac-
-tor.
-3. In welfare economics, the firm is an imaginary or a typical reac-
-tor or initiator with accurate knowledge of his opportunities. De-
-pending on the proposition in question, all combinations are again pos-
-sible, but in any case a new requirement is introduced: accurate
+are also theories of "induced invention"-assuming latent inventiveness
+(though an invention can never be a mere reaction)—and theories
+of "induced growth," employing the construct of the imaginary reactor.
+
+3. In welfare economics, the firm is an imaginary or a typical reactor
+or initiator with accurate knowledge of his opportunities. Depending
+on the proposition in question, all combinations are again possible,
+but in any case a new requirement is introduced: accurate
 knowledge of the environmental conditions on the part of all reactors
 and initiators. For, in contrast to the theory of price and allocation,
 the welfare theorist wants to ascertain, not only in which direction
@@ -33,12 +33,12 @@ whether this move will increase or reduce welfare. For such an exercise
 it is no longer irrelevant whether the subjective information of the
 firms is correct or false.
 4. In the theory of oligopoly and monopoly, the firm is a typical
-reactor and initiator in a small (or zero) interacting group. I have ex-
-plained earlier why a theory of oligopoly with nothing but imaginary
+reactor and initiator in a small (or zero) interacting group. I have explained
+earlier why a theory of oligopoly with nothing but imaginary
 reactors may not be widely applicable.
-5. In the theory of organization (or bureaucracy), the firm is a typ-
-ical cooperative system with authoritative coordination. I have ac-
-cepted this formulation from one of the authorities [28, p. 187] and
+5. In the theory of organization (or bureaucracy), the firm is a typical
+cooperative system with authoritative coordination. I have accepted
+this formulation from one of the authorities [28, p. 187] and
 thus may disclaim responsibility for it.
 6. In management science (or the art of business management), the
 firm is a functional information system and decision-making system

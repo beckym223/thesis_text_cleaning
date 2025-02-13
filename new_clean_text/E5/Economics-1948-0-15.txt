@@ -5,13 +5,13 @@ higher values for k and lower values for j in our first three time series
 studies than we do for the cross-section studies. For as we have pointed
 out, the two functions are, in fact, somewhat different and we should
 not necessarily expect identical results. Moreover, in the time studies,
-there tends to be a systematic downward bias to the index of produc-
-tion which keeps it closer to the index of labor than it should be in
+there tends to be a systematic downward bias to the index of production
+which keeps it closer to the index of labor than it should be in
 reality and hence gives an excessive value to k. This downward bias is
 caused by two factors: (1) Since the indexes are primarily based on
-the quantities of raw material produced, they do not include the in-
-creased fabrication and reworking of these materials which is a pro-
-nounced, although not a universal, tendency of industry. (2) It is in
+the quantities of raw material produced, they do not include the increased
+fabrication and reworking of these materials which is a pronounced,
+although not a universal, tendency of industry. (2) It is in
 practice not possible to include with sufficient rapidity the new
 products which are continually pushing themselves forward, nor to drop
 in adequate time the products which are becoming obsolete. The net
@@ -35,8 +35,8 @@ It may also be of some significance that in three of the four time
 #### Split:
 earners, salaried employees, supervisory officials, firm members, and working proprietors;
 (2) Capital (C)= total fixed and working capital; (3) Product (P) = gross sales value minus
-(a) cost of raw materials, (b) cost of fuel, heat, power, and rent, (c) taxes and insurance pay-
-ments, (d) amounts paid to contractors, (e) cost of repairs, (f) sundries. No deduction has been
+(a) cost of raw materials, (b) cost of fuel, heat, power, and rent, (c) taxes and insurance payments,
+(d) amounts paid to contractors, (e) cost of repairs, (f) sundries. No deduction has been
 made for the depreciation of fixed capital except that included under the heading of "repairs."
 For earlier studies on four of these years see Gunn and Douglas, "The Production Function
 for American Manufacturing for 1919," Am. Econ. Rev., Vol. XXXI (Mar., 1941) pp. 67–80;

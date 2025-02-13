@@ -2,16 +2,16 @@ these respects of the general course of control experience. It is neither
 desirable nor feasible, in the complexities of modern industrial society,
 to restrict governmental functions to a closed category fashioned by
 the near-absolutes of a dead past.
-Nor does greater validity attach to such strictures upon the develop-
-ment of public control as derive their primary impulse from want of
+Nor does greater validity attach to such strictures upon the development
+of public control as derive their primary impulse from want of
 confidence in government and politics. Governments can be and have
 been arbitrary, discriminatory, and tyrannical; and it is a sound
 instinct that seeks to restrict government intervention in economic
 affairs to the compelling requirements of public interest, centered upon
 the gradual but progressive improvement of the lot of the individual.
 But in a democratic society such collective requirements cannot be
-indefinitely ignored; and only government provides a sufficiently all-
-inclusive instrument to encompass and represent the entire community
+indefinitely ignored; and only government provides a sufficiently allinclusive
+instrument to encompass and represent the entire community
 in the totality of its economic relations. In time of war we dedicate our
 lives and all our resources to a vital common end, and we rely upon
 government unstintingly to effectuate this end. Common ends of great
@@ -21,8 +21,8 @@ constitute practical expressions of such collective purposes. Whether
 in peace or war, particular measures may be ill-adapted to the ends held
 in view, and may indeed prove positively harmful. Furthermore, the
 exercise of governmental authority may be impaired or vitiated by
-corrupt practices and inefficient methods. But such defects of govern-
-ment, occasionally resulting in situations sufficiently extreme to be
+corrupt practices and inefficient methods. But such defects of government,
+occasionally resulting in situations sufficiently extreme to be
 termed scandalous, have their counterparts in the administration of
 private business enterprise; and in any event, the remedy lies in the
 improvement of government in all its various branches a widely

@@ -14,21 +14,21 @@ equilibria in which they had been trapped.
 The Malthusian period witnessed many improvements in both the
 art of population projection and the quantity and quality of statistical
 data, together with the instruments employed to analyze them. A
-major objective was to eliminate distortions occasioned in crude mea-
-sures of fertility or mortality by differences or abnormalities in age,
+major objective was to eliminate distortions occasioned in crude measures
+of fertility or mortality by differences or abnormalities in age,
 sex, and marital composition. Gross and net reproduction rates came
 into use toward the close of the period, some years after they had been
 anticipated; they made it possible to determine the rate of increase per
-generation in a population of stable age distribution, a model de-
-veloped by A. J. Lotka as early as 1911. The demographer could then
+generation in a population of stable age distribution, a model developed
+by A. J. Lotka as early as 1911. The demographer could then
 cope with changes in age composition associated with adjustment to
-constant age-specific fertility and mortality rates, though not with un-
-predictable variations in mortality, fertility, or sex composition [16,
+constant age-specific fertility and mortality rates, though not with unpredictable
+variations in mortality, fertility, or sex composition [16,
 Ch. 12]. Population forecasters therefore resorted to projections of
 present populations based upon various sets of assumed age-specific
 fertility and mortality rates. Recourse was had also to logistic curves
-fitted to past populations, a method originated by Verhulst and redis-
-covered by Raymond Pearl and L. J. Reed, who forecast a maximum
+fitted to past populations, a method originated by Verhulst and rediscovered
+by Raymond Pearl and L. J. Reed, who forecast a maximum
 world population of about 2,646 million and a maximum American
 population of about 197 million as of around A.D. 2100 [10].
 II. A Time of Reconsideration: 1930-65

@@ -6,29 +6,29 @@ greatest exponent of classical economics, but as the real founder of
 the classical "system." By the time the theory had passed through the
 hands of his followers, particularly J. S. Mill, it had indeed achieved
 a triumph. By the middle of the nineteenth century, most economists,
-at least in Britain, undoubtedly were convinced that the basic prin-
-ciples of economics had been fully worked out, though doubtless much
+at least in Britain, undoubtedly were convinced that the basic principles
+of economics had been fully worked out, though doubtless much
 work would always remain for lesser minds to do in the "applied
 fields."
 III
 It is interesting to reflect on the nature of this triumph. Ricardo
 carried over intact Smith's philosophy of freedom. I think there can be
-little doubt that this fact, together with Ricardo's attack on the land-
-lords, was primarily the reason for the triumph. The policy implica-
-tions were thoroughly in accord with that particular phase of British
+little doubt that this fact, together with Ricardo's attack on the landlords,
+was primarily the reason for the triumph. The policy implications
+were thoroughly in accord with that particular phase of British
 economic development. Statesmen, industrialists, and merchants could
 readily understand and heartily endorse them. Indeed, they had by
 then long been living by these rules, and were doubtless delighted to
 find that they had all along been right, and even scientific.
 But few laymen could have known much about Ricardo's theory of
 value and distribution, any more than most laymen today (who like
-to divide us all into Keynesians and anti-Keynesians) have any un-
-derstanding of the Keynesian system, but base their bias, for or against,
+to divide us all into Keynesians and anti-Keynesians) have any understanding
+of the Keynesian system, but base their bias, for or against,
 solely on what they conceive to be the policy implications. For me the
-great paradox of classical economics is that, whereas it began with dy-
-namics, providing the rationale for revolutionary economic changes, it
-wound up in a tight system of static equilibrium theory, which in striv-
-ing for logical consistency became increasingly remote from reality.
+great paradox of classical economics is that, whereas it began with dynamics,
+providing the rationale for revolutionary economic changes, it
+wound up in a tight system of static equilibrium theory, which in striving
+for logical consistency became increasingly remote from reality.
 This I think we can ascribe mainly to Ricardo's theory of value and
 distribution. Economics had taken a major turn in the road- -a turn
 away from Smith's causes of wealth, and a turn which I think has
@@ -39,5 +39,5 @@ case under his own general theory, Keynes begins his Chapter II, on
 "The Postulates of Classical Economics," with the statement: "Most
 treatises on the theory of Value and Production are primarily concerned
 with the distribution of a given volume of employed resources between
-different uses and with the conditions which, assuming the employ-
-ment of this quantity of resources, determine their relative rewards
+different uses and with the conditions which, assuming the employment
+of this quantity of resources, determine their relative rewards

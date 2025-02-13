@@ -12,23 +12,23 @@ that if we shorten our time periods by dropping off a number of terminal
 years, we appreciably alter our results. We observed this fact earlier,
 as did Professor Williams in New Zealand, but this paradox has been
 most manifest when we omit the war years from 1916 on, in our
-United States time series. Finally, we have attempted various inter-
-spatial studies in which we use individual states as separate observa-
-tions. We have personally had no success with these attempts. The
+United States time series. Finally, we have attempted various interspatial
+studies in which we use individual states as separate observations.
+We have personally had no success with these attempts. The
 most ambitious study of this latter nature has, however, been made by
 my friend and former associate, Ernest Olson, and will be presented to
 this Association later in these meetings. I do not wish to anticipate the
 results of his paper, but I think it is proper to say that Mr. Olson has
-been able to develop a formula which makes differences between coun-
-tries in their real national income a mathematical function of (1) the
+been able to develop a formula which makes differences between countries
+in their real national income a mathematical function of (1) the
 total energy used, (2) the numbers of the working population, (3) the
 quantity of livestock reduced to comparable units, and (4) the amount
 of land and he has derived exponents which indicate the comparative
 importance of each. There is still much to be done in this direction and
 some hard puzzles remain to be solved, but Mr. Olson's comparative
 success offers us some hope that we may not face a completely blank
-wall in working with this third method for deriving the laws of pro-
-duction.
+wall in working with this third method for deriving the laws of production.
+
 Finally, I should like to point out that in the case of the United
 States, we were compelled because of lack of capital figures, to stop with
 1922 in our time series and with 1919 in our cross-section studies. We

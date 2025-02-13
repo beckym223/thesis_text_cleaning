@@ -1,5 +1,5 @@
-potential cropland or cropland and pasture in rotation. The net poten-
-tial addition to the then 478 millions of cropland was 245 million acres,
+potential cropland or cropland and pasture in rotation. The net potential
+addition to the then 478 millions of cropland was 245 million acres,
 making a total of 723 million acres. Considerable of the 285 million
 acres was cropland once, but has been abandoned so long that virtually
 it is new land.
@@ -8,8 +8,8 @@ more intensive use, first, by 1975, and then in succeeding decades? This
 will depend in part upon the demand for farm products at the time, both
 domestic and foreign. In what follows, the same assumptions will be
 made as in the P.M.P.C. analysis, except that the since-revised Census
-Bureau forecast of 209.5 million will be substituted for the 193.5 mil-
-lions of population in 1975 assumed in the P.M.P.C. analysis. If gross
+Bureau forecast of 209.5 million will be substituted for the 193.5 millions
+of population in 1975 assumed in the P.M.P.C. analysis. If gross
 national product and disposable income increase at the same 54 per
 cent rate per capita as assumed in the P.M.P.C. analysis, disposable
 income will increase 110 per cent over 1950 instead of the P.M.P.C.
@@ -20,14 +20,14 @@ for farm products will be weighted considerably on the side of foods
 of livestock origin. According to the revised P.M.P.C. analysis, there
 will in 1975 be 38 per cent more persons eating 17 per cent more meat
 per person and 30 per cent more poultry meat, and drinking 13 per cent
-more milk, than in 1950. This will amount to a total increase of two-
-thirds in the consumption of these three products. On the other side of
-the coin, total consumption of wheat, potatoes, and cotton were pro-
-jected to increase only one-third in spite of a 38 per cent increase in the
+more milk, than in 1950. This will amount to a total increase of twothirds
+in the consumption of these three products. On the other side of
+the coin, total consumption of wheat, potatoes, and cotton were projected
+to increase only one-third in spite of a 38 per cent increase in the
 population. The increase in consumption of meat and milk in the past
-few years has been offset a little by a further decline in butter con-
-sumption since 1950, but probably will not be from now on. Consump-
-tion of eggs and cheese is expected to increase at only about the average
+few years has been offset a little by a further decline in butter consumption
+since 1950, but probably will not be from now on. Consumption
+of eggs and cheese is expected to increase at only about the average
 rate for all foods. Over 6 times as many acres are required to produce
 a given number of calories in the form of meat, dairy and poultry
 products as in the form of foods for direct human consumption-cereal
@@ -39,5 +39,5 @@ that imports will rise from 10 to 15 per cent of the same base figure.
 The decline of exports will arise from efforts of other countries to be
 more self-sufficient in foods and fibres, and the increase in imports from
 our peoples' wanting to buy more farm products abroad with their
-larger incomes-more coffee, tea, fruits, nuts, etc. But agricultural sur-
-pluses have become much more of a problem than they were when
+larger incomes-more coffee, tea, fruits, nuts, etc. But agricultural surpluses
+have become much more of a problem than they were when

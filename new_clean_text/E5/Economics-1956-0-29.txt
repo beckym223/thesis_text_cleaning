@@ -81,8 +81,8 @@ $140
 869
 142.9
 27
-a The Farm Income Situation, U.S.D.A., October 31, 1955. Table 3, Net Income from farm-
-ing, including farm wages, plus incomes of members of farm households from all outside
+a The Farm Income Situation, U.S.D.A., October 31, 1955. Table 3, Net Income from farming,
+including farm wages, plus incomes of members of farm households from all outside
 sources work off the farm, interest and dividends, social security, pensions, rents, etc. For
 1940-54 only; the earlier estimates are compilations from several sources.
 b Ibid., Table 6.
@@ -95,12 +95,12 @@ appears to be only slightly more than half the nonfarm. It is highly
 
 
 #### Split:
-important, therefore, to recognize fully that the two series thus con-
-structed cannot be compared directly as they are, for the following
+important, therefore, to recognize fully that the two series thus constructed
+cannot be compared directly as they are, for the following
 reasons:
 1. One-tenth of the farm income is nonmoney income-farm-product
-food and fuel and use of farm dwelling-valued at the farm. If a com-
-parison with nonfarm income is to be made, these items must be
+food and fuel and use of farm dwelling-valued at the farm. If a comparison
+with nonfarm income is to be made, these items must be
 valued on a common basis, and the nonfarm basis will be best in this
 case. This would probably increase the farm income by $700 per farm
 since 1950, or $150 per capita. The best way to handle this particular
@@ -111,6 +111,6 @@ residue with the cash income of the farm family. Figured this way,
 the $150 would be increased considerably.
 2. The farm family has a larger fraction of nonworking children to
 support. More children are born to farm than to urban families, and
-large numbers of farm youth migrate to the cities almost at the be-
-ginning of their working years. Adjustments for this would bring farm
+large numbers of farm youth migrate to the cities almost at the beginning
+of their working years. Adjustments for this would bring farm
 and nonfarm per capita incomes at least $100 nearer together.

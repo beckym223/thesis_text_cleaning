@@ -2,8 +2,8 @@ Thus a large part of the retreat out of agriculture since 1940 has meant
 actual physical migration only to the extent of traveling to work and
 back each day.
 Tangible Productive Assets
-A full measure of agriculture's magnitude, however, requires in-
-cluding its land and capital goods as well as its labor force, the capital
+A full measure of agriculture's magnitude, however, requires including
+its land and capital goods as well as its labor force, the capital
 goods being largely stored-up labor used in further production in the
 form of land improvements, seedings, orchards, growing timber, farm
 buildings, farm equipment, productive livestock and workstock, etc.,
@@ -29,10 +29,10 @@ Assets* Assetsa
 (billions) (billions)
 Percentage
 of Total
-in Agri-
-General
-Whole-
-culture
+in AgriGeneral
+
+Wholeculture
+
 sale
 Price
 Farm
@@ -46,8 +46,8 @@ by
 Farmers
 (dollars)
 Farmb
-Non-
-farm
+Nonfarm
+
 1910
 38.9°
 53.0
@@ -138,8 +138,8 @@ farm
 1955 121.6
 "
 Agricultural Research and Agricultural Marketing Service data, and Statistical Abstract
-of the U.S., Table 359. Included in neither farm nor nonfarm are values of dwellings and con-
-sumer durables (including the consumption share of automobiles), public and institutional
+of the U.S., Table 359. Included in neither farm nor nonfarm are values of dwellings and consumer
+durables (including the consumption share of automobiles), public and institutional
 property, monetary gold and silver, and foreign assets. Producer durables are divided between
 farm and nonfarm.
 b Per worker mainly employed in agriculture, in Table I.

@@ -32,7 +32,7 @@ LOG P
 As I have constantly pointed out during the last twenty years, there
 is no reason why the exponents of capital and labor should be constant
 for all periods and economies. As a matter of fact, we have already
-seen that they are not and that there is some variation between coun-
-tries and years in the values of k and j. We would similarly expect
+seen that they are not and that there is some variation between countries
+and years in the values of k and j. We would similarly expect
 some variation to exist as between groups of industries within a country
 at any given time. Thus the values of the production function for the

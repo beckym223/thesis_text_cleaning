@@ -2,20 +2,20 @@ derstandings about what the other specialist was doing. Many people
 cannot understand that others may be talking about altogether
 different things when they use the same words.
 I am not happy about the practice of calling any study just because
-it deals with or employs a concept of the firm “economics" or "micro-
-economics." But we cannot issue licenses for the use of such terms
+it deals with or employs a concept of the firm “economics" or "microeconomics.
+" But we cannot issue licenses for the use of such terms
 and, hence, must put up with their rather free use. My own prejudices
-balk at designating organization theory as economics-but other peo-
-ple's prejudices are probably different from mine, and we gain little or
+balk at designating organization theory as economics-but other people'
+s prejudices are probably different from mine, and we gain little or
 nothing from arguing about the correct scope of our field.
 Now what conclusions from all our reviewing may we draw on the
 conflicts between marginal analysis, behavioral theory, and managerial
-theory of the firm? Fortunately, not much time is being wasted on de-
-scriptive studies of a narrowly behaviorist kind, in the sense of re-
-cording observed behavior without any prior theoretical design. Most
-proponents of behavioral studies of the firm are too competent theo-
-rists for that. As far as the proponents of managerial theories are con-
-cerned, they have never claimed to be anything but marginalists, and
+theory of the firm? Fortunately, not much time is being wasted on descriptive
+studies of a narrowly behaviorist kind, in the sense of recording
+observed behavior without any prior theoretical design. Most
+proponents of behavioral studies of the firm are too competent theorists
+for that. As far as the proponents of managerial theories are concerned,
+they have never claimed to be anything but marginalists, and
 the behavior goals they have selected as worthy for incorporation into
 behavior equations, along with the goal of making profits, were given
 differentiable form so that they could become part of marginal
@@ -27,8 +27,8 @@ Whether this marriage will last or end in divorce will depend chiefly on
 what offspring it will produce. If the match of the profit hypothesis
 with the various managerial hypotheses proves fertile of sufficiently
 interesting deductions, the prospects of a lasting marriage are good.
-It is not easy to judge the future sterility or fertility of this mar-
-riage between marginalism and managerialism, because most of us are
+It is not easy to judge the future sterility or fertility of this marriage
+between marginalism and managerialism, because most of us are
 inclined to underrate the kinds of problem on which we have never
 "While under profit maximization MR-MC=0, sales maximization requires that
 

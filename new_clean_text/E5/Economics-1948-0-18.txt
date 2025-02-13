@@ -8,8 +8,8 @@ A. Time series
 1907-29
 Victoriaa
 New South Wales b 1901-27
-B. Cross-section or inter-
-industry studies
+B. Cross-section or interindustry
+studies
 P=bLkCi
 N
 k
@@ -137,15 +137,15 @@ constructed earlier by Mr. Director in that it does not provide for the replacem
 price levels for the estimated depreciation on capital. For the Director study, see Douglas,
 The Theory of Wages, pp. 167–172.
 In the Commonwealth cross-section studies, the terms are defined as follows: (1) Labor
-(L) = average number employed of wage earners and salaried employees but generally exclud-
-ing working proprietors (except in 1934–35); (2) Capital (C) = value of plant and machinery,
+(L) = average number employed of wage earners and salaried employees but generally excluding
+working proprietors (except in 1934–35); (2) Capital (C) = value of plant and machinery,
 buildings, and land, but excluding working capital. The exclusion of working capital is the
 chief dissimilarity between this series and the definition of total capital used in the case of the
 United States and Canadian cross-section studies. We will try to revise the Australian capital
 figures to include working capital but this may be difficult. (3) Product (P) = value added by
 manufacturing. For all the years except 1934-35, this was defined as gross sales value minus
 (a) cost of materials used, (b) cost of fuel and light, and (c) cost of replacing tools and repairs
-to plants. In the 1934-35 study estimated deductions were made for fire insurance and work-
-men's compensation premiums, and also for estimated depreciation rates on the various types
-of capital goods used based on the rates estimated in the Production Bulletin, No. 29, Com-
-monwealth Bureau of Census and Statistics. For a further discussion of these issues, see Gunn
+to plants. In the 1934-35 study estimated deductions were made for fire insurance and workmen'
+s compensation premiums, and also for estimated depreciation rates on the various types
+of capital goods used based on the rates estimated in the Production Bulletin, No. 29, Commonwealth
+Bureau of Census and Statistics. For a further discussion of these issues, see Gunn

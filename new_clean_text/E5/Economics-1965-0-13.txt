@@ -1,22 +1,22 @@
 geous to the community" the statesman should avoid protective duties
 [10, pp. 485-86]. To the extent that theory was guiding Sidgwick,
 surely it was a theory of government rather than of economics.
-There is one primary reason why the theory is not, as a rule, coer-
-cive with respect to the policies that a believer in the theory must
-accept: a theory can usually be made to support diverse policy posi-
-tions. Theories present general relationships, and which part of a
-theory is decisive in a particular context is a matter of empirical evi-
-dence. Consider the wages-fund doctrine, if I may be permitted to refer
-to it without its almost inseparable prefix, notorious. This theory as-
-serted that there was a relatively fixed amount to be paid in wages in
+There is one primary reason why the theory is not, as a rule, coercive
+with respect to the policies that a believer in the theory must
+accept: a theory can usually be made to support diverse policy positions.
+Theories present general relationships, and which part of a
+theory is decisive in a particular context is a matter of empirical evidence.
+Consider the wages-fund doctrine, if I may be permitted to refer
+to it without its almost inseparable prefix, notorious. This theory asserted
+that there was a relatively fixed amount to be paid in wages in
 the short run, and that if one group got higher wages, other groups
-would get lower wages or be unemployed. It followed that if a particu-
-lar group of workers formed a union and managed to raise their wages,
+would get lower wages or be unemployed. It followed that if a particular
+group of workers formed a union and managed to raise their wages,
 other workers would bear the burden, and numerous disciples of the
 wages-fund doctrine accepted this policy view.18 But John Stuart Mill
 could argue, quite in the opposite direction, that since most workers
-would be at a subsistence level, at most the successful union would in-
-flict only short-run harm on other workers, whereas its higher income
+would be at a subsistence level, at most the successful union would inflict
+only short-run harm on other workers, whereas its higher income
 could be permanent. 19 And obviously it is a quantitative question
 whether the short-run costs or the permanent benefits were larger.
 What is true of the wages-fund theory is true of other theories: an
@@ -24,8 +24,8 @@ empirical question always insists upon intruding between the formal
 doctrine and its concrete application. The truly remarkable fact is not
 that economists accepting the same theory sometimes differ on policy,
 but that they differ so seldom. The wide consensus at any time comes,
-I suspect, from a tacit acceptance of the same implicit empirical as-
-sumptions by most economists. All classical economists accepted as a
+I suspect, from a tacit acceptance of the same implicit empirical assumptions
+by most economists. All classical economists accepted as a
 fact the belief that wage earners would not save, although they had no
 evidence on the matter. All modern economists believe they will never
 encounter Edgeworth's taxation paradox, with no more evidence. All
@@ -35,8 +35,8 @@ empirical evidence.
 These empirical consensuses have no doubt usually been correct—one
 can know a thing without a sophisticated study. Truth was born before
 modern statistics. Yet generations of economists also believed that over
-long periods diminishing returns would inevitably triumph over techno-
-logical advance in agriculture, a view that agricultural history of the
+long periods diminishing returns would inevitably triumph over technological
+advance in agriculture, a view that agricultural history of the
 last 100 years has coolly ignored.
 A second and lesser source of the loose connection between theory
 

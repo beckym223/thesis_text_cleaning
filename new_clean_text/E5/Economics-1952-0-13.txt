@@ -2,8 +2,8 @@ some more limited field. I have long since ceased to be interested in the
 theory of international trade; and I have long thought it naïve to speak
 of the theory of the business cycle. I strongly sympathize with Trevor
 Swan, the Australian economist, in his recent review of Hicks' book."1
-Hicks begins his book in his characteristically disarming way, describ-
-ing it as a "progress report," with "weak links"; but it soon becomes
+Hicks begins his book in his characteristically disarming way, describing
+it as a "progress report," with "weak links"; but it soon becomes
 apparent that his hope is that this may be the theory of the trade cycle,
 the next stage (after the theorists have approved) being “the concern
 of the statisticians, econometrists, and economic historians" to do the
@@ -38,10 +38,10 @@ based on the data rather than on any system of internal logic.
 As the theories pile up one on another, we find ourselves forced to classify (and also
 to sift and discard), to the point where this process of classification becomes itself a
 form of business-cycle theorizing; the results are almost certain to have stamped upon
-them the selection and emphasis which seem most acceptable to the classifier and inter-
-preter. Such work performs an invaluable service for the graduate students, whose success
-in their doctoral examinations turns so much upon the compendiousness of their knowl-
-edge of the literature. (I had wanted to say "compendiosity," but cannot find it in the
+them the selection and emphasis which seem most acceptable to the classifier and interpreter.
+Such work performs an invaluable service for the graduate students, whose success
+in their doctoral examinations turns so much upon the compendiousness of their knowledge
+of the literature. (I had wanted to say "compendiosity," but cannot find it in the
 dictionary.)
 There is, at the opposite extreme, the all-inclusive type of business-cycle theory (for
 which Swan nominates Kaldor's theory) into which almost any particular theory can be

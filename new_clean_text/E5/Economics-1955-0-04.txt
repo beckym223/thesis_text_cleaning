@@ -4,8 +4,8 @@ units should be classified by average income levels for a sufficiently long
 span so that they form income-status groups-say a generation or
 about 25 years. Within such a period, even when classified by secular
 income levels, units may shift from one ordinal group to another. It
-would, therefore, be necessary and useful to study separately the rela-
-tive share of units that, throughout the generation period of reference,
+would, therefore, be necessary and useful to study separately the relative
+share of units that, throughout the generation period of reference,
 were continuously within a specific ordinal group, and the share of the
 units that moved into that specific group; and this should be done for
 the shares of "residents" and "migrants" within all ordinal groups.
@@ -37,6 +37,6 @@ problems-react to long-term changes in income levels and shares, data
 on such an income structure are essential. An economic society can then
 be judged by the secular level of the income share that it provides for
 a given generation and for its children. The important corollary is that
-the study of long-term changes in the income distribution must distin-
-guish between changes in the shares of resident groups-resident within
+the study of long-term changes in the income distribution must distinguish
+between changes in the shares of resident groups-resident within
 either one or two generations and changes in the income shares of

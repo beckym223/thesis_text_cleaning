@@ -1,15 +1,15 @@
 The two optima thus far reviewed are primarily economic in content:
 they represent situations without particular moral or political flavor
 which, in significant senses, result mainly from individual choice. In
-these cases the interference of the state has for its purpose the widen-
-ing or extending of the field of individual choice, and not "ulterior"
+these cases the interference of the state has for its purpose the widening
+or extending of the field of individual choice, and not "ulterior"
 ends. Alternatively, it might be said that with respect to these two
 optima the political choices have for their aim the improved operation of
-individual economic choice. These characteristics fade away pro-
-gressively as we proceed to two further concepts of optimum.
+individual economic choice. These characteristics fade away progressively
+as we proceed to two further concepts of optimum.
 4
-I refer first to the "optimum propensity to save," a magnitude im-
-plicit in the Keynesian general equilibrium theory, first made explicit by
+I refer first to the "optimum propensity to save," a magnitude implicit
+in the Keynesian general equilibrium theory, first made explicit by
 Oscar Lange. The idea of an optimum amount of saving is a part of the
 theory which attributes cyclical depression or longer-run stagnation to
 over-saving. Optimum saving is that amount which is compatible with
@@ -24,8 +24,8 @@ reveals aside from wars and other disasters-a tendency toward net
 accumulation. With the very rich, it may appear simply as a residuum
 after all consumption demands are satisfied. With some persons, again
 more frequently found amongst the rich or quite well-to-do, it may arise
-from the desire to grow wealthy or more wealthy for purposes of dis-
-play, controlling other people's lives, or playing the game with higher
+from the desire to grow wealthy or more wealthy for purposes of display,
+controlling other people's lives, or playing the game with higher
 stakes. But again, as in an earlier context, we encounter the fact that
 not only is most of the national income received by the moderately and
 the less well-to-do, but also that these income classes account for the
@@ -34,14 +34,14 @@ exceptional and the one overwhelmingly important purpose is provision
 for the future.
 Now an economic optimum which runs in terms of limiting this
 activity is indeed a paradoxical kind of optimum. Providing security
-against the rainy day and old age from the fruits of one's own produc-
-tive activity may be an old-fashioned virtue, but it nevertheless pro-
-vides substantial net social saving. This does not imply opposition to
+against the rainy day and old age from the fruits of one's own productive
+activity may be an old-fashioned virtue, but it nevertheless provides
+substantial net social saving. This does not imply opposition to
 
 
 #### Split:
 * Oscar Lange, "The Rate of Interest and the Optimum Propensity to Consume,”
 Economica (Feb., 1938), pp. 12-32.
 5 Actually, Lange's argument results in optimum investment and not optimum saving.
-But for the present analysis, I accept the author's intended position and the usual interpreta-
-tion of his argument.
+But for the present analysis, I accept the author's intended position and the usual interpretation
+of his argument.

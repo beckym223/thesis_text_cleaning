@@ -16,12 +16,12 @@ INDUSTRIES 1889-1919
 
 #### Split:
 Year
-Number of Industries with Devia-
-tions of Less Than Two Standard
+Number of Industries with Deviations
+of Less Than Two Standard
 Errors of Estimate
-Number of Industries with Devia-
-tions of More Than Two Stand-
-ard Errors of Estimate
+Number of Industries with Deviations
+of More Than Two Standard
+Errors of Estimate
 Plus
 Minus
 Plus
@@ -67,11 +67,11 @@ which exceeded the theoretical values up to two standard errors as
 contrasted with 613 industries where the actual products fell below
 the theoretical by these amounts.
 The general framework of these later results is approximately what
-we would expect on theoretical grounds. The monopolistic and expand-
-ing industries tend to absorb large quantities of purchasing power at
+we would expect on theoretical grounds. The monopolistic and expanding
+industries tend to absorb large quantities of purchasing power at
 the expense of the rest of the economy. They would, therefore, be
 expected to show wider profit margins than the general average and
 each combined dose of labor and capital would consequently tend to
-yield a greater dollar value than would normally be the case. The with-
-drawal of this purchasing power would, moreover, exert a slight de-
-pressing influence upon each of the remaining industries so that we
+yield a greater dollar value than would normally be the case. The withdrawal
+of this purchasing power would, moreover, exert a slight depressing
+influence upon each of the remaining industries so that we

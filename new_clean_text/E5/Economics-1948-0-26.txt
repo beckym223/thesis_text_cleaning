@@ -1,6 +1,6 @@
 on the plant average basis than they are when industry aggregates are
-used and, indeed, average only .92. This gives an unmistakable in-
-dication of true diminishing returns so far as the size of individual
+used and, indeed, average only .92. This gives an unmistakable indication
+of true diminishing returns so far as the size of individual
 TABLE IV. A COMPARISON OF THE VALUES OF k AND j OBTAINED BY THE METHOD OF
 
 
@@ -102,18 +102,18 @@ N
 Multiplying both sides by N, we get formula (1).
 b Figures refer to Commonwealth of Australia 1934-35 A, which used the studies of C. H.
 Wickens, "The Commonwealth Statistical Allocation of Factory Output," Econ. Record
-(1929), pp. 226-33. The values of k and j for the industry aggregates were .56 and .42, re-
-spectively. The results of the plant averages for the Commonwealth for the years 1912, 1922-
+(1929), pp. 226-33. The values of k and j for the industry aggregates were .56 and .42, respectively.
+The results of the plant averages for the Commonwealth for the years 1912, 1922-
 23, 1926-27, 1936-37 were previously published. It was found that the values of k and j
 did not change greatly. Only one value of k, that for 1922-23, differed from the aggregate
-k, by an amount greater than σk. For further discussion, see Gunn and Douglas, "The Pro-
-duction Function for Australian Manufacturing," Quart. Jour. Econ., Vol. ĹVI (Nov.,
+k, by an amount greater than σk. For further discussion, see Gunn and Douglas, "The Production
+Function for Australian Manufacturing," Quart. Jour. Econ., Vol. ĹVI (Nov.,
 1941), pp. 108-29.
 plants is concerned. While much more study is needed to develop and
 to clarify this point, it is suggested that quite possibly American plants
 during this period were in practice developed beyond the point of
-maximum efficiency. Whether or not the differences between the re-
-spective kj's can be taken as a coefficient of managerial megalo-
-mania, I shall have to leave to the psychiatrists.24
+maximum efficiency. Whether or not the differences between the respective
+kj's can be taken as a coefficient of managerial megalomania,
+I shall have to leave to the psychiatrists.24
 * If this is a psychiatric problem, we can take consolation in the fact that the disease
 was apparently less acute in 1919 than in 1889.

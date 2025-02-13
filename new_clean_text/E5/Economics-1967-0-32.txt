@@ -4,35 +4,35 @@ for their problems to the records of selected large corporations. They
 take it for granted that their theory must be designed to explain and
 predict the behavior of these firms. This, however, is less so in the case
 of economists engaged in the analysis of relative prices, inputs, and
-outputs. They look for their problems to the records of entire indus-
-tries or industrial sectors. To be sure, some industries are dominated
-by large corporations, yet the accent of the analysis is not on the be-
-havior of these firms but at best on some of the results of that behav-
-ior. Where the focus is not on the behavior of the firm, a theory that
+outputs. They look for their problems to the records of entire industries
+or industrial sectors. To be sure, some industries are dominated
+by large corporations, yet the accent of the analysis is not on the behavior
+of these firms but at best on some of the results of that behavior.
+Where the focus is not on the behavior of the firm, a theory that
 requires information on particular firms to be "plugged in" seems to
 them less serviceable than a more general theory, at least as long as
 only qualitative, not numerical, results are sought. Hence, even if the
 "partial-equilibrium analyst” knows full well that the actual situation
 is not a really competitive one, he probably will still make a first try
-using the competitive model with good old-fashioned profit maximiza-
-tion. And if the results appear too odd, appropriate qualifications may
+using the competitive model with good old-fashioned profit maximization.
+And if the results appear too odd, appropriate qualifications may
 still be able to take care of them more simply than if he had started
 with a cumbersome managerial model. (In saying this, I am showing
 my bias.)
 It is revealing to ask what kind of theory we would apply, at least in
 a first approximation, if we were called upon to predict the results of
 various kinds of public-policy measures. For questions regarding
-short-run effects of changes in the corporation income tax (or an ex-
-cess-profits tax) I believe a strong case can be made in favor of a
+short-run effects of changes in the corporation income tax (or an excess-
+profits tax) I believe a strong case can be made in favor of a
 model of the firm with some managerial variables. If the problem is
 whether an increase in cigarette taxes is likely to be fully shifted onto
 the consumer or what portion of it may be absorbed by the producers,
 I may feel safer with a model that includes managerial objectives. If,
-however, the problem is what qualitative effects an increase in the im-
-port duty on a material used in several industries will have on its im-
-ports and on the prices and outputs of the various products of the in-
-dustries in question, I would be inclined to work with the simple hy-
-pothesis of profit maximization. I would find it far too cumbersome in
+however, the problem is what qualitative effects an increase in the import
+duty on a material used in several industries will have on its imports
+and on the prices and outputs of the various products of the industries
+in question, I would be inclined to work with the simple hypothesis
+of profit maximization. I would find it far too cumbersome in
 this case to go down to the level of the "real" firms; I could probably
 not obtain the necessary data and, even if I did, I might not be able to
 rely on the composite results obtained from a firm-by-firm analysis.

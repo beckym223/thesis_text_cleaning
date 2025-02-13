@@ -1,10 +1,10 @@
 There is another factor involved. One of the reasons for the lower
 rate of growth of the trade of the less developed countries is surely
 that practically all of them pursue highly protectionist policies. In my
-opinion, they are going in their protectionism far beyond what can pos-
-sibly be justified on infant-industry, terms-of-trade, or any other ra-
-tional grounds. But whether one accepts this judgment or not, high pro-
-tection reduces the volume of trade¹ and by the same token increases
+opinion, they are going in their protectionism far beyond what can possibly
+be justified on infant-industry, terms-of-trade, or any other rational
+grounds. But whether one accepts this judgment or not, high protection
+reduces the volume of trade¹ and by the same token increases
 the marginal benefit from trade.
 As for the terms of trade, the deterioration from the early 1950's is,
 of course, regrettable in the sense that the less developed countries
@@ -25,8 +25,8 @@ compared with the national income of the less developed areas of the
 
 
 #### Split:
-fact. See also D. H. Robertson [16]. It should be observed, however, that freer trade be-
-tween the industrial countries, although it may be less valuable than trade between industrial
+fact. See also D. H. Robertson [16]. It should be observed, however, that freer trade between
+the industrial countries, although it may be less valuable than trade between industrial
 and tropical countries on comparative cost grounds, can be beneficial through stimulating
 competition and counteracting monopolistic tendencies. This effect of free trade has been
 stressed by J. S. Mill and reiterated by modern theorists of integration, e.g., by Tibor

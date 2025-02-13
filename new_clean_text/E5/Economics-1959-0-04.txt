@@ -8,10 +8,10 @@ of Nations one of the great books of all time. On public-policy issues
 he spoke with the knowledge of a keen observer of contemporary
 affairs, the wisdom of a profound philosopher, and the convictions of a
 great moralist. He was concerned not so much with the discovery
-of new truths as with the application of sound principles in determin-
-ing the proper limits of governmental activity, and it was essentially a
-negative policy that he advocated. That negative policy was a reac-
-tion both against the teachings of the mercantilists and against the
+of new truths as with the application of sound principles in determining
+the proper limits of governmental activity, and it was essentially a
+negative policy that he advocated. That negative policy was a reaction
+both against the teachings of the mercantilists and against the
 web of administrative controls in which the economic activity of the
 sixteenth and seventeenth centuries had been enmeshed. But when he
 expounded his ideas the strands of this web had already been greatly
@@ -21,8 +21,8 @@ the factory system.
 I. The Classic Norm: Economic Individualism
 Smith, in defending economic individualism as a means of promoting
 the national welfare, conceived of the national income as the aggregate
-of individual incomes. As he put it, “the annual revenue of every so-
-ciety is always precisely equal to the exchangeable value of the whole
+of individual incomes. As he put it, “the annual revenue of every society
+is always precisely equal to the exchangeable value of the whole
 annual produce of its industry, or rather is precisely the same thing
 with that exchangeable value" [26, p. 423]. The way to maximize it
 is to let individuals maximize their own income in their own way. He
@@ -35,8 +35,8 @@ only his own gain, and he is in this, as in many other cases, led by an
 invisible hand to promote an end which was no part of his intention
 [26, p. 423].
 Promotion of the general welfare is a proper goal of statesmen, and
-they can achieve it by the abolition of all needless restrictions on eco-
-nomic activity. As Smith put it,
+they can achieve it by the abolition of all needless restrictions on economic
+activity. As Smith put it,
 All systems either of preference or of restraint, therefore, being thus
 completely taken away, the obvious and simple system of natural liberty
 establishes itself of its own accord. Every man, as long as he does not

@@ -1,8 +1,8 @@
 NUMBER TWO
 I
 A hundred years ago economists were much more pleased with
-their performance than they are today. But I submit that, if com-
-placency can ever be justified, there is much more reason for being
+their performance than they are today. But I submit that, if complacency
+can ever be justified, there is much more reason for being
 complacent today than there was then or even a quarter of a century
 ago. As regards command of facts, both statistical and historical, this
 is so obviously true that I need not insist. And if it be true of our
@@ -11,10 +11,10 @@ for their advance mainly depend upon fact finding. I must insist,
 however, on the proposition that our powers of analysis have grown
 in step with our stock of facts. A new organon of statistical methods
 has emerged, to some extent by our own efforts, that is bound to mean
-as much to us as it does to all the sciences, such as biology or experi-
-mental psychology, the phenomena of which are given in terms of
-frequency distributions. In response to this development and in al-
-liance with it, as well as independently, our own box of analytic tools
+as much to us as it does to all the sciences, such as biology or experimental
+psychology, the phenomena of which are given in terms of
+frequency distributions. In response to this development and in alliance
+with it, as well as independently, our own box of analytic tools
 has been greatly enriched: economic theory, in the instrumental sense
 of the term in which it means neither the teaching of ultimate ends
 of policy nor explanatory hypotheses but simply the sum total of our
@@ -26,8 +26,8 @@ the state of our science, this is owing to a number of causes that,
 though known all too well, should be repeated: a building plot on
 which old structures are being torn down and new ones erected is
 not an esthetic thing to behold; moreover, to a most discouraging extent
-the new structures are being currently discredited by premature at-
-tempts at utilitarian application; finally, the building area widens so
+the new structures are being currently discredited by premature attempts
+at utilitarian application; finally, the building area widens so
 
 
 #### Split:

@@ -1,23 +1,23 @@
-alienation; it is also inimical to individual-political and consumer sov-
-ereignty. Mathematically, the larger the city, the smaller is the relative
+alienation; it is also inimical to individual-political and consumer sovereignty.
+Mathematically, the larger the city, the smaller is the relative
 size of the resolute minority that could rule it [28]. Politically and
 psychologically, the larger the city, the weaker tends to be the belief of
 the voter that he can do anything to influence the ruling camarilla and
 improve his community. Finally, as political power is channeled into
 the hands of city-ruling minorities, the taxing power of the central
-government tends to be placed increasingly at the disposal of these mi-
-norities and perhaps in keeping with what one may call the Augustus
-Caesar principle of public finance. (You will recall Seutonius's ac-
-count. Caesar once considered discontinuing the practice of dis-
-tributing free grain, but he decided against it even though it was injur-
-ing Italian agriculture. "I did not carry out my purpose," he said, be-
-cause I felt "sure that the practice would one day be renewed by some-
-one ambitious of popular favor.")
-While notable contributions have been made to the economic analy-
-sis of fertility [3, 12], the explanation of its short-run behavior has
+government tends to be placed increasingly at the disposal of these minorities
+and perhaps in keeping with what one may call the Augustus
+Caesar principle of public finance. (You will recall Seutonius's account.
+Caesar once considered discontinuing the practice of distributing
+free grain, but he decided against it even though it was injuring
+Italian agriculture. "I did not carry out my purpose," he said, because
+I felt "sure that the practice would one day be renewed by someone
+ambitious of popular favor.")
+While notable contributions have been made to the economic analysis
+of fertility [3, 12], the explanation of its short-run behavior has
 not yet been made as economic as possible, nor have the actual and the
-potential feedback connections of household with economy been ade-
-quately identified and explored. If one allows for random variables and
+potential feedback connections of household with economy been adequately
+identified and explored. If one allows for random variables and
 treats certain fertility-affecting elements (religious and other values,
 rural-urban and educational differences) as short-run constants, one
 should be able to explain changes in gross reproduction in terms of
@@ -27,18 +27,18 @@ and curves representing costs of children. For a change in fertility
 reflects the response, usually lagged, of actual and potential households
 to changes in (a) the prices and character of alternatives to children,
 and (b) the benefits anticipated to be derivable from children and/or
-changes in the input costs of children, together with additions (sub-
-tractions) in costs associated with changes in family economic status.
+changes in the input costs of children, together with additions (subtractions)
+in costs associated with changes in family economic status.
 It must be assumed, of course, that fertility is easily controlled. This
 assumption is quite tenable in advanced countries, now that earlier
 contraceptive methods, including the unreliable "safe-period"-in
 Spain children who owe their existence to failure of this method are
 eponymously described as Oginitos after the method's discoverer (New
-Leader, Sept. 13, 1965, p. 7)-have been supplemented by contra-
-ceptive pills and cheap, effective intrauterine devices. It is essential
+Leader, Sept. 13, 1965, p. 7)-have been supplemented by contraceptive
+pills and cheap, effective intrauterine devices. It is essential
 also that the analyst view the child as the partial analogue of both a
 consumer's and a producer's durable good. Then the analytical as well
 as the empirical problem becomes one of isolating the determinants
 that affect the demand for, and the supply of, children at household
-levels, and thus give rise, along with household interdependence, to ag-
-gregate demand and supply functions.
+levels, and thus give rise, along with household interdependence, to aggregate
+demand and supply functions.

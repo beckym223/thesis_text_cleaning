@@ -25,8 +25,8 @@ New Zealand b
 1923-40
 18
 | - - - - - -| .54 ± .02
-B. Cross-section or inter-
-industry studies
+B. Cross-section or interindustry
+studies
 South Africa°
 (Browne)
 1937-38
@@ -97,22 +97,22 @@ price index of the cost of capital goods. We have fitted the function P=bL*C* to
 data as well as the P=bLC¹-* formula which Brown originally used.
 b Professor Williams computed his indexes as follows: (1) Product (P) = (a) value added by
 manufacturing (i.e., gross value minus cost of materials, fuel, and power), divided by (b) the
-price index of locally produced goods; (2) Capital (C)=initial value (1919–20) of land, build-
-ings, machinery, and plant minus depreciation actually written off each year, and plus the
+price index of locally produced goods; (2) Capital (C)=initial value (1919–20) of land, buildings,
+machinery, and plant minus depreciation actually written off each year, and plus the
 money value of additions to capital in each year adjusted for changes in the index, number of
 prices for buildings and construction; (3) Labor (L) = number of persons employed. See J. W.
 Williams, "Professor Douglas' Production Function," Econ. Record, Vol. XXI (1945), pp.
 55-63.
-• Professor Browne defined his units as follows: (1) Product (P)=net value added by manu-
-facturing or the gross value of output minus cost of materials, fuel, light, and power; (2) Labor
-(L) = average number of employees, including wage earners, salaried staff, managers, ac-
-countants, working proprietors, and persons regularly employed in their homes; (3) Capital
+• Professor Browne defined his units as follows: (1) Product (P)=net value added by manufacturing
+or the gross value of output minus cost of materials, fuel, light, and power; (2) Labor
+(L) = average number of employees, including wage earners, salaried staff, managers, accountants,
+working proprietors, and persons regularly employed in their homes; (3) Capital
 (C)=the value of land, buildings, machinery, plant, and tools (i.e., fixed capital only, with
 working capital excluded). See G. W. G. Browne, "The Production Function for South African
 Manufacturing Industry," South African Jour. Econ., Vol. XI (1943), p. 259.
 d This study differed from the former in that it was based on a more minute classification of
 industries and that it also separated white and black laborers and treated each as a separate
-factor of production. The value of k given is the sum of the k for white labor (.45) and for na-
-tive labor (.20). See Browne, op. cit., pp. 260–61. The value of σk could not be obtained by add-
-ing the σ of the exponents for native and white labor.
+factor of production. The value of k given is the sum of the k for white labor (.45) and for native
+labor (.20). See Browne, op. cit., pp. 260–61. The value of σk could not be obtained by adding
+the σ of the exponents for native and white labor.
 • The statistical series used were: (1) Labor (L) = average number of employed wage earn-

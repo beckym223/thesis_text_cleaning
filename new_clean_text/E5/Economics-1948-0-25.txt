@@ -9,8 +9,8 @@ figures for specific firms and plants within given industries for a specific
 year, we would then be able to develop production functions for each
 of the main industries with each firm serving as an observation. But
 the census has always been obligated to conceal the identity of the
-specific firms which report to it and can only publish totals by in-
-dustries and geographical subdivisions. This fact prevents us, at
+specific firms which report to it and can only publish totals by industries
+and geographical subdivisions. This fact prevents us, at
 present, from developing such studies, although it is barely possible
 that either the Census Bureau itself or employers' associations could
 carry them on, were they once convinced of their value. This cannot,

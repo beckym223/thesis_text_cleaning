@@ -1,10 +1,10 @@
 of empirical demonstration on the economic competence of the state
 has been the telling anecdote.
 Third, the economist's influence upon the formulation of economic
-policy has usually been small. It has been small because he lacked spe-
-cial professional knowledge of the comparative competence of the state
-and of private enterprise. The economist could and did use his eco-
-nomic theory, and it cannot be denied that the economist's economic
+policy has usually been small. It has been small because he lacked special
+professional knowledge of the comparative competence of the state
+and of private enterprise. The economist could and did use his economic
+theory, and it cannot be denied that the economist's economic
 theory is better than everyone's else economic theory. But for reasons
 to which I shall immediately turn, economic theory has not been an
 adequate platform. Lacking real expertise, and lacking also evangelical
@@ -15,14 +15,14 @@ If economists have lacked a firm empirical basis for their policy
 views, one might expect that guidance could be derived from their
 theoretical systems. In fact, to the degree that a theoretical system has
 been submitted to a variety of empirical tests, it is a source of more
-reliable knowledge than an empirical uniformity in solitary confine-
-ment. The theory allows tests of the relationship incorporated in the
+reliable knowledge than an empirical uniformity in solitary confinement.
+The theory allows tests of the relationship incorporated in the
 theory that are outside the view of the discoverer of the theory, so these
 tests are more challenging.
 The economists' policy views have in fact been much influenced by
 their theories. The vast preference for free international trade is surely
-based in good part upon the acceptance of the classical theory of com-
-parative costs. The general presumption against direct regulation of
+based in good part upon the acceptance of the classical theory of comparative
+costs. The general presumption against direct regulation of
 prices by the state is surely attributable in good part to the belief in
 the optimum properties of a competitive price system. The growth of
 support among economists for public regulation of economic activities
@@ -30,11 +30,11 @@ is at least partly due to the development of the theory of disharmonies
 between private and social costs, and partly also to the increasingly
 more rigorous standards of optimum economic performance.
 If it would be wrong to deny a substantial influence of economic
-theory on economists' policy views, it would be wronger still to sug-
-gest that the policies follow closely and unambiguously from the gen-
-eral theory. Our first example of free trade will suffice to illustrate the
-looseness of the connection. Smith supported free trade because he be-
-lieved that tariffs simply diverted resources from more productive to
+theory on economists' policy views, it would be wronger still to suggest
+that the policies follow closely and unambiguously from the general
+theory. Our first example of free trade will suffice to illustrate the
+looseness of the connection. Smith supported free trade because he believed
+that tariffs simply diverted resources from more productive to
 less productive fields, and the absence of an explanation for the rates
 of exchange between foreign and domestic commodities did not bother
 him. A century later Sidgwick argued that on theoretical grounds

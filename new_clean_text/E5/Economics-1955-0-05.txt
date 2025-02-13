@@ -1,18 +1,18 @@
-groups that, judged by their secular levels, migrate upward or down-
-ward on the income scale.
-Even if we had data to approximate the income structure just out-
-lined, the broad question posed at the start-how income inequality
+groups that, judged by their secular levels, migrate upward or downward
+on the income scale.
+Even if we had data to approximate the income structure just outlined,
+the broad question posed at the start-how income inequality
 changes in the process of a country's economic growth-could be
 answered only for growth under defined economic and social conditions.
 And, in fact, we shall deal with this question in terms of the experience
-of the now developed countries which grew under the aegis of the busi-
-ness enterprise. But even with this limitation, there are no statistics
+of the now developed countries which grew under the aegis of the business
+enterprise. But even with this limitation, there are no statistics
 that can be used directly for the purpose of measuring the secular
 income structure. Indeed, I have difficulty in visualizing how such
 information could practicably be collected-a difficulty that may be
-due to lack of familiarity with the studies of our colleagues in de-
-mography and sociology who have concerned themselves with prob-
-lems of generation or intergeneration mobility and status. But although
+due to lack of familiarity with the studies of our colleagues in demography
+and sociology who have concerned themselves with problems
+of generation or intergeneration mobility and status. But although
 we now lack data directly relevant to the secular income structure,
 the setting up of reasonably clear and yet difficult specifications is
 not merely an exercise in perfectionism. For if these specifications do
@@ -22,12 +22,12 @@ shares, then proper disclosure of our meaning and intentions is vitally
 useful. It forces us to examine and evaluate critically the data that are
 available; it prevents us from jumping to conclusions based on these
 inadequate data; it reduces the loss and waste of time involved in
-mechanical manipulations of the type represented by Pareto-curve-
-fitting to groups of data whose meaning, in terms of income concept,
-unit of observation, and proportion of the total universe covered, re-
-mains distressingly vague; and most important of all, it propels us
-toward a deliberate construction of testable bridges between the avail-
-able data and the income structure that is the real focus of our interest.
+mechanical manipulations of the type represented by Pareto-curvefitting
+to groups of data whose meaning, in terms of income concept,
+unit of observation, and proportion of the total universe covered, remains
+distressingly vague; and most important of all, it propels us
+toward a deliberate construction of testable bridges between the available
+data and the income structure that is the real focus of our interest.
 I. Trends in Income Inequality
 Forewarned of the difficulties, we turn now to the available data.
 These data, even when relating to complete populations, invariably

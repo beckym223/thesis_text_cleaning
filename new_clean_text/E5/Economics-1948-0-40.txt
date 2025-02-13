@@ -8,16 +8,16 @@ productivity function itself.
 It should, however, be frankly recognized that there is a further
 problem of reconciling these results with the known facts of imperfect
 competition, oligopoly and monopoly. Such conditions, as has been
-abundantly developed in our meetings, do exist, and, in fact, charac-
-terize a large sector of our economy. It is, therefore, puzzling to find
+abundantly developed in our meetings, do exist, and, in fact, characterize
+a large sector of our economy. It is, therefore, puzzling to find
 labor's share approximately equal to that which we would expect under
-conditions of perfect competition. A further investigation of this sub-
-ject is much needed. In the meantime, I would merely suggest that
+conditions of perfect competition. A further investigation of this subject
+is much needed. In the meantime, I would merely suggest that
 perhaps one answer to the paradox may be that the quasi-monopolies
 and oligopolies may have shared with their workers the excess gains
 which they have made at the expense of the consumers.
-We can make a further test of the degree to which W/P approxi-
-mates k and
+We can make a further test of the degree to which W/P approximates
+k and
 k
 by examining the results for the British Dominions
 k + j
@@ -32,8 +32,8 @@ value of
 was .56. It would scarcely be possible to have a closer
 k + j
 agreement than this.
-In the case of the four studies for the Australian states, the dif-
-ferences in the case of Victoria were not great, never exceeding two
+In the case of the four studies for the Australian states, the differences
+in the case of Victoria were not great, never exceeding two
 standard errors of k and being slightly reduced if the comparisons are
 made between W/P and
 k
